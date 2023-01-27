@@ -1,0 +1,181 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138100",
+      "text": "How am I not defending the 'scraps of Creationism'?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:24"
+    },
+    {
+      "nodeID": "138101",
+      "text": "You offer no positive evidence towards Creationism nor did you deny that the idea of Creationism as scientific was destroyed long ago.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:24"
+    },
+    {
+      "nodeID": "138102",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:46:24"
+    },
+    {
+      "nodeID": "138103",
+      "text": "How about the flood? It was not 'destroyed long ago'.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:24"
+    },
+    {
+      "nodeID": "138104",
+      "text": "Yes it was. The Noachian flood did not occur. Ignoring the obvious impossibilities of the ship/animals/etc, we see that the results a global flood would have caused do not exist.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:24"
+    },
+    {
+      "nodeID": "138105",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:46:24"
+    },
+    {
+      "nodeID": "138106",
+      "text": "I see results. I see lakes in the middle of continents with no rivers leading to them. How did they get there?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:24"
+    },
+    {
+      "nodeID": "138107",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:46:24"
+    },
+    {
+      "nodeID": "138108",
+      "text": "The fossil, genetic, and observed evidences that scientists base the theory of evolution on.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:24"
+    },
+    {
+      "nodeID": "138109",
+      "text": "Oh, so you're telling me that all of that 'evidence' is 100% true and beyond a reason of a doubt?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:24"
+    },
+    {
+      "nodeID": "138110",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:46:24"
+    },
+    {
+      "nodeID": "138111",
+      "text": "Biology IS evolution.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:24"
+    },
+    {
+      "nodeID": "138112",
+      "text": "Oh really... biology: a branch of knowledge that deals with living organisms and vital processes I don't see the synonym 'evolution' anywhere in that definition. Some biologists may study evolution, but biology is NOT evolution.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:24"
+    },
+    {
+      "nodeID": "138113",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:46:24"
+    },
+    {
+      "nodeID": "138114",
+      "text": "Biology is centered around the theory of evolution. Without it, biology is hardly biology.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:24"
+    },
+    {
+      "nodeID": "138115",
+      "text": "So biology didn't exist before the theory of evolution was formulated?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:24"
+    },
+    {
+      "nodeID": "138116",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:46:24"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182072",
+      "fromID": "138101",
+      "toID": "138102",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182073",
+      "fromID": "138102",
+      "toID": "138100",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182074",
+      "fromID": "138104",
+      "toID": "138105",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182075",
+      "fromID": "138105",
+      "toID": "138103",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182076",
+      "fromID": "138106",
+      "toID": "138107",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182077",
+      "fromID": "138107",
+      "toID": "138104",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182078",
+      "fromID": "138109",
+      "toID": "138110",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182079",
+      "fromID": "138110",
+      "toID": "138108",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182080",
+      "fromID": "138112",
+      "toID": "138113",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182081",
+      "fromID": "138113",
+      "toID": "138111",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182082",
+      "fromID": "138115",
+      "toID": "138116",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182083",
+      "fromID": "138116",
+      "toID": "138114",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

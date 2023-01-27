@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "159561",
+      "text": "It says right in the Constitution... 'We hold these truths to be self evident that all men are created equal, and that they are endowed with certain unalienable rights, life, liberty, and the pursuit of happiness...etc. etc.'' Wouldn't one gay man marrying another be considered a 'pursuit of happiness'? Just my thoughts.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:15"
+    },
+    {
+      "nodeID": "159562",
+      "text": "That is the declaration of independence not the constitution. I can go you one better admendment 9 and 10 talk about certain rights retained by the people. Amendment IX The enumeration in the Constitution, of certain rights, shall not be construed to deny or disparage others retained by the people.  Amendment X The powers not delegated to the United States by the Constitution, nor prohibited by it to the states, are reserved to the states respectively, or to the people. The conservatives would argue that by offering same sex marriage that their persute of happiness is denied by gay people even existing and that they have to look at us.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:15"
+    },
+    {
+      "nodeID": "159563",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:33:15"
+    },
+    {
+      "nodeID": "159564",
+      "text": "The conservatives would argue that by offering same sex marriage that their persute of happiness is denied by gay people even existing and that they have to look at us.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:15"
+    },
+    {
+      "nodeID": "159565",
+      "text": "My pursuit of happiness is denied by trees existing. Let's burn them down and destroy the environment. It's much better than me being unhappy.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:15"
+    },
+    {
+      "nodeID": "159566",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:33:15"
+    },
+    {
+      "nodeID": "159567",
+      "text": "LOL :) TOOO FUNNY emoticon_xgood",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:15"
+    },
+    {
+      "nodeID": "159568",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:33:15"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "197260",
+      "fromID": "159562",
+      "toID": "159563",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197261",
+      "fromID": "159563",
+      "toID": "159561",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197262",
+      "fromID": "159565",
+      "toID": "159566",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197263",
+      "fromID": "159566",
+      "toID": "159564",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197264",
+      "fromID": "159567",
+      "toID": "159568",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197265",
+      "fromID": "159568",
+      "toID": "159565",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

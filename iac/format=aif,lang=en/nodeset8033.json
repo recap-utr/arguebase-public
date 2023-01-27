@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151443",
+      "text": "The areas of America where divorce rates are highest are also frequently the areas where many conservative Christians live. Kentucky, Mississippi and Arkansas voted overwhelmingly for constitutional amendments to ban gay marriage. But they had three of the highest divorce rates in 2003, based on figures from the Census Bureau and the National Center for Health Statistics. http://www.sunherald.com/mld/thesunherald/news/world/10179154.htm",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:51"
+    },
+    {
+      "nodeID": "151444",
+      "text": "You know, I heard that from my mom last week. My parents moved to Arkansas when my dad retired a few years back. Mom thought it was amusing and disgusting that the state she moved to would have voted in such an alarming manor yet takes no measure to secure the marriages they already have. Ironic indeed.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:51"
+    },
+    {
+      "nodeID": "151445",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:14:51"
+    },
+    {
+      "nodeID": "151446",
+      "text": "just remember, guys together are a danger to marrage, and geting some on the side is not.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:51"
+    },
+    {
+      "nodeID": "151447",
+      "text": "Ever notice that the examples used to illustrate gay unions are usually males? I'm guessing that the typical male fantasy is still 'ok.' Sometimes it's just better to be a gal! :p",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:52"
+    },
+    {
+      "nodeID": "151448",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:14:52"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191504",
+      "fromID": "151444",
+      "toID": "151445",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191505",
+      "fromID": "151445",
+      "toID": "151443",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191506",
+      "fromID": "151447",
+      "toID": "151448",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191507",
+      "fromID": "151448",
+      "toID": "151446",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

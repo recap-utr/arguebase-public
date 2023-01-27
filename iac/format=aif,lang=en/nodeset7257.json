@@ -1,0 +1,181 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139858",
+      "text": "Atheism vs. Creationism-- I follow atheism. Creationism is too improbable for me; any thoughts?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:13"
+    },
+    {
+      "nodeID": "139859",
+      "text": "You follow atheism because you don't understand theism. It is Creation vs. Evolution BTW. I am a blunt person on the net. So excuse me. To put it plainly if you want a God get one, but if you don't then forget about it live and die. Do you want a God or not?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:13"
+    },
+    {
+      "nodeID": "139860",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:13"
+    },
+    {
+      "nodeID": "139861",
+      "text": "Is there any way to make a person out of a rib? I mean, it sounds like a fairy tale to me.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:13"
+    },
+    {
+      "nodeID": "139862",
+      "text": "So would genetic enhancement 100 years ago! Peace,",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:14"
+    },
+    {
+      "nodeID": "139863",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:14"
+    },
+    {
+      "nodeID": "139864",
+      "text": "Then who would create this very very clever being? In that case there has to be someone even more clever. Or maybe it really was god that envolved from the apes. ;)",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:14"
+    },
+    {
+      "nodeID": "139865",
+      "text": "I think you need to answer the same question I asked the other guy, who is God?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:14"
+    },
+    {
+      "nodeID": "139866",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:14"
+    },
+    {
+      "nodeID": "139867",
+      "text": "I was refering to the very, very clever someone you mentioned in your first post. Now you need to answer my question. Where did he/she/it came from?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:14"
+    },
+    {
+      "nodeID": "139868",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:14"
+    },
+    {
+      "nodeID": "139869",
+      "text": "May I ask what you mean when you say Who is God?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:14"
+    },
+    {
+      "nodeID": "139870",
+      "text": "Well you seemed to jump to a conclusion about who God was, not what he really is!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:14"
+    },
+    {
+      "nodeID": "139871",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:14"
+    },
+    {
+      "nodeID": "139872",
+      "text": "How are religious people and atheists alike? well they both take the bible to literal. Humans evolved from apes you say? that has NEVER been proven...again, the basis of science is THEORY and not FACTS",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:14"
+    },
+    {
+      "nodeID": "139873",
+      "text": "Well, there are several problems with your post. 1) You misunderstand the term 'THEORY' when applied to scientific theory's. A theory is a model to try to explain the FACTS. WHen it comes to evolution, the theory of evolution is a model to try to explain the observed fact that evolution happens.  Second of all, Humans and modern apes share the same ancestor. From a biological point of view, humans ARE apes that have a specialised brain. The third problem is many religious people take much of the bible as allegorical. That means they are able to reconcilate such things as scientific fact, (evolution, expanding universe, age of the universe, biology, geology and physics), and their belief in God.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:14"
+    },
+    {
+      "nodeID": "139874",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:14"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183318",
+      "fromID": "139859",
+      "toID": "139860",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183319",
+      "fromID": "139860",
+      "toID": "139858",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183320",
+      "fromID": "139862",
+      "toID": "139863",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183321",
+      "fromID": "139863",
+      "toID": "139861",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183322",
+      "fromID": "139865",
+      "toID": "139866",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183323",
+      "fromID": "139866",
+      "toID": "139864",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183324",
+      "fromID": "139867",
+      "toID": "139868",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183325",
+      "fromID": "139868",
+      "toID": "139865",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183326",
+      "fromID": "139870",
+      "toID": "139871",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183327",
+      "fromID": "139871",
+      "toID": "139869",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183328",
+      "fromID": "139873",
+      "toID": "139874",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183329",
+      "fromID": "139874",
+      "toID": "139872",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,187 @@
+{
+  "nodes": [
+    {
+      "nodeID": "158758",
+      "text": "Originally posted by Broker We control the government...of course I trust it.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:28"
+    },
+    {
+      "nodeID": "158759",
+      "text": "GW Bush, just authorized the killing of US citizens overseas in the war against terrorism. There is no wording for preventing the CIA to extend that mission within the borders of the USA. In effect the CIA has license to kill anyone, without a trial, without due process, without oversight, and all in secret. Trusting the government means you trust politicians to tell the truth, always do what in in the public interest, will nerver lie, cheat, or steal. The politicians are the government.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:28"
+    },
+    {
+      "nodeID": "158760",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:31:28"
+    },
+    {
+      "nodeID": "158761",
+      "text": "Originally posted by Tim As far as politicians and gun-control goes what I'm most worried about is the NRA corrupting politicians. When a gun control issue comes up, the NRA often buys the votes of legislators. http://salmonriver.com/tftd/19990523.html",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:28"
+    },
+    {
+      "nodeID": "158762",
+      "text": "if thats what we have to do to keep guns in the hands of americans then so be it.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:28"
+    },
+    {
+      "nodeID": "158763",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:31:28"
+    },
+    {
+      "nodeID": "158764",
+      "text": "Originally posted by Tim As far as politicians and gun-control goes what I'm most worried about is the NRA corrupting politicians.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:28"
+    },
+    {
+      "nodeID": "158765",
+      "text": "You make the supposition that before the NRA got to a politician that he/she was in a state of purity before. Q: How can you tell when a politican is telling a lie? A: When their lips move.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:28"
+    },
+    {
+      "nodeID": "158766",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:31:28"
+    },
+    {
+      "nodeID": "158767",
+      "text": "Originally posted by Broker I'm afraid of guns... makes me wish I had one. I wouldn't want it and they'll pay me for it... excellent! lol",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:28"
+    },
+    {
+      "nodeID": "158768",
+      "text": "why are you afraid of guns? has one jumped up and shot at you? you should never fear a gun, respect the gun.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:29"
+    },
+    {
+      "nodeID": "158769",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:31:29"
+    },
+    {
+      "nodeID": "158770",
+      "text": "Originally posted by Broker I think we should eliminate projectile guns altogether... I'd like to see a switch to high power stun weapons, so no one can be hurt.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:29"
+    },
+    {
+      "nodeID": "158771",
+      "text": "Sorry you feel like that. But in a fight to the death there are no rules of decent society. I will cheat and use every advantage I can get to stop a felon trying to take my life. When the police use a stun gun, his partner is standing right next to him as a backup with a 12-guage shotgun. When you sign up for that stun gun, buy then extra optional accessory of a partner with a 12-guage shotgun.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:29"
+    },
+    {
+      "nodeID": "158772",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:31:29"
+    },
+    {
+      "nodeID": "158773",
+      "text": "no! i believe the govt controls or wants to control us!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:29"
+    },
+    {
+      "nodeID": "158774",
+      "text": "That's the great thing about the 2nd amendment. It was designed to have the greatest impact after it is abolished.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:29"
+    },
+    {
+      "nodeID": "158775",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:31:29"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196684",
+      "fromID": "158759",
+      "toID": "158760",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196685",
+      "fromID": "158760",
+      "toID": "158758",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196686",
+      "fromID": "158762",
+      "toID": "158763",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196687",
+      "fromID": "158763",
+      "toID": "158761",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196688",
+      "fromID": "158765",
+      "toID": "158766",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196689",
+      "fromID": "158766",
+      "toID": "158764",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196690",
+      "fromID": "158768",
+      "toID": "158769",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196691",
+      "fromID": "158769",
+      "toID": "158767",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196692",
+      "fromID": "158771",
+      "toID": "158772",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196693",
+      "fromID": "158772",
+      "toID": "158770",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196694",
+      "fromID": "158774",
+      "toID": "158775",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196695",
+      "fromID": "158775",
+      "toID": "158773",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

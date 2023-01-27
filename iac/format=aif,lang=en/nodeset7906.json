@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "149733",
+      "text": "Here, let me lay it down for you. Let's say that you were living 2000 years ago and nothing made sense. Things like the world were flat, and we were living at the center of the universe. Is it small wonder too ANYONE that people grasp at any belief that gave them hope and purpose? People were stricken with poverty and death and disease and were told they had a way out if they took on the word of GOD.... (heaven). Now I myself would fricken love this idea and be all over it IF i lived back then. However I know better, I am smart, I can think for myself.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:16"
+    },
+    {
+      "nodeID": "149734",
+      "text": "I am not religious. However, I have spent some time studying religion, and your analysis is problematic. For a start, most early religions don't have an idea of heaven or even an afterlife (eg. early Judaism and Hinduism, both focused on success in this life). Also, 2000 years ago many were aware the world was round.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:16"
+    },
+    {
+      "nodeID": "149735",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:11:16"
+    },
+    {
+      "nodeID": "149736",
+      "text": "What i think is very un-neccessary is the fact that religion has caused so much death and destruction in the name of god. I don't have to be religious to know killing is wrong, i'm smart. But tell that to the knights in the crusades or blasphemers who were burned at the stake. That is not understanding as preached by most religious of any faith.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:16"
+    },
+    {
+      "nodeID": "149737",
+      "text": "Well, exactly. The point is that where culture has moved on, so has religion: the Catholic Church is notable now for not burning people. You could similarly argue against government, on the grounds that governments used to take part in Crusades, execute people for the smallest offense etc.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:16"
+    },
+    {
+      "nodeID": "149738",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:11:16"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "190302",
+      "fromID": "149734",
+      "toID": "149735",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190303",
+      "fromID": "149735",
+      "toID": "149733",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190304",
+      "fromID": "149737",
+      "toID": "149738",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190305",
+      "fromID": "149738",
+      "toID": "149736",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

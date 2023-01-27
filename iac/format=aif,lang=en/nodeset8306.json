@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "155538",
+      "text": "Prudence? What does prudence have to do with the ability of the people to freely exercise their constitutionally recognized and protected rights?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:00"
+    },
+    {
+      "nodeID": "155539",
+      "text": "So you would like pre-teens to have open access to buy, carry and use firearms? The prudence is because them exercising their 'rights' can lead to someone else being deprived of all of theirs.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:00"
+    },
+    {
+      "nodeID": "155540",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:01"
+    },
+    {
+      "nodeID": "155541",
+      "text": "That sounds more than a little paraniod.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:01"
+    },
+    {
+      "nodeID": "155542",
+      "text": "And you just sound ignorant. You wouldn't make this statement if you knew about how Britain's current gun control laws came into existence.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:01"
+    },
+    {
+      "nodeID": "155543",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:01"
+    },
+    {
+      "nodeID": "155544",
+      "text": "You/he could just have said 'slippery slope' in the first place; that argument is an old one, which I though was dealt with a long time ago. You can't disapprove of A on the grounds that it might lead to B - firstly because you have little to no evidence that it will, secondly because A is not necessary for B to happen and thirdly because that difference between A and B is all the argument you need to prevent B but be in favour of A. You can approve of punishing criminals but be against the death sentance.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:01"
+    },
+    {
+      "nodeID": "155545",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:01"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194400",
+      "fromID": "155539",
+      "toID": "155540",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194401",
+      "fromID": "155540",
+      "toID": "155538",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194402",
+      "fromID": "155542",
+      "toID": "155543",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194403",
+      "fromID": "155543",
+      "toID": "155541",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194404",
+      "fromID": "155544",
+      "toID": "155545",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194405",
+      "fromID": "155545",
+      "toID": "155542",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

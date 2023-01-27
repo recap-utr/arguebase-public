@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "154883",
+      "text": "Claims of 'irreducible complexity' simply aren't that complex, they typically amount to one of two things: 1) Defining 'irreducible complexity' in two different ways, and jumping between the two definitions to produce an argument that looks like it proves something but is actually a logical fallacy. e.g. I wish to use the term 'rotten bastard' to mean a man who plays cards. Your husband plays cards, therefore he is a rotten bastard, therefore you should get a divorce. 2) Finding obscure creatures or organs that for various reasons have not well been preserved in a fossil record, and declaring that since we do not know *precisely* how they evolved, they must not have evolved. I'm not sure if you can call this a logical fallacy so much as dishonesty or ignorance of the subtleties of evolutionary processes. e.g. 'I don't understand how a radio works, therefore it must be powered by magic rainbow unicorns'. It is a waste of time reading lengthy arguments which amount to the two featured above, so if you could perhaps cut down the 7 pages to the paragraph or two which do not revolve around these arguments, it might make for a more worthwhile debate.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:22:36"
+    },
+    {
+      "nodeID": "154884",
+      "text": "LOL! If my post was about either of those things, I would cut it down. The vast majority of the post, however, is about the objections to irreducible complexity.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:22:37"
+    },
+    {
+      "nodeID": "154885",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:22:37"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193932",
+      "fromID": "154884",
+      "toID": "154885",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193933",
+      "fromID": "154885",
+      "toID": "154883",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

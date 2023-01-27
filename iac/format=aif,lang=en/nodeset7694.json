@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "146357",
+      "text": "I havent heard from Brady in a while, so I thought I would rattle his cage door.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:04:07"
+    },
+    {
+      "nodeID": "146358",
+      "text": "Well if your not too bright then you have to come up with arguments like this. Grizzly must not be very bright, noted.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:04:07"
+    },
+    {
+      "nodeID": "146359",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:04:07"
+    },
+    {
+      "nodeID": "146360",
+      "text": "I bet he is on his yearly hunting trip",
+      "type": "I",
+      "timestamp": "2016-03-08 20:04:07"
+    },
+    {
+      "nodeID": "146361",
+      "text": "Well Im not hunting animals",
+      "type": "I",
+      "timestamp": "2016-03-08 20:04:07"
+    },
+    {
+      "nodeID": "146362",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:04:07"
+    },
+    {
+      "nodeID": "146363",
+      "text": "See rule 3a.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:04:07"
+    },
+    {
+      "nodeID": "146364",
+      "text": "And just what is rule 3a",
+      "type": "I",
+      "timestamp": "2016-03-08 20:04:07"
+    },
+    {
+      "nodeID": "146365",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:04:07"
+    },
+    {
+      "nodeID": "146366",
+      "text": "The Forum rules. 3a) No Personal attacks, insults, name calling, offensive generalizations, or labeling.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:04:07"
+    },
+    {
+      "nodeID": "146367",
+      "text": "I fail to see where I broke any of those rules, no names were called, there was no labeling, there was no none of it. And even if there was, you do it all the time, so what makes you any different. Practice what you preach Penfold.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:04:07"
+    },
+    {
+      "nodeID": "146368",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:04:08"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187922",
+      "fromID": "146358",
+      "toID": "146359",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187923",
+      "fromID": "146359",
+      "toID": "146357",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187924",
+      "fromID": "146361",
+      "toID": "146362",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187925",
+      "fromID": "146362",
+      "toID": "146360",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187926",
+      "fromID": "146364",
+      "toID": "146365",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187927",
+      "fromID": "146365",
+      "toID": "146363",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187928",
+      "fromID": "146367",
+      "toID": "146368",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187929",
+      "fromID": "146368",
+      "toID": "146366",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

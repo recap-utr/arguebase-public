@@ -1,0 +1,608 @@
+{
+  "nodes": [
+    {
+      "nodeID": "253017",
+      "text": "PAUL is a different kind of Republican",
+      "type": "I",
+      "timestamp": "2016-12-21 17:49:14"
+    },
+    {
+      "nodeID": "253018",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:49:14",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253019",
+      "text": "PAUL : I'm a different kind of Republican",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:15"
+    },
+    {
+      "nodeID": "253020",
+      "text": "M: PAUL : I'm a different kind of Republican",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:15"
+    },
+    {
+      "nodeID": "253021",
+      "text": "PAUL : I've introduced a five-year balanced budget",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:15"
+    },
+    {
+      "nodeID": "253022",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:49:15",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253023",
+      "text": "PAUL has introduced a five-year balanced budget",
+      "type": "I",
+      "timestamp": "2016-12-21 17:49:15"
+    },
+    {
+      "nodeID": "253024",
+      "text": "M: PAUL : I've introduced a five-year balanced budget",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:15"
+    },
+    {
+      "nodeID": "253025",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:49:16",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253026",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:49:16",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "253027",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:49:16",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "253028",
+      "text": "PAUL : I've introduced the largest tax cut in our history",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:16"
+    },
+    {
+      "nodeID": "253029",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:49:16",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253030",
+      "text": "PAUL has introduced the largest tax cut in the history of the USA",
+      "type": "I",
+      "timestamp": "2016-12-21 17:49:16"
+    },
+    {
+      "nodeID": "253031",
+      "text": "M: PAUL : I've introduced the largest tax cut in our history",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:17"
+    },
+    {
+      "nodeID": "253032",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:49:17",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "253033",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:49:17",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253034",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:49:17",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "253035",
+      "text": "PAUL : I stood for ten and a half hours on the Senate floor to defend your right to be left alone",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:17"
+    },
+    {
+      "nodeID": "253036",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:49:17",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253037",
+      "text": "PAUL stood for ten and a half hours on the Senate floor to defend Americans' right to be left alone",
+      "type": "I",
+      "timestamp": "2016-12-21 17:49:17"
+    },
+    {
+      "nodeID": "253038",
+      "text": "M: PAUL : I stood for ten and a half hours on the Senate floor to defend your right to be left alone",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:17"
+    },
+    {
+      "nodeID": "253039",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:49:17",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "253040",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:49:18",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253041",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:49:18",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "253042",
+      "text": "M: PAUL : But I've also gone to Chicago. I've gone to Detroit. I've been to Ferguson, I've been to Baltimore",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:18"
+    },
+    {
+      "nodeID": "253043",
+      "text": "PAUL : I've also gone to Chicago. I've gone to Detroit. I've been to Ferguson, I've been to Baltimore",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:18"
+    },
+    {
+      "nodeID": "253044",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:49:18",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253045",
+      "text": "PAUL has also gone to Chicago, Detroit, Ferguson, and Baltimore",
+      "type": "I",
+      "timestamp": "2016-12-21 17:49:18"
+    },
+    {
+      "nodeID": "253046",
+      "text": "M: PAUL : I've also gone to Chicago. I've gone to Detroit. I've been to Ferguson, I've been to Baltimore",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:18"
+    },
+    {
+      "nodeID": "253047",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:49:18",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253048",
+      "text": "PAUL : I want our party to be bigger, better and bolder",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:18"
+    },
+    {
+      "nodeID": "253049",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:49:19",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253050",
+      "text": "PAUL wants the Republican party to be bigger, better and bolder",
+      "type": "I",
+      "timestamp": "2016-12-21 17:49:19"
+    },
+    {
+      "nodeID": "253051",
+      "text": "M: PAUL : I want our party to be bigger, better and bolder",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:19"
+    },
+    {
+      "nodeID": "253052",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:49:19",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "253053",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:49:19",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253054",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:49:19",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "253055",
+      "text": "PAUL : I'm the only one that leads Hillary Clinton in five states that were won by President Obama",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:19"
+    },
+    {
+      "nodeID": "253056",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:49:19",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253057",
+      "text": "PAUL is the only one that leads Hillary Clinton in five states that were won by President Obama",
+      "type": "I",
+      "timestamp": "2016-12-21 17:49:20"
+    },
+    {
+      "nodeID": "253058",
+      "text": "M: PAUL : I'm the only one that leads Hillary Clinton in five states that were won by President Obama",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:20"
+    },
+    {
+      "nodeID": "253059",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:49:20",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253060",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:49:20",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253061",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:49:20",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "304437",
+      "fromID": "253018",
+      "toID": "253017",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304438",
+      "fromID": "253019",
+      "toID": "253018",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304439",
+      "fromID": "253022",
+      "toID": "253023",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304440",
+      "fromID": "253021",
+      "toID": "253022",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304441",
+      "fromID": "253019",
+      "toID": "253025",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304442",
+      "fromID": "253025",
+      "toID": "253021",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304443",
+      "fromID": "253023",
+      "toID": "253026",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304444",
+      "fromID": "253026",
+      "toID": "253017",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304445",
+      "fromID": "253025",
+      "toID": "253027",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304446",
+      "fromID": "253027",
+      "toID": "253026",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304447",
+      "fromID": "253029",
+      "toID": "253030",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304448",
+      "fromID": "253028",
+      "toID": "253029",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304449",
+      "fromID": "253030",
+      "toID": "253032",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304450",
+      "fromID": "253032",
+      "toID": "253017",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304451",
+      "fromID": "253019",
+      "toID": "253033",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304452",
+      "fromID": "253033",
+      "toID": "253028",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304453",
+      "fromID": "253033",
+      "toID": "253034",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304454",
+      "fromID": "253034",
+      "toID": "253032",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304455",
+      "fromID": "253036",
+      "toID": "253037",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304456",
+      "fromID": "253035",
+      "toID": "253036",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304457",
+      "fromID": "253037",
+      "toID": "253039",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304458",
+      "fromID": "253039",
+      "toID": "253017",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304459",
+      "fromID": "253019",
+      "toID": "253040",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304460",
+      "fromID": "253040",
+      "toID": "253035",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304461",
+      "fromID": "253040",
+      "toID": "253041",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304462",
+      "fromID": "253041",
+      "toID": "253039",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304463",
+      "fromID": "253044",
+      "toID": "253045",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304464",
+      "fromID": "253043",
+      "toID": "253044",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304465",
+      "fromID": "253035",
+      "toID": "253047",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304466",
+      "fromID": "253047",
+      "toID": "253043",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304467",
+      "fromID": "253049",
+      "toID": "253050",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304468",
+      "fromID": "253048",
+      "toID": "253049",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304469",
+      "fromID": "253050",
+      "toID": "253052",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304470",
+      "fromID": "253052",
+      "toID": "253045",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304471",
+      "fromID": "253043",
+      "toID": "253053",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304472",
+      "fromID": "253053",
+      "toID": "253048",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304473",
+      "fromID": "253053",
+      "toID": "253054",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304474",
+      "fromID": "253054",
+      "toID": "253052",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304475",
+      "fromID": "253056",
+      "toID": "253057",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304476",
+      "fromID": "253055",
+      "toID": "253056",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304477",
+      "fromID": "253048",
+      "toID": "253059",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304478",
+      "fromID": "253059",
+      "toID": "253055",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304479",
+      "fromID": "253055",
+      "toID": "253060",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304480",
+      "fromID": "253060",
+      "toID": "253019",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304481",
+      "fromID": "253019",
+      "toID": "253061",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304482",
+      "fromID": "253061",
+      "toID": "253017",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "253019",
+      "personID": "2580",
+      "timestamp": "2016-12-21 17:49:23",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

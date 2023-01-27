@@ -1,0 +1,121 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141184",
+      "text": "From another thread:  The head of the Federal Emergency Management Agency is directing people wanting to contribute to give to the Christian charities above. Again, where are the atheist organizations?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:06"
+    },
+    {
+      "nodeID": "141185",
+      "text": "Well, who was the head of FEMA appointed by? A brief googling seems to suggest a Mr. G.W. Bush was responsible, it wouldn't be entirely out of the question for dubya to appoint another member of the Christian right to this permission, who might be keen for Christian charities to be promoted. Other possible reasons are that religion is very strong in the south, and hence religious charities are more likely to have resources in the south, were the problem is. In any case, the red cross is by far the largest organisation involved, and as has already been estalbished is secular. And as I said before just because the organisations are Christian doesn't necessarily mean that their workers or contributors are.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:07"
+    },
+    {
+      "nodeID": "141186",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:53:07"
+    },
+    {
+      "nodeID": "141187",
+      "text": "Why would they 'necessarily' be Christian organizations?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:07"
+    },
+    {
+      "nodeID": "141188",
+      "text": "Because most people are Christian.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:07"
+    },
+    {
+      "nodeID": "141189",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:53:07"
+    },
+    {
+      "nodeID": "141190",
+      "text": "No argumewnt there.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:07"
+    },
+    {
+      "nodeID": "141191",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:53:07"
+    },
+    {
+      "nodeID": "141192",
+      "text": "You keep bringing up the Red Cross. The majority of donators to the Red Cross are most likely Christians as well, so what's your point? emoticon_confused",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:07"
+    },
+    {
+      "nodeID": "141193",
+      "text": "But is the Red Cross Christian? Obviously most contributors are Christian. That's obvious as most Americans are Christian.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:07"
+    },
+    {
+      "nodeID": "141194",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:53:07"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184260",
+      "fromID": "141185",
+      "toID": "141186",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184261",
+      "fromID": "141186",
+      "toID": "141184",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184262",
+      "fromID": "141188",
+      "toID": "141189",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184263",
+      "fromID": "141189",
+      "toID": "141187",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184264",
+      "fromID": "141190",
+      "toID": "141191",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184265",
+      "fromID": "141191",
+      "toID": "141188",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184266",
+      "fromID": "141193",
+      "toID": "141194",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184267",
+      "fromID": "141194",
+      "toID": "141192",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

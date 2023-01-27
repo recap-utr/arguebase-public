@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151428",
+      "text": "A woman died. At the hands of a gun-wielding killer.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:48"
+    },
+    {
+      "nodeID": "151429",
+      "text": "And I suppose you feel it would've been better if she died at the hands of a knife-wielding killer?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:49"
+    },
+    {
+      "nodeID": "151430",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:14:49"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191494",
+      "fromID": "151429",
+      "toID": "151430",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191495",
+      "fromID": "151430",
+      "toID": "151428",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

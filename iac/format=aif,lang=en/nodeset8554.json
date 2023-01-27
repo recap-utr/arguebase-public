@@ -1,0 +1,115 @@
+{
+  "nodes": [
+    {
+      "nodeID": "159202",
+      "text": "'Brady II' redefines 'firearm' to include magazines and 'any part of the action' (such as pins, springs, or screws). Thus, if a person has two Colt pistols, three Remington rifles, and four magazines (of any size) for each gun, then he own an 'arsenal.' Or if he owned two guns, six magazines, and a box of disassembled gun parts that contained five springs, five pins, and five screws, then he would own 23 'firearms' and would have to obtain an 'arsenal' license.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:21"
+    },
+    {
+      "nodeID": "159203",
+      "text": "The AR-15 has over 100 parts in its assembly. Under the language of the Brady II bill, if it had passed, anyone wishing to assemble their own AR-15 would be required to acquire an arsenal license just for one gun. A notice to all supporters of gun control: We're no longer compromising, we're not the ones who have to. From now on it's up to you to justify, in an intelligent and sophisticated manner, exactly how your proposals qualify as 'reasonable' and 'common sense' and how they 'don't infringe on the Second Amendment'.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:21"
+    },
+    {
+      "nodeID": "159204",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:32:21"
+    },
+    {
+      "nodeID": "159205",
+      "text": "Not to mention the cost on reloading, which I do. When I was shooting competitive Skeet, on competition weeks, it would not be unusual to shoot a 1000 rounds in that week. Translation, If I wanted to compete, I could not have ANY ammo for any other gun without being in violation of the law. Without a costly, and a government intrusive, arsenal license!  Primers are normally sold in a box of a 1000. And that is an absolutely common purchase. However, for consistency, and a hefty price savings, we would buy a sleeve of 5 boxes! But, I also own rifles and pistols too, and I reload for them also.  This law is called, the law of uninformed, and unintended consequences. You had one 38 special round and a box of primers! Got YA! You are an Anti-gun Jackpot! YOU Go to Jail! And the Anti-gun Extremist exclaim loudly! We got another Scum Bag Criminal out of our mists!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:21"
+    },
+    {
+      "nodeID": "159206",
+      "text": "When I shooting pin and jug shoots it was common to have a thousand each of .45ACP, .44SPL and .40 S&W.  Let us not forget the 3 unannounced visits per year from the boyos of Waco. At what time do you think they would be visiting? Working hours so the chance exists of no one home? Or in the dark of night to catch one asleep. What sort of visit do you expect. A polite knock on the door and wait for an answer? Or perhaps a crashing down of the door with a no knock entry? Thanks but no thanks.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:21"
+    },
+    {
+      "nodeID": "159207",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:32:21"
+    },
+    {
+      "nodeID": "159208",
+      "text": "Now I have to ask you Mr. and Ms America, Is it old Sarge and Tither the Criminals that you hope our gun laws, and our LEO's will be working this hard to catch? emoticon_xangel",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:21"
+    },
+    {
+      "nodeID": "159209",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:32:21"
+    },
+    {
+      "nodeID": "159210",
+      "text": "Sure hope know one kicks my door in, in the middle of the night!because it might be the last thing they ever did.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:21"
+    },
+    {
+      "nodeID": "159211",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:32:21"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "197002",
+      "fromID": "159203",
+      "toID": "159204",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197003",
+      "fromID": "159204",
+      "toID": "159202",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197004",
+      "fromID": "159206",
+      "toID": "159207",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197005",
+      "fromID": "159207",
+      "toID": "159205",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197006",
+      "fromID": "159208",
+      "toID": "159209",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197007",
+      "fromID": "159209",
+      "toID": "159206",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197008",
+      "fromID": "159210",
+      "toID": "159211",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197009",
+      "fromID": "159211",
+      "toID": "159206",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

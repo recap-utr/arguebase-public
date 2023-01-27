@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151849",
+      "text": "IT'S ALL LEGAL!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:36"
+    },
+    {
+      "nodeID": "151850",
+      "text": "Yes, that is the point!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:36"
+    },
+    {
+      "nodeID": "151851",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:15:36"
+    },
+    {
+      "nodeID": "151852",
+      "text": "And you have yet to prove with statistical evidence that gun shows cause problems. You only have theory and a few isolated incidents.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:36"
+    },
+    {
+      "nodeID": "151853",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:15:36"
+    },
+    {
+      "nodeID": "151854",
+      "text": "And you have yet to provide stats that prove that gun shows are a threat.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:36"
+    },
+    {
+      "nodeID": "151855",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:15:36"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191790",
+      "fromID": "151850",
+      "toID": "151851",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191791",
+      "fromID": "151851",
+      "toID": "151849",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191792",
+      "fromID": "151852",
+      "toID": "151853",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191793",
+      "fromID": "151853",
+      "toID": "151850",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191794",
+      "fromID": "151854",
+      "toID": "151855",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191795",
+      "fromID": "151855",
+      "toID": "151850",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "156798",
+      "text": "I think you, The Barbarian, and Close_slave_can are basically asking the same question. The problem is, you are all trying to look at these predictions through the lense of the evolutionary paradigm.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:55"
+    },
+    {
+      "nodeID": "156799",
+      "text": "Well, the question I am asking is for you to provide a valid scientific prediction based on creationism.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:55"
+    },
+    {
+      "nodeID": "156800",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:26:55"
+    },
+    {
+      "nodeID": "156801",
+      "text": "There were mammals created for a continuum of environments...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:55"
+    },
+    {
+      "nodeID": "156802",
+      "text": "Yes, exactly, lions/sea otters/seals/manatees/whales. Note that these creatures do not fit in a continuum of animals. The rest of the post seems irrelevant to the question of this 'continuum' prediction. If I am wrong, then you may clarify this. Otherwise, I see no reason to complicate this line of argument with side issues.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:55"
+    },
+    {
+      "nodeID": "156803",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:26:55"
+    },
+    {
+      "nodeID": "156804",
+      "text": "I admitted I may be wrong about my history. I notice that you haven't yet provided any documentation that I am.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:55"
+    },
+    {
+      "nodeID": "156805",
+      "text": "So let me get this straight - you admit that you are wrong, and you want me to provide documentation to prove this admission correct? emoticon_confused How about we both simply agree that you were wrong and move on.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:56"
+    },
+    {
+      "nodeID": "156806",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:26:56"
+    },
+    {
+      "nodeID": "156807",
+      "text": "So let me get this straight - you admit that you are wrong, and you want me to provide documentation to prove this admission correct?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:56"
+    },
+    {
+      "nodeID": "156808",
+      "text": "So Gup20 wants to play word games. (Sigh) This is usually a sign that he or she has run out of logical arguments. Anyway, this topic is in another thread. I won't discuss it here.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:56"
+    },
+    {
+      "nodeID": "156809",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:26:56"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195284",
+      "fromID": "156799",
+      "toID": "156800",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195285",
+      "fromID": "156800",
+      "toID": "156798",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195286",
+      "fromID": "156802",
+      "toID": "156803",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195287",
+      "fromID": "156803",
+      "toID": "156801",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195288",
+      "fromID": "156805",
+      "toID": "156806",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195289",
+      "fromID": "156806",
+      "toID": "156804",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195290",
+      "fromID": "156808",
+      "toID": "156809",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195291",
+      "fromID": "156809",
+      "toID": "156807",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "nodeID": "211294",
+      "text": "Rabid-Duck-King : can we go through a damn question without attacking Hillary Clinton",
+      "type": "L",
+      "timestamp": "2016-10-31 17:03:50"
+    },
+    {
+      "nodeID": "211296",
+      "text": "we can't go through a damn question without attacking CLINTON",
+      "type": "I",
+      "timestamp": "2016-10-31 17:03:50"
+    },
+    {
+      "nodeID": "220934",
+      "text": "WALKER : people like Hillary Clinton think you grow the economy by growing Washington",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:05"
+    },
+    {
+      "nodeID": "264288",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 09:35:06",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264289",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-09 09:35:07",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "264290",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-09 09:35:07",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "319666",
+      "fromID": "220934",
+      "toID": "264288",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319667",
+      "fromID": "264288",
+      "toID": "211294",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319668",
+      "fromID": "211296",
+      "toID": "264289",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319669",
+      "fromID": "264289",
+      "toID": "220934",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319670",
+      "fromID": "264288",
+      "toID": "264290",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319671",
+      "fromID": "264290",
+      "toID": "264289",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

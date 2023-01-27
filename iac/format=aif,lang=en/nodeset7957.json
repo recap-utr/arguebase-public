@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "150520",
+      "text": "strictly by word definition, 'sin' is 'transgression of God's law' as described in the Bible. in fact, the Bible is the only source of the law of God, and therefore the definition of sin. 'sin' can only really only apply to those who believe that the Bible is entirely true (i.e., the laws that are allegedly God's laws are in fact God's laws) the theory of evolution directly condradictory to the story of creation in Genesis the problem is, if evolution is indeed true, then the story in Genesis is false. and if Genesis is false, then the Bible is not entirely true. and if the Bible is not entirely true, there is reason to doubt that any other feats of God as stated in the Bible (including describing his law, and even inspiring man for that matter). and if we doubt that the Bible was God's inspired word to man, then its just a book with a bunch of stories. its like a domino effect so far the validity of the theory of evolution is questionable, and creationists and christians on a whole are clinging to this. I think creation has finally met its match, and both are on a more-or-less even playing field. creationists assert that creation is a fact, evolutionists assert that evolution is a fact, and neither of the two can really dominate as far as evidence, so both are 'theories with holes'. accepting creation or evolution has come down to a matter of personal belief rather than based on solid truth, as far as I see",
+      "type": "I",
+      "timestamp": "2016-03-08 20:12:51"
+    },
+    {
+      "nodeID": "150521",
+      "text": "While that definition of sin is true, the Hebrew definition means missing the mark. You could stretch it to mean unfit in English. And you're technically wrong about the bible. Modernly it is one book, but bible means little books. For a time they were floating around in clusters. So academically they are self contained and unrelated. The apocryphal books are 'secret' books. Religious scholars eventually decided they were just a bunch of stories, and most never made it in the bible. Look at Song of Solomon it made the cut, and people still have problems with it being put in, yet it conflicts with nothing.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:12:51"
+    },
+    {
+      "nodeID": "150522",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:12:51"
+    },
+    {
+      "nodeID": "150523",
+      "text": "the problem is, if evolution is indeed true, then the story in Genesis is false. and if Genesis is false, then the Bible is not entirely true Or perhaps Genesis is a moral story and isn't supposed to be a literal event. In which case the Bible remains true. In fact many Christians, Jews and Muslims take this view.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:12:51"
+    },
+    {
+      "nodeID": "150524",
+      "text": "Without the Fall, Jesus would have no need to come to earth and be resurrected. Without Genesis, the entire bible-as-literal kinda falls apart.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:12:51"
+    },
+    {
+      "nodeID": "150525",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:12:51"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "190854",
+      "fromID": "150521",
+      "toID": "150522",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190855",
+      "fromID": "150522",
+      "toID": "150520",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190856",
+      "fromID": "150524",
+      "toID": "150525",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190857",
+      "fromID": "150525",
+      "toID": "150523",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

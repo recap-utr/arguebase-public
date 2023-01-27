@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157484",
+      "text": "And primarily American evangelical protestants at that, but that's a mouthful. What I'm asking really is that given they're promoting Jewish scripture, why are they ignoring Jewish interpretation? It just seems bizare.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:32"
+    },
+    {
+      "nodeID": "157485",
+      "text": "Well, you will find claims amoung this group that 'If Jews understood their own scriptures, they would accept Jesus as their Lord and Savior', and 'Christians are fullfilled Jews'.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:32"
+    },
+    {
+      "nodeID": "157486",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:28:32"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195770",
+      "fromID": "157485",
+      "toID": "157486",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195771",
+      "fromID": "157486",
+      "toID": "157484",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "136391",
+      "text": "A well regulated militia being necessary to the security of a free state, the right of the people to keep and bear arms shall not be infringed. The individual right to keep and bear arms shall not be denied or infringed by the State or a political subdivision of the State.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:42:57"
+    },
+    {
+      "nodeID": "136392",
+      "text": "Other states have made similar revisions. I would encourage people in states that haven't to push their elected officials to do so.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:42:57"
+    },
+    {
+      "nodeID": "136393",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:42:57"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "180844",
+      "fromID": "136392",
+      "toID": "136393",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180845",
+      "fromID": "136393",
+      "toID": "136391",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

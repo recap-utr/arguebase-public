@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "146280",
+      "text": "No. They are no longer making the decisions and therefore should not be allowed to pick.  However, if a criminal requests the death penalty, are there retrials to ensure the state isn't killing a innocent person?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:55"
+    },
+    {
+      "nodeID": "146281",
+      "text": "Well I don't support ever using the death penalty but as long as we're saying there is the death penalty and allowing them to choose then definately don't have retrials. They shouldn't want to send an innocent person to prison for life either so it should have been pretty clear they were guilty already. If they don't want to kill an innocent person, stick to life in prison.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:55"
+    },
+    {
+      "nodeID": "146282",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:03:55"
+    },
+    {
+      "nodeID": "146283",
+      "text": "Do you think that a criminal that faces life in prison should have the right to choose to be put to death instead?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:55"
+    },
+    {
+      "nodeID": "146284",
+      "text": "Yes. ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:55"
+    },
+    {
+      "nodeID": "146285",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:03:55"
+    },
+    {
+      "nodeID": "146286",
+      "text": "I agree entirely. Death is a much kinder sentence than life in prison, if you are sentenced to life, you should get to suffer for the whole bit.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:55"
+    },
+    {
+      "nodeID": "146287",
+      "text": "So what you are saying is that the actual purpose of prison is to be raped in the shower by some 400 pound guy called Betty? Or brutalised by a guard with an inferiority complex...and these don't strike you as cruel and unusual?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:55"
+    },
+    {
+      "nodeID": "146288",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:03:56"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187864",
+      "fromID": "146281",
+      "toID": "146282",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187865",
+      "fromID": "146282",
+      "toID": "146280",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187866",
+      "fromID": "146284",
+      "toID": "146285",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187867",
+      "fromID": "146285",
+      "toID": "146283",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187868",
+      "fromID": "146287",
+      "toID": "146288",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187869",
+      "fromID": "146288",
+      "toID": "146286",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138668",
+      "text": "Do you not even get statutory sick pay?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:34"
+    },
+    {
+      "nodeID": "138669",
+      "text": "You have to be off for more than 4 days and after that I would get the princely sum of \u00a379.15 per week..hardly worth having. Unlike teachers I cannot stay at home and get paid when it snows too.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:34"
+    },
+    {
+      "nodeID": "138670",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:47:34"
+    },
+    {
+      "nodeID": "138671",
+      "text": "The Queen doesn't allow them to get sick. ;)",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:34"
+    },
+    {
+      "nodeID": "138672",
+      "text": "And you are on intimate terms with the Queen, eh? emoticon_xdonno By the way, what is it exactly that that little thingy above signifies? I hope I have used the right emotive whatchamacallit.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:34"
+    },
+    {
+      "nodeID": "138673",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:47:34"
+    },
+    {
+      "nodeID": "138674",
+      "text": "Unlike teachers, your workplace doesn't rely on the vast majority of staff being present to function at all. I was available for work throughout the cold weather, but was told to stay at home, as colleagues travelling from further afield couldn't get in.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:34"
+    },
+    {
+      "nodeID": "138675",
+      "text": "I dont think I have heard a more pathtic excuse for a long time. All but a few of my colleagues could get into work during the very worst of the weather..why? because they didnt get paid otherwise. There needs only be a tiny amount of snow for UK teachers to stay away in droves...what a joke! Strangely enough when I went to school both the pupils and the teachers seem to manage to get to school in the snow.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:34"
+    },
+    {
+      "nodeID": "138676",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:47:34"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182470",
+      "fromID": "138669",
+      "toID": "138670",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182471",
+      "fromID": "138670",
+      "toID": "138668",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182472",
+      "fromID": "138672",
+      "toID": "138673",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182473",
+      "fromID": "138673",
+      "toID": "138671",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182474",
+      "fromID": "138675",
+      "toID": "138676",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182475",
+      "fromID": "138676",
+      "toID": "138674",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

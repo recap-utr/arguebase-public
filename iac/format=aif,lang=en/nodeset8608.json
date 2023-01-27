@@ -1,0 +1,157 @@
+{
+  "nodes": [
+    {
+      "nodeID": "160100",
+      "text": "If I can find the time, is anyone here interested in debating the virgin birth in the debate section? I would debate it didn't happen.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:34:19"
+    },
+    {
+      "nodeID": "160101",
+      "text": "Actually Hank I agree with you. I don't believe it happened either. I am curious to hear your opinion on the matter.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:34:19"
+    },
+    {
+      "nodeID": "160102",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:34:19"
+    },
+    {
+      "nodeID": "160103",
+      "text": "Where's the evidence? So far there's a lot of pontificating, and 'I don't believe it,' but there's nothing to support any conclusion in favor of, or against the virgin birth. 'I don't believe it' is just as valid and rooted in truth as 'I believe it.' It is not rooted in fact or historical or archaeological evidence.  Zee",
+      "type": "I",
+      "timestamp": "2016-03-08 20:34:19"
+    },
+    {
+      "nodeID": "160104",
+      "text": "Yes but the proposal was for a formal type debate judged by a third party. Here we are just discussing the debate so far. Welcome to the forum.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:34:19"
+    },
+    {
+      "nodeID": "160105",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:34:19"
+    },
+    {
+      "nodeID": "160106",
+      "text": "If god could create the world in 7 days then he sure as hell could get someone pregnant.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:34:19"
+    },
+    {
+      "nodeID": "160107",
+      "text": "So parthenegenic births are always female. Where did the X chromosome come from? Is this another case of 'POOF, it was a miracle' when faced with reality?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:34:19"
+    },
+    {
+      "nodeID": "160108",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:34:19"
+    },
+    {
+      "nodeID": "160109",
+      "text": "Your an idiot Hank. If god could create the world in 7 days then he sure as hell could get someone pregnant.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:34:19"
+    },
+    {
+      "nodeID": "160110",
+      "text": "Well, that aughta shut you up, eh Hank? LOL! :p  Way to disprove the virgin birth, IMRAHIL. Of course neither the virgin birth story or the creation story are true. If a similar occurance were to happen today, the same ppl who believe it could have happened in antiquity would consider it ridiculous, and scrutinize the occurance to a degree they would never question their dogma.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:34:19"
+    },
+    {
+      "nodeID": "160111",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:34:20"
+    },
+    {
+      "nodeID": "160112",
+      "text": "Since God is omnipotent that is true. Omni means all. Potent means able to have intercourse. Wow I think I may have won Hank's debate and the only proof you need is at dictionary.com",
+      "type": "I",
+      "timestamp": "2016-03-08 20:34:20"
+    },
+    {
+      "nodeID": "160113",
+      "text": "Well as long as you ignore the evidence, why do you need proof. Blind faith works just fine.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:34:20"
+    },
+    {
+      "nodeID": "160114",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:34:20"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "197652",
+      "fromID": "160101",
+      "toID": "160102",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197653",
+      "fromID": "160102",
+      "toID": "160100",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197654",
+      "fromID": "160104",
+      "toID": "160105",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197655",
+      "fromID": "160105",
+      "toID": "160103",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197656",
+      "fromID": "160107",
+      "toID": "160108",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197657",
+      "fromID": "160108",
+      "toID": "160106",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197658",
+      "fromID": "160110",
+      "toID": "160111",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197659",
+      "fromID": "160111",
+      "toID": "160109",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197660",
+      "fromID": "160113",
+      "toID": "160114",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197661",
+      "fromID": "160114",
+      "toID": "160112",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

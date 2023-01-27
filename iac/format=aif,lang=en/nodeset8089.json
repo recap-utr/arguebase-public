@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152274",
+      "text": "Don't let him off the hook that easily. Make him explain its development in the womb.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:39"
+    },
+    {
+      "nodeID": "152275",
+      "text": "Oh! You mean how it's a tail during the earlier stages of fetal develop-- emoticon_xdonno  Ah, now I see. That was supposed to be the trick. Sorry Electrolyte, but that was not a funny joke.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:39"
+    },
+    {
+      "nodeID": "152276",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:16:39"
+    },
+    {
+      "nodeID": "152277",
+      "text": "You know, I'm all for punny jokes (even moreso than most people), but that's not what I meant. I seriously want a designist explanation for the development, as opposed to the Hovindian 'it is an anchor point for muscles' explanation of its existence. (Although, it's not as if we don't have any examples that don't have that 'problem.')",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:39"
+    },
+    {
+      "nodeID": "152278",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:16:39"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192090",
+      "fromID": "152275",
+      "toID": "152276",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192091",
+      "fromID": "152276",
+      "toID": "152274",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192092",
+      "fromID": "152277",
+      "toID": "152278",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192093",
+      "fromID": "152278",
+      "toID": "152275",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "154411",
+      "text": "The most practical triumph of science over religion is not the acceptance of the fact of evolution by the pope, or of the acknowledgement of a heliocentric solar system... it was in the seventeenth centuary, when churches began to put up lightning conductors",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:35"
+    },
+    {
+      "nodeID": "154412",
+      "text": "I was reminded of this, also...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:35"
+    },
+    {
+      "nodeID": "154413",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:21:35"
+    },
+    {
+      "nodeID": "154414",
+      "text": "And in those 150 years, all the evolutionists in the world haven't been able to falsify or debunk the book of Genesis. Of course, in their own deluded minds, they actually believe they have done just that.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:36"
+    },
+    {
+      "nodeID": "154415",
+      "text": "And this from the person who when I used to debate him and did something like this complained about 'parroting'? Hypocrite much?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:36"
+    },
+    {
+      "nodeID": "154416",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:21:36"
+    },
+    {
+      "nodeID": "154417",
+      "text": "Evolution is supposed to be science, and is said to not address religion.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:36"
+    },
+    {
+      "nodeID": "154418",
+      "text": "And the scientific papers don't. The problem here is that creationists don't read the scientific papers. In fact, most can't even understand them.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:36"
+    },
+    {
+      "nodeID": "154419",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:21:36"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193594",
+      "fromID": "154412",
+      "toID": "154413",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193595",
+      "fromID": "154413",
+      "toID": "154411",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193596",
+      "fromID": "154415",
+      "toID": "154416",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193597",
+      "fromID": "154416",
+      "toID": "154414",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193598",
+      "fromID": "154418",
+      "toID": "154419",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193599",
+      "fromID": "154419",
+      "toID": "154417",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

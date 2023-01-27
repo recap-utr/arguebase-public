@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "159758",
+      "text": "I believe there should be laws that only trained, licensed, medical professionals conduct abortions. I also would support that late pregnancy abortions only occur if a doctor deems them medically necesary.(And I mean DOCTOR - not religious leaders or peckerwood politicians - a DOCTOR.)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:41"
+    },
+    {
+      "nodeID": "159759",
+      "text": "(Playing devil's advocate) And, by what authority would you deny a woman's 'right to choose' an abortion that happens to be 'late in her pregnancy?'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:41"
+    },
+    {
+      "nodeID": "159760",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:33:42"
+    },
+    {
+      "nodeID": "159761",
+      "text": "Thats a very good question. To be honest - I would prefer no legislation period - but I would not get up in arms about a late term restriction like I described because 1) a fetus could very well survive outside of the mom at that point, 2) most reputable doctors won't conduct an abortion at that stage without a legitimate medical reason anyway.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:42"
+    },
+    {
+      "nodeID": "159762",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:33:42"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "197404",
+      "fromID": "159759",
+      "toID": "159760",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197405",
+      "fromID": "159760",
+      "toID": "159758",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197406",
+      "fromID": "159761",
+      "toID": "159762",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197407",
+      "fromID": "159762",
+      "toID": "159759",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

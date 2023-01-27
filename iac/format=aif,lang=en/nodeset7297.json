@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140441",
+      "text": "Originally posted by kelvin90701 The crime rates:  http://story.news.yahoo.com/news?tm...satoday/5248273 Does not even mention guns.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:29"
+    },
+    {
+      "nodeID": "140442",
+      "text": "So? There are other articles and books that do. Is your link the ultimate authority on the cause of crime?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:29"
+    },
+    {
+      "nodeID": "140443",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:51:29"
+    },
+    {
+      "nodeID": "140444",
+      "text": "This is clearly the worst one. Mr. Harvey shows his ignorance and dislike of science.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:29"
+    },
+    {
+      "nodeID": "140445",
+      "text": "So what if he dislikes science? If he believes something else, he has the right to believe that way. My problem here is that he shows more closed-mindedness to the viewpoints of others.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:29"
+    },
+    {
+      "nodeID": "140446",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:51:29"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183736",
+      "fromID": "140442",
+      "toID": "140443",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183737",
+      "fromID": "140443",
+      "toID": "140441",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183738",
+      "fromID": "140445",
+      "toID": "140446",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183739",
+      "fromID": "140446",
+      "toID": "140444",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

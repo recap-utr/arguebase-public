@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141217",
+      "text": "If a mother of a 2 week old baby decides that she isn't ready to be a mother, and sets her newborn child down in its crib and leaves it until it dies of malnourishment, isn't that murder? And if that is murder, how can one argue that intervening with a developing baby is not murder? To me there is no distinction between the two. Once fertilization has occured, we have a responsibility to do everything in our power to nourish the developement of that child.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:12"
+    },
+    {
+      "nodeID": "141218",
+      "text": "And if everything in our power fails and the fetus has a terminal condition that will threaten it's own life and the life of it's mother if it is born? Making blanket statements such as yours ignores reality. Is it murder to save the life of the mother at the fetus' expense? This question of course ignores that murder can only occur if it is an illegal killing.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:12"
+    },
+    {
+      "nodeID": "141219",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:53:12"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184286",
+      "fromID": "141218",
+      "toID": "141219",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184287",
+      "fromID": "141219",
+      "toID": "141217",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,115 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152542",
+      "text": "It all just depends on what you believe, doesn't it? You know there is no 'right' answer to your questions.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:14"
+    },
+    {
+      "nodeID": "152543",
+      "text": "Just because people have all sorts of views on the subject does not mean that there isn't a right answer.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:14"
+    },
+    {
+      "nodeID": "152544",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:17:14"
+    },
+    {
+      "nodeID": "152545",
+      "text": "Well it all depends on who is going to determine 'right', isn't it? Abortion is not math. There are no finite answers. Just a myriad of opinions which inevitable lead to either abortion is right or abortion is wrong. No different now then when Roe v Wade became law or any other times in history. I do like Aristotle's take; He taught that a fetus originally had a vegetable soul but he didn't say what kind of vegetable.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:14"
+    },
+    {
+      "nodeID": "152546",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:17:14"
+    },
+    {
+      "nodeID": "152547",
+      "text": "I do not understand why people are stuck in this mindset that we have to define ALL abortions as either right or wrong. In between, there is the option of calling abortion under certain circumstances as right or wrong or calling abortion in certain trimesters as right or wrong. Why limit yourself to the extreme views?  I do not believe that the original post asked for an absolute answer, just a survey of opinions. After all, as you say, abortion is not math and there is no one answer that everyone might agree with. However, the question of people's opinions on the beginning of personhood and how it relates to the morality of abortion lies at the very core of the debate on abortion rights. Really ... what other question is more relevant?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:14"
+    },
+    {
+      "nodeID": "152548",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:17:14"
+    },
+    {
+      "nodeID": "152549",
+      "text": "A newborn baby cannot think mentally like an adult, but does that make him/her a less valuable life?  if a woman is raped, and a two year old is raped, is it not an equally bad crime considering the two year old didn't understand what was happening? I have the same view on abortion.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:14"
+    },
+    {
+      "nodeID": "152550",
+      "text": "I think you misunderstand my view. I think that a third-term fetus is already sufficiently a person, so I would CERTAINLY consider a newborn baby a person. To me, a person is one who has the most basic, rudimentary sense of thought and emotion. A late-term fetus, from my point of view, is no less a person than an Einstein. An Einstein, of course, is much more useful to a much greater number of people, but from the simple point of view of whether he is more of a person, I would say not.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:14"
+    },
+    {
+      "nodeID": "152551",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:17:14"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192278",
+      "fromID": "152543",
+      "toID": "152544",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192279",
+      "fromID": "152544",
+      "toID": "152542",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192280",
+      "fromID": "152545",
+      "toID": "152546",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192281",
+      "fromID": "152546",
+      "toID": "152543",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192282",
+      "fromID": "152547",
+      "toID": "152548",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192283",
+      "fromID": "152548",
+      "toID": "152545",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192284",
+      "fromID": "152550",
+      "toID": "152551",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192285",
+      "fromID": "152551",
+      "toID": "152549",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

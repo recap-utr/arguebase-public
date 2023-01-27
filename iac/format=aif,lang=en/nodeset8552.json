@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "159184",
+      "text": "Exploitation in that many women, who are concerned about their circumstances, aren't thinking clearly. Now, here comes this doctor saying,'we'll kill your baby for free!' That's exploitation.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:18"
+    },
+    {
+      "nodeID": "159185",
+      "text": "You are SO insulting.  'Oh, the poor dears have been through too much and are considering an action I disagree with so they must not be thinking clearly.'  Who are you to say they aren't thinking clearly? I'll give it to you, Bassman. You are the most polite, best veiled misogynist I have ever encountered. You nearly had me fooled.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:18"
+    },
+    {
+      "nodeID": "159186",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:32:18"
+    },
+    {
+      "nodeID": "159187",
+      "text": "Doubtful. Term pregnancies more often than not result in both mother and child doing well. Amazing what medical technology can do, eh? Now, For those figures, go to www.abortionfacts.com. You'll find the stats concerning both physical and psychological effects of abortion. Specifically: increased infertility. increased risk of cancer, increased risk of hemmoraging from botched abortions, depression, suicide, post-abortion trauma syndrome, need I go on?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:18"
+    },
+    {
+      "nodeID": "159188",
+      "text": "Yes, we have already established that abortionfacts.com is a pro-life page and as such is far from impartial. You talk about 'increased risk of cancer, increased risk of hemmoraging from botched abortions, depression, suicide, post-abortion trauma syndrome' but these are measured against women who are not pregnant. While an abortion (like any medical proceedure) carries risks, these are far smaller than those posed by a woman who sees a pregnancy to term and gives birth. In case you forgot, here are the figures I quoted you before: http://www.acog.org/from_home/publications/green_journal/2004/v103n4p729.pdf Which shows an abortion will cause 0.3 deaths per 100,000 carried out in the USA in 1995. http://www.childinfo.org/eddb/mat_mortal/ Which shows a term pregnancy poses a 1 in 4085 risk of death over a womans lifetime in industrialised nations in 1995. You do the math- how many abortions does a woman need to have before she is as at much risk as that posed by taking pregnacies to term over her lifetime? Something like 80, which gives a good indication of the relative risk......",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:18"
+    },
+    {
+      "nodeID": "159189",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:32:18"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196990",
+      "fromID": "159185",
+      "toID": "159186",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196991",
+      "fromID": "159186",
+      "toID": "159184",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196992",
+      "fromID": "159188",
+      "toID": "159189",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196993",
+      "fromID": "159189",
+      "toID": "159187",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

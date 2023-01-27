@@ -1,0 +1,3026 @@
+{
+  "nodes": [
+    {
+      "nodeID": "257228",
+      "text": "BAIER : the first budget you proposed as senator cut all financial aid to Israel",
+      "type": "L",
+      "timestamp": "2016-12-22 15:22:58"
+    },
+    {
+      "nodeID": "257229",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:22:58",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257230",
+      "text": "the first budget PAUL proposed as senator cut all financial aid to Israel",
+      "type": "I",
+      "timestamp": "2016-12-22 15:22:58"
+    },
+    {
+      "nodeID": "257231",
+      "text": "Rory: BAIER : the first budget you proposed as senator cut all financial aid to Israel",
+      "type": "L",
+      "timestamp": "2016-12-22 15:22:58"
+    },
+    {
+      "nodeID": "257232",
+      "text": "Rory: BAIER : You have since changed your view on that issue",
+      "type": "L",
+      "timestamp": "2016-12-22 15:22:58"
+    },
+    {
+      "nodeID": "257233",
+      "text": "Rory: PAUL : BAIER : You have since changed your view on that issue",
+      "type": "L",
+      "timestamp": "2016-12-22 15:22:58"
+    },
+    {
+      "nodeID": "257234",
+      "text": "Rory: PAUL : You have since changed your view on that issue",
+      "type": "L",
+      "timestamp": "2016-12-22 15:22:59"
+    },
+    {
+      "nodeID": "257235",
+      "text": "BAIER : You have since changed your view on that issue",
+      "type": "L",
+      "timestamp": "2016-12-22 15:22:59"
+    },
+    {
+      "nodeID": "257236",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:22:59",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257237",
+      "text": "PAUL has since changed his view on that issue",
+      "type": "I",
+      "timestamp": "2016-12-22 15:22:59"
+    },
+    {
+      "nodeID": "257238",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 15:22:59",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257239",
+      "text": "PAUL : What made you change your mind",
+      "type": "L",
+      "timestamp": "2016-12-22 15:22:59"
+    },
+    {
+      "nodeID": "257240",
+      "text": "Pure Questioning",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:22:59",
+      "scheme": "PureQuestioning",
+      "schemeID": "91"
+    },
+    {
+      "nodeID": "257241",
+      "text": "PAUL changed his mind because of XXX",
+      "type": "I",
+      "timestamp": "2016-12-22 15:23:00"
+    },
+    {
+      "nodeID": "257242",
+      "text": "Rory: PAUL : What made you change your mind",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:00"
+    },
+    {
+      "nodeID": "257243",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 15:23:00",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257244",
+      "text": "PAUL : I'm the only one on the stage who actually has a five-year budget that balances",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:00"
+    },
+    {
+      "nodeID": "257245",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:00",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257246",
+      "text": "PAUL is the only one on the stage who actually has a five-year budget that balances",
+      "type": "I",
+      "timestamp": "2016-12-22 15:23:00"
+    },
+    {
+      "nodeID": "257247",
+      "text": "Rory: PAUL : I'm the only one on the stage who actually has a five-year budget that balances",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:00"
+    },
+    {
+      "nodeID": "257248",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 15:23:00",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257249",
+      "text": "PAUL : I've put pencil to paper",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:00"
+    },
+    {
+      "nodeID": "257250",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:01",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257251",
+      "text": "PAUL has put pencil to paper",
+      "type": "I",
+      "timestamp": "2016-12-22 15:23:01"
+    },
+    {
+      "nodeID": "257252",
+      "text": "Rory: PAUL : I've put pencil to paper",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:01"
+    },
+    {
+      "nodeID": "257253",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 15:23:01",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257254",
+      "text": "PAUL : I would cut spending, and I've said exactly where",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:01"
+    },
+    {
+      "nodeID": "257255",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:01",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257256",
+      "text": "PAUL would cut spending, and PAUL has said exactly where",
+      "type": "I",
+      "timestamp": "2016-12-22 15:23:01"
+    },
+    {
+      "nodeID": "257257",
+      "text": "Rory: PAUL : I would cut spending, and I've said exactly where",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:01"
+    },
+    {
+      "nodeID": "257258",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 15:23:02",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257259",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-22 15:23:02",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "257260",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:02",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "257261",
+      "text": "PAUL : Each one of my budgets has taken a meat axe to foreign aid",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:02"
+    },
+    {
+      "nodeID": "257262",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:02",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257263",
+      "text": "Each one of PAULs budgets has taken a meat axe to foreign aid",
+      "type": "I",
+      "timestamp": "2016-12-22 15:23:02"
+    },
+    {
+      "nodeID": "257264",
+      "text": "Rory: PAUL : Each one of my budgets has taken a meat axe to foreign aid",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:02"
+    },
+    {
+      "nodeID": "257265",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 15:23:02",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257266",
+      "text": "PAUL :  we ought to quit sending it to countries that hate us",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:02"
+    },
+    {
+      "nodeID": "257267",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:03",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257268",
+      "text": "we ought to quit sending it to countries that hate us",
+      "type": "I",
+      "timestamp": "2016-12-22 15:23:03"
+    },
+    {
+      "nodeID": "257269",
+      "text": "Rory: PAUL :  we ought to quit sending it to countries that hate us",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:03"
+    },
+    {
+      "nodeID": "257270",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 15:23:03",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257271",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-22 15:23:03",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "257272",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:03",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "257273",
+      "text": "PAUL : we ought to quit sending it to countries that burn our flag",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:03"
+    },
+    {
+      "nodeID": "257274",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:03",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257275",
+      "text": "we ought to quit sending it to countries that burn our flag",
+      "type": "I",
+      "timestamp": "2016-12-22 15:23:04"
+    },
+    {
+      "nodeID": "257276",
+      "text": "Rory: PAUL : we ought to quit sending it to countries that burn our flag",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:04"
+    },
+    {
+      "nodeID": "257277",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 15:23:04",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257278",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-12-22 15:23:04",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "257279",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:04",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "257280",
+      "text": "PAUL : Israel is not one of those",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:04"
+    },
+    {
+      "nodeID": "257281",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:04",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257282",
+      "text": "Israel is not one of those",
+      "type": "I",
+      "timestamp": "2016-12-22 15:23:04"
+    },
+    {
+      "nodeID": "257283",
+      "text": "Rory: PAUL : Israel is not one of those",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:04"
+    },
+    {
+      "nodeID": "257284",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 15:23:05",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257285",
+      "text": "NETANYAHU : ultimately, Israel will be stronger when we're independent",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:05"
+    },
+    {
+      "nodeID": "257286",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:05",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257287",
+      "text": "ultimately, Israel will be stronger when we're independent",
+      "type": "I",
+      "timestamp": "2016-12-22 15:23:05"
+    },
+    {
+      "nodeID": "257288",
+      "text": "Rory: NETANYAHU : even Benjamin Netanyahu said that ultimately, they will be stronger when they're independent",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:05"
+    },
+    {
+      "nodeID": "257289",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:05",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257290",
+      "text": "PAUL : even Benjamin Netanyahu said that ultimately, they will be stronger when they're independent",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:05"
+    },
+    {
+      "nodeID": "257291",
+      "text": "Rory: PAUL : NETANYAHU : even Benjamin Netanyahu said that ultimately, they will be stronger when they're independent",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:05"
+    },
+    {
+      "nodeID": "257292",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 15:23:06",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257293",
+      "text": "PAUL : My position is exactly the same",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:06"
+    },
+    {
+      "nodeID": "257294",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:06",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257295",
+      "text": "My position is exactly the same",
+      "type": "I",
+      "timestamp": "2016-12-22 15:23:06"
+    },
+    {
+      "nodeID": "257296",
+      "text": "Rory: PAUL : My position is exactly the same",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:06"
+    },
+    {
+      "nodeID": "257297",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 15:23:06",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257298",
+      "text": "PAUL : We shouldn't borrow money from China to send it anywhere",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:06"
+    },
+    {
+      "nodeID": "257299",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:06",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257300",
+      "text": "We shouldn't borrow money from China to send it anywhere",
+      "type": "I",
+      "timestamp": "2016-12-22 15:23:06"
+    },
+    {
+      "nodeID": "257301",
+      "text": "Rory: PAUL : We shouldn't borrow money from China to send it anywhere",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:07"
+    },
+    {
+      "nodeID": "257302",
+      "text": "PAUL : why don't we start with eliminating aid to our enemies",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:07"
+    },
+    {
+      "nodeID": "257303",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:07",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257304",
+      "text": "why don't we start with eliminating aid to our enemies",
+      "type": "I",
+      "timestamp": "2016-12-22 15:23:07"
+    },
+    {
+      "nodeID": "257305",
+      "text": "Rory: PAUL : why don't we start with eliminating aid to our enemies",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:07"
+    },
+    {
+      "nodeID": "257306",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 15:23:07",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257307",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-22 15:23:07",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "257308",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:07",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "257309",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 15:23:08",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257310",
+      "text": "BAIER : you still say that Israel could be one of the countries that is cut from financial aid",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:08"
+    },
+    {
+      "nodeID": "257311",
+      "text": "Assertive Questioning",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:08",
+      "scheme": "AssertiveQuestioning",
+      "schemeID": "73"
+    },
+    {
+      "nodeID": "257312",
+      "text": "PAUL says Israel could be one of the countries that is cut from financial aid",
+      "type": "I",
+      "timestamp": "2016-12-22 15:23:08"
+    },
+    {
+      "nodeID": "257313",
+      "text": "Rory: BAIER : you still say that Israel could be one of the countries that is cut from financial aid",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:08"
+    },
+    {
+      "nodeID": "257314",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 15:23:08",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257315",
+      "text": "Rory: PAUL : I still say exactly what my original opinion is",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:08"
+    },
+    {
+      "nodeID": "257316",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 15:23:08",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257317",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:08",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    },
+    {
+      "nodeID": "257318",
+      "text": "PAUL : Do you borrow money from China to send it to anyone",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:08"
+    },
+    {
+      "nodeID": "257319",
+      "text": "Rhetorical Questioning",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:09",
+      "scheme": "RhetoricalQuestioning",
+      "schemeID": "85"
+    },
+    {
+      "nodeID": "257320",
+      "text": "you don't borrow money from China to send it to anyone",
+      "type": "I",
+      "timestamp": "2016-12-22 15:23:09"
+    },
+    {
+      "nodeID": "257321",
+      "text": "Rory: PAUL : Do you borrow money from China to send it to anyone",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:09"
+    },
+    {
+      "nodeID": "257322",
+      "text": "PAUL : I still say exactly what my original opinion is",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:09"
+    },
+    {
+      "nodeID": "257323",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:09",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257324",
+      "text": "PAUL still says exactly what PAUL's original opinion is",
+      "type": "I",
+      "timestamp": "2016-12-22 15:23:09"
+    },
+    {
+      "nodeID": "257325",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 15:23:09",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257326",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-22 15:23:10",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "257327",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:10",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "257328",
+      "text": "PAUL : Out of your surplus, you can help your allies",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:10"
+    },
+    {
+      "nodeID": "257329",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:10",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257330",
+      "text": "Out of your surplus, you can help your allies",
+      "type": "I",
+      "timestamp": "2016-12-22 15:23:10"
+    },
+    {
+      "nodeID": "257331",
+      "text": "Rory: PAUL : Out of your surplus, you can help your allies",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:10"
+    },
+    {
+      "nodeID": "257332",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 15:23:10",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257333",
+      "text": "PAUL : Israel is a great ally",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:10"
+    },
+    {
+      "nodeID": "257334",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:10",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257335",
+      "text": "Israel is a great ally",
+      "type": "I",
+      "timestamp": "2016-12-22 15:23:11"
+    },
+    {
+      "nodeID": "257336",
+      "text": "Rory: PAUL : Israel is a great ally",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:11"
+    },
+    {
+      "nodeID": "257337",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 15:23:11",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257338",
+      "text": "PAUL : this is no particular animus of Israel",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:11"
+    },
+    {
+      "nodeID": "257339",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:11",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257340",
+      "text": "this is no particular animus of Israel",
+      "type": "I",
+      "timestamp": "2016-12-22 15:23:11"
+    },
+    {
+      "nodeID": "257341",
+      "text": "Rory: PAUL : this is no particular animus of Israel",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:11"
+    },
+    {
+      "nodeID": "257342",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 15:23:11",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257343",
+      "text": "PAUL : we cannot give away money we don't have",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:11"
+    },
+    {
+      "nodeID": "257344",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:12",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257345",
+      "text": "we cannot give away money we don't have",
+      "type": "I",
+      "timestamp": "2016-12-22 15:23:12"
+    },
+    {
+      "nodeID": "257346",
+      "text": "Rory: PAUL : we cannot give away money we don't have",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:12"
+    },
+    {
+      "nodeID": "257347",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 15:23:12",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257348",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-22 15:23:12",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "257349",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:12",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "257350",
+      "text": "PAUL : We do not project power from bankruptcy court",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:12"
+    },
+    {
+      "nodeID": "257351",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:12",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257352",
+      "text": "We do not project power from bankruptcy court",
+      "type": "I",
+      "timestamp": "2016-12-22 15:23:13"
+    },
+    {
+      "nodeID": "257353",
+      "text": "Rory: PAUL : We do not project power from bankruptcy court",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:13"
+    },
+    {
+      "nodeID": "257354",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 15:23:13",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257355",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-22 15:23:13",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "257356",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:13",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "257357",
+      "text": "PAUL : We're borrowing a million dollars a minute",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:13"
+    },
+    {
+      "nodeID": "257358",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:13",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257359",
+      "text": "We're borrowing a million dollars a minute",
+      "type": "I",
+      "timestamp": "2016-12-22 15:23:13"
+    },
+    {
+      "nodeID": "257360",
+      "text": "Rory: PAUL : We're borrowing a million dollars a minute",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:14"
+    },
+    {
+      "nodeID": "257361",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 15:23:14",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257362",
+      "text": "Example",
+      "type": "RA",
+      "timestamp": "2016-12-22 15:23:14",
+      "scheme": "Example",
+      "schemeID": "14"
+    },
+    {
+      "nodeID": "257363",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:14",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "257364",
+      "text": "PAUL : It's got to stop somewhere",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:14"
+    },
+    {
+      "nodeID": "257365",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:14",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257366",
+      "text": "It's got to stop somewhere",
+      "type": "I",
+      "timestamp": "2016-12-22 15:23:14"
+    },
+    {
+      "nodeID": "257367",
+      "text": "Rory: PAUL : It's got to stop somewhere",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:14"
+    },
+    {
+      "nodeID": "257368",
+      "text": "BAIER : what do you think of that answer",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:14"
+    },
+    {
+      "nodeID": "257369",
+      "text": "Pure Questioning",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:15",
+      "scheme": "PureQuestioning",
+      "schemeID": "91"
+    },
+    {
+      "nodeID": "257370",
+      "text": "CHRISTIE thinks XXX of that answer",
+      "type": "I",
+      "timestamp": "2016-12-22 15:23:15"
+    },
+    {
+      "nodeID": "257371",
+      "text": "Rory: BAIER : what do you think of that answer",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:15"
+    },
+    {
+      "nodeID": "257372",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 15:23:15",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257373",
+      "text": "CHRISTIE : if we want to deal with these issues, we have to deal with them in a way that makes sense",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:15"
+    },
+    {
+      "nodeID": "257374",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:15",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257375",
+      "text": "if we want to deal with these issues, we have to deal with them in a way that makes sense",
+      "type": "I",
+      "timestamp": "2016-12-22 15:23:15"
+    },
+    {
+      "nodeID": "257376",
+      "text": "Rory: CHRISTIE : if we want to deal with these issues, we have to deal with them in a way that makes sense",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:15"
+    },
+    {
+      "nodeID": "257377",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 15:23:15",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257378",
+      "text": "Rory: CARSON : I agree with what Dr. Carson said earlier. The first thing we need to do to make America stronger is to strengthen our military",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:16"
+    },
+    {
+      "nodeID": "257379",
+      "text": "CHRISTIE : I agree with what Dr. Carson said earlier",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:16"
+    },
+    {
+      "nodeID": "257380",
+      "text": "Rory: CHRISTIE : I agree with what Dr. Carson said earlier",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:16"
+    },
+    {
+      "nodeID": "257381",
+      "text": "CARSON : The first thing we need to do to make America stronger is to strengthen our military",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:16"
+    },
+    {
+      "nodeID": "257382",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:16",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257383",
+      "text": "The first thing we need to do to make America stronger is to strengthen our military",
+      "type": "I",
+      "timestamp": "2016-12-22 15:23:16"
+    },
+    {
+      "nodeID": "257384",
+      "text": "Rory: CARSON : The first thing we need to do to make America stronger is to strengthen our military",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:16"
+    },
+    {
+      "nodeID": "257385",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:16",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257386",
+      "text": "CHRISTIE : The first thing we need to do to make America stronger is to strengthen our military",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:16"
+    },
+    {
+      "nodeID": "257387",
+      "text": "Rory: CHRISTIE : CARSON : The first thing we need to do to make America stronger is to strengthen our military",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:17"
+    },
+    {
+      "nodeID": "257388",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 15:23:17",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257389",
+      "text": "CHRISTIE : I put out a really specific plan",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:17"
+    },
+    {
+      "nodeID": "257390",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:17",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257391",
+      "text": "CHRISTIE put out a really specific plan",
+      "type": "I",
+      "timestamp": "2016-12-22 15:23:17"
+    },
+    {
+      "nodeID": "257392",
+      "text": "Rory: CHRISTIE : I put out a really specific plan",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:17"
+    },
+    {
+      "nodeID": "257393",
+      "text": "CHRISTIE : no less than 500,000 active duty soldiers in the Army. No less than 185,000 active duty marines in the Marine Corps. Bring us to a 350 ship Navy again, and modernize the Ohio class of submarines, and bring our Air Force back to 2,600 aircraft that are ready to go",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:17"
+    },
+    {
+      "nodeID": "257394",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:17",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257395",
+      "text": "no less than 500,000 active duty soldiers in the Army. No less than 185,000 active duty marines in the Marine Corps. Bring us to a 350 ship Navy again, and modernize the Ohio class of submarines, and bring our Air Force back to 2,600 aircraft that are ready to go",
+      "type": "I",
+      "timestamp": "2016-12-22 15:23:17"
+    },
+    {
+      "nodeID": "257396",
+      "text": "Rory: CHRISTIE : no less than 500,000 active duty soldiers in the Army. No less than 185,000 active duty marines in the Marine Corps. Bring us to a 350 ship Navy again, and modernize the Ohio class of submarines, and bring our Air Force back to 2,600 aircraft that are ready to go",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:18"
+    },
+    {
+      "nodeID": "257397",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 15:23:18",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257398",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:18",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    },
+    {
+      "nodeID": "257399",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 15:23:18",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257400",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-22 15:23:18",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "257401",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:18",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "257402",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 15:23:18",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257403",
+      "text": "CHRISTIE : Those are the kind of things that are going to send a clear message around the world",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:18"
+    },
+    {
+      "nodeID": "257404",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:19",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257405",
+      "text": "Those are the kind of things that are going to send a clear message around the world",
+      "type": "I",
+      "timestamp": "2016-12-22 15:23:19"
+    },
+    {
+      "nodeID": "257406",
+      "text": "Rory: CHRISTIE : Those are the kind of things that are going to send a clear message around the world",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:19"
+    },
+    {
+      "nodeID": "257407",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 15:23:19",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257408",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-22 15:23:19",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "257409",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:19",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "257410",
+      "text": "CHRISTIE : Those are the things that we need to start working on immediately to make our country stronger and make it better",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:19"
+    },
+    {
+      "nodeID": "257411",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:19",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257412",
+      "text": "Those are the things that we need to start working on immediately to make our country stronger and make it better",
+      "type": "I",
+      "timestamp": "2016-12-22 15:23:20"
+    },
+    {
+      "nodeID": "257413",
+      "text": "Rory: CHRISTIE : Those are the things that we need to start working on immediately to make our country stronger and make it better",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:20"
+    },
+    {
+      "nodeID": "257414",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 15:23:20",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257415",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-12-22 15:23:20",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "257416",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:20",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "257417",
+      "text": "CHRISTIE : Those are the things that we need to be able to be doing",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:20"
+    },
+    {
+      "nodeID": "257418",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:20",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257419",
+      "text": "Those are the things that we need to be able to be doing",
+      "type": "I",
+      "timestamp": "2016-12-22 15:23:20"
+    },
+    {
+      "nodeID": "257420",
+      "text": "Rory: CHRISTIE : Those are the things that we need to be able to be doing",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:20"
+    },
+    {
+      "nodeID": "257421",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 15:23:21",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257422",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-12-22 15:23:21",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "257423",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:21",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "257424",
+      "text": "CHRISTIE : as we move towards dealing with foreign aid, I don't disagree with Senator Paul's position that we shouldn't be funding our enemies",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:21"
+    },
+    {
+      "nodeID": "257425",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:21",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257426",
+      "text": "as we move towards dealing with foreign aid, CHRSTIE doesn't disagree with PAUL's position that we shouldn't be funding our enemies",
+      "type": "I",
+      "timestamp": "2016-12-22 15:23:21"
+    },
+    {
+      "nodeID": "257427",
+      "text": "Rory: CHRISTIE : as we move towards dealing with foreign aid, I don't disagree with Senator Paul's position that we shouldn't be funding our enemies",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:21"
+    },
+    {
+      "nodeID": "257428",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 15:23:21",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257429",
+      "text": "CHRISTIE : I absolutely believe that Israel is a priority to be able to fund and keep them strong and safe after eight years of this administration",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:21"
+    },
+    {
+      "nodeID": "257430",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:22",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257431",
+      "text": "CHRSITIE absolutely believes that Israel is a priority to be able to fund and keep them strong and safe after eight years of this administration",
+      "type": "I",
+      "timestamp": "2016-12-22 15:23:22"
+    },
+    {
+      "nodeID": "257432",
+      "text": "Rory: CHRISTIE : I absolutely believe that Israel is a priority to be able to fund and keep them strong and safe after eight years of this administration",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:22"
+    },
+    {
+      "nodeID": "257433",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-12-22 15:23:22",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "257434",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 15:23:22",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257435",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:22",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "257436",
+      "text": "BAIER : Governor, thank you",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:22"
+    },
+    {
+      "nodeID": "257437",
+      "text": "Rory: BAIER : Governor, thank you",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:22"
+    },
+    {
+      "nodeID": "257438",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 15:23:22",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257439",
+      "text": "CRUZ : can I jump in on this one",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:23"
+    },
+    {
+      "nodeID": "257440",
+      "text": "Pure Questioning",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:23",
+      "scheme": "PureQuestioning",
+      "schemeID": "91"
+    },
+    {
+      "nodeID": "257441",
+      "text": "CRUZ can / cannot jump in on this one",
+      "type": "I",
+      "timestamp": "2016-12-22 15:23:23"
+    },
+    {
+      "nodeID": "257442",
+      "text": "Rory: CRUZ : can I jump in on this one",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:23"
+    },
+    {
+      "nodeID": "257443",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 15:23:23",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257444",
+      "text": "BAIER : we're going to finish up with some more questions, thank you",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:23"
+    },
+    {
+      "nodeID": "257445",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:23",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257446",
+      "text": "we're going to finish up with some more questions, thank you",
+      "type": "I",
+      "timestamp": "2016-12-22 15:23:23"
+    },
+    {
+      "nodeID": "257447",
+      "text": "Rory: BAIER : we're going to finish up with some more questions, thank you",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:24"
+    },
+    {
+      "nodeID": "257448",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 15:23:24",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257449",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-12-22 15:23:24",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "257450",
+      "text": "Default Illocuting",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:24",
+      "scheme": "Default Illocuting",
+      "schemeID": "168"
+    },
+    {
+      "nodeID": "257451",
+      "text": "KELLY : We have to stand you by",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:24"
+    },
+    {
+      "nodeID": "257452",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:24",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257453",
+      "text": "We have to stand you by",
+      "type": "I",
+      "timestamp": "2016-12-22 15:23:24"
+    },
+    {
+      "nodeID": "257454",
+      "text": "Rory: KELLY : We have to stand you by",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:24"
+    },
+    {
+      "nodeID": "257455",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 15:23:24",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257456",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-12-22 15:23:25",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "257457",
+      "text": "Default Illocuting",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:25",
+      "scheme": "Default Illocuting",
+      "schemeID": "168"
+    },
+    {
+      "nodeID": "257458",
+      "text": "KELLY : after the break, we're going to let the candidates make their closing statements, their final thoughts, and . . . God",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:25"
+    },
+    {
+      "nodeID": "257459",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:25",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257460",
+      "text": "after the break, we're going to let the candidates make their closing statements, their final thoughts, and . . . God",
+      "type": "I",
+      "timestamp": "2016-12-22 15:23:25"
+    },
+    {
+      "nodeID": "257461",
+      "text": "Rory: KELLY : after the break, we're going to let the candidates make their closing statements, their final thoughts, and . . . God",
+      "type": "L",
+      "timestamp": "2016-12-22 15:23:25"
+    },
+    {
+      "nodeID": "257462",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 15:23:25",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257463",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-22 15:23:25",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "257464",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-22 15:23:25",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "308640",
+      "fromID": "257229",
+      "toID": "257230",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308641",
+      "fromID": "257228",
+      "toID": "257229",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308642",
+      "fromID": "257236",
+      "toID": "257237",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308643",
+      "fromID": "257235",
+      "toID": "257236",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308644",
+      "fromID": "257228",
+      "toID": "257238",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308645",
+      "fromID": "257238",
+      "toID": "257235",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308646",
+      "fromID": "257240",
+      "toID": "257241",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308647",
+      "fromID": "257239",
+      "toID": "257240",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308648",
+      "fromID": "257235",
+      "toID": "257243",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308649",
+      "fromID": "257243",
+      "toID": "257239",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308650",
+      "fromID": "257245",
+      "toID": "257246",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308651",
+      "fromID": "257244",
+      "toID": "257245",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308652",
+      "fromID": "257239",
+      "toID": "257248",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308653",
+      "fromID": "257248",
+      "toID": "257244",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308654",
+      "fromID": "257250",
+      "toID": "257251",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308655",
+      "fromID": "257249",
+      "toID": "257250",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308656",
+      "fromID": "257244",
+      "toID": "257253",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308657",
+      "fromID": "257253",
+      "toID": "257249",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308658",
+      "fromID": "257255",
+      "toID": "257256",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308659",
+      "fromID": "257254",
+      "toID": "257255",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308660",
+      "fromID": "257249",
+      "toID": "257258",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308661",
+      "fromID": "257258",
+      "toID": "257254",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308662",
+      "fromID": "257256",
+      "toID": "257259",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308663",
+      "fromID": "257259",
+      "toID": "257251",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308664",
+      "fromID": "257258",
+      "toID": "257260",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308665",
+      "fromID": "257260",
+      "toID": "257259",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308666",
+      "fromID": "257262",
+      "toID": "257263",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308667",
+      "fromID": "257261",
+      "toID": "257262",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308668",
+      "fromID": "257254",
+      "toID": "257265",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308669",
+      "fromID": "257265",
+      "toID": "257261",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308670",
+      "fromID": "257267",
+      "toID": "257268",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308671",
+      "fromID": "257266",
+      "toID": "257267",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308672",
+      "fromID": "257261",
+      "toID": "257270",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308673",
+      "fromID": "257270",
+      "toID": "257266",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308674",
+      "fromID": "257268",
+      "toID": "257271",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308675",
+      "fromID": "257271",
+      "toID": "257263",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308676",
+      "fromID": "257270",
+      "toID": "257272",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308677",
+      "fromID": "257272",
+      "toID": "257271",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308678",
+      "fromID": "257274",
+      "toID": "257275",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308679",
+      "fromID": "257273",
+      "toID": "257274",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308680",
+      "fromID": "257266",
+      "toID": "257277",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308681",
+      "fromID": "257277",
+      "toID": "257273",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308682",
+      "fromID": "257275",
+      "toID": "257278",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308683",
+      "fromID": "257278",
+      "toID": "257268",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308684",
+      "fromID": "257277",
+      "toID": "257279",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308685",
+      "fromID": "257279",
+      "toID": "257278",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308686",
+      "fromID": "257281",
+      "toID": "257282",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308687",
+      "fromID": "257280",
+      "toID": "257281",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308688",
+      "fromID": "257273",
+      "toID": "257284",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308689",
+      "fromID": "257284",
+      "toID": "257280",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308690",
+      "fromID": "257286",
+      "toID": "257287",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308691",
+      "fromID": "257285",
+      "toID": "257286",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308692",
+      "fromID": "257289",
+      "toID": "257285",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308693",
+      "fromID": "257290",
+      "toID": "257289",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308694",
+      "fromID": "257280",
+      "toID": "257292",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308695",
+      "fromID": "257292",
+      "toID": "257290",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308696",
+      "fromID": "257294",
+      "toID": "257295",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308697",
+      "fromID": "257293",
+      "toID": "257294",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308698",
+      "fromID": "257290",
+      "toID": "257297",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308699",
+      "fromID": "257297",
+      "toID": "257293",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308700",
+      "fromID": "257299",
+      "toID": "257300",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308701",
+      "fromID": "257298",
+      "toID": "257299",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308702",
+      "fromID": "257303",
+      "toID": "257304",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308703",
+      "fromID": "257302",
+      "toID": "257303",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308704",
+      "fromID": "257298",
+      "toID": "257306",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308705",
+      "fromID": "257306",
+      "toID": "257302",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308706",
+      "fromID": "257300",
+      "toID": "257307",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308707",
+      "fromID": "257307",
+      "toID": "257304",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308708",
+      "fromID": "257306",
+      "toID": "257308",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308709",
+      "fromID": "257308",
+      "toID": "257307",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308710",
+      "fromID": "257293",
+      "toID": "257309",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308711",
+      "fromID": "257309",
+      "toID": "257298",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308712",
+      "fromID": "257311",
+      "toID": "257312",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308713",
+      "fromID": "257310",
+      "toID": "257311",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308714",
+      "fromID": "257302",
+      "toID": "257314",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308715",
+      "fromID": "257314",
+      "toID": "257310",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308716",
+      "fromID": "257310",
+      "toID": "257316",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308717",
+      "fromID": "257316",
+      "toID": "257317",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308718",
+      "fromID": "257317",
+      "toID": "257312",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308719",
+      "fromID": "257319",
+      "toID": "257320",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308720",
+      "fromID": "257318",
+      "toID": "257319",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308721",
+      "fromID": "257323",
+      "toID": "257324",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308722",
+      "fromID": "257322",
+      "toID": "257323",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308723",
+      "fromID": "257316",
+      "toID": "257322",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308724",
+      "fromID": "257322",
+      "toID": "257325",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308725",
+      "fromID": "257325",
+      "toID": "257318",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308726",
+      "fromID": "257320",
+      "toID": "257326",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308727",
+      "fromID": "257326",
+      "toID": "257324",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308728",
+      "fromID": "257325",
+      "toID": "257327",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308729",
+      "fromID": "257327",
+      "toID": "257326",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308730",
+      "fromID": "257329",
+      "toID": "257330",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308731",
+      "fromID": "257328",
+      "toID": "257329",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308732",
+      "fromID": "257318",
+      "toID": "257332",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308733",
+      "fromID": "257332",
+      "toID": "257328",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308734",
+      "fromID": "257334",
+      "toID": "257335",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308735",
+      "fromID": "257333",
+      "toID": "257334",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308736",
+      "fromID": "257328",
+      "toID": "257337",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308737",
+      "fromID": "257337",
+      "toID": "257333",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308738",
+      "fromID": "257339",
+      "toID": "257340",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308739",
+      "fromID": "257338",
+      "toID": "257339",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308740",
+      "fromID": "257333",
+      "toID": "257342",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308741",
+      "fromID": "257342",
+      "toID": "257338",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308742",
+      "fromID": "257344",
+      "toID": "257345",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308743",
+      "fromID": "257343",
+      "toID": "257344",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308744",
+      "fromID": "257328",
+      "toID": "257347",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308745",
+      "fromID": "257347",
+      "toID": "257343",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308746",
+      "fromID": "257330",
+      "toID": "257348",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308747",
+      "fromID": "257348",
+      "toID": "257345",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308748",
+      "fromID": "257347",
+      "toID": "257349",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308749",
+      "fromID": "257349",
+      "toID": "257348",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308750",
+      "fromID": "257351",
+      "toID": "257352",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308751",
+      "fromID": "257350",
+      "toID": "257351",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308752",
+      "fromID": "257343",
+      "toID": "257354",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308753",
+      "fromID": "257354",
+      "toID": "257350",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308754",
+      "fromID": "257352",
+      "toID": "257355",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308755",
+      "fromID": "257355",
+      "toID": "257345",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308756",
+      "fromID": "257354",
+      "toID": "257356",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308757",
+      "fromID": "257356",
+      "toID": "257355",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308758",
+      "fromID": "257358",
+      "toID": "257359",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308759",
+      "fromID": "257357",
+      "toID": "257358",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308760",
+      "fromID": "257350",
+      "toID": "257361",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308761",
+      "fromID": "257361",
+      "toID": "257357",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308762",
+      "fromID": "257359",
+      "toID": "257362",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308763",
+      "fromID": "257362",
+      "toID": "257352",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308764",
+      "fromID": "257361",
+      "toID": "257363",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308765",
+      "fromID": "257363",
+      "toID": "257362",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308766",
+      "fromID": "257365",
+      "toID": "257366",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308767",
+      "fromID": "257364",
+      "toID": "257365",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308768",
+      "fromID": "257361",
+      "toID": "257364",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308769",
+      "fromID": "257366",
+      "toID": "257362",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308770",
+      "fromID": "257369",
+      "toID": "257370",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308771",
+      "fromID": "257368",
+      "toID": "257369",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308772",
+      "fromID": "257364",
+      "toID": "257372",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308773",
+      "fromID": "257372",
+      "toID": "257368",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308774",
+      "fromID": "257374",
+      "toID": "257375",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308775",
+      "fromID": "257373",
+      "toID": "257374",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308776",
+      "fromID": "257368",
+      "toID": "257377",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308777",
+      "fromID": "257377",
+      "toID": "257373",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308778",
+      "fromID": "257382",
+      "toID": "257383",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308779",
+      "fromID": "257381",
+      "toID": "257382",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308780",
+      "fromID": "257385",
+      "toID": "257381",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308781",
+      "fromID": "257386",
+      "toID": "257385",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308782",
+      "fromID": "257373",
+      "toID": "257388",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308783",
+      "fromID": "257388",
+      "toID": "257379",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308784",
+      "fromID": "257390",
+      "toID": "257391",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308785",
+      "fromID": "257389",
+      "toID": "257390",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308786",
+      "fromID": "257394",
+      "toID": "257395",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308787",
+      "fromID": "257393",
+      "toID": "257394",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308788",
+      "fromID": "257379",
+      "toID": "257397",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308789",
+      "fromID": "257397",
+      "toID": "257386",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308790",
+      "fromID": "257397",
+      "toID": "257398",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308791",
+      "fromID": "257398",
+      "toID": "257383",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308792",
+      "fromID": "257389",
+      "toID": "257399",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308793",
+      "fromID": "257399",
+      "toID": "257393",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308794",
+      "fromID": "257395",
+      "toID": "257400",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308795",
+      "fromID": "257400",
+      "toID": "257391",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308796",
+      "fromID": "257399",
+      "toID": "257401",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308797",
+      "fromID": "257401",
+      "toID": "257400",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308798",
+      "fromID": "257386",
+      "toID": "257402",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308799",
+      "fromID": "257402",
+      "toID": "257389",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308800",
+      "fromID": "257404",
+      "toID": "257405",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308801",
+      "fromID": "257403",
+      "toID": "257404",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308802",
+      "fromID": "257393",
+      "toID": "257407",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308803",
+      "fromID": "257407",
+      "toID": "257403",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308804",
+      "fromID": "257405",
+      "toID": "257408",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308805",
+      "fromID": "257408",
+      "toID": "257395",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308806",
+      "fromID": "257407",
+      "toID": "257409",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308807",
+      "fromID": "257409",
+      "toID": "257408",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308808",
+      "fromID": "257411",
+      "toID": "257412",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308809",
+      "fromID": "257410",
+      "toID": "257411",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308810",
+      "fromID": "257386",
+      "toID": "257414",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308811",
+      "fromID": "257414",
+      "toID": "257410",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308812",
+      "fromID": "257412",
+      "toID": "257415",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308813",
+      "fromID": "257415",
+      "toID": "257383",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308814",
+      "fromID": "257414",
+      "toID": "257416",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308815",
+      "fromID": "257416",
+      "toID": "257415",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308816",
+      "fromID": "257418",
+      "toID": "257419",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308817",
+      "fromID": "257417",
+      "toID": "257418",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308818",
+      "fromID": "257410",
+      "toID": "257421",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308819",
+      "fromID": "257421",
+      "toID": "257417",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308820",
+      "fromID": "257419",
+      "toID": "257422",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308821",
+      "fromID": "257422",
+      "toID": "257412",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308822",
+      "fromID": "257421",
+      "toID": "257423",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308823",
+      "fromID": "257423",
+      "toID": "257422",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308824",
+      "fromID": "257425",
+      "toID": "257426",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308825",
+      "fromID": "257424",
+      "toID": "257425",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308826",
+      "fromID": "257417",
+      "toID": "257428",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308827",
+      "fromID": "257428",
+      "toID": "257424",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308828",
+      "fromID": "257430",
+      "toID": "257431",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308829",
+      "fromID": "257429",
+      "toID": "257430",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308830",
+      "fromID": "257431",
+      "toID": "257433",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308831",
+      "fromID": "257433",
+      "toID": "257345",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308832",
+      "fromID": "257343",
+      "toID": "257434",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308833",
+      "fromID": "257434",
+      "toID": "257429",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308834",
+      "fromID": "257434",
+      "toID": "257435",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308835",
+      "fromID": "257435",
+      "toID": "257433",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308836",
+      "fromID": "257429",
+      "toID": "257438",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308837",
+      "fromID": "257438",
+      "toID": "257436",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308838",
+      "fromID": "257440",
+      "toID": "257441",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308839",
+      "fromID": "257439",
+      "toID": "257440",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308840",
+      "fromID": "257436",
+      "toID": "257443",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308841",
+      "fromID": "257443",
+      "toID": "257439",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308842",
+      "fromID": "257445",
+      "toID": "257446",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308843",
+      "fromID": "257444",
+      "toID": "257445",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308844",
+      "fromID": "257439",
+      "toID": "257448",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308845",
+      "fromID": "257448",
+      "toID": "257444",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308846",
+      "fromID": "257446",
+      "toID": "257449",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308847",
+      "fromID": "257449",
+      "toID": "257441",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308848",
+      "fromID": "257448",
+      "toID": "257450",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308849",
+      "fromID": "257450",
+      "toID": "257449",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308850",
+      "fromID": "257452",
+      "toID": "257453",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308851",
+      "fromID": "257451",
+      "toID": "257452",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308852",
+      "fromID": "257439",
+      "toID": "257455",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308853",
+      "fromID": "257455",
+      "toID": "257451",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308854",
+      "fromID": "257453",
+      "toID": "257456",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308855",
+      "fromID": "257456",
+      "toID": "257441",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308856",
+      "fromID": "257455",
+      "toID": "257457",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308857",
+      "fromID": "257457",
+      "toID": "257456",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308858",
+      "fromID": "257459",
+      "toID": "257460",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308859",
+      "fromID": "257458",
+      "toID": "257459",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308860",
+      "fromID": "257451",
+      "toID": "257462",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308861",
+      "fromID": "257462",
+      "toID": "257458",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308862",
+      "fromID": "257460",
+      "toID": "257463",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308863",
+      "fromID": "257463",
+      "toID": "257453",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308864",
+      "fromID": "257462",
+      "toID": "257464",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308865",
+      "fromID": "257464",
+      "toID": "257463",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "257290",
+      "personID": "2580",
+      "timestamp": "2016-12-22 15:23:37",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "257386",
+      "personID": "2576",
+      "timestamp": "2016-12-22 15:23:37",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

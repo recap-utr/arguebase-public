@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152747",
+      "text": "Luria-Delbruck experiment (1943) (also called the Fluctuation Test) demonstrates that in bacteria, genetic mutations arise in the absence of selection, rather than being a response to selection. Therefore, Darwin's theory of natural selection acting on random mutations applies to bacteria as well as to higher organisms. These experiments also introduced the microbiological method of replica plating. Max Delbruck and Salvador Luria won the 1969 Nobel Prize in part for this work. In their experiment, Luria and Delbruck inoculated a small number of bacteria into separate culture tubes. After a period of growth, they plated equal volumes of these separate cultures onto phage (virus) containing agar. If virus resistance in bacteria were caused by a spontaneous activation in bacteria, then each plate should contain the same number of resistant colonies. This, however was not what Delbruck and Luria found. Instead, the number of resistant colonies on each plate varied drastically. Luria and Delbruck proposed that these results could be explained by the occurrence of a constant rate of random mutations in each generation of bacteria growing in the initial culture tubes. Delbruck developed a sophisticated mathematical model based on this hypothesis that was entirely consistent with these results. The conclusion was that mutations in bacteria, like higher organisms, are random rather than directed.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:38"
+    },
+    {
+      "nodeID": "152748",
+      "text": "And from here: http://evolution.berkeley.edu/evosite/evo101/IIIC1aRandom.shtml",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:38"
+    },
+    {
+      "nodeID": "152749",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:17:38"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192420",
+      "fromID": "152748",
+      "toID": "152749",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192421",
+      "fromID": "152749",
+      "toID": "152747",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

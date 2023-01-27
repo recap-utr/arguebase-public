@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "162198",
+      "text": "Your thoughts?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:21"
+    },
+    {
+      "nodeID": "162199",
+      "text": "You are trying to start a flame war?I'm not interested in statements like 'The current debacle of 'physician-assisted' suicide' because they say nothing as to what you think the debacle is or why you think it is a debacle. Likewise comments like 'any way you spin it, it's still good old-fashioned murder! Pure and simple!' just annoy because that notion has been refuted by myself and other posters on numerous occasions.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:21"
+    },
+    {
+      "nodeID": "162200",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:39:21"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "199146",
+      "fromID": "162199",
+      "toID": "162200",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199147",
+      "fromID": "162200",
+      "toID": "162198",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

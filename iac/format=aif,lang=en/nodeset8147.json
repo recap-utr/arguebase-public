@@ -1,0 +1,121 @@
+{
+  "nodes": [
+    {
+      "nodeID": "153087",
+      "text": "I fail to see why one must register an automobile but not a lethal weapon which is used solely to kill or maim.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:34"
+    },
+    {
+      "nodeID": "153088",
+      "text": "No country has removed automoblies after registration. Yet historically after total firearm registration confiscation has followed.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:34"
+    },
+    {
+      "nodeID": "153089",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:18:34"
+    },
+    {
+      "nodeID": "153090",
+      "text": "I would like to hear a viable reason why they should be registered. The Canadian system has shown us it is money badly spent. It's completely useless. I really does nothing to solve crime because for the most part, law abiding citizens would be the only ones registering their firearms.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:34"
+    },
+    {
+      "nodeID": "153091",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:18:34"
+    },
+    {
+      "nodeID": "153092",
+      "text": "lethal weapon which is used solely to kill or maim.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:34"
+    },
+    {
+      "nodeID": "153093",
+      "text": "But, now simone is in a pickle. Is there an explanation as to why police officers carry these things? (OH! Now we switch to the purpose of the USER! How convenient! I wish I could determine that an item is bad using one train of logic, and then SWITCH LINES OF LOGIC to suit my argument! I will bet that simone will choose to COMPLETELY IGNORE MY POST because I am removing all lines of dishonest 'logic switching'. (or, at least attempting to) Rather than admit wrongness, (very hard to do once a person has so vehemently commited themselves to an agenda) there is no other choice than to follow the trail of that path to the end. Even if the path leads to a land of complete logical make believe and you are thereby forced to defend your chosen agenda even if it means temporarily making logical 'detours'.  After all, if objects have no inherent evil or goodness, it must be the character of the USER and the chosen purpose of the USER that determines the ethical value of how an item is used. If this is so, you can't call guns bad. This determination can not be admitted on the path simone has chosen. Therefore, since simone's agenda insists on the inherent evilness of an object (a gun) there MUST be some logical deviation to explain why these 'evil' items are not 'evil' when used by police. If there is no logical deviation on a path that is in error, you will have no choice but to arrive in error's destination: make believe land! Where matches burn down houses! And knives cause slashings! And candle holders cause bashed in skulls!....AND......AND.....GUNS CAUSE SHOOTINGS! Well, simone. We're down to brass tacks. Is a gun bad, or is it the determination of the person who uses it? Because if a gun is bad, then we live in la-la land. And if a gun is an inanimate object who's user is responsible for how it is used, you have no argument for why law abiding people can't posess them and be capable of the determination (As police do) for using them in a responsible manner. Just like matches, or cars, or candle holders. So, simone............",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:34"
+    },
+    {
+      "nodeID": "153094",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:18:34"
+    },
+    {
+      "nodeID": "153095",
+      "text": "Do we really need to charge someone being tried for armed robbery or worse with an additional petty weapons charge?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:34"
+    },
+    {
+      "nodeID": "153096",
+      "text": "Actually, in regards to possession by felons, they are not petty weapons charges-at least in Virginia. Say for example you catch a crack dealer with a gun. He could get anywhere from a minimum of 5 years up to 40 years for selling crack, but in my experience if he pleads guilty it would be a very, very rare occurrence for him to receive an active sentence of more than 2 years per charge for being a drug dealer. This is because the judge can suspend any part of or all of his sentence, and pursuant to this judicial authority the average sentence I see for per count of selling crack is 12-18 months. But if you catch him with a gun while he is selling, then the punishment for just on offense of having the gun is an automatic 5 years which cannot be suspended. I have seen many instances where the defendant gets far more time for having a gun than what he received for the actual underlying crime he commits either with or while having the gun.  But to come back to the issue, if registration is aimed at identifying and/or preventing illegal transfers and illegal possession of firearms, then in my opinion that goal cannot be reached because it cannot be enforced. Felons found in possession are already prosecuted for having the gun without a requirement to register them. A registration requirement will not aid in either their detection or prosecution because they will not comply with the registration requirement's command that they incriminate themselves-and no law can force them to register their guns so long as the 5th. Amendment remains a part of the Constitution.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:34"
+    },
+    {
+      "nodeID": "153097",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:18:34"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192664",
+      "fromID": "153088",
+      "toID": "153089",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192665",
+      "fromID": "153089",
+      "toID": "153087",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192666",
+      "fromID": "153090",
+      "toID": "153091",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192667",
+      "fromID": "153091",
+      "toID": "153087",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192668",
+      "fromID": "153093",
+      "toID": "153094",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192669",
+      "fromID": "153094",
+      "toID": "153092",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192670",
+      "fromID": "153096",
+      "toID": "153097",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192671",
+      "fromID": "153097",
+      "toID": "153095",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

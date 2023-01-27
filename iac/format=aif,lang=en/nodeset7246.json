@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139729",
+      "text": "I'm really not so sure about Obama's healthcare plan, when I read it it seems kind of wishy-washy...# like what does 'Reform the insurance market to increase competition by taking on anticompetitive activity that drives up prices without improving quality of care.' actually mean?# In practice?#  I'm more interested in the Health Care for America plan more, it&#8217;s a proposal put together by the political scientist Jacob Hacker with the support of the Economic Policy Institute. I&#8217;d suggest reading Thinking Big to get a better idea of the plan, but the basic idea is that employers pay money into a public fund, enough to cover their workers.# The public fund should have quality coverage for all, including preventive care.# Workers get to choose - keep your insurance, choose a different private plan, or join a public health insurance plan without a private insurer middleman, pick your healthcare providers and doctors.# Employers choose too. Those who prefer not to shoulder the burden of providing coverage as good as the law requires can decide to enroll their workers in the public plan at a modest cost.# HCFA and Medicare would function as a single nationwide insurance pool covering close to half the population. So basically either the public plan attracts most Americans, and our system gradually evolves into single-payer or because the floor prevents a race to the bottom, the public-private competition raises the bar on care and efficiency, improving quality and cutting costs, even in the private insurance plans.# The standards would be kept by a strong government watchdog.# What do you think?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:56"
+    },
+    {
+      "nodeID": "139730",
+      "text": "I think you are on to something. The problem I see is that any proponent of a plan such as this will have toi take on both the health insurance lobby and the pharma lobby and their bottomless well of $$$ and propaganda. Here's hoping now that there's a new sheriff in town.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:56"
+    },
+    {
+      "nodeID": "139731",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:49:56"
+    },
+    {
+      "nodeID": "139732",
+      "text": "And it IS based on the ability to pay...you just want me to pay for someone else's and in the most inefficient way possible.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:56"
+    },
+    {
+      "nodeID": "139733",
+      "text": "Well, at least you have that right. The cheapest and most efficient way of delivering health care is through single payer financed by taxes. Every single study ever done demonstrates that the most efficiently run health care system is Medicare. It functions with a 2% overhead. As I hope you know, insurance is based on the principal of risk-spreading, and the larger the pool the more the risk is spread. Even now, if you are healthy and privately 'insured' you are paying for others' health care. You pay premiums and the benefits go to those who are in need of benefits. The only difference is that you support all the clones and drones in the health care 'industry' who come between the physician and the delivery of services. Like so many on the so-called libertarian right, you have made a fetish of the market. Keep on drinking the Kool-Aid that Alyssa Rosenblum dispenses in trash like The Fountainhead",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:56"
+    },
+    {
+      "nodeID": "139734",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:49:56"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183224",
+      "fromID": "139730",
+      "toID": "139731",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183225",
+      "fromID": "139731",
+      "toID": "139729",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183226",
+      "fromID": "139733",
+      "toID": "139734",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183227",
+      "fromID": "139734",
+      "toID": "139732",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

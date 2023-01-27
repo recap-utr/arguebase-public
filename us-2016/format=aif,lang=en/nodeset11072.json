@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "223793",
+      "text": "CLINTON : That starts with raising the national minimum wage and also guarantee , finally , equal pay for women 's work",
+      "type": "L",
+      "timestamp": "2016-11-03 17:09:16"
+    },
+    {
+      "nodeID": "223795",
+      "text": "That starts with raising the national minimum wage and also guarantee , finally , equal pay for women 's work",
+      "type": "I",
+      "timestamp": "2016-11-03 17:09:16"
+    },
+    {
+      "nodeID": "224624",
+      "text": "Xatencio00 : Lie number one goes to Hillary about women getting paid less for the same work",
+      "type": "L",
+      "timestamp": "2016-11-06 11:03:02"
+    },
+    {
+      "nodeID": "224626",
+      "text": "lie number one goes to CLINTON about women getting paid less for the same work",
+      "type": "I",
+      "timestamp": "2016-11-06 11:03:02"
+    },
+    {
+      "nodeID": "262283",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-03 15:42:07",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "262284",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-03 15:42:08",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "262285",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-03 15:42:08",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "316308",
+      "fromID": "224626",
+      "toID": "262283",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316309",
+      "fromID": "262283",
+      "toID": "223795",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316310",
+      "fromID": "223793",
+      "toID": "262284",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316311",
+      "fromID": "262284",
+      "toID": "224624",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316312",
+      "fromID": "262284",
+      "toID": "262285",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316313",
+      "fromID": "262285",
+      "toID": "262283",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

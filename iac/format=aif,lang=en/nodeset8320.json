@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "155709",
+      "text": "Fools! You've all been decieved! Listen not to the lies of the Foodstuff demons, instead bow down to the Invisible Flying Space Monkeys, for they are the only path into heaven! (wish I'd thought of the beer volcano. That's a good one.)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:25"
+    },
+    {
+      "nodeID": "155710",
+      "text": "Just be like the Jews and Christians and steal the idea! A lot of their mythology isn't original: it was stolen from other people who thought it up first.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:25"
+    },
+    {
+      "nodeID": "155711",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:24:25"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194522",
+      "fromID": "155710",
+      "toID": "155711",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194523",
+      "fromID": "155711",
+      "toID": "155709",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

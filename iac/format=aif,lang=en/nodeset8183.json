@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "153664",
+      "text": "It's a false dichotomy that some critics of religion have cast religion in by saying that submitting to spiritual authority and thinking/reasoning are going to be juxtaposed.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:49"
+    },
+    {
+      "nodeID": "153665",
+      "text": "Yes. It's not logical to simply cite, 'the Bible tells me so, the Bible was written by God,' and consider that an argument. The Bible has been wrong. It's also not logical to cite authority to God. It necessarily begs further questions about your God's unproven existence to those who don't believe in that God, or in any God. If we don't simply believe in your God, on the basis of your presupposition, he can have no authority over the rest of us. One must come up with another argument. Should each religion have it's own definition or completely different idea of logic, which favours that religion and its God?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:49"
+    },
+    {
+      "nodeID": "153666",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:19:49"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193070",
+      "fromID": "153665",
+      "toID": "153666",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193071",
+      "fromID": "153666",
+      "toID": "153664",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

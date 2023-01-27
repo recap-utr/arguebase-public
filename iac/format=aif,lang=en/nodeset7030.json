@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "136638",
+      "text": "Assuredly, a very high state of being constantly afraid.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:28"
+    },
+    {
+      "nodeID": "136639",
+      "text": "Oh joy another drive by with absolutely no proof or evidence.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:28"
+    },
+    {
+      "nodeID": "136640",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:43:28"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181020",
+      "fromID": "136639",
+      "toID": "136640",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181021",
+      "fromID": "136640",
+      "toID": "136638",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

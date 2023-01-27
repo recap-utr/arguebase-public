@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "156178",
+      "text": "I think you are entirely correct. From the page VOR linked:  There is no evidence ANYWHERE that the second ammendment is a collective right. We ghave been over this multiple times, and the evidence simply does not exist, and an organization like the ACLU should be well aware of this.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:29"
+    },
+    {
+      "nodeID": "156179",
+      "text": "Well, that's your own strong bias speaking. Many of the courts and scholars have disagreed with you.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:29"
+    },
+    {
+      "nodeID": "156180",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:25:29"
+    },
+    {
+      "nodeID": "156181",
+      "text": "I think it's nonsense interpretation developed by people who were afraid that if they fought for guns as valiantly as they did for free speech, they wouldn't receive any donations.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:29"
+    },
+    {
+      "nodeID": "156182",
+      "text": "I think you are entirely correct. From the page VOR linked:",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:30"
+    },
+    {
+      "nodeID": "156183",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:25:30"
+    },
+    {
+      "nodeID": "156184",
+      "text": "I don't know about that, but yes the ACLU has been sketchy about the support of the Constitution. Thier passion is most definately there, but thier brains are not. Just the fact they equate auto registration and gun ownership shows they got some freaky ideas about the Constitution. BTW VOR you don't fool me. Your not after gun control. Your after gun bans.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:30"
+    },
+    {
+      "nodeID": "156185",
+      "text": "So are you saying I don't want gun registration?  BTW you don't fool me. Your intention is not to protect people's right to life and follow the Constitution.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:30"
+    },
+    {
+      "nodeID": "156186",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:25:30"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194848",
+      "fromID": "156179",
+      "toID": "156180",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194849",
+      "fromID": "156180",
+      "toID": "156178",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194850",
+      "fromID": "156182",
+      "toID": "156183",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194851",
+      "fromID": "156183",
+      "toID": "156181",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194852",
+      "fromID": "156185",
+      "toID": "156186",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194853",
+      "fromID": "156186",
+      "toID": "156184",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

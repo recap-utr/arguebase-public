@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "158717",
+      "text": "It's quite obvious that the poster wasn't asking if someone could explain the legal differences between the two. Legality and morality are disconnected, and it seems very obvious that the poster was referring to morality.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:21"
+    },
+    {
+      "nodeID": "158718",
+      "text": "And yet the article is about a legal matter.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:21"
+    },
+    {
+      "nodeID": "158719",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:31:22"
+    },
+    {
+      "nodeID": "158720",
+      "text": "Try looking two inches below the surface.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:22"
+    },
+    {
+      "nodeID": "158721",
+      "text": "Oh yes, the 'subtext'. emoticon_rolleyes",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:22"
+    },
+    {
+      "nodeID": "158722",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:31:22"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196654",
+      "fromID": "158718",
+      "toID": "158719",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196655",
+      "fromID": "158719",
+      "toID": "158717",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196656",
+      "fromID": "158721",
+      "toID": "158722",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196657",
+      "fromID": "158722",
+      "toID": "158720",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,522 @@
+{
+  "nodes": [
+    {
+      "nodeID": "197227",
+      "text": "Yeah",
+      "type": "L",
+      "timestamp": "2002-01-01 17:02:55"
+    },
+    {
+      "nodeID": "201858",
+      "text": "dr_pepper_35 : Fuck you Clinton",
+      "type": "L",
+      "timestamp": "2016-09-22 14:36:55"
+    },
+    {
+      "nodeID": "201859",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-22 14:36:55",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "201860",
+      "text": "fuck you Clinton",
+      "type": "I",
+      "timestamp": "2016-09-22 14:36:55"
+    },
+    {
+      "nodeID": "201861",
+      "text": "Barbara: dr_pepper_35 : Fuck you Clinton",
+      "type": "L",
+      "timestamp": "2016-09-22 14:36:55"
+    },
+    {
+      "nodeID": "201862",
+      "text": "Snowden does not deserve jail",
+      "type": "L",
+      "timestamp": "2016-09-22 14:36:55"
+    },
+    {
+      "nodeID": "201863",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-22 14:36:55",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "201864",
+      "text": "Barbara: dr_pepper_35 : Snowden does not deserve jail",
+      "type": "L",
+      "timestamp": "2016-09-22 14:36:55"
+    },
+    {
+      "nodeID": "201865",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-09-22 14:36:56",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "201866",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-22 14:36:56",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "201867",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-09-22 14:36:56",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "201868",
+      "text": "dr_pepper_35 : bernie just said he did as well",
+      "type": "L",
+      "timestamp": "2016-09-22 14:36:56"
+    },
+    {
+      "nodeID": "201869",
+      "text": "Snowden deserves jail",
+      "type": "I",
+      "timestamp": "2016-09-22 14:36:56"
+    },
+    {
+      "nodeID": "201870",
+      "text": "Barbara: dr_pepper_35 : bernie just said he did as well",
+      "type": "L",
+      "timestamp": "2016-09-22 14:36:56"
+    },
+    {
+      "nodeID": "201871",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-22 14:36:56",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "201872",
+      "text": "Bernie : Snowden deserves jail",
+      "type": "L",
+      "timestamp": "2016-09-22 14:36:56"
+    },
+    {
+      "nodeID": "201873",
+      "text": "Barbara: Bernie : bernie just said he did as well",
+      "type": "L",
+      "timestamp": "2016-09-22 14:36:56"
+    },
+    {
+      "nodeID": "201874",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-22 14:36:57",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "201875",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-22 14:36:57",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "201876",
+      "text": "dr_pepper_35 : Yeah",
+      "type": "L",
+      "timestamp": "2016-09-22 14:36:57"
+    },
+    {
+      "nodeID": "201877",
+      "text": "Barbara: dr_pepper_35 : Yeah",
+      "type": "L",
+      "timestamp": "2016-09-22 14:36:57"
+    },
+    {
+      "nodeID": "201878",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-22 14:36:58",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "201879",
+      "text": "dr_pepper_35 : disappointed by that",
+      "type": "L",
+      "timestamp": "2016-09-22 14:36:58"
+    },
+    {
+      "nodeID": "201880",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-22 14:36:58",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "201881",
+      "text": "disappointed by that",
+      "type": "I",
+      "timestamp": "2016-09-22 14:36:58"
+    },
+    {
+      "nodeID": "201882",
+      "text": "Barbara: dr_pepper_35 : disappointed by that",
+      "type": "L",
+      "timestamp": "2016-09-22 14:36:59"
+    },
+    {
+      "nodeID": "201883",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-09-22 14:36:59",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "201884",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-22 14:36:59",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "201885",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-09-22 14:36:59",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "201886",
+      "text": "[deleted] : Sanders agreed with her",
+      "type": "L",
+      "timestamp": "2016-09-22 14:36:59"
+    },
+    {
+      "nodeID": "201887",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-22 14:37:00",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "201888",
+      "text": "Sanders agreed with Clinton",
+      "type": "I",
+      "timestamp": "2016-09-22 14:37:00"
+    },
+    {
+      "nodeID": "201889",
+      "text": "Barbara: [deleted] : Sanders agreed with her",
+      "type": "L",
+      "timestamp": "2016-09-22 14:37:00"
+    },
+    {
+      "nodeID": "201890",
+      "text": "dr_pepper_35 : actually disappointed by that",
+      "type": "L",
+      "timestamp": "2016-09-22 14:37:00"
+    },
+    {
+      "nodeID": "201891",
+      "text": "Barbara: dr_pepper_35 : actually disappointed by that",
+      "type": "L",
+      "timestamp": "2016-09-22 14:37:00"
+    },
+    {
+      "nodeID": "201892",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-22 14:37:00",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "201893",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-22 14:37:00",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "201894",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-09-22 14:37:00",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "201895",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-22 14:37:01",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "201896",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-09-22 14:37:01",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "246757",
+      "fromID": "201859",
+      "toID": "201860",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246758",
+      "fromID": "201858",
+      "toID": "201859",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246759",
+      "fromID": "201863",
+      "toID": "201862",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246760",
+      "fromID": "201862",
+      "toID": "201863",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246761",
+      "fromID": "201862",
+      "toID": "201865",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246762",
+      "fromID": "201865",
+      "toID": "201860",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246763",
+      "fromID": "201858",
+      "toID": "201866",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246764",
+      "fromID": "201866",
+      "toID": "201862",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246765",
+      "fromID": "201866",
+      "toID": "201867",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246766",
+      "fromID": "201867",
+      "toID": "201865",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246767",
+      "fromID": "201871",
+      "toID": "201869",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246768",
+      "fromID": "201872",
+      "toID": "201871",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246769",
+      "fromID": "201862",
+      "toID": "201874",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246770",
+      "fromID": "201874",
+      "toID": "201868",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246771",
+      "fromID": "201868",
+      "toID": "201875",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246772",
+      "fromID": "201875",
+      "toID": "201872",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246773",
+      "fromID": "201868",
+      "toID": "201878",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246774",
+      "fromID": "201878",
+      "toID": "201876",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246775",
+      "fromID": "201880",
+      "toID": "201881",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246776",
+      "fromID": "201879",
+      "toID": "201880",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246777",
+      "fromID": "201881",
+      "toID": "201883",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246778",
+      "fromID": "201883",
+      "toID": "201872",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246779",
+      "fromID": "201868",
+      "toID": "201884",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246780",
+      "fromID": "201884",
+      "toID": "201879",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246781",
+      "fromID": "201884",
+      "toID": "201885",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246782",
+      "fromID": "201885",
+      "toID": "201883",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246783",
+      "fromID": "201887",
+      "toID": "201888",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246784",
+      "fromID": "201886",
+      "toID": "201887",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246785",
+      "fromID": "201862",
+      "toID": "201892",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246786",
+      "fromID": "201892",
+      "toID": "201886",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246787",
+      "fromID": "201890",
+      "toID": "201893",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246788",
+      "fromID": "201893",
+      "toID": "201881",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246789",
+      "fromID": "201881",
+      "toID": "201894",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246790",
+      "fromID": "201894",
+      "toID": "201888",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246791",
+      "fromID": "201879",
+      "toID": "201895",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246792",
+      "fromID": "201895",
+      "toID": "201886",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246793",
+      "fromID": "201895",
+      "toID": "201896",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246794",
+      "fromID": "201896",
+      "toID": "201894",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "201872",
+      "personID": "1851",
+      "timestamp": "2016-09-22 14:37:02",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

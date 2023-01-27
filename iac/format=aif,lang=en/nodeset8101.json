@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152395",
+      "text": "what do you mean by opinion? Whether or not to allow them or whether or not they last....give us something :)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:58"
+    },
+    {
+      "nodeID": "152396",
+      "text": "just how i said it... opinion... like, what you think of it",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:58"
+    },
+    {
+      "nodeID": "152397",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:16:58"
+    },
+    {
+      "nodeID": "152398",
+      "text": "the sexuality gay",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:58"
+    },
+    {
+      "nodeID": "152399",
+      "text": "You mean like they are happy wile having sex?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:58"
+    },
+    {
+      "nodeID": "152400",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:16:59"
+    },
+    {
+      "nodeID": "152401",
+      "text": "should i break it down for you??? ok lets go into categories, bisexuals, transsexuals, gays, lesbians. simple enough for you??",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:59"
+    },
+    {
+      "nodeID": "152402",
+      "text": "No. Try agan.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:59"
+    },
+    {
+      "nodeID": "152403",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:16:59"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192174",
+      "fromID": "152396",
+      "toID": "152397",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192175",
+      "fromID": "152397",
+      "toID": "152395",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192176",
+      "fromID": "152399",
+      "toID": "152400",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192177",
+      "fromID": "152400",
+      "toID": "152398",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192178",
+      "fromID": "152402",
+      "toID": "152403",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192179",
+      "fromID": "152403",
+      "toID": "152401",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

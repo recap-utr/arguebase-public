@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "156565",
+      "text": "And I support the right to kill unborn babies or not as the mother in question sees fit.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:25"
+    },
+    {
+      "nodeID": "156566",
+      "text": "So, a human-mother is equal to the abilities/wisdom of God now? - Interesting thing: How many mothers do *you* know, who can successfully *champion* a person (hiding in coma-states of mind)? Annie",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:25"
+    },
+    {
+      "nodeID": "156567",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:26:25"
+    },
+    {
+      "nodeID": "156568",
+      "text": "It cannot change the way it was created. If the life of the mother is threatened then there is no winner: one will die and one will live or they will both die.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:25"
+    },
+    {
+      "nodeID": "156569",
+      "text": "So given that there are cases where both dies... we just have to give up the mother's right to live over a fetus (which will die)? What if the mother isn't physically ready to have a baby. In the case of a young female (I'm talking age of 9 and younger, cause there are cases of young kids having their periods) being raped, doesn't she a 'baby' (and I say baby, because she is still at an age where a parent would consider her their youngin)... have the right to live?  For me, if I knew my child was raped and is in no way ready for a child of her own, physically or mentally... I would rather her not risk her life to try and bring that fetus into the world. Abortion should be pro-choice.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:25"
+    },
+    {
+      "nodeID": "156570",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:26:25"
+    },
+    {
+      "nodeID": "156571",
+      "text": "Okay, you miss interperted what I ment when I said the baby did not do anything....I didnt mean for it to sound like the mother did. Just because the baby is a product of rape does not mean it is a 'evil' baby. Give it up for adoption. And when I said one life would have to end that would be the choice of the mother....there are exceptions to every law. Even though it is legal to kill a fetus doesnt make it right",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:25"
+    },
+    {
+      "nodeID": "156572",
+      "text": "I have to agree with you. The Mother is usually the one responsible for conceiving the baby. The man should be responsible too, but she's the one who will get pregnant and she has to consent to sex. I don't think a woman should have the right to do what she likes with her body and kill her baby whenever she gets pregnant. I think the responsibility rests with the Mother first in this case, and the baby should not die for her.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:25"
+    },
+    {
+      "nodeID": "156573",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:26:25"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195118",
+      "fromID": "156566",
+      "toID": "156567",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195119",
+      "fromID": "156567",
+      "toID": "156565",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195120",
+      "fromID": "156569",
+      "toID": "156570",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195121",
+      "fromID": "156570",
+      "toID": "156568",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195122",
+      "fromID": "156572",
+      "toID": "156573",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195123",
+      "fromID": "156573",
+      "toID": "156571",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

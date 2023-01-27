@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "161035",
+      "text": "Sure, just as Nicolas Sarcozy, Gordon Brown, Fredrik Reinfeldt, Kevin Rudd, [et al], along with Barack Obama are too. The United States stands alone, at present, among westernized nations, in not guaranteeing health care, and therefore, the only truly democratic nation left on the planet! At the next teabagging party, they should carry signs of the leaders of all the westernized nations, including the U.S. President, with tiny moustaches. Israel is reputed to have an excellent health care system, and ranks 28th, internationally. See this tape of an anti-semitic woman pathetically shouting 'Heil Hitler' to an Israeli man speaking highly of Israel's national health system. Woman Shouts 'Heil Hitler!' At Jewish Man Praising Israel's National Health System (VIDEO)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:29"
+    },
+    {
+      "nodeID": "161036",
+      "text": "So, in summation, your position is that the US should be more like the Europeans? Should we also bathe less frequently? Have poor dental hygeine? Become an 'also ran' economy? No thanks. I have no desire to mimic Europe. :xcensored",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:29"
+    },
+    {
+      "nodeID": "161037",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:36:29"
+    },
+    {
+      "nodeID": "161038",
+      "text": "Yeah, let's live in our own narcissistic bubble.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:29"
+    },
+    {
+      "nodeID": "161039",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:36:29"
+    },
+    {
+      "nodeID": "161040",
+      "text": "Jefferson warned us against foreign entanglements. ;)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:29"
+    },
+    {
+      "nodeID": "161041",
+      "text": "So why did we spend 600 billion on the Iraq war?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:29"
+    },
+    {
+      "nodeID": "161042",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:36:29"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198314",
+      "fromID": "161036",
+      "toID": "161037",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198315",
+      "fromID": "161037",
+      "toID": "161035",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198316",
+      "fromID": "161038",
+      "toID": "161039",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198317",
+      "fromID": "161039",
+      "toID": "161036",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198318",
+      "fromID": "161041",
+      "toID": "161042",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198319",
+      "fromID": "161042",
+      "toID": "161040",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

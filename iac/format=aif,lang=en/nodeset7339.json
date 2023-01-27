@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140931",
+      "text": "95. Are humans mammals? We thought they were made in God's image and not related to animals.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:36"
+    },
+    {
+      "nodeID": "140932",
+      "text": "and finally...",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:36"
+    },
+    {
+      "nodeID": "140933",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:52:36"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184084",
+      "fromID": "140932",
+      "toID": "140933",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184085",
+      "fromID": "140933",
+      "toID": "140931",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

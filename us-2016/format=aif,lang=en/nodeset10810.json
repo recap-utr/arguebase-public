@@ -1,0 +1,2752 @@
+{
+  "nodes": [
+    {
+      "nodeID": "8935",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2013-01-10 10:41:24",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247392",
+      "text": "COOPER : Governor O'Malley, you have two minutes",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:43"
+    },
+    {
+      "nodeID": "247393",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:28:43",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247394",
+      "text": "O'MALLEY has two minutes",
+      "type": "I",
+      "timestamp": "2016-12-21 14:28:43"
+    },
+    {
+      "nodeID": "247395",
+      "text": "M: COOPER : Governor O'Malley, you have two minutes",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:43"
+    },
+    {
+      "nodeID": "247396",
+      "text": "O'MALLEY : My name is Martin O'Malley, former Mayor of Baltimore, former governor of Maryland, a life long democrat, and most importantly, a husband, and a father",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:43"
+    },
+    {
+      "nodeID": "247397",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:28:44",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247398",
+      "text": "my name is Martin O'Malley, former Mayor of Baltimore, former governor of Maryland, a life long democrat, and most importantly, a husband, and a father",
+      "type": "I",
+      "timestamp": "2016-12-21 14:28:44"
+    },
+    {
+      "nodeID": "247399",
+      "text": "M: O'MALLEY : My name is Martin O'Malley, former Mayor of Baltimore, former governor of Maryland, a life long democrat, and most importantly, a husband, and a father",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:44"
+    },
+    {
+      "nodeID": "247400",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:28:44",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247401",
+      "text": "O'MALLEY : My wife Katie and I have four great kids, Grace, and Tara, and William and Jack",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:44"
+    },
+    {
+      "nodeID": "247402",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:28:44",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247403",
+      "text": "O'MALLEY and his wife Katie have four great kids, Grace, and Tara, and William and Jack",
+      "type": "I",
+      "timestamp": "2016-12-21 14:28:44"
+    },
+    {
+      "nodeID": "247404",
+      "text": "M: O'MALLEY : My wife Katie and I have four great kids, Grace, and Tara, and William and Jack",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:44"
+    },
+    {
+      "nodeID": "247405",
+      "text": "O'MALLEY : like you, there is nothing we wouldn't do to give them healthier and better lives",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:44"
+    },
+    {
+      "nodeID": "247406",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:28:44",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247407",
+      "text": "like other people, there is nothing O'MALLEY and his wife wouldn't do to give their children healthier and better lives",
+      "type": "I",
+      "timestamp": "2016-12-21 14:28:45"
+    },
+    {
+      "nodeID": "247408",
+      "text": "M: O'MALLEY : like you, there is nothing we wouldn't do to give them healthier and better lives",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:45"
+    },
+    {
+      "nodeID": "247409",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:28:45",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247410",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:28:45",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247411",
+      "text": "O'MALLEY : There are some things that I have learned to do better in life than others",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:45"
+    },
+    {
+      "nodeID": "247412",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:28:45",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247413",
+      "text": "there are some things that O'MALLEY has learned to do better in life than others",
+      "type": "I",
+      "timestamp": "2016-12-21 14:28:45"
+    },
+    {
+      "nodeID": "247414",
+      "text": "M: O'MALLEY : There are some things that I have learned to do better in life than others",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:45"
+    },
+    {
+      "nodeID": "247415",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:28:45",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247416",
+      "text": "O'MALLEY : after 15 years of executive experience, I have learned how to be an effective leader",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:46"
+    },
+    {
+      "nodeID": "247417",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:28:46",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247418",
+      "text": "after 15 years of executive experience, O'MALLEY has learned how to be an effective leader",
+      "type": "I",
+      "timestamp": "2016-12-21 14:28:46"
+    },
+    {
+      "nodeID": "247419",
+      "text": "M: O'MALLEY : after 15 years of executive experience, I have learned how to be an effective leader",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:46"
+    },
+    {
+      "nodeID": "247420",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:28:46",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247421",
+      "text": "O'MALLEY : Whether it was raising the minimum wage, making our public schools the best in America, passing marriage equality, the DREAM Act, and comprehensive gun safety legislation, I have learned how to get things done",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:46"
+    },
+    {
+      "nodeID": "247422",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:28:46",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247423",
+      "text": "whether it was raising the minimum wage, making our public schools the best in America, passing marriage equality, the DREAM Act, and comprehensive gun safety legislation, I have learned how to get things done",
+      "type": "I",
+      "timestamp": "2016-12-21 14:28:46"
+    },
+    {
+      "nodeID": "247424",
+      "text": "M: O'MALLEY : Whether it was raising the minimum wage, making our public schools the best in America, passing marriage equality, the DREAM Act, and comprehensive gun safety legislation, I have learned how to get things done",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:46"
+    },
+    {
+      "nodeID": "247425",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:28:47",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247426",
+      "text": "O'MALLEY : I am very clear about my principals",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:47"
+    },
+    {
+      "nodeID": "247427",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:28:47",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247428",
+      "text": "O'MALLEY is very clear about his principals",
+      "type": "I",
+      "timestamp": "2016-12-21 14:28:47"
+    },
+    {
+      "nodeID": "247429",
+      "text": "M: O'MALLEY : I am very clear about my principals",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:47"
+    },
+    {
+      "nodeID": "247430",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 14:28:47",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "247431",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:28:47",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247432",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:28:47",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "247433",
+      "text": "O'MALLEY : Thanks to President Obama, our country has come a long way since the Wall Street crash of 2008",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:47"
+    },
+    {
+      "nodeID": "247434",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:28:48",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247435",
+      "text": "thanks to President Obama, USA has come a long way since the Wall Street crash of 2008",
+      "type": "I",
+      "timestamp": "2016-12-21 14:28:48"
+    },
+    {
+      "nodeID": "247436",
+      "text": "M: O'MALLEY : Thanks to President Obama, our country has come a long way since the Wall Street crash of 2008",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:48"
+    },
+    {
+      "nodeID": "247437",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:28:48",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247438",
+      "text": "M: O'MALLEY : Our country's doing better, we are creating jobs again",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:48"
+    },
+    {
+      "nodeID": "247439",
+      "text": "O'MALLEY : Our country's doing better",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:48"
+    },
+    {
+      "nodeID": "247440",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:28:48",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247441",
+      "text": "thanks to OBAMA, USA is doing better",
+      "type": "I",
+      "timestamp": "2016-12-21 14:28:48"
+    },
+    {
+      "nodeID": "247442",
+      "text": "M: O'MALLEY : Our country's doing better",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:48"
+    },
+    {
+      "nodeID": "247443",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:28:49",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247444",
+      "text": "O'MALLEY : we are creating jobs again",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:49"
+    },
+    {
+      "nodeID": "247445",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:28:49",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247446",
+      "text": "USA are creating jobs again",
+      "type": "I",
+      "timestamp": "2016-12-21 14:28:49"
+    },
+    {
+      "nodeID": "247447",
+      "text": "M: O'MALLEY : we are creating jobs again",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:49"
+    },
+    {
+      "nodeID": "247448",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 14:28:49",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "247449",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:28:49",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247450",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:28:49",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "247451",
+      "text": "O'MALLEY : we elected a president, not a magician",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:49"
+    },
+    {
+      "nodeID": "247452",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:28:50",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247453",
+      "text": "Americans elected a president, not a magician",
+      "type": "I",
+      "timestamp": "2016-12-21 14:28:50"
+    },
+    {
+      "nodeID": "247454",
+      "text": "M: O'MALLEY : we elected a president, not a magician",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:50"
+    },
+    {
+      "nodeID": "247455",
+      "text": "O'MALLEY : there is urgent work that needs to be done right now",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:50"
+    },
+    {
+      "nodeID": "247456",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:28:50",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247457",
+      "text": "there is urgent work that needs to be done right now",
+      "type": "I",
+      "timestamp": "2016-12-21 14:28:50"
+    },
+    {
+      "nodeID": "247458",
+      "text": "M: O'MALLEY : there is urgent work that needs to be done right now",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:50"
+    },
+    {
+      "nodeID": "247459",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:28:50",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247460",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:28:50",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247461",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 14:28:51",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "247462",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:28:51",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "247463",
+      "text": "there is a deep economic injustice that threatens to tear USA apart",
+      "type": "I",
+      "timestamp": "2016-12-21 14:28:51"
+    },
+    {
+      "nodeID": "247464",
+      "text": "M: O'MALLEY : there is a \u2014 deep injustice, an economic injustice that threatens to tear our country apart",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:51"
+    },
+    {
+      "nodeID": "247465",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 14:28:51",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "247466",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:28:51",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247467",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:28:51",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "247468",
+      "text": "O'MALLEY : it will not solve itself",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:51"
+    },
+    {
+      "nodeID": "247469",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:28:51",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247470",
+      "text": "the deep economic injustice will not solve itself",
+      "type": "I",
+      "timestamp": "2016-12-21 14:28:52"
+    },
+    {
+      "nodeID": "247471",
+      "text": "M: O'MALLEY : it will not solve itself",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:52"
+    },
+    {
+      "nodeID": "247472",
+      "text": "O'MALLEY : Injustice does not solve itself",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:52"
+    },
+    {
+      "nodeID": "247473",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:28:52",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247474",
+      "text": "injustice does not solve itself",
+      "type": "I",
+      "timestamp": "2016-12-21 14:28:52"
+    },
+    {
+      "nodeID": "247475",
+      "text": "M: O'MALLEY : Injustice does not solve itself",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:52"
+    },
+    {
+      "nodeID": "247476",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-12-21 14:28:52",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "247477",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:28:52",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247478",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:28:52",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "247479",
+      "text": "O'MALLEY : our middle class is shrinking",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:53"
+    },
+    {
+      "nodeID": "247480",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:28:53",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247481",
+      "text": "middle class is shrinking",
+      "type": "I",
+      "timestamp": "2016-12-21 14:28:53"
+    },
+    {
+      "nodeID": "247482",
+      "text": "M: O'MALLEY : our middle class is shrinking",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:53"
+    },
+    {
+      "nodeID": "247483",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 14:28:53",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "247484",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:28:53",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247485",
+      "text": "O'MALLEY : there is a \u2014 deep injustice, an economic injustice that threatens to tear our country apart",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:53"
+    },
+    {
+      "nodeID": "247486",
+      "text": "M: O'MALLEY : there is a deep economic injustice that threatens to tear USA apart",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:53"
+    },
+    {
+      "nodeID": "247487",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:28:53",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247488",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:28:54",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "247489",
+      "text": "O'MALLEY : Our poor families are becoming poorer",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:54"
+    },
+    {
+      "nodeID": "247490",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:28:54",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247491",
+      "text": "poor families are becoming poorer",
+      "type": "I",
+      "timestamp": "2016-12-21 14:28:54"
+    },
+    {
+      "nodeID": "247492",
+      "text": "M: O'MALLEY : Our poor families are becoming poorer",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:54"
+    },
+    {
+      "nodeID": "247493",
+      "text": "O'MALLEY : 70 percent of us are earning the same, or less than we were 12 years ago",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:54"
+    },
+    {
+      "nodeID": "247494",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:28:54",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247495",
+      "text": "70 percent of Americans are earning the same, or less than they were 12 years ago",
+      "type": "I",
+      "timestamp": "2016-12-21 14:28:54"
+    },
+    {
+      "nodeID": "247496",
+      "text": "M: O'MALLEY : 70 percent of us are earning the same, or less than we were 12 years ago",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:54"
+    },
+    {
+      "nodeID": "247497",
+      "text": "O'MALLEY : We need new leadership",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:55"
+    },
+    {
+      "nodeID": "247498",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:28:55",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247499",
+      "text": "USA need new leadership",
+      "type": "I",
+      "timestamp": "2016-12-21 14:28:55"
+    },
+    {
+      "nodeID": "247500",
+      "text": "M: O'MALLEY : We need new leadership",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:55"
+    },
+    {
+      "nodeID": "247501",
+      "text": "O'MALLEY : we need action",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:55"
+    },
+    {
+      "nodeID": "247502",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:28:55",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247503",
+      "text": "USA need action",
+      "type": "I",
+      "timestamp": "2016-12-21 14:28:55"
+    },
+    {
+      "nodeID": "247504",
+      "text": "M: O'MALLEY : we need action",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:55"
+    },
+    {
+      "nodeID": "247505",
+      "text": "O'MALLEY : The sort of action that will actually make wages go up again for all American families",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:55"
+    },
+    {
+      "nodeID": "247506",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:28:56",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247507",
+      "text": "USA need the sort of action that will actually make wages go up again for all American families",
+      "type": "I",
+      "timestamp": "2016-12-21 14:28:56"
+    },
+    {
+      "nodeID": "247508",
+      "text": "M: O'MALLEY : The sort of action that will actually make wages go up again for all American families",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:56"
+    },
+    {
+      "nodeID": "247509",
+      "text": "O'MALLEY : Our economy isn't money",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:56"
+    },
+    {
+      "nodeID": "247510",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:28:56",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247511",
+      "text": "USA's economy isn't money",
+      "type": "I",
+      "timestamp": "2016-12-21 14:28:57"
+    },
+    {
+      "nodeID": "247512",
+      "text": "M: O'MALLEY : Our economy isn't money",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:57"
+    },
+    {
+      "nodeID": "247513",
+      "text": "O'MALLEY : it's people",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:57"
+    },
+    {
+      "nodeID": "247514",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:28:58",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247515",
+      "text": "USA's economy is people",
+      "type": "I",
+      "timestamp": "2016-12-21 14:28:58"
+    },
+    {
+      "nodeID": "247516",
+      "text": "M: O'MALLEY : it's people",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:58"
+    },
+    {
+      "nodeID": "247517",
+      "text": "O'MALLEY : It's all of our people",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:58"
+    },
+    {
+      "nodeID": "247518",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:28:58",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247519",
+      "text": "USA's economy is all of American people",
+      "type": "I",
+      "timestamp": "2016-12-21 14:28:59"
+    },
+    {
+      "nodeID": "247520",
+      "text": "M: O'MALLEY : It's all of our people",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:59"
+    },
+    {
+      "nodeID": "247521",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-12-21 14:28:59",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "247522",
+      "text": "M: O'MALLEY : so we must invest in our country",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:59"
+    },
+    {
+      "nodeID": "247523",
+      "text": "O'MALLEY : we must invest in our country",
+      "type": "L",
+      "timestamp": "2016-12-21 14:28:59"
+    },
+    {
+      "nodeID": "247524",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:29:00",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247525",
+      "text": "Americans must invest in their country",
+      "type": "I",
+      "timestamp": "2016-12-21 14:29:00"
+    },
+    {
+      "nodeID": "247526",
+      "text": "M: O'MALLEY : we must invest in our country",
+      "type": "L",
+      "timestamp": "2016-12-21 14:29:00"
+    },
+    {
+      "nodeID": "247527",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 14:29:00",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "247528",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:29:00",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247529",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:29:00",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "247530",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:29:00",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247531",
+      "text": "O'MALLEY : the potential of our kids to make college a debt free option for all of our families, instead of settling our kids with a lifetime of crushing debt",
+      "type": "L",
+      "timestamp": "2016-12-21 14:29:00"
+    },
+    {
+      "nodeID": "247532",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:29:01",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247533",
+      "text": "we must invest in the potential of American kids to make college a debt free option for all of our families, instead of settling our kids with a lifetime of crushing debt",
+      "type": "I",
+      "timestamp": "2016-12-21 14:29:01"
+    },
+    {
+      "nodeID": "247534",
+      "text": "M: O'MALLEY : the potential of our kids to make college a debt free option for all of our families, instead of settling our kids with a lifetime of crushing debt",
+      "type": "L",
+      "timestamp": "2016-12-21 14:29:01"
+    },
+    {
+      "nodeID": "247535",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 14:29:01",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "247536",
+      "text": "O'MALLEY : we must square our shoulders to the great challenge of climate change and make this threat our opportunity",
+      "type": "L",
+      "timestamp": "2016-12-21 14:29:01"
+    },
+    {
+      "nodeID": "247537",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:29:01",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247538",
+      "text": "Americans must square their shoulders to the great challenge of climate change and make this threat our opportunity",
+      "type": "I",
+      "timestamp": "2016-12-21 14:29:01"
+    },
+    {
+      "nodeID": "247539",
+      "text": "M: O'MALLEY : we must square our shoulders to the great challenge of climate change and make this threat our opportunity",
+      "type": "L",
+      "timestamp": "2016-12-21 14:29:01"
+    },
+    {
+      "nodeID": "247540",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:29:01",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247541",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:29:02",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247542",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:29:02",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "247543",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:29:02",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "247544",
+      "text": "O'MALLEY : The future is what we make of it",
+      "type": "L",
+      "timestamp": "2016-12-21 14:29:02"
+    },
+    {
+      "nodeID": "247545",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:29:02",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247546",
+      "text": "the future is what Americans make of it",
+      "type": "I",
+      "timestamp": "2016-12-21 14:29:02"
+    },
+    {
+      "nodeID": "247547",
+      "text": "M: O'MALLEY : The future is what we make of it",
+      "type": "L",
+      "timestamp": "2016-12-21 14:29:02"
+    },
+    {
+      "nodeID": "247548",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 14:29:02",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "247549",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:29:02",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247550",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:29:03",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "247551",
+      "text": "COOPER: Governor O'Malley, you have two minutes.\r O'MALLEY: My name is Martin O'Malley, former Mayor of Baltimore, former governor of Maryland, a life long democrat, and most importantly, a husband, and a father.\r My wife Katie and I have four great kids, Grace, and Tara, and William and Jack. And, like you, there is nothing we wouldn't do to give them healthier and better lives. There are some things that I have learned to do better in life than others. And, after 15 years of executive experience, I have learned how to be an effective leader.\r Whether it was raising the minimum wage, making our public schools the best in America, passing marriage equality, the DREAM Act, and comprehensive gun safety legislation, I have learned how to get things done because I am very clear about my principals.\r Thanks to President Obama, our country has come a long way since the Wall Street crash of 2008. Our country's doing better, we are creating jobs again. But we elected a president, not a magician, and there is urgent work that needs to be done right now. For there is a \u2014 deep injustice, an economic injustice that threatens to tear our country apart, and it will not solve itself. Injustice does not solve itself.\r What I'm talking about is this, our middle class is shrinking. Our poor families are becoming poorer, and 70 percent of us are earning the same, or less than we were 12 years ago. We need new leadership, and we need action. The sort of action that will actually make wages go up again for all American families.\r Our economy isn't money, it's people. It's all of our people, and so we must invest in our country, and the potential of our kids to make college a debt free option for all of our families, instead of settling our kids with a lifetime of crushing debt.\r And, we must square our shoulders to the great challenge of climate change and make this threat our opportunity. The future is what we make of it. We are all in this together. And, the question in this election is whether you and I still have the ability to give our kids a better future. I believe we do, that is why I am running for president, and I need your help.\r Thank you. [applause]",
+      "type": "L",
+      "timestamp": "2016-12-21 14:29:03"
+    },
+    {
+      "nodeID": "247552",
+      "text": "O'MALLEY : We are all in this together",
+      "type": "L",
+      "timestamp": "2016-12-21 14:29:03"
+    },
+    {
+      "nodeID": "247553",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:29:03",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247554",
+      "text": "Americans are all in this together",
+      "type": "I",
+      "timestamp": "2016-12-21 14:29:03"
+    },
+    {
+      "nodeID": "247555",
+      "text": "M: O'MALLEY : We are all in this together",
+      "type": "L",
+      "timestamp": "2016-12-21 14:29:03"
+    },
+    {
+      "nodeID": "247556",
+      "text": "O'MALLEY : the question in this election is whether you and I still have the ability to give our kids a better future",
+      "type": "L",
+      "timestamp": "2016-12-21 14:29:03"
+    },
+    {
+      "nodeID": "247557",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:29:03",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247558",
+      "text": "the question in this election is whether Americans still have the ability to give their kids a better future",
+      "type": "I",
+      "timestamp": "2016-12-21 14:29:03"
+    },
+    {
+      "nodeID": "247559",
+      "text": "M: O'MALLEY : the question in this election is whether you and I still have the ability to give our kids a better future",
+      "type": "L",
+      "timestamp": "2016-12-21 14:29:04"
+    },
+    {
+      "nodeID": "247560",
+      "text": "O'MALLEY : I believe we do",
+      "type": "L",
+      "timestamp": "2016-12-21 14:29:04"
+    },
+    {
+      "nodeID": "247561",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:29:04",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247562",
+      "text": "O'MALLEY believes Americans do have the ability to give their kids a better future",
+      "type": "I",
+      "timestamp": "2016-12-21 14:29:04"
+    },
+    {
+      "nodeID": "247563",
+      "text": "M: O'MALLEY : I believe we do",
+      "type": "L",
+      "timestamp": "2016-12-21 14:29:04"
+    },
+    {
+      "nodeID": "247564",
+      "text": "O'MALLEY : I am running for president",
+      "type": "L",
+      "timestamp": "2016-12-21 14:29:04"
+    },
+    {
+      "nodeID": "247565",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:29:04",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247566",
+      "text": "O'MALLEY is running for president",
+      "type": "I",
+      "timestamp": "2016-12-21 14:29:04"
+    },
+    {
+      "nodeID": "247567",
+      "text": "M: O'MALLEY : I am running for president",
+      "type": "L",
+      "timestamp": "2016-12-21 14:29:04"
+    },
+    {
+      "nodeID": "247568",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 14:29:04",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "247569",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:29:05",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247570",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:29:05",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "247571",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:29:05",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247572",
+      "text": "O'MALLEY : I need your help",
+      "type": "L",
+      "timestamp": "2016-12-21 14:29:05"
+    },
+    {
+      "nodeID": "247573",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:29:05",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247574",
+      "text": "O'MALLEY needs American's help to become the president",
+      "type": "I",
+      "timestamp": "2016-12-21 14:29:05"
+    },
+    {
+      "nodeID": "247575",
+      "text": "M: O'MALLEY : I need your help",
+      "type": "L",
+      "timestamp": "2016-12-21 14:29:05"
+    },
+    {
+      "nodeID": "247576",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:29:05",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247577",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 14:29:06",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "247578",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:29:06",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247579",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:29:06",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "247580",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 14:29:06",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "247581",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:29:06",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247582",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:29:06",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247583",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:29:06",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "247584",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 14:29:06",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "247585",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:29:06",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247586",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 14:29:07",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "247587",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:29:07",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247588",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:29:07",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "247589",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:29:07",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247590",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-12-21 14:29:07",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "247591",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:29:07",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "247592",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:29:07",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247593",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-12-21 14:29:07",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "247594",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:29:07",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "247595",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:29:08",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247596",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:29:08",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247597",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 14:29:08",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "247598",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:29:08",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "247599",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 14:29:08",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "247600",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:29:08",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247601",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:29:09",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "298888",
+      "fromID": "247393",
+      "toID": "247394",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298889",
+      "fromID": "247392",
+      "toID": "247393",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298890",
+      "fromID": "247397",
+      "toID": "247398",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298891",
+      "fromID": "247396",
+      "toID": "247397",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298892",
+      "fromID": "247392",
+      "toID": "247400",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298893",
+      "fromID": "247400",
+      "toID": "247396",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298894",
+      "fromID": "247402",
+      "toID": "247403",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298895",
+      "fromID": "247401",
+      "toID": "247402",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298896",
+      "fromID": "247406",
+      "toID": "247407",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298897",
+      "fromID": "247405",
+      "toID": "247406",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298898",
+      "fromID": "247396",
+      "toID": "247409",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298899",
+      "fromID": "247409",
+      "toID": "247401",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298900",
+      "fromID": "247401",
+      "toID": "247410",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298901",
+      "fromID": "247410",
+      "toID": "247405",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298902",
+      "fromID": "247412",
+      "toID": "247413",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298903",
+      "fromID": "247411",
+      "toID": "247412",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298904",
+      "fromID": "247405",
+      "toID": "247415",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298905",
+      "fromID": "247415",
+      "toID": "247411",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298906",
+      "fromID": "247417",
+      "toID": "247418",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298907",
+      "fromID": "247416",
+      "toID": "247417",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298908",
+      "fromID": "247411",
+      "toID": "247420",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298909",
+      "fromID": "247420",
+      "toID": "247416",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298910",
+      "fromID": "247422",
+      "toID": "247423",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298911",
+      "fromID": "247421",
+      "toID": "247422",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298912",
+      "fromID": "247416",
+      "toID": "247425",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298913",
+      "fromID": "247425",
+      "toID": "247421",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298914",
+      "fromID": "247427",
+      "toID": "247428",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298915",
+      "fromID": "247426",
+      "toID": "247427",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298916",
+      "fromID": "247428",
+      "toID": "247430",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298917",
+      "fromID": "247430",
+      "toID": "247423",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298918",
+      "fromID": "247421",
+      "toID": "247431",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298919",
+      "fromID": "247431",
+      "toID": "247426",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298920",
+      "fromID": "247431",
+      "toID": "247432",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298921",
+      "fromID": "247432",
+      "toID": "247430",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298922",
+      "fromID": "247434",
+      "toID": "247435",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298923",
+      "fromID": "247433",
+      "toID": "247434",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298924",
+      "fromID": "247426",
+      "toID": "247437",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298925",
+      "fromID": "247437",
+      "toID": "247433",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298926",
+      "fromID": "247440",
+      "toID": "247441",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298927",
+      "fromID": "247439",
+      "toID": "247440",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298928",
+      "fromID": "247433",
+      "toID": "247443",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298929",
+      "fromID": "247443",
+      "toID": "247439",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298930",
+      "fromID": "247445",
+      "toID": "247446",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298931",
+      "fromID": "247444",
+      "toID": "247445",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298932",
+      "fromID": "247446",
+      "toID": "247448",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298933",
+      "fromID": "247448",
+      "toID": "247441",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298934",
+      "fromID": "247439",
+      "toID": "247449",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298935",
+      "fromID": "247449",
+      "toID": "247444",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298936",
+      "fromID": "247449",
+      "toID": "247450",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298937",
+      "fromID": "247450",
+      "toID": "247448",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298938",
+      "fromID": "247452",
+      "toID": "247453",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298939",
+      "fromID": "247451",
+      "toID": "247452",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298940",
+      "fromID": "247456",
+      "toID": "247457",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298941",
+      "fromID": "247455",
+      "toID": "247456",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298942",
+      "fromID": "247444",
+      "toID": "247459",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298943",
+      "fromID": "247459",
+      "toID": "247451",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298944",
+      "fromID": "247451",
+      "toID": "247460",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298945",
+      "fromID": "247460",
+      "toID": "247455",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298946",
+      "fromID": "247453",
+      "toID": "247461",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298947",
+      "fromID": "247461",
+      "toID": "247457",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298948",
+      "fromID": "247460",
+      "toID": "247462",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298949",
+      "fromID": "247462",
+      "toID": "247461",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298950",
+      "fromID": "247463",
+      "toID": "247465",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298951",
+      "fromID": "247465",
+      "toID": "247457",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298952",
+      "fromID": "247455",
+      "toID": "247466",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298953",
+      "fromID": "247466",
+      "toID": "247467",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298954",
+      "fromID": "247467",
+      "toID": "247465",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298955",
+      "fromID": "247469",
+      "toID": "247470",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298956",
+      "fromID": "247468",
+      "toID": "247469",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298957",
+      "fromID": "247470",
+      "toID": "247465",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298958",
+      "fromID": "247466",
+      "toID": "247468",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298959",
+      "fromID": "247473",
+      "toID": "247474",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298960",
+      "fromID": "247472",
+      "toID": "247473",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298961",
+      "fromID": "247474",
+      "toID": "247476",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298962",
+      "fromID": "247476",
+      "toID": "247470",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298963",
+      "fromID": "247468",
+      "toID": "247477",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298964",
+      "fromID": "247477",
+      "toID": "247472",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298965",
+      "fromID": "247477",
+      "toID": "247478",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298966",
+      "fromID": "247478",
+      "toID": "247476",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298967",
+      "fromID": "247480",
+      "toID": "247481",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298968",
+      "fromID": "247479",
+      "toID": "247480",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298969",
+      "fromID": "247481",
+      "toID": "247483",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298970",
+      "fromID": "247483",
+      "toID": "247463",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298971",
+      "fromID": "247484",
+      "toID": "247463",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298972",
+      "fromID": "247485",
+      "toID": "247484",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298973",
+      "fromID": "247485",
+      "toID": "247487",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298974",
+      "fromID": "247487",
+      "toID": "247479",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298975",
+      "fromID": "247487",
+      "toID": "247488",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298976",
+      "fromID": "247488",
+      "toID": "247483",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298977",
+      "fromID": "247490",
+      "toID": "247491",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298978",
+      "fromID": "247489",
+      "toID": "247490",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298979",
+      "fromID": "247494",
+      "toID": "247495",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298980",
+      "fromID": "247493",
+      "toID": "247494",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298981",
+      "fromID": "247498",
+      "toID": "247499",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298982",
+      "fromID": "247497",
+      "toID": "247498",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298983",
+      "fromID": "247502",
+      "toID": "247503",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298984",
+      "fromID": "247501",
+      "toID": "247502",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298985",
+      "fromID": "247506",
+      "toID": "247507",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298986",
+      "fromID": "247505",
+      "toID": "247506",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298987",
+      "fromID": "247510",
+      "toID": "247511",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298988",
+      "fromID": "247509",
+      "toID": "247510",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298989",
+      "fromID": "247514",
+      "toID": "247515",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298990",
+      "fromID": "247513",
+      "toID": "247514",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298991",
+      "fromID": "247518",
+      "toID": "247519",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298992",
+      "fromID": "247517",
+      "toID": "247518",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298993",
+      "fromID": "247519",
+      "toID": "247521",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298994",
+      "fromID": "247521",
+      "toID": "247515",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298995",
+      "fromID": "247524",
+      "toID": "247525",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298996",
+      "fromID": "247523",
+      "toID": "247524",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298997",
+      "fromID": "247515",
+      "toID": "247527",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298998",
+      "fromID": "247527",
+      "toID": "247525",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298999",
+      "fromID": "247513",
+      "toID": "247528",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299000",
+      "fromID": "247528",
+      "toID": "247523",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299001",
+      "fromID": "247528",
+      "toID": "247529",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299002",
+      "fromID": "247529",
+      "toID": "247527",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299003",
+      "fromID": "247509",
+      "toID": "247530",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299004",
+      "fromID": "247530",
+      "toID": "247513",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299005",
+      "fromID": "247532",
+      "toID": "247533",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299006",
+      "fromID": "247531",
+      "toID": "247532",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299007",
+      "fromID": "247515",
+      "toID": "247535",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299008",
+      "fromID": "247535",
+      "toID": "247533",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299009",
+      "fromID": "247537",
+      "toID": "247538",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299010",
+      "fromID": "247536",
+      "toID": "247537",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299011",
+      "fromID": "247513",
+      "toID": "247540",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299012",
+      "fromID": "247540",
+      "toID": "247531",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299013",
+      "fromID": "247513",
+      "toID": "247541",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299014",
+      "fromID": "247541",
+      "toID": "247517",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299015",
+      "fromID": "247541",
+      "toID": "247542",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299016",
+      "fromID": "247542",
+      "toID": "247521",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299017",
+      "fromID": "247540",
+      "toID": "247543",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299018",
+      "fromID": "247543",
+      "toID": "247535",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299019",
+      "fromID": "247545",
+      "toID": "247546",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299020",
+      "fromID": "247544",
+      "toID": "247545",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299021",
+      "fromID": "247515",
+      "toID": "247548",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299022",
+      "fromID": "247548",
+      "toID": "247538",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299023",
+      "fromID": "247513",
+      "toID": "247549",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299024",
+      "fromID": "247549",
+      "toID": "247536",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299025",
+      "fromID": "247549",
+      "toID": "247550",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299026",
+      "fromID": "247550",
+      "toID": "247548",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299027",
+      "fromID": "247551",
+      "toID": "247550",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299028",
+      "fromID": "247553",
+      "toID": "247554",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299029",
+      "fromID": "247552",
+      "toID": "247553",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299030",
+      "fromID": "247557",
+      "toID": "247558",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299031",
+      "fromID": "247556",
+      "toID": "247557",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299032",
+      "fromID": "247561",
+      "toID": "247562",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299033",
+      "fromID": "247560",
+      "toID": "247561",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299034",
+      "fromID": "247565",
+      "toID": "247566",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299035",
+      "fromID": "247564",
+      "toID": "247565",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299036",
+      "fromID": "247562",
+      "toID": "247568",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299037",
+      "fromID": "247568",
+      "toID": "247566",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299038",
+      "fromID": "247569",
+      "toID": "247564",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299039",
+      "fromID": "247560",
+      "toID": "247569",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299040",
+      "fromID": "247569",
+      "toID": "247570",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299041",
+      "fromID": "247570",
+      "toID": "247568",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299042",
+      "fromID": "247571",
+      "toID": "247560",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299043",
+      "fromID": "247556",
+      "toID": "247571",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299044",
+      "fromID": "247573",
+      "toID": "247574",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299045",
+      "fromID": "247572",
+      "toID": "247573",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299046",
+      "fromID": "247576",
+      "toID": "247556",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299047",
+      "fromID": "247552",
+      "toID": "247576",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299048",
+      "fromID": "247491",
+      "toID": "247577",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299049",
+      "fromID": "247577",
+      "toID": "247463",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299050",
+      "fromID": "247485",
+      "toID": "247578",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299051",
+      "fromID": "247578",
+      "toID": "247489",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299052",
+      "fromID": "247578",
+      "toID": "247579",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299053",
+      "fromID": "247579",
+      "toID": "247577",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299054",
+      "fromID": "247495",
+      "toID": "247580",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299055",
+      "fromID": "247580",
+      "toID": "247463",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299056",
+      "fromID": "247485",
+      "toID": "247582",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299057",
+      "fromID": "247581",
+      "toID": "247493",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299058",
+      "fromID": "247485",
+      "toID": "247581",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299059",
+      "fromID": "247582",
+      "toID": "247479",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299060",
+      "fromID": "247581",
+      "toID": "247583",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299061",
+      "fromID": "247583",
+      "toID": "247580",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299062",
+      "fromID": "247457",
+      "toID": "247584",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299063",
+      "fromID": "247584",
+      "toID": "247499",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299064",
+      "fromID": "247455",
+      "toID": "247585",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299065",
+      "fromID": "247585",
+      "toID": "247497",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299066",
+      "fromID": "247457",
+      "toID": "247586",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299067",
+      "fromID": "247586",
+      "toID": "247503",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299068",
+      "fromID": "247455",
+      "toID": "247587",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299069",
+      "fromID": "247587",
+      "toID": "247501",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299070",
+      "fromID": "247587",
+      "toID": "247588",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299071",
+      "fromID": "247588",
+      "toID": "247586",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299072",
+      "fromID": "247501",
+      "toID": "247589",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299073",
+      "fromID": "247589",
+      "toID": "247505",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299074",
+      "fromID": "247507",
+      "toID": "247590",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299075",
+      "fromID": "247590",
+      "toID": "247503",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299076",
+      "fromID": "247589",
+      "toID": "247591",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299077",
+      "fromID": "247591",
+      "toID": "247590",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299078",
+      "fromID": "247505",
+      "toID": "247592",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299079",
+      "fromID": "247592",
+      "toID": "247509",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299080",
+      "fromID": "247515",
+      "toID": "247593",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299081",
+      "fromID": "247593",
+      "toID": "247511",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299082",
+      "fromID": "247530",
+      "toID": "247594",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299083",
+      "fromID": "247594",
+      "toID": "247593",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299084",
+      "fromID": "247536",
+      "toID": "247595",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299085",
+      "fromID": "247595",
+      "toID": "247544",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299086",
+      "fromID": "247544",
+      "toID": "247596",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299087",
+      "fromID": "247596",
+      "toID": "247552",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299088",
+      "fromID": "247554",
+      "toID": "247597",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299089",
+      "fromID": "247597",
+      "toID": "247546",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299090",
+      "fromID": "247596",
+      "toID": "247598",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299091",
+      "fromID": "247598",
+      "toID": "247597",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299092",
+      "fromID": "247562",
+      "toID": "247599",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299093",
+      "fromID": "247599",
+      "toID": "247574",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299094",
+      "fromID": "247600",
+      "toID": "247572",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299095",
+      "fromID": "247560",
+      "toID": "247600",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299096",
+      "fromID": "247600",
+      "toID": "247601",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "299097",
+      "fromID": "247601",
+      "toID": "247599",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "247485",
+      "personID": "3381",
+      "timestamp": "2016-12-21 14:29:22",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

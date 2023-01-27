@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "158684",
+      "text": "the dems control congress and the white house just like back in 94 so its time to kick gun nut butt again!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:17"
+    },
+    {
+      "nodeID": "158685",
+      "text": "Careful Brady. It was passage of the 94 ban that lead to the democrats losing the majority of their seats in the house and senate for over a decade. More people than ever are buying guns, including many first timers, because they know Obama will support whatever gun control gets through congress, and they don't like that. They know he's going to go back on his promises to hunters and sportsmen, and that's going to cost him big in 2012. This is going to be a very short reign for the democrats.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:17"
+    },
+    {
+      "nodeID": "158686",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:31:17"
+    },
+    {
+      "nodeID": "158687",
+      "text": "Who on earth worships the Koran?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:17"
+    },
+    {
+      "nodeID": "158688",
+      "text": "Muslims.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:17"
+    },
+    {
+      "nodeID": "158689",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:31:17"
+    },
+    {
+      "nodeID": "158690",
+      "text": "What makes you think a catholic is likely to molest a child.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:17"
+    },
+    {
+      "nodeID": "158691",
+      "text": "...The scandal in involving the Catholic priests?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:18"
+    },
+    {
+      "nodeID": "158692",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:31:18"
+    },
+    {
+      "nodeID": "158693",
+      "text": "Who on earth worships the Koran? What makes you think a catholic is likely to molest a child. There is also a big difference between beliefs and actual ownership of a deadly weapon. I also do not see how this affects anyone's 'constitutional rights'. You may have the right to keep and bear arms, that doesn't exempt you from being treated differently on the basis of your choice to do so, anymore than your right to free speech exempts you from being treated differently if you advocate segregation or paedophilia.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:18"
+    },
+    {
+      "nodeID": "158694",
+      "text": "You only say that it won't make a change because you support the effects it will have.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:18"
+    },
+    {
+      "nodeID": "158695",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:31:18"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196632",
+      "fromID": "158685",
+      "toID": "158686",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196633",
+      "fromID": "158686",
+      "toID": "158684",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196634",
+      "fromID": "158688",
+      "toID": "158689",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196635",
+      "fromID": "158689",
+      "toID": "158687",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196636",
+      "fromID": "158691",
+      "toID": "158692",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196637",
+      "fromID": "158692",
+      "toID": "158690",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196638",
+      "fromID": "158694",
+      "toID": "158695",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196639",
+      "fromID": "158695",
+      "toID": "158693",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

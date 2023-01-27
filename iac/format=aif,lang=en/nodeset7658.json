@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "145612",
+      "text": "You know what the definition of a 'hero' is? Someone who gets other people killed. You can look it up later.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:43"
+    },
+    {
+      "nodeID": "145613",
+      "text": "Just imagine for a second that you were armed when two individuals showed up with shotguns. Would you really have been able to do something that wouldn't have resulted in the death and/or injury of one or more innocents, including you yourself? Did anyone die as a result of the robbery? Would people have died if you had acted vigilante?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:43"
+    },
+    {
+      "nodeID": "145614",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:02:43"
+    },
+    {
+      "nodeID": "145615",
+      "text": "Evil can flourish a lot more easily if good men carry out evil acts in the name of prevention.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:43"
+    },
+    {
+      "nodeID": "145616",
+      "text": "So you must be opposed to arming law enforcement as well? By the way, shooting somebody in self defense is not an evil act.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:43"
+    },
+    {
+      "nodeID": "145617",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:02:43"
+    },
+    {
+      "nodeID": "145618",
+      "text": "Once again, it is perfectly reasonable to assume someone breaking into my house in the middle of the night means to harm myself and/or my family. I would be well within my rights. :)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:43"
+    },
+    {
+      "nodeID": "145619",
+      "text": "You weren't referring to your home in your little story of helplessness.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:43"
+    },
+    {
+      "nodeID": "145620",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:02:43"
+    },
+    {
+      "nodeID": "145621",
+      "text": "Back it up right there sinjin! How dare you say that somebody has no right to take any action that might harm others even though there's a threat that needs to be addressed? Are you saying that the people on the 9/11 flights had no right to try and take the terrorists down? That they should've just remained in their chairs and behaved themselves as they waited to die? You're an idiot! I say again, how dare you say that you don't have a right to try and protect yourself and others from a dangerous situation? It's the duty of every American to do the right thing! You just don't seem to get it, not in the least. What you're advocating is allowing the wolves to kill the sheep until they get their fill in hopes that they'll leave the others alone. You're saying that it's better to be a victim and remain helpless, then try to fight back and potentially overwhelm and disarm one of the attackers. You're basically trusted demented individuals to decide not to hurt you.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:44"
+    },
+    {
+      "nodeID": "145622",
+      "text": "You are not only rude but incorrect in calling sinjin an idiot. His opinion is just as valid as yours. He is quite far from idiocy. I percieve his point to be that you do not have a right to endanger the lives of others by engaging in a firefight with some perps who may not have fired if you hadn't shown up playing Sheriff. While we have not yet perfected a method of reliably predicting exactly what some perp will do if left in control with a gun in his hand in a crowded mall, we can assume that more harm will come if he is not taken down and disarmed. The fact that a citizen may legally have a gun in his pocket capable of knocking down a large animal rather than a pea-shooter that will only make it mad is comforting to me. I like big guns, too. I can agree somewhat with the idea of hesitating to interfere when an altercation seems imminent, but I cannot agree that armed citizens should never 'endanger the lives of others' by pulling his piece and firing at the perp. By the way, when you quote someone you should use their exact words, not your version of what they said...and you should apologize to sinjin for calling him an idiot.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:44"
+    },
+    {
+      "nodeID": "145623",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:02:44"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187398",
+      "fromID": "145613",
+      "toID": "145614",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187399",
+      "fromID": "145614",
+      "toID": "145612",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187400",
+      "fromID": "145616",
+      "toID": "145617",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187401",
+      "fromID": "145617",
+      "toID": "145615",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187402",
+      "fromID": "145619",
+      "toID": "145620",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187403",
+      "fromID": "145620",
+      "toID": "145618",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187404",
+      "fromID": "145622",
+      "toID": "145623",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187405",
+      "fromID": "145623",
+      "toID": "145621",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

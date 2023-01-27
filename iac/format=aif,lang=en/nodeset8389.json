@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "156766",
+      "text": "And the king of Babylon smote them and put them to death at Riblah, in the land of Hamath-thus Judah was exiled from its land. Rather, a sceptre refers exclusively to rulership, not political independence, as seen in the following passage.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:49"
+    },
+    {
+      "nodeID": "156767",
+      "text": "You didn't bother to read the link, I see, which said: 'During the 70-year Babylonian captivity, from 606-537 B.C., the southern kingdom of Israel, Judah, had lost it's national sovereignty, but retained it's tribal staff or national identity.2 It is very significant that in the book of Ezra we read that during the 70-year Babylonian captivity the Jews still retained their own lawgivers or judges.3 The Jews maintained their identity and judicial authority over their own people even during 70 years of slavery. The scepter had not been lost during the Babylonian captivity.'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:49"
+    },
+    {
+      "nodeID": "156768",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:26:49"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195262",
+      "fromID": "156767",
+      "toID": "156768",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195263",
+      "fromID": "156768",
+      "toID": "156766",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "142953",
+      "text": "Mexico City's homicide rate today is about on par with Los Angeles and is less than a third of that for Washington, D.C. Mexico City's rate was about 9 per 100,000 in 2008, while Washington, D.C. was more than 30 that year.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:57"
+    },
+    {
+      "nodeID": "142954",
+      "text": "But I thought it was the easy gun laws in the U.S. that made Mexico's cities a shooting gallery? Same as L.A. and less than D.C.?   Amid Drug War, Mexico Less Deadly Than Decade Ago",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:57"
+    },
+    {
+      "nodeID": "142955",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:56:57"
+    },
+    {
+      "nodeID": "142956",
+      "text": "So, if not from the U.S., where do they come from? There are a variety of sources: -- The Black Market. Mexico is a virtual arms bazaar, with fragmentation grenades from South Korea, AK-47s from China, and shoulder-fired rocket launchers from Spain, Israel and former Soviet bloc manufacturers. -- Russian crime organizations. Interpol says Russian Mafia groups such as Poldolskaya and Moscow-based Solntsevskaya are actively trafficking drugs and arms in Mexico. - South America. During the late 1990s, the Revolutionary Armed Forces of Colombia (FARC) established a clandestine arms smuggling and drug trafficking partnership with the Tijuana cartel, according to the Federal Research Division report from the Library of Congress. -- Asia. According to a 2006 Amnesty International Report, China has provided arms to countries in Asia, Africa and Latin America. Chinese assault weapons and Korean explosives have been recovered in Mexico. -- The Mexican Army. More than 150,000 soldiers deserted in the last six years, according to Mexican Congressman Robert Badillo. Many took their weapons with them, including the standard issue M-16 assault rifle made in Belgium. -- Guatemala. U.S. intelligence agencies say traffickers move immigrants, stolen cars, guns and drugs, including most of America's cocaine, along the porous Mexican-Guatemalan border. On March 27, La Hora, a Guatemalan newspaper, reported that police seized 500 grenades and a load of AK-47s on the border. Police say the cache was transported by a Mexican drug cartel operating out of Ixcan, a border town.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:57"
+    },
+    {
+      "nodeID": "142957",
+      "text": "And NOW we find out that Mexico's overall per capita crime rate is less than countries like the UK, Canada and ours? Maybe the problem is drugs and NOT the 2nd Amendment!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:57"
+    },
+    {
+      "nodeID": "142958",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:56:58"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185526",
+      "fromID": "142954",
+      "toID": "142955",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185527",
+      "fromID": "142955",
+      "toID": "142953",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185528",
+      "fromID": "142957",
+      "toID": "142958",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185529",
+      "fromID": "142958",
+      "toID": "142956",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

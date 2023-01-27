@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "144461",
+      "text": "If anyone else shows an interest, we'll go from there.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:11"
+    },
+    {
+      "nodeID": "144462",
+      "text": "We're gonna WAIT. (Flim-flam-man, 1967) :p",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:11"
+    },
+    {
+      "nodeID": "144463",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:00:11"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186582",
+      "fromID": "144462",
+      "toID": "144463",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186583",
+      "fromID": "144463",
+      "toID": "144461",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

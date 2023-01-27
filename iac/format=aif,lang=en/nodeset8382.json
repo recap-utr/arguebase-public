@@ -1,0 +1,151 @@
+{
+  "nodes": [
+    {
+      "nodeID": "156598",
+      "text": "http://www.unionleader.com/article.aspx?headline=Manchester+schools+probe+controversial+field+trip&articleId=ca9b362d-7781-4ee8-808f-b8bd2f630a7c This is sickening....",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:29"
+    },
+    {
+      "nodeID": "156599",
+      "text": "It isn't sickening. Somewhat irresponsible, maybe, but not sickening. At that age they should have gotten parental permission from each child's parent to go on the trip, but that's the only thing I see wrong about it.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:29"
+    },
+    {
+      "nodeID": "156600",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:26:29"
+    },
+    {
+      "nodeID": "156601",
+      "text": "Actually its not sickening in any way. These kids are at risk and need to know the resources available to them to avoid realizing those risks. Frankly I thinik its a good idea to trot them around to agencies and organizations which they may need to interact with in the future. Knowledge can keep them out of deep trouble. Ignorance will not do so.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:29"
+    },
+    {
+      "nodeID": "156602",
+      "text": "Actually, yes it is sickening.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:29"
+    },
+    {
+      "nodeID": "156603",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:26:29"
+    },
+    {
+      "nodeID": "156604",
+      "text": "So you think it is a good idea for public schools to assume the role of parents? Perhaps you would support a balance then. Given what you say here, you wouldn't think it a bad idea for the New Hampshire School System to take a field trip to the local Catholic church would you? You know, so kids can know what resources, agencies, and organizations are available to them in the event that they may need to interact with them in the future. The School Board apparently gets the message, however. According to the article, it has instructed school administrators to investigate the matter, and determine whether disciplinary action is necessary. I would think it is.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:29"
+    },
+    {
+      "nodeID": "156605",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:26:29"
+    },
+    {
+      "nodeID": "156606",
+      "text": "my State is going to heII in a handbasket since these lefties took over. :xbanghead",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:29"
+    },
+    {
+      "nodeID": "156607",
+      "text": "Well since Bush took office the mantra has bee 'Local Control' has it not. Apparently the people of your state want whats happening. Local control in action. Rejoice in your victory.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:29"
+    },
+    {
+      "nodeID": "156608",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:26:30"
+    },
+    {
+      "nodeID": "156609",
+      "text": "I bet you would not be opposed if they took a trip to a local church and took bible lessons. Yet you oppose them being informed about sex, pregnacy, and desease controll but wouldn't mind them being tuaght about the bloody torture and execution of an innocent man. You wouldn't mind them being taught about genocide carried out by God and the Isrealites. Funny how twisted your morals can be.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:30"
+    },
+    {
+      "nodeID": "156610",
+      "text": "and tell me what did you gain out of making this statement? Just to let you know... the Bible (if you would actually read it in context instead of reading a little portion that you want to and interpret it the way you want outside of its context).. teaches how to love... because God is love.. and laid down his own life so that we could be FREE! hmmm.... sounds like the motto of what our troops do for our country... they lay their lives down because they want us to be free... where do you think this 'ideology' comes from???",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:30"
+    },
+    {
+      "nodeID": "156611",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:26:30"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195142",
+      "fromID": "156599",
+      "toID": "156600",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195143",
+      "fromID": "156600",
+      "toID": "156598",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195144",
+      "fromID": "156602",
+      "toID": "156603",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195145",
+      "fromID": "156603",
+      "toID": "156601",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195146",
+      "fromID": "156604",
+      "toID": "156605",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195147",
+      "fromID": "156605",
+      "toID": "156601",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195148",
+      "fromID": "156607",
+      "toID": "156608",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195149",
+      "fromID": "156608",
+      "toID": "156606",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195150",
+      "fromID": "156610",
+      "toID": "156611",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195151",
+      "fromID": "156611",
+      "toID": "156609",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

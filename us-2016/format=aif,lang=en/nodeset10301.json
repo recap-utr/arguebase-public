@@ -1,0 +1,874 @@
+{
+  "nodes": [
+    {
+      "nodeID": "204404",
+      "text": "Barbara: TheAquaman : Jeb Bush called himself \"Veto Corleone.\"",
+      "type": "L",
+      "timestamp": "2016-10-05 12:04:48"
+    },
+    {
+      "nodeID": "204405",
+      "text": "TheAquaman : Everyone drink",
+      "type": "L",
+      "timestamp": "2016-10-05 12:04:48"
+    },
+    {
+      "nodeID": "204406",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-05 12:04:49",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "204407",
+      "text": "everyone should drink",
+      "type": "I",
+      "timestamp": "2016-10-05 12:04:49"
+    },
+    {
+      "nodeID": "204408",
+      "text": "Barbara: TheAquaman : Everyone drink",
+      "type": "L",
+      "timestamp": "2016-10-05 12:04:49"
+    },
+    {
+      "nodeID": "204409",
+      "text": "Barbara: BUSH : TheAquaman : Jeb Bush called himself \"Veto Corleone.\"",
+      "type": "L",
+      "timestamp": "2016-10-05 12:04:49"
+    },
+    {
+      "nodeID": "204410",
+      "text": "BUSH is Veto Corleone",
+      "type": "I",
+      "timestamp": "2016-10-05 12:04:49"
+    },
+    {
+      "nodeID": "204411",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-05 12:04:49",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "204412",
+      "text": "BUSH : BUSH is Veto Corleone",
+      "type": "L",
+      "timestamp": "2016-10-05 12:04:49"
+    },
+    {
+      "nodeID": "204413",
+      "text": "Barbara: BUSH : Jeb Bush called himself \"Veto Corleone.\"",
+      "type": "L",
+      "timestamp": "2016-10-05 12:04:49"
+    },
+    {
+      "nodeID": "204414",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-05 12:04:49",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "204415",
+      "text": "TheAquaman : BUSH : Jeb Bush called himself \"Veto Corleone.\"",
+      "type": "L",
+      "timestamp": "2016-10-05 12:04:49"
+    },
+    {
+      "nodeID": "204416",
+      "text": "Barbara: TheAquaman : BUSH : Jeb Bush called himself \"Veto Corleone.\"",
+      "type": "L",
+      "timestamp": "2016-10-05 12:04:50"
+    },
+    {
+      "nodeID": "204417",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-05 12:04:50",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "204418",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-05 12:04:50",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "204419",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-05 12:04:50",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "204420",
+      "text": "Barbara: trevbot : two questions later said he didn't read every line item",
+      "type": "L",
+      "timestamp": "2016-10-05 12:04:50"
+    },
+    {
+      "nodeID": "204421",
+      "text": "trevbot : whatever they were talking about got passed",
+      "type": "L",
+      "timestamp": "2016-10-05 12:04:50"
+    },
+    {
+      "nodeID": "204422",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-05 12:04:50",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "204423",
+      "text": "whatever they were talking about got passed",
+      "type": "I",
+      "timestamp": "2016-10-05 12:04:50"
+    },
+    {
+      "nodeID": "204424",
+      "text": "Barbara: trevbot : whatever they were talking about got passed",
+      "type": "L",
+      "timestamp": "2016-10-05 12:04:50"
+    },
+    {
+      "nodeID": "204425",
+      "text": "trevbot : he didn't see it",
+      "type": "L",
+      "timestamp": "2016-10-05 12:04:50"
+    },
+    {
+      "nodeID": "204426",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-05 12:04:50",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "204427",
+      "text": "BUSH didn't see the line item",
+      "type": "I",
+      "timestamp": "2016-10-05 12:04:51"
+    },
+    {
+      "nodeID": "204428",
+      "text": "Barbara: trevbot : he didn't see it",
+      "type": "L",
+      "timestamp": "2016-10-05 12:04:51"
+    },
+    {
+      "nodeID": "204429",
+      "text": "trevbot : After talking about how many line items he vetoed in his budget",
+      "type": "L",
+      "timestamp": "2016-10-05 12:04:51"
+    },
+    {
+      "nodeID": "204430",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-05 12:04:51",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "204431",
+      "text": "after talking about how many line items BUSH vetoed in his budget",
+      "type": "I",
+      "timestamp": "2016-10-05 12:04:51"
+    },
+    {
+      "nodeID": "204432",
+      "text": "Barbara: trevbot : After talking about how many line items he vetoed in his budget",
+      "type": "L",
+      "timestamp": "2016-10-05 12:04:51"
+    },
+    {
+      "nodeID": "204433",
+      "text": "BUSH didn't read every line item",
+      "type": "I",
+      "timestamp": "2016-10-05 12:04:51"
+    },
+    {
+      "nodeID": "204434",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-05 12:04:51",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "204435",
+      "text": "BUSH : BUSH didn't read every line item",
+      "type": "L",
+      "timestamp": "2016-10-05 12:04:51"
+    },
+    {
+      "nodeID": "204436",
+      "text": "Barbara: BUSH : two questions later said he didn't read every line item",
+      "type": "L",
+      "timestamp": "2016-10-05 12:04:51"
+    },
+    {
+      "nodeID": "204437",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-05 12:04:51",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "204438",
+      "text": "trevbot : BUSH : two questions later said he didn't read every line item",
+      "type": "L",
+      "timestamp": "2016-10-05 12:04:52"
+    },
+    {
+      "nodeID": "204439",
+      "text": "Barbara: trevbot : BUSH : two questions later said he didn't read every line item",
+      "type": "L",
+      "timestamp": "2016-10-05 12:04:52"
+    },
+    {
+      "nodeID": "204440",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-05 12:04:52",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "204441",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-05 12:04:52",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "204442",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-05 12:04:52",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "204443",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-05 12:04:52",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "204444",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-05 12:04:52",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "204445",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-05 12:04:52",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "204446",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-10-05 12:04:52",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "204447",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-05 12:04:52",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "204448",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-10-05 12:04:52",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "204449",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-05 12:04:53",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "204450",
+      "text": "that was in reference to BUSH holding a position on a board at some charity. Not to when he was holding office",
+      "type": "I",
+      "timestamp": "2016-10-05 12:04:53"
+    },
+    {
+      "nodeID": "204451",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-05 12:04:53",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "204452",
+      "text": "tyfe : that was in reference to him holding a position on a board at some charity. Not to when he was holding office",
+      "type": "L",
+      "timestamp": "2016-10-05 12:04:53"
+    },
+    {
+      "nodeID": "204453",
+      "text": "Barbara: tyfe : that was in reference to him holding a position on a board at some charity",
+      "type": "L",
+      "timestamp": "2016-10-05 12:04:53"
+    },
+    {
+      "nodeID": "204454",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-05 12:04:53",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "204455",
+      "text": "Barbara: tyfe : Not to when he was holding office",
+      "type": "L",
+      "timestamp": "2016-10-05 12:04:53"
+    },
+    {
+      "nodeID": "204456",
+      "text": "listening comprehension is not required",
+      "type": "I",
+      "timestamp": "2016-10-05 12:04:53"
+    },
+    {
+      "nodeID": "204457",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-05 12:04:53",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "204458",
+      "text": "AsthmaticMechanic : listening comprehension is not required",
+      "type": "L",
+      "timestamp": "2016-10-05 12:04:53"
+    },
+    {
+      "nodeID": "204459",
+      "text": "Barbara: AsthmaticMechanic : listening comprehension is not required",
+      "type": "L",
+      "timestamp": "2016-10-05 12:04:53"
+    },
+    {
+      "nodeID": "204460",
+      "text": "favorite moment ever",
+      "type": "I",
+      "timestamp": "2016-10-05 12:04:53"
+    },
+    {
+      "nodeID": "204461",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-05 12:04:54",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "204462",
+      "text": "madreofdragons : Favorite moment ever",
+      "type": "L",
+      "timestamp": "2016-10-05 12:04:54"
+    },
+    {
+      "nodeID": "204463",
+      "text": "Barbara: madreofdragons : Favorite moment ever",
+      "type": "L",
+      "timestamp": "2016-10-05 12:04:54"
+    },
+    {
+      "nodeID": "204464",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-05 12:04:54",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "204465",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-05 12:04:54",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "204466",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-10-05 12:04:54",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "204467",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-05 12:04:54",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "204468",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-10-05 12:04:54",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "249350",
+      "fromID": "204406",
+      "toID": "204407",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249351",
+      "fromID": "204405",
+      "toID": "204406",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249352",
+      "fromID": "204411",
+      "toID": "204410",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249353",
+      "fromID": "204412",
+      "toID": "204411",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249354",
+      "fromID": "204414",
+      "toID": "204412",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249355",
+      "fromID": "204415",
+      "toID": "204414",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249356",
+      "fromID": "204412",
+      "toID": "204417",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249357",
+      "fromID": "204417",
+      "toID": "204407",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249358",
+      "fromID": "204415",
+      "toID": "204418",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249359",
+      "fromID": "204418",
+      "toID": "204405",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249360",
+      "fromID": "204418",
+      "toID": "204419",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249361",
+      "fromID": "204419",
+      "toID": "204417",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249362",
+      "fromID": "204422",
+      "toID": "204423",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249363",
+      "fromID": "204421",
+      "toID": "204422",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249364",
+      "fromID": "204426",
+      "toID": "204427",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249365",
+      "fromID": "204425",
+      "toID": "204426",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249366",
+      "fromID": "204430",
+      "toID": "204431",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249367",
+      "fromID": "204429",
+      "toID": "204430",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249368",
+      "fromID": "204434",
+      "toID": "204433",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249369",
+      "fromID": "204435",
+      "toID": "204434",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249370",
+      "fromID": "204437",
+      "toID": "204435",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249371",
+      "fromID": "204438",
+      "toID": "204437",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249372",
+      "fromID": "204433",
+      "toID": "204440",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249373",
+      "fromID": "204440",
+      "toID": "204427",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249374",
+      "fromID": "204438",
+      "toID": "204441",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249375",
+      "fromID": "204441",
+      "toID": "204425",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249376",
+      "fromID": "204441",
+      "toID": "204442",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249377",
+      "fromID": "204442",
+      "toID": "204440",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249378",
+      "fromID": "204427",
+      "toID": "204443",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249379",
+      "fromID": "204443",
+      "toID": "204423",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249380",
+      "fromID": "204421",
+      "toID": "204444",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249381",
+      "fromID": "204444",
+      "toID": "204425",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249382",
+      "fromID": "204444",
+      "toID": "204445",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249383",
+      "fromID": "204445",
+      "toID": "204443",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249384",
+      "fromID": "204423",
+      "toID": "204446",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249385",
+      "fromID": "204446",
+      "toID": "204412",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249386",
+      "fromID": "204415",
+      "toID": "204447",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249387",
+      "fromID": "204447",
+      "toID": "204421",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249388",
+      "fromID": "204447",
+      "toID": "204448",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249389",
+      "fromID": "204448",
+      "toID": "204446",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249390",
+      "fromID": "204425",
+      "toID": "204449",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249391",
+      "fromID": "204449",
+      "toID": "204429",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249392",
+      "fromID": "204451",
+      "toID": "204450",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249393",
+      "fromID": "204452",
+      "toID": "204451",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249394",
+      "fromID": "204429",
+      "toID": "204454",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249395",
+      "fromID": "204454",
+      "toID": "204452",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249396",
+      "fromID": "204457",
+      "toID": "204456",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249397",
+      "fromID": "204458",
+      "toID": "204457",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249398",
+      "fromID": "204461",
+      "toID": "204460",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249399",
+      "fromID": "204462",
+      "toID": "204461",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249400",
+      "fromID": "204458",
+      "toID": "204464",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249401",
+      "fromID": "204464",
+      "toID": "204462",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249402",
+      "fromID": "204452",
+      "toID": "204465",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249403",
+      "fromID": "204465",
+      "toID": "204458",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249404",
+      "fromID": "204450",
+      "toID": "204466",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249405",
+      "fromID": "204466",
+      "toID": "204427",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249406",
+      "fromID": "204425",
+      "toID": "204467",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249407",
+      "fromID": "204467",
+      "toID": "204452",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249408",
+      "fromID": "204467",
+      "toID": "204468",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "249409",
+      "fromID": "204468",
+      "toID": "204466",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "204412",
+      "personID": "2423",
+      "timestamp": "2016-10-05 12:04:57",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "204415",
+      "personID": "2422",
+      "timestamp": "2016-10-05 12:04:57",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "204435",
+      "personID": "2423",
+      "timestamp": "2016-10-05 12:04:57",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "204438",
+      "personID": "2424",
+      "timestamp": "2016-10-05 12:04:57",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "204452",
+      "personID": "2425",
+      "timestamp": "2016-10-05 12:04:57",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "204458",
+      "personID": "2426",
+      "timestamp": "2016-10-05 12:04:57",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "204462",
+      "personID": "2427",
+      "timestamp": "2016-10-05 12:04:57",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148077",
+      "text": "Why Matthew S do you find this article so fascinating? Why is there honor in marriage? What is it about marriage that makes it an honor?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:43"
+    },
+    {
+      "nodeID": "148078",
+      "text": "Because I am one who likes see things from different angles. What better way to fight your enemies then to understand their viewpoint.  Before I am attacked on the the last statement, just because I understand a viewpoint does not meant that I accept it as true or that I don't reject it.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:43"
+    },
+    {
+      "nodeID": "148079",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:43"
+    },
+    {
+      "nodeID": "148080",
+      "text": "What do you see as your enemies view point? Is your only opinion that the view of your enemy says: gay marriage takes away the value of a regular marriage? If this is the thought we are debating why did you not answer the other two questions?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:43"
+    },
+    {
+      "nodeID": "148081",
+      "text": "Yes there is honor in marriage but we are talking about a piece of paper that defines who is considered your family in the eyes of the law.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:43"
+    },
+    {
+      "nodeID": "148082",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:43"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189132",
+      "fromID": "148078",
+      "toID": "148079",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189133",
+      "fromID": "148079",
+      "toID": "148077",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189134",
+      "fromID": "148081",
+      "toID": "148082",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189135",
+      "fromID": "148082",
+      "toID": "148080",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

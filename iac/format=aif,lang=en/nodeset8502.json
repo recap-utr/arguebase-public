@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "158226",
+      "text": "Good point Linus Also your whole idea of 'God' is a beleif, and therfore really doesnt hold much of an argument. Thats why its not a main point in a abortion debate. Facts cant really present themselves of wether God is real. Thats all religious opinion.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:30:17"
+    },
+    {
+      "nodeID": "158227",
+      "text": "well, many here think everything is opinion emoticon_rolleyes so whether it is a religious opinion or not shouldn't matter.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:30:17"
+    },
+    {
+      "nodeID": "158228",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:30:17"
+    },
+    {
+      "nodeID": "158229",
+      "text": "If only people would do what is right, there would be no abortions and thus no need to debate this issue. If you percieve that others are not listening to you perhaps you need to take a look at yourself and what you are posting. Don't blame me for your problems.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:30:17"
+    },
+    {
+      "nodeID": "158230",
+      "text": "You mean like allowing for, and funding, comprehensive sex education, birth control, and parenthood planning? Those things alone would reduce the number of abortions significantly. However, we live in a nation that would fire a Surgeon General for stating that masturbation is healthy. We live in a nation that believes that sex is only of the penis-vaginal penetration variety. We live in a nation where most pregnancy are unplanned. We're so busy 'protecting' our children, that we don't realize that the best protection is information.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:30:17"
+    },
+    {
+      "nodeID": "158231",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:30:17"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196300",
+      "fromID": "158227",
+      "toID": "158228",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196301",
+      "fromID": "158228",
+      "toID": "158226",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196302",
+      "fromID": "158230",
+      "toID": "158231",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196303",
+      "fromID": "158231",
+      "toID": "158229",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,1525 @@
+{
+  "nodes": [
+    {
+      "nodeID": "215713",
+      "text": "X is the greatest national security threat to the United States",
+      "type": "I",
+      "timestamp": "2016-11-01 13:14:03"
+    },
+    {
+      "nodeID": "246994",
+      "text": "COOPER : what is the greatest national security threat to the United States",
+      "type": "L",
+      "timestamp": "2016-12-20 18:01:49"
+    },
+    {
+      "nodeID": "246995",
+      "text": "Pure Questioning",
+      "type": "YA",
+      "timestamp": "2016-12-20 18:01:49",
+      "scheme": "PureQuestioning",
+      "schemeID": "91"
+    },
+    {
+      "nodeID": "246996",
+      "text": "Jacky: COOPER : what is the greatest national security threat to the United States",
+      "type": "L",
+      "timestamp": "2016-12-20 18:01:50"
+    },
+    {
+      "nodeID": "246997",
+      "text": "CHAFEE : It's certainly the chaos in the Middle East",
+      "type": "L",
+      "timestamp": "2016-12-20 18:01:50"
+    },
+    {
+      "nodeID": "246998",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-20 18:01:50",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "246999",
+      "text": "It's certainly the chaos in the Middle East",
+      "type": "I",
+      "timestamp": "2016-12-20 18:01:51"
+    },
+    {
+      "nodeID": "247000",
+      "text": "Jacky: CHAFEE : It's certainly the chaos in the Middle East",
+      "type": "L",
+      "timestamp": "2016-12-20 18:01:52"
+    },
+    {
+      "nodeID": "247001",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-20 18:01:52",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247002",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-12-20 18:01:52",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "247003",
+      "text": "Default Illocuting",
+      "type": "YA",
+      "timestamp": "2016-12-20 18:01:52",
+      "scheme": "Default Illocuting",
+      "schemeID": "168"
+    },
+    {
+      "nodeID": "247004",
+      "text": "CHAFEE : There's no doubt about it",
+      "type": "L",
+      "timestamp": "2016-12-20 18:01:53"
+    },
+    {
+      "nodeID": "247005",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-20 18:01:53",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247006",
+      "text": "There's no doubt about it",
+      "type": "I",
+      "timestamp": "2016-12-20 18:01:53"
+    },
+    {
+      "nodeID": "247007",
+      "text": "Jacky: CHAFEE : There's no doubt about it",
+      "type": "L",
+      "timestamp": "2016-12-20 18:01:54"
+    },
+    {
+      "nodeID": "247008",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-20 18:01:55",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247009",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-20 18:01:56",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "247010",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-20 18:01:57",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "247011",
+      "text": "CHAFEE : it all started with the Iraq invasion",
+      "type": "L",
+      "timestamp": "2016-12-20 18:01:57"
+    },
+    {
+      "nodeID": "247012",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-20 18:01:57",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247013",
+      "text": "it all started with the Iraq invasion",
+      "type": "I",
+      "timestamp": "2016-12-20 18:01:57"
+    },
+    {
+      "nodeID": "247014",
+      "text": "Jacky: CHAFEE : it all started with the Iraq invasion",
+      "type": "L",
+      "timestamp": "2016-12-20 18:01:58"
+    },
+    {
+      "nodeID": "247015",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-20 18:01:58",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "247016",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-20 18:01:59",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247017",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-20 18:01:59",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "247018",
+      "text": "O'MALLEY : nuclear Iran remains the biggest threat, along with the threat of ISIL",
+      "type": "L",
+      "timestamp": "2016-12-20 18:01:59"
+    },
+    {
+      "nodeID": "247019",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-20 18:01:59",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247020",
+      "text": "nuclear Iran remains the biggest threat, along with the threat of ISIL",
+      "type": "I",
+      "timestamp": "2016-12-20 18:02:00"
+    },
+    {
+      "nodeID": "247021",
+      "text": "Jacky: O'MALLEY : nuclear Iran remains the biggest threat, along with the threat of ISIL",
+      "type": "L",
+      "timestamp": "2016-12-20 18:02:00"
+    },
+    {
+      "nodeID": "247022",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-12-20 18:02:00",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "247023",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-20 18:02:00",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247024",
+      "text": "Default Illocuting",
+      "type": "YA",
+      "timestamp": "2016-12-20 18:02:01",
+      "scheme": "Default Illocuting",
+      "schemeID": "168"
+    },
+    {
+      "nodeID": "247025",
+      "text": "O'MALLEY : climate change, of course, makes cascading threats even more (inaudible)",
+      "type": "L",
+      "timestamp": "2016-12-20 18:02:02"
+    },
+    {
+      "nodeID": "247026",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-20 18:02:03",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247027",
+      "text": "climate change, of course, makes cascading threats even more (inaudible)",
+      "type": "I",
+      "timestamp": "2016-12-20 18:02:04"
+    },
+    {
+      "nodeID": "247028",
+      "text": "Jacky: O'MALLEY : climate change, of course, makes cascading threats even more (inaudible)",
+      "type": "L",
+      "timestamp": "2016-12-20 18:02:04"
+    },
+    {
+      "nodeID": "247029",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-12-20 18:02:04",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "247030",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-20 18:02:07",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247031",
+      "text": "Default Illocuting",
+      "type": "YA",
+      "timestamp": "2016-12-20 18:02:08",
+      "scheme": "Default Illocuting",
+      "schemeID": "168"
+    },
+    {
+      "nodeID": "247032",
+      "text": "COOPER : the greatest national security threat",
+      "type": "L",
+      "timestamp": "2016-12-20 18:02:08"
+    },
+    {
+      "nodeID": "247033",
+      "text": "Pure Questioning",
+      "type": "YA",
+      "timestamp": "2016-12-20 18:02:08",
+      "scheme": "PureQuestioning",
+      "schemeID": "91"
+    },
+    {
+      "nodeID": "247034",
+      "text": "X is the greatest national security threat",
+      "type": "I",
+      "timestamp": "2016-12-20 18:02:08"
+    },
+    {
+      "nodeID": "247035",
+      "text": "Jacky: COOPER : the greatest national security threat",
+      "type": "L",
+      "timestamp": "2016-12-20 18:02:10"
+    },
+    {
+      "nodeID": "247036",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-20 18:02:10",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247037",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-12-20 18:02:10",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "247038",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2016-12-20 18:02:10",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "247039",
+      "text": "CLINTON : it has to be continued threat from the spread of nuclear weapons, nuclear material that can fall into the wrong hands",
+      "type": "L",
+      "timestamp": "2016-12-20 18:02:12"
+    },
+    {
+      "nodeID": "247040",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-20 18:02:13",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247041",
+      "text": "it has to be continued threat from the spread of nuclear weapons, nuclear material that can fall into the wrong hands",
+      "type": "I",
+      "timestamp": "2016-12-20 18:02:13"
+    },
+    {
+      "nodeID": "247042",
+      "text": "Jacky: CLINTON : it has to be continued threat from the spread of nuclear weapons, nuclear material that can fall into the wrong hands",
+      "type": "L",
+      "timestamp": "2016-12-20 18:02:15"
+    },
+    {
+      "nodeID": "247043",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-12-20 18:02:15",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "247044",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-20 18:02:15",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247045",
+      "text": "Default Illocuting",
+      "type": "YA",
+      "timestamp": "2016-12-20 18:02:15",
+      "scheme": "Default Illocuting",
+      "schemeID": "168"
+    },
+    {
+      "nodeID": "247046",
+      "text": "CLINTON : I know the terrorists are constantly seeking it",
+      "type": "L",
+      "timestamp": "2016-12-20 18:02:16"
+    },
+    {
+      "nodeID": "247047",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-20 18:02:16",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247048",
+      "text": "CLINTON knows the terrorists are constantly seeking it",
+      "type": "I",
+      "timestamp": "2016-12-20 18:02:17"
+    },
+    {
+      "nodeID": "247049",
+      "text": "Jacky: CLINTON : I know the terrorists are constantly seeking it",
+      "type": "L",
+      "timestamp": "2016-12-20 18:02:17"
+    },
+    {
+      "nodeID": "247050",
+      "text": "Jacky: CLINTON : we have to stay vigilant",
+      "type": "L",
+      "timestamp": "2016-12-20 18:02:17"
+    },
+    {
+      "nodeID": "247051",
+      "text": "CLINTON : we have to stay vigilant, but also united around the world to prevent that",
+      "type": "L",
+      "timestamp": "2016-12-20 18:02:18"
+    },
+    {
+      "nodeID": "247052",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-20 18:02:18",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247053",
+      "text": "we have to stay vigilant, but also united around the world to prevent that",
+      "type": "I",
+      "timestamp": "2016-12-20 18:02:19"
+    },
+    {
+      "nodeID": "247054",
+      "text": "Jacky: CLINTON : we have to stay vigilant, but also united around the world to prevent that",
+      "type": "L",
+      "timestamp": "2016-12-20 18:02:20"
+    },
+    {
+      "nodeID": "247055",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-20 18:02:22",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "247056",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-20 18:02:22",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247057",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-20 18:02:22",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "247058",
+      "text": "COOPER : greatest national security threat",
+      "type": "L",
+      "timestamp": "2016-12-20 18:02:22"
+    },
+    {
+      "nodeID": "247059",
+      "text": "Jacky: COOPER : greatest national security threat",
+      "type": "L",
+      "timestamp": "2016-12-20 18:02:23"
+    },
+    {
+      "nodeID": "247060",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-20 18:02:23",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247061",
+      "text": "Pure Questioning",
+      "type": "YA",
+      "timestamp": "2016-12-20 18:02:23",
+      "scheme": "PureQuestioning",
+      "schemeID": "91"
+    },
+    {
+      "nodeID": "247062",
+      "text": "SANDERS : The scientific community is telling us",
+      "type": "L",
+      "timestamp": "2016-12-20 18:02:23"
+    },
+    {
+      "nodeID": "247063",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-20 18:02:24",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247064",
+      "text": "The scientific community is telling us",
+      "type": "I",
+      "timestamp": "2016-12-20 18:02:25"
+    },
+    {
+      "nodeID": "247065",
+      "text": "Jacky: SANDERS : The scientific community is telling us",
+      "type": "L",
+      "timestamp": "2016-12-20 18:02:25"
+    },
+    {
+      "nodeID": "247066",
+      "text": "SANDERS : if we do not address the global crisis of climate change, transform our energy system away from fossil fuel to sustainable energy, the planet that we're going to be leaving our kids and our grandchildren may well not be habitable",
+      "type": "L",
+      "timestamp": "2016-12-20 18:02:25"
+    },
+    {
+      "nodeID": "247067",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-20 18:02:27",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247068",
+      "text": "if we do not address the global crisis of climate change, transform our energy system away from fossil fuel to sustainable energy, the planet that we're going to be leaving our kids and our grandchildren may well not be habitable",
+      "type": "I",
+      "timestamp": "2016-12-20 18:02:27"
+    },
+    {
+      "nodeID": "247069",
+      "text": "Jacky: SANDERS : if we do not address the global crisis of climate change, transform our energy system away from fossil fuel to sustainable energy, the planet that we're going to be leaving our kids and our grandchildren may well not be habitable",
+      "type": "L",
+      "timestamp": "2016-12-20 18:02:28"
+    },
+    {
+      "nodeID": "247070",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-20 18:02:29",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "247071",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-20 18:02:30",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247072",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-20 18:02:31",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "247073",
+      "text": "SANDERS : That is a major crisis",
+      "type": "L",
+      "timestamp": "2016-12-20 18:02:31"
+    },
+    {
+      "nodeID": "247074",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-20 18:02:32",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247075",
+      "text": "That is a major crisis",
+      "type": "I",
+      "timestamp": "2016-12-20 18:02:32"
+    },
+    {
+      "nodeID": "247076",
+      "text": "Jacky: SANDERS : That is a major crisis",
+      "type": "L",
+      "timestamp": "2016-12-20 18:02:34"
+    },
+    {
+      "nodeID": "247077",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-20 18:02:39",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247078",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-20 18:02:40",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "247079",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-20 18:02:41",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "247080",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-12-20 18:02:41",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "247081",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-20 18:02:41",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247082",
+      "text": "Default Illocuting",
+      "type": "YA",
+      "timestamp": "2016-12-20 18:02:41",
+      "scheme": "Default Illocuting",
+      "schemeID": "168"
+    },
+    {
+      "nodeID": "247083",
+      "text": "WEBB : Our greatest long-term strategic challenge is our relation with China",
+      "type": "L",
+      "timestamp": "2016-12-20 18:02:41"
+    },
+    {
+      "nodeID": "247084",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-20 18:02:42",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247085",
+      "text": "Our greatest long-term strategic challenge is our relation with China",
+      "type": "I",
+      "timestamp": "2016-12-20 18:02:43"
+    },
+    {
+      "nodeID": "247086",
+      "text": "Jacky: WEBB : Our greatest long-term strategic challenge is our relation with China",
+      "type": "L",
+      "timestamp": "2016-12-20 18:02:43"
+    },
+    {
+      "nodeID": "247087",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-12-20 18:02:43",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "247088",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-20 18:02:44",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247089",
+      "text": "Default Illocuting",
+      "type": "YA",
+      "timestamp": "2016-12-20 18:02:46",
+      "scheme": "Default Illocuting",
+      "schemeID": "168"
+    },
+    {
+      "nodeID": "247090",
+      "text": "WEBB : Our greatest day-to-day threat is cyber warfare against this country",
+      "type": "L",
+      "timestamp": "2016-12-20 18:02:46"
+    },
+    {
+      "nodeID": "247091",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-20 18:02:46",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247092",
+      "text": "Our greatest day-to-day threat is cyber warfare against this country",
+      "type": "I",
+      "timestamp": "2016-12-20 18:02:46"
+    },
+    {
+      "nodeID": "247093",
+      "text": "Jacky: WEBB : Our greatest day-to-day threat is cyber warfare against this country",
+      "type": "L",
+      "timestamp": "2016-12-20 18:02:46"
+    },
+    {
+      "nodeID": "247094",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-12-20 18:02:47",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "247095",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-20 18:02:48",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247096",
+      "text": "Default Illocuting",
+      "type": "YA",
+      "timestamp": "2016-12-20 18:02:48",
+      "scheme": "Default Illocuting",
+      "schemeID": "168"
+    },
+    {
+      "nodeID": "247097",
+      "text": "WEBB : Our greatest military-operational threat is resolving the situations in the Middle East",
+      "type": "L",
+      "timestamp": "2016-12-20 18:02:48"
+    },
+    {
+      "nodeID": "247098",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-20 18:02:48",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "247099",
+      "text": "Our greatest military-operational threat is resolving the situations in the Middle East",
+      "type": "I",
+      "timestamp": "2016-12-20 18:02:49"
+    },
+    {
+      "nodeID": "247100",
+      "text": "Jacky: WEBB : Our greatest military-operational threat is resolving the situations in the Middle East",
+      "type": "L",
+      "timestamp": "2016-12-20 18:02:49"
+    },
+    {
+      "nodeID": "247101",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-12-20 18:02:49",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "247102",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-20 18:02:50",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "247103",
+      "text": "Default Illocuting",
+      "type": "YA",
+      "timestamp": "2016-12-20 18:02:51",
+      "scheme": "Default Illocuting",
+      "schemeID": "168"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "298500",
+      "fromID": "246995",
+      "toID": "215713",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298501",
+      "fromID": "246994",
+      "toID": "246995",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298502",
+      "fromID": "246998",
+      "toID": "246999",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298503",
+      "fromID": "246997",
+      "toID": "246998",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298504",
+      "fromID": "246994",
+      "toID": "247001",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298505",
+      "fromID": "247001",
+      "toID": "246997",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298506",
+      "fromID": "246999",
+      "toID": "247002",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298507",
+      "fromID": "247002",
+      "toID": "215713",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298508",
+      "fromID": "247001",
+      "toID": "247003",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298509",
+      "fromID": "247003",
+      "toID": "247002",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298510",
+      "fromID": "247005",
+      "toID": "247006",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298511",
+      "fromID": "247004",
+      "toID": "247005",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298512",
+      "fromID": "246997",
+      "toID": "247008",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298513",
+      "fromID": "247008",
+      "toID": "247004",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298514",
+      "fromID": "247006",
+      "toID": "247009",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298515",
+      "fromID": "247009",
+      "toID": "246999",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298516",
+      "fromID": "247008",
+      "toID": "247010",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298517",
+      "fromID": "247010",
+      "toID": "247009",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298518",
+      "fromID": "247012",
+      "toID": "247013",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298519",
+      "fromID": "247011",
+      "toID": "247012",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298520",
+      "fromID": "247013",
+      "toID": "247015",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298521",
+      "fromID": "247015",
+      "toID": "246999",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298522",
+      "fromID": "246997",
+      "toID": "247016",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298523",
+      "fromID": "247016",
+      "toID": "247011",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298524",
+      "fromID": "247016",
+      "toID": "247017",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298525",
+      "fromID": "247017",
+      "toID": "247015",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298526",
+      "fromID": "247019",
+      "toID": "247020",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298527",
+      "fromID": "247018",
+      "toID": "247019",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298528",
+      "fromID": "247020",
+      "toID": "247022",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298529",
+      "fromID": "247022",
+      "toID": "215713",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298530",
+      "fromID": "246994",
+      "toID": "247023",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298531",
+      "fromID": "247023",
+      "toID": "247018",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298532",
+      "fromID": "247023",
+      "toID": "247024",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298533",
+      "fromID": "247024",
+      "toID": "247022",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298534",
+      "fromID": "247026",
+      "toID": "247027",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298535",
+      "fromID": "247025",
+      "toID": "247026",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298536",
+      "fromID": "247027",
+      "toID": "247029",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298537",
+      "fromID": "247029",
+      "toID": "215713",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298538",
+      "fromID": "246994",
+      "toID": "247030",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298539",
+      "fromID": "247030",
+      "toID": "247025",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298540",
+      "fromID": "247030",
+      "toID": "247031",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298541",
+      "fromID": "247031",
+      "toID": "247029",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298542",
+      "fromID": "247033",
+      "toID": "247034",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298543",
+      "fromID": "247032",
+      "toID": "247033",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298544",
+      "fromID": "246994",
+      "toID": "247036",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298545",
+      "fromID": "247036",
+      "toID": "247032",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298546",
+      "fromID": "247034",
+      "toID": "247037",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298547",
+      "fromID": "247037",
+      "toID": "215713",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298548",
+      "fromID": "247036",
+      "toID": "247038",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298549",
+      "fromID": "247038",
+      "toID": "247037",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298550",
+      "fromID": "247040",
+      "toID": "247041",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298551",
+      "fromID": "247039",
+      "toID": "247040",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298552",
+      "fromID": "247041",
+      "toID": "247043",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298553",
+      "fromID": "247043",
+      "toID": "247034",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298554",
+      "fromID": "247032",
+      "toID": "247044",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298555",
+      "fromID": "247044",
+      "toID": "247039",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298556",
+      "fromID": "247044",
+      "toID": "247045",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298557",
+      "fromID": "247045",
+      "toID": "247043",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298558",
+      "fromID": "247047",
+      "toID": "247048",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298559",
+      "fromID": "247046",
+      "toID": "247047",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298560",
+      "fromID": "247052",
+      "toID": "247053",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298561",
+      "fromID": "247051",
+      "toID": "247052",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298562",
+      "fromID": "247048",
+      "toID": "247055",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298563",
+      "fromID": "247055",
+      "toID": "247053",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298564",
+      "fromID": "247046",
+      "toID": "247056",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298565",
+      "fromID": "247056",
+      "toID": "247051",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298566",
+      "fromID": "247056",
+      "toID": "247057",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298567",
+      "fromID": "247057",
+      "toID": "247055",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298568",
+      "fromID": "247041",
+      "toID": "247055",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298569",
+      "fromID": "247039",
+      "toID": "247056",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298570",
+      "fromID": "247032",
+      "toID": "247060",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298571",
+      "fromID": "247060",
+      "toID": "247058",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298572",
+      "fromID": "247058",
+      "toID": "247061",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298573",
+      "fromID": "247061",
+      "toID": "247034",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298574",
+      "fromID": "247063",
+      "toID": "247064",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298575",
+      "fromID": "247062",
+      "toID": "247063",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298576",
+      "fromID": "247067",
+      "toID": "247068",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298577",
+      "fromID": "247066",
+      "toID": "247067",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298578",
+      "fromID": "247064",
+      "toID": "247070",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298579",
+      "fromID": "247070",
+      "toID": "247068",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298580",
+      "fromID": "247062",
+      "toID": "247071",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298581",
+      "fromID": "247071",
+      "toID": "247066",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298582",
+      "fromID": "247071",
+      "toID": "247072",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298583",
+      "fromID": "247072",
+      "toID": "247070",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298584",
+      "fromID": "247074",
+      "toID": "247075",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298585",
+      "fromID": "247073",
+      "toID": "247074",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298586",
+      "fromID": "247066",
+      "toID": "247077",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298587",
+      "fromID": "247077",
+      "toID": "247073",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298588",
+      "fromID": "247068",
+      "toID": "247078",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298589",
+      "fromID": "247078",
+      "toID": "247075",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298590",
+      "fromID": "247077",
+      "toID": "247079",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298591",
+      "fromID": "247079",
+      "toID": "247078",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298592",
+      "fromID": "247068",
+      "toID": "247080",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298593",
+      "fromID": "247080",
+      "toID": "247034",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298594",
+      "fromID": "247058",
+      "toID": "247081",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298595",
+      "fromID": "247081",
+      "toID": "247066",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298596",
+      "fromID": "247081",
+      "toID": "247082",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298597",
+      "fromID": "247082",
+      "toID": "247080",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298598",
+      "fromID": "247084",
+      "toID": "247085",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298599",
+      "fromID": "247083",
+      "toID": "247084",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298600",
+      "fromID": "247085",
+      "toID": "247087",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298601",
+      "fromID": "247087",
+      "toID": "247034",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298602",
+      "fromID": "247058",
+      "toID": "247088",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298603",
+      "fromID": "247088",
+      "toID": "247083",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298604",
+      "fromID": "247088",
+      "toID": "247089",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298605",
+      "fromID": "247089",
+      "toID": "247087",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298606",
+      "fromID": "247091",
+      "toID": "247092",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298607",
+      "fromID": "247090",
+      "toID": "247091",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298608",
+      "fromID": "247092",
+      "toID": "247094",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298609",
+      "fromID": "247094",
+      "toID": "247034",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298610",
+      "fromID": "247058",
+      "toID": "247095",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298611",
+      "fromID": "247095",
+      "toID": "247090",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298612",
+      "fromID": "247095",
+      "toID": "247096",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298613",
+      "fromID": "247096",
+      "toID": "247094",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298614",
+      "fromID": "247098",
+      "toID": "247099",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298615",
+      "fromID": "247097",
+      "toID": "247098",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298616",
+      "fromID": "247099",
+      "toID": "247101",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298617",
+      "fromID": "247101",
+      "toID": "247034",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298618",
+      "fromID": "247058",
+      "toID": "247102",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298619",
+      "fromID": "247102",
+      "toID": "247097",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298620",
+      "fromID": "247102",
+      "toID": "247103",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "298621",
+      "fromID": "247103",
+      "toID": "247101",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152306",
+      "text": "Mr. Jack, Abortion doesn't have to be done if the amniotic sack is cut. An abortion never has to be done.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:46"
+    },
+    {
+      "nodeID": "152307",
+      "text": "So you feel that Mrs Vo should have been allowed to run the risk of dying? Your statement 'An abortion never has to be done' only holds true if you place the value of the unborn child over that of the mother in all cases. Do you really believe that?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:46"
+    },
+    {
+      "nodeID": "152308",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:16:46"
+    },
+    {
+      "nodeID": "152309",
+      "text": "I'm sorry, I mispoke- It could have resulted in two deaths. Once again, your article does not give us much insight into the situation. If the baby has sepsis, or some other type of contamination, it is very likely she would get it too.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:46"
+    },
+    {
+      "nodeID": "152310",
+      "text": "But how would abortion laws (at least the ones I would like, and most of pro-lifers) cause this?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:46"
+    },
+    {
+      "nodeID": "152311",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:16:46"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192112",
+      "fromID": "152307",
+      "toID": "152308",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192113",
+      "fromID": "152308",
+      "toID": "152306",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192114",
+      "fromID": "152310",
+      "toID": "152311",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192115",
+      "fromID": "152311",
+      "toID": "152309",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

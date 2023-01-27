@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141529",
+      "text": "I contacted Oolon a short while back about two I'd like to see added, nasal drainage and -- an even better one, IMO -- the human plantaris muscle. I've yet to see a creationist explanation of that one... By the way, chloroplasts have their own DNA, too.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:54"
+    },
+    {
+      "nodeID": "141530",
+      "text": "I remember that now, but it must have slipped my mind when I was writing the above...",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:54"
+    },
+    {
+      "nodeID": "141531",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:53:54"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184508",
+      "fromID": "141530",
+      "toID": "141531",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184509",
+      "fromID": "141531",
+      "toID": "141529",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

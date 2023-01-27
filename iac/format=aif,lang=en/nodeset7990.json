@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151019",
+      "text": "foundit66: i have several comments. . You had some interesting points. When you said that marriage does not revolve around sex, you must have overlooked the part where i stated the other most common reasons. I said exactly this: 'the most common reasons for marriage are love, sex, and preocreation. Anyone can love anyone. Anyone is capable of having sex with anyone else(if you could call 'gay sex' 'sex').",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:52"
+    },
+    {
+      "nodeID": "151020",
+      "text": "But you're missing one important fact. NONE of those 'reasons' are required for marriage. Absolutely none of them. Any combination of man/woman can marry for whatever reason they want. Even if it's just drunken fun.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:52"
+    },
+    {
+      "nodeID": "151021",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:13:52"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191206",
+      "fromID": "151020",
+      "toID": "151021",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191207",
+      "fromID": "151021",
+      "toID": "151019",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

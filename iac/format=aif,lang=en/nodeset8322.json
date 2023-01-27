@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "155724",
+      "text": "No, it has not, despite what you and your girlfriend say. And, whether it supports my POV, as I believe it does, is not the point. The point is that my POV is valid, scientific, and becoming increasingly accepted, while your darwinist boat, riddled with leaks and worm holes from day one, is finally being allowed to sink to the bottom without further plugging up and bailing out",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:27"
+    },
+    {
+      "nodeID": "155725",
+      "text": "Well actually I have not seen your point of view expressed anywhere but on these forums. Seems to me if its rising to ascendancy at least ONE scientist somewhere would have recently at least mentioned it. Quick search reveals NO mentions at all. Of course if you say its displacing NDS then I guess I will have to agree - you being a well known biologist and all, but I remain perhaps a bit irrationaly skeptical.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:27"
+    },
+    {
+      "nodeID": "155726",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:27"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194532",
+      "fromID": "155725",
+      "toID": "155726",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194533",
+      "fromID": "155726",
+      "toID": "155724",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

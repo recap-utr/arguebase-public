@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "153067",
+      "text": "My husband and I will be married in windsor this comming June. It will be good that there will be one place in this world that our family will be considered a family. There is nothing the conservatives, republicans, or chistonazis can do to stop or take this license from us. I might just do a twist and sue in Canadian courts to have all marriages preformed in the United States not be recognized. So all those heteros passing into Canada will not be considered married unless married in Canada. Wounldn't that be a hoot.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:30"
+    },
+    {
+      "nodeID": "153068",
+      "text": "No one wants to take your 'marriage' away Matt. It's a free country--no one's going to block your way to any chapel that will marry you. Do your gay thing. But let marriage be marriage--it's a different matter. People just want to keep you from tampering with the institution of marriage.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:30"
+    },
+    {
+      "nodeID": "153069",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:18:30"
+    },
+    {
+      "nodeID": "153070",
+      "text": "Oh really the people who where behind the petition drive here in michigan want to deny me marriage, Here I will let the head of the organization that spearheaded the drive explain it in her own words. http://www.bpnews.net/bpnews.asp?ID=19408",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:30"
+    },
+    {
+      "nodeID": "153071",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:18:30"
+    },
+    {
+      "nodeID": "153072",
+      "text": "Have you done anything about them? Gay marriage has only been an issue for a couple of years, most of the other things I mentioned have been around for decades. Which have you actually done more about, or spoken out against more? I say you've done more in one year to fight gay marriage than you've done to 'save' marriage from everything else that's assailling it since you were born. Can you truthfully say I'm wrong? If you can't, then you care more about opposing gays then you do about saving marriage, and any claim to the contrary is hypocracy.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:30"
+    },
+    {
+      "nodeID": "153073",
+      "text": "Yeah, I'd say you are wrong. It isn't easy to tell on these forums because we don't have many topics about marriage in vegas.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:30"
+    },
+    {
+      "nodeID": "153074",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:18:30"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192650",
+      "fromID": "153068",
+      "toID": "153069",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192651",
+      "fromID": "153069",
+      "toID": "153067",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192652",
+      "fromID": "153070",
+      "toID": "153071",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192653",
+      "fromID": "153071",
+      "toID": "153068",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192654",
+      "fromID": "153073",
+      "toID": "153074",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192655",
+      "fromID": "153074",
+      "toID": "153072",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

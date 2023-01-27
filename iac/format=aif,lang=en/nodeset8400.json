@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "156905",
+      "text": "What have fears of evil alien monsters got to do with panspermia? emoticon_confused",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:09"
+    },
+    {
+      "nodeID": "156906",
+      "text": "** Our darwinist-descriptor word of the day--'hebetudinous'.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:09"
+    },
+    {
+      "nodeID": "156907",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:27:09"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195356",
+      "fromID": "156906",
+      "toID": "156907",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195357",
+      "fromID": "156907",
+      "toID": "156905",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

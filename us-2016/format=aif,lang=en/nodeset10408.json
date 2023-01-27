@@ -1,0 +1,917 @@
+{
+  "nodes": [
+    {
+      "nodeID": "212000",
+      "text": "slagnanz : Can tell me one redeeming thing about Trump",
+      "type": "L",
+      "timestamp": "2016-10-31 17:13:36"
+    },
+    {
+      "nodeID": "212001",
+      "text": "Assertive Questioning",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:13:37",
+      "scheme": "AssertiveQuestioning",
+      "schemeID": "73"
+    },
+    {
+      "nodeID": "212002",
+      "text": "there are no redeeming things about TRUMP",
+      "type": "I",
+      "timestamp": "2016-10-31 17:13:37"
+    },
+    {
+      "nodeID": "212003",
+      "text": "Rory: slagnanz : Can tell me one redeeming thing about Trump",
+      "type": "L",
+      "timestamp": "2016-10-31 17:13:37"
+    },
+    {
+      "nodeID": "212004",
+      "text": "slagnanz : I don't mean to be rude to anyone who supports him",
+      "type": "L",
+      "timestamp": "2016-10-31 17:13:37"
+    },
+    {
+      "nodeID": "212005",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:13:37",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "212006",
+      "text": "I don't mean to be rude to anyone who supports him",
+      "type": "I",
+      "timestamp": "2016-10-31 17:13:37"
+    },
+    {
+      "nodeID": "212007",
+      "text": "Rory: slagnanz : I don't mean to be rude to anyone who supports him",
+      "type": "L",
+      "timestamp": "2016-10-31 17:13:37"
+    },
+    {
+      "nodeID": "212008",
+      "text": "slagnanz : I just feel like I only hear and see negative things about him",
+      "type": "L",
+      "timestamp": "2016-10-31 17:13:37"
+    },
+    {
+      "nodeID": "212009",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:13:37",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "212010",
+      "text": "I just feel like I only hear and see negative things about him",
+      "type": "I",
+      "timestamp": "2016-10-31 17:13:37"
+    },
+    {
+      "nodeID": "212011",
+      "text": "Rory: slagnanz : I just feel like I only hear and see negative things about him",
+      "type": "L",
+      "timestamp": "2016-10-31 17:13:38"
+    },
+    {
+      "nodeID": "212012",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:13:38",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "212013",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:13:38",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "212014",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 17:13:38",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "212015",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:13:38",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "212016",
+      "text": "beachfootballer : If you have a country $18,000,000,000,000 in debt, you'd want the best businessman possible to run the country in that situation",
+      "type": "L",
+      "timestamp": "2016-10-31 17:13:38"
+    },
+    {
+      "nodeID": "212017",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:13:38",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "212018",
+      "text": "If you have a country $18,000,000,000,000 in debt, you'd want the best businessman possible to run the country in that situation",
+      "type": "I",
+      "timestamp": "2016-10-31 17:13:38"
+    },
+    {
+      "nodeID": "212019",
+      "text": "Rory: beachfootballer : If you have a country $18,000,000,000,000 in debt, you'd want the best businessman possible to run the country in that situation",
+      "type": "L",
+      "timestamp": "2016-10-31 17:13:38"
+    },
+    {
+      "nodeID": "212020",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:13:38",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "212021",
+      "text": "Rory: slagnanz : Is he the best businessman possible",
+      "type": "L",
+      "timestamp": "2016-10-31 17:13:39"
+    },
+    {
+      "nodeID": "212022",
+      "text": "Is he the best businessman possible",
+      "type": "L",
+      "timestamp": "2016-10-31 17:13:39"
+    },
+    {
+      "nodeID": "212023",
+      "text": "slagnanz : Is he the best businessman possible",
+      "type": "L",
+      "timestamp": "2016-10-31 17:13:39"
+    },
+    {
+      "nodeID": "212024",
+      "text": "Assertive Questioning",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:13:39",
+      "scheme": "AssertiveQuestioning",
+      "schemeID": "73"
+    },
+    {
+      "nodeID": "212025",
+      "text": "TRUMP is not the best businessman possible",
+      "type": "I",
+      "timestamp": "2016-10-31 17:13:39"
+    },
+    {
+      "nodeID": "212026",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:13:39",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "212027",
+      "text": "beachfootballer : Probably not",
+      "type": "L",
+      "timestamp": "2016-10-31 17:13:39"
+    },
+    {
+      "nodeID": "212028",
+      "text": "Rory: beachfootballer : Probably not",
+      "type": "L",
+      "timestamp": "2016-10-31 17:13:39"
+    },
+    {
+      "nodeID": "212029",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:13:39",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "212030",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:13:39",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    },
+    {
+      "nodeID": "212031",
+      "text": "beachfootballer : He's the biggest name in business",
+      "type": "L",
+      "timestamp": "2016-10-31 17:13:40"
+    },
+    {
+      "nodeID": "212032",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:13:40",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "212033",
+      "text": "TRUMP's the biggest name in business",
+      "type": "I",
+      "timestamp": "2016-10-31 17:13:40"
+    },
+    {
+      "nodeID": "212034",
+      "text": "Rory: beachfootballer : He's the biggest name in business",
+      "type": "L",
+      "timestamp": "2016-10-31 17:13:40"
+    },
+    {
+      "nodeID": "212035",
+      "text": "beachfootballer : an icon",
+      "type": "L",
+      "timestamp": "2016-10-31 17:13:40"
+    },
+    {
+      "nodeID": "212036",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:13:40",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "212037",
+      "text": "TRUMP is an icon",
+      "type": "I",
+      "timestamp": "2016-10-31 17:13:40"
+    },
+    {
+      "nodeID": "212038",
+      "text": "Rory: beachfootballer : an icon",
+      "type": "L",
+      "timestamp": "2016-10-31 17:13:40"
+    },
+    {
+      "nodeID": "212039",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-10-31 17:13:40",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "212040",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:13:40",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "212041",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:13:41",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "212042",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 17:13:41",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "212043",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:13:41",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "212044",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 17:13:41",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "212045",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:13:41",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "212046",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:13:41",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "212047",
+      "text": "zenchowdah : He's honest",
+      "type": "L",
+      "timestamp": "2016-10-31 17:13:41"
+    },
+    {
+      "nodeID": "212048",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:13:41",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "212049",
+      "text": "TRUMP's honest",
+      "type": "I",
+      "timestamp": "2016-10-31 17:13:41"
+    },
+    {
+      "nodeID": "212050",
+      "text": "Rory: zenchowdah : He's honest",
+      "type": "L",
+      "timestamp": "2016-10-31 17:13:41"
+    },
+    {
+      "nodeID": "212051",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:13:42",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "212052",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-10-31 17:13:42",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "212053",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:13:42",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "212054",
+      "text": "zenchowdah : He is saying exactly what he thinks",
+      "type": "L",
+      "timestamp": "2016-10-31 17:13:42"
+    },
+    {
+      "nodeID": "212055",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:13:42",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "212056",
+      "text": "TRUMP is saying exactly what TRUMP thinks",
+      "type": "I",
+      "timestamp": "2016-10-31 17:13:42"
+    },
+    {
+      "nodeID": "212057",
+      "text": "Rory: zenchowdah : He is saying exactly what he thinks",
+      "type": "L",
+      "timestamp": "2016-10-31 17:13:42"
+    },
+    {
+      "nodeID": "212058",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:13:42",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "212059",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 17:13:42",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "212060",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:13:42",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "212061",
+      "text": "slagnanz : I guess that is true",
+      "type": "L",
+      "timestamp": "2016-10-31 17:13:43"
+    },
+    {
+      "nodeID": "212062",
+      "text": "Rory: slagnanz : I guess that is true",
+      "type": "L",
+      "timestamp": "2016-10-31 17:13:43"
+    },
+    {
+      "nodeID": "212063",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:13:43",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "212064",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:13:43",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    },
+    {
+      "nodeID": "212065",
+      "text": "slagnanz : I want to know who agrees with him on what and why",
+      "type": "L",
+      "timestamp": "2016-10-31 17:13:43"
+    },
+    {
+      "nodeID": "212066",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:13:43",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "212067",
+      "text": "I want to know who agrees with TRUMP on what and why",
+      "type": "I",
+      "timestamp": "2016-10-31 17:13:43"
+    },
+    {
+      "nodeID": "212068",
+      "text": "Rory: slagnanz : I want to know who agrees with him on what and why",
+      "type": "L",
+      "timestamp": "2016-10-31 17:13:43"
+    },
+    {
+      "nodeID": "212069",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:13:43",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "258547",
+      "fromID": "212001",
+      "toID": "212002",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258548",
+      "fromID": "212000",
+      "toID": "212001",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258549",
+      "fromID": "212005",
+      "toID": "212006",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258550",
+      "fromID": "212004",
+      "toID": "212005",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258551",
+      "fromID": "212009",
+      "toID": "212010",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258552",
+      "fromID": "212008",
+      "toID": "212009",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258553",
+      "fromID": "212000",
+      "toID": "212012",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258554",
+      "fromID": "212012",
+      "toID": "212004",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258555",
+      "fromID": "212000",
+      "toID": "212013",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258556",
+      "fromID": "212013",
+      "toID": "212008",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258557",
+      "fromID": "212010",
+      "toID": "212014",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258558",
+      "fromID": "212014",
+      "toID": "212002",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258559",
+      "fromID": "212013",
+      "toID": "212015",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258560",
+      "fromID": "212015",
+      "toID": "212014",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258561",
+      "fromID": "212017",
+      "toID": "212018",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258562",
+      "fromID": "212016",
+      "toID": "212017",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258563",
+      "fromID": "212000",
+      "toID": "212020",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258564",
+      "fromID": "212020",
+      "toID": "212016",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258565",
+      "fromID": "212024",
+      "toID": "212025",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258566",
+      "fromID": "212023",
+      "toID": "212024",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258567",
+      "fromID": "212026",
+      "toID": "212023",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258568",
+      "fromID": "212016",
+      "toID": "212026",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258569",
+      "fromID": "212023",
+      "toID": "212029",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258570",
+      "fromID": "212029",
+      "toID": "212027",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258571",
+      "fromID": "212029",
+      "toID": "212030",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258572",
+      "fromID": "212030",
+      "toID": "212025",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258573",
+      "fromID": "212032",
+      "toID": "212033",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258574",
+      "fromID": "212031",
+      "toID": "212032",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258575",
+      "fromID": "212036",
+      "toID": "212037",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258576",
+      "fromID": "212035",
+      "toID": "212036",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258577",
+      "fromID": "212025",
+      "toID": "212039",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258578",
+      "fromID": "212039",
+      "toID": "212018",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258579",
+      "fromID": "212026",
+      "toID": "212040",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258580",
+      "fromID": "212040",
+      "toID": "212039",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258581",
+      "fromID": "212016",
+      "toID": "212041",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258582",
+      "fromID": "212041",
+      "toID": "212031",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258583",
+      "fromID": "212033",
+      "toID": "212042",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258584",
+      "fromID": "212042",
+      "toID": "212018",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258585",
+      "fromID": "212016",
+      "toID": "212043",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258586",
+      "fromID": "212043",
+      "toID": "212035",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258587",
+      "fromID": "212037",
+      "toID": "212044",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258588",
+      "fromID": "212044",
+      "toID": "212018",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258589",
+      "fromID": "212043",
+      "toID": "212045",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258590",
+      "fromID": "212045",
+      "toID": "212044",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258591",
+      "fromID": "212041",
+      "toID": "212046",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258592",
+      "fromID": "212046",
+      "toID": "212042",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258593",
+      "fromID": "212048",
+      "toID": "212049",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258594",
+      "fromID": "212047",
+      "toID": "212048",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258595",
+      "fromID": "212000",
+      "toID": "212051",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258596",
+      "fromID": "212051",
+      "toID": "212047",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258597",
+      "fromID": "212049",
+      "toID": "212052",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258598",
+      "fromID": "212052",
+      "toID": "212002",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258599",
+      "fromID": "212051",
+      "toID": "212053",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258600",
+      "fromID": "212053",
+      "toID": "212052",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258601",
+      "fromID": "212055",
+      "toID": "212056",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258602",
+      "fromID": "212054",
+      "toID": "212055",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258603",
+      "fromID": "212047",
+      "toID": "212058",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258604",
+      "fromID": "212058",
+      "toID": "212054",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258605",
+      "fromID": "212056",
+      "toID": "212059",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258606",
+      "fromID": "212059",
+      "toID": "212049",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258607",
+      "fromID": "212058",
+      "toID": "212060",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258608",
+      "fromID": "212060",
+      "toID": "212059",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258609",
+      "fromID": "212054",
+      "toID": "212063",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258610",
+      "fromID": "212063",
+      "toID": "212061",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258611",
+      "fromID": "212063",
+      "toID": "212064",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258612",
+      "fromID": "212064",
+      "toID": "212056",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258613",
+      "fromID": "212066",
+      "toID": "212067",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258614",
+      "fromID": "212065",
+      "toID": "212066",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258615",
+      "fromID": "212061",
+      "toID": "212069",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258616",
+      "fromID": "212069",
+      "toID": "212065",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

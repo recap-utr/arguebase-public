@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "142589",
+      "text": "The New Haven, CT plant that produced the Gun That Won The West closed. The venerable Winchester line of guns is no more, despite a heroic two month effort to find a buyer. I have a hard time believing someone will not try to resurrect the name, but perhaps it's best to let it die away. Certainly, it should not suffer its name on inferior product lines. We've allowed other great names, like Spencer, to become extinct. But what exactly killed it? Just another American manufacturer unable to compete?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:12"
+    },
+    {
+      "nodeID": "142590",
+      "text": "Lots of makers are still churning out lever action rifles. I am sad to see Winchester closed, but sad feelings is not a good financial reason to keep a poorly run company open.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:12"
+    },
+    {
+      "nodeID": "142591",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:56:12"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185262",
+      "fromID": "142590",
+      "toID": "142591",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185263",
+      "fromID": "142591",
+      "toID": "142589",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

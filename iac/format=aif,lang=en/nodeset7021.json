@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "136552",
+      "text": "In my veiw, no law can make any country crime free. The only way to make a country crime free is to get rid of laws, which would just be ridiculous. If somebody wants to do something bad enough, no law can stop them from doing it. As long as there are laws, there will be crime.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:16"
+    },
+    {
+      "nodeID": "136553",
+      "text": "How right you are to,and given the forum here, make it a crime to own to own a gun,well I think most of us are automatically criminals. It's like the signs you see...SHOPLIFTERS WILL BE PROSECUTED!lot a good they do.:xbanghead,yeah know matter how illegal their will be crime.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:16"
+    },
+    {
+      "nodeID": "136554",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:43:16"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "180958",
+      "fromID": "136553",
+      "toID": "136554",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180959",
+      "fromID": "136554",
+      "toID": "136552",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

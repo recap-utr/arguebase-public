@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "155958",
+      "text": "No a foetus shouldn't.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:00"
+    },
+    {
+      "nodeID": "155959",
+      "text": "You didn't answer the question jimmy-boy. Should the woman be forced (because that is what you are advocating) to bear a pregnancy that resulted from a rape? I'm not interested in those who decide to keep the child (good luck to them) but individuals who want the course of their life to be altered as little as possible by their ordeal. Do would you force them to carry that child?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:00"
+    },
+    {
+      "nodeID": "155960",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:25:01"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194694",
+      "fromID": "155959",
+      "toID": "155960",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194695",
+      "fromID": "155960",
+      "toID": "155958",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

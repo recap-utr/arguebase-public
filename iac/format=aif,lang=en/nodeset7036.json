@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "136662",
+      "text": "I agree. Time will tell if the cells are as effective as embryonic stem cells, and it seems on the surface, they well might be. Except. These stem must be donated by pregnant women. Amniocentesis, while pretty darn safe, is not without risk. First, the pregnant mother must donate the cells. The risk to the fetus is not zero. When we already have a zero risk procedure from cells that are going to be disposed of anyway. In any event, I am sure some nut job with an extremely skewed sense of morality will find a way to call this procedure immoral in some way.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:34"
+    },
+    {
+      "nodeID": "136663",
+      "text": "Yeah, it does have risk unlike the embryonic stem cells, but I think that if it comes out the way they hope, it will eventually lead to more embryonic uses as well when people realize that this can have risks. I think it is good to have this way as a back up while people argue over the use of cells that would otherwise be disposed, and get some treatment to people who need it rather than letting it be denied to them by anti-abortionists. And yeah, it's pretty much guaranteed that someone will find something to object about, claiming it is immoral (maybe it will now be that these stem cells are potential human life and we can't use them emoticon_rolleyes ), but it will likely not have as many objections.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:34"
+    },
+    {
+      "nodeID": "136664",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:43:34"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181036",
+      "fromID": "136663",
+      "toID": "136664",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181037",
+      "fromID": "136664",
+      "toID": "136662",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

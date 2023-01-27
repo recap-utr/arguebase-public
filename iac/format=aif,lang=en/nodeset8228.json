@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "154252",
+      "text": "Scholars Date the New Testament Books: http://www.errantskeptics.org/Dating_the_NT.htm",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:11"
+    },
+    {
+      "nodeID": "154253",
+      "text": "But those are only the book sthat were taken into the big collection. What about the other ones? Or did I not read all there is to read on that site?  One of the apocryphical texts may very well be written by Thomas, the apostle Thomas. None of the writers of the four well known Gospels were apostles, right? They were writers, heard the story quite a few years after and do not agree on all that much actually. There are definitely four different stories on how he was crucified for instance.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:11"
+    },
+    {
+      "nodeID": "154254",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:21:11"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193484",
+      "fromID": "154253",
+      "toID": "154254",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193485",
+      "fromID": "154254",
+      "toID": "154252",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

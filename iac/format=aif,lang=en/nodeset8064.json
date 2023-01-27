@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152025",
+      "text": "I remember staying at my grandfather's house during the summers as a child. After a little exploration, I found the rifle he kept down in the basement and the rifle and ammunition that was in one of the bedrooms on the ground floor.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:03"
+    },
+    {
+      "nodeID": "152026",
+      "text": "Well obviously you didn't shoot yourself or somebody else.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:03"
+    },
+    {
+      "nodeID": "152027",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:16:03"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191918",
+      "fromID": "152026",
+      "toID": "152027",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191919",
+      "fromID": "152027",
+      "toID": "152025",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

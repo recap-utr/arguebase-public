@@ -1,0 +1,145 @@
+{
+  "nodes": [
+    {
+      "nodeID": "136953",
+      "text": "&#8220;Americans just aren&#8217;t gullible enough to believe that they came from a fish,&#8221; he said.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:09"
+    },
+    {
+      "nodeID": "136954",
+      "text": ":xcensored  And they wonder why the science community doesn't take them seriously...",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:09"
+    },
+    {
+      "nodeID": "136955",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:44:10"
+    },
+    {
+      "nodeID": "136956",
+      "text": "PETERSBURG, Ky. - Like most natural history museums, this one has exhibits showing dinosaurs roaming the earth. Except here, the giant reptiles share the forest with Adam and Eve.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:10"
+    },
+    {
+      "nodeID": "136957",
+      "text": "So will they be in front of or behind a leaf?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:10"
+    },
+    {
+      "nodeID": "136958",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:44:10"
+    },
+    {
+      "nodeID": "136959",
+      "text": "Why sure, I'll simply report the facts and let you decide, unlike msnbc! emoticon_xangel :)",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:10"
+    },
+    {
+      "nodeID": "136960",
+      "text": "Somehow I don't think a high percentage of Ham's 'facts' are facts.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:10"
+    },
+    {
+      "nodeID": "136961",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:44:10"
+    },
+    {
+      "nodeID": "136962",
+      "text": "On the other hand, I am not suprised that Marc lives such a short distance away from where it is being built.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:10"
+    },
+    {
+      "nodeID": "136963",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:44:10"
+    },
+    {
+      "nodeID": "136964",
+      "text": "My thoughts exactly. :p Know your audience as they say........ Waxy",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:10"
+    },
+    {
+      "nodeID": "136965",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:44:10"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181242",
+      "fromID": "136954",
+      "toID": "136955",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181243",
+      "fromID": "136955",
+      "toID": "136953",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181244",
+      "fromID": "136957",
+      "toID": "136958",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181245",
+      "fromID": "136958",
+      "toID": "136956",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181246",
+      "fromID": "136960",
+      "toID": "136961",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181247",
+      "fromID": "136961",
+      "toID": "136959",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181248",
+      "fromID": "136962",
+      "toID": "136963",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181249",
+      "fromID": "136963",
+      "toID": "136960",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181250",
+      "fromID": "136964",
+      "toID": "136965",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181251",
+      "fromID": "136965",
+      "toID": "136962",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

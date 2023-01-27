@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "146372",
+      "text": "Here in New Hampshire, not known as a bastion of liberalism, Civil Unions passed the state legislature this year. I am now covered under my partner's state sponsored (he's a state worker) health insurance. We are grateful.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:04:09"
+    },
+    {
+      "nodeID": "146373",
+      "text": "Oh, I hear you. I am covered by my partner's insurance here as well. I would not have been able to get the insurance if we were not legally a union. It's amazing. And I am REALLY greatful for that!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:04:09"
+    },
+    {
+      "nodeID": "146374",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:04:10"
+    },
+    {
+      "nodeID": "146375",
+      "text": "And this is a terrific breakthrough. My partner and I are coveered by my company's health insurance, and the state of Connecticut honors our Civil Union. That being said, I still have to pay tax on my partner's health insurance as imputed income because the federal government refuses to acknowledge our union. So it has to be marriage. Full and without exception. Civil Unions are not enough when we are treated differently under the law.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:04:10"
+    },
+    {
+      "nodeID": "146376",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:04:10"
+    },
+    {
+      "nodeID": "146377",
+      "text": "I don't agree with this at all - that is like saying that we should have invented 'black and white' unions rather than allowing interracial marriage, and maybe put the kids of such unions is segregrated but equal schools, just to make sure that they don't have to mix with kids who matter. Separate is not equal, separate means one group doesn't matter as much as the other group - only EQUAL is EQUAL.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:04:10"
+    },
+    {
+      "nodeID": "146378",
+      "text": "Well, ok. I can see your point as well. However, I'm looking at the reality of the religious right and their influence. What is achieveable in the short term and long term? I think people need to be educated. Equal IS equal. You are absolutely right. And eventually, I pray there IS equality for gays. But given the current trend in the US, I doubt very much that it is going to happen. The Religious hate groups are well organized and well funded against us. We have to be smart and make a plan to get to the equal status we are entitled to. New Jersey is just another step towards that equality we want. But it's going to take more states.... one at a time. But IF gays can achieve more and more equal rights along the way, then great. I believe eventually gay marriage will happen in the US, but it's not going to be very soon.... maybe not in my lifetime. It will happen though.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:04:10"
+    },
+    {
+      "nodeID": "146379",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:04:10"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187932",
+      "fromID": "146373",
+      "toID": "146374",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187933",
+      "fromID": "146374",
+      "toID": "146372",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187934",
+      "fromID": "146375",
+      "toID": "146376",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187935",
+      "fromID": "146376",
+      "toID": "146372",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187936",
+      "fromID": "146378",
+      "toID": "146379",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187937",
+      "fromID": "146379",
+      "toID": "146377",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

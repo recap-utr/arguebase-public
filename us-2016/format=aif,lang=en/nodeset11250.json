@@ -1,0 +1,149 @@
+{
+  "nodes": [
+    {
+      "nodeID": "201231",
+      "text": "FreshHotTakes : He's also wasting the time he is given",
+      "type": "L",
+      "timestamp": "2016-09-21 16:33:32"
+    },
+    {
+      "nodeID": "201253",
+      "text": "Soylent_Orange : he agreed to the format of the debate as they all did",
+      "type": "L",
+      "timestamp": "2016-09-21 16:33:34"
+    },
+    {
+      "nodeID": "201255",
+      "text": "Webb agreed to the format of the debate as all candidates did",
+      "type": "I",
+      "timestamp": "2016-09-21 16:33:34"
+    },
+    {
+      "nodeID": "248950",
+      "text": "COOPER : You agreed to these rules",
+      "type": "L",
+      "timestamp": "2016-12-21 14:46:32"
+    },
+    {
+      "nodeID": "248952",
+      "text": "You agreed to these rules",
+      "type": "I",
+      "timestamp": "2016-12-21 14:46:32"
+    },
+    {
+      "nodeID": "248954",
+      "text": "COOPER : you're wasting time",
+      "type": "L",
+      "timestamp": "2016-12-21 14:46:32"
+    },
+    {
+      "nodeID": "248956",
+      "text": "you're wasting time",
+      "type": "I",
+      "timestamp": "2016-12-21 14:46:32"
+    },
+    {
+      "nodeID": "263959",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-08 10:24:44",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "263960",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2017-03-08 10:24:44",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    },
+    {
+      "nodeID": "263961",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-08 10:24:45",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "263962",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-08 10:24:45",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "263963",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-08 10:24:45",
+      "scheme": "Restating",
+      "schemeID": "101"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "319036",
+      "fromID": "248954",
+      "toID": "263959",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319037",
+      "fromID": "263959",
+      "toID": "201231",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319038",
+      "fromID": "263959",
+      "toID": "263960",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319039",
+      "fromID": "263960",
+      "toID": "248956",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319040",
+      "fromID": "248950",
+      "toID": "263961",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319041",
+      "fromID": "263961",
+      "toID": "201253",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319042",
+      "fromID": "201255",
+      "toID": "263962",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319043",
+      "fromID": "263962",
+      "toID": "248952",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319044",
+      "fromID": "263961",
+      "toID": "263963",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319045",
+      "fromID": "263963",
+      "toID": "263962",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

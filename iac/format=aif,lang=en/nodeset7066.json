@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "137130",
+      "text": "OC:That is why they will not reply.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:29"
+    },
+    {
+      "nodeID": "137131",
+      "text": "I think you present a good point, but part of the test here is to see how my post is reponded to; silence from certain people tells us things in inself. So far it seems my initial estimation of the issue is about right- the idelogy being upheld helps some people ignore the effect the punitive policy imposes.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:29"
+    },
+    {
+      "nodeID": "137132",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:44:29"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181374",
+      "fromID": "137131",
+      "toID": "137132",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181375",
+      "fromID": "137132",
+      "toID": "137130",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

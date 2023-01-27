@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151431",
+      "text": "It's technically not killing. Killing means making it dead. For the most animals, the indicator for life is brain activity (Note: brain activity is one of the requirements of life, but it's not THE definition). When the sperm meets the egg, there is no brain activity. In fact there maybe no brain activity until the end of the first trimester.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:49"
+    },
+    {
+      "nodeID": "151432",
+      "text": "Actually, at 24 weeks is when the the interconnection of the fetal brain begins. The nerve cells from the neocortex begin to synapse with the nerve cells of the thalamus. It is at this point that bursts of recognizable brain waves start to appear among the random signals that go on before. It is at this point that some scientists believe a fetus can feel pain as well. It is also at this point that a fetus can possibly survive outside of the womb (23-24 weeks), though the cance of survival is low and the risk of impairment very serious. This point probably won't change with technology either because the fetal lung is not mature enough until this point for even mechanical-assisted breathing.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:49"
+    },
+    {
+      "nodeID": "151433",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:14:49"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191496",
+      "fromID": "151432",
+      "toID": "151433",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191497",
+      "fromID": "151433",
+      "toID": "151431",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157090",
+      "text": "no surprise that an industry run by criminals keeps the black market well stocked with guns while being cheered by the gun lobby",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:30"
+    },
+    {
+      "nodeID": "157091",
+      "text": "Note that at the very beginning it said 'allegations', as in alleged. Alleged isn't the same thing as hard and provable evidence. So this is nothing more than supposition, theory, hearsay, musings, etc. Come back when you've got some hard evidence!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:31"
+    },
+    {
+      "nodeID": "157092",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:27:31"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195492",
+      "fromID": "157091",
+      "toID": "157092",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195493",
+      "fromID": "157092",
+      "toID": "157090",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,121 @@
+{
+  "nodes": [
+    {
+      "nodeID": "142607",
+      "text": "I Should the Georgia General Assembly go back to law school or what?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:16"
+    },
+    {
+      "nodeID": "142608",
+      "text": "Maybe they did it on purpose? They push through the amendment to quiet the RR while the issue is a hot botton topic, but make sure it's unconstitutional so that it'll get shot down. Just a thought.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:16"
+    },
+    {
+      "nodeID": "142609",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:56:16"
+    },
+    {
+      "nodeID": "142610",
+      "text": "Should the Georgia General Assembly go back to law school or what?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:16"
+    },
+    {
+      "nodeID": "142611",
+      "text": "They can go somewhere( feel the heat) but law school would not be my first choice.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:17"
+    },
+    {
+      "nodeID": "142612",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:56:17"
+    },
+    {
+      "nodeID": "142613",
+      "text": "I'm not sure what you mean by saying that it provides for two seperate things. Could you please explain?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:17"
+    },
+    {
+      "nodeID": "142614",
+      "text": "1 It enshrines marriage as a hetero institution 2 It bans civil unions and all relationships between same sex people.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:17"
+    },
+    {
+      "nodeID": "142615",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:56:17"
+    },
+    {
+      "nodeID": "142616",
+      "text": "They do it on purpose, alright. But not because it'll be shot down -- in at least one state, the Supreme Court decided that similar legislation did not address more than one issue. The reason they put them together is that, in most states, a ban on civil unions would FAIL.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:17"
+    },
+    {
+      "nodeID": "142617",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:56:17"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185274",
+      "fromID": "142608",
+      "toID": "142609",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185275",
+      "fromID": "142609",
+      "toID": "142607",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185276",
+      "fromID": "142611",
+      "toID": "142612",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185277",
+      "fromID": "142612",
+      "toID": "142610",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185278",
+      "fromID": "142614",
+      "toID": "142615",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185279",
+      "fromID": "142615",
+      "toID": "142613",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185280",
+      "fromID": "142616",
+      "toID": "142617",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185281",
+      "fromID": "142617",
+      "toID": "142608",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

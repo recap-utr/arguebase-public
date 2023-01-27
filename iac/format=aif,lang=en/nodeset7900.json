@@ -1,0 +1,145 @@
+{
+  "nodes": [
+    {
+      "nodeID": "149353",
+      "text": "Yeah, it is a good first step though. While they should have allowed gays to get married, it is progress, but they will eventually find out that seperate but equal will not work.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:40"
+    },
+    {
+      "nodeID": "149354",
+      "text": "Many who voted for this said as much. They're hoping that in a few years gays will actually get full rights. We can only hope.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:40"
+    },
+    {
+      "nodeID": "149355",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:10:40"
+    },
+    {
+      "nodeID": "149356",
+      "text": "Actually I have no problem with civil unions as long as civil unions replace the marriage certificate. Besides it will backfire on them the first time some one is denied something because they aren't married and have a civil union this will be back in court. I aslo would like to see the language to see if there is any penalties for those who do not treat the civil unions as marriages.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:40"
+    },
+    {
+      "nodeID": "149357",
+      "text": "Excellent point. If the government only gave civil unions to everyone (heteros and gays alike) and the churches got to do the religious side of it, Civil Unons would be excellent. Unfortunately, those opposing gay marriage would never agree to such a thing.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:40"
+    },
+    {
+      "nodeID": "149358",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:10:40"
+    },
+    {
+      "nodeID": "149359",
+      "text": "Actually I have no problem with civil unions as long as civil unions replace the marriage certificate.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:41"
+    },
+    {
+      "nodeID": "149360",
+      "text": "For those that argue over the pretense of 'marriage is a religious institution', I don't know why they don't push SOLELY for what governmental involvement of 'civil unions'. After all, if the government has a hand in the institution of marriage, it's not just a 'religious institution'. Moreover, those fighting against gay marriage are doing so SOLELY in the governmental arena. If a gay couple gets married in their church, that's entirely legal in 50 states with no attempts to make it illegal. So it kind of undermines the pretense of 'religious' concerns when people SOLELY try to prevent GOVERNMENTAL recognition of gay unions.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:41"
+    },
+    {
+      "nodeID": "149361",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:10:41"
+    },
+    {
+      "nodeID": "149362",
+      "text": "lol that'll be the day:)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:41"
+    },
+    {
+      "nodeID": "149363",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:10:41"
+    },
+    {
+      "nodeID": "149364",
+      "text": "That's good. You're right, all we can do is hope and pray (I pray for things like this every day, and in a way, God has answered my prayer in this case).",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:41"
+    },
+    {
+      "nodeID": "149365",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:10:41"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "190030",
+      "fromID": "149354",
+      "toID": "149355",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190031",
+      "fromID": "149355",
+      "toID": "149353",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190032",
+      "fromID": "149357",
+      "toID": "149358",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190033",
+      "fromID": "149358",
+      "toID": "149356",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190034",
+      "fromID": "149360",
+      "toID": "149361",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190035",
+      "fromID": "149361",
+      "toID": "149359",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190036",
+      "fromID": "149362",
+      "toID": "149363",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190037",
+      "fromID": "149363",
+      "toID": "149356",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190038",
+      "fromID": "149364",
+      "toID": "149365",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190039",
+      "fromID": "149365",
+      "toID": "149354",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

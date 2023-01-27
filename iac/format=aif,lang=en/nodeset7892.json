@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "149278",
+      "text": "So, what's my point in all this? I'm not trying to say that Unkerpaulie's doctrine is wrong. I'm just trying to show that it's pefectly possible to believe in Christianity and the Bible without believing in a literal Genesis, Fall, or Creation, and so there's no necessary conflict between being a good Christian and believing evolution. There are certainly certain branches of Christianity for which evolution is anathema, but that's a property of those particular branches, and not an inherent property of Christianity as a whole.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:29"
+    },
+    {
+      "nodeID": "149279",
+      "text": "i wouls suggest that 'brand' of christianity that doesnt take genesis as literal is based on an unbiblical doctrine. as you demonstrated above, in order to remove the significance of genesis, you must fill in the gaps with explanations that are not based on, and sometimes contrary to, the bible. clearly, why even call that a christian if they are not folowing the pattern of christ, dont believe in redemption and original sin, and dont believe that this very redemption restores man back to the form man was originally intended to live. that said, i'm very curious to hear exactly how this 'brand' of christian fits evolution into the scripture as a basis for their christianity. in order to do that, they'd need to: - understand exactly what the 'allegory' of genesis represents - explain how man can be considered in the likeness of God presently - explain exactly why jesus died if there is no original sin - identify the time in history that God was first revealed to man - account for the souls of the homonid species before modern man so far, noone has even ever come close to scratching the surface on these questions. in fact, members of this 'brand' of christianity become VERY hard to find when discussions like these arise. yet they are quick to pat themselves on the back for 'not being like those fundamentalists who reject science'. if your version of christianity is the right one, lets discuss it",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:29"
+    },
+    {
+      "nodeID": "149280",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:10:29"
+    },
+    {
+      "nodeID": "149281",
+      "text": "First Paragraph: 'christianity is living a lifstyle patterned after the teachings, actions and philosophies of christ.' Sure, not a bad definition. 'in order to do this, you must accept that the records of christ's life are fact.' Every single word in the gospels? No, not at all. Remember, the works which became the new testament were around for centuries before they were actually compiled into the Bible. And none of the originals still exist. Who knows what changes were made to the account of Jesus's life before they were finally compiled. For example, look at Matthew 10:34 'Do not think that I came to bring peace on earth. I did not come to bring peace but a sword.' Doesn't sound much like Jesus, does it? It certainly doesn't fit into the picture that's generally painted of Jesus. In the end the New Testament was written and compiled by mistake prone people. Some may believe that it's the unadulterated word of God, but looking at the above passage it's also easy to believe that it's also the work of common people. The rest of the paragraph rather depends on accepting that line, and I believe I've shown that a reasonable person might not, so I'm going to skip to your next paragraph.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:29"
+    },
+    {
+      "nodeID": "149282",
+      "text": "so what about jesus' life is credible if the source is unreliable? was it that jesus didnt walk on water but he fed 5000 with 5 loaves? was it that he didnt forgive the samaritan harlot but he raised lazarus from the dead? what did the authors get right? i mean, i can easily believe jesus said he came to bring a sword and not peace. but you dont. so how do we possibly pattern our lives according to how jesus lived if we dont know whether what they recorded was actually what he did? it is necessary to believe that the gospels are true, otherwise you cannot follow a pattrn you dont have.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:29"
+    },
+    {
+      "nodeID": "149283",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:10:29"
+    },
+    {
+      "nodeID": "149284",
+      "text": "science's job is not to figure out why the flood story gets so much attention, we already know why.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:29"
+    },
+    {
+      "nodeID": "149285",
+      "text": "I know that also. I have said for years now that the study of earth will reveal things as we go. I meant that it will be found out, not that science is on an expedition to do so. (That's why I attached the 'forced' sentence afterwards).",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:29"
+    },
+    {
+      "nodeID": "149286",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:10:29"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189980",
+      "fromID": "149279",
+      "toID": "149280",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189981",
+      "fromID": "149280",
+      "toID": "149278",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189982",
+      "fromID": "149282",
+      "toID": "149283",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189983",
+      "fromID": "149283",
+      "toID": "149281",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189984",
+      "fromID": "149285",
+      "toID": "149286",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189985",
+      "fromID": "149286",
+      "toID": "149284",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

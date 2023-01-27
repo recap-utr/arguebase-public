@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143976",
+      "text": "You say that like it was a bad thing.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:18"
+    },
+    {
+      "nodeID": "143977",
+      "text": "well - let's see - business gets taxed for buying things and capital gains goes up to 45% means that they sell a small retail location and make a modest profit that almost 1/2 gets wiped out with Obama's redistribution of wealth means WHY bother expanding - we make enough money - screw those who have no jobs - IT IS NOT WORTH IT TO CARE since the government doesn't care about ME keeping money to help them  ... so now poor people can enjoy spam for Christmas dinner emoticon_xdonno",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:18"
+    },
+    {
+      "nodeID": "143978",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:59:19"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186246",
+      "fromID": "143977",
+      "toID": "143978",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186247",
+      "fromID": "143978",
+      "toID": "143976",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

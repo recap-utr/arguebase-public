@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143880",
+      "text": "The modern evolutionary synthesis (often referred to simply as the new synthesis, the modern synthesis, the evolutionary synthesis, neo-Darwinian synthesis or neo-Darwinism), generally denotes the integration of Charles Darwin's theory of the evolution of species by natural selection, Gregor Mendel's theory of genetics as the basis for biological inheritance, random genetic mutation as the source of variation, and mathematical population genetics. Major figures in the development of the modern synthesis include Thomas Hunt Morgan, R. A. Fisher, Theodosius Dobzhansky, J.B.S. Haldane, Sewall Wright, Julian Huxley, Ernst Mayr, Bernhard Rensch, George Gaylord Simpson, and G. Ledyard Stebbins. Essentially, the modern synthesis introduced the connection between two important discoveries: the units of evolution (genes) and the mechanism of evolution (selection). It also represents a unification of several branches of biology that previously had little in common, particularly genetics, cytology, systematics, botany, and paleontology.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:04"
+    },
+    {
+      "nodeID": "143881",
+      "text": "and further:",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:04"
+    },
+    {
+      "nodeID": "143882",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:59:04"
+    },
+    {
+      "nodeID": "143883",
+      "text": "[url]The concept that mutations occur by chance is often questioned by non-evolutionists as being a requirement for strict randomness, but just what they mean by this is usually left unstated. In addition evolutioinsts do not in general specify what 'by chance' or random actually means. Depending on ones world view there may in fact be no events which occur 'by chance' as every event is viewed as causal. Accepting that (and its likely that events at the genetic level are indeed causal), the question is what 'form' or randomness are evolutionists really talking about. WW claims that the very fact that mutaions are not strictly acausal (and in his not so well developed opinion are DIRECTED towards greater fitness by something other than selection - ie a vitalist hypothesis. Its useful to nail this question down tight.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:04"
+    },
+    {
+      "nodeID": "143884",
+      "text": "Just a layperson of course. But I'll give it a stab. ... For besides the point that vitalism is an untestable hypothesis and thus useless in looking at these questions...  How does such reasoning prove anything of the sort. All you have is the fact that humans understand the reasons for some variations and not for others. Besides, a selected variation does not mean that it will bode for the best. That is WW's interpretation and value judgment ... in hindsight ... a variation of the view .. twas God's will, He knew what he was doing ... but all you have definitively established is that you yourself looked to the past and infered intent as to the future based on your selective perceptions about what was going on and what feels good. Time and space are muddled. Seems to me that the observer using the more effective scientific method sticks (well) religiously to the present moment. Plus, 'acausal' doesn't really mean 'no cause,' does it? Just that we haven't determined one. It looks to me like the agnostic view. We don't know what's going on. Random also seems to mean that there are unknown variables or conditions present. Reminds me of discussion re abiogenesis and the term 'spontaneous.' I think us laypeople at least mistakenly look at causation in a very linear fashion. Rather than in terms of a set of conditions giving rise to other phenomenon. An aside. I don't like the 'mistake' view (DNA replication). Back to direction, if there's a wrong turn. Written before seeing the more recent posts.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:04"
+    },
+    {
+      "nodeID": "143885",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:59:05"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186180",
+      "fromID": "143881",
+      "toID": "143882",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186181",
+      "fromID": "143882",
+      "toID": "143880",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186182",
+      "fromID": "143884",
+      "toID": "143885",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186183",
+      "fromID": "143885",
+      "toID": "143883",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "160314",
+      "text": "On point, do you disagree that it should be the Navy's role to make the sea lanes safe for merchant shipping?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:34:44"
+    },
+    {
+      "nodeID": "160315",
+      "text": "Yes I disagree with that point. The navy, just like the police, can't possibly be everywhere that danger might raise its ugly head. Merchant ships can't afford a 24/7 navy escort anymore than the average citizen can afford to hire body guards 24/7. There's no legitimate reason why merchant ships should be unarmed and unable to address dangers that deliberately come after them.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:34:44"
+    },
+    {
+      "nodeID": "160316",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:34:44"
+    },
+    {
+      "nodeID": "160317",
+      "text": "The navy, just like the police, can't possibly be everywhere that danger might raise its ugly head.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:34:44"
+    },
+    {
+      "nodeID": "160318",
+      "text": "And like the police , the Navy could plan and execute raids.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:34:44"
+    },
+    {
+      "nodeID": "160319",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:34:44"
+    },
+    {
+      "nodeID": "160320",
+      "text": "And like the police , the Navy could plan and execute raids.  Maybe escorts aren't the way to go.  I haven't suggested they should. I am suggesting that other solutions might be more effective and less dangerous to merchant crews.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:34:44"
+    },
+    {
+      "nodeID": "160321",
+      "text": "Oh thats not politically kerect and secially wif the chosen one doing the world apology toure I don't see that going down.  Well lay a few on us sin baby. Give us the deal.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:34:44"
+    },
+    {
+      "nodeID": "160322",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:34:44"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "197800",
+      "fromID": "160315",
+      "toID": "160316",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197801",
+      "fromID": "160316",
+      "toID": "160314",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197802",
+      "fromID": "160318",
+      "toID": "160319",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197803",
+      "fromID": "160319",
+      "toID": "160317",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197804",
+      "fromID": "160321",
+      "toID": "160322",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197805",
+      "fromID": "160322",
+      "toID": "160320",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

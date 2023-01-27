@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "147937",
+      "text": "Well, pro-choicers, I wish all of you had never been born. And if my account is banned for that statement, it's simply proof that the moderators here are pro-life.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:22"
+    },
+    {
+      "nodeID": "147938",
+      "text": "I believe you mean pro-choice, don't you. A pro-life mod might agree with you.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:22"
+    },
+    {
+      "nodeID": "147939",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:07:22"
+    },
+    {
+      "nodeID": "147940",
+      "text": "Pro-choice advocates believe that there is nothing immoral about abortion. They maintain that having an abortion is not murder. If this is the case, then it cannot be immoral for me to tell a person that I wish they had been aborted. After all, I am not wishing death upon them, but only nonexistence. Wishing death would be immoral, because it would be wishing something bad upon a person, but wishing they had never been born cannot be immoral, because according to abortion advocates, there is nothing bad about not being born. If, however, it is in fact immoral to wish a person had never been born, then by the same logic abortion must also be immoral. Why, then, do we generally feel that 'I wish you had never been born' is such an awful thing to tell a person? The answer speaks for itself. Well, pro-choicers, I wish all of you had never been born. And if my account is banned for that statement, it's simply proof that the moderators here are pro-life. In addition, if you are offended by it, it is proof that deep down, you are, too.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:23"
+    },
+    {
+      "nodeID": "147941",
+      "text": "YOU ARE WONDERFUL!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:23"
+    },
+    {
+      "nodeID": "147942",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:07:23"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189032",
+      "fromID": "147938",
+      "toID": "147939",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189033",
+      "fromID": "147939",
+      "toID": "147937",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189034",
+      "fromID": "147941",
+      "toID": "147942",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189035",
+      "fromID": "147942",
+      "toID": "147940",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

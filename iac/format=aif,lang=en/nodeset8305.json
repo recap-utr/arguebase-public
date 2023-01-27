@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "155535",
+      "text": "Obama and his cronies can't stay in office forever, they're eventually going to **** up and the conservatives will soon be in control once again.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:23:59"
+    },
+    {
+      "nodeID": "155536",
+      "text": "Actually it is more than that. Yes conservatives will be back in power, but I have never seen so much discontent in America period. I don't know where we got off track but I think it is this. We are Americans, not Democrat or Republican. Our allegiance belongs to the Republic, not to any political group. While we fight and try to score some kind of political points with each and every event, America is burning. Sooner or later, while we bicker endlessly, the American People are going to be fed up with both parties, and move into something yet not discovered.  Heck, the way China is rising in material wealth, and while we mortgage our Children's futures so that we do not have to feel the pain, maybe we will be just presiding over the destruction of the greatest society even known to man. All of this is possible unless we find the courage to work together for the good of all America, instead of just trying to play got ya with the other party. It is what I said a few days ago. United we Stand and Divided We Fall! However, I doubt the Chinese will be anywhere as benevolent as We the People were. But it seems clear that change is coming, but I sincerely doubt that is has very little to do with the kind of change Obama Envisioned!  So belly up to the bar and Get Some discontent Boys! After all we all have earned it!  We reap what we sow!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:00"
+    },
+    {
+      "nodeID": "155537",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:00"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194398",
+      "fromID": "155536",
+      "toID": "155537",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194399",
+      "fromID": "155537",
+      "toID": "155535",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

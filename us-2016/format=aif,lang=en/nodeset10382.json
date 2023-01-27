@@ -1,0 +1,644 @@
+{
+  "nodes": [
+    {
+      "nodeID": "210503",
+      "text": "olegv40 : Ben Carson just spent 200 words",
+      "type": "L",
+      "timestamp": "2016-10-31 11:45:46"
+    },
+    {
+      "nodeID": "210504",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 11:45:46",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "210505",
+      "text": "CARSON just spent 200 words",
+      "type": "I",
+      "timestamp": "2016-10-31 11:45:46"
+    },
+    {
+      "nodeID": "210506",
+      "text": "Barbara: olegv40 : Ben Carson just spent 200 words",
+      "type": "L",
+      "timestamp": "2016-10-31 11:45:46"
+    },
+    {
+      "nodeID": "210507",
+      "text": "flat tax",
+      "type": "I",
+      "timestamp": "2016-10-31 11:45:46"
+    },
+    {
+      "nodeID": "210508",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 11:45:47",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "210509",
+      "text": "CARSON : flat tax",
+      "type": "L",
+      "timestamp": "2016-10-31 11:45:47"
+    },
+    {
+      "nodeID": "210510",
+      "text": "Barbara: CARSON : flat tax",
+      "type": "L",
+      "timestamp": "2016-10-31 11:45:47"
+    },
+    {
+      "nodeID": "210511",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 11:45:47",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "210512",
+      "text": "olegv40 : CARSON : flat tax",
+      "type": "L",
+      "timestamp": "2016-10-31 11:45:47"
+    },
+    {
+      "nodeID": "210513",
+      "text": "Barbara: olegv40 : CARSON : flat tax",
+      "type": "L",
+      "timestamp": "2016-10-31 11:45:47"
+    },
+    {
+      "nodeID": "210514",
+      "text": "not flat tax",
+      "type": "I",
+      "timestamp": "2016-10-31 11:45:47"
+    },
+    {
+      "nodeID": "210515",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 11:45:47",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "210516",
+      "text": "Bmorewiser : No",
+      "type": "L",
+      "timestamp": "2016-10-31 11:45:47"
+    },
+    {
+      "nodeID": "210517",
+      "text": "Barbara: Bmorewiser : No",
+      "type": "L",
+      "timestamp": "2016-10-31 11:45:47"
+    },
+    {
+      "nodeID": "210518",
+      "text": "bible tax",
+      "type": "I",
+      "timestamp": "2016-10-31 11:45:47"
+    },
+    {
+      "nodeID": "210519",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 11:45:48",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "210520",
+      "text": "CARSON : bible tax",
+      "type": "L",
+      "timestamp": "2016-10-31 11:45:48"
+    },
+    {
+      "nodeID": "210521",
+      "text": "Barbara: CARSON : bible tax",
+      "type": "L",
+      "timestamp": "2016-10-31 11:45:48"
+    },
+    {
+      "nodeID": "210522",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 11:45:48",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "210523",
+      "text": "Bmorewiser : CARSON : bible tax",
+      "type": "L",
+      "timestamp": "2016-10-31 11:45:48"
+    },
+    {
+      "nodeID": "210524",
+      "text": "Barbara: Bmorewiser : CARSON : bible tax",
+      "type": "L",
+      "timestamp": "2016-10-31 11:45:48"
+    },
+    {
+      "nodeID": "210525",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 11:45:48",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "210526",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-10-31 11:45:48",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "210527",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 11:45:48",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "210528",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 11:45:48",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "210529",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-10-31 11:45:49",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "210530",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 11:45:49",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "210531",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 11:45:49",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "210532",
+      "text": "WAR ON CHRISTIANITY",
+      "type": "I",
+      "timestamp": "2016-10-31 11:45:49"
+    },
+    {
+      "nodeID": "210533",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 11:45:49",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "210534",
+      "text": "[deleted] : WAR ON CHRISTIANITY",
+      "type": "L",
+      "timestamp": "2016-10-31 11:45:49"
+    },
+    {
+      "nodeID": "210535",
+      "text": "Barbara: [deleted] : WAR ON CHRISTIANITY",
+      "type": "L",
+      "timestamp": "2016-10-31 11:45:49"
+    },
+    {
+      "nodeID": "210536",
+      "text": "[deleted] : I actuallyhavemoretosay",
+      "type": "L",
+      "timestamp": "2016-10-31 11:45:49"
+    },
+    {
+      "nodeID": "210537",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 11:45:49",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "210538",
+      "text": "I actuallyhavemoretosay",
+      "type": "I",
+      "timestamp": "2016-10-31 11:45:49"
+    },
+    {
+      "nodeID": "210539",
+      "text": "Barbara: [deleted] : I actuallyhavemoretosay",
+      "type": "L",
+      "timestamp": "2016-10-31 11:45:49"
+    },
+    {
+      "nodeID": "210540",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 11:45:50",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "210541",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 11:45:50",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "210542",
+      "text": "RealHumanHere : He takes so long to talk",
+      "type": "L",
+      "timestamp": "2016-10-31 11:45:50"
+    },
+    {
+      "nodeID": "210543",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 11:45:50",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "210544",
+      "text": "CARSON takes so long to talk",
+      "type": "I",
+      "timestamp": "2016-10-31 11:45:50"
+    },
+    {
+      "nodeID": "210545",
+      "text": "Barbara: RealHumanHere : He takes so long to talk",
+      "type": "L",
+      "timestamp": "2016-10-31 11:45:50"
+    },
+    {
+      "nodeID": "210546",
+      "text": "RealHumanHere : definitely looks like he doesn't really know what he's talking about",
+      "type": "L",
+      "timestamp": "2016-10-31 11:45:50"
+    },
+    {
+      "nodeID": "210547",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 11:45:50",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "210548",
+      "text": "CARSON definitely looks like he doesn't really know what he's talking about",
+      "type": "I",
+      "timestamp": "2016-10-31 11:45:50"
+    },
+    {
+      "nodeID": "210549",
+      "text": "Barbara: RealHumanHere : definitely looks like he doesn't really know what he's talking about",
+      "type": "L",
+      "timestamp": "2016-10-31 11:45:50"
+    },
+    {
+      "nodeID": "210550",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 11:45:51",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "210551",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 11:45:51",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "257032",
+      "fromID": "210504",
+      "toID": "210505",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257033",
+      "fromID": "210503",
+      "toID": "210504",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257034",
+      "fromID": "210508",
+      "toID": "210507",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257035",
+      "fromID": "210509",
+      "toID": "210508",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257036",
+      "fromID": "210511",
+      "toID": "210509",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257037",
+      "fromID": "210512",
+      "toID": "210511",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257038",
+      "fromID": "210515",
+      "toID": "210514",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257039",
+      "fromID": "210516",
+      "toID": "210515",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257040",
+      "fromID": "210519",
+      "toID": "210518",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257041",
+      "fromID": "210520",
+      "toID": "210519",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257042",
+      "fromID": "210522",
+      "toID": "210520",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257043",
+      "fromID": "210523",
+      "toID": "210522",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257044",
+      "fromID": "210520",
+      "toID": "210525",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257045",
+      "fromID": "210525",
+      "toID": "210514",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257046",
+      "fromID": "210514",
+      "toID": "210526",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257047",
+      "fromID": "210526",
+      "toID": "210509",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257048",
+      "fromID": "210512",
+      "toID": "210527",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257049",
+      "fromID": "210527",
+      "toID": "210516",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257050",
+      "fromID": "210516",
+      "toID": "210528",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257051",
+      "fromID": "210528",
+      "toID": "210523",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257052",
+      "fromID": "210527",
+      "toID": "210529",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257053",
+      "fromID": "210529",
+      "toID": "210526",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257054",
+      "fromID": "210528",
+      "toID": "210530",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257055",
+      "fromID": "210530",
+      "toID": "210525",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257056",
+      "fromID": "210503",
+      "toID": "210531",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257057",
+      "fromID": "210531",
+      "toID": "210512",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257058",
+      "fromID": "210533",
+      "toID": "210532",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257059",
+      "fromID": "210534",
+      "toID": "210533",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257060",
+      "fromID": "210537",
+      "toID": "210538",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257061",
+      "fromID": "210536",
+      "toID": "210537",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257062",
+      "fromID": "210523",
+      "toID": "210540",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257063",
+      "fromID": "210540",
+      "toID": "210534",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257064",
+      "fromID": "210534",
+      "toID": "210541",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257065",
+      "fromID": "210541",
+      "toID": "210536",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257066",
+      "fromID": "210543",
+      "toID": "210544",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257067",
+      "fromID": "210542",
+      "toID": "210543",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257068",
+      "fromID": "210547",
+      "toID": "210548",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257069",
+      "fromID": "210546",
+      "toID": "210547",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257070",
+      "fromID": "210536",
+      "toID": "210550",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257071",
+      "fromID": "210550",
+      "toID": "210542",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257072",
+      "fromID": "210542",
+      "toID": "210551",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257073",
+      "fromID": "210551",
+      "toID": "210546",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "210509",
+      "personID": "2628",
+      "timestamp": "2016-10-31 11:45:52",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "210512",
+      "personID": "2672",
+      "timestamp": "2016-10-31 11:45:52",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "210516",
+      "personID": "2673",
+      "timestamp": "2016-10-31 11:45:52",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "210520",
+      "personID": "2628",
+      "timestamp": "2016-10-31 11:45:52",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "210523",
+      "personID": "2673",
+      "timestamp": "2016-10-31 11:45:52",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "210534",
+      "personID": "1673",
+      "timestamp": "2016-10-31 11:45:52",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

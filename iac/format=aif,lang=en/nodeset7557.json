@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143938",
+      "text": "Nor do I believe that it would make students safer.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:13"
+    },
+    {
+      "nodeID": "143939",
+      "text": "Well the continual occurrence of shootings at schools that outlaw concealed carry, vs the lack of any shootings at schools that allow concealed carry, would suggest something along those lines.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:13"
+    },
+    {
+      "nodeID": "143940",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:59:14"
+    },
+    {
+      "nodeID": "143941",
+      "text": "First, this issue wasn't raised in the Heller ruling, so it's a moot point on just what gun laws are constitutional.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:14"
+    },
+    {
+      "nodeID": "143942",
+      "text": "I think some of the courts that have quoted that sentence from Heller to justify laws that ban felons from owning firearms would disagree.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:14"
+    },
+    {
+      "nodeID": "143943",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:59:14"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186220",
+      "fromID": "143939",
+      "toID": "143940",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186221",
+      "fromID": "143940",
+      "toID": "143938",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186222",
+      "fromID": "143942",
+      "toID": "143943",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186223",
+      "fromID": "143943",
+      "toID": "143941",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

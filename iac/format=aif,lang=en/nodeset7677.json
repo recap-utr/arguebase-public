@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "146193",
+      "text": "At most it will lead to another Timothy McVeigh type incident.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:42"
+    },
+    {
+      "nodeID": "146194",
+      "text": "Just a matter of time.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:42"
+    },
+    {
+      "nodeID": "146195",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:03:42"
+    },
+    {
+      "nodeID": "146196",
+      "text": "I guess passing new health care legislation in an effort to help out millions of uninsured people must be the greater offense. As long as the government uses its money to kill people rather than help people then it must be okay.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:42"
+    },
+    {
+      "nodeID": "146197",
+      "text": "So you bought the lie. Can you even show me one federal government promise that hasn't been broken, turned into a scam, robbed then the blank securities sold off as a grab for more stolen monies? H e double l, they can't fulfill the promises from the last health care scam and promises to fund Social Security and Medicare and Medicaid but you buy the new promise sight unseen with anticipation and hope? emoticon_xclown The Silent Entitlements Monster: Social Security, Medicare And Interest On The Debt Will Gobble Up Every Single Tax Dollar By 2020 With promises come responsibility...to the taxpayer and receipient. Pure socialism has never survived and never will. it is the nature of the beast. What do you think all these folks are going to do when they find a massive new program that gobbles up their taxes and defaults on the first SS program? Bring back the guillotines!!!!!!!!!! Most folks can identify armed robbery but obviously you can't. Meanwhile, back at the DRMO, the second attempt to destroy brass and shred it for a fraction of the price to keep reloading companies from bidding on it at a higher price is underway. Our elected perps are selling out again to a foreign drummer. Used to, higher prices for brass and copper meant one of two things, a war or a period of economic expansion. When government tightens ammunition supply it is not a good sign for the subjects. Reflect on that and imagine how the retired folks will react to unfullfilled lies and outright deceit when the promise and contract is broken. Keep imagining you are going to get free health care when the government defaults on the long term promise of retirement. Try to buy the lie and sell the fact...you lose again emoticon_xclown",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:43"
+    },
+    {
+      "nodeID": "146198",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:03:43"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187800",
+      "fromID": "146194",
+      "toID": "146195",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187801",
+      "fromID": "146195",
+      "toID": "146193",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187802",
+      "fromID": "146197",
+      "toID": "146198",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187803",
+      "fromID": "146198",
+      "toID": "146196",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,115 @@
+{
+  "nodes": [
+    {
+      "nodeID": "144928",
+      "text": "can anyone explain this to me? or give me some sites that would explain it?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:04"
+    },
+    {
+      "nodeID": "144929",
+      "text": "http:www.talkorigins.org",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:04"
+    },
+    {
+      "nodeID": "144930",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:01:04"
+    },
+    {
+      "nodeID": "144931",
+      "text": "This is a good site, but very atheist I think. Do you know of a good theistic equivalent? I do not mean like those awful websites that misrepresent science to try and shoehorn the world into their Bible stories (sorry to pick on Christians here, but it is Christian ones that I notice), but ones that look at real science and look to see if a theistic explaination works for things?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:04"
+    },
+    {
+      "nodeID": "144932",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:01:04"
+    },
+    {
+      "nodeID": "144933",
+      "text": "I do not wish to appear to dispute this, but do you have a reference for this claim as it is very interesting? Thank you.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:05"
+    },
+    {
+      "nodeID": "144934",
+      "text": "Stuff I picked up in Uni, along with the Human genetic code being 40% identical to a banana... so no specific reference, sorry.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:05"
+    },
+    {
+      "nodeID": "144935",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:01:05"
+    },
+    {
+      "nodeID": "144936",
+      "text": "Since evolution is a non-theistic theory (it does not consider if there is a god or not), you will have to look at some like http://www.theistic-evolution.com/ I would also look up Kenneth MIller on the web... a highly Christian biologist who defends evolution.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:05"
+    },
+    {
+      "nodeID": "144937",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:01:05"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186916",
+      "fromID": "144929",
+      "toID": "144930",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186917",
+      "fromID": "144930",
+      "toID": "144928",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186918",
+      "fromID": "144931",
+      "toID": "144932",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186919",
+      "fromID": "144932",
+      "toID": "144929",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186920",
+      "fromID": "144934",
+      "toID": "144935",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186921",
+      "fromID": "144935",
+      "toID": "144933",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186922",
+      "fromID": "144936",
+      "toID": "144937",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186923",
+      "fromID": "144937",
+      "toID": "144931",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

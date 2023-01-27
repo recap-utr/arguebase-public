@@ -1,0 +1,1796 @@
+{
+  "nodes": [
+    {
+      "nodeID": "203566",
+      "text": "rowdyroddypiperjr : Cost of solar is less expensive than coal",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:20"
+    },
+    {
+      "nodeID": "203567",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-29 15:26:21",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "203568",
+      "text": "cost of solar is less expensive than coal",
+      "type": "I",
+      "timestamp": "2016-09-29 15:26:21"
+    },
+    {
+      "nodeID": "203569",
+      "text": "Barbara: rowdyroddypiperjr : Cost of solar is less expensive than coal",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:21"
+    },
+    {
+      "nodeID": "203570",
+      "text": "rowdyroddypiperjr : If we invested 10 percent of our GDP into that we will be entirely solar by 2025",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:21"
+    },
+    {
+      "nodeID": "203571",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-29 15:26:21",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "203572",
+      "text": "If we invested 10 percent of our GDP into that we will be entirely solar by 2025",
+      "type": "I",
+      "timestamp": "2016-09-29 15:26:21"
+    },
+    {
+      "nodeID": "203573",
+      "text": "Barbara: rowdyroddypiperjr : If we invested 10 percent of our GDP into that we will be entirely solar by 2025",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:21"
+    },
+    {
+      "nodeID": "203574",
+      "text": "rowdyroddypiperjr : 2050 is going to happen anyway",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:21"
+    },
+    {
+      "nodeID": "203575",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-29 15:26:21",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "203576",
+      "text": "2050 is going to happen anyway",
+      "type": "I",
+      "timestamp": "2016-09-29 15:26:21"
+    },
+    {
+      "nodeID": "203577",
+      "text": "Barbara: rowdyroddypiperjr : 2050 is going to happen anyway",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:21"
+    },
+    {
+      "nodeID": "203578",
+      "text": "rowdyroddypiperjr : Sooner the better",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:22"
+    },
+    {
+      "nodeID": "203579",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-29 15:26:22",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "203580",
+      "text": "sooner we will be entirely solar the better",
+      "type": "I",
+      "timestamp": "2016-09-29 15:26:22"
+    },
+    {
+      "nodeID": "203581",
+      "text": "Barbara: rowdyroddypiperjr : Sooner the better",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:22"
+    },
+    {
+      "nodeID": "203582",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-09-29 15:26:22",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "203583",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-29 15:26:22",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "203584",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-09-29 15:26:22",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "203585",
+      "text": "Barbara: tschandler71 : Invested 10 percent",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:22"
+    },
+    {
+      "nodeID": "203586",
+      "text": "tschandler71 : Are you nuts",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:22"
+    },
+    {
+      "nodeID": "203587",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-29 15:26:22",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "203588",
+      "text": "rowdyroddypiperjr is nuts",
+      "type": "I",
+      "timestamp": "2016-09-29 15:26:22"
+    },
+    {
+      "nodeID": "203589",
+      "text": "Barbara: tschandler71 : Are you nuts",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:23"
+    },
+    {
+      "nodeID": "203590",
+      "text": "Barbara: rowdyroddypiperjr : Invested 10 percent",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:23"
+    },
+    {
+      "nodeID": "203591",
+      "text": "invested 10 percent",
+      "type": "I",
+      "timestamp": "2016-09-29 15:26:23"
+    },
+    {
+      "nodeID": "203592",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-29 15:26:23",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "203593",
+      "text": "rowdyroddypiperjr : Invested 10 percent",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:23"
+    },
+    {
+      "nodeID": "203594",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-29 15:26:23",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "203595",
+      "text": "tschandler71 : rowdyroddypiperjr : Invested 10 percent",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:23"
+    },
+    {
+      "nodeID": "203596",
+      "text": "Barbara: tschandler71 : rowdyroddypiperjr : Invested 10 percent",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:23"
+    },
+    {
+      "nodeID": "203597",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-09-29 15:26:23",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "203598",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-29 15:26:24",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "203599",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-09-29 15:26:24",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "203600",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-09-29 15:26:24",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "203601",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-29 15:26:24",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "203602",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-09-29 15:26:24",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "203603",
+      "text": "rowdyroddypiperjr knows 10 percent is a lot",
+      "type": "I",
+      "timestamp": "2016-09-29 15:26:24"
+    },
+    {
+      "nodeID": "203604",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-29 15:26:24",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "203605",
+      "text": "rowdyroddypiperjr : I know that's a lot",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:24"
+    },
+    {
+      "nodeID": "203606",
+      "text": "Barbara: rowdyroddypiperjr : I know that's a lot",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:24"
+    },
+    {
+      "nodeID": "203607",
+      "text": "rowdyroddypiperjr : free energy was my point",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:24"
+    },
+    {
+      "nodeID": "203608",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-29 15:26:25",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "203609",
+      "text": "free energy was rowdyroddypiperjr's point",
+      "type": "I",
+      "timestamp": "2016-09-29 15:26:25"
+    },
+    {
+      "nodeID": "203610",
+      "text": "Barbara: rowdyroddypiperjr : free energy was my point",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:25"
+    },
+    {
+      "nodeID": "203611",
+      "text": "rowdyroddypiperjr : They are discussing 5 percent based on the 10 percent that solar panels currently do",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:25"
+    },
+    {
+      "nodeID": "203612",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-29 15:26:25",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "203613",
+      "text": "they are discussing 5 percent based on the 10 percent that solar panels currently do",
+      "type": "I",
+      "timestamp": "2016-09-29 15:26:25"
+    },
+    {
+      "nodeID": "203614",
+      "text": "Barbara: rowdyroddypiperjr : They are discussing 5 percent based on the 10 percent that solar panels currently do",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:25"
+    },
+    {
+      "nodeID": "203615",
+      "text": "Barbara: rowdyroddypiperjr : Solar city is stating they can get 20 percent",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:25"
+    },
+    {
+      "nodeID": "203616",
+      "text": "Solar city can get 20 percent",
+      "type": "I",
+      "timestamp": "2016-09-29 15:26:25"
+    },
+    {
+      "nodeID": "203617",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-29 15:26:25",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "203618",
+      "text": "Solar : Solar city can get 20 percent",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:26"
+    },
+    {
+      "nodeID": "203619",
+      "text": "Barbara: Solar : Solar city is stating they can get 20 percent",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:26"
+    },
+    {
+      "nodeID": "203620",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-29 15:26:26",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "203621",
+      "text": "rowdyroddypiperjr : Solar : Solar city is stating they can get 20 percent",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:26"
+    },
+    {
+      "nodeID": "203622",
+      "text": "Barbara: rowdyroddypiperjr : Solar : Solar city is stating they can get 20 percent",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:26"
+    },
+    {
+      "nodeID": "203623",
+      "text": "10 percent is a super safe answer",
+      "type": "I",
+      "timestamp": "2016-09-29 15:26:26"
+    },
+    {
+      "nodeID": "203624",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-29 15:26:26",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "203625",
+      "text": "rowdyroddypiperjr : That is a super safe answer was my point",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:26"
+    },
+    {
+      "nodeID": "203626",
+      "text": "Barbara: rowdyroddypiperjr : That is a super safe answer was my point",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:26"
+    },
+    {
+      "nodeID": "203627",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-09-29 15:26:26",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "203628",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-29 15:26:26",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "203629",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-09-29 15:26:27",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "203630",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-09-29 15:26:27",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "203631",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-29 15:26:27",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "203632",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-09-29 15:26:27",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "203633",
+      "text": "rowdyroddypiperjr does not realize how much 20 percent of GDP is exactly",
+      "type": "I",
+      "timestamp": "2016-09-29 15:26:27"
+    },
+    {
+      "nodeID": "203634",
+      "text": "Rhetorical Questioning",
+      "type": "YA",
+      "timestamp": "2016-09-29 15:26:27",
+      "scheme": "RhetoricalQuestioning",
+      "schemeID": "85"
+    },
+    {
+      "nodeID": "203635",
+      "text": "tschandler71 : You realize how much 20 percent of GDP is exactly",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:27"
+    },
+    {
+      "nodeID": "203636",
+      "text": "Barbara: tschandler71 : You realize how much 20 percent of GDP is exactly",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:27"
+    },
+    {
+      "nodeID": "203637",
+      "text": "government only consumes around 17 percent currently for all things including debt service",
+      "type": "I",
+      "timestamp": "2016-09-29 15:26:27"
+    },
+    {
+      "nodeID": "203638",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-29 15:26:28",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "203639",
+      "text": "tschandler71 : government only consumes around 17 percent currently for all things including debt service",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:28"
+    },
+    {
+      "nodeID": "203640",
+      "text": "Barbara: tschandler71 : government only consumes around 17 percent currently for all things including debt service",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:28"
+    },
+    {
+      "nodeID": "203641",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-09-29 15:26:28",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "203642",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-29 15:26:28",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "203643",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-09-29 15:26:28",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "203644",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-09-29 15:26:28",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "203645",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-29 15:26:28",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "203646",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-09-29 15:26:28",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "203647",
+      "text": "rowdyroddypiperjr does realize how much 20 percent is",
+      "type": "I",
+      "timestamp": "2016-09-29 15:26:28"
+    },
+    {
+      "nodeID": "203648",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-29 15:26:28",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "203649",
+      "text": "rowdyroddypiperjr : Wow lol yes I do",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:29"
+    },
+    {
+      "nodeID": "203650",
+      "text": "Barbara: rowdyroddypiperjr : Wow lol yes I do",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:29"
+    },
+    {
+      "nodeID": "203651",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-29 15:26:29",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "203652",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-09-29 15:26:29",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "203653",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-09-29 15:26:29",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "203654",
+      "text": "10 percent",
+      "type": "I",
+      "timestamp": "2016-09-29 15:26:29"
+    },
+    {
+      "nodeID": "203655",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-29 15:26:29",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "203656",
+      "text": "rowdyroddypiperjr :10 percent",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:29"
+    },
+    {
+      "nodeID": "203657",
+      "text": "Barbara: rowdyroddypiperjr : I said 10 percent",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:29"
+    },
+    {
+      "nodeID": "203658",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-29 15:26:29",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "203659",
+      "text": "rowdyroddypiperjr : rowdyroddypiperjr : I said 10 percent",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:29"
+    },
+    {
+      "nodeID": "203660",
+      "text": "Barbara: rowdyroddypiperjr : rowdyroddypiperjr : I said 10 percent",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:30"
+    },
+    {
+      "nodeID": "203661",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-09-29 15:26:30",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "203662",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-29 15:26:30",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "203663",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2016-09-29 15:26:30",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "203664",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-09-29 15:26:30",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "203665",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-29 15:26:30",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "203666",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2016-09-29 15:26:30",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "203667",
+      "text": "that was based on current energy use and current solar technology",
+      "type": "I",
+      "timestamp": "2016-09-29 15:26:30"
+    },
+    {
+      "nodeID": "203668",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-29 15:26:30",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "203669",
+      "text": "rowdyroddypiperjr :  that was based on current energy use and current solar technology",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:30"
+    },
+    {
+      "nodeID": "203670",
+      "text": "Barbara: rowdyroddypiperjr :  that was based on current energy use and current solar technology",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:30"
+    },
+    {
+      "nodeID": "203671",
+      "text": "it's less expensive to make solar plants than coal ones",
+      "type": "I",
+      "timestamp": "2016-09-29 15:26:31"
+    },
+    {
+      "nodeID": "203672",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-29 15:26:31",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "203673",
+      "text": "rowdyroddypiperjr : it's less expensive to make solar plants than coal ones",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:31"
+    },
+    {
+      "nodeID": "203674",
+      "text": "Barbara: rowdyroddypiperjr : it's less expensive to make solar plants than coal ones",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:31"
+    },
+    {
+      "nodeID": "203675",
+      "text": "it's easy math",
+      "type": "I",
+      "timestamp": "2016-09-29 15:26:31"
+    },
+    {
+      "nodeID": "203676",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-29 15:26:31",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "203677",
+      "text": "rowdyroddypiperjr :  it's easy math",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:31"
+    },
+    {
+      "nodeID": "203678",
+      "text": "Barbara: rowdyroddypiperjr :  it's easy math",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:31"
+    },
+    {
+      "nodeID": "203679",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-29 15:26:32",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "203680",
+      "text": "rowdyroddypiperjr : said 10 percent",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:32"
+    },
+    {
+      "nodeID": "203681",
+      "text": "Barbara: rowdyroddypiperjr : said 10 percent",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:32"
+    },
+    {
+      "nodeID": "203682",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-09-29 15:26:32",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "203683",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-29 15:26:32",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "203684",
+      "text": "rowdyroddypiperjr : rowdyroddypiperjr : said 10 percent",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:32"
+    },
+    {
+      "nodeID": "203685",
+      "text": "Barbara: rowdyroddypiperjr : rowdyroddypiperjr : said 10 percent",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:32"
+    },
+    {
+      "nodeID": "203686",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-29 15:26:32",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "203687",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2016-09-29 15:26:32",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "203688",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-09-29 15:26:32",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "203689",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-29 15:26:32",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "203690",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-09-29 15:26:33",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "248536",
+      "fromID": "203567",
+      "toID": "203568",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248537",
+      "fromID": "203566",
+      "toID": "203567",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248538",
+      "fromID": "203571",
+      "toID": "203572",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248539",
+      "fromID": "203570",
+      "toID": "203571",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248540",
+      "fromID": "203575",
+      "toID": "203576",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248541",
+      "fromID": "203574",
+      "toID": "203575",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248542",
+      "fromID": "203579",
+      "toID": "203580",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248543",
+      "fromID": "203578",
+      "toID": "203579",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248544",
+      "fromID": "203568",
+      "toID": "203582",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248545",
+      "fromID": "203582",
+      "toID": "203580",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248546",
+      "fromID": "203576",
+      "toID": "203582",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248547",
+      "fromID": "203572",
+      "toID": "203582",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248548",
+      "fromID": "203566",
+      "toID": "203583",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248549",
+      "fromID": "203583",
+      "toID": "203578",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248550",
+      "fromID": "203570",
+      "toID": "203583",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248551",
+      "fromID": "203574",
+      "toID": "203583",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248552",
+      "fromID": "203583",
+      "toID": "203584",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248553",
+      "fromID": "203584",
+      "toID": "203582",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248554",
+      "fromID": "203587",
+      "toID": "203588",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248555",
+      "fromID": "203586",
+      "toID": "203587",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248556",
+      "fromID": "203592",
+      "toID": "203591",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248557",
+      "fromID": "203593",
+      "toID": "203592",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248558",
+      "fromID": "203594",
+      "toID": "203593",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248559",
+      "fromID": "203595",
+      "toID": "203594",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248560",
+      "fromID": "203593",
+      "toID": "203597",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248561",
+      "fromID": "203597",
+      "toID": "203588",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248562",
+      "fromID": "203595",
+      "toID": "203598",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248563",
+      "fromID": "203598",
+      "toID": "203586",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248564",
+      "fromID": "203598",
+      "toID": "203599",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248565",
+      "fromID": "203599",
+      "toID": "203597",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248566",
+      "fromID": "203588",
+      "toID": "203600",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248567",
+      "fromID": "203600",
+      "toID": "203572",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248568",
+      "fromID": "203570",
+      "toID": "203601",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248569",
+      "fromID": "203601",
+      "toID": "203586",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248570",
+      "fromID": "203601",
+      "toID": "203602",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248571",
+      "fromID": "203602",
+      "toID": "203600",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248572",
+      "fromID": "203604",
+      "toID": "203603",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248573",
+      "fromID": "203605",
+      "toID": "203604",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248574",
+      "fromID": "203608",
+      "toID": "203609",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248575",
+      "fromID": "203607",
+      "toID": "203608",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248576",
+      "fromID": "203612",
+      "toID": "203613",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248577",
+      "fromID": "203611",
+      "toID": "203612",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248578",
+      "fromID": "203617",
+      "toID": "203616",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248579",
+      "fromID": "203618",
+      "toID": "203617",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248580",
+      "fromID": "203620",
+      "toID": "203618",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248581",
+      "fromID": "203621",
+      "toID": "203620",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248582",
+      "fromID": "203624",
+      "toID": "203623",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248583",
+      "fromID": "203625",
+      "toID": "203624",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248584",
+      "fromID": "203603",
+      "toID": "203627",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248585",
+      "fromID": "203627",
+      "toID": "203623",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248586",
+      "fromID": "203616",
+      "toID": "203627",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248587",
+      "fromID": "203613",
+      "toID": "203627",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248588",
+      "fromID": "203609",
+      "toID": "203627",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248589",
+      "fromID": "203605",
+      "toID": "203628",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248590",
+      "fromID": "203628",
+      "toID": "203625",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248591",
+      "fromID": "203628",
+      "toID": "203621",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248592",
+      "fromID": "203628",
+      "toID": "203611",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248593",
+      "fromID": "203628",
+      "toID": "203607",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248594",
+      "fromID": "203628",
+      "toID": "203629",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248595",
+      "fromID": "203629",
+      "toID": "203627",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248596",
+      "fromID": "203623",
+      "toID": "203630",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248597",
+      "fromID": "203630",
+      "toID": "203572",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248598",
+      "fromID": "203570",
+      "toID": "203631",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248599",
+      "fromID": "203631",
+      "toID": "203625",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248600",
+      "fromID": "203631",
+      "toID": "203632",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248601",
+      "fromID": "203632",
+      "toID": "203630",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248602",
+      "fromID": "203634",
+      "toID": "203633",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248603",
+      "fromID": "203635",
+      "toID": "203634",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248604",
+      "fromID": "203638",
+      "toID": "203637",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248605",
+      "fromID": "203639",
+      "toID": "203638",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248606",
+      "fromID": "203633",
+      "toID": "203641",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248607",
+      "fromID": "203641",
+      "toID": "203616",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248608",
+      "fromID": "203621",
+      "toID": "203642",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248609",
+      "fromID": "203642",
+      "toID": "203635",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248610",
+      "fromID": "203642",
+      "toID": "203643",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248611",
+      "fromID": "203643",
+      "toID": "203641",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248612",
+      "fromID": "203637",
+      "toID": "203644",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248613",
+      "fromID": "203644",
+      "toID": "203633",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248614",
+      "fromID": "203635",
+      "toID": "203645",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248615",
+      "fromID": "203645",
+      "toID": "203639",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248616",
+      "fromID": "203645",
+      "toID": "203646",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248617",
+      "fromID": "203646",
+      "toID": "203644",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248618",
+      "fromID": "203648",
+      "toID": "203647",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248619",
+      "fromID": "203649",
+      "toID": "203648",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248620",
+      "fromID": "203635",
+      "toID": "203651",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248621",
+      "fromID": "203651",
+      "toID": "203649",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248622",
+      "fromID": "203647",
+      "toID": "203652",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248623",
+      "fromID": "203652",
+      "toID": "203633",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248624",
+      "fromID": "203651",
+      "toID": "203653",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248625",
+      "fromID": "203653",
+      "toID": "203652",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248626",
+      "fromID": "203655",
+      "toID": "203654",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248627",
+      "fromID": "203656",
+      "toID": "203655",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248628",
+      "fromID": "203658",
+      "toID": "203656",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248629",
+      "fromID": "203659",
+      "toID": "203658",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248630",
+      "fromID": "203591",
+      "toID": "203661",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248631",
+      "fromID": "203661",
+      "toID": "203572",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248632",
+      "fromID": "203566",
+      "toID": "203662",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248633",
+      "fromID": "203662",
+      "toID": "203595",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248634",
+      "fromID": "203662",
+      "toID": "203663",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248635",
+      "fromID": "203663",
+      "toID": "203661",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248636",
+      "fromID": "203654",
+      "toID": "203664",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248637",
+      "fromID": "203664",
+      "toID": "203572",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248638",
+      "fromID": "203570",
+      "toID": "203665",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248639",
+      "fromID": "203665",
+      "toID": "203659",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248640",
+      "fromID": "203665",
+      "toID": "203666",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248641",
+      "fromID": "203666",
+      "toID": "203664",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248642",
+      "fromID": "203668",
+      "toID": "203667",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248643",
+      "fromID": "203669",
+      "toID": "203668",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248644",
+      "fromID": "203672",
+      "toID": "203671",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248645",
+      "fromID": "203673",
+      "toID": "203672",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248646",
+      "fromID": "203676",
+      "toID": "203675",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248647",
+      "fromID": "203677",
+      "toID": "203676",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248648",
+      "fromID": "203679",
+      "toID": "203654",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248649",
+      "fromID": "203680",
+      "toID": "203679",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248650",
+      "fromID": "203654",
+      "toID": "203682",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248651",
+      "fromID": "203682",
+      "toID": "203654",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248652",
+      "fromID": "203683",
+      "toID": "203680",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248653",
+      "fromID": "203684",
+      "toID": "203683",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248654",
+      "fromID": "203659",
+      "toID": "203686",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248655",
+      "fromID": "203686",
+      "toID": "203684",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248656",
+      "fromID": "203686",
+      "toID": "203687",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248657",
+      "fromID": "203687",
+      "toID": "203682",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248658",
+      "fromID": "203667",
+      "toID": "203688",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248659",
+      "fromID": "203688",
+      "toID": "203654",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248660",
+      "fromID": "203671",
+      "toID": "203688",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248661",
+      "fromID": "203675",
+      "toID": "203688",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248662",
+      "fromID": "203659",
+      "toID": "203689",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248663",
+      "fromID": "203689",
+      "toID": "203677",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248664",
+      "fromID": "203689",
+      "toID": "203669",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248665",
+      "fromID": "203689",
+      "toID": "203673",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248666",
+      "fromID": "203689",
+      "toID": "203690",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "248667",
+      "fromID": "203690",
+      "toID": "203688",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "203593",
+      "personID": "2391",
+      "timestamp": "2016-09-29 15:26:38",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "203595",
+      "personID": "2392",
+      "timestamp": "2016-09-29 15:26:38",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "203605",
+      "personID": "2391",
+      "timestamp": "2016-09-29 15:26:38",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "203618",
+      "personID": "2393",
+      "timestamp": "2016-09-29 15:26:38",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "203621",
+      "personID": "2391",
+      "timestamp": "2016-09-29 15:26:38",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "203625",
+      "personID": "2391",
+      "timestamp": "2016-09-29 15:26:38",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "203635",
+      "personID": "2392",
+      "timestamp": "2016-09-29 15:26:38",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "203639",
+      "personID": "2392",
+      "timestamp": "2016-09-29 15:26:38",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "203649",
+      "personID": "2391",
+      "timestamp": "2016-09-29 15:26:38",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "203656",
+      "personID": "2391",
+      "timestamp": "2016-09-29 15:26:38",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "203659",
+      "personID": "2391",
+      "timestamp": "2016-09-29 15:26:38",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "203669",
+      "personID": "2391",
+      "timestamp": "2016-09-29 15:26:38",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "203673",
+      "personID": "2391",
+      "timestamp": "2016-09-29 15:26:38",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "203677",
+      "personID": "2391",
+      "timestamp": "2016-09-29 15:26:38",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "203680",
+      "personID": "2391",
+      "timestamp": "2016-09-29 15:26:38",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "203684",
+      "personID": "2391",
+      "timestamp": "2016-09-29 15:26:38",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

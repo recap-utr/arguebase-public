@@ -1,0 +1,121 @@
+{
+  "nodes": [
+    {
+      "nodeID": "137895",
+      "text": "1. Did she do anything wrong?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:59"
+    },
+    {
+      "nodeID": "137896",
+      "text": "Yes, she walked down the wrong alley, alone. Would she have done so if she were not packin'?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:59"
+    },
+    {
+      "nodeID": "137897",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:45:59"
+    },
+    {
+      "nodeID": "137898",
+      "text": "So it was wrong for her to walk down a public alley? You're blaming the victim? You're either a complete dick or you're being facetious. Do you tell rape victims they were asking for it?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:59"
+    },
+    {
+      "nodeID": "137899",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:45:59"
+    },
+    {
+      "nodeID": "137900",
+      "text": "Did she of necessity have to go down that alley or was she out strolling like Charles Bronson in 'Death Wish'? If it appeared a righteous shoot I'd say let her plead guilty to the minor charge of carrying without a CCW and be done with it.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:59"
+    },
+    {
+      "nodeID": "137901",
+      "text": "And if you don't think it was justified? It's a public alley, she can walk down it whenever she wants without justifying herself to anyone.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:59"
+    },
+    {
+      "nodeID": "137902",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:45:59"
+    },
+    {
+      "nodeID": "137903",
+      "text": "XXX?! She isn't allowed to walk down a public alley IYO? emoticon_wow",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:59"
+    },
+    {
+      "nodeID": "137904",
+      "text": "You know I'm not saying that. Is there no alley you'd avoid given the chance? Was she looking for trouble? Police would certainly want to know what she was doing there.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:59"
+    },
+    {
+      "nodeID": "137905",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:45:59"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181918",
+      "fromID": "137896",
+      "toID": "137897",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181919",
+      "fromID": "137897",
+      "toID": "137895",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181920",
+      "fromID": "137898",
+      "toID": "137899",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181921",
+      "fromID": "137899",
+      "toID": "137896",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181922",
+      "fromID": "137901",
+      "toID": "137902",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181923",
+      "fromID": "137902",
+      "toID": "137900",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181924",
+      "fromID": "137904",
+      "toID": "137905",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181925",
+      "fromID": "137905",
+      "toID": "137903",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "145007",
+      "text": "I suppose we could fine people for leaving firearms in their cars like parking tickets until they get the message that vehicles are not secure ways of protecting your firearms.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:23"
+    },
+    {
+      "nodeID": "145008",
+      "text": "And what all would they have to go through to get a CCW compared to a firearm? I don't need a list, just state how easy it is to get a CCW compared to getting a firearm. Like 'easier', 'same', 'not as easy', 'getting a gun automatically gets you a CCW', etc.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:23"
+    },
+    {
+      "nodeID": "145009",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:01:24"
+    },
+    {
+      "nodeID": "145010",
+      "text": "There are some incedents that are beyond your control. If you own a rifle or large handgun, it's at your own risk.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:24"
+    },
+    {
+      "nodeID": "145011",
+      "text": "Well yes.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:24"
+    },
+    {
+      "nodeID": "145012",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:01:24"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186972",
+      "fromID": "145008",
+      "toID": "145009",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186973",
+      "fromID": "145009",
+      "toID": "145007",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186974",
+      "fromID": "145011",
+      "toID": "145012",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186975",
+      "fromID": "145012",
+      "toID": "145010",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

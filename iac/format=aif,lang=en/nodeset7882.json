@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "149171",
+      "text": "Sorry I missed your thread on that. It sounds like you are mainly concerned with health issues that could very potentially lead to the mother's death and or/complete debilitation (like paralysis), and I'd be much more open to that. But as you said, we have two extremes to choose from, and SCOTUS chose the one that doesn't take into account the woman's health for this particular procedure.  I'd also add that because this is a late term procedure, if health is the reason to not take the baby to term, then caesarian delivery very well might be an option, in many cases.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:13"
+    },
+    {
+      "nodeID": "149172",
+      "text": "And that part of the decision (not allowing for the woman's health to be taken into account) is why I do not agree with nor do applaud this decision (in fact I am rather disgusted with it). If you'd like to see a more concise view from me, you can see the thread that Another_opinion started here: http://www.4forums.com/political/showthread.php?t=9678",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:13"
+    },
+    {
+      "nodeID": "149173",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:10:13"
+    },
+    {
+      "nodeID": "149174",
+      "text": "I agree that all other reasonably safe options (such as caesarian delivery, in womb operations, etc.) should be looked into before resorting to abortion in that third trimester. As with the example of the friend of jitobear, sometimes there is just not a reasonably safe option for a particular woman since her conditions might not allow those alternate procedures. As for the question of limits on the health exception, yes, the exceptions that are clearer to me are the ones that could ultimately lead to the mother's death or complete debilitation. However, there is also a gray region that I am undecided on. For example: - What if the pregnancy would lead to less critical loss - such as the loss of use of her legs or arms? What about one limb - such as the use of one arm? - What if the pregnancy would give a medium chance of loss - such as a 20% chance of paralysis? The gray region is harder to quantify and the moral balance gets trickier. Perhaps that is why this issue hasn't really been addressed specifically in law. Where decisions in morally gray regions are concerned, it is too easy to criticize them and politically unwise to venture into that territory.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:13"
+    },
+    {
+      "nodeID": "149175",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:10:13"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189898",
+      "fromID": "149172",
+      "toID": "149173",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189899",
+      "fromID": "149173",
+      "toID": "149171",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189900",
+      "fromID": "149174",
+      "toID": "149175",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189901",
+      "fromID": "149175",
+      "toID": "149171",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148670",
+      "text": "I'll let you make the first move. After all, it won't be any fun unless I see one or two responses; I'm not really expecting many more.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:00"
+    },
+    {
+      "nodeID": "148671",
+      "text": "The likely flaw of this argument is defining Communism. Communism as defined by Marx and Engel has never been implemented. Furthermore, Communism as defined by Marx and Engel IS democracy. Often people either forget that or have no idea what Communism is. Historically, Communist supporting ideology candidates that have won democratic elections have been removed by force (or attempted) by Western powers. Chile, Nicaragua, Guatemala, several African nations including Mozambique, the list is actually quite long.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:01"
+    },
+    {
+      "nodeID": "148672",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:09:01"
+    },
+    {
+      "nodeID": "148673",
+      "text": "The other flaw will be that you can't define democracy either. Was apartheid South Africa a democracy? How about present day Zimbabwe? What about the US circa 1950? 1900? 1850?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:01"
+    },
+    {
+      "nodeID": "148674",
+      "text": "A democracy is simply a form of government where ordinary dirtbags like us have some say in the matter. You've actually helped me with this, as in North Korea, Cuba, and the USSR under Stalin, your opinions certainly don't matter to them.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:01"
+    },
+    {
+      "nodeID": "148675",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:09:01"
+    },
+    {
+      "nodeID": "148676",
+      "text": "Democracy is not binary, it's a continuum. In fact, most countries that have claimed to be communist are those which have been subject to some form of violent revolution - those who get there democratically tend to find the US has paid a right wing armed group to launch a coup and don't last long. The only times governments claiming to be communist have survived is when they're too totalitarian for US agents to be able to undermine them.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:01"
+    },
+    {
+      "nodeID": "148677",
+      "text": "Such as?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:01"
+    },
+    {
+      "nodeID": "148678",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:09:01"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189544",
+      "fromID": "148671",
+      "toID": "148672",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189545",
+      "fromID": "148672",
+      "toID": "148670",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189546",
+      "fromID": "148674",
+      "toID": "148675",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189547",
+      "fromID": "148675",
+      "toID": "148673",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189548",
+      "fromID": "148677",
+      "toID": "148678",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189549",
+      "fromID": "148678",
+      "toID": "148676",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

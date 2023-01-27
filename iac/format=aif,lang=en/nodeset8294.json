@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "155315",
+      "text": "If VPC claims the total is 151, where are the missing cases in your citation?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:23:33"
+    },
+    {
+      "nodeID": "155316",
+      "text": "I counted the cases listed, not the body counts of each case.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:23:33"
+    },
+    {
+      "nodeID": "155317",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:23:33"
+    },
+    {
+      "nodeID": "155318",
+      "text": "Of the court cases that have been decided over 92% have resulted in convictions. Statistically, it's highly unlikely that there will be big deviance from this pattern for the remaining cases. I don't think presenting information that shows that people with concealed handgun permits very likely kill more innocent people than criminals is a punch in the face to the VPC.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:23:33"
+    },
+    {
+      "nodeID": "155319",
+      "text": "Oh vey! Vat du they say about the U.S. Marshals service committing more crimes than people they have actually arrested for a crime?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:23:33"
+    },
+    {
+      "nodeID": "155320",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:23:33"
+    },
+    {
+      "nodeID": "155321",
+      "text": "Your faulty logic is easy to spot: Your only looking at the 26 decided cases listed by the VPC, 2 being slightly more than 92% of 26. But, your making the absurd assumption that the VPC listed all the aquitted or dismissed cases. Why would they? They were compiling a list of CCW murderers. It's far more likely they were screening out the dismissed and aquitted cases and missed these two. Your 92% figure is lacking a solid basis and cannot be used to predict the outcome of the 49 pending cases.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:23:33"
+    },
+    {
+      "nodeID": "155322",
+      "text": "Well, it does say on the site 'Any concealed handgun permit holders who are eventually acquitted of their alleged crimes are not included in the tallies maintained on the site although the facts surrounding the shooting are detailed.' So if you go to their pdf file you can still find out details about the very few cases that were acquitted or dismissed: http://www.vpc.org/fact_sht/ccwtotalkilled.pdf",
+      "type": "I",
+      "timestamp": "2016-03-08 20:23:33"
+    },
+    {
+      "nodeID": "155323",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:23:33"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194244",
+      "fromID": "155316",
+      "toID": "155317",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194245",
+      "fromID": "155317",
+      "toID": "155315",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194246",
+      "fromID": "155319",
+      "toID": "155320",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194247",
+      "fromID": "155320",
+      "toID": "155318",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194248",
+      "fromID": "155322",
+      "toID": "155323",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194249",
+      "fromID": "155323",
+      "toID": "155321",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "146217",
+      "text": "I dont seem to get the punchline. Maybe its meant to be nonsensical?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:47"
+    },
+    {
+      "nodeID": "146218",
+      "text": "Yes. Oddly, the picture makes as much sense as most creationists. :)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:47"
+    },
+    {
+      "nodeID": "146219",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:03:47"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187816",
+      "fromID": "146218",
+      "toID": "146219",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187817",
+      "fromID": "146219",
+      "toID": "146217",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

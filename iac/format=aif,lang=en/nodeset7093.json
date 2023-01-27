@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "137800",
+      "text": "Intrigued, as always I went to dig a little deeper into the methods used. Generally speaking, one of the best dating methods for an amphibolite metamorphic rock would be to separate out amphiboles for Ar-Ar dating. Using the argon-argon variant of K-Ar allows many cross checks for excess argon or argon loss that are invisible to standard K-Ar dating. At the very least, a better approach would be to date the rocks using individual minerals. The worst possible method would be to measure the age on an inhomogeneous whole rock sample. In the footnotes, the methods are described as follows: Whole rock' samples were analyzed in all cases-K-Ar at Activation Laboratories, Ancaster, Ontario, Canada; Rb-Sr, Sm-Nd and Pb-Pb at the PRISE Laboratory, Research School of Earth Sciences, Australian National University, Canberra, Australia. .... In short, this is a classic example of geochronology done poorly. Snelling either deliberately chose the worst rocks and the worst methods in order to guarantee strange results or was grossly incompetent. Well, ok maybe both. I also notice that the data are not given in the creation article. If someone has a more detailed description of the results, it'd be fun to look at the individual data points more carefully. Lastly, Snelling implicitly suggests that if geochronology is not correct every single time, then it can never be trusted. Wonder if he ever gets on a airplane.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:44"
+    },
+    {
+      "nodeID": "137801",
+      "text": "He has a bit more basic information about R.A.T.E. on his webpage. TO also has a page critiquing R.A.T.E. methodology. Sorry, I know you're looking for more substantial personal feedback, but this is some good basic information that doesn't rely upon a billion links. You also might consider asking this question on iidb.org, and maybe Dr. Meert will respond to you personally. More importantly, let us not get hung up on analyzing the raw empirical data only. For example, if I use a stopwatch to time how long it takes for light to flood the room after I turn on the switch, and I come up with 0.06s, you can't argue with my empirical data: I timed it at 0.06s. The fact that human response time is comparatively lousy and that a stopwatch is awful for extremely short time intervals is more significant that the stopwatch reading itself. This is the primary error that R.A.T.E. makes.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:44"
+    },
+    {
+      "nodeID": "137802",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:45:44"
+    },
+    {
+      "nodeID": "137803",
+      "text": "1. What specific part(s) of the projects' empirical data do you disagree with and why? Please be specific. If you disagree with a finding(s) or the conclusions of the R.A.T.E. Project, please specify the exact problem you have with the projects' EMPIRICAL DATA.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:44"
+    },
+    {
+      "nodeID": "137804",
+      "text": "Looks like you're not asking for objections to the conclusions and analysis this time around, like you were here. I guess it is wise only to argue on the grounds you know your opponent will find the most irritating or difficult. At any R.A.T.E. (ha ha ha...), I'll repeat the objections raised on the old forum, which move to doubt the sufficiency of the empirical data: From http://www.creationresearch.org/crsq/articles/41/41_1/Helium.htm: 'Thus our new diffusion data support the main hypothesis of the RATE research initiative: that God drastically accelerated the decay rates of long half-life nuclei during the earth's recent past.' The empirical data is missing, Zero. The problem with the empirical data in support of the above statement, is that it does not exist.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:44"
+    },
+    {
+      "nodeID": "137805",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:45:44"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181854",
+      "fromID": "137801",
+      "toID": "137802",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181855",
+      "fromID": "137802",
+      "toID": "137800",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181856",
+      "fromID": "137804",
+      "toID": "137805",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181857",
+      "fromID": "137805",
+      "toID": "137803",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

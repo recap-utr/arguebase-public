@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "147747",
+      "text": "#1 What does intelligently mean? #2 What does designed mean?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:06:57"
+    },
+    {
+      "nodeID": "147748",
+      "text": "You know, I'm thinking of suggesting that they put a permanent link to an online dictionary on this forum. http://dictionary.reference.com/search?q=designed You could take 'intelligently' to mean that the being is conscious of what it's doing; that it's doing what it is purposefully.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:06:57"
+    },
+    {
+      "nodeID": "147749",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:06:57"
+    },
+    {
+      "nodeID": "147750",
+      "text": "The thing is, though, god and humans aren't the only candidates. Mach illustrated this point in the first post. Ogres, vampires, ghosts, etc. are all other possible candidates. That said, change 'God' to 'ogres' and the argument proves the existence of ogres.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:06:57"
+    },
+    {
+      "nodeID": "147751",
+      "text": "I see, thanks for answering my question.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:06:57"
+    },
+    {
+      "nodeID": "147752",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:06:57"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "188900",
+      "fromID": "147748",
+      "toID": "147749",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188901",
+      "fromID": "147749",
+      "toID": "147747",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188902",
+      "fromID": "147751",
+      "toID": "147752",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188903",
+      "fromID": "147752",
+      "toID": "147750",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

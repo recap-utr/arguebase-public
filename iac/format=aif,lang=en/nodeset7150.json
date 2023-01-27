@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138575",
+      "text": "Just imagine if firearme safety was as heavily promoted in schools as sex education is. If we were to train children how to handle firearms, I feel confident that we could reduce accidental shootings, which the gun control crowds claim as one of their goals. No more of the 'I thought it was unloaded' or 'it just went off accidentally.' Ironically, I believe that federal gun-free school zones coupled with zero-tolerance policies make it nearly impossible for this to happen. Gun control could be costing children's lives. Or maybe it's just Darwinism in action.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:21"
+    },
+    {
+      "nodeID": "138576",
+      "text": "I think you could teach gun-control at a gun-free school, too. Sex-education is also taught in schools that forbid their pupils to couple on the school yard :p .",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:21"
+    },
+    {
+      "nodeID": "138577",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:47:21"
+    },
+    {
+      "nodeID": "138578",
+      "text": "Gun owners had to take a school district to court to stop the anti gun/gun control advocates from preaching the anti gun side of the gun issue.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:21"
+    },
+    {
+      "nodeID": "138579",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:47:21"
+    },
+    {
+      "nodeID": "138580",
+      "text": "Sorry, I also meant to talk about safety, not control. But I don't think that zero-gun-tolerance at schools would be a conflict to gun-safety courses. If the teachers of this subject start with something like 'I'll tell you about safety but a gun is evil, evil!', then it there would be much sense. Imo the goal of the subject had to be that children know about the dangers of guns. Idiotic parents forget to keep away their guns from kids too often. At least the kids should know about that 'chrome toy on the table'.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:21"
+    },
+    {
+      "nodeID": "138581",
+      "text": "Idiotic anti gun/gun control advocates that make remarks about guns being evil are the problem. All of this hatred for an item that does nothing until a person picks it up!  Cars as with guns do nothing until a person operates them. Cars kill far more kids then guns and yet do teachers tell kids cars are evil? No! In fact we have an entire business around advertisements to make kids want to buy these deadly cars. More kids die daily while driving to school then from guns and there is not demand for this deadly practice to be stopped. The cost to school districts to make parking facilities for these deadly cars is another burden people pay to make kids want to buy deadly cars. When will there be a demand for car free zones at schools?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:21"
+    },
+    {
+      "nodeID": "138582",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:47:21"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182404",
+      "fromID": "138576",
+      "toID": "138577",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182405",
+      "fromID": "138577",
+      "toID": "138575",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182406",
+      "fromID": "138578",
+      "toID": "138579",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182407",
+      "fromID": "138579",
+      "toID": "138576",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182408",
+      "fromID": "138581",
+      "toID": "138582",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182409",
+      "fromID": "138582",
+      "toID": "138580",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

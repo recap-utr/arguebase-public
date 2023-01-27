@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "160927",
+      "text": "Your knowledge of the Bible does not impress me at all. I find it hard to believe you ever read it.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:16"
+    },
+    {
+      "nodeID": "160928",
+      "text": "Well done, I haven't read it fully. It doesn't interest me. My knowledge of it is near nonexistant. I therefore avoid commenting upon it where possible.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:16"
+    },
+    {
+      "nodeID": "160929",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:36:16"
+    },
+    {
+      "nodeID": "160930",
+      "text": "Sounds like a caper to me, when you going to start Clive/peddler?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:16"
+    },
+    {
+      "nodeID": "160931",
+      "text": "Just as soon as peddler's cheek stops stinging and he picks the glove up...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:16"
+    },
+    {
+      "nodeID": "160932",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:36:16"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198234",
+      "fromID": "160928",
+      "toID": "160929",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198235",
+      "fromID": "160929",
+      "toID": "160927",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198236",
+      "fromID": "160931",
+      "toID": "160932",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198237",
+      "fromID": "160932",
+      "toID": "160930",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

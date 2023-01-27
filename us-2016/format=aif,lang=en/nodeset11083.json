@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "nodeID": "192120",
+      "text": "TheDonbot : Also is everyone just going to ignore the fact that Cooper straight up changed the question \"Answer do black lives matter or do all lives matter?\" to basically \"oh what would you do about crime?\" When talking to Clinton?",
+      "type": "L",
+      "timestamp": "2016-08-10 13:54:52"
+    },
+    {
+      "nodeID": "192122",
+      "text": "Cooper straight up changed the question \"Answer do black lives matter or do all lives matter?\" to basically \"oh what would you do about crime?\" when talking to Clinton",
+      "type": "I",
+      "timestamp": "2016-08-10 13:54:52"
+    },
+    {
+      "nodeID": "248681",
+      "text": "COOPER : what would you do for African Americans in this country that President Obama couldn't",
+      "type": "L",
+      "timestamp": "2016-12-21 14:44:28"
+    },
+    {
+      "nodeID": "262406",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-03 17:18:40",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "262407",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-03 17:18:40",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "262408",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-03 17:18:41",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "316480",
+      "fromID": "248681",
+      "toID": "262406",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316481",
+      "fromID": "262406",
+      "toID": "192120",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316482",
+      "fromID": "192122",
+      "toID": "262407",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316483",
+      "fromID": "262407",
+      "toID": "248681",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316484",
+      "fromID": "262406",
+      "toID": "262408",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316485",
+      "fromID": "262408",
+      "toID": "262407",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "158056",
+      "text": "It does highlight how criminals have easy access to weapons simply through burglary.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:53"
+    },
+    {
+      "nodeID": "158057",
+      "text": "What this highlights is that the laws of the land are ignored and some people try to place the blame on the victims.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:53"
+    },
+    {
+      "nodeID": "158058",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:29:53"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196178",
+      "fromID": "158057",
+      "toID": "158058",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196179",
+      "fromID": "158058",
+      "toID": "158056",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

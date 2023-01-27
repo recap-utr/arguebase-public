@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "161998",
+      "text": "So we have, in order of humility: Agnosticism: Don't know, can't know. But I have my opinion. Note: Many religious people and humanists alike fit into this category.  Theism: Probably can't know, but doesn't realize it. My 'heart/soul/essence/whatever' tells me it is truth. Note: Often impossible to reason with. No scientifically measurable way to prove position. Atheism: Can't know, but thinks and says otherwise. Note: Usually angry. No scientifically measurable way to prove position.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:53"
+    },
+    {
+      "nodeID": "161999",
+      "text": "You have done a marvelous job knocking down strawmen of your own construction. Having offered a naive and superficial caricature of atheism, agnosticism, and theism, you then imagine a self-serving hierarchy that is, in a word, worthless - all in a silly effort to show yourself most humble. Ironic.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:53"
+    },
+    {
+      "nodeID": "162000",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:53"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "199006",
+      "fromID": "161999",
+      "toID": "162000",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199007",
+      "fromID": "162000",
+      "toID": "161998",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

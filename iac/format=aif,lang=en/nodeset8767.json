@@ -1,0 +1,145 @@
+{
+  "nodes": [
+    {
+      "nodeID": "162324",
+      "text": "Didn't a famous gangster once escape from jail using a gun he carved from soap? Maybe OZ should ban bars of soap?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:52"
+    },
+    {
+      "nodeID": "162325",
+      "text": "Yes that actually did happen. And knowing our nanny state government where anything that could cause harm is banned we have it banned. BTW do any of you know of some great airsoft fields over in USA?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:52"
+    },
+    {
+      "nodeID": "162326",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:39:52"
+    },
+    {
+      "nodeID": "162327",
+      "text": "Yea that was uncle John!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:52"
+    },
+    {
+      "nodeID": "162328",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:39:52"
+    },
+    {
+      "nodeID": "162329",
+      "text": "Ah living room, bedroom all around the house,out front, outback(backyard). Up and down the street, across the street,sometimes the yard next door. And after that its time to shower up with a good old bar of soap,so far not on the endangered items list.emoticon_xangel",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:52"
+    },
+    {
+      "nodeID": "162330",
+      "text": "Well since airsoft is COMPLETELY ILLEGAL over here i wanted to know of some of the best Urban and CQB fields over in America.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:52"
+    },
+    {
+      "nodeID": "162331",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:39:52"
+    },
+    {
+      "nodeID": "162332",
+      "text": "See, you can get soap so you really haven't lost the right to keep and bear arms...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:52"
+    },
+    {
+      "nodeID": "162333",
+      "text": "Just don't drop it in the shower!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:52"
+    },
+    {
+      "nodeID": "162334",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:39:52"
+    },
+    {
+      "nodeID": "162335",
+      "text": "Well i am sure somebody over here in the Nanny state of Australia is trying to ban soap!!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:52"
+    },
+    {
+      "nodeID": "162336",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:39:53"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "199234",
+      "fromID": "162325",
+      "toID": "162326",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199235",
+      "fromID": "162326",
+      "toID": "162324",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199236",
+      "fromID": "162327",
+      "toID": "162328",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199237",
+      "fromID": "162328",
+      "toID": "162324",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199238",
+      "fromID": "162330",
+      "toID": "162331",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199239",
+      "fromID": "162331",
+      "toID": "162329",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199240",
+      "fromID": "162333",
+      "toID": "162334",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199241",
+      "fromID": "162334",
+      "toID": "162332",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199242",
+      "fromID": "162335",
+      "toID": "162336",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199243",
+      "fromID": "162336",
+      "toID": "162332",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

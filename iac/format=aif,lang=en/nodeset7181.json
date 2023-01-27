@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138928",
+      "text": "Originally Posted by OccamsRazorThe program, [URL='http://www.bbc.co.uk/sn/tvradio/programmes/horizon/war.shtml'Horizon: A War on Science[/url] is on tonight at 9:00pm on BBC2, should be an interesting watch.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:07"
+    },
+    {
+      "nodeID": "138929",
+      "text": "I watched the program and managed to keep the television switched on despite the distractions from irrelevant images, loud hymn singing, and the editing of Dawkins' contribution - which made him look like a 'mad scientist'.The claim that Intelligent Design is a novel idea sprung full-armed from the heads of American religious enthusiasts is wrong. What is now loosely called the 'design argument' has been known to philosophers for at least two centuries as an a posteriori argument (literally, 'from backwards'). It is examined at length and dismissed by Hume in his 'Dialogues Concerning Natural Religion' published in 1779.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:07"
+    },
+    {
+      "nodeID": "138930",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:48:07"
+    },
+    {
+      "nodeID": "138931",
+      "text": "http://news.bbc.co.uk/1/hi/sci/tech/4648598.stm It's not just the Americans that confuse religion with science, it would appear.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:07"
+    },
+    {
+      "nodeID": "138932",
+      "text": "Yes, I've met enough 'British' creationists to know. The difference is one of exposure (they don't have anything like the public profile of the US movements) and the pervasive attitude to religion in the UK- people are generally much less up front about their religious beliefs over here. On the poll results, there is some ambiguity IMO. When it states 22% of people believed in creationism what exactly was the question posed? does that mean young earth creationism or old earth creationism or both? Also interesting is the apparent indication of how intelligent design has been rapidly adopted as a method of explaining ones position. The program, Horizon: A War on Science is on tonight at 9:00pm on BBC2, should be an interesting watch.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:07"
+    },
+    {
+      "nodeID": "138933",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:48:07"
+    },
+    {
+      "nodeID": "138934",
+      "text": "I'd love to know the exact questions asked.:) -Wez",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:07"
+    },
+    {
+      "nodeID": "138935",
+      "text": "Agreed.... there is nothing over at MORI about it. Perhaps Horizon will elaborate tonight.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:07"
+    },
+    {
+      "nodeID": "138936",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:48:07"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182668",
+      "fromID": "138929",
+      "toID": "138930",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182669",
+      "fromID": "138930",
+      "toID": "138928",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182670",
+      "fromID": "138932",
+      "toID": "138933",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182671",
+      "fromID": "138933",
+      "toID": "138931",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182672",
+      "fromID": "138935",
+      "toID": "138936",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182673",
+      "fromID": "138936",
+      "toID": "138934",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

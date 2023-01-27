@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "156440",
+      "text": "When biological evolution is honestly defined, (that is, empirically defined without imbedding [sic] a metaphysical postulate within the definition), it reads like this:- The noun evolution has 2 meanings:",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:04"
+    },
+    {
+      "nodeID": "156441",
+      "text": "Actually, there are three different definitions of biological evolution. Each of them is understood by biologists in its context without any need to elaborate. Each of these definitions are, of course, distinct and separate from other definitions of the word. For example, your definition #1 isn't one of those definitions. Even though you begin with a claim about honest definitions of biological evolution, your first definitions isn't one of them. It is, in fact, more like the Victorian definition of the word than what it has come to mean today, and certainly not relevant to any biological definition. Your definition #1 is the reason that Darwin objected when the term was applied to his theories. It isn't what Darwin had in mind and it isn't what a biologist or anyone who understands biology means, even today. Either you don't know what you are talking about (most likely) or you are trying to raise a straw man (dishonest). Of course, any fool can see that your definition #2 is circular. Stating that evolution is an evolutionary process doesn't actually define anything. While you object to embedding some undefined metaphysical postulate in a definition, you apparently don't have an objection to embedding the word itself in its own definition. Would you like to learn about the meanings that biologists assign to the word evolution?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:04"
+    },
+    {
+      "nodeID": "156442",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:26:04"
+    },
+    {
+      "nodeID": "156443",
+      "text": "meaning #2, (biology {only}) 'the sequence of events involved in the [process in which {organisms} pass[] by degrees to a different stage][in the] development of a species or taxonomic group of organisms'.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:04"
+    },
+    {
+      "nodeID": "156444",
+      "text": "Well, that's pretty confused. You seem to be grasping at straws. You don't seem to understand and you are thrashing about in an effort to make yourself look as if you understand. Clearly you don't understand.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:04"
+    },
+    {
+      "nodeID": "156445",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:26:04"
+    },
+    {
+      "nodeID": "156446",
+      "text": "Oh, really? Darwin didn't have a continuous, partial, gradual, perpetual, and cumulative process of minor historical changes in organisms in mind when he broached 'his theory' of evolution?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:04"
+    },
+    {
+      "nodeID": "156447",
+      "text": "But you have incorrectly defined evolution, both in a biological and non-biological context. In Darwin's time the word evolution meant change along a particular path towards a particular end. For example, stellar evolution. That is not what Darwin proposed. That is what creationists like you propose as the meaning of biological evolution.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:04"
+    },
+    {
+      "nodeID": "156448",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:26:05"
+    },
+    {
+      "nodeID": "156449",
+      "text": "The second meaning stipulates 'biology', which, to anyone who knows how to use a dictionary, means that the number two meaning, not the number one, is the specifically biological meaning for the word evolution.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:05"
+    },
+    {
+      "nodeID": "156450",
+      "text": "But you specified that you were about to define biological evolution and then gave a definition that doesn't apply. It really doesn't matter that you mentioned 'biology' in the second definition, you had already stated that your first definition also applied.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:05"
+    },
+    {
+      "nodeID": "156451",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:26:05"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195028",
+      "fromID": "156441",
+      "toID": "156442",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195029",
+      "fromID": "156442",
+      "toID": "156440",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195030",
+      "fromID": "156444",
+      "toID": "156445",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195031",
+      "fromID": "156445",
+      "toID": "156443",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195032",
+      "fromID": "156447",
+      "toID": "156448",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195033",
+      "fromID": "156448",
+      "toID": "156446",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195034",
+      "fromID": "156450",
+      "toID": "156451",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195035",
+      "fromID": "156451",
+      "toID": "156449",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

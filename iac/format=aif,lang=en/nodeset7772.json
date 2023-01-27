@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "147753",
+      "text": "Regarding the line to be drawn between valid and invalid medical circumstances, I suspect it is best left to the physician's who encounter and are familiar with the various causes for concern. I personally know quite little about them. The ones I would categorize as valid would be those that threaten the continued healthy life of the mother in such a way as to include the possibility of her being unable to function as a mother and caretaker of not only the expected child but those she may already be tending. Reduced to a short sentence, the line should be drawn under the doctor's signature.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:06:58"
+    },
+    {
+      "nodeID": "147754",
+      "text": "You have a good point about the imporance of the mother being healthy enough to take care of the other children. So often, this debate is phrased in terms of the mother's rights vs those of the fetus, but we often forget (including myself) that other people can also be deeply affected by abortion decisions - including the family which might lose a mother. I would also generally agree that the doctor can often best say what type of health risk exists. Even there, though, the doctor him/herself would have to have some level of judgement about what level of risk is 'acceptable' and what isn't. Ultimately, someone has to make that decision. Part of the goal of this thread was to discuss what type of risks are acceptable and what aren't.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:06:58"
+    },
+    {
+      "nodeID": "147755",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:06:58"
+    },
+    {
+      "nodeID": "147756",
+      "text": "I agree that extreme risks to health should be sufficient reason for abortion, whereas normal health risks should not. As with most things, the gray region in between can be the hardest to judge. You are probably right that judging on a case by case basis is best. Jim's trucking brought up a good point that it is important to take into account whether the health risk would impair the mother's ability to take care of other children. I agree with that judgement. Enough of these considerations put together might start forming some sort of framework for making decisions on that gray region.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:06:58"
+    },
+    {
+      "nodeID": "147757",
+      "text": "You are getting to a more complicated area where 'mental existence' no longer matters. I've explained earlier that it isn't exactly the same as 'self defense' so I don't think a similiar response is needed. Furthermore, you are saying mental existence is not solely the thing that gives you value but rather it depends on outside influences and chance. At some point it just seems like the stance on abortion is that the woman is more important no matter what. This is why I claim some will rank humans above other humans...a dangerous precedent which we have tried before.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:06:58"
+    },
+    {
+      "nodeID": "147758",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:06:58"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "188904",
+      "fromID": "147754",
+      "toID": "147755",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188905",
+      "fromID": "147755",
+      "toID": "147753",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188906",
+      "fromID": "147757",
+      "toID": "147758",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188907",
+      "fromID": "147758",
+      "toID": "147756",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

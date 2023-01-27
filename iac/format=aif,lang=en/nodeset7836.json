@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148546",
+      "text": "In 1927, Supreme Court Justice Oliver Wendell Holmes Jr. declared it 'better for all the world' if the 'manifestly unfit' could be stopped from reproducing. 'Three generations of imbeciles are enough,' he famously wrote in his ruling in Buck v. Bell, which affirmed the constitutionality of forced sterilization of people deemed genetically inferior. . . . in the mid-1800's . . . the British polymath Sir Francis Galton . . . introduced the idea of intelligence as an inherited trait and . . . developed a science to promote it, which he named eugenics. In America, Galton's ideas were picked up by the biologist Charles Davenport, who in 1904 established Cold Spring Harbor laboratory on Long Island as a national center for eugenics research and policy planning.  . . . Davenport created a Eugenics Records Office and recruited an ambitious young high school teacher named Harry Laughlin to join him in an enormous project that sent fieldworkers across the country to identify the 'germ-plasm' of unfit family strains so that it could be eradicated. Laughlin became an influential developer of American compulsory sterilization policy, which had officially begun in 1907 when Indiana passed a law allowing scientists to use surgical methods to eradicate the unfit . . . .He helped Congress formulate the 1924 Immigration Act, which kept out 'inferior' people from Southern and Eastern Europe. Bruinius deftly plays up the contrast between the eugenicists' obsession with cold measurements of human value and their own messy lives, which were marked by disease and behavior that could have qualified them as unfit: Galton suffered from severe depression; Davenport had one child who was sickly and another who was apparently dyslexic; and Laughlin was afflicted with epilepsy.  In America and elsewhere, enthusiasm for eugenics was broadly supported by elites. In Britain, people as varied as Winston Churchill and George Bernard Shaw embraced its goals, and there was lively debate about how much the state itself should control reproduction of individuals. Eugenic science especially appealed to Fabian socialists, who saw it as further justification for abolishing class - after all, once the playing field was level the effect of heredity could finally express itself clearly and be studied.  In this country, eugenic theory and practice engaged the likes of Theodore Roosevelt, the birth control crusader Margaret Sanger and leaders of the Carnegie and Rockefeller foundations. It galvanized temperance advocates, suffragists, and liberal American churches and synagogues. Citizens enthusiastically entered 'Fitter Family' and 'Better Baby' contests.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:45"
+    },
+    {
+      "nodeID": "148547",
+      "text": "From a book review of BETTER FOR ALL THE WORLD: The Secret History of Forced Sterilization and America's Quest for Racial Purity by Harry Bruinius: http://www.nytimes.com/2006/02/26/books/review/26satel.html Hmmm, Teddy Roosevelt, Winston Churchill, the Rockefeller foundations, millions of Americans, the State of Indiana. . . all these embraced the concept of EUGENICS. Interesting, yes?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:45"
+    },
+    {
+      "nodeID": "148548",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:08:45"
+    },
+    {
+      "nodeID": "148549",
+      "text": "Yes. However, our great forefathers have supported something far worse than that.                              SLAVERY!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:45"
+    },
+    {
+      "nodeID": "148550",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:08:45"
+    },
+    {
+      "nodeID": "148551",
+      "text": "I'd strongly recommend that you have your eyes checked, Steeeeve.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:45"
+    },
+    {
+      "nodeID": "148552",
+      "text": "Why not? People that support abortion hold the view that the woman is more important than the unborn. If you rank humans and force something upon a certain group in one case why wouldn't you approve of it in another? Eugenics is just saying a certain group of citizens is below another...kinda like an unborn is below a female...and then saying 'we are going to make sure you don't reproduce and we will put you in this home'...with abortion you just kill the person. Atleast Sanger took her views to the only logical conclusion.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:45"
+    },
+    {
+      "nodeID": "148553",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:08:46"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189456",
+      "fromID": "148547",
+      "toID": "148548",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189457",
+      "fromID": "148548",
+      "toID": "148546",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189458",
+      "fromID": "148549",
+      "toID": "148550",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189459",
+      "fromID": "148550",
+      "toID": "148547",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189460",
+      "fromID": "148552",
+      "toID": "148553",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189461",
+      "fromID": "148553",
+      "toID": "148551",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

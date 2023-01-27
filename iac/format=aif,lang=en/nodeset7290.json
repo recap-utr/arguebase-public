@@ -1,0 +1,115 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140331",
+      "text": "That's not a bad read. You should read it.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:11"
+    },
+    {
+      "nodeID": "140332",
+      "text": "** If you are talking to me, I did read it--that's why I posted it. Which makes me wonder what you did to it?!?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:11"
+    },
+    {
+      "nodeID": "140333",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:51:11"
+    },
+    {
+      "nodeID": "140334",
+      "text": "** If you are talking to me, I did read it--that's why I posted it.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:11"
+    },
+    {
+      "nodeID": "140335",
+      "text": "In that case, I'm wondering why you didn't notice that it provided evidence for an aspect of evolutionary theory... Basically, it provided evidence that a previous ad-hoc hypothesis was unnecessary to explain the development of hands and feet. I'd summarize the rest of the article for you, but you ought to understand it already.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:11"
+    },
+    {
+      "nodeID": "140336",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:51:11"
+    },
+    {
+      "nodeID": "140337",
+      "text": "** Actually it provided proof that RMNS doesn't explain the development of hands and feet, but I don't expect you to be able to understand that.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:12"
+    },
+    {
+      "nodeID": "140338",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:51:12"
+    },
+    {
+      "nodeID": "140339",
+      "text": "...and if RMNS doesn't explain the development of hands or feet, it's pretty safe to say it doesn't explain the development of anything else, either.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:12"
+    },
+    {
+      "nodeID": "140340",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:51:12"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183656",
+      "fromID": "140332",
+      "toID": "140333",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183657",
+      "fromID": "140333",
+      "toID": "140331",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183658",
+      "fromID": "140335",
+      "toID": "140336",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183659",
+      "fromID": "140336",
+      "toID": "140334",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183660",
+      "fromID": "140337",
+      "toID": "140338",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183661",
+      "fromID": "140338",
+      "toID": "140335",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183662",
+      "fromID": "140339",
+      "toID": "140340",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183663",
+      "fromID": "140340",
+      "toID": "140337",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

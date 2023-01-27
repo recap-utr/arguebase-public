@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "137868",
+      "text": "I don't under stand this one. I think you are saying that a 'death penalty' trial costs too much? See comments for #1",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:54"
+    },
+    {
+      "nodeID": "137869",
+      "text": "yes, and it is also a complex train of economics leading down all the way to your door.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:54"
+    },
+    {
+      "nodeID": "137870",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:45:54"
+    },
+    {
+      "nodeID": "137871",
+      "text": "what I am talking about is not a death penalty trial as we have today, but after the person has received a 100 year or more sentence. The cost would be only the method of death.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:54"
+    },
+    {
+      "nodeID": "137872",
+      "text": "Oh that greatly changes the equation doesn't it? Very unrealistic, but for the sakes of the debate, why not? Well, alledgedly, 23 innocent people have been put to death, and for sure two unrefutable cases. I don't support killing people as a deterrent or as any means in a justice system.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:54"
+    },
+    {
+      "nodeID": "137873",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:45:54"
+    },
+    {
+      "nodeID": "137874",
+      "text": "I have had some experience with this topic... My father was murdered when I was 12, the perp was convicted a year later and was charged with 1st degree murder and sentenced to death.. flash forward 24 years He ran his course of appeals and every legal proceeding you can imagine. His lawyer after 20 years of him being on death row came up with 'retardation' Mind you he 'walked' 3 times.. all of which I was there to witness. I was to be a witness to the execution by request of my grandmother who has passed on. anyway at the last minute he got a stay of execution. Back to the drawing table.. Last year after several hearings, they came to the conclusion the he was mentally retarded..scoring a 75 on his IQ test. The limit for the death penalty is 70. He was a high school graduate, had a family, held jobs.. and clearly competent, nonetheless they found him otherwise. So now he is off death row, and the DA has told me that it is possible he could get parole eventually. With all that it has been a very trying time for me and I have had to struggle with how I really felt about the death penalty. I have been a supporter but never really could my put heart into my conviction. I do not know if it is out of revenge or not, hard to say I am too close to the matter. But I did feel let down when they took him off death row, now I feel like there will never be justice. I put so many years of waiting for that moment... it sounds kind of sick, but as much as I dreaded witnessing it, I also looked forward to it. I do think that maybe life in prison may be better, only if his experience there is just awful.... but the revenge side of me, just wants him to suffer what my father suffered. but if you were to ask me to think about this the old fashion way, which would be I should be the one to flip the switch .. not so sure I could do it. so with all that I still don't really know if I in my heart, support the death penalty or I am just after revenge. The victims of violence I would imagine go through this struggle. Side note... the man who murdered my father also killed a young girl when he was a minor... he had escaped from the correctional facility he was in.. and it was several years later when he killed my dad.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:54"
+    },
+    {
+      "nodeID": "137875",
+      "text": "So sorry, Anastasia...that's a horrible thing to face. And now, using that excuse? What! If justice was swift for the guilty then he would not have escaped only to do it again. Some criminals never change, and via your testimony, only live to do it again. There are some who need to be put to death. Your situation made me shudder, Anastasia. But, I am glad you didn't let it (revenge) effect you to the point of taking his life yourself. If it would have been my father, those many years ago, I cannot say that I would have waited, nor would have accepted that lame excuse of retardation. I could very well be in prison myself.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:54"
+    },
+    {
+      "nodeID": "137876",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:45:55"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181900",
+      "fromID": "137869",
+      "toID": "137870",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181901",
+      "fromID": "137870",
+      "toID": "137868",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181902",
+      "fromID": "137872",
+      "toID": "137873",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181903",
+      "fromID": "137873",
+      "toID": "137871",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181904",
+      "fromID": "137875",
+      "toID": "137876",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181905",
+      "fromID": "137876",
+      "toID": "137874",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

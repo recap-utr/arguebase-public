@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140267",
+      "text": "One of the most basic reasons why society promotes child abuse murder via abortion is to assauge the cathartic rage, frustrations, hate etc of female citizen-slaves. I have no doubt that abortion acts as a legal violence outlet that would otherwise end up in other violence outlets deemed to be crimes by society.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:02"
+    },
+    {
+      "nodeID": "140268",
+      "text": "Completely speculative nonsense.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:02"
+    },
+    {
+      "nodeID": "140269",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:51:02"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183608",
+      "fromID": "140268",
+      "toID": "140269",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183609",
+      "fromID": "140269",
+      "toID": "140267",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

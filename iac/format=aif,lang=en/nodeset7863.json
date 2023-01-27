@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148933",
+      "text": "obvious_child and sickdelirium refuse to acknowledge the fact that the observation that the fish are dead is correct.   They insist that the observation was wrong. Fossils were found of the fish. No other living fish has been found. Is the observation that all the fish found are dead correct?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:35"
+    },
+    {
+      "nodeID": "148934",
+      "text": "Yes it is, however, it was YOU on the opening post who claimed they were still alive. Let me quote you again:",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:36"
+    },
+    {
+      "nodeID": "148935",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:09:36"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189734",
+      "fromID": "148934",
+      "toID": "148935",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189735",
+      "fromID": "148935",
+      "toID": "148933",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

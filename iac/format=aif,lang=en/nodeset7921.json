@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "149930",
+      "text": "Yeah, there are those who scream that self-defence is not a valid reason for gun ownership. There were no valid reasons until the libs thought them up, but I'll set that aside for now. The question here is wether or not you think hunting is a valid reason for gun ownership. I don't forsee any stats posted, as this thread has nothing to do with crime. So this is a chance for you to work on debating skills.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:40"
+    },
+    {
+      "nodeID": "149931",
+      "text": "I have no problem with hunting weapons. And speaking of working on debate skills, maybe you could refrain from opening lines like the one you used here. No one's screaming anything. You simply want to introduce emotion where none is required. If any side routinely loses its cool, its yours.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:40"
+    },
+    {
+      "nodeID": "149932",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:11:40"
+    },
+    {
+      "nodeID": "149933",
+      "text": "I think the only valid reason for owning a gun is because you want to. Every person (with some exceptions) has the right to keep and bear arms, why you do it is your own business. Giving specific reasons for gun ownership is the top of a slippery slope towards banning certain firearms. While I have specific reasons for owning specific guns, to include hunting, I own some of my guns for no other reason than they are fun to shoot. A humorus side note: I own one gun strictly for fishing, sounds odd but its common practice (at least in Alaska) to shoot large Halibut before bringing them aboard.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:40"
+    },
+    {
+      "nodeID": "149934",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:11:40"
+    },
+    {
+      "nodeID": "149935",
+      "text": "Don't be so quick to fire off your mouth.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:40"
+    },
+    {
+      "nodeID": "149936",
+      "text": "I see no reason for you to take this tone with me. And you wonder why we would be uncomfortable with folks like you having the ability to blast anyone who might annoy you. Learn some manners, will you?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:40"
+    },
+    {
+      "nodeID": "149937",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:11:40"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "190438",
+      "fromID": "149931",
+      "toID": "149932",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190439",
+      "fromID": "149932",
+      "toID": "149930",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190440",
+      "fromID": "149933",
+      "toID": "149934",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190441",
+      "fromID": "149934",
+      "toID": "149930",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190442",
+      "fromID": "149936",
+      "toID": "149937",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190443",
+      "fromID": "149937",
+      "toID": "149935",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

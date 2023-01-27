@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138219",
+      "text": "It is a creature of God at conception........",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:35"
+    },
+    {
+      "nodeID": "138220",
+      "text": "So is cancer.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:36"
+    },
+    {
+      "nodeID": "138221",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:46:36"
+    },
+    {
+      "nodeID": "138222",
+      "text": "What do you mean by call the shots? I think a mother should be able to cease providing for a child/fetus at any age, but also should not be able to kill it at any age. I don't think time with regards to pregnancy is a relevant dimension. Realistically this means a mother can decide whether her child lives or not up until some point in the 3rd trimester, since its around then a fetus is capable of surviving outside the womb. This is of course, dependent on technology.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:36"
+    },
+    {
+      "nodeID": "138223",
+      "text": "Well since posting on this thread has died and this seems to me to be the most interesting atheistic theory, I want to get a bit of clarification. First, what do you mean by being allowed to cease providing for it at any age, but never allowed to kill it? By this do you mean that to cease providing for during the first trimester is not killing it? Is that because it is not alive at that time? If I follow you (and I'm not sure I do) should the mother be allowed to have the baby removed at some point during the third trimester, after which it must be kept alive (and perhaps put up for adoption)?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:36"
+    },
+    {
+      "nodeID": "138224",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:46:36"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182152",
+      "fromID": "138220",
+      "toID": "138221",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182153",
+      "fromID": "138221",
+      "toID": "138219",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182154",
+      "fromID": "138223",
+      "toID": "138224",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182155",
+      "fromID": "138224",
+      "toID": "138222",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

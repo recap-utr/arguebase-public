@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157280",
+      "text": "I'd like to know how a fission reaction was supposedly possible in the first place. This would be hard to achieve using only light water and (today's) natural uranium (at about 0.7% U-235).",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:56"
+    },
+    {
+      "nodeID": "157281",
+      "text": "Well, since the composition of the uranium body when it was a natural reactor wasn't the same as today's natural uranium, it doesn't matter. What is important was the composition of the ore back then. Since U-238 has a half-life of 4.468E+9 years and U-235 has a half-life of 7.038E+8 years, it is apparent that the U-235 decays much more rapidly. It stands to reason that the The relative percentage of U-235 to U-238 was higher in the past. It also stands to reason that thee was more uranimum present at the time that the natural reactors were active. About 2 billion years ago the U-235 was about 3% or more of the composition of the uranium.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:56"
+    },
+    {
+      "nodeID": "157282",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:27:56"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195626",
+      "fromID": "157281",
+      "toID": "157282",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195627",
+      "fromID": "157282",
+      "toID": "157280",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

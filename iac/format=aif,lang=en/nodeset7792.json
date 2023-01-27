@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "147989",
+      "text": "I am more confused how Libertarian ideology can be used against abortion rights. However pro-life laws often lead to tyranny.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:31"
+    },
+    {
+      "nodeID": "147990",
+      "text": "I think the main pro-life argument from the libertarian camp is that pro-life laws are a form of 'negative intrusion,' just like laws against murder, rape or theft. Libertarian ideology centers around a belief in negative government - a government that can effectively protect its citizens from rapists, murderers, thieves, etc. They oppose both positive government (i.e. totalitarianism) and anarchy. Granted, I am not certain if anti-abortion laws are truly negative intrusion. These Libertarians for Life seem to have it figured out, but I am not sure if anti-abortion laws are positive or negative intrusion.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:31"
+    },
+    {
+      "nodeID": "147991",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:31"
+    },
+    {
+      "nodeID": "147992",
+      "text": "It's still the same argument. A fetus is a citizen, it's intrustion on the fetus, (and the pregant woman?) OR A fetus is not a citizen, it's intruston on the pregant woman. Libertarians still need to make sense of when the fetus gets rights, and what to do about the pregant womans right to choose with her body. -Mach",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:31"
+    },
+    {
+      "nodeID": "147993",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:31"
+    },
+    {
+      "nodeID": "147994",
+      "text": "A fetus is a citizen, it's intrustion on the fetus, (and the pregant woman?)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:31"
+    },
+    {
+      "nodeID": "147995",
+      "text": "The question still remains as to whether this is negative intrusion (which is what the libertarians want) or positive intrusion (what the libertarians do not want.) Anyone with half a brain can know that it's intrusion. The matter becomes complicated when one tries to place it in the category of anti-murder laws or theocratic forced religion laws.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:31"
+    },
+    {
+      "nodeID": "147996",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:31"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189070",
+      "fromID": "147990",
+      "toID": "147991",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189071",
+      "fromID": "147991",
+      "toID": "147989",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189072",
+      "fromID": "147992",
+      "toID": "147993",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189073",
+      "fromID": "147993",
+      "toID": "147990",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189074",
+      "fromID": "147995",
+      "toID": "147996",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189075",
+      "fromID": "147996",
+      "toID": "147994",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143387",
+      "text": "Shows what lengths women can go to if legal abortion isn't an option.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:56"
+    },
+    {
+      "nodeID": "143388",
+      "text": "No it doesn't, as abortion WAS a legal option in this case.  This was not a legality issue, but an education issue.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:56"
+    },
+    {
+      "nodeID": "143389",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:57:56"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185830",
+      "fromID": "143388",
+      "toID": "143389",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185831",
+      "fromID": "143389",
+      "toID": "143387",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

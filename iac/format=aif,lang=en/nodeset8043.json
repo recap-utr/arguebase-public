@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151629",
+      "text": "Some theorize that T-Rex was actually a scavenger that didn't chase anything down because it had a very large area in the brain for processing odors.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:12"
+    },
+    {
+      "nodeID": "151630",
+      "text": "Well that's interesting. I hadn't heard of that. Are there any other clues to suggest this dinosaur was a scavenger? I was surprised to learn that most birds have a poor sense of smell, except for the scavenger birds. They instead rely a good deal on their sight.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:13"
+    },
+    {
+      "nodeID": "151631",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:15:13"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191634",
+      "fromID": "151630",
+      "toID": "151631",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191635",
+      "fromID": "151631",
+      "toID": "151629",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

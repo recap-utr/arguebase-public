@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "142959",
+      "text": "On a recent episode of Scare Tactics, just before the homicidal maniacs break down the car door and kill the victim, her response: 'Oh my God, Oh my God, Help, Help, do you have a cell phone, Oh my God, Oh my God. Do you have a cell phone?' First, such a prank will should never be played on a CCW holder. The response would be 3 shots: 2 to the body, 1 to the head. Instead of 'Help, Help, Help, Oh my God, Oh my God, Do you have a cell phone?' This happens every day. Except it is not a prank and there are no homicidal maniacs. A more typical scene is the same unarmed victim and a felon on parole.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:58"
+    },
+    {
+      "nodeID": "142960",
+      "text": "So I guess we should all be armed with guns then. And if we XXXX someone off, feel the comfort of knowing that they have a gun and can blow our brains out whenever they want on the spot. Everyone grab a gun!! We dont have enough violence in the United States as it is! And arm your children too!! Ignore the stories about children accidently shooting eachother.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:58"
+    },
+    {
+      "nodeID": "142961",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:56:58"
+    },
+    {
+      "nodeID": "142962",
+      "text": "Guns surely have their uses in situations such as that. I support peoples right to own a gun but I also think there would be more crimes and death if everyone in the whole country owned a gun. Just got to make sure gun use doesn't get too out of hand.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:59"
+    },
+    {
+      "nodeID": "142963",
+      "text": "The only people who get out of hand are criminals. Decent people do not get out of hand with firearms. So not to worry, your OK if all decent people are armed.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:59"
+    },
+    {
+      "nodeID": "142964",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:56:59"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185530",
+      "fromID": "142960",
+      "toID": "142961",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185531",
+      "fromID": "142961",
+      "toID": "142959",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185532",
+      "fromID": "142963",
+      "toID": "142964",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185533",
+      "fromID": "142964",
+      "toID": "142962",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

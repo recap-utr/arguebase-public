@@ -1,0 +1,199 @@
+{
+  "nodes": [
+    {
+      "nodeID": "153187",
+      "text": "Marriage is also legally binding. Tax breaks? Ever hear of the Marriage Penalty?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:48"
+    },
+    {
+      "nodeID": "153188",
+      "text": "This past Saturday, my partner and I had a commitment ceremony or wedding if you say care to say.....In my state it is not legally bindingm we did it anyway.....it was more about the emotional commitment two people make to each other in the presence of their friends and family. I tried so hard not to, but when the celebrant asked me to repeat after him, with the vows I wrote my self.....I tried and tried and tried, but couldn't speak. I was too moved by the moment and all I could do was cry.... I love my partner with all my heart....So I wanted to get through, I thought about our taxes (didn't work). So thought about everyone in their underware.....contrary to popular opinoin that doesn't work either..... I managed to get the words out (don't know how) just did! This marriage is just as perfect to us, and those that were our witnessess.....as any heterosexual wedding...... The rest of the night was blur, between 50 people wanting my attention and me being really buzzed on white wine.....oh my oh my.......I was pretty shocked! Marrige is what you decide it is, regardles if the gov was to see it....I am now married.....like it or not.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:49"
+    },
+    {
+      "nodeID": "153189",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:18:49"
+    },
+    {
+      "nodeID": "153190",
+      "text": "And did you ever hear that it's not always a penalty but sometimes a benefit? And did you know that if it would be a penalty, you're free to simply not file your taxes jointly, which results in no penalty at all? And certainly with respect to insurance, there are many benefits bestowed by marriage, as cmitch06 pointed out. This of course doesn't factor in the countless other benefits of marriage, such as naturalization, food stamps, veteran's benefits, housing benefits, greater ability to take out a loan, visitation rights, property rights, etc.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:49"
+    },
+    {
+      "nodeID": "153191",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:18:49"
+    },
+    {
+      "nodeID": "153192",
+      "text": "I have done some reading on the marriage penalty and there might be some truth to what your saying although you do get insurance breaks. I still say that marriage should be a religious ceremony of two people and the government should have no agenda in the matter. here is a site you should look at. http://moneycentral.msn.com/content/Taxes/P48908.asp",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:49"
+    },
+    {
+      "nodeID": "153193",
+      "text": "You have much to learn, my young padawan.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:49"
+    },
+    {
+      "nodeID": "153194",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:18:49"
+    },
+    {
+      "nodeID": "153195",
+      "text": "As do you.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:49"
+    },
+    {
+      "nodeID": "153196",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:18:49"
+    },
+    {
+      "nodeID": "153197",
+      "text": "Congratulations, Joe! I'm so happy for you. Sounds great. It's this aspect of our lives that the conservatives won't see... But anyway, more power to you, and I hope that you and your partner have many long and happy years together.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:49"
+    },
+    {
+      "nodeID": "153198",
+      "text": "Thank You! I think we will!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:49"
+    },
+    {
+      "nodeID": "153199",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:18:49"
+    },
+    {
+      "nodeID": "153200",
+      "text": "What, to be 'open-minded?' or to embrace your definition of 'tolerance?'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:49"
+    },
+    {
+      "nodeID": "153201",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:18:49"
+    },
+    {
+      "nodeID": "153202",
+      "text": "While indeed marriage was once a religious ceremony, it is fairly clear that ceremony has been taken away from the religion and added as an American tradition, so to speak. I know of someone who once proposed that we get rid of marriage altogther and give everyone civil unions except for thos acknowledged by the church. As feasible as that may be, marriage is too rooted in our American culture. For that reason it is best to truly offer rights to everyone as our constitution so rightly protects.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:49"
+    },
+    {
+      "nodeID": "153203",
+      "text": "That was put nicely. No argument here. Maybe marriage should be taken out and give everyone civil unions. And if you wanted to be considered married it can be your religious ceremony",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:50"
+    },
+    {
+      "nodeID": "153204",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:18:50"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192734",
+      "fromID": "153188",
+      "toID": "153189",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192735",
+      "fromID": "153189",
+      "toID": "153187",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192736",
+      "fromID": "153190",
+      "toID": "153191",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192737",
+      "fromID": "153191",
+      "toID": "153187",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192738",
+      "fromID": "153193",
+      "toID": "153194",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192739",
+      "fromID": "153194",
+      "toID": "153192",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192740",
+      "fromID": "153195",
+      "toID": "153196",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192741",
+      "fromID": "153196",
+      "toID": "153193",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192742",
+      "fromID": "153198",
+      "toID": "153199",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192743",
+      "fromID": "153199",
+      "toID": "153197",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192744",
+      "fromID": "153200",
+      "toID": "153201",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192745",
+      "fromID": "153201",
+      "toID": "153195",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192746",
+      "fromID": "153203",
+      "toID": "153204",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192747",
+      "fromID": "153204",
+      "toID": "153202",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

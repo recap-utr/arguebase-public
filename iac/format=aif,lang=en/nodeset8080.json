@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152200",
+      "text": "Many times, rape results in possible health problems for the mother, in which case I would have no qualms about abortion. But the truth is that the baby cannot help having been brought into the world any more than the woman could have helped being raped, and doesn't deserve to be killed any more than the woman does.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:27"
+    },
+    {
+      "nodeID": "152201",
+      "text": "And a woman's life choices, health, and finances aren't up for hi-jacking. Every time a lifer talks about demanding the nine month rape, they talk about what the baby deserves or not deserves and how it shouldn't be punished. This SCREAMS that you don't value and respect women. The very idea that a woman is aborting as an act of revenge - it's absurd and insulting.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:27"
+    },
+    {
+      "nodeID": "152202",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:16:27"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192038",
+      "fromID": "152201",
+      "toID": "152202",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192039",
+      "fromID": "152202",
+      "toID": "152200",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,151 @@
+{
+  "nodes": [
+    {
+      "nodeID": "149772",
+      "text": "The legal middle ground is called 'civil unions.'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:20"
+    },
+    {
+      "nodeID": "149773",
+      "text": "You know, I would be fine with that as long as it were truly a middle ground. If that term were used equally among straights as well as gays. But it's just a term. The same as with the term 'marriage.' It's just a term. Just a word. Personally I feel the government needs to get out of the business of marriage altogether. Let the legal term be agreed upon unilaterally.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:20"
+    },
+    {
+      "nodeID": "149774",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:11:20"
+    },
+    {
+      "nodeID": "149775",
+      "text": "No, the legal middle ground between no same-sex marriage and only same-sex marriage is marriage for all, just as the legal middle ground between no opposite-sex marriage and only opposite-sex marriage is marriage for all. Another possiblity would be marriage for none, but let's not go there.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:20"
+    },
+    {
+      "nodeID": "149776",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:11:20"
+    },
+    {
+      "nodeID": "149777",
+      "text": "OK, are YOU willing to settle for legal recognition of your relationship with your spouse under federal and state laws as a 'civil union' only? You would still maintain the right to consider yourselves as 'married' under whatever religious denomination you choose.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:20"
+    },
+    {
+      "nodeID": "149778",
+      "text": "But my relationship is between a man and woman. You would be asking marriage to be redefined to do that. Remember, part of what defines marriage is that it is between a man and woman.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:20"
+    },
+    {
+      "nodeID": "149779",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:11:21"
+    },
+    {
+      "nodeID": "149780",
+      "text": "That's your business; I don't care what you do. I don't think it's moral behavior, but I'm not going to condemn you for it and I sure don't think it should be illegal. It's your business.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:21"
+    },
+    {
+      "nodeID": "149781",
+      "text": "So you don't think our behavior is 'moral' in that respect. Do you consider your own behavior 'moral' and therefore superior to ours? emoticon_rolleyes",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:21"
+    },
+    {
+      "nodeID": "149782",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:11:21"
+    },
+    {
+      "nodeID": "149783",
+      "text": "The thing is, though, that if marriage is privatized people can have freedom without 'redefining the standard.' It is a way for us to allow all those oddball marriages without putting an 'official stamp of approval' on them.  Liberals want to expand the government involvement in marriage to include gay marriages, thus putting society's approval on these things (something that gets moralists very angry.) Conservatives want to continue the statist rewards for straight marriage only - a violation of the 14th amendment. Libertarians combine the best of both positions. Their position (privatization) creates the freedom to marry, upholds the Constitution, and avoids official approval of gay marriage at the same time.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:21"
+    },
+    {
+      "nodeID": "149784",
+      "text": "I think your idea has merit. However, before I would fully endorse it, I am interested in how you see it being implemented and administered from the standpoint of equal protection under the law.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:21"
+    },
+    {
+      "nodeID": "149785",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:11:21"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "190328",
+      "fromID": "149773",
+      "toID": "149774",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190329",
+      "fromID": "149774",
+      "toID": "149772",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190330",
+      "fromID": "149775",
+      "toID": "149776",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190331",
+      "fromID": "149776",
+      "toID": "149772",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190332",
+      "fromID": "149778",
+      "toID": "149779",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190333",
+      "fromID": "149779",
+      "toID": "149777",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190334",
+      "fromID": "149781",
+      "toID": "149782",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190335",
+      "fromID": "149782",
+      "toID": "149780",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190336",
+      "fromID": "149784",
+      "toID": "149785",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190337",
+      "fromID": "149785",
+      "toID": "149783",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,121 @@
+{
+  "nodes": [
+    {
+      "nodeID": "153176",
+      "text": "The Gun Control Act of 1968, which initiated the background check requirement, was written by liberal politicians; the main people who support gun control laws. It was these same gun control nuts that chose to intentionally not require private transfers to involve background checks. You missed the opportunity back in 1968, you have no room to gripe about it now. Shut up.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:47"
+    },
+    {
+      "nodeID": "153177",
+      "text": "But But But, he was just 6 years old then and the really smart people didn't get all their wisdom written into that sham of a bill which is said to be law but is fast starting to have to face the Constitutional challenges.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:47"
+    },
+    {
+      "nodeID": "153178",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:18:47"
+    },
+    {
+      "nodeID": "153179",
+      "text": "How about you let me speak for myself? It's a given that criminals don't obey laws. Why labor that point? If the record of private party sales is kept with a FFL doing the background check, as is the case with initial sales, trace data could be available to law enforcement. The manufacturer would have to know where to point LE of course, since the FFL that corresponds to the serial number would no longer have a record of the current owner.  Probably time I look into specifics of how it works in CA.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:47"
+    },
+    {
+      "nodeID": "153180",
+      "text": "Because you seem to lose sight of that with your whackjob ideas. Case in point 'The manufacturer would have to know where to point LE' now you have the manufacturer involved in law enforcement. Would you have the big 3 involved in pointing out to LE who last bought their products involving drive bys and vehicular homicide? You have no clue as to how the whole process works yet you are going to put your oar in and muddy the process. Here's a small lesson for you. The manufacturers of firearms don't sell to dealers. They sell to distributors who in turn sell to dealers. You are still lacking any valid proof that the law abiding are the problem.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:47"
+    },
+    {
+      "nodeID": "153181",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:18:47"
+    },
+    {
+      "nodeID": "153182",
+      "text": "The last guy who owned the gun legally is a good place to start. If there's a stolen weapon report, so be it. If there's not, we investigate certainly and prosecute if the law allows. Remember I support mandatory theft/loss reporting.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:47"
+    },
+    {
+      "nodeID": "153183",
+      "text": "Well then maybe you can prove it somehow. California has all these laws you support, and even more than that. So if they have these laws on the books and have had them for a while now, and if they're effective at fighting crime, then you must surely have evidence of some sort to prove your case.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:47"
+    },
+    {
+      "nodeID": "153184",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:18:47"
+    },
+    {
+      "nodeID": "153185",
+      "text": "So LE finds the original first owner through the distributor or the dealer with the assistance of the manufacturer?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:47"
+    },
+    {
+      "nodeID": "153186",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:18:48"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192726",
+      "fromID": "153177",
+      "toID": "153178",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192727",
+      "fromID": "153178",
+      "toID": "153176",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192728",
+      "fromID": "153180",
+      "toID": "153181",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192729",
+      "fromID": "153181",
+      "toID": "153179",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192730",
+      "fromID": "153183",
+      "toID": "153184",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192731",
+      "fromID": "153184",
+      "toID": "153182",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192732",
+      "fromID": "153185",
+      "toID": "153186",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192733",
+      "fromID": "153186",
+      "toID": "153180",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

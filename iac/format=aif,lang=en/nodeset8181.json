@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "nodeID": "153643",
+      "text": "Well, you ARE the one advocating the murder of physicians.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:46"
+    },
+    {
+      "nodeID": "153644",
+      "text": "And that would make you the one that IS advocating the murder of our future generation.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:46"
+    },
+    {
+      "nodeID": "153645",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:19:46"
+    },
+    {
+      "nodeID": "153646",
+      "text": "Your lie about me is duly noted.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:46"
+    },
+    {
+      "nodeID": "153647",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:19:46"
+    },
+    {
+      "nodeID": "153648",
+      "text": "Which lie is that?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:46"
+    },
+    {
+      "nodeID": "153649",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:19:46"
+    },
+    {
+      "nodeID": "153650",
+      "text": "That would be your outright lie that I advocate murder of anybody.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:46"
+    },
+    {
+      "nodeID": "153651",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:19:46"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193054",
+      "fromID": "153644",
+      "toID": "153645",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193055",
+      "fromID": "153645",
+      "toID": "153643",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193056",
+      "fromID": "153646",
+      "toID": "153647",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193057",
+      "fromID": "153647",
+      "toID": "153644",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193058",
+      "fromID": "153648",
+      "toID": "153649",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193059",
+      "fromID": "153649",
+      "toID": "153646",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193060",
+      "fromID": "153650",
+      "toID": "153651",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193061",
+      "fromID": "153651",
+      "toID": "153648",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

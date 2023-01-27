@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "160773",
+      "text": "Based on what I was taught in my religous education in a catholic school and discussion with a cahtolic preist the spanish inquistion was at times very strict and discussing the geocentric model would have been risky at the time.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:57"
+    },
+    {
+      "nodeID": "160774",
+      "text": "If all you got in school was that the Spanish Inquisition was 'at times very strict' than you have been a wee bit undereducated to put it mildly. Let me give you the cliff notes version- the purpose of the Spanish Inquisition was to find anyone who didn't believe exactly what the Church told them to and if they were found to be 'heretics,' they were gruesomely tortured until they said they believed, or if they didn't they were killed. Now I hope you can see why saying the Spanish Inquisition was 'at times very strict' is a GIGANTIC understatement.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:57"
+    },
+    {
+      "nodeID": "160775",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:35:57"
+    },
+    {
+      "nodeID": "160776",
+      "text": "It is called being diplomatic. I hope you don't find out why I have to choose my words with such care. The spanish inquistion used to shove a towel all the way down peoples throats wet it so it woud expand and then pull it out. They certainly tortured people at the drop of a hat however maybe they were not that upset by the heliocentric model specifically maybe it was because some people supporting the heliocentric model claimed the concept of life elsewhere.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:57"
+    },
+    {
+      "nodeID": "160777",
+      "text": "People make mistakes (excepting some pro-evolutionists who respond with anger and blame others of 'twisting their words'.)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:58"
+    },
+    {
+      "nodeID": "160778",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:35:58"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198126",
+      "fromID": "160774",
+      "toID": "160775",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198127",
+      "fromID": "160775",
+      "toID": "160773",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198128",
+      "fromID": "160777",
+      "toID": "160778",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198129",
+      "fromID": "160778",
+      "toID": "160776",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,181 @@
+{
+  "nodes": [
+    {
+      "nodeID": "161939",
+      "text": "I believe there is.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:44"
+    },
+    {
+      "nodeID": "161940",
+      "text": "So you dont know?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:44"
+    },
+    {
+      "nodeID": "161941",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:45"
+    },
+    {
+      "nodeID": "161942",
+      "text": "Personally I believe that the developing fetus becomes a person only when it is able to survive outside the womb.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:45"
+    },
+    {
+      "nodeID": "161943",
+      "text": "You just say this because you want to murder helpless wromb-trapped human beings. You cannot just say you personally believe something in a debate.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:45"
+    },
+    {
+      "nodeID": "161944",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:45"
+    },
+    {
+      "nodeID": "161945",
+      "text": "Ridiculously wrong. A catapillar grows into a butterfly. A pup grows to a dog. A womb-trapped child grows into an adult human. They grow and develop and change.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:45"
+    },
+    {
+      "nodeID": "161946",
+      "text": "But the point you miss is that a caterpillar is NOT a butterfly; a puppy is NOT a full grown dog; a ZYGOTE and a FETUS are NOT children. These entities have not YET grown or developed or changed into those other entities.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:45"
+    },
+    {
+      "nodeID": "161947",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:45"
+    },
+    {
+      "nodeID": "161948",
+      "text": "Chickens have eggs.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:45"
+    },
+    {
+      "nodeID": "161949",
+      "text": "Yes they do Genius. And so do humans.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:45"
+    },
+    {
+      "nodeID": "161950",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:38:45"
+    },
+    {
+      "nodeID": "161951",
+      "text": "I know, but it is you that got it wrong : Quote :",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:45"
+    },
+    {
+      "nodeID": "161952",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:45"
+    },
+    {
+      "nodeID": "161953",
+      "text": "But the point you miss is that a caterpillar is NOT a butterfly; a puppy is NOT a full grown dog; a ZYGOTE and a FETUS are NOT children.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:45"
+    },
+    {
+      "nodeID": "161954",
+      "text": "No, the point was you said that 'noting grows into anything else', and I proved otherwise.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:45"
+    },
+    {
+      "nodeID": "161955",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:46"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198966",
+      "fromID": "161940",
+      "toID": "161941",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198967",
+      "fromID": "161941",
+      "toID": "161939",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198968",
+      "fromID": "161943",
+      "toID": "161944",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198969",
+      "fromID": "161944",
+      "toID": "161942",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198970",
+      "fromID": "161946",
+      "toID": "161947",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198971",
+      "fromID": "161947",
+      "toID": "161945",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198972",
+      "fromID": "161949",
+      "toID": "161950",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198973",
+      "fromID": "161950",
+      "toID": "161948",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198974",
+      "fromID": "161951",
+      "toID": "161952",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198975",
+      "fromID": "161952",
+      "toID": "161946",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198976",
+      "fromID": "161954",
+      "toID": "161955",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198977",
+      "fromID": "161955",
+      "toID": "161953",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

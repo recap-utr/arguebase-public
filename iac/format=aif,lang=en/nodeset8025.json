@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151395",
+      "text": "And this is the case here. Language skills, in case you missed them must be learnt at a specific age - or you've missed the boat. Cave-man may have come up with words for 'fire' 'water' and 'air' etc, and teach these to his cave-kids, but he would have had to have been taught complex language skills as a child in order to pass these on to his cave-kids. The cases of the 'wild-children' show that even with a normal brain and the best of scientific and social help, they can't acquire these skills in their own life time... because they've missed the boat.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:43"
+    },
+    {
+      "nodeID": "151396",
+      "text": "So the simpler proto-languages had to be learned at an early age, too. So what?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:43"
+    },
+    {
+      "nodeID": "151397",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:14:43"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191472",
+      "fromID": "151396",
+      "toID": "151397",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191473",
+      "fromID": "151397",
+      "toID": "151395",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

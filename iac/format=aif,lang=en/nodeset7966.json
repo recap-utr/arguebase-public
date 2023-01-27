@@ -1,0 +1,157 @@
+{
+  "nodes": [
+    {
+      "nodeID": "150734",
+      "text": "Originally posted by kelvin90701 Michael Daggett is a priest. The state knows he is harmelss, but obediance before the law is more important than public saftey in the UK.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:14"
+    },
+    {
+      "nodeID": "150735",
+      "text": "What does being a priest have to do with anything? It wouldn't matter if he were a Satan worshipper.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:15"
+    },
+    {
+      "nodeID": "150736",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:13:15"
+    },
+    {
+      "nodeID": "150737",
+      "text": "Originally posted by kelvin90701 The crime was committed when he took possesion of the firearm. Do you know of any other crimes that your are guilty of when your are innocent in the past then the law makes you guilty later for a past event? If the speed limit is 40 mph on Monday, the law makes it 30 mph on Tuesday, are you guilty of speeding when it was Monday? Well in the UK you are.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:15"
+    },
+    {
+      "nodeID": "150738",
+      "text": "23,000 firearms were handed in when the UK had its gun ban. According to your logic those people that handed in their firearms can still be prosecuted because they took possession of a firearm prior to the ban. I don't think so.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:15"
+    },
+    {
+      "nodeID": "150739",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:13:15"
+    },
+    {
+      "nodeID": "150740",
+      "text": "Originally posted by kelvin90701  There was an act, which was legal at the time.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:15"
+    },
+    {
+      "nodeID": "150741",
+      "text": "Yeah and he wasn't prosecuted for the legal act you're referring to. If so then anybody could be prosecuted for possessing a firearm prior to the ban even if they voluntarily turned in their guns already. The problem is that he didn't turn in his gun. So that analogy with changing the speed limit is a false analogy. Let's not confuse the issue.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:15"
+    },
+    {
+      "nodeID": "150742",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:13:15"
+    },
+    {
+      "nodeID": "150743",
+      "text": "God fearing",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:15"
+    },
+    {
+      "nodeID": "150744",
+      "text": "What does that have to do with anything?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:15"
+    },
+    {
+      "nodeID": "150745",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:13:15"
+    },
+    {
+      "nodeID": "150746",
+      "text": "law abiding",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:15"
+    },
+    {
+      "nodeID": "150747",
+      "text": "...he wouldn't have been arrested if he was law abiding.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:15"
+    },
+    {
+      "nodeID": "150748",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:13:15"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "190998",
+      "fromID": "150735",
+      "toID": "150736",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190999",
+      "fromID": "150736",
+      "toID": "150734",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191000",
+      "fromID": "150738",
+      "toID": "150739",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191001",
+      "fromID": "150739",
+      "toID": "150737",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191002",
+      "fromID": "150741",
+      "toID": "150742",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191003",
+      "fromID": "150742",
+      "toID": "150740",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191004",
+      "fromID": "150744",
+      "toID": "150745",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191005",
+      "fromID": "150745",
+      "toID": "150743",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191006",
+      "fromID": "150747",
+      "toID": "150748",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191007",
+      "fromID": "150748",
+      "toID": "150746",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

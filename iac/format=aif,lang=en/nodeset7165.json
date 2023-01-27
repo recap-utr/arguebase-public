@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138760",
+      "text": "while evolution says something crazy like this.... about a billioon years ago life appeared.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:44"
+    },
+    {
+      "nodeID": "138761",
+      "text": "Well the oldest fossils are (IIRC) 3.8 billion years old.......",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:44"
+    },
+    {
+      "nodeID": "138762",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:47:45"
+    },
+    {
+      "nodeID": "138763",
+      "text": "and it went through all these stages and got killed then came back to life ( magically i suppose)",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:45"
+    },
+    {
+      "nodeID": "138764",
+      "text": "Actually, you have slipped into talking Bible here and seem to be refering to the miracle of Lazarus.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:45"
+    },
+    {
+      "nodeID": "138765",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:47:45"
+    },
+    {
+      "nodeID": "138766",
+      "text": "the idea is correct. creation cant compete with evolution. wanna know why? bcecause creation explains itself so well and has actual dates. evolution cant even begin to compare with it. creation is so easy to know.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:45"
+    },
+    {
+      "nodeID": "138767",
+      "text": "So being easy to know makes it good? methinks that's not quite right.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:45"
+    },
+    {
+      "nodeID": "138768",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:47:45"
+    },
+    {
+      "nodeID": "138769",
+      "text": "While you're spending your time pointlessly debating, there are hoards of catholics out there that are spawning like crazy.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:45"
+    },
+    {
+      "nodeID": "138770",
+      "text": "Oh, the actions/intentions of the religious get much worse than just that. Hopefully, everyone will be scared a bit by the following statements made by nationally known religious leaders/activists.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:45"
+    },
+    {
+      "nodeID": "138771",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:47:45"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182540",
+      "fromID": "138761",
+      "toID": "138762",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182541",
+      "fromID": "138762",
+      "toID": "138760",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182542",
+      "fromID": "138764",
+      "toID": "138765",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182543",
+      "fromID": "138765",
+      "toID": "138763",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182544",
+      "fromID": "138767",
+      "toID": "138768",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182545",
+      "fromID": "138768",
+      "toID": "138766",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182546",
+      "fromID": "138770",
+      "toID": "138771",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182547",
+      "fromID": "138771",
+      "toID": "138769",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

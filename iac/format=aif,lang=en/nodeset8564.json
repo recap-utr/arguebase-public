@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "159369",
+      "text": "Dae, I hear you and have said many times that I'm not a Laissez Faire type guy. My point was that the ability to accumulate capital (personal property) is the reason that the US is the country it is today. Sure there's a place for the govt. in ANY system, including this one. However, the reason our country has done so well, for so long and the reason we're so productive as workers is the fact that we have a right to participate in the system and accumulate wealth.  Yes, the govt. will be needed to provide certain services. Yes, it is necessary to have rules, taxes, and a govt. to provide security and facilitate trade and etc... I've never said any different. However, there's a difference between saying that and saying that everything good has come through the govt. That's not true and if it was the USSR (or Germany) would rule the world today. The private sector is what drives the govt. and the economy. Without the Private Sector, there wouldn't be any govt. or tax money or tax payers to fund all the wonderful things that the govt. does. But too much govt. and the private sector whithers and with it, the govt. as well.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:43"
+    },
+    {
+      "nodeID": "159370",
+      "text": "I think you undervalue the combination of poor immigrants and vast untapped natural resources as it pertains to our success.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:43"
+    },
+    {
+      "nodeID": "159371",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:32:43"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "197128",
+      "fromID": "159370",
+      "toID": "159371",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197129",
+      "fromID": "159371",
+      "toID": "159369",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141506",
+      "text": "So, I could certainly see, if variation was truly random that selection could theoretically pick from a pool of random variants. Unfortunately for evolutionists, the concept of randomness when it comes to new traits has never actually been proven. In fact, whenever animals experience an environmental shift, they have this bad habit of shifting right along with it, starting with an internal response from each creature who somehow 'senses' this change. It's hardly logical to call this random.  But if each individual of a population experiences the same environmental cue, and each member simultaneously evolves the same traits epigenetically, not only will this speed up evolution exponentially, but it will also give each member the same traits at the same time -- which ultimately gives them the same basic fitness ----- which undermines natural selection, making mortality/breeding success mostly a lottery of circumstance, with a little sexual selection thrown in.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:49"
+    },
+    {
+      "nodeID": "141507",
+      "text": "Well, yes, but this begs the question of whether, even assuming epigenetic inheritance is real, all individuals would experience the same epigenetic alterations. Now, I have no problem with the concept of epigenetic inheritance. But even if it were true it wouldn't do away with natural selection. Just as with basic genetic mutation, which isn't going to go away, one would expect some individuals to exhibit epigenetic alterations and others not to. This still means a population containing a range of variants that natural selection can act on, preserving some epigenetic alterations as opposed to others. Of course, if the claim is that epigenetic alterations are somehow directed by the environment, i.e. are teleological in origin, then the onus is on the advocates to demonstrate how this direction occurs. Until they do, there is no reason to suppose there is any direction at all.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:49"
+    },
+    {
+      "nodeID": "141508",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:53:49"
+    },
+    {
+      "nodeID": "141509",
+      "text": "Now, I have no problem with the concept of epigenetic inheritance. But even if it were true it wouldn't do away with natural selection. Just as with basic genetic mutation, which isn't going to go away, one would expect some individuals to exhibit epigenetic alterations and others not to.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:49"
+    },
+    {
+      "nodeID": "141510",
+      "text": "Well that's true under one condition: that there is such thing as a random mutation that creates a new, beneficial body part or function. I'm not sure this has ever been established as fact. (How does science go about proving randomness in a mutation, anyway?...it seems to me that one must accept that mutations are random by faith.) 'It is our contention that if 'random' is given a serious and crucial interpretation from a probabilistic point of view, the randomness postulate is highly implausible and that an adequate scientific theory of evolution must await the discovery and elucidation of new natural laws.'-*Murray Eden, 'Inadequacies of Neo-Darwinian Evolution as Scientific Theory,' in Mathematical Challenges to the Neo-Darwinian Theory of Evolution (1967), p. 109.  This still means a population containing a range of variants that natural selection can act on, preserving some epigenetic alterations as opposed to others. but if the variation is nonrandom, it doesn't matter: selection's role, like I said above, would be doing nothing more than eliminating the weaklings. According to ToE, selection is a creative force of evolution, guiding the direction of evolution. Gould: The central logic of Darwinism requires that natural selection not merely operate, but that it be the creative force of evolutionary change. Selection wins its role as a creative force because the other component of evolutionary mechanics - the forces that produce the raw material of genetic variation - are random, in the special sense of 'not inherently directed toward adaptation.' That is, if local environments change and smaller organisms are now at an advantage, genetic variation does not produce more small individuals, thus imparting a direction to evolutionary change from the level of variation itself. Variation continues to occur'at random,' in a broad spectrum about the average size. Selection must impart direction - and be the creative force of evolution - by differentially preserving those random variants yielding smaller than average phenotypes.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:49"
+    },
+    {
+      "nodeID": "141511",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:53:50"
+    },
+    {
+      "nodeID": "141512",
+      "text": "'It is our contention that if 'random' is given a serious and crucial interpretation from a probabilistic point of view, the randomness postulate is highly implausible and that an adequate scientific theory of evolution must await the discovery and elucidation of new natural laws.'-*Murray Eden, 'Inadequacies of Neo-Darwinian Evolution as Scientific Theory,' in Mathematical Challenges to the Neo-Darwinian Theory of Evolution (1967), p. 109.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:50"
+    },
+    {
+      "nodeID": "141513",
+      "text": "Well, I just don't see this. It's an observable fact that species produce far more progeny than can possibly hope to survive. Consequently, the grim reaper will take most of them before they can breed -- which is NS in action. There is absolutely nothing implausible about variation being random, with only those variants that are compatible with environmental conditions having a chance of success. The rest you just wouldn't see.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:50"
+    },
+    {
+      "nodeID": "141514",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:53:50"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184492",
+      "fromID": "141507",
+      "toID": "141508",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184493",
+      "fromID": "141508",
+      "toID": "141506",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184494",
+      "fromID": "141510",
+      "toID": "141511",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184495",
+      "fromID": "141511",
+      "toID": "141509",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184496",
+      "fromID": "141513",
+      "toID": "141514",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184497",
+      "fromID": "141514",
+      "toID": "141512",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

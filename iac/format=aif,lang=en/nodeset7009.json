@@ -1,0 +1,151 @@
+{
+  "nodes": [
+    {
+      "nodeID": "136377",
+      "text": "Just wanted some peoples opinions",
+      "type": "I",
+      "timestamp": "2016-03-08 19:42:55"
+    },
+    {
+      "nodeID": "136378",
+      "text": "I think it's true. Why would someone make that up and pass it off as a real event? I think the continents probably started separating some time after that, which is how God separated the people.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:42:55"
+    },
+    {
+      "nodeID": "136379",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:42:55"
+    },
+    {
+      "nodeID": "136380",
+      "text": "so 1 vote for fact",
+      "type": "I",
+      "timestamp": "2016-03-08 19:42:55"
+    },
+    {
+      "nodeID": "136381",
+      "text": "Well sort of not.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:42:55"
+    },
+    {
+      "nodeID": "136382",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:42:55"
+    },
+    {
+      "nodeID": "136383",
+      "text": "Why would someone make that up and pass it off as a real event?.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:42:55"
+    },
+    {
+      "nodeID": "136384",
+      "text": "Well, they did.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:42:55"
+    },
+    {
+      "nodeID": "136385",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:42:56"
+    },
+    {
+      "nodeID": "136386",
+      "text": "Yes and the continents moved about 2000-3000 miles in less than 4000 years only about a mile per year. Surely nobody would have made a note of that its such a slow rate of progress! Clearly this is all possible with plate tectonics et al. Thats only about 15 ft per day of movement!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:42:56"
+    },
+    {
+      "nodeID": "136387",
+      "text": "actually they probably drifted much faster than that.....probably upon a pole reversal.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:42:56"
+    },
+    {
+      "nodeID": "136388",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:42:56"
+    },
+    {
+      "nodeID": "136389",
+      "text": "Really? This is ground breaking stuff, from which journal did you obtain this paradigm shifting piece of info?  Plates moving at indy 500 speeds would overturn our understanding of the planet. Pity you think so little of the physical sciences. They can save your life.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:42:56"
+    },
+    {
+      "nodeID": "136390",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:42:56"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "180834",
+      "fromID": "136378",
+      "toID": "136379",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180835",
+      "fromID": "136379",
+      "toID": "136377",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180836",
+      "fromID": "136381",
+      "toID": "136382",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180837",
+      "fromID": "136382",
+      "toID": "136380",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180838",
+      "fromID": "136384",
+      "toID": "136385",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180839",
+      "fromID": "136385",
+      "toID": "136383",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180840",
+      "fromID": "136387",
+      "toID": "136388",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180841",
+      "fromID": "136388",
+      "toID": "136386",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180842",
+      "fromID": "136389",
+      "toID": "136390",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180843",
+      "fromID": "136390",
+      "toID": "136387",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

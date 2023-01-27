@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "162869",
+      "text": "Not much common sense, but a little. Licensed owners win gun fight against police | Stuff.co.nz",
+      "type": "I",
+      "timestamp": "2016-03-08 20:41:12"
+    },
+    {
+      "nodeID": "162870",
+      "text": "'military pattern, free-standing pistol grip:Perhaps this is what makes a regular firearm a super duper high-powered assault weapon.It could happen you know, trick up that .22lr into a .50 cal. sniper rifle.hahahahahahahahahaha.emoticon_rolleyes",
+      "type": "I",
+      "timestamp": "2016-03-08 20:41:12"
+    },
+    {
+      "nodeID": "162871",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:41:12"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "199628",
+      "fromID": "162870",
+      "toID": "162871",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199629",
+      "fromID": "162871",
+      "toID": "162869",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

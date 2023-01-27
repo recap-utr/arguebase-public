@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138512",
+      "text": "If Obama and Biden are elected, and with the majority of congress already consisting of anti-gun democrats, and if anti-gun judiciaries are appointed to the supreme court, then gun ownership could very well be banned, unconstitutional or not. But, since Obama can only serve eight years max, then the next president could undo the gun ban. But if Obama does ban guns, he will surely make the ban unchangeable by future leaders. I personally cant see Obama, congress, or the supreme court passing a gun ban though, because it would not only be political suicide, a gun ban would also devastate the economy. But if a gun ban is tried, look for the right to vote to dissapear as well, plus he will do away with the eight years maximum law that he can serve, he will do these to prevent being voted out of office and to keep from running out of time in which he can serve as president, thus making Obama a dictator at this point, and from there, all hell would break loose for Americans.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:13"
+    },
+    {
+      "nodeID": "138513",
+      "text": "If Obama gets elected he will walk straight into the worse financial crisis in the states for decades. Within weeks Russia,North Korea and Iran will test his resolve( China will wait to see what he does). This will keep him busy for a while. The last thing that he will want to do will be to address controversial issues like gun control or abortion. This will come in his second term or never!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:13"
+    },
+    {
+      "nodeID": "138514",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:47:13"
+    },
+    {
+      "nodeID": "138515",
+      "text": "You might very well be acurate here, but no one asked for a time frame on a gun ban, only if it could happen. And Obama could very well hire someone right out of the gate to write a gun ban for him to send through a biased congress for approval, and then sign it himself, sending it into law.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:13"
+    },
+    {
+      "nodeID": "138516",
+      "text": "Can you really see that Grizzly? It would literally cause a revolution in certain States. Obama needs everybody on his side in the forseeable future. There wont be any real attempt for at least a generation I think. Not until the American public accepts a much more left wing government than they would today. As long as there is a lot of opposition I cant see it happening.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:13"
+    },
+    {
+      "nodeID": "138517",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:47:13"
+    },
+    {
+      "nodeID": "138518",
+      "text": "All I know is Obama and Biden both have a bad history of voting agains law abiding gun owners, if they are given a gun ban bill to sign, they will almost certainly sign it.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:13"
+    },
+    {
+      "nodeID": "138519",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:47:13"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182360",
+      "fromID": "138513",
+      "toID": "138514",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182361",
+      "fromID": "138514",
+      "toID": "138512",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182362",
+      "fromID": "138516",
+      "toID": "138517",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182363",
+      "fromID": "138517",
+      "toID": "138515",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182364",
+      "fromID": "138518",
+      "toID": "138519",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182365",
+      "fromID": "138519",
+      "toID": "138516",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "158672",
+      "text": "If I bear witness of myself, my witness is not true. - John 5:31 I am one that bear witness of myself... - John 8:18 [Jesus was the speaker in both of these quotes]",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:15"
+    },
+    {
+      "nodeID": "158673",
+      "text": "You forgot to fully quote John 8:18. here is the rest: and the Father that sent Me beareth witness of Me. He isn't bearing witness to Himself here. Two witnesses are, one of which is Himself, which is why He said in John 8:17 It is also written in your law, that the testimony of two men is true. John 5:30-32 is saying this exact same thing.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:15"
+    },
+    {
+      "nodeID": "158674",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:31:15"
+    },
+    {
+      "nodeID": "158675",
+      "text": "A good man leaveth an inheritance to his children's children... - Proverbs 13:22 Sell that ye have and give alms... - Luke 12:33",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:15"
+    },
+    {
+      "nodeID": "158676",
+      "text": "And what is an inheritance? Proverbs 13:13 he who feareth the commandment shall be rewarded. 14 The law of the wise is a fountain of life. 15 Good understanding giveth favor 16 Every prudent man dealeth with knowledge 17 a faithful ambassador is health 18 but he that regardeth reproof shall be honoured. 19 The desire accomplished is sweet to the soul 20 He that walketh with wise men shall be wise 21 but to the righteous good shall be paid. What inheritance should a good man leave to his children's children? Solomon wasn't talking of money, but of God's law. In Solomon's view, the wicked can have their money, the true reward goes to the righteous. Why this should contrast with selling your luxuries and giving to the poor I'm not sure.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:15"
+    },
+    {
+      "nodeID": "158677",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:31:15"
+    },
+    {
+      "nodeID": "158678",
+      "text": "*walks in* *looks at posters* *notes no fundies have spoken out yet* Well, it's OBVIOUS that you don't have a discerning spirit and are thinking with your carnal mind. If you'd only have accepted the truth of the undying and never changing word of God, then you'd understand. You just gottsta believe first. It's as simple as that. But, no, you go right on hating God and you'll soon see where that will get you. BURNING IN HELL!!! Hahahah, FOOL! You are soo going to roast. In pain. FOR EVER! But, that's not my words. That's Gods! Me? I love you. I love you long time. Like forever even. If only you'd accept Jesus into your heart. Cause if you did. You'd see no contradictions in what you posted. Seriously... Drink the flavoraid. emoticon_xbouncer edit: Capitalize, size increase, italicize and underline various parts of my post. Color them some and insert random, out of contest bible passages to support my claims.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:15"
+    },
+    {
+      "nodeID": "158679",
+      "text": "I think it's manifestly obvious that I'm a prophet. Therefore, the question of my diety should also be of little surprise.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:15"
+    },
+    {
+      "nodeID": "158680",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:31:15"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196624",
+      "fromID": "158673",
+      "toID": "158674",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196625",
+      "fromID": "158674",
+      "toID": "158672",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196626",
+      "fromID": "158676",
+      "toID": "158677",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196627",
+      "fromID": "158677",
+      "toID": "158675",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196628",
+      "fromID": "158679",
+      "toID": "158680",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196629",
+      "fromID": "158680",
+      "toID": "158678",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

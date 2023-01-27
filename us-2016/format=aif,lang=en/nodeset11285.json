@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "nodeID": "212080",
+      "text": "keatonbug : They practically ask thr other canadites \"So how shitty is Trump",
+      "type": "L",
+      "timestamp": "2016-10-31 17:14:13"
+    },
+    {
+      "nodeID": "212082",
+      "text": "They practically ask thr other canadites so how shitty is TRUMP",
+      "type": "I",
+      "timestamp": "2016-10-31 17:14:13"
+    },
+    {
+      "nodeID": "252122",
+      "text": "KELLY : a story appeared today quoting an anonymous GOP donor who said you called Mr. Trump a clown, a buffoon, something else that cannot be repeated on television",
+      "type": "L",
+      "timestamp": "2016-12-21 17:42:40"
+    },
+    {
+      "nodeID": "264358",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 12:06:35",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264359",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-09 12:06:36",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "264360",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-09 12:06:36",
+      "scheme": "Restating",
+      "schemeID": "101"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "319790",
+      "fromID": "252122",
+      "toID": "264358",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319791",
+      "fromID": "264358",
+      "toID": "212080",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319792",
+      "fromID": "212082",
+      "toID": "264359",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319793",
+      "fromID": "264359",
+      "toID": "252122",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319794",
+      "fromID": "264358",
+      "toID": "264360",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319795",
+      "fromID": "264360",
+      "toID": "264359",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

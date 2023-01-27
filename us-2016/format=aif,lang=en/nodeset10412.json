@@ -1,0 +1,722 @@
+{
+  "nodes": [
+    {
+      "nodeID": "212286",
+      "text": "TRUMP : Chris can tell you",
+      "type": "L",
+      "timestamp": "2016-10-31 17:16:13"
+    },
+    {
+      "nodeID": "212287",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:16:13",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "212288",
+      "text": "CHRISTIE can tell you",
+      "type": "I",
+      "timestamp": "2016-10-31 17:16:13"
+    },
+    {
+      "nodeID": "212289",
+      "text": "Rory: TRUMP : Chris can tell you",
+      "type": "L",
+      "timestamp": "2016-10-31 17:16:13"
+    },
+    {
+      "nodeID": "212290",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:16:14",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "212291",
+      "text": "TheCavis : TRUMP : Chris can tell you",
+      "type": "L",
+      "timestamp": "2016-10-31 17:16:14"
+    },
+    {
+      "nodeID": "212292",
+      "text": "Rory: TheCavis : TRUMP : Chris can tell you",
+      "type": "L",
+      "timestamp": "2016-10-31 17:16:14"
+    },
+    {
+      "nodeID": "212293",
+      "text": "TheCavis : Jesus, I'm actually starting to like Trump",
+      "type": "L",
+      "timestamp": "2016-10-31 17:16:14"
+    },
+    {
+      "nodeID": "212294",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:16:14",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "212295",
+      "text": "Jesus, I'm actually starting to like Trump",
+      "type": "I",
+      "timestamp": "2016-10-31 17:16:14"
+    },
+    {
+      "nodeID": "212296",
+      "text": "Rory: TheCavis : Jesus, I'm actually starting to like Trump",
+      "type": "L",
+      "timestamp": "2016-10-31 17:16:14"
+    },
+    {
+      "nodeID": "212297",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:16:14",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "212298",
+      "text": "TheCavis : He's terrifying as a potential President, but fantastic as entertainment",
+      "type": "L",
+      "timestamp": "2016-10-31 17:16:14"
+    },
+    {
+      "nodeID": "212299",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:16:14",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "212300",
+      "text": "TRUMP's terrifying as a potential President, but fantastic as entertainment",
+      "type": "I",
+      "timestamp": "2016-10-31 17:16:14"
+    },
+    {
+      "nodeID": "212301",
+      "text": "Rory: TheCavis : He's terrifying as a potential President, but fantastic as entertainment",
+      "type": "L",
+      "timestamp": "2016-10-31 17:16:15"
+    },
+    {
+      "nodeID": "212302",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:16:15",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "212303",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 17:16:15",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "212304",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:16:15",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "212305",
+      "text": "SixBiscuit : Trump is really good at the theatrics of politics",
+      "type": "L",
+      "timestamp": "2016-10-31 17:16:15"
+    },
+    {
+      "nodeID": "212306",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:16:15",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "212307",
+      "text": "Trump is really good at the theatrics of politics",
+      "type": "I",
+      "timestamp": "2016-10-31 17:16:15"
+    },
+    {
+      "nodeID": "212308",
+      "text": "Rory: SixBiscuit : Trump is really good at the theatrics of politics",
+      "type": "L",
+      "timestamp": "2016-10-31 17:16:15"
+    },
+    {
+      "nodeID": "212309",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:16:15",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "212310",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 17:16:15",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "212311",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:16:16",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "212312",
+      "text": "SixBiscuit : at this point 90% of our politics is theatre",
+      "type": "L",
+      "timestamp": "2016-10-31 17:16:16"
+    },
+    {
+      "nodeID": "212313",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:16:16",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "212314",
+      "text": "at this point 90% of our politics is theatre",
+      "type": "I",
+      "timestamp": "2016-10-31 17:16:16"
+    },
+    {
+      "nodeID": "212315",
+      "text": "Rory: SixBiscuit : at this point 90% of our politics is theatre",
+      "type": "L",
+      "timestamp": "2016-10-31 17:16:16"
+    },
+    {
+      "nodeID": "212316",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:16:16",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "212317",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 17:16:16",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "212318",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:16:16",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "212319",
+      "text": "Webonics : I like how he stared at the camera in exactly the same way he stared at the apprentices on The Apprentice",
+      "type": "L",
+      "timestamp": "2016-10-31 17:16:16"
+    },
+    {
+      "nodeID": "212320",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:16:16",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "212321",
+      "text": "I like how TRUMP stared at the camera in exactly the same way TRUMP stared at the apprentices on The Apprentice",
+      "type": "I",
+      "timestamp": "2016-10-31 17:16:16"
+    },
+    {
+      "nodeID": "212322",
+      "text": "Rory: Webonics : I like how he stared at the camera in exactly the same way he stared at the apprentices on The Apprentice",
+      "type": "L",
+      "timestamp": "2016-10-31 17:16:17"
+    },
+    {
+      "nodeID": "212323",
+      "text": "Webonics : I was like Awwww shit he's judging me! Donal Trump is judging me yall! DON'T FIRE AMERICA TRUMP",
+      "type": "L",
+      "timestamp": "2016-10-31 17:16:17"
+    },
+    {
+      "nodeID": "212324",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:16:17",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "212325",
+      "text": "I was like Awwww shit TRUMP's judging me! Donal Trump is judging me yall! DON'T FIRE AMERICA TRUMP",
+      "type": "I",
+      "timestamp": "2016-10-31 17:16:17"
+    },
+    {
+      "nodeID": "212326",
+      "text": "Rory: Webonics : I was like Awwww shit he's judging me! Donal Trump is judging me yall! DON'T FIRE AMERICA TRUMP",
+      "type": "L",
+      "timestamp": "2016-10-31 17:16:17"
+    },
+    {
+      "nodeID": "212327",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:16:17",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "212328",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:16:17",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "212329",
+      "text": "AndrewAbbot : We get the government we deserve",
+      "type": "L",
+      "timestamp": "2016-10-31 17:16:17"
+    },
+    {
+      "nodeID": "212330",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:16:17",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "212331",
+      "text": "We get the government we deserve",
+      "type": "I",
+      "timestamp": "2016-10-31 17:16:17"
+    },
+    {
+      "nodeID": "212332",
+      "text": "Rory: AndrewAbbot : We get the government we deserve",
+      "type": "L",
+      "timestamp": "2016-10-31 17:16:18"
+    },
+    {
+      "nodeID": "212333",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:16:18",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "212334",
+      "text": "toybrandon : I guess no one caught the True Detective reference",
+      "type": "L",
+      "timestamp": "2016-10-31 17:16:18"
+    },
+    {
+      "nodeID": "212335",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:16:18",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "212336",
+      "text": "I guess no one caught the True Detective reference",
+      "type": "I",
+      "timestamp": "2016-10-31 17:16:18"
+    },
+    {
+      "nodeID": "212337",
+      "text": "Rory: toybrandon : I guess no one caught the True Detective reference",
+      "type": "L",
+      "timestamp": "2016-10-31 17:16:18"
+    },
+    {
+      "nodeID": "212338",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:16:18",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "212339",
+      "text": "R3TRI8UTI0N : I concur",
+      "type": "L",
+      "timestamp": "2016-10-31 17:16:18"
+    },
+    {
+      "nodeID": "212340",
+      "text": "Rory: R3TRI8UTI0N : I concur",
+      "type": "L",
+      "timestamp": "2016-10-31 17:16:18"
+    },
+    {
+      "nodeID": "212341",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:16:18",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "212342",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:16:18",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "258827",
+      "fromID": "212287",
+      "toID": "212288",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258828",
+      "fromID": "212286",
+      "toID": "212287",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258829",
+      "fromID": "212290",
+      "toID": "212286",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258830",
+      "fromID": "212291",
+      "toID": "212290",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258831",
+      "fromID": "212294",
+      "toID": "212295",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258832",
+      "fromID": "212293",
+      "toID": "212294",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258833",
+      "fromID": "212291",
+      "toID": "212297",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258834",
+      "fromID": "212297",
+      "toID": "212293",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258835",
+      "fromID": "212299",
+      "toID": "212300",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258836",
+      "fromID": "212298",
+      "toID": "212299",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258837",
+      "fromID": "212293",
+      "toID": "212302",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258838",
+      "fromID": "212302",
+      "toID": "212298",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258839",
+      "fromID": "212300",
+      "toID": "212303",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258840",
+      "fromID": "212303",
+      "toID": "212295",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258841",
+      "fromID": "212302",
+      "toID": "212304",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258842",
+      "fromID": "212304",
+      "toID": "212303",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258843",
+      "fromID": "212306",
+      "toID": "212307",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258844",
+      "fromID": "212305",
+      "toID": "212306",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258845",
+      "fromID": "212298",
+      "toID": "212309",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258846",
+      "fromID": "212309",
+      "toID": "212305",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258847",
+      "fromID": "212307",
+      "toID": "212310",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258848",
+      "fromID": "212310",
+      "toID": "212300",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258849",
+      "fromID": "212309",
+      "toID": "212311",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258850",
+      "fromID": "212311",
+      "toID": "212310",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258851",
+      "fromID": "212313",
+      "toID": "212314",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258852",
+      "fromID": "212312",
+      "toID": "212313",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258853",
+      "fromID": "212305",
+      "toID": "212316",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258854",
+      "fromID": "212316",
+      "toID": "212312",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258855",
+      "fromID": "212314",
+      "toID": "212317",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258856",
+      "fromID": "212317",
+      "toID": "212307",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258857",
+      "fromID": "212316",
+      "toID": "212318",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258858",
+      "fromID": "212318",
+      "toID": "212317",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258859",
+      "fromID": "212320",
+      "toID": "212321",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258860",
+      "fromID": "212319",
+      "toID": "212320",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258861",
+      "fromID": "212324",
+      "toID": "212325",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258862",
+      "fromID": "212323",
+      "toID": "212324",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258863",
+      "fromID": "212305",
+      "toID": "212327",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258864",
+      "fromID": "212327",
+      "toID": "212319",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258865",
+      "fromID": "212319",
+      "toID": "212328",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258866",
+      "fromID": "212328",
+      "toID": "212323",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258867",
+      "fromID": "212330",
+      "toID": "212331",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258868",
+      "fromID": "212329",
+      "toID": "212330",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258869",
+      "fromID": "212305",
+      "toID": "212333",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258870",
+      "fromID": "212333",
+      "toID": "212329",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258871",
+      "fromID": "212335",
+      "toID": "212336",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258872",
+      "fromID": "212334",
+      "toID": "212335",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258873",
+      "fromID": "212329",
+      "toID": "212338",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258874",
+      "fromID": "212338",
+      "toID": "212334",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258875",
+      "fromID": "212298",
+      "toID": "212341",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258876",
+      "fromID": "212341",
+      "toID": "212339",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258877",
+      "fromID": "212341",
+      "toID": "212342",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258878",
+      "fromID": "212342",
+      "toID": "212300",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "212291",
+      "personID": "2709",
+      "timestamp": "2016-10-31 17:16:21",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

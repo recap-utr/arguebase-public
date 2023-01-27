@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "154357",
+      "text": "I still do not understand what these people are demonstrating for or against. Are they demonstarting for being dropped in the middle of cancer treatement? Are they demonstrating for being denied coverage due to pre-existing condition? Are they demonstrating for increasing healthcare costs? Are they demonstrating for keeping 50 million people uninsured?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:27"
+    },
+    {
+      "nodeID": "154358",
+      "text": "I know what you mean. I also wonder how they think their children or grandchildren will be paying for their medical bills. Note, by way of comparison, this Pittsburgh local t.v. clip of the September 20th March for Jobs (part of Healthcare Justice Week, this week). See how clearly and intelligently the protesters articulate their objectives, and without the disgraceful display of blind malice we have otherwise witnessed from the teabaggers: http://www.youtube.com/watch?v=MkUxvX5JNJg",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:27"
+    },
+    {
+      "nodeID": "154359",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:21:27"
+    },
+    {
+      "nodeID": "154360",
+      "text": "Also as has been repeated umpteen times all the countries with universal healthcare have much lower cost per capita.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:27"
+    },
+    {
+      "nodeID": "154361",
+      "text": "And many of those countries are having problems with it. Furthermore, we aren't even proposing what other countries have.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:27"
+    },
+    {
+      "nodeID": "154362",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:21:27"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193558",
+      "fromID": "154358",
+      "toID": "154359",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193559",
+      "fromID": "154359",
+      "toID": "154357",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193560",
+      "fromID": "154361",
+      "toID": "154362",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193561",
+      "fromID": "154362",
+      "toID": "154360",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,181 @@
+{
+  "nodes": [
+    {
+      "nodeID": "79417",
+      "text": "Well said.",
+      "type": "I",
+      "timestamp": "2015-08-03 02:37:08"
+    },
+    {
+      "nodeID": "145900",
+      "text": "So you're posting in an effort to bait specific people? You can try putting their name in the subject, addressing them specifically, or emailing them.  It may also help if you declare it rather than ask a question. If you ask a question and get an answer, then remark 'duh', it doesn't ... cast a good light on the writer.  -Mach",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:08"
+    },
+    {
+      "nodeID": "145901",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:03:09"
+    },
+    {
+      "nodeID": "145902",
+      "text": "The question has been asked point blank several times. It's been ignored everytime. This is a more public way of discussing it. If they fail to post, it more or less means they are not willing to argue it. If they post, then they open themselves up.  Everytime Marc and SS come to this forum they will see this thread waiting for them.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:09"
+    },
+    {
+      "nodeID": "145903",
+      "text": "You could put it in the form of a resolution, in the debate challanges forum.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:09"
+    },
+    {
+      "nodeID": "145904",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:03:09"
+    },
+    {
+      "nodeID": "145905",
+      "text": "So you refuse to engage in an informal debate on the topic, but you all of a sudden are itchin' for a formal debate? How about you make the challenge?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:09"
+    },
+    {
+      "nodeID": "145906",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:03:09"
+    },
+    {
+      "nodeID": "145907",
+      "text": "simple....many Christians have been deceived",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:09"
+    },
+    {
+      "nodeID": "145908",
+      "text": "So now you're lying?  Whether or not the christians have been 'mislead' (which again is dubious given your astronomical arrogance), it doesn't change the fact that christians accept evolution, which runs very contrary to both you and Marc's asinine assertions that evolution is atheistic. So you readily admit that since non-christians who believe in a diety or dieties accept evolution, that evolution is therefore not atheistic?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:09"
+    },
+    {
+      "nodeID": "145909",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:03:09"
+    },
+    {
+      "nodeID": "145910",
+      "text": "simple....many Christians have been deceived....just like Adam and Eve were deceived in the Bible.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:09"
+    },
+    {
+      "nodeID": "145911",
+      "text": "So, because they don't interpret the bible as you do, they believe that there are no deities? That is what you said...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:09"
+    },
+    {
+      "nodeID": "145912",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:03:09"
+    },
+    {
+      "nodeID": "145913",
+      "text": "This, of course, blows away Hi_Its_Me's attempts to make evolution atheistic.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:09"
+    },
+    {
+      "nodeID": "145914",
+      "text": "You mean marc's? I never tried to do that.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:09"
+    },
+    {
+      "nodeID": "145915",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:03:09"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187594",
+      "fromID": "79417",
+      "toID": "145901",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187595",
+      "fromID": "145901",
+      "toID": "145900",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187596",
+      "fromID": "145903",
+      "toID": "145904",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187597",
+      "fromID": "145904",
+      "toID": "145902",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187598",
+      "fromID": "145905",
+      "toID": "145906",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187599",
+      "fromID": "145906",
+      "toID": "79417",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187600",
+      "fromID": "145908",
+      "toID": "145909",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187601",
+      "fromID": "145909",
+      "toID": "145907",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187602",
+      "fromID": "145911",
+      "toID": "145912",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187603",
+      "fromID": "145912",
+      "toID": "145910",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187604",
+      "fromID": "145914",
+      "toID": "145915",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187605",
+      "fromID": "145915",
+      "toID": "145913",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

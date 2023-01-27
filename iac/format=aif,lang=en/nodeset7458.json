@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "142629",
+      "text": "The only alternative to accidental, random assembly would be some form of intelligent, purposeful organization.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:20"
+    },
+    {
+      "nodeID": "142630",
+      "text": "And thats factually (and logically incorrect). There are many alternatives virtually an infinitude of them in fact.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:20"
+    },
+    {
+      "nodeID": "142631",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:56:20"
+    },
+    {
+      "nodeID": "142632",
+      "text": "Whether the intelligence responsible for the organization of living systems is a force of nature or whether it is directed by some god -- either way, life is intelligently designed.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:20"
+    },
+    {
+      "nodeID": "142633",
+      "text": "And thats a point of view which has no evidence to support it.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:20"
+    },
+    {
+      "nodeID": "142634",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:56:20"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185290",
+      "fromID": "142630",
+      "toID": "142631",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185291",
+      "fromID": "142631",
+      "toID": "142629",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185292",
+      "fromID": "142633",
+      "toID": "142634",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185293",
+      "fromID": "142634",
+      "toID": "142632",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

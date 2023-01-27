@@ -1,0 +1,785 @@
+{
+  "nodes": [
+    {
+      "nodeID": "253196",
+      "text": "CARSON : I haven't said anything about me being the only one to do anything",
+      "type": "L",
+      "timestamp": "2016-12-21 17:50:45"
+    },
+    {
+      "nodeID": "253197",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:50:45",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253198",
+      "text": "CARSON hasn't said anything about himself being the only one to do anything",
+      "type": "I",
+      "timestamp": "2016-12-21 17:50:45"
+    },
+    {
+      "nodeID": "253199",
+      "text": "M: CARSON : I haven't said anything about me being the only one to do anything",
+      "type": "L",
+      "timestamp": "2016-12-21 17:50:45"
+    },
+    {
+      "nodeID": "253200",
+      "text": "CARSON : let me try that",
+      "type": "L",
+      "timestamp": "2016-12-21 17:50:45"
+    },
+    {
+      "nodeID": "253201",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:50:46",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253202",
+      "text": "CARSON will try to say something about himself being the only one to do anything",
+      "type": "I",
+      "timestamp": "2016-12-21 17:50:46"
+    },
+    {
+      "nodeID": "253203",
+      "text": "M: CARSON : let me try that",
+      "type": "L",
+      "timestamp": "2016-12-21 17:50:46"
+    },
+    {
+      "nodeID": "253204",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:50:46",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253205",
+      "text": "CARSON : I'm the only one to separate Siamese twins",
+      "type": "L",
+      "timestamp": "2016-12-21 17:50:46"
+    },
+    {
+      "nodeID": "253206",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:50:47",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253207",
+      "text": "CARSON is the only one to separate Siamese twins",
+      "type": "I",
+      "timestamp": "2016-12-21 17:50:47"
+    },
+    {
+      "nodeID": "253208",
+      "text": "M: CARSON : I'm the only one to separate Siamese twins",
+      "type": "L",
+      "timestamp": "2016-12-21 17:50:47"
+    },
+    {
+      "nodeID": "253209",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:50:47",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "253210",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:50:47",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "253211",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:50:47",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253212",
+      "text": "CARSON : the only one to operate on babies while they were still in mother's womb",
+      "type": "L",
+      "timestamp": "2016-12-21 17:50:48"
+    },
+    {
+      "nodeID": "253213",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:50:48",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253214",
+      "text": "CARSON is the only one to operate on babies while they were still in mother's womb",
+      "type": "I",
+      "timestamp": "2016-12-21 17:50:48"
+    },
+    {
+      "nodeID": "253215",
+      "text": "M: CARSON : the only one to operate on babies while they were still in mother's womb",
+      "type": "L",
+      "timestamp": "2016-12-21 17:50:48"
+    },
+    {
+      "nodeID": "253216",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:50:48",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253217",
+      "text": "CARSON : the only one to take out half of a brain",
+      "type": "L",
+      "timestamp": "2016-12-21 17:50:48"
+    },
+    {
+      "nodeID": "253218",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:50:48",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253219",
+      "text": "CARSON is the only one to take out half of a brain",
+      "type": "I",
+      "timestamp": "2016-12-21 17:50:48"
+    },
+    {
+      "nodeID": "253220",
+      "text": "M: CARSON : the only one to take out half of a brain",
+      "type": "L",
+      "timestamp": "2016-12-21 17:50:48"
+    },
+    {
+      "nodeID": "253221",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:50:49",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253222",
+      "text": "CARSON : although you would think, if you go to Washington, that someone had beat me to it",
+      "type": "L",
+      "timestamp": "2016-12-21 17:50:49"
+    },
+    {
+      "nodeID": "253223",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:50:49",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253224",
+      "text": "although one would think, if one goes to Washington, that someone had beat CARSON to it",
+      "type": "I",
+      "timestamp": "2016-12-21 17:50:49"
+    },
+    {
+      "nodeID": "253225",
+      "text": "M: CARSON : although you would think, if you go to Washington, that someone had beat me to it",
+      "type": "L",
+      "timestamp": "2016-12-21 17:50:49"
+    },
+    {
+      "nodeID": "253226",
+      "text": "CARSON : I'm very hopeful that I'm not the only one who's willing to pick up the baton of freedom",
+      "type": "L",
+      "timestamp": "2016-12-21 17:50:49"
+    },
+    {
+      "nodeID": "253227",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:50:49",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253228",
+      "text": "CARSON is very hopeful that he's not the only one who's willing to pick up the baton of freedom",
+      "type": "I",
+      "timestamp": "2016-12-21 17:50:49"
+    },
+    {
+      "nodeID": "253229",
+      "text": "M: CARSON : I'm very hopeful that I'm not the only one who's willing to pick up the baton of freedom",
+      "type": "L",
+      "timestamp": "2016-12-21 17:50:50"
+    },
+    {
+      "nodeID": "253230",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:50:50",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253231",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:50:50",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253232",
+      "text": "CARSON : freedom is not free",
+      "type": "L",
+      "timestamp": "2016-12-21 17:50:50"
+    },
+    {
+      "nodeID": "253233",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:50:50",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253234",
+      "text": "freedom is not free",
+      "type": "I",
+      "timestamp": "2016-12-21 17:50:50"
+    },
+    {
+      "nodeID": "253235",
+      "text": "M: CARSON : freedom is not free",
+      "type": "L",
+      "timestamp": "2016-12-21 17:50:50"
+    },
+    {
+      "nodeID": "253236",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:50:50",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "253237",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:50:50",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253238",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:50:51",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "253239",
+      "text": "CARSON : we must fight for it every day",
+      "type": "L",
+      "timestamp": "2016-12-21 17:50:51"
+    },
+    {
+      "nodeID": "253240",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:50:51",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253241",
+      "text": "we must fight for freedom every day",
+      "type": "I",
+      "timestamp": "2016-12-21 17:50:51"
+    },
+    {
+      "nodeID": "253242",
+      "text": "M: CARSON : we must fight for it every day",
+      "type": "L",
+      "timestamp": "2016-12-21 17:50:51"
+    },
+    {
+      "nodeID": "253243",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:50:51",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253244",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:50:51",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "253245",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:50:51",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "253246",
+      "text": "CARSON : Every one of us must fight for it",
+      "type": "L",
+      "timestamp": "2016-12-21 17:50:51"
+    },
+    {
+      "nodeID": "253247",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:50:52",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253248",
+      "text": "every one of us must fight for freedom",
+      "type": "I",
+      "timestamp": "2016-12-21 17:50:52"
+    },
+    {
+      "nodeID": "253249",
+      "text": "M: CARSON : Every one of us must fight for it",
+      "type": "L",
+      "timestamp": "2016-12-21 17:50:52"
+    },
+    {
+      "nodeID": "253250",
+      "text": "CARSON : we're fighting for our children and the next generation",
+      "type": "L",
+      "timestamp": "2016-12-21 17:50:52"
+    },
+    {
+      "nodeID": "253251",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:50:52",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253252",
+      "text": "we're fighting for our children and the next generation",
+      "type": "I",
+      "timestamp": "2016-12-21 17:50:52"
+    },
+    {
+      "nodeID": "253253",
+      "text": "M: CARSON : we're fighting for our children and the next generation",
+      "type": "L",
+      "timestamp": "2016-12-21 17:50:52"
+    },
+    {
+      "nodeID": "253254",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:50:52",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "253255",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:50:53",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253256",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:50:53",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "253257",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:50:53",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "304603",
+      "fromID": "253197",
+      "toID": "253198",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304604",
+      "fromID": "253196",
+      "toID": "253197",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304605",
+      "fromID": "253201",
+      "toID": "253202",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304606",
+      "fromID": "253200",
+      "toID": "253201",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304607",
+      "fromID": "253196",
+      "toID": "253204",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304608",
+      "fromID": "253204",
+      "toID": "253200",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304609",
+      "fromID": "253206",
+      "toID": "253207",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304610",
+      "fromID": "253205",
+      "toID": "253206",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304611",
+      "fromID": "253198",
+      "toID": "253209",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304612",
+      "fromID": "253209",
+      "toID": "253202",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304613",
+      "fromID": "253204",
+      "toID": "253210",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304614",
+      "fromID": "253210",
+      "toID": "253209",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304615",
+      "fromID": "253200",
+      "toID": "253211",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304616",
+      "fromID": "253211",
+      "toID": "253205",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304617",
+      "fromID": "253213",
+      "toID": "253214",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304618",
+      "fromID": "253212",
+      "toID": "253213",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304619",
+      "fromID": "253205",
+      "toID": "253216",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304620",
+      "fromID": "253216",
+      "toID": "253212",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304621",
+      "fromID": "253218",
+      "toID": "253219",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304622",
+      "fromID": "253217",
+      "toID": "253218",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304623",
+      "fromID": "253212",
+      "toID": "253221",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304624",
+      "fromID": "253221",
+      "toID": "253217",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304625",
+      "fromID": "253223",
+      "toID": "253224",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304626",
+      "fromID": "253222",
+      "toID": "253223",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304627",
+      "fromID": "253227",
+      "toID": "253228",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304628",
+      "fromID": "253226",
+      "toID": "253227",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304629",
+      "fromID": "253217",
+      "toID": "253230",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304630",
+      "fromID": "253230",
+      "toID": "253222",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304631",
+      "fromID": "253222",
+      "toID": "253231",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304632",
+      "fromID": "253231",
+      "toID": "253226",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304633",
+      "fromID": "253233",
+      "toID": "253234",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304634",
+      "fromID": "253232",
+      "toID": "253233",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304635",
+      "fromID": "253234",
+      "toID": "253236",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304636",
+      "fromID": "253236",
+      "toID": "253228",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304637",
+      "fromID": "253226",
+      "toID": "253237",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304638",
+      "fromID": "253237",
+      "toID": "253232",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304639",
+      "fromID": "253237",
+      "toID": "253238",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304640",
+      "fromID": "253238",
+      "toID": "253236",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304641",
+      "fromID": "253240",
+      "toID": "253241",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304642",
+      "fromID": "253239",
+      "toID": "253240",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304643",
+      "fromID": "253232",
+      "toID": "253243",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304644",
+      "fromID": "253243",
+      "toID": "253239",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304645",
+      "fromID": "253234",
+      "toID": "253244",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304646",
+      "fromID": "253244",
+      "toID": "253241",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304647",
+      "fromID": "253243",
+      "toID": "253245",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304648",
+      "fromID": "253245",
+      "toID": "253244",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304649",
+      "fromID": "253247",
+      "toID": "253248",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304650",
+      "fromID": "253246",
+      "toID": "253247",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304651",
+      "fromID": "253251",
+      "toID": "253252",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304652",
+      "fromID": "253250",
+      "toID": "253251",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304653",
+      "fromID": "253252",
+      "toID": "253254",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304654",
+      "fromID": "253254",
+      "toID": "253248",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304655",
+      "fromID": "253246",
+      "toID": "253255",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304656",
+      "fromID": "253255",
+      "toID": "253250",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304657",
+      "fromID": "253255",
+      "toID": "253256",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304658",
+      "fromID": "253256",
+      "toID": "253254",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304659",
+      "fromID": "253239",
+      "toID": "253257",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304660",
+      "fromID": "253257",
+      "toID": "253246",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

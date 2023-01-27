@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "196248",
+      "text": "MutthaFuzza : when asked about it he took blame",
+      "type": "L",
+      "timestamp": "2016-08-24 13:00:01"
+    },
+    {
+      "nodeID": "196250",
+      "text": "when asked about it O'Malley took blame",
+      "type": "I",
+      "timestamp": "2016-08-24 13:00:02"
+    },
+    {
+      "nodeID": "248342",
+      "text": "O'MALLEY : One of the things that was not reported during that heartbreaking night of unrest in Baltimore was that arrests had actually fallen to a 38-year low in the year prior to the Freddie Gray's tragic death",
+      "type": "L",
+      "timestamp": "2016-12-21 14:35:24"
+    },
+    {
+      "nodeID": "248344",
+      "text": "one of the things that was not reported during that heartbreaking night of unrest in Baltimore was that arrests had actually fallen to a 38-year low in the year prior to the Freddie Gray's tragic death",
+      "type": "I",
+      "timestamp": "2016-12-21 14:35:25"
+    },
+    {
+      "nodeID": "262448",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-03 17:41:16",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "262449",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-03 17:41:17",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "262450",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-03 17:41:17",
+      "scheme": "Restating",
+      "schemeID": "101"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "316564",
+      "fromID": "248342",
+      "toID": "262448",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316565",
+      "fromID": "262448",
+      "toID": "196248",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316566",
+      "fromID": "196250",
+      "toID": "262449",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316567",
+      "fromID": "262449",
+      "toID": "248344",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316568",
+      "fromID": "262448",
+      "toID": "262450",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316569",
+      "fromID": "262450",
+      "toID": "262449",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

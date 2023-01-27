@@ -1,0 +1,100 @@
+{
+  "nodes": [
+    {
+      "nodeID": "190493",
+      "text": "Cooper: How will you differ from Obama? Hillary: As a woman it's clear. Cooper: Any policy differences? Hillary: Hello, I'm a woman",
+      "type": "I",
+      "timestamp": "2016-08-08 11:32:40"
+    },
+    {
+      "nodeID": "190505",
+      "text": "Zewstain : Cooper: How will you differ from Obama? Hillary: As a woman it's clear. Cooper: Any policy differences? Hillary: Hello, I'm a woman",
+      "type": "L",
+      "timestamp": "2016-08-08 11:43:54"
+    },
+    {
+      "nodeID": "217451",
+      "text": "being the first woman president would be quite a change from the presidents we 've had up until this point, including OBAMA",
+      "type": "I",
+      "timestamp": "2016-11-01 13:49:55"
+    },
+    {
+      "nodeID": "217453",
+      "text": "CLINTON : being the first woman president would be quite a change from the presidents we 've had up until this point , including President Obama",
+      "type": "L",
+      "timestamp": "2016-11-01 13:49:55"
+    },
+    {
+      "nodeID": "262385",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-03 16:54:20",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "262386",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-03 16:54:21",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "262387",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-03 16:54:21",
+      "scheme": "Restating",
+      "schemeID": "101"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "316438",
+      "fromID": "217453",
+      "toID": "262385",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316439",
+      "fromID": "262385",
+      "toID": "190505",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316440",
+      "fromID": "190493",
+      "toID": "262386",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316441",
+      "fromID": "262386",
+      "toID": "217451",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316442",
+      "fromID": "262385",
+      "toID": "262387",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316443",
+      "fromID": "262387",
+      "toID": "262386",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "217453",
+      "personID": "1850",
+      "timestamp": "2016-11-01 13:50:20",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

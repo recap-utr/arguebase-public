@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143384",
+      "text": "In my humble opinion.....because there are none! You could do a much more compelling speech as to why not have guns...especially if small children are invovled...especially when guns are so incredibly easy to get.....ask your local postman!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:55"
+    },
+    {
+      "nodeID": "143385",
+      "text": "Well such a compelling speech ( cough cough ) but this whole small children being involed is irrellivent, since it is the parents moral responsibility to 'lock all guns and ammo in sperate safes or cabinats' qouting the gun and hunter safety quizes. That and I would also like to make a clear statement on my childhood, I have been around guns well since I was born... Yet I don't have an extra breathing hole in my head either, so it aint the guns its the parents who don't teach there kids proper gun safety and to NEVER PLAY WITH GUNS! qouting the NRA saftey tips.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:55"
+    },
+    {
+      "nodeID": "143386",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:57:55"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185828",
+      "fromID": "143385",
+      "toID": "143386",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185829",
+      "fromID": "143386",
+      "toID": "143384",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

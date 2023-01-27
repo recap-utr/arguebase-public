@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "154977",
+      "text": "They do provide many more services than providing abortions :P",
+      "type": "I",
+      "timestamp": "2016-03-08 20:22:49"
+    },
+    {
+      "nodeID": "154978",
+      "text": "Yet according to PP themselves, they provide FAR more abortions and EC services than any of their other services. :P PPFA Services (2002-2003) Surgical abortions: 227,385 Emergency contraception: 633,756 Prenatal care: 15,860 Adoption referrals: 1,963 (Source: www.plannedparenthood.org)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:22:49"
+    },
+    {
+      "nodeID": "154979",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:22:50"
+    },
+    {
+      "nodeID": "154980",
+      "text": "You left out a couple of things, though, which makes your post less reliable. But so nobody gets confused or deceived, here is more accurate statistics: http://www.plannedparenthood.org/library/BIRTHCONTROL/2002Services.html ---- Service No. of Procedures Referrals Reversible Contraceptive Clients - Women 2,208,483 Emergency Contraception Clients 633,756 Tubal Sterilization Clients 680 Reversible Contraceptive Clients - Men 60,476 Vasectomy Clients 2,522 Abortion Procedures 227,375 HIV Testing Clients - Women 126,477 HIV Testing Clients - Men 48,991 Prenatal Clients 15,860 Infertility Clients 325 Colposcopy Procedures 31,248 Cryotherapy Procedures 3,913 LOOP/LEEP Procedures 1,781 Midlife Clients 10,575 Pregnancy Tests 1,081,772 Breast Exams/Breast Care 1,062,727 Adoption (Referred Out) 1,963 Primary Care Clients 24,483 STI Procedures, Women and Men 1,255,036 Other Services - Women 58,626 Other Services - Men 17,905 Totals 6,873,011 Total Unduplicated Clients 2,744,554 - In 2002, more than 1,500 affiliate staff and volunteer educators provided nearly 101,000 educational programs to more than 1.4 million people of all ages and in a variety of settings - more than 6,500 training programs were provided by 117 affiliate staff and volunteers to more than 66,000 professionals who work with children, teens, and young adults - In 2002, plannedparenthood.org logged more than 720,000 visits per month and teenwire\u00ae.com received approximately 400,000 visits per month and replied to more than 500 personal inquiries a week. PPFA also produced and distributed more than two million consumer health pamphlets. The Katharine Dexter McCormick Library responded to more than 3,000 research and information requests from researchers, sexual health professionals, and the general public ---- So your claim about their abortions being more in number than their other services, well that just turned out to not be true.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:22:50"
+    },
+    {
+      "nodeID": "154981",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:22:50"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194002",
+      "fromID": "154978",
+      "toID": "154979",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194003",
+      "fromID": "154979",
+      "toID": "154977",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194004",
+      "fromID": "154980",
+      "toID": "154981",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194005",
+      "fromID": "154981",
+      "toID": "154978",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

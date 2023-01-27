@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "144014",
+      "text": "Matthew 5:17 Think not that I am come to destroy the law, or the prophets: I am not come to destroy, but to fulfil.KJV",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:25"
+    },
+    {
+      "nodeID": "144015",
+      "text": "So Joe, do you eat pork? How about shrimp?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:25"
+    },
+    {
+      "nodeID": "144016",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:59:25"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186272",
+      "fromID": "144015",
+      "toID": "144016",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186273",
+      "fromID": "144016",
+      "toID": "144014",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

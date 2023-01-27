@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141761",
+      "text": "Next thing you know, we will be labeled 'domestic terrorists'...heavy sigh emoticon_xdonno",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:31"
+    },
+    {
+      "nodeID": "141762",
+      "text": "I believe Alan Keyes already have used that term on us.  (Alan Keyes, the ultra-concervative Republican Candidate for the Illinois Senate seat - in opposition to Barack Obama. The Maryland resident the Republican party had to recruit because they couldn't find anyone else in their right mind who would go against Barack. Also the very same Maryland resident/Television talkshow host who beratted Hilary Clinton for moving to NY and expecting to be able to 'represent' NY'ers. Yeah, look who's the hypocrit now.)",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:31"
+    },
+    {
+      "nodeID": "141763",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:54:31"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184666",
+      "fromID": "141762",
+      "toID": "141763",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184667",
+      "fromID": "141763",
+      "toID": "141761",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

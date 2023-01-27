@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "136997",
+      "text": "#NAME?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:14"
+    },
+    {
+      "nodeID": "161774",
+      "text": "My side of the debate is that a chicken is a bird but sometimes you have to break a few eggs to make an omelette!! ASL!?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:19"
+    },
+    {
+      "nodeID": "161775",
+      "text": "and thats just kiddish!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:19"
+    },
+    {
+      "nodeID": "161776",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:19"
+    },
+    {
+      "nodeID": "161777",
+      "text": "But on the other hand, you are willing to violate a person's right to privacy (medical records) in order to limit their access to firearms. Which right is more important? - Your right to privacy or your right to own a machine gun?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:19"
+    },
+    {
+      "nodeID": "161778",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:19"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198846",
+      "fromID": "161775",
+      "toID": "161776",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198847",
+      "fromID": "161776",
+      "toID": "161774",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198848",
+      "fromID": "161777",
+      "toID": "161778",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198849",
+      "fromID": "161778",
+      "toID": "136997",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

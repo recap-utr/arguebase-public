@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157779",
+      "text": "Does Bob have the right to detach himself from Tom ?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:09"
+    },
+    {
+      "nodeID": "157780",
+      "text": "I think the real question is not detaching but killing. You don't detach a fetus during an abortion..you just kill the fetus (or embryo) and suck it out. I am not sure Tom is for any of that. But if Tom would die, then no...Bob has no right to detach...in fact, probably no right even if he wouldn't die.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:09"
+    },
+    {
+      "nodeID": "157781",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:29:09"
+    },
+    {
+      "nodeID": "157782",
+      "text": "3) Pat has a condition called 'chimerism' which is the result of two zygotes becoming fused during development in the womb - somewhat like siamese twins, but the two sets of genetically-distinct cell populations in the body are highly integrated. In Pat's case each zygote was of a different sex and as a result, Pat is not only made-up of two genetically distinct people, but one of them is male and the other female. Pat's brain is composed of the female cell line and decides to undergo medical treatment that would remove the male genitalia from the male person in Pat's body and replace those areas with female physical features. Should the government step-in to prevent this operation in order to protect the male person that is part of, but distict from Pat?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:09"
+    },
+    {
+      "nodeID": "157783",
+      "text": "So Pat is an example of gonadal dysgenesis (or an intersexual.) Are you sure it is correct to describe this condition as being 'made-up of two genetically distinct people'? Is is not the case that Pat is one genetically distinct person made up of two complete chromosome sets?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:09"
+    },
+    {
+      "nodeID": "157784",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:29:09"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195976",
+      "fromID": "157780",
+      "toID": "157781",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195977",
+      "fromID": "157781",
+      "toID": "157779",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195978",
+      "fromID": "157783",
+      "toID": "157784",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195979",
+      "fromID": "157784",
+      "toID": "157782",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

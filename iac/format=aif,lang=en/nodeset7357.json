@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141214",
+      "text": "The symbiotic relationships of animals and plants that can only survive together.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:11"
+    },
+    {
+      "nodeID": "141215",
+      "text": "And this is evidence of creation... how? Please provide an explanation and a reference for how this is evidence of creation. Thank you! :-)",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:11"
+    },
+    {
+      "nodeID": "141216",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:53:11"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184284",
+      "fromID": "141215",
+      "toID": "141216",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184285",
+      "fromID": "141216",
+      "toID": "141214",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

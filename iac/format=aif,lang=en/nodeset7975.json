@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "150865",
+      "text": "The government was right to tighten up the law governing the ownership of firearms after the 1996 Dunblane massacre. But Derrick Bird met the new criteria in the 1997 legislation and duly held licensed weapons. Comments by those who knew him centre around a common theme: it was totally unexpected. That nice, agreeable man simply flipped. But if the post-Dunblane legislation failed to prevent someone like Bird from holding firearms legally, then it is equally clear that it has had no effect on the supply and availability of illegal guns, including automatic rifles and other repeat-action weapons that are used routinely in gang activity in urban areas. Even if, as a result of Cumbria, the government were to make it virtually impossible for farmers and other rural folk to own guns, it would have no impact whatsoever on our efforts to tackle gun crime in urban areas. We would succeed in widening the divide between the two societies, but we would fail in keeping more of our young people alive. And we would only lend credence to those who suggest that the gang members who make guns their weapon of choice are simply congenitally prone to commit violent crime. The real killers in our society are those dealers in death who put illegal firearms in the hands of our young people.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:31"
+    },
+    {
+      "nodeID": "150866",
+      "text": "So those who will allow more gun control, shouldn't you first have to justify the need, then prove that what you want and propose, will work as advertised before we allow you to burden our Inalienable Right as protected by the various Constitutions?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:31"
+    },
+    {
+      "nodeID": "150867",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:13:31"
+    },
+    {
+      "nodeID": "150868",
+      "text": "Sawn-off shotguns are still the weapon of choice for the more serious armed criminal and can now be bought illegally for between \u00a350 and \u00a3200, according to Home Office research. A purpose-built 9mm handgun, which is easier to conceal than a shotgun, is available for \u00a31,000-\u00a31,400 on the back streets of Britain while those wanting 'a gangster image' can buy a machine gun for \u00a3800. Even though those interviewed were in prison, many still viewed gun crime as a 'viable career option' enabling them to overcome their deprived backgrounds to secure wealth and status. One man from Greater Manchester claimed he had earned \u00a352,000 in a week from gun crime. The study shows that though Nottingham is dubbed Britain's gun crime capital, guns are far more available in Manchester, Liverpool, Birmingham and London.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:31"
+    },
+    {
+      "nodeID": "150869",
+      "text": "Well, these studies and facts are no Epinios dot com, but I suspect some will think them credible. No? emoticon_smile  The answer is Drug Dealers!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:31"
+    },
+    {
+      "nodeID": "150870",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:13:31"
+    },
+    {
+      "nodeID": "150871",
+      "text": "Senior police officers have been warning for several months that a growing number of teenagers in big cities are becoming involved in gun crime.  The age of victims and suspects has fallen over the past three years as the availability of firearms in some cities has risen.  'Illegal firearms have become increasingly accessible to younger offenders who appear more likely to use these firearms recklessly,' a report on gun crime commissioned by the Home Office cautioned last year.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:31"
+    },
+    {
+      "nodeID": "150872",
+      "text": "Oh man. That is what the article first article says too!   Shotguns for \u00a350: study reveals weapons culture",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:32"
+    },
+    {
+      "nodeID": "150873",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:13:32"
+    },
+    {
+      "nodeID": "150874",
+      "text": "The author is arguing that gun control in rural areas does not constitute crime control in urban areas but somehow you try to spin that into making it sound as if the author is making some blanket statement against all gun control.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:32"
+    },
+    {
+      "nodeID": "150875",
+      "text": "So what if the author isn't arguing against gun control? At last, there is indication that England has taken a step in the right direction and realized that taking all guns away from everybody isn't the answer to crime.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:32"
+    },
+    {
+      "nodeID": "150876",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:13:32"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191098",
+      "fromID": "150866",
+      "toID": "150867",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191099",
+      "fromID": "150867",
+      "toID": "150865",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191100",
+      "fromID": "150869",
+      "toID": "150870",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191101",
+      "fromID": "150870",
+      "toID": "150868",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191102",
+      "fromID": "150872",
+      "toID": "150873",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191103",
+      "fromID": "150873",
+      "toID": "150871",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191104",
+      "fromID": "150875",
+      "toID": "150876",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191105",
+      "fromID": "150876",
+      "toID": "150874",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

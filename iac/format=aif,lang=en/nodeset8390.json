@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "156769",
+      "text": "Are poverty and starvation only an excuse for abortions? - Yahoo! Mxico Respuestas Are poverty and starvation only an excuse for abortions? When a serial killer of women acts, nobody says that it is OK because he is getting women 'freedom of misery'. It is evident that not all his victims were poor and that murder is not the way to solve poverty. Is it not evident then that argument, applied to infanticide is only a dirty trick to say that it is compassionate an evil selfish action?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:50"
+    },
+    {
+      "nodeID": "156770",
+      "text": "Yeah - lets see how many fetuses get to leave that womb successfully when mom is starving. emoticon_cool",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:50"
+    },
+    {
+      "nodeID": "156771",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:26:50"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195264",
+      "fromID": "156770",
+      "toID": "156771",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195265",
+      "fromID": "156771",
+      "toID": "156769",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

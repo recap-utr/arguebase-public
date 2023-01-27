@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "155808",
+      "text": "Right wing Abortion activists are divorced from reality http://evesapple.blogspot.com/2005/08/i-do-not-make-this-****-up.html Replace the **** with the appropriate S-word.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:40"
+    },
+    {
+      "nodeID": "155809",
+      "text": "agreed your ideas are preaty cool",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:40"
+    },
+    {
+      "nodeID": "155810",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:24:40"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194590",
+      "fromID": "155809",
+      "toID": "155810",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194591",
+      "fromID": "155810",
+      "toID": "155808",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

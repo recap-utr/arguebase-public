@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "159558",
+      "text": "I agree with you--there is a definite need to meet the needs of gay people as well as married people. We need to find ways to meet everyone's need regardless. But this isn't a marriage issue, it's a issue of meeting people's needs regardless of marital status. IOW, the bottom line is that marriage shouldn't even be a prerequisite for people getting aid in such a case as this. In such awful tragedy, it shouldn't matter whether someone is marred or not.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:14"
+    },
+    {
+      "nodeID": "159559",
+      "text": "So how come you automatically qualify and we don't? What makes you better than us?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:14"
+    },
+    {
+      "nodeID": "159560",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:33:14"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "197258",
+      "fromID": "159559",
+      "toID": "159560",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197259",
+      "fromID": "159560",
+      "toID": "159558",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

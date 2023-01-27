@@ -1,0 +1,172 @@
+{
+  "nodes": [
+    {
+      "nodeID": "208868",
+      "text": "Thrownawayactually : Donald opposed the war",
+      "type": "L",
+      "timestamp": "2016-10-25 12:13:21"
+    },
+    {
+      "nodeID": "209711",
+      "text": "TRUMP opposed the war",
+      "type": "I",
+      "timestamp": "2016-10-30 18:34:24"
+    },
+    {
+      "nodeID": "209732",
+      "text": "F22Rapture : I did a brief google and found a forum post quoting him from 2004 that seemed that way",
+      "type": "L",
+      "timestamp": "2016-10-30 18:34:25"
+    },
+    {
+      "nodeID": "209734",
+      "text": "I did a brief google and found a forum post quoting TRUMP from 2004 that seemed that he opposed the war",
+      "type": "I",
+      "timestamp": "2016-10-30 18:34:26"
+    },
+    {
+      "nodeID": "220018",
+      "text": "in July of 2004 TRUMP came out strongly against the war with Iraq",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:05"
+    },
+    {
+      "nodeID": "220021",
+      "text": "TRUMP : In July of 2004 , I came out strongly against the war with Iraq",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:05"
+    },
+    {
+      "nodeID": "264586",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-09 16:38:56",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "264587",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 16:38:56",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264588",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-09 16:38:57",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "264589",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2017-03-09 16:38:57",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "264590",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 16:38:58",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264591",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2017-03-09 16:38:58",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "320246",
+      "fromID": "209711",
+      "toID": "264586",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320247",
+      "fromID": "264586",
+      "toID": "220018",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320248",
+      "fromID": "220021",
+      "toID": "264587",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320249",
+      "fromID": "264587",
+      "toID": "208868",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320250",
+      "fromID": "264587",
+      "toID": "264588",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320251",
+      "fromID": "264588",
+      "toID": "264586",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320252",
+      "fromID": "209734",
+      "toID": "264589",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320253",
+      "fromID": "264589",
+      "toID": "220018",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320254",
+      "fromID": "220021",
+      "toID": "264590",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320255",
+      "fromID": "264590",
+      "toID": "209732",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320256",
+      "fromID": "264590",
+      "toID": "264591",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320257",
+      "fromID": "264591",
+      "toID": "264589",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "220021",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

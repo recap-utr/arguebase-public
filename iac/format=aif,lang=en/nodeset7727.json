@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "146961",
+      "text": "In my state, Advance Directives and Living Wills are legally binding.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:17"
+    },
+    {
+      "nodeID": "146962",
+      "text": "So what if a bunch of rich lobbiest got together and found a way to overturn that? Do you think they should be allowed to do that? What if they said that because of organ donor shortages that now it would be law in your state that when you die, all of your organs would be taken out and reused without your permission. Would that be OK for them to do?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:18"
+    },
+    {
+      "nodeID": "146963",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:05:18"
+    },
+    {
+      "nodeID": "146964",
+      "text": "The person paying for the disposal.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:18"
+    },
+    {
+      "nodeID": "146965",
+      "text": "So you believe that the person who is going to die has no say so in the matter of what happens to their body? What if they said that because of organ donor shortages that now it would be law in your state that when you die, all of your organs would be taken out of your body and reused without your permission. Would that be OK for them to do? emoticon_confused",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:18"
+    },
+    {
+      "nodeID": "146966",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:05:18"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "188346",
+      "fromID": "146962",
+      "toID": "146963",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188347",
+      "fromID": "146963",
+      "toID": "146961",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188348",
+      "fromID": "146965",
+      "toID": "146966",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188349",
+      "fromID": "146966",
+      "toID": "146964",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "149062",
+      "text": "Judging by the groupthink displayed thus far, the best solution they have is 'Ed's Red'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:56"
+    },
+    {
+      "nodeID": "149063",
+      "text": "And how is your think group any different, you all think alike just as gun owners all think alike. So stop calling the kettle black.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:57"
+    },
+    {
+      "nodeID": "149064",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:09:57"
+    },
+    {
+      "nodeID": "149065",
+      "text": "... You can't compare foreign nations.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:57"
+    },
+    {
+      "nodeID": "149066",
+      "text": "Because they have evolved beyond a desperate paranoia about their fellow countrymen.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:57"
+    },
+    {
+      "nodeID": "149067",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:09:57"
+    },
+    {
+      "nodeID": "149068",
+      "text": "You wanna compare foreign nations even though no two stats are comparable or similar? Fine, let's look at China and their rising gun crime.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:57"
+    },
+    {
+      "nodeID": "149069",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:09:57"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189824",
+      "fromID": "149063",
+      "toID": "149064",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189825",
+      "fromID": "149064",
+      "toID": "149062",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189826",
+      "fromID": "149066",
+      "toID": "149067",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189827",
+      "fromID": "149067",
+      "toID": "149065",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189828",
+      "fromID": "149068",
+      "toID": "149069",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189829",
+      "fromID": "149069",
+      "toID": "149066",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

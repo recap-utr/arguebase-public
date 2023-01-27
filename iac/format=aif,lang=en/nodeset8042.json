@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151623",
+      "text": "I could care less what gays want to do--it's their life, after all, but I find the wording of this really curious. How the heck is something like that to be 'sanctioned'? A token govt. policy? Special recognition? And I also find it odd that no one here (so far) is balking at the use of the term 'lifestyle' by the article. Is the 'L' word ok when it's being used in an article giving news that gay people want to hear?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:11"
+    },
+    {
+      "nodeID": "151624",
+      "text": "Well, that just goes to show that you didn't even read the first post - Robbie quite clearly stated that its use was quite bothersome to him (or her?). I also find it to be bothersome, but maybe not as much as I would if it was a person like Archangel or JP talking about it - the way it is used in this article seems to imply that they are calling it a lifestyle but also calling heterosexuality a lifestyle: that homosexuality is an acceptable 'alternate' one.  I personally don't like the term (as robbie pointed out, it probably has to do with the source of the article being 'christianpost' or whatever), as I do not view sexual orientation as a 'lifestyle', but if used while calling other orientations 'lifestyles' as well, I don't really get worked up over it.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:12"
+    },
+    {
+      "nodeID": "151625",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:15:12"
+    },
+    {
+      "nodeID": "151626",
+      "text": "There is nothing at all absurd about this take. The Gay agenda has been to normalize homosexuality and what better way to do it than to indoctrinate the young and desensitize them to the negatives of the lifestyle while they're still impressionable. That way they know that within 20 years they will have normalized this abnormal lifestyle.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:12"
+    },
+    {
+      "nodeID": "151627",
+      "text": "And this is a bad thing?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:12"
+    },
+    {
+      "nodeID": "151628",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:15:12"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191630",
+      "fromID": "151624",
+      "toID": "151625",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191631",
+      "fromID": "151625",
+      "toID": "151623",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191632",
+      "fromID": "151627",
+      "toID": "151628",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191633",
+      "fromID": "151628",
+      "toID": "151626",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

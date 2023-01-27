@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "137850",
+      "text": "The Daily Telegraph is in the pocket of big business interests, it's about as trustworthy on this as Exxon Mobil's PR department. I can also quote from the information sheets on the website of the unit: 'The year 2005 was the second warmest on record, exceeded by 1998' So, in other words, the torygraph is manipulating statistics and talking out of their collective arses. They chose the two warmest years on record and tried to make something out of the fact that the warmest was before the second warmest.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:50"
+    },
+    {
+      "nodeID": "137851",
+      "text": "It's an odd article for Telegraph, though I haven't noticed this Bob Carter bloke before. It contradicts almost all the environmental stories they've done before and comes with an unwelcome seam of personal opinion in the article. If anything it sounds like some of the stuff you hear from the US denying the existance of Global Warming. Jo, I know you don't read the Telegraph but you are way off regarding the normal content.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:50"
+    },
+    {
+      "nodeID": "137852",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:45:50"
+    },
+    {
+      "nodeID": "137853",
+      "text": "This article, from the Daily Telegraph, states that data from the 'Climate Research Unit at the University of East Anglia' shows 'that for the years 1998-2005 global average temperature did not increase (there was actually a slight decrease, though not at a rate that differs significantly from zero).' Does anyone know anything about this university (i.e. is it reputable in this area of science)? Also, any thoughts on the author and his interpretation of this data (if the data is reliable that is).",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:50"
+    },
+    {
+      "nodeID": "137854",
+      "text": "My thought is, don't treat editorials as if they were sources of facts. I went to the CRU website, and their home page has a graphic showing definite warming over the time period in question. http://www.cru.uea.ac.uk/ Bob Carter, the guy who wrote your editorial, is either a fool or not above lying to make a point. The world is clearly getting hotter, all the data supports this. It's not like we're talking rocket science here. All this takes is reading a thermometer and writing down the results, which is a task that people have mastered for quite some time now. Anyone who tells you that we aren't heating up is either in denial, or in the pay of someone who doesn't want to be told to stop polluting.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:50"
+    },
+    {
+      "nodeID": "137855",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:45:50"
+    },
+    {
+      "nodeID": "137856",
+      "text": "I also visited the university's website and looked at their data. There does appear to be information which contradicts with the above listed article's claims (e.g. - http://www.cru.uea.ac.uk/cru/data/temperature/nhshgl.gif). Not sure what he is talking about.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:50"
+    },
+    {
+      "nodeID": "137857",
+      "text": "It is pretty bizzare. There are plenty of groups out there that will reach whatever 'conclusion' you pay them to reach. Why he didn't cite one of them instead of an easily checkable source that says the opposite of what he says they do is beyond me.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:51"
+    },
+    {
+      "nodeID": "137858",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:45:51"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181888",
+      "fromID": "137851",
+      "toID": "137852",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181889",
+      "fromID": "137852",
+      "toID": "137850",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181890",
+      "fromID": "137854",
+      "toID": "137855",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181891",
+      "fromID": "137855",
+      "toID": "137853",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181892",
+      "fromID": "137857",
+      "toID": "137858",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181893",
+      "fromID": "137858",
+      "toID": "137856",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

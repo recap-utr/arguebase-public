@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "153452",
+      "text": "You assume that policemen are trustworthy. I believe the question should be , 'Why do we trust policemen more than others?' I believe the bell shaped curve applies to all large groups of people. There are likely just as many dishonest cops as there are dishonest non-cops, based on a percentage of their group.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:18"
+    },
+    {
+      "nodeID": "153453",
+      "text": "I believe the question was aimed at those who advocate only the police being armed and nobody else, the ones who believe that only the police have good reason for having access to guns, but no regular person needs a gun for any reason whatsoever.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:18"
+    },
+    {
+      "nodeID": "153454",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:19:18"
+    },
+    {
+      "nodeID": "153455",
+      "text": "To re-iterate - the police face mandatory training and testing, continuous psychological and physical assessment and a character check before they even enter the force. Personally, I'd rather they didn't have guns on general issue (as even the trained make mistakes), but I'd rather just the police were armed than an entire citizenry.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:18"
+    },
+    {
+      "nodeID": "153456",
+      "text": "Just because they undergo training and testing doesn't mean that they're any better of a choice than regular people. Police have been caught knowingly selling guns to known criminals, and they've even shot each other multiple times. The police aren't the equivalent of Jedi, they don't deserve sole access to firearms just because they get training in the use of arms.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:18"
+    },
+    {
+      "nodeID": "153457",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:19:18"
+    },
+    {
+      "nodeID": "153458",
+      "text": "If you were trying to use that to counter my point, it failed. Anecdotal evidence doesn't affect statistical probability - that there was a single event says nothing about which is generally better.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:18"
+    },
+    {
+      "nodeID": "153459",
+      "text": "And yet the post-Dunblane handgun ban happened after only one event.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:18"
+    },
+    {
+      "nodeID": "153460",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:19:18"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192920",
+      "fromID": "153453",
+      "toID": "153454",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192921",
+      "fromID": "153454",
+      "toID": "153452",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192922",
+      "fromID": "153456",
+      "toID": "153457",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192923",
+      "fromID": "153457",
+      "toID": "153455",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192924",
+      "fromID": "153459",
+      "toID": "153460",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192925",
+      "fromID": "153460",
+      "toID": "153458",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

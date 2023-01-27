@@ -1,0 +1,791 @@
+{
+  "nodes": [
+    {
+      "nodeID": "200588",
+      "text": "MuffinsAndBiscuits : I couldn't start watching until a while ago",
+      "type": "L",
+      "timestamp": "2016-09-21 08:57:58"
+    },
+    {
+      "nodeID": "200589",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-21 08:57:59",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200590",
+      "text": "I couldn't start watching until a while ago",
+      "type": "I",
+      "timestamp": "2016-09-21 08:57:59"
+    },
+    {
+      "nodeID": "200591",
+      "text": "Barbara: MuffinsAndBiscuits : I couldn't start watching until a while ago",
+      "type": "L",
+      "timestamp": "2016-09-21 08:57:59"
+    },
+    {
+      "nodeID": "200592",
+      "text": "MuffinsAndBiscuits :  this is late",
+      "type": "L",
+      "timestamp": "2016-09-21 08:57:59"
+    },
+    {
+      "nodeID": "200593",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-21 08:57:59",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200594",
+      "text": "this is late",
+      "type": "I",
+      "timestamp": "2016-09-21 08:57:59"
+    },
+    {
+      "nodeID": "200595",
+      "text": "Barbara: MuffinsAndBiscuits :  this is late",
+      "type": "L",
+      "timestamp": "2016-09-21 08:57:59"
+    },
+    {
+      "nodeID": "200596",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-21 08:57:59",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200597",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-09-21 08:57:59",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "200598",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-21 08:57:59",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200599",
+      "text": "MuffinsAndBiscuits : in the Syria section, did O'Malley say \"Assad's invasion of Syria will be seen as a blunder\"",
+      "type": "L",
+      "timestamp": "2016-09-21 08:58:00"
+    },
+    {
+      "nodeID": "200600",
+      "text": "Assertive Questioning",
+      "type": "YA",
+      "timestamp": "2016-09-21 08:58:00",
+      "scheme": "AssertiveQuestioning",
+      "schemeID": "73"
+    },
+    {
+      "nodeID": "200601",
+      "text": "in the Syria section O'Malley said \"Assad's invasion of Syria will be seen as a blunder\"",
+      "type": "I",
+      "timestamp": "2016-09-21 08:58:00"
+    },
+    {
+      "nodeID": "200602",
+      "text": "Barbara: MuffinsAndBiscuits : in the Syria section, did O'Malley say \"Assad's invasion of Syria will be seen as a blunder\"",
+      "type": "L",
+      "timestamp": "2016-09-21 08:58:00"
+    },
+    {
+      "nodeID": "200603",
+      "text": "zefy_zef : yea",
+      "type": "L",
+      "timestamp": "2016-09-21 08:58:00"
+    },
+    {
+      "nodeID": "200604",
+      "text": "Barbara: zefy_zef : yea",
+      "type": "L",
+      "timestamp": "2016-09-21 08:58:00"
+    },
+    {
+      "nodeID": "200605",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-21 08:58:00",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200606",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-21 08:58:00",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200607",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2016-09-21 08:58:00",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    },
+    {
+      "nodeID": "200608",
+      "text": "zefy_zef :  i saw that",
+      "type": "L",
+      "timestamp": "2016-09-21 08:58:00"
+    },
+    {
+      "nodeID": "200609",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-21 08:58:01",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200610",
+      "text": "i saw that",
+      "type": "I",
+      "timestamp": "2016-09-21 08:58:01"
+    },
+    {
+      "nodeID": "200611",
+      "text": "Barbara: zefy_zef :  i saw that",
+      "type": "L",
+      "timestamp": "2016-09-21 08:58:01"
+    },
+    {
+      "nodeID": "200612",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-09-21 08:58:01",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "200613",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-21 08:58:01",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200614",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-09-21 08:58:01",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "200615",
+      "text": "[deleted] : Yes",
+      "type": "L",
+      "timestamp": "2016-09-21 08:58:01"
+    },
+    {
+      "nodeID": "200616",
+      "text": "Barbara: [deleted] : Yes",
+      "type": "L",
+      "timestamp": "2016-09-21 08:58:01"
+    },
+    {
+      "nodeID": "200617",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-21 08:58:01",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200618",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2016-09-21 08:58:01",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    },
+    {
+      "nodeID": "200619",
+      "text": "[deleted] : People misspeak",
+      "type": "L",
+      "timestamp": "2016-09-21 08:58:02"
+    },
+    {
+      "nodeID": "200620",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-21 08:58:02",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200621",
+      "text": "people misspeak",
+      "type": "I",
+      "timestamp": "2016-09-21 08:58:02"
+    },
+    {
+      "nodeID": "200622",
+      "text": "Barbara: [deleted] : People misspeak",
+      "type": "L",
+      "timestamp": "2016-09-21 08:58:02"
+    },
+    {
+      "nodeID": "200623",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-09-21 08:58:02",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "200624",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-21 08:58:02",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200625",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-09-21 08:58:02",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "200626",
+      "text": "MuffinsAndBiscuits : Yeah",
+      "type": "L",
+      "timestamp": "2016-09-21 08:58:02"
+    },
+    {
+      "nodeID": "200627",
+      "text": "Barbara: MuffinsAndBiscuits : Yeah",
+      "type": "L",
+      "timestamp": "2016-09-21 08:58:02"
+    },
+    {
+      "nodeID": "200628",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-21 08:58:02",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200629",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2016-09-21 08:58:03",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    },
+    {
+      "nodeID": "200630",
+      "text": "MuffinsAndBiscuits : it's not a criticism",
+      "type": "L",
+      "timestamp": "2016-09-21 08:58:03"
+    },
+    {
+      "nodeID": "200631",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-21 08:58:03",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200632",
+      "text": "it's not a criticism",
+      "type": "I",
+      "timestamp": "2016-09-21 08:58:03"
+    },
+    {
+      "nodeID": "200633",
+      "text": "Barbara: MuffinsAndBiscuits : it's not a criticism",
+      "type": "L",
+      "timestamp": "2016-09-21 08:58:03"
+    },
+    {
+      "nodeID": "200634",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-21 08:58:03",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200635",
+      "text": "MuffinsAndBiscuits : I just thought I was crazy for a second and it did sent me into a wikipedia hunt to figure out what   Assad's dad did",
+      "type": "L",
+      "timestamp": "2016-09-21 08:58:03"
+    },
+    {
+      "nodeID": "200636",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-21 08:58:03",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200637",
+      "text": "I just thought I was crazy for a second and it did sent me into a wikipedia hunt to figure out what   Assad's dad did",
+      "type": "I",
+      "timestamp": "2016-09-21 08:58:03"
+    },
+    {
+      "nodeID": "200638",
+      "text": "Barbara: MuffinsAndBiscuits : I just thought I was crazy for a second and it did sent me into a wikipedia hunt to figure out what   Assad's dad did",
+      "type": "L",
+      "timestamp": "2016-09-21 08:58:03"
+    },
+    {
+      "nodeID": "200639",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-21 08:58:03",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200640",
+      "text": "[deleted] : He was basically Assad senior",
+      "type": "L",
+      "timestamp": "2016-09-21 08:58:04"
+    },
+    {
+      "nodeID": "200641",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-21 08:58:04",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200642",
+      "text": "Assad's dad was basically Assad senior",
+      "type": "I",
+      "timestamp": "2016-09-21 08:58:04"
+    },
+    {
+      "nodeID": "200643",
+      "text": "Barbara: [deleted] : He was basically Assad senior",
+      "type": "L",
+      "timestamp": "2016-09-21 08:58:04"
+    },
+    {
+      "nodeID": "200644",
+      "text": "[deleted] : Evil dictator who bulldozed his people when they got too uppity",
+      "type": "L",
+      "timestamp": "2016-09-21 08:58:04"
+    },
+    {
+      "nodeID": "200645",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-21 08:58:04",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200646",
+      "text": "Assad's dad was evil dictator who bulldozed his people when they got too uppity",
+      "type": "I",
+      "timestamp": "2016-09-21 08:58:04"
+    },
+    {
+      "nodeID": "200647",
+      "text": "Barbara: [deleted] : Evil dictator who bulldozed his people when they got too uppity",
+      "type": "L",
+      "timestamp": "2016-09-21 08:58:04"
+    },
+    {
+      "nodeID": "200648",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-21 08:58:04",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200649",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-21 08:58:04",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "245221",
+      "fromID": "200589",
+      "toID": "200590",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245222",
+      "fromID": "200588",
+      "toID": "200589",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245223",
+      "fromID": "200593",
+      "toID": "200594",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245224",
+      "fromID": "200592",
+      "toID": "200593",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245225",
+      "fromID": "200588",
+      "toID": "200596",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245226",
+      "fromID": "200596",
+      "toID": "200592",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245227",
+      "fromID": "200590",
+      "toID": "200597",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245228",
+      "fromID": "200597",
+      "toID": "200594",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245229",
+      "fromID": "200596",
+      "toID": "200598",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245230",
+      "fromID": "200598",
+      "toID": "200597",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245231",
+      "fromID": "200600",
+      "toID": "200601",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245232",
+      "fromID": "200599",
+      "toID": "200600",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245233",
+      "fromID": "200592",
+      "toID": "200605",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245234",
+      "fromID": "200605",
+      "toID": "200599",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245235",
+      "fromID": "200599",
+      "toID": "200606",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245236",
+      "fromID": "200606",
+      "toID": "200603",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245237",
+      "fromID": "200606",
+      "toID": "200605",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245238",
+      "fromID": "200606",
+      "toID": "200607",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245239",
+      "fromID": "200607",
+      "toID": "200601",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245240",
+      "fromID": "200609",
+      "toID": "200610",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245241",
+      "fromID": "200608",
+      "toID": "200609",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245242",
+      "fromID": "200610",
+      "toID": "200612",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245243",
+      "fromID": "200612",
+      "toID": "200601",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245244",
+      "fromID": "200599",
+      "toID": "200613",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245245",
+      "fromID": "200613",
+      "toID": "200608",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245246",
+      "fromID": "200613",
+      "toID": "200614",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245247",
+      "fromID": "200614",
+      "toID": "200612",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245248",
+      "fromID": "200599",
+      "toID": "200617",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245249",
+      "fromID": "200617",
+      "toID": "200615",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245250",
+      "fromID": "200617",
+      "toID": "200618",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245251",
+      "fromID": "200618",
+      "toID": "200601",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245252",
+      "fromID": "200620",
+      "toID": "200621",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245253",
+      "fromID": "200619",
+      "toID": "200620",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245254",
+      "fromID": "200621",
+      "toID": "200623",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245255",
+      "fromID": "200623",
+      "toID": "200601",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245256",
+      "fromID": "200599",
+      "toID": "200624",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245257",
+      "fromID": "200624",
+      "toID": "200619",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245258",
+      "fromID": "200624",
+      "toID": "200625",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245259",
+      "fromID": "200625",
+      "toID": "200623",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245260",
+      "fromID": "200619",
+      "toID": "200628",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245261",
+      "fromID": "200628",
+      "toID": "200626",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245262",
+      "fromID": "200628",
+      "toID": "200629",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245263",
+      "fromID": "200629",
+      "toID": "200621",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245264",
+      "fromID": "200631",
+      "toID": "200632",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245265",
+      "fromID": "200630",
+      "toID": "200631",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245266",
+      "fromID": "200626",
+      "toID": "200634",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245267",
+      "fromID": "200634",
+      "toID": "200630",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245268",
+      "fromID": "200636",
+      "toID": "200637",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245269",
+      "fromID": "200635",
+      "toID": "200636",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245270",
+      "fromID": "200630",
+      "toID": "200639",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245271",
+      "fromID": "200639",
+      "toID": "200635",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245272",
+      "fromID": "200641",
+      "toID": "200642",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245273",
+      "fromID": "200640",
+      "toID": "200641",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245274",
+      "fromID": "200645",
+      "toID": "200646",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245275",
+      "fromID": "200644",
+      "toID": "200645",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245276",
+      "fromID": "200635",
+      "toID": "200648",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245277",
+      "fromID": "200648",
+      "toID": "200640",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245278",
+      "fromID": "200640",
+      "toID": "200649",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245279",
+      "fromID": "200649",
+      "toID": "200644",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

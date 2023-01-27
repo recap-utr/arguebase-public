@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "162337",
+      "text": "Heres on I like. It is an assesment of the second amendment by the gyoy who wrote 'American Usage and Style: The Consensus'. He is an expert in English linguistics. The article is called 'The Unabridged Second Amendment'. here is the link: http://www.firearmsandliberty.com/unabridged.2nd.html They are obviously illiterate.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:54"
+    },
+    {
+      "nodeID": "162338",
+      "text": "I got an interesting tid bit for you: http://www.2ampd.net/Articles/difiElitist.htm First read the text. The anti-gun senator is noted for having the ONLY legal concealed gun in the city of San Francisco. Also note as a person who carried a concealed gun and still keeps a .357 magnum for protection, that she should KEEP YOUR FINGER OFF THE TRIGGER, until your aming at your target.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:54"
+    },
+    {
+      "nodeID": "162339",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:39:54"
+    },
+    {
+      "nodeID": "162340",
+      "text": "There are some objections that I have to that interpretation. 1) It does not examine the meaning of the term 'bear arms' at the time of the writing of the Constitution. 2) In most second amendment cases the courts have not agreed with the above interpretation.  3) The American Bar Association rejects such an interpretation. 'Since today's 'well regulated militia' does not use privately owned firearms, courts since Miller have unanimously held that regulation of such guns does not offend the Second Amendment...As lawyers, as representatives of the legal profession, and as recognized experts on the meaning of the Constitution and our system of justice, we share a responsibility to the public and lawmakers to 'say what the law is.'' http://www.abanet.org/gunviol/secondamend.html 4) Historians H. Richard Uviller and William G. Merkel explain the language of the second amendment this way- 'It does not say: 'a well-regulated militia is necessary to the security of a free state, and the right of the people to keep and bear arms shall not be infringed'....it wasn't written that way. Rather, in the first part, the verbal vehicle elected for the verb 'to be' is a participle, yielding a phrase known to grammarians as an 'ablative absolute construction.' This construction characterizes a phrase modifying the substance of the main clause as an adjective would modify a noun, often expressing the condition or circumstances of the assertion of the main clause. It creates an indissoluble link between the two parts of the sentence, and grammatically subjects the right to arms to the rule of the militia modifier. As a simple matter of grammar, the participial modifier is essential for the declarative clause to occur. Had the two statements- regarding the importance of a militia and the right to arms- not been joined in this manner, it might have been possible to argue that even if the first declaration ceases to be true, the second is undiminished. And it seems significant that the Framers chose the structure they did.'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:54"
+    },
+    {
+      "nodeID": "162341",
+      "text": "SO we are sticking with the now defamed 'collective right theory' As of yet you have not explained: How the people in the 2nd amendment differ from the people in the other amendments. why the government would put a bill of rights that pertained to 'the people' in all the other amendments but somehow saw the need to write one for themselves in the 2nd.  Ill keep it to 2 for now",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:54"
+    },
+    {
+      "nodeID": "162342",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:39:54"
+    },
+    {
+      "nodeID": "162343",
+      "text": "He didn't have to. He was examining the structure of the sentence to determine whether an individual right or a collective right was being recognized.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:54"
+    },
+    {
+      "nodeID": "162344",
+      "text": "So you think that only the sentence structure needs to be examined and not the meaning of the words?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:54"
+    },
+    {
+      "nodeID": "162345",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:39:54"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "199244",
+      "fromID": "162338",
+      "toID": "162339",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199245",
+      "fromID": "162339",
+      "toID": "162337",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199246",
+      "fromID": "162341",
+      "toID": "162342",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199247",
+      "fromID": "162342",
+      "toID": "162340",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199248",
+      "fromID": "162344",
+      "toID": "162345",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199249",
+      "fromID": "162345",
+      "toID": "162343",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

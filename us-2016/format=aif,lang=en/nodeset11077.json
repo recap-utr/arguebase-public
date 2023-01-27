@@ -1,0 +1,175 @@
+{
+  "nodes": [
+    {
+      "nodeID": "190208",
+      "text": "bashar_al_assad : A No Fly Zone in Syria isn't really that dangerous, Bernie",
+      "type": "L",
+      "timestamp": "2016-08-05 16:24:38"
+    },
+    {
+      "nodeID": "190210",
+      "text": "a No Fly Zone in Syria isn't really that dangerous",
+      "type": "I",
+      "timestamp": "2016-08-05 16:24:38"
+    },
+    {
+      "nodeID": "190235",
+      "text": "foodVSfood : If we actually enforce it, then it means shooting down things that fly in the \"no fly zone.\"",
+      "type": "L",
+      "timestamp": "2016-08-05 16:24:41"
+    },
+    {
+      "nodeID": "190237",
+      "text": "if we actually enforce it, then it means shooting down things that fly in the \"no fly zone\"",
+      "type": "I",
+      "timestamp": "2016-08-05 16:24:41"
+    },
+    {
+      "nodeID": "214774",
+      "text": "Sanders thinks a no-fly zone in Syria is a very dangerous situation",
+      "type": "I",
+      "timestamp": "2016-11-01 13:09:45"
+    },
+    {
+      "nodeID": "214778",
+      "text": "CLINTON : which I think is a very dangerous situation",
+      "type": "L",
+      "timestamp": "2016-11-01 13:09:45"
+    },
+    {
+      "nodeID": "214780",
+      "text": "SANDERS : Could lead to real problems",
+      "type": "L",
+      "timestamp": "2016-11-01 13:09:46"
+    },
+    {
+      "nodeID": "214784",
+      "text": "a no-fly zone in Syria could lead to real problems",
+      "type": "I",
+      "timestamp": "2016-11-01 13:09:46"
+    },
+    {
+      "nodeID": "262304",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-03 16:23:55",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "262305",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-03 16:23:56",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "262306",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-03 16:23:56",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "262307",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-03 16:23:57",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "262308",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2017-03-03 16:23:57",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "262309",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2017-03-03 16:23:58",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "316350",
+      "fromID": "214778",
+      "toID": "262304",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316351",
+      "fromID": "262304",
+      "toID": "190208",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316352",
+      "fromID": "190210",
+      "toID": "262305",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316353",
+      "fromID": "262305",
+      "toID": "214774",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316354",
+      "fromID": "262304",
+      "toID": "262306",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316355",
+      "fromID": "262306",
+      "toID": "262305",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316356",
+      "fromID": "214780",
+      "toID": "262307",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316357",
+      "fromID": "262307",
+      "toID": "190235",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316358",
+      "fromID": "190237",
+      "toID": "262308",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316359",
+      "fromID": "262308",
+      "toID": "214784",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316360",
+      "fromID": "262307",
+      "toID": "262309",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316361",
+      "fromID": "262309",
+      "toID": "262308",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

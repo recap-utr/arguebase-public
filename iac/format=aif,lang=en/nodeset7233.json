@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139616",
+      "text": "Antiabortion Effort in Europe, With U.S. Money, Widens Its Conservative Agenda",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:39"
+    },
+    {
+      "nodeID": "139617",
+      "text": "So the latest imported culture from the US of A. Don't worry though, while we get the Anti-abortionists from stateside, America gets our animal rights activists in return :)",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:39"
+    },
+    {
+      "nodeID": "139618",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:49:39"
+    },
+    {
+      "nodeID": "139619",
+      "text": "Thing is, Truthsay, I was a wanted child, a desired child. My parents planned for me. They wanted me. I wasn't an accident. I'm here because of their desire for me. Otherwise, I wouldn't be here.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:39"
+    },
+    {
+      "nodeID": "139620",
+      "text": "you know what..you are right, any unwanted person should be killed. Lets start with nursing homes and then move on to mental health clinics. After that, we should kill all the poor people because they don't really help society that much. OH! and don't forget the handicapped...who would wanna live like that? Kill them...it is merciful...who cares what they want anyway, they don't know what they are saying. Then we will have a wonderful society :)",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:39"
+    },
+    {
+      "nodeID": "139621",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:49:39"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183148",
+      "fromID": "139617",
+      "toID": "139618",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183149",
+      "fromID": "139618",
+      "toID": "139616",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183150",
+      "fromID": "139620",
+      "toID": "139621",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183151",
+      "fromID": "139621",
+      "toID": "139619",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

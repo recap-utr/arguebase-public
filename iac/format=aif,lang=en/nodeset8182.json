@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "153652",
+      "text": "Originally posted by gilligan8503 the fetus is definatley a part of the mother. if the mother dies, the fetus dies and NOT vice versa. the fetus is dependent. it shares blood and food.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:47"
+    },
+    {
+      "nodeID": "153653",
+      "text": "So, Gilligan, by the above criteria is a tapeworm considered part of an infested woman? Or is it simply a genetically distinct parasite dependent upon another genetically distinct being for survival?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:47"
+    },
+    {
+      "nodeID": "153654",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:19:47"
+    },
+    {
+      "nodeID": "153655",
+      "text": "Originally posted by thistownwilleat 'All I think she's trying to say is that if it's not really alive it's not as bad as killing a baby who can control it's actions, and can think.' I'm in a coma, I can't think or control my actions. Kill me.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:47"
+    },
+    {
+      "nodeID": "153656",
+      "text": "no, that's not what I mean. It's not like it's fine to kill anything. I'm not going to walk up to someone in a coma and kill them just because they can't control their actions and think as good as everyone else. It's just better than walking up to a person walking down the road and stabbing them in the back. It's just if you got pregnant 'cause of rape or something, don't you think it would be better toget an abortion when the baby can't really think, etc. I know it's still bad, but it's better. That's all I think she's trying to say, and if not, that's what I say. I mean, if a 12 year old got pregnant 'cause someone raped her, don't you think she should get an abortion, and the earliest the better?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:47"
+    },
+    {
+      "nodeID": "153657",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:19:48"
+    },
+    {
+      "nodeID": "153658",
+      "text": "Originally posted by Patriot I agree, but do you think that if abortion were made illegal, and the death penalty/jail sentance were imposed as a punishment for this crime that 'hundereds and then thousands' of women would have abortions done? I think not.  Chai, please clarify your stand on abortion.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:48"
+    },
+    {
+      "nodeID": "153659",
+      "text": "I still think there would be thousands of women taking the pill that aborts fetuses every year. I would expect several hundred to be caught.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:48"
+    },
+    {
+      "nodeID": "153660",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:19:48"
+    },
+    {
+      "nodeID": "153661",
+      "text": "Have you ever had a child you desperately want to get rid of? If someone is willing to throw themselves down a flight of stairs to get rid of a child, what makes you think they'll hesitate to get an untrained person to do it?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:48"
+    },
+    {
+      "nodeID": "153662",
+      "text": "And how many people actually do that?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:48"
+    },
+    {
+      "nodeID": "153663",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:19:48"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193062",
+      "fromID": "153653",
+      "toID": "153654",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193063",
+      "fromID": "153654",
+      "toID": "153652",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193064",
+      "fromID": "153656",
+      "toID": "153657",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193065",
+      "fromID": "153657",
+      "toID": "153655",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193066",
+      "fromID": "153659",
+      "toID": "153660",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193067",
+      "fromID": "153660",
+      "toID": "153658",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193068",
+      "fromID": "153662",
+      "toID": "153663",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193069",
+      "fromID": "153663",
+      "toID": "153661",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

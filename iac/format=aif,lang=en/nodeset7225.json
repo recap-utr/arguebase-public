@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139520",
+      "text": "'Pro-Gun' States Lead the Nation in Per Capita Firearm Death Rates Violence Policy Center Analysis of New Data Reveals: Louisiana, Alaska, Montana, Tennessee, and Alabama Top List of Deadliest States in the Nation  Blind Allegiance to the Second Amendment Takes Deadly Toll  Washington, DC&#8212;States in the South and West with weak gun laws and high rates of gun ownership lead the nation in overall firearm death rates according to a new analysis issued today by the Violence Policy Center (VPC) of Centers for Disease Control and Prevention (CDC) data.  The new VPC analysis uses 2005 data (the most recent available) from the CDC's National Center for Injury Prevention and Control. The analysis reveals that the five states with the highest per capita gun death rates were Louisiana, Alaska, Montana, Tennessee and Alabama. Each of these states had a per capita gun death rate far exceeding the national per capita gun death rate of 10.32 per 100,000.  By contrast, states with strong gun laws and low rates of gun ownership had far lower rates of firearm-related death. Ranking last in the nation for gun death was Hawaii, followed by Massachusetts, Rhode Island, New Jersey and New York. (See chart below for top and bottom five states. See http://www.vpc.org/fadeathchart.htm for a ranking of all 50 states.) http://vpc.org/press/0804gundeath.htm So how do the people who claim guns save lives explain this?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:19"
+    },
+    {
+      "nodeID": "139521",
+      "text": "Really, so California is just a peachy crime free place because of its strict firearms laws? What about New York? But wait! Don't forget good ol Washington DC! Their crime rate is lower than Bush's approval rating because of their strict firearm laws! Of course they are going to have a higher rate of firearms death, but they're obviously going to have a lower rate of everything else (criminal related) death. In the end, Its lower.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:19"
+    },
+    {
+      "nodeID": "139522",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:49:19"
+    },
+    {
+      "nodeID": "139523",
+      "text": "If you want to see whether guns save lives, you need to look at their impact on total killing rates, not only their impact on gun-killing rates. The fact you choose to examine a misleading statistic indicates to me you are aware that you are wrong.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:19"
+    },
+    {
+      "nodeID": "139524",
+      "text": "but they only effect gun killing rates just like traffic laws only effect car accidents and not other kinds of accidents",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:19"
+    },
+    {
+      "nodeID": "139525",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:49:19"
+    },
+    {
+      "nodeID": "139526",
+      "text": "You obviously dont know what your talking about. Ever since Florida became the first state to allow people to carry guns around Florida has been number 1 or 2 in violent crime each year according to the FBI!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:19"
+    },
+    {
+      "nodeID": "139527",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:49:19"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183080",
+      "fromID": "139521",
+      "toID": "139522",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183081",
+      "fromID": "139522",
+      "toID": "139520",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183082",
+      "fromID": "139524",
+      "toID": "139525",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183083",
+      "fromID": "139525",
+      "toID": "139523",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183084",
+      "fromID": "139526",
+      "toID": "139527",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183085",
+      "fromID": "139527",
+      "toID": "139521",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

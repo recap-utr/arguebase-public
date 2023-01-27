@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "155805",
+      "text": "It seems to me that the pressure Man has placed on most all species of wildlife in every corner of the World as we simultaneously encroached on those ecosystems, that our development would have jump started their social development and creative genes in order for them to adjust to the effects we have had on their Natural Habitats.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:39"
+    },
+    {
+      "nodeID": "155806",
+      "text": "And that has happened in some cases. Mosquitoes are changing the development cycles to coincide with increasingly warmer temperatures. Fish species are enlarging their habitats as water temperatures rise. Many species are moving north as temperature rises.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:39"
+    },
+    {
+      "nodeID": "155807",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:24:39"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194588",
+      "fromID": "155806",
+      "toID": "155807",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194589",
+      "fromID": "155807",
+      "toID": "155805",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

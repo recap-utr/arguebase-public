@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "154898",
+      "text": "South Africa's highest court has ruled in favour of same-sex marriages, which are banned under current legislation.  The Constitutional Court ordered that parliament amend marriage laws to allow gay weddings within a year.  The constitution outlaws discrimination against gays and lesbians, but social attitudes remain more conservative.  The court ordered that the definition of marriage be changed from a 'union between a man and a woman' to a 'union between two persons'.  Last year, the Supreme Court of Appeal had ruled in a case brought by a lesbian couple that the current law discriminated against homosexuals.  But the home affairs department went to the Constitutional Court, arguing that only parliament could change the law.  'The common law definition of marriage is declared to be inconsistent with the constitution and invalid to the extent that it does not permit same-sex couples to enjoy the status and benefits it accords heterosexual couples,' said Justice Albie Sachs in his ruling, AFP reports.  After the Supreme Court of Appeal ruled last November that Marie Fourie and Cecilia Bonthuys should be allowed to wed, they later found they were unable to register for a church wedding at the Department of Home Affairs.  Keketso Maema, a lawyer for the Lesbian and Gay Equality project, said he was disappointed that the Constitutional Court did not order the immediate legalisation of gay marriages.  'It's a bit disappointing. It feels like it's one step forward and still another one step backwards,' he told Reuters news agency.  Church groups in South Africa have argued that the issue should be put to a referendum, and say that most South Africans would oppose the legalisation of gay marriages.  South Africa's constitution - introduced in 1996 - was the first in the world specifically to outlaw discrimination on the grounds of sexual preference.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:22:40"
+    },
+    {
+      "nodeID": "154899",
+      "text": "http://news.bbc.co.uk/1/hi/world/africa/4487756.stm",
+      "type": "I",
+      "timestamp": "2016-03-08 20:22:40"
+    },
+    {
+      "nodeID": "154900",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:22:40"
+    },
+    {
+      "nodeID": "154901",
+      "text": "Thank God South Africa is taking such a great step forward into the future. Prejudice is terrible and it's so damn bad when people are blinded by hypocrisy.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:22:40"
+    },
+    {
+      "nodeID": "154902",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:22:40"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193944",
+      "fromID": "154899",
+      "toID": "154900",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193945",
+      "fromID": "154900",
+      "toID": "154898",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193946",
+      "fromID": "154901",
+      "toID": "154902",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193947",
+      "fromID": "154902",
+      "toID": "154899",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

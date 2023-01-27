@@ -1,0 +1,2002 @@
+{
+  "nodes": [
+    {
+      "nodeID": "251651",
+      "text": "BUSH has made a bold promise in his announcement",
+      "type": "I",
+      "timestamp": "2016-12-21 17:40:16"
+    },
+    {
+      "nodeID": "251652",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:16",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "251653",
+      "text": "WALLACE : You have made a bold promise in your announcement",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:17"
+    },
+    {
+      "nodeID": "251654",
+      "text": "M: WALLACE : You have made a bold promise in your announcement",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:17"
+    },
+    {
+      "nodeID": "251655",
+      "text": "WALLACE : You have promised four percent economic growth and 19 million new jobs if you are fortunate enough to serve two terms as president",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:17"
+    },
+    {
+      "nodeID": "251656",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:17",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "251657",
+      "text": "BUSH has promised four percent economic growth and 19 million new jobs if BUSH is fortunate enough to serve two terms as president",
+      "type": "I",
+      "timestamp": "2016-12-21 17:40:17"
+    },
+    {
+      "nodeID": "251658",
+      "text": "M: WALLACE : You have promised four percent economic growth and 19 million new jobs if you are fortunate enough to serve two terms as president",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:17"
+    },
+    {
+      "nodeID": "251659",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:40:17",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "251660",
+      "text": "WALLACE : That many jobs, 19 million, would be triple what your father and your brother accomplished together",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:17"
+    },
+    {
+      "nodeID": "251661",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:17",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "251662",
+      "text": "19 million jobs would be triple what BUSH's father and BUSH's brother accomplished together",
+      "type": "I",
+      "timestamp": "2016-12-21 17:40:18"
+    },
+    {
+      "nodeID": "251663",
+      "text": "M: WALLACE : That many jobs, 19 million, would be triple what your father and your brother accomplished together",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:18"
+    },
+    {
+      "nodeID": "251664",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:40:18",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "251665",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:18",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "251666",
+      "text": "WALLACE : four percent growth, the last president to average that was Lyndon Johnson during the height of the Vietnam War",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:18"
+    },
+    {
+      "nodeID": "251667",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:18",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "251668",
+      "text": "the last president to average the four percent growth was Lyndon Johnson during the height of the Vietnam War",
+      "type": "I",
+      "timestamp": "2016-12-21 17:40:18"
+    },
+    {
+      "nodeID": "251669",
+      "text": "M: WALLACE : four percent growth, the last president to average that was Lyndon Johnson during the height of the Vietnam War",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:18"
+    },
+    {
+      "nodeID": "251670",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:40:18",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "251671",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:40:19",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "251672",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:19",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "251673",
+      "text": "WALLACE : how on Earth specifically would you pull that off?",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:19"
+    },
+    {
+      "nodeID": "251674",
+      "text": "Assertive Questioning",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:19",
+      "scheme": "AssertiveQuestioning",
+      "schemeID": "73"
+    },
+    {
+      "nodeID": "251675",
+      "text": "BUSH wouldn't pull that off",
+      "type": "I",
+      "timestamp": "2016-12-21 17:40:19"
+    },
+    {
+      "nodeID": "251676",
+      "text": "M: WALLACE : how on Earth specifically would you pull that off?",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:19"
+    },
+    {
+      "nodeID": "251677",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:40:19",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "251678",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:40:19",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "251679",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:19",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "251680",
+      "text": "BUSH : We've done it 27 times since World War II",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:20"
+    },
+    {
+      "nodeID": "251681",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:20",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "251682",
+      "text": "USA have done it 27 times since World War II",
+      "type": "I",
+      "timestamp": "2016-12-21 17:40:20"
+    },
+    {
+      "nodeID": "251683",
+      "text": "M: BUSH : We've done it 27 times since World War II",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:20"
+    },
+    {
+      "nodeID": "251684",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:40:20",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "251685",
+      "text": "BUSH : we need to lift our spirits and have high, lofty expectations for this great country of ours",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:20"
+    },
+    {
+      "nodeID": "251686",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:20",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "251687",
+      "text": "we need to lift our spirits and have high, lofty expectations for this great country of ours",
+      "type": "I",
+      "timestamp": "2016-12-21 17:40:20"
+    },
+    {
+      "nodeID": "251688",
+      "text": "M: BUSH : we need to lift our spirits and have high, lofty expectations for this great country of ours",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:20"
+    },
+    {
+      "nodeID": "251689",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-12-21 17:40:21",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "251690",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:21",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "251691",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:40:21",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "251692",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:40:21",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "251693",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:21",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "251694",
+      "text": "BUSH : The new normal of two percent that the left is saying you can't do anything about is so dangerous for our country",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:21"
+    },
+    {
+      "nodeID": "251695",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:21",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "251696",
+      "text": "the new normal of two percent that the left is saying you can't do anything about is so dangerous for our country",
+      "type": "I",
+      "timestamp": "2016-12-21 17:40:21"
+    },
+    {
+      "nodeID": "251697",
+      "text": "M: BUSH : The new normal of two percent that the left is saying you can't do anything about is so dangerous for our country",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:21"
+    },
+    {
+      "nodeID": "251698",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:40:22",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "251699",
+      "text": "BUSH : There's 6 million people living in poverty today, more than when Barack Obama got elected",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:22"
+    },
+    {
+      "nodeID": "251700",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:22",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "251701",
+      "text": "there's 6 million people living in poverty today, more than when Barack Obama got elected",
+      "type": "I",
+      "timestamp": "2016-12-21 17:40:22"
+    },
+    {
+      "nodeID": "251702",
+      "text": "M: BUSH : There's 6 million people living in poverty today, more than when Barack Obama got elected",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:22"
+    },
+    {
+      "nodeID": "251703",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:40:22",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "251704",
+      "text": "BUSH : 6.5 million people are working part-time, most of whom want to work full-time",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:22"
+    },
+    {
+      "nodeID": "251705",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:22",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "251706",
+      "text": "6.5 million people are working part-time, most of whom want to work full-time",
+      "type": "I",
+      "timestamp": "2016-12-21 17:40:22"
+    },
+    {
+      "nodeID": "251707",
+      "text": "M: BUSH : 6.5 million people are working part-time, most of whom want to work full-time",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:23"
+    },
+    {
+      "nodeID": "251708",
+      "text": "BUSH : We've created rules and taxes on top of every aspiration of people",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:23"
+    },
+    {
+      "nodeID": "251709",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:23",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "251710",
+      "text": "USA have created rules and taxes on top of every aspiration of people",
+      "type": "I",
+      "timestamp": "2016-12-21 17:40:23"
+    },
+    {
+      "nodeID": "251711",
+      "text": "M: BUSH : We've created rules and taxes on top of every aspiration of people",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:23"
+    },
+    {
+      "nodeID": "251712",
+      "text": "BUSH : the net result is we're not growing fast",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:23"
+    },
+    {
+      "nodeID": "251713",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:23",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "251714",
+      "text": "the net result is USA are not growing fast",
+      "type": "I",
+      "timestamp": "2016-12-21 17:40:23"
+    },
+    {
+      "nodeID": "251715",
+      "text": "M: BUSH : the net result is we're not growing fast",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:23"
+    },
+    {
+      "nodeID": "251716",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:40:24",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "251717",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:40:24",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "251718",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:24",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "251719",
+      "text": "BUSH : income's not growing",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:24"
+    },
+    {
+      "nodeID": "251720",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:24",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "251721",
+      "text": "income's not growing",
+      "type": "I",
+      "timestamp": "2016-12-21 17:40:24"
+    },
+    {
+      "nodeID": "251722",
+      "text": "M: BUSH : income's not growing",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:24"
+    },
+    {
+      "nodeID": "251723",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:40:24",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "251724",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:40:24",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "251725",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:25",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "251726",
+      "text": "BUSH : A four percent growth strategy means you fix a convoluted tax code",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:25"
+    },
+    {
+      "nodeID": "251727",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:25",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "251728",
+      "text": "a four percent growth strategy means you fix a convoluted tax code",
+      "type": "I",
+      "timestamp": "2016-12-21 17:40:25"
+    },
+    {
+      "nodeID": "251729",
+      "text": "M: BUSH : A four percent growth strategy means you fix a convoluted tax code",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:25"
+    },
+    {
+      "nodeID": "251730",
+      "text": "BUSH : You get in and you change every aspect of regulations that are job killers",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:25"
+    },
+    {
+      "nodeID": "251731",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:25",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "251732",
+      "text": "one should get in and change every aspect of regulations that are job killers",
+      "type": "I",
+      "timestamp": "2016-12-21 17:40:25"
+    },
+    {
+      "nodeID": "251733",
+      "text": "M: BUSH : You get in and you change every aspect of regulations that are job killers",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:25"
+    },
+    {
+      "nodeID": "251734",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:40:26",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "251735",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:40:26",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "251736",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:26",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "251737",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:40:26",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "251738",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:40:26",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "251739",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:26",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "251740",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:40:26",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "251741",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:40:26",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "251742",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:26",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "251743",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:40:27",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "251744",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:40:27",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "251745",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:27",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "251746",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:40:27",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "251747",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:40:27",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "251748",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:27",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "251749",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:40:27",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "251750",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:27",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "251751",
+      "text": "BUSH : You get rid of Obamacare and replace it with something that doesn't suppress wages and kill jobs",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:28"
+    },
+    {
+      "nodeID": "251752",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:28",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "251753",
+      "text": "one should get rid of Obamacare and replace it with something that doesn't suppress wages and kill jobs",
+      "type": "I",
+      "timestamp": "2016-12-21 17:40:28"
+    },
+    {
+      "nodeID": "251754",
+      "text": "M: BUSH : You get rid of Obamacare and replace it with something that doesn't suppress wages and kill jobs",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:28"
+    },
+    {
+      "nodeID": "251755",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:40:28",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "251756",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:40:28",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "251757",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:28",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "251758",
+      "text": "BUSH : You embrace the energy revolution in our country",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:28"
+    },
+    {
+      "nodeID": "251759",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:28",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "251760",
+      "text": "one should embrace the energy revolution in USA",
+      "type": "I",
+      "timestamp": "2016-12-21 17:40:29"
+    },
+    {
+      "nodeID": "251761",
+      "text": "M: BUSH : You embrace the energy revolution in our country",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:29"
+    },
+    {
+      "nodeID": "251762",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:40:29",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "251763",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:40:29",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "251764",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:29",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "251765",
+      "text": "BUSH : This president and Hillary Clinton, who can't even say she's for the XL pipeline even after she's left?",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:29"
+    },
+    {
+      "nodeID": "251766",
+      "text": "Rhetorical Questioning",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:29",
+      "scheme": "RhetoricalQuestioning",
+      "schemeID": "85"
+    },
+    {
+      "nodeID": "251767",
+      "text": "CLINTON can't even say she's for the XL pipeline even after she's left",
+      "type": "I",
+      "timestamp": "2016-12-21 17:40:29"
+    },
+    {
+      "nodeID": "251768",
+      "text": "M: BUSH : This president and Hillary Clinton, who can't even say she's for the XL pipeline even after she's left?",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:29"
+    },
+    {
+      "nodeID": "251769",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:40:30",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "251770",
+      "text": "BUSH : Give me a break",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:30"
+    },
+    {
+      "nodeID": "251771",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:30",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "251772",
+      "text": "give me a break",
+      "type": "I",
+      "timestamp": "2016-12-21 17:40:30"
+    },
+    {
+      "nodeID": "251773",
+      "text": "M: BUSH : Give me a break",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:30"
+    },
+    {
+      "nodeID": "251774",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:40:30",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "251775",
+      "text": "BUSH : Of course we're for it",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:30"
+    },
+    {
+      "nodeID": "251776",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:30",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "251777",
+      "text": "of course we were for it",
+      "type": "I",
+      "timestamp": "2016-12-21 17:40:30"
+    },
+    {
+      "nodeID": "251778",
+      "text": "M: BUSH : Of course we're for it",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:31"
+    },
+    {
+      "nodeID": "251779",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:40:31",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "251780",
+      "text": "BUSH : We should be for these things to create high sustained economic growth",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:31"
+    },
+    {
+      "nodeID": "251781",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:31",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "251782",
+      "text": "we should be for these things to create high sustained economic growth",
+      "type": "I",
+      "timestamp": "2016-12-21 17:40:31"
+    },
+    {
+      "nodeID": "251783",
+      "text": "M: BUSH : We should be for these things to create high sustained economic growth",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:31"
+    },
+    {
+      "nodeID": "251784",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:40:31",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "251785",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:40:31",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "251786",
+      "text": "BUSH : fixing our immigration system and turning it into an economic driver is part of this as well",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:31"
+    },
+    {
+      "nodeID": "251787",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:32",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "251788",
+      "text": "fixing our immigration system and turning it into an economic driver is part of this as well",
+      "type": "I",
+      "timestamp": "2016-12-21 17:40:32"
+    },
+    {
+      "nodeID": "251789",
+      "text": "M: BUSH : fixing our immigration system and turning it into an economic driver is part of this as well",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:32"
+    },
+    {
+      "nodeID": "251790",
+      "text": "BUSH : We can do this",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:32"
+    },
+    {
+      "nodeID": "251791",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:32",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "251792",
+      "text": "We can do this",
+      "type": "I",
+      "timestamp": "2016-12-21 17:40:32"
+    },
+    {
+      "nodeID": "251793",
+      "text": "M: BUSH : We can do this",
+      "type": "L",
+      "timestamp": "2016-12-21 17:40:32"
+    },
+    {
+      "nodeID": "251794",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-12-21 17:40:32",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "251795",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:40:32",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "251796",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:40:33",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "251797",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:40:33",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "303071",
+      "fromID": "251652",
+      "toID": "251651",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303072",
+      "fromID": "251653",
+      "toID": "251652",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303073",
+      "fromID": "251656",
+      "toID": "251657",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303074",
+      "fromID": "251655",
+      "toID": "251656",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303075",
+      "fromID": "251653",
+      "toID": "251659",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303076",
+      "fromID": "251659",
+      "toID": "251655",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303077",
+      "fromID": "251661",
+      "toID": "251662",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303078",
+      "fromID": "251660",
+      "toID": "251661",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303079",
+      "fromID": "251657",
+      "toID": "251664",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303080",
+      "fromID": "251664",
+      "toID": "251651",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303081",
+      "fromID": "251659",
+      "toID": "251665",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303082",
+      "fromID": "251665",
+      "toID": "251664",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303083",
+      "fromID": "251662",
+      "toID": "251664",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303084",
+      "fromID": "251659",
+      "toID": "251660",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303085",
+      "fromID": "251667",
+      "toID": "251668",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303086",
+      "fromID": "251666",
+      "toID": "251667",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303087",
+      "fromID": "251668",
+      "toID": "251670",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303088",
+      "fromID": "251670",
+      "toID": "251651",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303089",
+      "fromID": "251653",
+      "toID": "251671",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303090",
+      "fromID": "251671",
+      "toID": "251666",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303091",
+      "fromID": "251671",
+      "toID": "251672",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303092",
+      "fromID": "251672",
+      "toID": "251670",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303093",
+      "fromID": "251674",
+      "toID": "251675",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303094",
+      "fromID": "251673",
+      "toID": "251674",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303095",
+      "fromID": "251651",
+      "toID": "251677",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303096",
+      "fromID": "251677",
+      "toID": "251675",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303097",
+      "fromID": "251653",
+      "toID": "251678",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303098",
+      "fromID": "251678",
+      "toID": "251673",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303099",
+      "fromID": "251678",
+      "toID": "251679",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303100",
+      "fromID": "251679",
+      "toID": "251677",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303101",
+      "fromID": "251681",
+      "toID": "251682",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303102",
+      "fromID": "251680",
+      "toID": "251681",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303103",
+      "fromID": "251673",
+      "toID": "251684",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303104",
+      "fromID": "251684",
+      "toID": "251680",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303105",
+      "fromID": "251686",
+      "toID": "251687",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303106",
+      "fromID": "251685",
+      "toID": "251686",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303107",
+      "fromID": "251682",
+      "toID": "251689",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303108",
+      "fromID": "251689",
+      "toID": "251675",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303109",
+      "fromID": "251680",
+      "toID": "251690",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303110",
+      "fromID": "251690",
+      "toID": "251675",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303111",
+      "fromID": "251682",
+      "toID": "251691",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303112",
+      "fromID": "251691",
+      "toID": "251687",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303113",
+      "fromID": "251680",
+      "toID": "251692",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303114",
+      "fromID": "251692",
+      "toID": "251685",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303115",
+      "fromID": "251692",
+      "toID": "251693",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303116",
+      "fromID": "251693",
+      "toID": "251691",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303117",
+      "fromID": "251695",
+      "toID": "251696",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303118",
+      "fromID": "251694",
+      "toID": "251695",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303119",
+      "fromID": "251685",
+      "toID": "251698",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303120",
+      "fromID": "251698",
+      "toID": "251694",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303121",
+      "fromID": "251700",
+      "toID": "251701",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303122",
+      "fromID": "251699",
+      "toID": "251700",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303123",
+      "fromID": "251694",
+      "toID": "251703",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303124",
+      "fromID": "251703",
+      "toID": "251699",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303125",
+      "fromID": "251705",
+      "toID": "251706",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303126",
+      "fromID": "251704",
+      "toID": "251705",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303127",
+      "fromID": "251709",
+      "toID": "251710",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303128",
+      "fromID": "251708",
+      "toID": "251709",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303129",
+      "fromID": "251713",
+      "toID": "251714",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303130",
+      "fromID": "251712",
+      "toID": "251713",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303131",
+      "fromID": "251710",
+      "toID": "251716",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303132",
+      "fromID": "251716",
+      "toID": "251714",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303133",
+      "fromID": "251708",
+      "toID": "251717",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303134",
+      "fromID": "251717",
+      "toID": "251712",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303135",
+      "fromID": "251717",
+      "toID": "251718",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303136",
+      "fromID": "251718",
+      "toID": "251716",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303137",
+      "fromID": "251720",
+      "toID": "251721",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303138",
+      "fromID": "251719",
+      "toID": "251720",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303139",
+      "fromID": "251710",
+      "toID": "251723",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303140",
+      "fromID": "251723",
+      "toID": "251721",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303141",
+      "fromID": "251708",
+      "toID": "251724",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303142",
+      "fromID": "251724",
+      "toID": "251719",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303143",
+      "fromID": "251724",
+      "toID": "251725",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303144",
+      "fromID": "251725",
+      "toID": "251723",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303145",
+      "fromID": "251727",
+      "toID": "251728",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303146",
+      "fromID": "251726",
+      "toID": "251727",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303147",
+      "fromID": "251731",
+      "toID": "251732",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303148",
+      "fromID": "251730",
+      "toID": "251731",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303149",
+      "fromID": "251726",
+      "toID": "251734",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303150",
+      "fromID": "251734",
+      "toID": "251730",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303151",
+      "fromID": "251728",
+      "toID": "251735",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303152",
+      "fromID": "251735",
+      "toID": "251732",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303153",
+      "fromID": "251734",
+      "toID": "251736",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303154",
+      "fromID": "251736",
+      "toID": "251735",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303155",
+      "fromID": "251721",
+      "toID": "251737",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303156",
+      "fromID": "251737",
+      "toID": "251732",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303157",
+      "fromID": "251719",
+      "toID": "251738",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303158",
+      "fromID": "251738",
+      "toID": "251730",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303159",
+      "fromID": "251738",
+      "toID": "251739",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303160",
+      "fromID": "251739",
+      "toID": "251737",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303161",
+      "fromID": "251714",
+      "toID": "251740",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303162",
+      "fromID": "251740",
+      "toID": "251732",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303163",
+      "fromID": "251712",
+      "toID": "251741",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303164",
+      "fromID": "251741",
+      "toID": "251730",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303165",
+      "fromID": "251741",
+      "toID": "251742",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303166",
+      "fromID": "251742",
+      "toID": "251740",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303167",
+      "fromID": "251706",
+      "toID": "251743",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303168",
+      "fromID": "251743",
+      "toID": "251732",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303169",
+      "fromID": "251704",
+      "toID": "251744",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303170",
+      "fromID": "251744",
+      "toID": "251730",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303171",
+      "fromID": "251744",
+      "toID": "251745",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303172",
+      "fromID": "251745",
+      "toID": "251743",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303173",
+      "fromID": "251701",
+      "toID": "251746",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303174",
+      "fromID": "251746",
+      "toID": "251732",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303175",
+      "fromID": "251699",
+      "toID": "251747",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303176",
+      "fromID": "251747",
+      "toID": "251730",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303177",
+      "fromID": "251747",
+      "toID": "251748",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303178",
+      "fromID": "251748",
+      "toID": "251746",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303179",
+      "fromID": "251696",
+      "toID": "251749",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303180",
+      "fromID": "251749",
+      "toID": "251687",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303181",
+      "fromID": "251698",
+      "toID": "251750",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303182",
+      "fromID": "251750",
+      "toID": "251749",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303183",
+      "fromID": "251752",
+      "toID": "251753",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303184",
+      "fromID": "251751",
+      "toID": "251752",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303185",
+      "fromID": "251732",
+      "toID": "251755",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303186",
+      "fromID": "251755",
+      "toID": "251753",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303187",
+      "fromID": "251730",
+      "toID": "251756",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303188",
+      "fromID": "251756",
+      "toID": "251751",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303189",
+      "fromID": "251756",
+      "toID": "251757",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303190",
+      "fromID": "251757",
+      "toID": "251755",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303191",
+      "fromID": "251759",
+      "toID": "251760",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303192",
+      "fromID": "251758",
+      "toID": "251759",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303193",
+      "fromID": "251730",
+      "toID": "251762",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303194",
+      "fromID": "251762",
+      "toID": "251758",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303195",
+      "fromID": "251732",
+      "toID": "251763",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303196",
+      "fromID": "251763",
+      "toID": "251760",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303197",
+      "fromID": "251762",
+      "toID": "251764",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303198",
+      "fromID": "251764",
+      "toID": "251763",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303199",
+      "fromID": "251766",
+      "toID": "251767",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303200",
+      "fromID": "251765",
+      "toID": "251766",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303201",
+      "fromID": "251758",
+      "toID": "251769",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303202",
+      "fromID": "251769",
+      "toID": "251765",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303203",
+      "fromID": "251771",
+      "toID": "251772",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303204",
+      "fromID": "251770",
+      "toID": "251771",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303205",
+      "fromID": "251765",
+      "toID": "251774",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303206",
+      "fromID": "251774",
+      "toID": "251770",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303207",
+      "fromID": "251776",
+      "toID": "251777",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303208",
+      "fromID": "251775",
+      "toID": "251776",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303209",
+      "fromID": "251770",
+      "toID": "251779",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303210",
+      "fromID": "251779",
+      "toID": "251775",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303211",
+      "fromID": "251781",
+      "toID": "251782",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303212",
+      "fromID": "251780",
+      "toID": "251781",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303213",
+      "fromID": "251775",
+      "toID": "251784",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303214",
+      "fromID": "251784",
+      "toID": "251780",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303215",
+      "fromID": "251782",
+      "toID": "251785",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303216",
+      "fromID": "251785",
+      "toID": "251777",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303217",
+      "fromID": "251787",
+      "toID": "251788",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303218",
+      "fromID": "251786",
+      "toID": "251787",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303219",
+      "fromID": "251791",
+      "toID": "251792",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303220",
+      "fromID": "251790",
+      "toID": "251791",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303221",
+      "fromID": "251792",
+      "toID": "251794",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303222",
+      "fromID": "251794",
+      "toID": "251675",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303223",
+      "fromID": "251790",
+      "toID": "251795",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303224",
+      "fromID": "251795",
+      "toID": "251675",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303225",
+      "fromID": "251786",
+      "toID": "251796",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303226",
+      "fromID": "251796",
+      "toID": "251790",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303227",
+      "fromID": "251780",
+      "toID": "251797",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303228",
+      "fromID": "251797",
+      "toID": "251786",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "251653",
+      "personID": "2410",
+      "timestamp": "2016-12-21 17:40:43",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

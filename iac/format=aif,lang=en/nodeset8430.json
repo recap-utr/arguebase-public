@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157370",
+      "text": "BTW, Jim, this reminds me of that thread about men wearing make-up. If you want to call me on that - okay - but that was for television...and that's it. I mean it. Seriously...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:10"
+    },
+    {
+      "nodeID": "157371",
+      "text": "Yes, I remember, and I agree. Johnny was just primping for the cameras. I do believe though that historically men have been vain and will continue to be so. Your expression of machoism in the toughness of your truck is just another vanity. Vanity can be expressed by the pride one takes in the amount of mud hanging on the four wheeler after a spin in the backwoods. Face it, BO. You're just a vain man, such as I am. Our quest to have the biggest, baddest truck on the block is not much different from a woman wanting to be the belle of the ball. And often men express their vanity in the 'possession' of a trophy wife.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:10"
+    },
+    {
+      "nodeID": "157372",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:28:10"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195688",
+      "fromID": "157371",
+      "toID": "157372",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195689",
+      "fromID": "157372",
+      "toID": "157370",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

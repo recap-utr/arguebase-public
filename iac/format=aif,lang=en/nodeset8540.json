@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "158896",
+      "text": "In a few decades, it might be possible that technological progress would develop an 'artificial womb' that can nurture a fetus almost from day one until birth. How would that change the abortion debate?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:43"
+    },
+    {
+      "nodeID": "158897",
+      "text": "That would most likely (imo) reduce the number of abortions performed. It would depend, I think, on how viable it is to transfer the embryo into the artificial womb. Forced surgery would not be an option if I had anything to do about it.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:44"
+    },
+    {
+      "nodeID": "158898",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:31:44"
+    },
+    {
+      "nodeID": "158899",
+      "text": "What if the surgery for transferring the embryo/fetus would be equal in difficulty, risk, etc. to having an abortion? There would then be no extra physical cost incurred in keeping the embryo/fetus alive. What would be the reasons, in such a case, to keep abortion as an option?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:44"
+    },
+    {
+      "nodeID": "158900",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:31:44"
+    },
+    {
+      "nodeID": "158901",
+      "text": "Responsibility would be easy - whoever was adopting it, its not hard I've been told to find adoptive parents for babies and if you have up to 9 months to do so then its even easier. However I think the cost of the units means they would still only be used where abortion was not possible - say the fetus had developed past the allowed abortable age (so for me that means a functioning brain). Its not going to be possible to transfer every potential abortion to the womb unit, at least not or a very long time.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:44"
+    },
+    {
+      "nodeID": "158902",
+      "text": "Cost would certainly be an issue. If the adoptive parents were willing to take on that cost, that would be best. I wonder, though, how much demand there really is out there for adopted babies. As I understand the situation, currently there are far more parents looking to adopt than there are new babies up for adoption. However, if such an artificial womb would exist, then that may not be the case any longer. Would the mother then have to be responsible? Not that easy a case to ponder since that would be a case of performing abortion not purely out of a sense of a woman's right over her own body (since transfer would be an option) but out of purely financial, practical reasons.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:44"
+    },
+    {
+      "nodeID": "158903",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:31:44"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196784",
+      "fromID": "158897",
+      "toID": "158898",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196785",
+      "fromID": "158898",
+      "toID": "158896",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196786",
+      "fromID": "158899",
+      "toID": "158900",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196787",
+      "fromID": "158900",
+      "toID": "158897",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196788",
+      "fromID": "158902",
+      "toID": "158903",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196789",
+      "fromID": "158903",
+      "toID": "158901",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

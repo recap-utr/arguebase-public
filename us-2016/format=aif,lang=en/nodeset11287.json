@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "nodeID": "212601",
+      "text": "SapCPark : He's education point was cringe worthy",
+      "type": "L",
+      "timestamp": "2016-10-31 17:18:14"
+    },
+    {
+      "nodeID": "220767",
+      "text": "they will use Common Core or any other requirements that exists nationally to force it down the throats of our people in our states",
+      "type": "I",
+      "timestamp": "2016-11-01 15:02:35"
+    },
+    {
+      "nodeID": "220807",
+      "text": "RUBIO : they will use Common Core or any other requirements that exists nationally to force it down the throats of our people in our states",
+      "type": "L",
+      "timestamp": "2016-11-01 15:02:39"
+    },
+    {
+      "nodeID": "264370",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 12:30:47",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264371",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-09 12:30:48",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "319814",
+      "fromID": "220807",
+      "toID": "264370",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319815",
+      "fromID": "264370",
+      "toID": "212601",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319816",
+      "fromID": "264370",
+      "toID": "264371",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319817",
+      "fromID": "264371",
+      "toID": "220767",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "220807",
+      "personID": "2411",
+      "timestamp": "2016-11-01 15:03:06",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

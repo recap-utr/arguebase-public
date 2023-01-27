@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "146220",
+      "text": "This post definately isn't up to your typical standards Greg. That's some pretty poor logic. Waxy",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:48"
+    },
+    {
+      "nodeID": "146221",
+      "text": "Well your right , Waxy  There is no real 'logic' to my post, because if one thinks about the art of debating religion, the concept of logic goes out the window. A true believer has only the bible to support their beliefs, they cannot go to a lab or science room and prove their beliefs on a table , or use cobalt to date religous belief , so their belief is all based on unseen faith. I have only a high school education, therefore I do not have the vocabulary the master debators use on here, nor the artistic way of putting together sentences. So bear with me please , while I try to explain my post a little better.... Since you put me in the spotlight here, I will use you, with great respect to you of course , as my point of debate. You have went on record here stating many times , that you do not believe in a 'god' the way we believers do. Now with that notion in mind, why do you and others hang out debating on a religous forum ?? In case you havent noticed , the posts against the notion of God and Christianity, greatly outnumber the posts of the believers . Is that not a interesting fact when you think about it ? I dont believe in a lot of things that I am exposed to in my walk though life here on earth, so I have NO interest in trying to prove those things wrong , THAT I feel have no validity . Clear as mud now , ?? :)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:48"
+    },
+    {
+      "nodeID": "146222",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:03:48"
+    },
+    {
+      "nodeID": "146223",
+      "text": "I think there's a few points to be made here - 1) This is a forum specifically for the purpose of discussing God and religion. Thousands, hundred's of thousands, maybe even billions of people who don't believe in God haven't bothered to seek it out, they have no interest, it attracts those that do have an interest in learning how and why others think and do as they do. 2) Discussing something, no matter what the reason or how much it is discussed, does not lend any validity to what is being discussed. There is an infinite number of examples I could give to illustrate that point. Take in a sci-fi convention some time as a prime example. 3) I don't see so much the discussion of 'is there a God/isn't there a God', as I do the discussion of religion and the Bible. That is a very important distinction. Religion is very real, and affects all of us, whether we are believers in it or not. Whether or not Bigfoot exists, or the Klingons are invading someone, has no bearing whatsoever on my life or reality, religion does. I think that is the reason you see such fervent discussion and rejection of Christianity on forums like this. Why the large outcry? Those in the minority always tend to be more vocal, they have to be, or they'd simply be overwhelmed by the 'silent' majority. Waxy P.S. Don't sell yourself short, you more than hold your own on these forums.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:48"
+    },
+    {
+      "nodeID": "146224",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:03:48"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187818",
+      "fromID": "146221",
+      "toID": "146222",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187819",
+      "fromID": "146222",
+      "toID": "146220",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187820",
+      "fromID": "146223",
+      "toID": "146224",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187821",
+      "fromID": "146224",
+      "toID": "146221",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151401",
+      "text": "It seems in this case they used termination to get rid of dna evidence therefore allowing the stepfather to carry on abusing his step daughter. The mother should be charged with destroying police evidence and accessory to the crime.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:45"
+    },
+    {
+      "nodeID": "151402",
+      "text": "Just another bogus reason for having and abortion............There are thousands of them.........",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:45"
+    },
+    {
+      "nodeID": "151403",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:14:45"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191476",
+      "fromID": "151402",
+      "toID": "151403",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191477",
+      "fromID": "151403",
+      "toID": "151401",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

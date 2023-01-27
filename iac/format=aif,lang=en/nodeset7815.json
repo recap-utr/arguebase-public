@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148251",
+      "text": "A Gun was involved in 18% of murders, 10% of murders",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:07"
+    },
+    {
+      "nodeID": "148252",
+      "text": "so is it better to be murdered by a knife than a gun? final thought, you are advacating removing hundrides of millions of dollers of property from millions of legal gun owners, becouse of thousandes of scum bags.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:07"
+    },
+    {
+      "nodeID": "148253",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:08:07"
+    },
+    {
+      "nodeID": "148254",
+      "text": "You want to see the killing of our kids as well",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:07"
+    },
+    {
+      "nodeID": "148255",
+      "text": "Yes. It's part of this massive conspiracy. We're trying to thin out your population so we can take Australia for our own. emoticon_xgood",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:07"
+    },
+    {
+      "nodeID": "148256",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:08:07"
+    },
+    {
+      "nodeID": "148257",
+      "text": "'Does a gunbuyback Work? Do Bears #### in the Woods?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:07"
+    },
+    {
+      "nodeID": "148258",
+      "text": "So you think the money spent on gun buybacks was better spent there than on say, more hospitals, medical equipment or doctors?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:07"
+    },
+    {
+      "nodeID": "148259",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:08:07"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189248",
+      "fromID": "148252",
+      "toID": "148253",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189249",
+      "fromID": "148253",
+      "toID": "148251",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189250",
+      "fromID": "148255",
+      "toID": "148256",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189251",
+      "fromID": "148256",
+      "toID": "148254",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189252",
+      "fromID": "148258",
+      "toID": "148259",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189253",
+      "fromID": "148259",
+      "toID": "148257",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

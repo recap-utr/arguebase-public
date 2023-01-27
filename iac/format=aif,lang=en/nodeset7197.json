@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139127",
+      "text": "Sorry to disappoint you, Occam, but partial-birth aboprtion is not 'extremely rare,' as you purport.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:31"
+    },
+    {
+      "nodeID": "139128",
+      "text": "I believe my wording was 'very rare'. Please do not exaggerate my statements by mis-quoting me. But as you have mentioned it, care to produce some figures on the frequency of partial birth abortions? Its just you have a habit of making over-inflated statements to support your arguements.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:31"
+    },
+    {
+      "nodeID": "139129",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:48:31"
+    },
+    {
+      "nodeID": "139130",
+      "text": "I was responding to her signature.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:31"
+    },
+    {
+      "nodeID": "139131",
+      "text": "So what, the thread isn't about her signature. If we started responding to threads by attacking people's signatures, we'd all be in serious trouble. Especially me emoticon_xangel",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:31"
+    },
+    {
+      "nodeID": "139132",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:48:31"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182808",
+      "fromID": "139128",
+      "toID": "139129",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182809",
+      "fromID": "139129",
+      "toID": "139127",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182810",
+      "fromID": "139131",
+      "toID": "139132",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182811",
+      "fromID": "139132",
+      "toID": "139130",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

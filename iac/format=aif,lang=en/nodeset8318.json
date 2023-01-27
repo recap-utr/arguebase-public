@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "155694",
+      "text": "Burglary victims attacked in their own home once every 30 minutes The householder is getting awfully darn tired of it too, and ask if the burglar could pick on someone else for a change. emoticon_smile Alright, so maybe this isn't really funny.   Burglary victims attacked in their own home once every 30 minutes   Defenseless British citizens are attacked in their own homes by violent burglars every 30 Minutes Gun control is NOT Crime Control! It only makes for peaceful compliant victims of these violent predators!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:22"
+    },
+    {
+      "nodeID": "155695",
+      "text": "Well it sure sounds like a good place to have a security businessemoticon_idea.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:22"
+    },
+    {
+      "nodeID": "155696",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:22"
+    },
+    {
+      "nodeID": "155697",
+      "text": "Show me comparable figures for the US, and include ALL violent crime rather than picking one isolated stat. I'll take a slight increased risk of being attacked at home if it means a large drop in the risk of being gunned down in the street. Even if the claimed figures are correct, it represents a rate of less than 4 in 10 000 people every year. That's one in every 50 people in the entire course of their lifetime. And that's before we get on to what is considered violent crime. Pushing someone out the way while attempting to escape is a violent crime under UK law. Is that worth shooting someone over? Despite the illustration of the article, I think you'll find virtually none of the burglars was carrying a gun, and if any householders were killed it is a tiny number.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:22"
+    },
+    {
+      "nodeID": "155698",
+      "text": "No worries mate. Brooklyn&#39;s 81st Precinct probed by NYPD for fudging stats; felonies allegedly marked as misdemeanors New York cops 'fudge' stats like the Tories to make their 'strict gun laws' look more compatible to the States that do not have draconian anti gun laws and need not depend on the cops protecting you when they have no duty to do so. I have been following UK stats for a long time and no matter who is in power, the crime rates increase. Often the perp is set free and the victem is the one punished like the incident you mentioned: Pushing someone out the way while attempting to escape is a violent crime under UK law. Gun control is not crime control! It is just more evident in the UK. At least here you can still shoot the _____________s and that is a great deterrant :)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:22"
+    },
+    {
+      "nodeID": "155699",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:22"
+    },
+    {
+      "nodeID": "155700",
+      "text": "No worries mate. Brooklyn's 81st Precinct probed by NYPD for fudging stats; felonies allegedly marked as misdemeanors New York cops 'fudge' stats like the Tories to make their 'strict gun laws' look more compatible to the States that do not have draconian anti gun laws and need not depend on the cops protecting you when they have no duty to do so. I have been following UK stats for a long time and no matter who is in power, the crime rates increase. Often the perp is set free and the victem is the one punished like the incident you mentioned: Pushing someone out the way while attempting to escape is a violent crime under UK law.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:23"
+    },
+    {
+      "nodeID": "155701",
+      "text": "You realise I'm talking about if the burglar is running away, not the householder, right? Looking at it again I realise I may not have phrased it clearly enough. I'm saying that some of those 'violent' crimes may simply have been burglars pegging it when disturbed.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:23"
+    },
+    {
+      "nodeID": "155702",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:23"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194512",
+      "fromID": "155695",
+      "toID": "155696",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194513",
+      "fromID": "155696",
+      "toID": "155694",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194514",
+      "fromID": "155698",
+      "toID": "155699",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194515",
+      "fromID": "155699",
+      "toID": "155697",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194516",
+      "fromID": "155701",
+      "toID": "155702",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194517",
+      "fromID": "155702",
+      "toID": "155700",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

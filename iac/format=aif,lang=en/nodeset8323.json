@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "155727",
+      "text": "Come on, it's Andy Schlafly. What do you expect from the spawn of Phyllis?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:28"
+    },
+    {
+      "nodeID": "155728",
+      "text": "Oh, that explains a lot.  I actually forgot who she was, had to google the name. As soon as I found her writings, I remembered *shudder*. Read some of her stuff a few years back. Scary",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:28"
+    },
+    {
+      "nodeID": "155729",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:24:28"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194534",
+      "fromID": "155728",
+      "toID": "155729",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194535",
+      "fromID": "155729",
+      "toID": "155727",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

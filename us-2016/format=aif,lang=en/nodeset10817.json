@@ -1,0 +1,2075 @@
+{
+  "nodes": [
+    {
+      "nodeID": "249187",
+      "text": "M: BASH : CNN visited college campuses, along with Facebook. And not surprisingly college affordability was among the most pressing issue",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:08"
+    },
+    {
+      "nodeID": "249188",
+      "text": "BASH : Senator Sanders, you've mentioned a couple of times you do have a plan to make public colleges free for everyone",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:09"
+    },
+    {
+      "nodeID": "249189",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:48:09",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249190",
+      "text": "SANDERS has mentioned a couple of times he does have a plan to make public colleges free for everyone",
+      "type": "I",
+      "timestamp": "2016-12-21 14:48:09"
+    },
+    {
+      "nodeID": "249191",
+      "text": "M: BASH : Senator Sanders, you've mentioned a couple of times you do have a plan to make public colleges free for everyone",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:09"
+    },
+    {
+      "nodeID": "249192",
+      "text": "BASH : Secretary Clinton has criticized that in saying she's not in favor of making a college free for Donald Trump's kids",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:09"
+    },
+    {
+      "nodeID": "249193",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:48:09",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249194",
+      "text": "CLINTON has criticized SANDERS' plan in saying she's not in favor of making a college free for TRUMP's kids",
+      "type": "I",
+      "timestamp": "2016-12-21 14:48:09"
+    },
+    {
+      "nodeID": "249195",
+      "text": "M: BASH : Secretary Clinton has criticized that in saying she's not in favor of making a college free for Donald Trump's kids",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:09"
+    },
+    {
+      "nodeID": "249196",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:48:09",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249197",
+      "text": "BASH : Do you think taxpayers should pick up the tab for wealthy children?\u00a0",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:09"
+    },
+    {
+      "nodeID": "249198",
+      "text": "Pure Questioning",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:48:10",
+      "scheme": "PureQuestioning",
+      "schemeID": "91"
+    },
+    {
+      "nodeID": "249199",
+      "text": "taxpayers should/should not pick up the tab for wealthy children",
+      "type": "I",
+      "timestamp": "2016-12-21 14:48:10"
+    },
+    {
+      "nodeID": "249200",
+      "text": "M: BASH : Do you think taxpayers should pick up the tab for wealthy children?\u00a0",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:10"
+    },
+    {
+      "nodeID": "249201",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:48:10",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249202",
+      "text": "SANDERS : Donald Trump and his billionaire friends under my policies are going to pay a hell of a lot more in taxes today \u2014 taxes in the future than they're paying today",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:10"
+    },
+    {
+      "nodeID": "249203",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:48:10",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249204",
+      "text": "TRUMP and his billionaire friends under SANDERS' policies are going to pay a hell of a lot more in taxes in the future than they're paying today",
+      "type": "I",
+      "timestamp": "2016-12-21 14:48:10"
+    },
+    {
+      "nodeID": "249205",
+      "text": "M: SANDERS : Donald Trump and his billionaire friends under my policies are going to pay a hell of a lot more in taxes today \u2014 taxes in the future than they're paying today",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:10"
+    },
+    {
+      "nodeID": "249206",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:48:10",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249207",
+      "text": "SANDERS : in terms of education, this is what I think",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:11"
+    },
+    {
+      "nodeID": "249208",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:48:11",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249209",
+      "text": "in terms of education, this is what SANDERS thinks",
+      "type": "I",
+      "timestamp": "2016-12-21 14:48:11"
+    },
+    {
+      "nodeID": "249210",
+      "text": "M: SANDERS : in terms of education, this is what I think",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:11"
+    },
+    {
+      "nodeID": "249211",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:48:11",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249212",
+      "text": "SANDERS : This is the year 2015",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:11"
+    },
+    {
+      "nodeID": "249213",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:48:11",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249214",
+      "text": "this is the year 2015",
+      "type": "I",
+      "timestamp": "2016-12-21 14:48:11"
+    },
+    {
+      "nodeID": "249215",
+      "text": "M: SANDERS : This is the year 2015",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:11"
+    },
+    {
+      "nodeID": "249216",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:48:12",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249217",
+      "text": "SANDERS : A college degree today, Dana, is the equivalent of what a high school degree was 50 years ago",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:12"
+    },
+    {
+      "nodeID": "249218",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:48:12",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249219",
+      "text": "a college degree today is the equivalent of what a high school degree was 50 years ago",
+      "type": "I",
+      "timestamp": "2016-12-21 14:48:12"
+    },
+    {
+      "nodeID": "249220",
+      "text": "M: SANDERS : A college degree today, Dana, is the equivalent of what a high school degree was 50 years ago",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:12"
+    },
+    {
+      "nodeID": "249221",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:48:12",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249222",
+      "text": "SANDERS : what we said 50 years ago and a hundred years ago is that every kid in this country should be able to get a high school education regardless of the income of their family",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:12"
+    },
+    {
+      "nodeID": "249223",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:48:12",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249224",
+      "text": "what we said 50 years ago and a hundred years ago is that every kid in this country should be able to get a high school education regardless of the income of their family",
+      "type": "I",
+      "timestamp": "2016-12-21 14:48:12"
+    },
+    {
+      "nodeID": "249225",
+      "text": "M: SANDERS : what we said 50 years ago and a hundred years ago is that every kid in this country should be able to get a high school education regardless of the income of their family",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:13"
+    },
+    {
+      "nodeID": "249226",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:48:13",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249227",
+      "text": "M: SANDERS : I think we have to say that is true for everybody going to college",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:13"
+    },
+    {
+      "nodeID": "249228",
+      "text": "SANDERS : we have to say that is true for everybody going to college",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:13"
+    },
+    {
+      "nodeID": "249229",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:48:13",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249230",
+      "text": "we have to say that is true for everybody going to college",
+      "type": "I",
+      "timestamp": "2016-12-21 14:48:13"
+    },
+    {
+      "nodeID": "249231",
+      "text": "M: SANDERS : we have to say that is true for everybody going to college",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:13"
+    },
+    {
+      "nodeID": "249232",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:48:13",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249233",
+      "text": "SANDERS : we don't need a complicated system, which the secretary is talking about",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:13"
+    },
+    {
+      "nodeID": "249234",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:48:14",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249235",
+      "text": "we don't need a complicated system, which CLINTON is talking about",
+      "type": "I",
+      "timestamp": "2016-12-21 14:48:14"
+    },
+    {
+      "nodeID": "249236",
+      "text": "M: SANDERS : we don't need a complicated system, which the secretary is talking about",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:14"
+    },
+    {
+      "nodeID": "249237",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:48:14",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249238",
+      "text": "M: SANDERS : income goes down",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:14"
+    },
+    {
+      "nodeID": "249239",
+      "text": "SANDERS : the income goes down",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:14"
+    },
+    {
+      "nodeID": "249240",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:48:14",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249241",
+      "text": "the income goes down",
+      "type": "I",
+      "timestamp": "2016-12-21 14:48:14"
+    },
+    {
+      "nodeID": "249242",
+      "text": "M: SANDERS : the income goes down",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:14"
+    },
+    {
+      "nodeID": "249243",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:48:15",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249244",
+      "text": "SANDERS :  the income goes down",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:15"
+    },
+    {
+      "nodeID": "249245",
+      "text": "M: SANDERS :  the income goes down",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:15"
+    },
+    {
+      "nodeID": "249246",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:48:15",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249247",
+      "text": "SANDERS : if you're poor you have to work, and so forth and so on",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:15"
+    },
+    {
+      "nodeID": "249248",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:48:15",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249249",
+      "text": "if you're poor you have to work, and so forth and so on",
+      "type": "I",
+      "timestamp": "2016-12-21 14:48:15"
+    },
+    {
+      "nodeID": "249250",
+      "text": "M: SANDERS : if you're poor you have to work, and so forth and so on",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:15"
+    },
+    {
+      "nodeID": "249251",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:48:15",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249252",
+      "text": "SANDERS : I pay for my program, by the way, through a tax on Wall Street speculation, which will not only make public colleges and universities tuition-free, it will substantially lower interest rates on college debt, a major crisis in this country",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:16"
+    },
+    {
+      "nodeID": "249253",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:48:16",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249254",
+      "text": "SANDERS pays for his program through a tax on Wall Street speculation, which will not only make public colleges and universities tuition-free, it will substantially lower interest rates on college debt, a major crisis in this country",
+      "type": "I",
+      "timestamp": "2016-12-21 14:48:16"
+    },
+    {
+      "nodeID": "249255",
+      "text": "M: SANDERS : I pay for my program, by the way, through a tax on Wall Street speculation, which will not only make public colleges and universities tuition-free, it will substantially lower interest rates on college debt, a major crisis in this country",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:16"
+    },
+    {
+      "nodeID": "249256",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:48:16",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249257",
+      "text": "BASH : Secretary Clinton, it's not just college tuition that Senator Sanders is talking about, expanding Social Security and giving all Americans Medicare",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:16"
+    },
+    {
+      "nodeID": "249258",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:48:16",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249259",
+      "text": "it's not just college tuition that SANDERS is talking about, expanding Social Security and giving all Americans Medicare",
+      "type": "I",
+      "timestamp": "2016-12-21 14:48:16"
+    },
+    {
+      "nodeID": "249260",
+      "text": "M: BASH : Secretary Clinton, it's not just college tuition that Senator Sanders is talking about, expanding Social Security and giving all Americans Medicare",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:16"
+    },
+    {
+      "nodeID": "249261",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:48:17",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249262",
+      "text": "BASH : What's wrong with that?",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:17"
+    },
+    {
+      "nodeID": "249263",
+      "text": "Assertive Questioning",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:48:17",
+      "scheme": "AssertiveQuestioning",
+      "schemeID": "73"
+    },
+    {
+      "nodeID": "249264",
+      "text": "there's nothing wrong with SANDERS' plan",
+      "type": "I",
+      "timestamp": "2016-12-21 14:48:17"
+    },
+    {
+      "nodeID": "249265",
+      "text": "M: BASH : What's wrong with that?",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:17"
+    },
+    {
+      "nodeID": "249266",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:48:17",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249267",
+      "text": "CLINTON : let me address college affordability",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:17"
+    },
+    {
+      "nodeID": "249268",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:48:17",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249269",
+      "text": "CLINTON would like to address college affordability",
+      "type": "I",
+      "timestamp": "2016-12-21 14:48:17"
+    },
+    {
+      "nodeID": "249270",
+      "text": "M: CLINTON : let me address college affordability",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:17"
+    },
+    {
+      "nodeID": "249271",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:48:18",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249272",
+      "text": "CLINTON : I have a plan that I think will really zero in on what the problems are",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:18"
+    },
+    {
+      "nodeID": "249273",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:48:18",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249274",
+      "text": "CLINTON has a plan that she thinks will really zero in on what the problems are",
+      "type": "I",
+      "timestamp": "2016-12-21 14:48:18"
+    },
+    {
+      "nodeID": "249275",
+      "text": "M: CLINTON : I have a plan that I think will really zero in on what the problems are",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:18"
+    },
+    {
+      "nodeID": "249276",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:48:18",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249277",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 14:48:18",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "249278",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:48:18",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "249279",
+      "text": "all the 40 million Americans who currently have student debt will be able to refinance their debt to a low interest rate",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:18"
+    },
+    {
+      "nodeID": "249280",
+      "text": "CLINTON : all the 40 million Americans who currently have student debt will be able to refinance their debt to a low interest rate",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:19"
+    },
+    {
+      "nodeID": "249281",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:48:19",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249282",
+      "text": "M: CLINTON : all the 40 million Americans who currently have student debt will be able to refinance their debt to a low interest rate",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:19"
+    },
+    {
+      "nodeID": "249283",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:48:19",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249284",
+      "text": "CLINTON : That will save thousands of dollars for people who are now struggling under this cumbersome, burdensome college debt",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:19"
+    },
+    {
+      "nodeID": "249285",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:48:19",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249286",
+      "text": "that will save thousands of dollars for people who are now struggling under this cumbersome, burdensome college debt",
+      "type": "I",
+      "timestamp": "2016-12-21 14:48:19"
+    },
+    {
+      "nodeID": "249287",
+      "text": "M: CLINTON : That will save thousands of dollars for people who are now struggling under this cumbersome, burdensome college debt",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:19"
+    },
+    {
+      "nodeID": "249288",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:48:20",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249289",
+      "text": "CLINTON : As a young student in Nevada said to me, the hardest thing about going to college should not be paying for it",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:20"
+    },
+    {
+      "nodeID": "249290",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:48:20",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249291",
+      "text": "As a young student in Nevada said to me, the hardest thing about going to college should not be paying for it",
+      "type": "I",
+      "timestamp": "2016-12-21 14:48:20"
+    },
+    {
+      "nodeID": "249292",
+      "text": "M: CLINTON : As a young student in Nevada said to me, the hardest thing about going to college should not be paying for it",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:20"
+    },
+    {
+      "nodeID": "249293",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:48:20",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249294",
+      "text": "CLINTON : then we have to make it more affordable",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:20"
+    },
+    {
+      "nodeID": "249295",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:48:20",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249296",
+      "text": "then we have to make college more affordable",
+      "type": "I",
+      "timestamp": "2016-12-21 14:48:20"
+    },
+    {
+      "nodeID": "249297",
+      "text": "M: CLINTON : then we have to make it more affordable",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:21"
+    },
+    {
+      "nodeID": "249298",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:48:21",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249299",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 14:48:21",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "249300",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:48:21",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "249301",
+      "text": "CLINTON : How do we make it more affordable?",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:21"
+    },
+    {
+      "nodeID": "249302",
+      "text": "Pure Questioning",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:48:21",
+      "scheme": "PureQuestioning",
+      "schemeID": "91"
+    },
+    {
+      "nodeID": "249303",
+      "text": "we make college more affordable by X",
+      "type": "I",
+      "timestamp": "2016-12-21 14:48:21"
+    },
+    {
+      "nodeID": "249304",
+      "text": "M: CLINTON : How do we make it more affordable?",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:21"
+    },
+    {
+      "nodeID": "249305",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:48:21",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249306",
+      "text": "CLINTON : My plan would enable anyone to go to a public college or university tuition free",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:22"
+    },
+    {
+      "nodeID": "249307",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:48:22",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249308",
+      "text": "CLINTON's plan would enable anyone to go to a public college or university tuition free",
+      "type": "I",
+      "timestamp": "2016-12-21 14:48:22"
+    },
+    {
+      "nodeID": "249309",
+      "text": "M: CLINTON : My plan would enable anyone to go to a public college or university tuition free",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:22"
+    },
+    {
+      "nodeID": "249310",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:48:22",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249311",
+      "text": "CLINTON : You would not have to borrow money for tuition",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:22"
+    },
+    {
+      "nodeID": "249312",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:48:22",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249313",
+      "text": "if CLINTON's plan works, one would not have to borrow money for tuition",
+      "type": "I",
+      "timestamp": "2016-12-21 14:48:22"
+    },
+    {
+      "nodeID": "249314",
+      "text": "M: CLINTON : You would not have to borrow money for tuition",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:22"
+    },
+    {
+      "nodeID": "249315",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:48:23",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249316",
+      "text": "CLINTON : maybe it's because I worked when I went through college",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:23"
+    },
+    {
+      "nodeID": "249317",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:48:23",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249318",
+      "text": "maybe it's because CLINTON worked when she went through college",
+      "type": "I",
+      "timestamp": "2016-12-21 14:48:23"
+    },
+    {
+      "nodeID": "249319",
+      "text": "M: CLINTON : maybe it's because I worked when I went through college",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:23"
+    },
+    {
+      "nodeID": "249320",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:48:23",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249321",
+      "text": "CLINTON : I worked when I went through law school",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:23"
+    },
+    {
+      "nodeID": "249322",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:48:23",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249323",
+      "text": "CLINTON worked when she went through law school",
+      "type": "I",
+      "timestamp": "2016-12-21 14:48:23"
+    },
+    {
+      "nodeID": "249324",
+      "text": "M: CLINTON : I worked when I went through law school",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:24"
+    },
+    {
+      "nodeID": "249325",
+      "text": "CLINTON : it's important for everybody to have some part of getting this accomplished",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:24"
+    },
+    {
+      "nodeID": "249326",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:48:24",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249327",
+      "text": "it's important for everybody to have some part of getting this accomplished",
+      "type": "I",
+      "timestamp": "2016-12-21 14:48:24"
+    },
+    {
+      "nodeID": "249328",
+      "text": "M: CLINTON : it's important for everybody to have some part of getting this accomplished",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:24"
+    },
+    {
+      "nodeID": "249329",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 14:48:24",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "249330",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 14:48:24",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "249331",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:48:24",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249332",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:48:24",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "249333",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:48:25",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249334",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:48:25",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "249335",
+      "text": "CLINTON : That's why I call it a compact",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:25"
+    },
+    {
+      "nodeID": "249336",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:48:25",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249337",
+      "text": "that's why CLINTON calls it a compact",
+      "type": "I",
+      "timestamp": "2016-12-21 14:48:25"
+    },
+    {
+      "nodeID": "249338",
+      "text": "M: CLINTON : That's why I call it a compact",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:25"
+    },
+    {
+      "nodeID": "249339",
+      "text": "CLINTON : yes, I would like students to work 10 hours a week",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:25"
+    },
+    {
+      "nodeID": "249340",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:48:25",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249341",
+      "text": "CLINTON would like students to work 10 hours a week",
+      "type": "I",
+      "timestamp": "2016-12-21 14:48:25"
+    },
+    {
+      "nodeID": "249342",
+      "text": "M: CLINTON : yes, I would like students to work 10 hours a week",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:26"
+    },
+    {
+      "nodeID": "249343",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:48:26",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249344",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 14:48:26",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "249345",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:48:26",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "249346",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:48:26",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249347",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 14:48:26",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "249348",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:48:26",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "249349",
+      "text": "BASH : CNN visited college campuses, along with Facebook",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:26"
+    },
+    {
+      "nodeID": "249350",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:48:27",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249351",
+      "text": "CNN visited college campuses, along with Facebook",
+      "type": "I",
+      "timestamp": "2016-12-21 14:48:27"
+    },
+    {
+      "nodeID": "249352",
+      "text": "M: BASH : CNN visited college campuses, along with Facebook",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:27"
+    },
+    {
+      "nodeID": "249353",
+      "text": "BASH : not surprisingly college affordability was among the most pressing issue",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:27"
+    },
+    {
+      "nodeID": "249354",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:48:27",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249355",
+      "text": "not surprisingly college affordability was among the most pressing issue",
+      "type": "I",
+      "timestamp": "2016-12-21 14:48:27"
+    },
+    {
+      "nodeID": "249356",
+      "text": "M: BASH : not surprisingly college affordability was among the most pressing issue",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:27"
+    },
+    {
+      "nodeID": "249357",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:48:27",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249358",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:48:27",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "300659",
+      "fromID": "249189",
+      "toID": "249190",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300660",
+      "fromID": "249188",
+      "toID": "249189",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300661",
+      "fromID": "249193",
+      "toID": "249194",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300662",
+      "fromID": "249192",
+      "toID": "249193",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300663",
+      "fromID": "249188",
+      "toID": "249196",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300664",
+      "fromID": "249196",
+      "toID": "249192",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300665",
+      "fromID": "249198",
+      "toID": "249199",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300666",
+      "fromID": "249197",
+      "toID": "249198",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300667",
+      "fromID": "249192",
+      "toID": "249201",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300668",
+      "fromID": "249201",
+      "toID": "249197",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300669",
+      "fromID": "249203",
+      "toID": "249204",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300670",
+      "fromID": "249202",
+      "toID": "249203",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300671",
+      "fromID": "249197",
+      "toID": "249206",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300672",
+      "fromID": "249206",
+      "toID": "249202",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300673",
+      "fromID": "249208",
+      "toID": "249209",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300674",
+      "fromID": "249207",
+      "toID": "249208",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300675",
+      "fromID": "249202",
+      "toID": "249211",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300676",
+      "fromID": "249211",
+      "toID": "249207",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300677",
+      "fromID": "249213",
+      "toID": "249214",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300678",
+      "fromID": "249212",
+      "toID": "249213",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300679",
+      "fromID": "249207",
+      "toID": "249216",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300680",
+      "fromID": "249216",
+      "toID": "249212",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300681",
+      "fromID": "249218",
+      "toID": "249219",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300682",
+      "fromID": "249217",
+      "toID": "249218",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300683",
+      "fromID": "249212",
+      "toID": "249221",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300684",
+      "fromID": "249221",
+      "toID": "249217",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300685",
+      "fromID": "249223",
+      "toID": "249224",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300686",
+      "fromID": "249222",
+      "toID": "249223",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300687",
+      "fromID": "249217",
+      "toID": "249226",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300688",
+      "fromID": "249226",
+      "toID": "249222",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300689",
+      "fromID": "249229",
+      "toID": "249230",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300690",
+      "fromID": "249228",
+      "toID": "249229",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300691",
+      "fromID": "249222",
+      "toID": "249232",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300692",
+      "fromID": "249232",
+      "toID": "249228",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300693",
+      "fromID": "249234",
+      "toID": "249235",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300694",
+      "fromID": "249233",
+      "toID": "249234",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300695",
+      "fromID": "249228",
+      "toID": "249237",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300696",
+      "fromID": "249237",
+      "toID": "249233",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300697",
+      "fromID": "249240",
+      "toID": "249241",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300698",
+      "fromID": "249239",
+      "toID": "249240",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300699",
+      "fromID": "249233",
+      "toID": "249243",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300700",
+      "fromID": "249243",
+      "toID": "249239",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300701",
+      "fromID": "249244",
+      "toID": "249246",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300702",
+      "fromID": "249246",
+      "toID": "249241",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300703",
+      "fromID": "249248",
+      "toID": "249249",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300704",
+      "fromID": "249247",
+      "toID": "249248",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300705",
+      "fromID": "249244",
+      "toID": "249251",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300706",
+      "fromID": "249251",
+      "toID": "249247",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300707",
+      "fromID": "249253",
+      "toID": "249254",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300708",
+      "fromID": "249252",
+      "toID": "249253",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300709",
+      "fromID": "249247",
+      "toID": "249256",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300710",
+      "fromID": "249256",
+      "toID": "249252",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300711",
+      "fromID": "249258",
+      "toID": "249259",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300712",
+      "fromID": "249257",
+      "toID": "249258",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300713",
+      "fromID": "249252",
+      "toID": "249261",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300714",
+      "fromID": "249261",
+      "toID": "249257",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300715",
+      "fromID": "249263",
+      "toID": "249264",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300716",
+      "fromID": "249262",
+      "toID": "249263",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300717",
+      "fromID": "249257",
+      "toID": "249266",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300718",
+      "fromID": "249266",
+      "toID": "249262",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300719",
+      "fromID": "249268",
+      "toID": "249269",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300720",
+      "fromID": "249267",
+      "toID": "249268",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300721",
+      "fromID": "249262",
+      "toID": "249271",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300722",
+      "fromID": "249271",
+      "toID": "249267",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300723",
+      "fromID": "249273",
+      "toID": "249274",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300724",
+      "fromID": "249272",
+      "toID": "249273",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300725",
+      "fromID": "249267",
+      "toID": "249276",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300726",
+      "fromID": "249276",
+      "toID": "249272",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300727",
+      "fromID": "249274",
+      "toID": "249277",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300728",
+      "fromID": "249277",
+      "toID": "249269",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300729",
+      "fromID": "249276",
+      "toID": "249278",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300730",
+      "fromID": "249278",
+      "toID": "249277",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300731",
+      "fromID": "249281",
+      "toID": "249279",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300732",
+      "fromID": "249280",
+      "toID": "249281",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300733",
+      "fromID": "249272",
+      "toID": "249283",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300734",
+      "fromID": "249283",
+      "toID": "249280",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300735",
+      "fromID": "249285",
+      "toID": "249286",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300736",
+      "fromID": "249284",
+      "toID": "249285",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300737",
+      "fromID": "249280",
+      "toID": "249288",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300738",
+      "fromID": "249288",
+      "toID": "249284",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300739",
+      "fromID": "249290",
+      "toID": "249291",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300740",
+      "fromID": "249289",
+      "toID": "249290",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300741",
+      "fromID": "249284",
+      "toID": "249293",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300742",
+      "fromID": "249293",
+      "toID": "249289",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300743",
+      "fromID": "249295",
+      "toID": "249296",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300744",
+      "fromID": "249294",
+      "toID": "249295",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300745",
+      "fromID": "249289",
+      "toID": "249298",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300746",
+      "fromID": "249298",
+      "toID": "249294",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300747",
+      "fromID": "249291",
+      "toID": "249299",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300748",
+      "fromID": "249299",
+      "toID": "249296",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300749",
+      "fromID": "249298",
+      "toID": "249300",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300750",
+      "fromID": "249300",
+      "toID": "249299",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300751",
+      "fromID": "249302",
+      "toID": "249303",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300752",
+      "fromID": "249301",
+      "toID": "249302",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300753",
+      "fromID": "249294",
+      "toID": "249305",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300754",
+      "fromID": "249305",
+      "toID": "249301",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300755",
+      "fromID": "249307",
+      "toID": "249308",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300756",
+      "fromID": "249306",
+      "toID": "249307",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300757",
+      "fromID": "249301",
+      "toID": "249310",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300758",
+      "fromID": "249310",
+      "toID": "249306",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300759",
+      "fromID": "249312",
+      "toID": "249313",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300760",
+      "fromID": "249311",
+      "toID": "249312",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300761",
+      "fromID": "249306",
+      "toID": "249315",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300762",
+      "fromID": "249315",
+      "toID": "249311",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300763",
+      "fromID": "249317",
+      "toID": "249318",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300764",
+      "fromID": "249316",
+      "toID": "249317",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300765",
+      "fromID": "249311",
+      "toID": "249320",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300766",
+      "fromID": "249320",
+      "toID": "249316",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300767",
+      "fromID": "249322",
+      "toID": "249323",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300768",
+      "fromID": "249321",
+      "toID": "249322",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300769",
+      "fromID": "249326",
+      "toID": "249327",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300770",
+      "fromID": "249325",
+      "toID": "249326",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300771",
+      "fromID": "249323",
+      "toID": "249329",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300772",
+      "fromID": "249329",
+      "toID": "249327",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300773",
+      "fromID": "249318",
+      "toID": "249330",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300774",
+      "fromID": "249330",
+      "toID": "249327",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300775",
+      "fromID": "249316",
+      "toID": "249331",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300776",
+      "fromID": "249331",
+      "toID": "249325",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300777",
+      "fromID": "249331",
+      "toID": "249332",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300778",
+      "fromID": "249332",
+      "toID": "249330",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300779",
+      "fromID": "249321",
+      "toID": "249333",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300780",
+      "fromID": "249333",
+      "toID": "249325",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300781",
+      "fromID": "249333",
+      "toID": "249334",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300782",
+      "fromID": "249334",
+      "toID": "249329",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300783",
+      "fromID": "249336",
+      "toID": "249337",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300784",
+      "fromID": "249335",
+      "toID": "249336",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300785",
+      "fromID": "249340",
+      "toID": "249341",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300786",
+      "fromID": "249339",
+      "toID": "249340",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300787",
+      "fromID": "249325",
+      "toID": "249343",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300788",
+      "fromID": "249343",
+      "toID": "249335",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300789",
+      "fromID": "249327",
+      "toID": "249344",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300790",
+      "fromID": "249344",
+      "toID": "249337",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300791",
+      "fromID": "249343",
+      "toID": "249345",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300792",
+      "fromID": "249345",
+      "toID": "249344",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300793",
+      "fromID": "249335",
+      "toID": "249346",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300794",
+      "fromID": "249346",
+      "toID": "249339",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300795",
+      "fromID": "249259",
+      "toID": "249347",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300796",
+      "fromID": "249347",
+      "toID": "249264",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300797",
+      "fromID": "249266",
+      "toID": "249348",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300798",
+      "fromID": "249348",
+      "toID": "249347",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300799",
+      "fromID": "249350",
+      "toID": "249351",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300800",
+      "fromID": "249349",
+      "toID": "249350",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300801",
+      "fromID": "249354",
+      "toID": "249355",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300802",
+      "fromID": "249353",
+      "toID": "249354",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300803",
+      "fromID": "249349",
+      "toID": "249357",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300804",
+      "fromID": "249357",
+      "toID": "249353",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300805",
+      "fromID": "249353",
+      "toID": "249358",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "300806",
+      "fromID": "249358",
+      "toID": "249188",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139765",
+      "text": "Http://www.Rightgrrl.Com/abortionmortality/index2.Html  http://www.Forerunner.Com/forerunner/x0476_safe_legal_abortion.Html  http://www.Holylamb.Com/lime5.Htm  termination sure is safe.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:02"
+    },
+    {
+      "nodeID": "139766",
+      "text": "And sometimes, necessary.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:02"
+    },
+    {
+      "nodeID": "139767",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:50:02"
+    },
+    {
+      "nodeID": "139768",
+      "text": "No, it's not safe. What's your point?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:02"
+    },
+    {
+      "nodeID": "139769",
+      "text": "I believe it to be safe.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:02"
+    },
+    {
+      "nodeID": "139770",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:02"
+    },
+    {
+      "nodeID": "139771",
+      "text": "and worse of all the distinction between 'humanhood' and 'personhood'.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:02"
+    },
+    {
+      "nodeID": "139772",
+      "text": "So why don't you just say, 'I don't think there is a distinction between humanhood and personhood'?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:02"
+    },
+    {
+      "nodeID": "139773",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:02"
+    },
+    {
+      "nodeID": "139774",
+      "text": "As I said in my posting #39 by splitting hairs again and again you paralyse the debate. As instead of being a debate about abortion it has become a semantic nightmare.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:02"
+    },
+    {
+      "nodeID": "139775",
+      "text": "I don't see how this is not a debate about abortion. True, it's become mildly less concrete, but that's what happens when you try to get it right.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:02"
+    },
+    {
+      "nodeID": "139776",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:02"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183250",
+      "fromID": "139766",
+      "toID": "139767",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183251",
+      "fromID": "139767",
+      "toID": "139765",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183252",
+      "fromID": "139769",
+      "toID": "139770",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183253",
+      "fromID": "139770",
+      "toID": "139768",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183254",
+      "fromID": "139772",
+      "toID": "139773",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183255",
+      "fromID": "139773",
+      "toID": "139771",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183256",
+      "fromID": "139775",
+      "toID": "139776",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183257",
+      "fromID": "139776",
+      "toID": "139774",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

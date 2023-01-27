@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "150902",
+      "text": "'WT1 has been conserved throughout vertebrate evolution, although only mammals possess numerous protein isoforms.' (Nucleic Acids Research, 2003, Vol. 31, No. 11 2795-2802, Faithful expression of a tagged Fugu WT1 protein from a genomic transgene in zebrafish: efficient splicing of pufferfish genes in zebrafish but not mice)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:36"
+    },
+    {
+      "nodeID": "150903",
+      "text": "So it has gone from an indeterminate (based on my quick searches) number of fewer isoforms in lower vertebrates to the 24 found in mammals. That's an increase in information.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:36"
+    },
+    {
+      "nodeID": "150904",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:13:36"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191124",
+      "fromID": "150903",
+      "toID": "150904",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191125",
+      "fromID": "150904",
+      "toID": "150902",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

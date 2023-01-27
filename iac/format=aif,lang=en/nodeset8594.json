@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "159703",
+      "text": "Um... What does this has to do with gun-control?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:33"
+    },
+    {
+      "nodeID": "159704",
+      "text": "How can one 'defend the constitution' If he does not exercise the rights identified in the constitution... The 2nd amendment.....",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:33"
+    },
+    {
+      "nodeID": "159705",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:33:33"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "197366",
+      "fromID": "159704",
+      "toID": "159705",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197367",
+      "fromID": "159705",
+      "toID": "159703",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

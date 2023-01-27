@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "142186",
+      "text": "Do we really need to keep going in circles? You're setting up a false dichotomy. If the ToE is thrown out, it does not automatically mean that creationism is correct.  Now stop repeating the same question.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:33"
+    },
+    {
+      "nodeID": "142187",
+      "text": "I didn't mention evolution in this topic. You did.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:33"
+    },
+    {
+      "nodeID": "142188",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:55:33"
+    },
+    {
+      "nodeID": "142189",
+      "text": "Oh, so you were not in any way talking about evolution in these posts? Then why are they posted on the c vs e board? Please, that's just pathetic.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:33"
+    },
+    {
+      "nodeID": "142190",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:55:33"
+    },
+    {
+      "nodeID": "142191",
+      "text": "Yes. Evolutionisim is highly flawed. Lets start with the appearance of land animals. Fishes evolve to form lungs. How? That would take millions of years. Next, when animals formed. Sure there is minor changes in the individual species, but a fish to XXXXing dog to a XXXXing human. Really?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:33"
+    },
+    {
+      "nodeID": "142192",
+      "text": "Yes, really. Lungs from swim bladders? Takes millions upon millions of years? What's so crazy about that? Again, minor changes over sufficient time add up to what? What makes you think that lots of little changes can't do the job (apart from incredulity, that is)? Where is the barrier to stop minor changes adding up to big changes? Where did you get the idea that a dog evolved to a human? It's exactly that kind of comment that makes people with a smattering of scientific education say 'go read a book on biology before you say that dogs evolved into humans'. Humans did not evolve from dogs and ToE has never suggested that this is so. It's that kind of comment that makes me wonder how much you know about biology. My nephew knows that humans evolved from human like ancestors; not dogs and he's only 11, for Christ sake!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:33"
+    },
+    {
+      "nodeID": "142193",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:55:34"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184970",
+      "fromID": "142187",
+      "toID": "142188",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184971",
+      "fromID": "142188",
+      "toID": "142186",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184972",
+      "fromID": "142189",
+      "toID": "142190",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184973",
+      "fromID": "142190",
+      "toID": "142187",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184974",
+      "fromID": "142192",
+      "toID": "142193",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184975",
+      "fromID": "142193",
+      "toID": "142191",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "146446",
+      "text": "No wonder we here in the U.S. are complaining about the stead flow of narcotics and drug gang violence flowing from the Mexican Violent Drug Cartel. No wonder we are complaining that the Mexican authorities have been complicit, and even corrupt, taking this illegal drug money and for allowing this problem to get this big and this bad. Now the only way out of it is to blame me?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:04:19"
+    },
+    {
+      "nodeID": "146447",
+      "text": "And who is keeping these drug cartels in business? Could it have anything to do with America's 'insatiable demand for illegal drugs' as admitted by the US Secretary of State? 'Mrs Clinton said: 'Our insatiable demand for illegal drugs fuels the drug trade. ' 'Our inability to prevent weapons from being illegally smuggled across the border to arm these criminals causes the deaths of police officers, soldiers and civilians. ' 'I feel very strongly we have a co-responsibility. ' 'She also acknowledged that US efforts to ban drugs had so far been unsuccessful in stopping the narcotics trade. ' 'Clearly, what we have been doing has not worked and it is unfair for our incapacity... to be creating a situation where people are holding the Mexican government and people responsible,' she said.' BBC NEWS | Americas | Clinton admits US blame on drugs",
+      "type": "I",
+      "timestamp": "2016-03-08 20:04:19"
+    },
+    {
+      "nodeID": "146448",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:04:19"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187982",
+      "fromID": "146447",
+      "toID": "146448",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187983",
+      "fromID": "146448",
+      "toID": "146446",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

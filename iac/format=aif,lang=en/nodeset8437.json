@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157409",
+      "text": "I hear women all the time say its my body so its my choice, but shouldn the father have a say in it. If I slept with my girlfriend and she turned up pregnant, and she wanted to abort, but I want my child to raise and love, I have virtually no legal say in it. This is wrong no matter how you look at it, and yes, I do oppose abortions. Laws should be passed where the abortion can only be performed without the fathers ok if it endangers the life of the mother.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:18"
+    },
+    {
+      "nodeID": "157410",
+      "text": "You know, men abort babies all the time without even thinking about it. If a man impregnates a woman, if he doesn't want to take responsibility for his impregnation of that woman, all he has to do is walk. That's how a man does abortion -- all the time. It is very difficult to legally get a father to take responsibility for children he has fathered.  As a matter of fact, there are a number of really ugly customers in men, a great number of extremely hateful men:",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:18"
+    },
+    {
+      "nodeID": "157411",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:28:18"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195716",
+      "fromID": "157410",
+      "toID": "157411",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195717",
+      "fromID": "157411",
+      "toID": "157409",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

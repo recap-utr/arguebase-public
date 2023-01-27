@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140795",
+      "text": "There is a huge difference between fission and fusion. fission bad, fusion good.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:17"
+    },
+    {
+      "nodeID": "140796",
+      "text": "Oh yeah, generalizations are cool! Let's all jump on this bandwagon! Black people bad, white people good. Muslims bad, Christians good. Fission bad, fusion good. Geez.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:17"
+    },
+    {
+      "nodeID": "140797",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:52:17"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183986",
+      "fromID": "140796",
+      "toID": "140797",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183987",
+      "fromID": "140797",
+      "toID": "140795",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

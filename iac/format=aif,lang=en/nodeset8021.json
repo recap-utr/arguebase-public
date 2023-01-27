@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151318",
+      "text": "BREAKING NEWS George Tiller shot to death at Wichita church",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:34"
+    },
+    {
+      "nodeID": "151319",
+      "text": "George Tiller shot to death at Wichita church | News Updates | Wichita Eagle",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:34"
+    },
+    {
+      "nodeID": "151320",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:14:34"
+    },
+    {
+      "nodeID": "151321",
+      "text": "HUNTSVILLE, AL - Jesus Christ, son of God and noted pro-life activist, killed two and critically wounded seven others when He opened fire in the waiting room of a Huntsville abortion clinic Tuesday. Security guards at the Women's Medical Clinic of Huntsville were able to disarm the Messiah before He could reload His weapon, a secondhand Glock 9mm pistol that authorities said He purchased legally at a Jackson, MS, sporting-goods store. 'Abortion is a sin,' said Christ as He was led away in handcuffs. 'It is an abomination in the eyes of Me.' Witnesses said the attack, which took the lives of Dr. Nelson Woodring, 51, and clinic nurse Danielle Costa, 29, came from 'out of nowhere.' 'He walked up to the admissions desk and asked if He could see Dr. Woodring,' receptionist Iris Reid said. 'The next thing I knew, He was shouting Biblical verses and opening fire on everything moving.' 'It was horrible,' said injured clinic nurse Jessica Combs, recovering at a local hospital with bullet wounds to the leg and abdomen. 'He put his hands over Dr. Woodring's head and told him He forgave him for his sins, and then He shot him right in the face.' Huntsville police officials are not certain how the Messiah was able to bypass clinic guards and proceed undetected past security cameras and into the clinic waiting room, where He produced the gun from its hiding place in the folds of His robe. Federal investigators are similarly baffled, saying that the heavily armed Christ had moved in 'mysterious ways.' Speaking to reporters from His holding cell, Christ, 33, said He had 'no regrets' about what He had done. 'As I said in John 16:21, every life is precious,' Christ said. 'This means every life, not just those who have already been born. My father, the Lord, feels the same way I do. In Jeremiah 1:5, He said unto the prophet Jeremiah, 'Before I formed you in the womb I knew you, before you were born I set you apart.' The unborn fetus is a sacred, living creation of my Father in Heaven and should be treated as such.' Added Christ: 'What if the Virgin Mary had decided to abort me? Certainly she must have been tempted to do so. After all, it wasn't even her decision to conceive me in the first place. But in the end, she made the right decision, bringing her pregnancy to term and giving the world a Savior. Blessed is she among women.' According to legal experts, if convicted, Christ could face the death penalty.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:34"
+    },
+    {
+      "nodeID": "151322",
+      "text": "Christ Kills Two, Injures Seven In Abortion-Clinic Attack | The Onion - America's Finest News Source Disclaimer: It's THE ONION (as if most wouldn't figure that out on their own... :p )",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:35"
+    },
+    {
+      "nodeID": "151323",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:14:35"
+    },
+    {
+      "nodeID": "151324",
+      "text": "Regarding the 'controversial' abortions carried out by the doctor's clinics: source Make of this what you will. Unfortunately (as you may have noticed of late) I don't have a lot of time for forum-ing ATM; just thought I'd share.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:35"
+    },
+    {
+      "nodeID": "151325",
+      "text": "Ianb, don't confuse jyoshu with solid facts.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:35"
+    },
+    {
+      "nodeID": "151326",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:14:35"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191420",
+      "fromID": "151319",
+      "toID": "151320",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191421",
+      "fromID": "151320",
+      "toID": "151318",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191422",
+      "fromID": "151322",
+      "toID": "151323",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191423",
+      "fromID": "151323",
+      "toID": "151321",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191424",
+      "fromID": "151325",
+      "toID": "151326",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191425",
+      "fromID": "151326",
+      "toID": "151324",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

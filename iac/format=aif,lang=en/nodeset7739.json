@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "147199",
+      "text": "It would appear that it is the Brits, rather than 'the Gun Nuts' who 'claim that when guns are banned people will just use knives instead'. Apparently they have moved beyond knives and are simply using whatever tool is available to commit violent crime. They are succeeding at a rate nearly 5 times that of the US 'gun culture'.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:44"
+    },
+    {
+      "nodeID": "147200",
+      "text": "You can't accuse others of 'slight (sic) of hand' and then produce this! The same Home Office survey you linked to shows:  17% of total violent crime was 'common assault with NO injury' (i.e. pushing and shoving, spitting at someone or verbal abuse)  43% was 'common assault with less serious injury' (e.g, a scuffle outside a bar) 20% were 'harrassment - no injuries suffered. 5% were 'other violent crimes' including carrying a weapon. Only 2.1% of all violent crime led to a serious injury. The weapon most commonly used is, of course, the fist - in 78% of all cases.  In order to make this comparison make any sense we need to know how the FBI defines violent crime.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:44"
+    },
+    {
+      "nodeID": "147201",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:05:44"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "188512",
+      "fromID": "147200",
+      "toID": "147201",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188513",
+      "fromID": "147201",
+      "toID": "147199",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

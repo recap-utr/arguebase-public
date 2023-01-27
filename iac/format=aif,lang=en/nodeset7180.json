@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138919",
+      "text": ".  How is it inconsistent?.I do not change my stance ever,i am personally against abortion,but i do not have the right to stop anyone else making their choice.No inconsistincy there",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:05"
+    },
+    {
+      "nodeID": "138920",
+      "text": "See, this is the same logic used by the slaver owners. If one believes slavery is wrong then what right does he have to impose that on someone else?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:05"
+    },
+    {
+      "nodeID": "138921",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:48:05"
+    },
+    {
+      "nodeID": "138922",
+      "text": "Now yes i agree with the death penalty as written by law and placed into law by those we entrust our laws too,that is what you vote for after all.This as nothing whatsoever to do with the fact that i believe that a woman should have the choice to abort or carry to full term.What about if the child will live for four weeks in terrible pain,should that child be born,a bit inhumane do you not agree?.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:05"
+    },
+    {
+      "nodeID": "138923",
+      "text": "Yes, it should be born. Who are you to say that a life lived in pain is not worth living? Who are you to say that you can't help the child? If you believe in the 'choice' thing then for you to say this child shouldn't live because 'I' wouldn't want to be like that is taking the choice from him/her. Thus, that is inconsistent.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:06"
+    },
+    {
+      "nodeID": "138924",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:48:06"
+    },
+    {
+      "nodeID": "138925",
+      "text": "So you are saying you would not mind if abortion were compulsary?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:06"
+    },
+    {
+      "nodeID": "138926",
+      "text": "I think you missed the point of what I was saying :p",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:06"
+    },
+    {
+      "nodeID": "138927",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:48:06"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182662",
+      "fromID": "138920",
+      "toID": "138921",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182663",
+      "fromID": "138921",
+      "toID": "138919",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182664",
+      "fromID": "138923",
+      "toID": "138924",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182665",
+      "fromID": "138924",
+      "toID": "138922",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182666",
+      "fromID": "138926",
+      "toID": "138927",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182667",
+      "fromID": "138927",
+      "toID": "138925",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

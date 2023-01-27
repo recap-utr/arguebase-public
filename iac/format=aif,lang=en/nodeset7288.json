@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140308",
+      "text": "The reason abortion at any stage of a pregnancy is unethical is because you cannot justify killing a human life based on its stage of development ... ...Abortion has its place. In the need where the mothers health is endangered its completely understandable but its not understandable when its done out of convenience.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:08"
+    },
+    {
+      "nodeID": "140309",
+      "text": "How do you define 'convenience'?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:08"
+    },
+    {
+      "nodeID": "140310",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:51:08"
+    },
+    {
+      "nodeID": "140311",
+      "text": "Let's not go into what bigotry means, I think we all get your point anyway.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:08"
+    },
+    {
+      "nodeID": "140312",
+      "text": "I know, Chloe's misuse of the word strikes again.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:08"
+    },
+    {
+      "nodeID": "140313",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:51:08"
+    },
+    {
+      "nodeID": "140314",
+      "text": "I put to you that you are the one discriminating on the basis of someone's size and development, since you would have it that a small, slightly developed person has a right to inhabit a womb, while a fully grown adult does not.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:08"
+    },
+    {
+      "nodeID": "140315",
+      "text": "This isn't discrimination because the adult once did have have the right to live in a womb until it could live otherwise. Once out of the womb and living on his/her own this right has been exhausted because there is no need to be living in the womb. Much like you can drive but this 'right' is exhausted when you are drunk or too old to see anything.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:08"
+    },
+    {
+      "nodeID": "140316",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:51:09"
+    },
+    {
+      "nodeID": "140317",
+      "text": "The reason abortion at any stage of a pregnancy is unethical is because you cannot justify killing a human life based on its stage of development. I am 18 years old. I am not allowed to gamble or to buy alcohol until I am 21. This is because studies show that my brain isnt developed enough to way consequences. I am not fully developed yet. This does not make me less human than those who are older than me. This might be alittle out there for some but if you cross the line one day you could be killing babys because they cannot walk yet they arent quite human because humans can walk upright. A human is a human no matter what stage of developedment it is in. But I can see how just telling someone that it is just a fetus makes it easier on them. Abortion has its place. In the need where the mothers health is endangered its completely understandable but its not understandable when its done out of convenience.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:09"
+    },
+    {
+      "nodeID": "140318",
+      "text": "cmitch, you cite certain studies as the reasons for why laws have been passed forbidding underage drinking and gambling. Do you, by chance, know what those studies are? Furthermore, why would your being legally unable to drink or gamble make you less of a human? Does drinking and gambling make you more human? I'm having difficulties in following your arguments.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:09"
+    },
+    {
+      "nodeID": "140319",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:51:09"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183640",
+      "fromID": "140309",
+      "toID": "140310",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183641",
+      "fromID": "140310",
+      "toID": "140308",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183642",
+      "fromID": "140312",
+      "toID": "140313",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183643",
+      "fromID": "140313",
+      "toID": "140311",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183644",
+      "fromID": "140315",
+      "toID": "140316",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183645",
+      "fromID": "140316",
+      "toID": "140314",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183646",
+      "fromID": "140318",
+      "toID": "140319",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183647",
+      "fromID": "140319",
+      "toID": "140317",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

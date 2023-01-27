@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "142115",
+      "text": "Y'know, if a pro-choice person had posted a similar item from a pro-choice website, you would have dismissed it out of hand. :)",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:22"
+    },
+    {
+      "nodeID": "142116",
+      "text": "That is true but that is the procedure.........Do you deny it?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:22"
+    },
+    {
+      "nodeID": "142117",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:55:22"
+    },
+    {
+      "nodeID": "142118",
+      "text": "Why should we listen to you when you don't listen to us?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:22"
+    },
+    {
+      "nodeID": "142119",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:55:22"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184920",
+      "fromID": "142116",
+      "toID": "142117",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184921",
+      "fromID": "142117",
+      "toID": "142115",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184922",
+      "fromID": "142118",
+      "toID": "142119",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184923",
+      "fromID": "142119",
+      "toID": "142116",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

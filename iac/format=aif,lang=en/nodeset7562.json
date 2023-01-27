@@ -1,0 +1,121 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143982",
+      "text": "My moral compass does not care if genesis is literally true or not. Can anyone explain why it should?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:20"
+    },
+    {
+      "nodeID": "143983",
+      "text": "Well, if Genesis was in fact true, then we would have to assume that God is real and the Bible more or less explains what he wants, right? And if there is someone 'up there' who will damn you to eternal torment if you don't do what he wants (which is one interpretation of the Bible) than that might effect the way you act. I realize that that isn't exactly the same as changing your moral compass, but history has demonstrated that most people's moral will stretch to accomodate pressing needs, and I think an actual vengeful diety would qualify.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:20"
+    },
+    {
+      "nodeID": "143984",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:59:20"
+    },
+    {
+      "nodeID": "143985",
+      "text": "@kronus Imagine you are shown god exists and did create the universe 'genesis stlye'. How would it change YOUR behaviour? Would it change YOUR ethics?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:21"
+    },
+    {
+      "nodeID": "143986",
+      "text": "An excellent question. I've always felt I've led a good life. My philosophy has been that if A) God wants some specific behavior from us and B) He can't make it clear what it is, then to heck with him. I lead a good life and if that isn't good enough than phooey. That wouldn't be a God I'd want to worship anyway. You understand of course that I don't except the mere existence of a book as God making his desires clear.  Now all of a sudden we know that the Bible is in fact God telling us what he wants. The problem then becomes deciphering it. The Bible is not as cut and dried as some would like. God seems to undergo a radical personality shift between the OT and the NT, from a God of smiting to a God of love and tolerance. Which part are we to listen to? Do Paul's letters carry the same weight as the Gospel? I'd have alot of questions. I guess how much I'd change my life depends on how forthcoming God is. Is the only thing we've learned what you've spelled out? God exists, Genesis is correct? If that's all we've got, than I'd still be forced to judge God based on my own ethical standards, same as before. The mere fact that a God exists does not, in my opinion, mean He is worthy of worship or following. God does alot of stuff in the OT that seems unjustifiable to be, and I'm not willing to let things slide just becuase someone claims ineffability. So I guess I would still lead my life as best as I could, according to the standards I've developed. At least, that would be my intention. Knowing that God was in fact watching and judging me might, for example, put a damper on my support of gay rights. I'd feel like a coward, but it could happen. On the other hand, if God was willing to do a Q&A session and fill me in on a few things, and clarify a few points, then it's entierly possible that I might change my lifestyle. I really haven't written up my interview with God, so I'm not sure what I would ask or how the answers might change me, but I've got to assume that if I could chat with God, something about me would change.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:21"
+    },
+    {
+      "nodeID": "143987",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:59:21"
+    },
+    {
+      "nodeID": "143988",
+      "text": "the problem with a 'un-genesis style' creation is that it would effectively nullify everything in the bible. the biblical god both created life on earth in 6 days and sent his son to die for the sins of humankind. to me there is something very wrong with blatantly rejecting one biblical claim and blindly embracing another the god in this context (one that created the world some other way, and may not necessarily disapprove gays) may also not care about your ethical code. then such a god's existence should have no bearing on how we live our lives, now would it? if such a god requires us to be ethical, is not against homosexuality, and created the world in a way other than genesis' description, then you are talking about a god of specific characteristics that would lend itself to a precise definition. we would require a lengthy list of rules by which we should live, and a description of how the world was actually created, as well as historical references of god's interaction with mankind in times past. you'd end up with another bible",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:21"
+    },
+    {
+      "nodeID": "143989",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:59:21"
+    },
+    {
+      "nodeID": "143990",
+      "text": "put a damper on my support of gay rights.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:21"
+    },
+    {
+      "nodeID": "143991",
+      "text": "But maybe god does not hate gays, maybe he just hates the ones that demand to have sex with people whether they want it or not.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:21"
+    },
+    {
+      "nodeID": "143992",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:59:21"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186250",
+      "fromID": "143983",
+      "toID": "143984",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186251",
+      "fromID": "143984",
+      "toID": "143982",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186252",
+      "fromID": "143986",
+      "toID": "143987",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186253",
+      "fromID": "143987",
+      "toID": "143985",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186254",
+      "fromID": "143988",
+      "toID": "143989",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186255",
+      "fromID": "143989",
+      "toID": "143985",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186256",
+      "fromID": "143991",
+      "toID": "143992",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186257",
+      "fromID": "143992",
+      "toID": "143990",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,244 @@
+{
+  "nodes": [
+    {
+      "nodeID": "210033",
+      "text": "Varukasalt : Trump is blatantly admitting to buying politicians",
+      "type": "L",
+      "timestamp": "2016-10-30 18:47:50"
+    },
+    {
+      "nodeID": "210035",
+      "text": "TRUMP is blatantly admitting to buying politicians",
+      "type": "I",
+      "timestamp": "2016-10-30 18:47:50"
+    },
+    {
+      "nodeID": "210037",
+      "text": "Varukasalt : Isn't that...illegal",
+      "type": "L",
+      "timestamp": "2016-10-30 18:47:51"
+    },
+    {
+      "nodeID": "210039",
+      "text": "buying politicians is illegal",
+      "type": "I",
+      "timestamp": "2016-10-30 18:47:51"
+    },
+    {
+      "nodeID": "210054",
+      "text": "SolarAquarion : It isn't",
+      "type": "L",
+      "timestamp": "2016-10-30 18:47:52"
+    },
+    {
+      "nodeID": "210056",
+      "text": "buying politicians is not illegal",
+      "type": "I",
+      "timestamp": "2016-10-30 18:47:52"
+    },
+    {
+      "nodeID": "220221",
+      "text": "many of the people on this stage TRUMP has given a lot of money",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:25"
+    },
+    {
+      "nodeID": "220223",
+      "text": "TRUMP : Many of them",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:25"
+    },
+    {
+      "nodeID": "264592",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-09 17:38:09",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "264593",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 17:38:09",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264594",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-09 17:38:10",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "264595",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-09 17:38:10",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "264596",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 17:38:11",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264597",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-09 17:38:11",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "264598",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2017-03-09 17:38:12",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "264599",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 17:38:12",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264600",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2017-03-09 17:38:13",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "320258",
+      "fromID": "210035",
+      "toID": "264592",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320259",
+      "fromID": "264592",
+      "toID": "220221",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320260",
+      "fromID": "220223",
+      "toID": "264593",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320261",
+      "fromID": "264593",
+      "toID": "210033",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320262",
+      "fromID": "264593",
+      "toID": "264594",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320263",
+      "fromID": "264594",
+      "toID": "264592",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320264",
+      "fromID": "210039",
+      "toID": "264595",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320265",
+      "fromID": "264595",
+      "toID": "220221",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320266",
+      "fromID": "220223",
+      "toID": "264596",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320267",
+      "fromID": "264596",
+      "toID": "210037",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320268",
+      "fromID": "264596",
+      "toID": "264597",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320269",
+      "fromID": "264597",
+      "toID": "264595",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320270",
+      "fromID": "210056",
+      "toID": "264598",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320271",
+      "fromID": "264598",
+      "toID": "220221",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320272",
+      "fromID": "220223",
+      "toID": "264599",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320273",
+      "fromID": "264599",
+      "toID": "210054",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320274",
+      "fromID": "264599",
+      "toID": "264600",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320275",
+      "fromID": "264600",
+      "toID": "264598",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "220223",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

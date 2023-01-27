@@ -1,0 +1,175 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157286",
+      "text": "What could possibly be wrong with my having one?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:58"
+    },
+    {
+      "nodeID": "157287",
+      "text": "Well, parts break and it could take a long time to order or be repaired. If you got the bucks, I think two would be a better choice. emoticon_smile",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:58"
+    },
+    {
+      "nodeID": "157288",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:27:58"
+    },
+    {
+      "nodeID": "157289",
+      "text": "Can you imagine two snipers, a mile apart taking shots at each other with these babies?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:59"
+    },
+    {
+      "nodeID": "157290",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:27:59"
+    },
+    {
+      "nodeID": "157291",
+      "text": "Yea. They would look like XXXXXX and waste a lot of ammo. Even the article at the end states they have a range of 1100-1500 yards, so not even close to a mile. The articles title is pure hyperbole. Those fire a .338 lapua (8.59mm).",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:59"
+    },
+    {
+      "nodeID": "157292",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:27:59"
+    },
+    {
+      "nodeID": "157293",
+      "text": "that silencer would make it illegal for most everyone to own.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:59"
+    },
+    {
+      "nodeID": "157294",
+      "text": "Not realy they are still being manufactured for civilian use and are legal in most states even in states where machine guns are not allowed. You would be actualy supprised at how available they are. You sign your life away and are no longer a name less face to the feds but you may be able to own one in your state. All thats needed is to get your chief law enforcment officer to sign your fourm 4, pay $200 to BATFE, pass an FBI back ground chk and wait appx. 2 mo's and you have one.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:59"
+    },
+    {
+      "nodeID": "157295",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:27:59"
+    },
+    {
+      "nodeID": "157296",
+      "text": "I don't know about that listed range, however. The maximum effective range listed is 800 meters. Then again that might be wrong and these short action calibers might have a 1,500 meter effective range, meaning that the claimed abilities of the .50 BMG are mediocre in comparison.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:59"
+    },
+    {
+      "nodeID": "157297",
+      "text": "Huh? With a 26' barrel the .50 is good out to 2100 yards. With the 29 or 36 that increases to 2500, but the world record sniper shot was made with a .50 BMG and it was 2657 (1.51 miles).",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:59"
+    },
+    {
+      "nodeID": "157298",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:27:59"
+    },
+    {
+      "nodeID": "157299",
+      "text": "You sign your life away and are no longer a name less face to the feds but you may be able to own one in your state.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:59"
+    },
+    {
+      "nodeID": "157300",
+      "text": "A nameless face to the feds? In this era of paranoia and fear and overgrown governments? As if any of us are private and unknown individuals anymore.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:59"
+    },
+    {
+      "nodeID": "157301",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:27:59"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195630",
+      "fromID": "157287",
+      "toID": "157288",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195631",
+      "fromID": "157288",
+      "toID": "157286",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195632",
+      "fromID": "157289",
+      "toID": "157290",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195633",
+      "fromID": "157290",
+      "toID": "157287",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195634",
+      "fromID": "157291",
+      "toID": "157292",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195635",
+      "fromID": "157292",
+      "toID": "157289",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195636",
+      "fromID": "157294",
+      "toID": "157295",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195637",
+      "fromID": "157295",
+      "toID": "157293",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195638",
+      "fromID": "157297",
+      "toID": "157298",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195639",
+      "fromID": "157298",
+      "toID": "157296",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195640",
+      "fromID": "157300",
+      "toID": "157301",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195641",
+      "fromID": "157301",
+      "toID": "157299",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

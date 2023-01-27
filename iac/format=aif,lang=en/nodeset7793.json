@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "147997",
+      "text": "They're not related, as far as I'm aware. The evidence on global warming, however, is pretty overwhelming.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:32"
+    },
+    {
+      "nodeID": "147998",
+      "text": "I think this is a bad way to put it...the evidence that they earth has been warming since we have had the ability to measure temperature is overwhelming...the cause is unknown and whether or not it is natural is unknown. It does seem fairly narasistic to think in 100 years we have caused so much damage to an earth that at least has been here 10,000 years.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:32"
+    },
+    {
+      "nodeID": "147999",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:32"
+    },
+    {
+      "nodeID": "148000",
+      "text": "Oh, BTW, I've traded posts with Waxy for quite a while starting in another forum two years ago, he's anything BUT yellow bellied. emoticon_rolleyes",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:32"
+    },
+    {
+      "nodeID": "148001",
+      "text": "I know. Thus the 'wink' smilie.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:32"
+    },
+    {
+      "nodeID": "148002",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:07:32"
+    },
+    {
+      "nodeID": "148003",
+      "text": "Global warming is a controversy. Personally I am like hundred of maybe thousands if not millions of people that think it is liberal ########. The hole in the ozone layer is false, and I am sure this is too. -John Milosevic",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:32"
+    },
+    {
+      "nodeID": "148004",
+      "text": "You mean that hole that has been observed and proven, repeatedly? Climate Change is a controversy in the same way as the earth being broadly spherical is a controversy. There's a group of nutters who think the earth is flat; doesn't mean there is any reason to believe it is.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:32"
+    },
+    {
+      "nodeID": "148005",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:32"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189076",
+      "fromID": "147998",
+      "toID": "147999",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189077",
+      "fromID": "147999",
+      "toID": "147997",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189078",
+      "fromID": "148001",
+      "toID": "148002",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189079",
+      "fromID": "148002",
+      "toID": "148000",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189080",
+      "fromID": "148004",
+      "toID": "148005",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189081",
+      "fromID": "148005",
+      "toID": "148003",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

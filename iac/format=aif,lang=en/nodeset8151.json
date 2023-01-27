@@ -1,0 +1,151 @@
+{
+  "nodes": [
+    {
+      "nodeID": "153141",
+      "text": "Nope not at all. Did you even read Genesis 1 and 2?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:41"
+    },
+    {
+      "nodeID": "153142",
+      "text": "Oh sorry, I didn't understand what you were asking.  Ok, what I think happened {Like Tasyfish hinted at} was that Moses recorded what god told him or Genesis 1 because it is in more detail, and Genesis 2 is what was passed down through Noah, in Oral history, so it would differ slightly, but that's becaue of man's error, not God's.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:41"
+    },
+    {
+      "nodeID": "153143",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:18:41"
+    },
+    {
+      "nodeID": "153144",
+      "text": "...and Genesis 2 is what was passed down through Noah, in Oral history, so it would differ slightly, but that's becaue of man's error, not God's.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:41"
+    },
+    {
+      "nodeID": "153145",
+      "text": "So, some parts of the Bible are erroneous oral history after all! What a refreshing admission.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:41"
+    },
+    {
+      "nodeID": "153146",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:18:41"
+    },
+    {
+      "nodeID": "153147",
+      "text": "how is either Genesis 1 or 2 in error? it looks to me as though Gen 1 is an overview of the creation week, and Gen 2 brings the specific creation of man and woman into focus. how is that error? maybe I dont see it...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:41"
+    },
+    {
+      "nodeID": "153148",
+      "text": "Because both have different creation orders. Even if chapter 2 is 'specific' that doesn't even address the problem that the OP presented. Basically, what is the order of creation-chapter 1 or 2? Please justify your answer.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:42"
+    },
+    {
+      "nodeID": "153149",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:18:42"
+    },
+    {
+      "nodeID": "153150",
+      "text": "Hmmm, a few problems arise with this theory, when did he create the dinosaurs, and when did he kill them off, when did he create all the other planets, when did he create all the other stars and comets? Ineresting he created the earth before the sun, how did he get light, let me guess, he had a torch.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:42"
+    },
+    {
+      "nodeID": "153151",
+      "text": "Actually when you read every thing you have to rationalize (lie) what God actually did, for God was done with everything then started again. THe stories don't parallel each other they intersect.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:42"
+    },
+    {
+      "nodeID": "153152",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:18:42"
+    },
+    {
+      "nodeID": "153153",
+      "text": "actually, the only valid question plotter asked is about the existence of dinosaurs (How did they fit into the creation schedule?) Good question plotter... Plotter: 'when did he create all the other planets, when did he create all the other stars and comets?' Gen. 1:14 And God said, 'Let there be lights in the firmament of the heavens to separate the day from the night; and let them be for signs and for seasons and for days and years, 15 and let them be lights in the firmament of the heavens to give light upon the earth.' And it was so.  and XQ, what stories are you talking about?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:42"
+    },
+    {
+      "nodeID": "153154",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:18:42"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192702",
+      "fromID": "153142",
+      "toID": "153143",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192703",
+      "fromID": "153143",
+      "toID": "153141",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192704",
+      "fromID": "153145",
+      "toID": "153146",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192705",
+      "fromID": "153146",
+      "toID": "153144",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192706",
+      "fromID": "153148",
+      "toID": "153149",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192707",
+      "fromID": "153149",
+      "toID": "153147",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192708",
+      "fromID": "153151",
+      "toID": "153152",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192709",
+      "fromID": "153152",
+      "toID": "153150",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192710",
+      "fromID": "153153",
+      "toID": "153154",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192711",
+      "fromID": "153154",
+      "toID": "153151",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "154426",
+      "text": "I grew up attending several different churches ranging from baptist, nazarene, apostolic, pentacostal, and Assembly of God.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:39"
+    },
+    {
+      "nodeID": "154427",
+      "text": "I see. So you seem to be having some difficulty in deciding which religion is actually correct. Perhaps none is, since all that you mention are relatively recent inventions of men. Mr. Kent Hovind is scientifically illiterate and just counts on duping the uneducated. With just a little effort it is possible to learn that Mr. Hovind proposes pseudoscience. Even Answers in Genesis has criticized the points that you find so convincing. I suspect that you too, are scientifically illiterate and lack the knowledge to dicern where he is feeding you a line of crud. Really, it's not hard to figure out if you have the integrity to look for the real facts. If Hovind is correct, then every scientist in the world, even the Christians, are menbers of a vast conspiracy to deceive you. The very idea is simple minded. Hopefully you will grow up some day.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:39"
+    },
+    {
+      "nodeID": "154428",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:21:39"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193604",
+      "fromID": "154427",
+      "toID": "154428",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193605",
+      "fromID": "154428",
+      "toID": "154426",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

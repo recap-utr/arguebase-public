@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "142156",
+      "text": "The failings are in the participants, not the system. The sins you enumerate would afflict us if we still lived in caves. The human condition.  It can be countered.  Jesus had something to say about it, among others.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:28"
+    },
+    {
+      "nodeID": "142157",
+      "text": "Well said! The two things that seem to motivate us most are fear and greed!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:28"
+    },
+    {
+      "nodeID": "142158",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:55:28"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184950",
+      "fromID": "142157",
+      "toID": "142158",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184951",
+      "fromID": "142158",
+      "toID": "142156",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

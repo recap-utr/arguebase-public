@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151856",
+      "text": "However, I do think a legislature could legitimately establish a preference in this area, and if they did, it would be up to the court to enforce that preference.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:37"
+    },
+    {
+      "nodeID": "151857",
+      "text": "Yes, that's true, the legislature very well could. I should have clarified that I don't think that it would be proper for the legislature to do that.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:37"
+    },
+    {
+      "nodeID": "151858",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:15:37"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191796",
+      "fromID": "151857",
+      "toID": "151858",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191797",
+      "fromID": "151858",
+      "toID": "151856",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

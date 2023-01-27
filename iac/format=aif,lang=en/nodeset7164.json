@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138754",
+      "text": "It is actually quite simple. The question is 'When can a woman kill the fetus?'. I would say that, if it is out of her body, then none of her critical rights are being violated and she has no right to kill it.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:43"
+    },
+    {
+      "nodeID": "138755",
+      "text": "I think you have already answered your own question.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:43"
+    },
+    {
+      "nodeID": "138756",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:47:43"
+    },
+    {
+      "nodeID": "138757",
+      "text": "This standard gets ever complicated. The 22wk old baby inside the mother has 'less value' to you it seems. Actual location determines a value...someone else determines the value on someone. It really is confusing.  I just don't understand how value it relative to other things....even more so when it comes to humans",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:44"
+    },
+    {
+      "nodeID": "138758",
+      "text": "You also make choices when it comes to morality. You say that you value human life, yet you support the death penalty. Presumably, you might support killing the enemy during times of war, you might accept the fact that there is 'collater damage' during war of innocent civilians, you might support killing in self-defense, etc. There are many balances that are made in our moral choices. Should I start claiming that your standard is getting ever more complicated when it comes to valuing human life? The abortion debate is a debate about a specific set of circumstances. In those circumstances, I claim that the fetus gets rights to life (outbalancing the mother's rights to her own body) after it can gain mental existence (around the third trimester) and you claim that it gains rights from conception on. Outside of that specific set of circumstances then we encounter other considerations and, yes, things get more complicated. In the abortion debate there are only two living beings to consider - the mother and the fetus and their relative rights and value. If you step outside of the abortion debate, then many other things start coming into play, complicating not only the moral picture which I present but the moral picture which you present as well. So, perhaps we should just stick with the debate of this forum - namely, abortion. I am regretting bringing up this thread because it is straying too far afield of the topic of this forum - abortion.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:44"
+    },
+    {
+      "nodeID": "138759",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:47:44"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182536",
+      "fromID": "138755",
+      "toID": "138756",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182537",
+      "fromID": "138756",
+      "toID": "138754",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182538",
+      "fromID": "138758",
+      "toID": "138759",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182539",
+      "fromID": "138759",
+      "toID": "138757",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

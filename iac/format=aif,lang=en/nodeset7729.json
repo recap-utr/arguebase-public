@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "146982",
+      "text": "I read an article yesterday (about Evolution, Extinction, and Economics) in which it was claimed that 99% of all species that have ever existed are now extinct. This sort of claim (which I've come across before) troubles me: how can it be asserted, with any certainty at all: 1). The number of species which have evolved. 2). The percentage of that number that have become extinct.  ????",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:20"
+    },
+    {
+      "nodeID": "146983",
+      "text": "I believe it is merely all known living species against those known by the fossil record and extinct. There are undoubtedly more extinct species that we are unaware of than living ones.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:20"
+    },
+    {
+      "nodeID": "146984",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:05:21"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "188360",
+      "fromID": "146983",
+      "toID": "146984",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188361",
+      "fromID": "146984",
+      "toID": "146982",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

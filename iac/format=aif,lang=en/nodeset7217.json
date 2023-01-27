@@ -1,0 +1,145 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139474",
+      "text": "http://www.bloomberg.com/apps/news?pid=10000103&sid=awia81URdshw Who the hell is he to say the love between my partner and I of 8 years is weak?! It's stronger than many heterosexual couples.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:09"
+    },
+    {
+      "nodeID": "139475",
+      "text": "Well if you are Catholic you would should probably find him pretty credible.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:09"
+    },
+    {
+      "nodeID": "139476",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:49:09"
+    },
+    {
+      "nodeID": "139477",
+      "text": "You forget, Popeman has the power of infallibility",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:09"
+    },
+    {
+      "nodeID": "139478",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:49:09"
+    },
+    {
+      "nodeID": "139479",
+      "text": "yeah, i know...like many religions, people just claim they are one and then think they can just pick and choose what to follow. To me, you are all or nothing so those that think the Pope is an idiot should probably consider a new faith because they don't believe in the one they say they do.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:10"
+    },
+    {
+      "nodeID": "139480",
+      "text": "So, you're saying that you believe in absolutely everything your church believes and you support everything it does and the moment it did anything oustide of these you'd leave right?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:10"
+    },
+    {
+      "nodeID": "139481",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:49:10"
+    },
+    {
+      "nodeID": "139482",
+      "text": "I think what Steeeve is noting is that one of the central tenets of Catholicism is ecclesiastical authority. This isn't like disagreeing on the color of the choir robes. If you don't recognize the authority of the Pope, then basically you aren't really Catholic.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:10"
+    },
+    {
+      "nodeID": "139483",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:49:10"
+    },
+    {
+      "nodeID": "139484",
+      "text": "He also died after a month ;)",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:10"
+    },
+    {
+      "nodeID": "139485",
+      "text": "And the theological implication of that is what? emoticon_rolleyes  P.S. Odd thing to ;) about, no?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:10"
+    },
+    {
+      "nodeID": "139486",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:49:10"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183048",
+      "fromID": "139475",
+      "toID": "139476",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183049",
+      "fromID": "139476",
+      "toID": "139474",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183050",
+      "fromID": "139477",
+      "toID": "139478",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183051",
+      "fromID": "139478",
+      "toID": "139474",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183052",
+      "fromID": "139480",
+      "toID": "139481",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183053",
+      "fromID": "139481",
+      "toID": "139479",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183054",
+      "fromID": "139482",
+      "toID": "139483",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183055",
+      "fromID": "139483",
+      "toID": "139480",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183056",
+      "fromID": "139485",
+      "toID": "139486",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183057",
+      "fromID": "139486",
+      "toID": "139484",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

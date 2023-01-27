@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "150943",
+      "text": "It seems for some, the birth canal somehow magically transforms the unborn into a person. One minute it's not a person, the next, it is!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:42"
+    },
+    {
+      "nodeID": "150944",
+      "text": "Really. For that reason, we, antiabortion atheists, hold that abortionist are really religious nuts who believe that a soul exists and penetrates into a body along with the first air breathing. Chester:",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:42"
+    },
+    {
+      "nodeID": "150945",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:13:42"
+    },
+    {
+      "nodeID": "150946",
+      "text": "Among other things, the newborn must obtain its own oxygen and its own nourishment. It must also transition from an aquatic environment to an aerobic one.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:42"
+    },
+    {
+      "nodeID": "150947",
+      "text": "So, if a baby is having trouble breathing that's been born already, you don't consider it a 'person'? Methinks you've not thought through the implications of your argument here at all.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:43"
+    },
+    {
+      "nodeID": "150948",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:13:43"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191152",
+      "fromID": "150944",
+      "toID": "150945",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191153",
+      "fromID": "150945",
+      "toID": "150943",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191154",
+      "fromID": "150947",
+      "toID": "150948",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191155",
+      "fromID": "150948",
+      "toID": "150946",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

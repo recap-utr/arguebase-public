@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "145535",
+      "text": "3) There's no evidence for the Big Bang Sadly, yes, I have actually seen this one fairly often. I have no idea where people get the idea that scientists make things up without having good evidence behind it (oh wait... we're out to disprove God because all scientists hate God or some XXXX like that).",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:31"
+    },
+    {
+      "nodeID": "145536",
+      "text": "Now everyone will know Marc was right all along--that there is an atheist science conspiracy.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:31"
+    },
+    {
+      "nodeID": "145537",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:02:31"
+    },
+    {
+      "nodeID": "145538",
+      "text": "T.Q., why oh why did you supply this resource? You've given Marc9000 a confession from his opponent!  Now everyone will know Marc was right all along--that there is an atheist science conspiracy.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:31"
+    },
+    {
+      "nodeID": "145539",
+      "text": "Uh-oh... Pay no attention at all to the man behind the curtain!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:31"
+    },
+    {
+      "nodeID": "145540",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:02:31"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187342",
+      "fromID": "145536",
+      "toID": "145537",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187343",
+      "fromID": "145537",
+      "toID": "145535",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187344",
+      "fromID": "145539",
+      "toID": "145540",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187345",
+      "fromID": "145540",
+      "toID": "145538",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

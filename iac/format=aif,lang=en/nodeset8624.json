@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "160403",
+      "text": "Pope Benedict XVI on Tuesday condemned the 'grave deviations and failures' of capitalism exposed by the financial crisis and issued a strong call for a 'true world political authority' to oversee a return to ethics in the global economy.... His attack on unbridled capitalism and unregulated market forces .... his plea for financiers in particular to refocus on ethics .... Pope Benedict's emphasis on the need for 'forms of redistribution of wealth' is also likely to fuel the debate at the summit - to be attended by 39 heads of government and international institutions - over the failure of several rich nations, most notably Italy and France, to honour past aid commitments.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:34:57"
+    },
+    {
+      "nodeID": "160404",
+      "text": "And down the road abit don't be surprised if you see Sunday Blue Laws being enacted to enforce worship on Sunday! All in the name of giving man a rest from toil of course!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:34:57"
+    },
+    {
+      "nodeID": "160405",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:34:57"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "197862",
+      "fromID": "160404",
+      "toID": "160405",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197863",
+      "fromID": "160405",
+      "toID": "160403",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

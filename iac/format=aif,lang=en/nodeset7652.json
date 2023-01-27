@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "145547",
+      "text": "http://www.guncite.com/gun_control_gcdgcon.html What is so doubtful about it? It makes sense to me.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:34"
+    },
+    {
+      "nodeID": "145548",
+      "text": "So the stats come from John Lott.... Wasn't he the one who got caught making up statistics and impersonated a woman for three years to support the pro-gun cause? http://articles.latimes.com/2006/may/31/opinion/oe-wiener31 http://whoismaryrosh.com/ ....a bizarre individual who I don't think can be trusted.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:34"
+    },
+    {
+      "nodeID": "145549",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:02:34"
+    },
+    {
+      "nodeID": "145550",
+      "text": "So the stats come from John Lott.... Wasn't he the one who got caught making up statistics and impersonated a woman for three years to support the pro-gun cause?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:34"
+    },
+    {
+      "nodeID": "145551",
+      "text": "And the Violence Policy Center is somehow more trustworthy?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:34"
+    },
+    {
+      "nodeID": "145552",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:02:34"
+    },
+    {
+      "nodeID": "145553",
+      "text": "What would you like? ...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:34"
+    },
+    {
+      "nodeID": "145554",
+      "text": "I would like him to provide evidence in support of his repeated claim that posters here have frequently said 'that honest citizens will commit crimes if given guns.'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:34"
+    },
+    {
+      "nodeID": "145555",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:02:34"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187350",
+      "fromID": "145548",
+      "toID": "145549",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187351",
+      "fromID": "145549",
+      "toID": "145547",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187352",
+      "fromID": "145551",
+      "toID": "145552",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187353",
+      "fromID": "145552",
+      "toID": "145550",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187354",
+      "fromID": "145554",
+      "toID": "145555",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187355",
+      "fromID": "145555",
+      "toID": "145553",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

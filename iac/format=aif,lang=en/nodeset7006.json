@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "136335",
+      "text": "at least the court made the correct decision and didn't just try to make new laws.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:42:50"
+    },
+    {
+      "nodeID": "136336",
+      "text": "I don't usually agree with you, but I agree with you on this one. The judiciary branch is there to interpret the law. Do I wish the ruling had been different and the government should have paid for the abortion? Yes. But the court made the correct decision. It's the same with the Terri Schiavo case. All the conservatives wanted to save her because they thought the laws weren't right but the judges all sided on the side of the law. The law is written for a reason, and we don't get to decide when to ignore them just because of compassion. Then we fall down the slippery slope of abridging the first amendment because it's better, and violating other laws 'for the good of the people'. It's like 'Animal Farm', where the laws kept changing ever so slightly, and soon it was no better than it was before. The laws were made, and if we want to change them, we should fight them, but court is not the place. Of course we all wish we could just go to the courts and get them to settle disputes like mommy but they are there to interpret the law, and unfortunately the law was very clear here, that in this case the government should not pay for the abortion.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:42:50"
+    },
+    {
+      "nodeID": "136337",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:42:50"
+    },
+    {
+      "nodeID": "136338",
+      "text": "Correct decision? I would say this woman' s mental health was at risk. How devastating to carry a fetus to term and deliver a stillborn or a baby who dies relatively soon. I know, it happened to a friend. Cruel, cruel, cruel.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:42:50"
+    },
+    {
+      "nodeID": "136339",
+      "text": "But, Michele, it wasn't any where near to killing her. The stipulation of the law, TO SAVE THE LIFE OF THE MOTHER ONLY!!! Otherwise, the pweshious widdo fetus has all priority.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:42:50"
+    },
+    {
+      "nodeID": "136340",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:42:50"
+    },
+    {
+      "nodeID": "136341",
+      "text": "see, in the US we have a thing called 'laws' and these 'laws' are what the courts are supposed to go by. What their personal feelings that have are not relevant to any court case (or shouldn't be that is). So yes, it was the correct decision based on the laws. As a side note, if you wish to change a law we have a congress that does that.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:42:50"
+    },
+    {
+      "nodeID": "136342",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:42:50"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "180804",
+      "fromID": "136336",
+      "toID": "136337",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180805",
+      "fromID": "136337",
+      "toID": "136335",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180806",
+      "fromID": "136339",
+      "toID": "136340",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180807",
+      "fromID": "136340",
+      "toID": "136338",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180808",
+      "fromID": "136341",
+      "toID": "136342",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180809",
+      "fromID": "136342",
+      "toID": "136338",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

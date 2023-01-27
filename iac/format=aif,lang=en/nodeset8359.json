@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "156199",
+      "text": "So now I'm looking for advice. Whats the best way to go up against creationists bastards seeking the brainwash the populace?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:34"
+    },
+    {
+      "nodeID": "156200",
+      "text": "Well good on you for taking a proactive stance against the AiG misinformation campaign emoticon_xgood  To add to what johnhanks said be careful about about insulting them- regardless of how infuriating their position is the weight of evidence and reason is firmly on the side of science. Use this to your advantage as it means you can rise above the personal attacks/character assassination that the likes of AiG so frequently resort to. Secondly be careful in the use of the term creationist- remember AiG are Young Earth Creationists and do not speak for creationists as a whole- there are Christians who accept the analysis of science yet still see the universe as the creation of God (ie. Old Earth Creationists). This is significant as it is important to drive the point home that YEC does not speak on behalf of all Christians (as it likes to make out), but are a group on the fringe whose position is seen as ridiculous by Christian and non-Christian alike. Put this to them and you force them to start attacking fellow Christians. P.S. Welcome to the Forum!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:34"
+    },
+    {
+      "nodeID": "156201",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:25:34"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194862",
+      "fromID": "156200",
+      "toID": "156201",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194863",
+      "fromID": "156201",
+      "toID": "156199",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

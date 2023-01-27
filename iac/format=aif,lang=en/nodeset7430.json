@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "142100",
+      "text": "Yeah, this really is true. I kinda wish that even pro-choicers would see that Roe vs Wade (which have pretty much been eroded anyway) was an illegally decided case. I actually had a dicussion with a very bright person who was an insane liberal from UNC the other day. He was studying law and actually admitted to me that roe vs wade was a poorly decided case. He even admitted that while he hates Justice Scalia that his way of operating the court is the correct one. Needless to say I was stunned.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:19"
+    },
+    {
+      "nodeID": "142101",
+      "text": "Well some call me liberal (VoR anyone?) and I am definately pro-choice, I'll chime in here. I completely agree that in Roe v. Wade they made the wrong decision. I think ammendment X comes into play here. Nowhere in the Constitution does it allow for the federal government to make restrictions based on abortion. This should be up to the states. Now on that same note it is also unconstitutional for the federal government to make a law banning abortion. This is a law that should be addressed by the states as it is not resered to the federal government.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:19"
+    },
+    {
+      "nodeID": "142102",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:55:19"
+    },
+    {
+      "nodeID": "142103",
+      "text": "Illegal? How so?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:19"
+    },
+    {
+      "nodeID": "142104",
+      "text": "oh my, sigma, you haven't posted in awhile.  Illegal as in reaching beyond their power to make this decision.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:19"
+    },
+    {
+      "nodeID": "142105",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:55:19"
+    },
+    {
+      "nodeID": "142106",
+      "text": "At age 18? That's a possibility - a coworker of mine once expounded that every couple, with the consent of both parents, and at their own expense, should have an unlimited right to abortion all the way up to age 18. (He had had a fight with his teenage daughter that morning.) I don't think it will fly, but I support the people having the right to choose and I will live with their decision.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:19"
+    },
+    {
+      "nodeID": "142107",
+      "text": "I believe Sinjin is right. Children are citizens once they are born. Citizens are naturalized or natural born.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:19"
+    },
+    {
+      "nodeID": "142108",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:55:19"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184910",
+      "fromID": "142101",
+      "toID": "142102",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184911",
+      "fromID": "142102",
+      "toID": "142100",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184912",
+      "fromID": "142104",
+      "toID": "142105",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184913",
+      "fromID": "142105",
+      "toID": "142103",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184914",
+      "fromID": "142107",
+      "toID": "142108",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184915",
+      "fromID": "142108",
+      "toID": "142106",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

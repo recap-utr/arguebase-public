@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "162555",
+      "text": "<<<<<My personal views are that all types of birth control should be freely available to anyone over the age of consent, all should be OTC. I think that we need much better sex-ed in our schools, teaching good safe-sex practices, etc.<<<< I agree with this 100%, and I also believe that some young people should be placed on BC before the age of consent, for their own protectiion.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:40:25"
+    },
+    {
+      "nodeID": "162556",
+      "text": "And who would pick the 'some'? Perhaps you also believe they should be placed on Ritilin...for their own protection...because their teachers (without medical training) diagnose the infamous ADD demon in them. Not to get off topic too far, some teachers evidently have trouble recognizing the difference between students that can't seem to pay attention and themselves (the teachers) being in dire need of coming across as interesting. What makes you think teachers or parents could ever become adept at recognizing who needs to put on birth control? Shall we wait 'til one becomes pregnant? Shall we offer a survey of sexual activities?...to what age group?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:40:25"
+    },
+    {
+      "nodeID": "162557",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:40:25"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "199400",
+      "fromID": "162556",
+      "toID": "162557",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199401",
+      "fromID": "162557",
+      "toID": "162555",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

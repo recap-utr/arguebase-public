@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "153614",
+      "text": "Very often, it is irresponsible sexual practices or insufficiently responsible sex that leads to the unwanted pregnancies that lead to abortion. By reducing the number of unwanted pregnancies through proper contraceptive use (including doubling up to reduce pregnancy risk) or abstinence for those that can be convinced, one would then automatically reduce the number of abortions. I think this is one area where our two sides actually agree in the general idea that it would be good to reduce the number of abortions by reducing the number of unwanted pregnancies. Imagine what could be accomplished if our sides actually worked together in this direction. I think that the devil is in the details, though, in how each of our sides would work to achieve this. So, what are your views on how best to decrease the number of unwanted pregnancies and why do you hold those views? Do you advocate teaching abstinence only? Teaching proper contraceptive use in school? Other ideas?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:41"
+    },
+    {
+      "nodeID": "153615",
+      "text": "I think you should teach everything about pregnancy and sex. The problem comes in when no one takes your seriously. Abortion allows for a no consequence view on sex. It's like teaching the dangers of steroids in baseball yet the consequence is to take a 1 day class on substantive abuse if you get caught. Of course the rewards are much better. Same thing with attitude towards sex. If you have that fail-safe than the consequences really aren't too bad so preventing pregnancies becomes harder.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:41"
+    },
+    {
+      "nodeID": "153616",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:19:41"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193034",
+      "fromID": "153615",
+      "toID": "153616",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193035",
+      "fromID": "153616",
+      "toID": "153614",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139539",
+      "text": "Nothing will replace fossil fuels until they reach a market price that favors an alternative.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:21"
+    },
+    {
+      "nodeID": "139540",
+      "text": "And the government can find a way to heavily TAX that alternative without a public outcry.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:22"
+    },
+    {
+      "nodeID": "139541",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:49:22"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183094",
+      "fromID": "139540",
+      "toID": "139541",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183095",
+      "fromID": "139541",
+      "toID": "139539",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

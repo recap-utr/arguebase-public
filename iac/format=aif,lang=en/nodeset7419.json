@@ -1,0 +1,157 @@
+{
+  "nodes": [
+    {
+      "nodeID": "69953",
+      "text": "No.",
+      "type": "I",
+      "timestamp": "2015-06-25 12:57:27"
+    },
+    {
+      "nodeID": "141888",
+      "text": "'Technically it is not a crime, because it is legal. If it were illegal then it would be a crime.' Carman This isnt under crime debates cuz its technically a crime its just that it should be a crime its killing and you know it.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:54"
+    },
+    {
+      "nodeID": "141889",
+      "text": "Yes, I know it's a killing... I never said that it wasn't, I only said that LEGALLY it is not considered to be a crime (at this point).",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:54"
+    },
+    {
+      "nodeID": "141890",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:54:55"
+    },
+    {
+      "nodeID": "141891",
+      "text": "Abortion isn't a legal crime. How ever, in all other ways, it certainly is a crime. I think the moderator should move this to abortion discussion.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:55"
+    },
+    {
+      "nodeID": "141892",
+      "text": "If it's not illegal*, it's not a crime, by definition. Can we stipulate that while it is not illegal in most countries under most circumstances, it is indeed immoral?       *Or the president does it. ;)",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:55"
+    },
+    {
+      "nodeID": "141893",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:54:55"
+    },
+    {
+      "nodeID": "141894",
+      "text": "Is abortion a crime?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:55"
+    },
+    {
+      "nodeID": "141895",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:54:55"
+    },
+    {
+      "nodeID": "141896",
+      "text": "Well if it was illegal, would you consider it a crime?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:55"
+    },
+    {
+      "nodeID": "141897",
+      "text": "What the Hell kind of a question is that?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:55"
+    },
+    {
+      "nodeID": "141898",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:54:55"
+    },
+    {
+      "nodeID": "141899",
+      "text": "In Nazi Germany, Hitler made it legal to kill or harm Jews. So, Crim, according to your terrible logic, then that was not a crime?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:55"
+    },
+    {
+      "nodeID": "141900",
+      "text": "Terrible logic? It's called a DEFINITION. Crimes are illegal actions.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:55"
+    },
+    {
+      "nodeID": "141901",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:54:55"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184754",
+      "fromID": "141889",
+      "toID": "141890",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184755",
+      "fromID": "141890",
+      "toID": "141888",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184756",
+      "fromID": "141892",
+      "toID": "141893",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184757",
+      "fromID": "141893",
+      "toID": "141891",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184758",
+      "fromID": "69953",
+      "toID": "141895",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184759",
+      "fromID": "141895",
+      "toID": "141894",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184760",
+      "fromID": "141897",
+      "toID": "141898",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184761",
+      "fromID": "141898",
+      "toID": "141896",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184762",
+      "fromID": "141900",
+      "toID": "141901",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184763",
+      "fromID": "141901",
+      "toID": "141899",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

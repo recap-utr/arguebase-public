@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "142947",
+      "text": "Tsk",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:56"
+    },
+    {
+      "nodeID": "142948",
+      "text": "Oh, gosh! You really do feel our pain. Quick! Someone get me a beach blanket to wipe up all of Jyoshu's crocodile tears...",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:56"
+    },
+    {
+      "nodeID": "142949",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:56:56"
+    },
+    {
+      "nodeID": "142950",
+      "text": "It's a step toward legal same-sex marriage in another jurisdiction. As it becomes legal in more areas, an amendment will be more difficult.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:56"
+    },
+    {
+      "nodeID": "142951",
+      "text": "Well let's see . . .  the last time a state started recognizing gay marriages, suddenly there was more support for a Federal Marriage Amendment than ever, Democrats lost more seats in Congress, the minority Democratic leader was defeated after years in office, a protestant presidential candidate carried the Catholic vote against a Catholic candidate, evangelicals in the country were energized, the pro-FMA candidate WON re-election even though his approval rating was 50%, and the state that recognized gay marriage fell under a slew of legal challenges to the point where it's up in the air again. The more you push you agenda through activist judges, the closer you get to the people having to pass an amendment. At least New York was smart enough not to do it right before an election.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:56"
+    },
+    {
+      "nodeID": "142952",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:56:56"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185522",
+      "fromID": "142948",
+      "toID": "142949",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185523",
+      "fromID": "142949",
+      "toID": "142947",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185524",
+      "fromID": "142951",
+      "toID": "142952",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185525",
+      "fromID": "142952",
+      "toID": "142950",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

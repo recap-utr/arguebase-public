@@ -1,0 +1,5104 @@
+{
+  "nodes": [
+    {
+      "nodeID": "220004",
+      "text": "15 years ago, TRUMP called himself a liberal on health care",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:03"
+    },
+    {
+      "nodeID": "220005",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:04",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220006",
+      "text": "BAIER : 15 years ago , you called yourself a liberal on health care",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:04"
+    },
+    {
+      "nodeID": "220007",
+      "text": "M: BAIER : 15 years ago , you called yourself a liberal on health care",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:04"
+    },
+    {
+      "nodeID": "220008",
+      "text": "TRUMP was for a single-payer system, a Canadian-style system",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:04"
+    },
+    {
+      "nodeID": "220009",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:04",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220010",
+      "text": "BAIER : You were for a single-payer system , a Canadian-style system",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:04"
+    },
+    {
+      "nodeID": "220011",
+      "text": "M: BAIER : You were for a single-payer system , a Canadian-style system",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:04"
+    },
+    {
+      "nodeID": "220012",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:04",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220013",
+      "text": "TRUMP was for that then and isn't for it now because of X",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:04"
+    },
+    {
+      "nodeID": "220014",
+      "text": "Pure Questioning",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:04",
+      "scheme": "PureQuestioning",
+      "schemeID": "91"
+    },
+    {
+      "nodeID": "220015",
+      "text": "BAIER : Why were you for that then and why are n't you for it now ?",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:05"
+    },
+    {
+      "nodeID": "220016",
+      "text": "M: BAIER : Why were you for that then and why are n't you for it now ?",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:05"
+    },
+    {
+      "nodeID": "220017",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:05",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220018",
+      "text": "in July of 2004 TRUMP came out strongly against the war with Iraq",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:05"
+    },
+    {
+      "nodeID": "220019",
+      "text": "the war with Iraq was going to destabilize the Middle East",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:05"
+    },
+    {
+      "nodeID": "220020",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:05",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220021",
+      "text": "TRUMP : In July of 2004 , I came out strongly against the war with Iraq",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:05"
+    },
+    {
+      "nodeID": "220022",
+      "text": "M: TRUMP : In July of 2004 , I came out strongly against the war with Iraq",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:05"
+    },
+    {
+      "nodeID": "220023",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:05",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220024",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-01 15:00:05",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "220025",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:06",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220026",
+      "text": "TRUMP : it was going to destabilize the Middle East",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:06"
+    },
+    {
+      "nodeID": "220027",
+      "text": "M: TRUMP : it was going to destabilize the Middle East",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:06"
+    },
+    {
+      "nodeID": "220028",
+      "text": "TRUMP is the only one on this stage that knew that",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:06"
+    },
+    {
+      "nodeID": "220029",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:06",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220030",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:06",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "220031",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:06",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220032",
+      "text": "TRUMP : I 'm the only one on this stage that knew that",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:06"
+    },
+    {
+      "nodeID": "220033",
+      "text": "M: TRUMP : I 'm the only one on this stage that knew that",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:06"
+    },
+    {
+      "nodeID": "220034",
+      "text": "TRUMP had the vision to say that the war with Iraq was going to destabilize the Middle East",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:06"
+    },
+    {
+      "nodeID": "220035",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:07",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220036",
+      "text": "TRUMP : had the vision to say it",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:07"
+    },
+    {
+      "nodeID": "220037",
+      "text": "M: TRUMP : had the vision to say it",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:07"
+    },
+    {
+      "nodeID": "220038",
+      "text": "that 's exactly what happened",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:07"
+    },
+    {
+      "nodeID": "220039",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:07",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220040",
+      "text": "TRUMP : that 's exactly what happened",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:07"
+    },
+    {
+      "nodeID": "220041",
+      "text": "M: TRUMP : that 's exactly what happened",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:07"
+    },
+    {
+      "nodeID": "220042",
+      "text": "the Middle East became totally destabilized",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:07"
+    },
+    {
+      "nodeID": "220043",
+      "text": "a single-payer health system works in Canada",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:07"
+    },
+    {
+      "nodeID": "220044",
+      "text": "a single-payer health system works incredibly well in Scotland",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:07"
+    },
+    {
+      "nodeID": "220045",
+      "text": "a single-payer health system could have worked in a different age",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:07"
+    },
+    {
+      "nodeID": "220046",
+      "text": "which is the age you're talking about here",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:08"
+    },
+    {
+      "nodeID": "220047",
+      "text": "what TRUMP'd like to see is a private system without the artificial lines around every state",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:08"
+    },
+    {
+      "nodeID": "220048",
+      "text": "TRUMP has a big company with thousands and thousands of employees",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:08"
+    },
+    {
+      "nodeID": "220049",
+      "text": "if TRUMP is negotiating in New York or in New Jersey or in California, he has one bidder",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:08"
+    },
+    {
+      "nodeID": "220050",
+      "text": "nobody can bid",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:08"
+    },
+    {
+      "nodeID": "220051",
+      "text": "let me explain",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:08"
+    },
+    {
+      "nodeID": "220052",
+      "text": "the insurance companies are making a fortune",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:08"
+    },
+    {
+      "nodeID": "220053",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-01 15:00:08",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "220054",
+      "text": "the insurance companies have control of the politicians",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:08"
+    },
+    {
+      "nodeID": "220055",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-01 15:00:08",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "220056",
+      "text": "the politicians on this stage are an exception",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:09"
+    },
+    {
+      "nodeID": "220057",
+      "text": "they have total control of the politicians",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:09"
+    },
+    {
+      "nodeID": "220058",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-11-01 15:00:09",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "220059",
+      "text": "get rid of the artificial lines and you will have yourself great plans",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:09"
+    },
+    {
+      "nodeID": "220060",
+      "text": "then we have to take care of the people that can't take care of themselves",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:09"
+    },
+    {
+      "nodeID": "220061",
+      "text": "TRUMP will do that through a different system",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:09"
+    },
+    {
+      "nodeID": "220062",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:09",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220063",
+      "text": "TRUMP : the Middle East became totally destabilized",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:09"
+    },
+    {
+      "nodeID": "220064",
+      "text": "M: TRUMP : the Middle East became totally destabilized",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:09"
+    },
+    {
+      "nodeID": "220065",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:09",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220066",
+      "text": "TRUMP :  As far as single payer, it works in Canada",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:09"
+    },
+    {
+      "nodeID": "220067",
+      "text": "M: TRUMP :  As far as single payer , it works in Canada",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:10"
+    },
+    {
+      "nodeID": "220068",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:10",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220069",
+      "text": "TRUMP : It works incredibly well in Scotland",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:10"
+    },
+    {
+      "nodeID": "220070",
+      "text": "M: TRUMP : It works incredibly well in Scotland",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:10"
+    },
+    {
+      "nodeID": "220071",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:10",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220072",
+      "text": "TRUMP : It could have worked in a different age",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:10"
+    },
+    {
+      "nodeID": "220073",
+      "text": "M: TRUMP : It could have worked in a different age",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:10"
+    },
+    {
+      "nodeID": "220074",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:10",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220075",
+      "text": "TRUMP : which is the age you 're talking about here",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:10"
+    },
+    {
+      "nodeID": "220076",
+      "text": "M: TRUMP : which is the age you 're talking about here",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:10"
+    },
+    {
+      "nodeID": "220077",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:11",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220078",
+      "text": "TRUMP : what I'd like to see is a private system without the artificial lines around every state",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:11"
+    },
+    {
+      "nodeID": "220079",
+      "text": "M: TRUMP : what TRUMP'd like to see is a private system without the artificial lines around every state",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:11"
+    },
+    {
+      "nodeID": "220080",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:11",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220081",
+      "text": "TRUMP : I have a big company with thousands and thousands of employees",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:11"
+    },
+    {
+      "nodeID": "220082",
+      "text": "M: TRUMP : I have a big company with thousands and thousands of employees",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:11"
+    },
+    {
+      "nodeID": "220083",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:11",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220084",
+      "text": "TRUMP : if I 'm negotiating in New York or in New Jersey or in California, I have like one bidder",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:11"
+    },
+    {
+      "nodeID": "220085",
+      "text": "M: TRUMP : if I 'm negotiating in New York or in New Jersey or in California, I have like one bidder",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:11"
+    },
+    {
+      "nodeID": "220086",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:12",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220087",
+      "text": "TRUMP : nobody can bid",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:12"
+    },
+    {
+      "nodeID": "220088",
+      "text": "M: TRUMP : nobody can bid",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:12"
+    },
+    {
+      "nodeID": "220089",
+      "text": "Rhetorical Questioning",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:12",
+      "scheme": "RhetoricalQuestioning",
+      "schemeID": "85"
+    },
+    {
+      "nodeID": "220090",
+      "text": "TRUMP : You know why ?",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:12"
+    },
+    {
+      "nodeID": "220091",
+      "text": "M: TRUMP : You know why ?",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:12"
+    },
+    {
+      "nodeID": "220092",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:12",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220093",
+      "text": "TRUMP :  the insurance companies are making a fortune",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:12"
+    },
+    {
+      "nodeID": "220094",
+      "text": "M: TRUMP :  the insurance companies are making a fortune",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:12"
+    },
+    {
+      "nodeID": "220095",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:12",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220096",
+      "text": "TRUMP : they have control of the politicians",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:12"
+    },
+    {
+      "nodeID": "220097",
+      "text": "M: TRUMP : they have control of the politicians",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:13"
+    },
+    {
+      "nodeID": "220098",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:13",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220099",
+      "text": "TRUMP : with the exception of the politicians on this stage",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:13"
+    },
+    {
+      "nodeID": "220100",
+      "text": "M: TRUMP : with the exception of the politicians on this stage",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:13"
+    },
+    {
+      "nodeID": "220101",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:13",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220102",
+      "text": "TRUMP : they have total control of the politicians",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:13"
+    },
+    {
+      "nodeID": "220103",
+      "text": "M: TRUMP : they have total control of the politicians",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:13"
+    },
+    {
+      "nodeID": "220104",
+      "text": "TRUMP : they're making a fortune",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:13"
+    },
+    {
+      "nodeID": "220105",
+      "text": "M: TRUMP : they're making a fortune",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:13"
+    },
+    {
+      "nodeID": "220106",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:13",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220107",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:14",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220108",
+      "text": "TRUMP : Get rid of the artificial lines and you will have... yourself great plans",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:14"
+    },
+    {
+      "nodeID": "220109",
+      "text": "M: TRUMP : Get rid of the artificial lines and you will have ... [ timer sounds ] ... yourself great plans",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:14"
+    },
+    {
+      "nodeID": "220110",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:14",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220111",
+      "text": "TRUMP : then we have to take care of the people that can't take care of themselves",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:14"
+    },
+    {
+      "nodeID": "220112",
+      "text": "M: TRUMP : then we have to take care of the people that can't take care of themselves",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:14"
+    },
+    {
+      "nodeID": "220113",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:14",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220114",
+      "text": "TRUMP : I will do that through a different system",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:14"
+    },
+    {
+      "nodeID": "220115",
+      "text": "M: TRUMP : I will do that through a different system",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:14"
+    },
+    {
+      "nodeID": "220116",
+      "text": "M: PAUL : News flash , the Republican Party 's been fighting against a single-payer system",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:14"
+    },
+    {
+      "nodeID": "220117",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:15",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220118",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-01 15:00:15",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "220119",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-01 15:00:15",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "220120",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:15",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220121",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:15",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "220122",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:15",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220123",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:15",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220124",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-11-01 15:00:15",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "220125",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:15",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220126",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:16",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "220127",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:16",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220128",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:16",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220129",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:16",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220130",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:16",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220131",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:16",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "220132",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:16",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220133",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:16",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220134",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:16",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220135",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:16",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220136",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-01 15:00:17",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "220137",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-01 15:00:17",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "220138",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:17",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220139",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:17",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "220140",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:17",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220141",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:17",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "220142",
+      "text": "M: PAUL : the Republican Party 's been fighting against a single-payer system",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:17"
+    },
+    {
+      "nodeID": "220143",
+      "text": "there is nothing new about it",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:17"
+    },
+    {
+      "nodeID": "220144",
+      "text": "Ironic Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:17",
+      "scheme": "Ironic Asserting",
+      "schemeID": "148"
+    },
+    {
+      "nodeID": "220145",
+      "text": "PAUL : I 've got a news flash",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:17"
+    },
+    {
+      "nodeID": "220146",
+      "text": "M: PAUL : I 've got a news flash",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:18"
+    },
+    {
+      "nodeID": "220147",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:18",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220148",
+      "text": "the Republican Party's been fighting against a single-payer system for a decade",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:18"
+    },
+    {
+      "nodeID": "220149",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:18",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220150",
+      "text": "PAUL : the Republican Party 's been fighting against a single-payer system for a decade",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:18"
+    },
+    {
+      "nodeID": "220151",
+      "text": "TRUMP is on the wrong side of this if he is still arguing for a single-payer system",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:18"
+    },
+    {
+      "nodeID": "220152",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-01 15:00:18",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "220153",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:18",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220154",
+      "text": "PAUL : you 're on the wrong side of this if you 're still arguing for a single-payer system",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:19"
+    },
+    {
+      "nodeID": "220155",
+      "text": "M: PAUL : you 're on the wrong side of this if you 're still arguing for a single-payer system",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:19"
+    },
+    {
+      "nodeID": "220156",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:19",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220157",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:19",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "220158",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:19",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220159",
+      "text": "M: TRUMP : I do n't think you heard me",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:19"
+    },
+    {
+      "nodeID": "220160",
+      "text": "PAUL is having a hard time tonight",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:19"
+    },
+    {
+      "nodeID": "220161",
+      "text": "TRUMP : I don't think you heard me",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:19"
+    },
+    {
+      "nodeID": "220162",
+      "text": "M: TRUMP : I don't think you heard me",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:19"
+    },
+    {
+      "nodeID": "220163",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:19",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220164",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:19",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220165",
+      "text": "TRUMP : You 're having a hard time tonight",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:20"
+    },
+    {
+      "nodeID": "220166",
+      "text": "M: TRUMP : You 're having a hard time tonight",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:20"
+    },
+    {
+      "nodeID": "220167",
+      "text": "Rhetorical Challenging",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:20",
+      "scheme": "RhetoricalChallenging",
+      "schemeID": "86"
+    },
+    {
+      "nodeID": "220168",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:20",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220169",
+      "text": "TRUMP has not just supported single-payer health care",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:20"
+    },
+    {
+      "nodeID": "220170",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:20",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220171",
+      "text": "BAIER : Mr. Trump , it 's not just your past support for single- payer health care",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:20"
+    },
+    {
+      "nodeID": "220172",
+      "text": "M: BAIER : Mr. Trump , it 's not just your past support for single- payer health care",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:20"
+    },
+    {
+      "nodeID": "220173",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:20",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220174",
+      "text": "TRUMP has also supported a host of other liberal policies",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:20"
+    },
+    {
+      "nodeID": "220175",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:21",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220176",
+      "text": "BAIER : You 've also supported a host of other liberal policies",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:21"
+    },
+    {
+      "nodeID": "220177",
+      "text": "M: BAIER : You 've also supported a host of other liberal policies",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:21"
+    },
+    {
+      "nodeID": "220178",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:21",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220179",
+      "text": "TRUMP has also donated to several Democratic candidates including Hillary Clinton and Nancy Pelosi",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:21"
+    },
+    {
+      "nodeID": "220180",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:21",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "220181",
+      "text": "BAIER : you 've also donated to several Democratic candidates , Hillary Clinton included , Nancy Pelosi",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:21"
+    },
+    {
+      "nodeID": "220182",
+      "text": "M: BAIER : you 've also donated to several Democratic candidates , Hillary Clinton included , Nancy Pelosi",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:21"
+    },
+    {
+      "nodeID": "220183",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:21",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220184",
+      "text": "TRUMP explained away those donations saying he did that to get business-related favors",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:21"
+    },
+    {
+      "nodeID": "220185",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:22",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "220186",
+      "text": "BAIER : You explained away those donations saying you did that to get business-related favors",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:22"
+    },
+    {
+      "nodeID": "220187",
+      "text": "M: BAIER : You explained away those donations saying you did that to get business-related favors",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:22"
+    },
+    {
+      "nodeID": "220188",
+      "text": "when TRUMP gives, they do whatever TRUMP wants them to do",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:22"
+    },
+    {
+      "nodeID": "220189",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:22",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220190",
+      "text": "TRUMP : When I give , they do whatever the hell I want them to do",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:22"
+    },
+    {
+      "nodeID": "220191",
+      "text": "M: TRUMP : you said recently , quote , `` When you give , they do whatever the hell you want them to do . ''",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:22"
+    },
+    {
+      "nodeID": "220192",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:22",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220193",
+      "text": "BAIER : TRUMP : you said recently , quote , `` When you give , they do whatever the hell you want them to do . ''",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:22"
+    },
+    {
+      "nodeID": "220194",
+      "text": "M: BAIER : TRUMP : you said recently , quote , `` When you give , they do whatever the hell you want them to do . ''",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:22"
+    },
+    {
+      "nodeID": "220195",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:22",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220196",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:23",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220197",
+      "text": "BAIER should better believe that when TRUMP gives, they do whatever TRUMP wants them to do",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:23"
+    },
+    {
+      "nodeID": "220198",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:23",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220199",
+      "text": "TRUMP : You 'd better believe it",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:23"
+    },
+    {
+      "nodeID": "220200",
+      "text": "M: TRUMP : You 'd better believe it",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:23"
+    },
+    {
+      "nodeID": "220201",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:23",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220202",
+      "text": "they do X",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:23"
+    },
+    {
+      "nodeID": "220203",
+      "text": "Pure Questioning",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:23",
+      "scheme": "PureQuestioning",
+      "schemeID": "91"
+    },
+    {
+      "nodeID": "220204",
+      "text": "BAIER : So what specifically did they do?",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:23"
+    },
+    {
+      "nodeID": "220205",
+      "text": "M: BAIER : So what specifically did ... UNIDENTIFIED MALE : That 's true . BAIER : -- they do ?",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:23"
+    },
+    {
+      "nodeID": "220206",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:24",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220207",
+      "text": "M: TRUMP : If I ask them , if I need them , you know , most of the people on this stage I 've given to , just so you understand , a lot of money",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:24"
+    },
+    {
+      "nodeID": "220208",
+      "text": "TRUMP did not give money to RUBIO",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:24"
+    },
+    {
+      "nodeID": "220209",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:24",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220210",
+      "text": "RUBIO : Not me",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:24"
+    },
+    {
+      "nodeID": "220211",
+      "text": "M: RUBIO : Not me",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:24"
+    },
+    {
+      "nodeID": "220212",
+      "text": "TRUMP did not give money to HUCKABEE",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:24"
+    },
+    {
+      "nodeID": "220213",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:24",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220214",
+      "text": "HUCKABEE : Not me",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:24"
+    },
+    {
+      "nodeID": "220215",
+      "text": "M: HUCKABEE : Not me",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:24"
+    },
+    {
+      "nodeID": "220216",
+      "text": "TRUMP is welcome to give HUCKABEE a check, if he'd like",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:25"
+    },
+    {
+      "nodeID": "220217",
+      "text": "Offering",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:25",
+      "scheme": "Offering",
+      "schemeID": "176"
+    },
+    {
+      "nodeID": "220218",
+      "text": "HUCKABEE : But you 're welcome to give me a check , Donald if you 'd like",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:25"
+    },
+    {
+      "nodeID": "220219",
+      "text": "M: HUCKABEE : But you 're welcome to give me a check , Donald if you 'd like",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:25"
+    },
+    {
+      "nodeID": "220220",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:25",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220221",
+      "text": "many of the people on this stage TRUMP has given a lot of money",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:25"
+    },
+    {
+      "nodeID": "220222",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:25",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220223",
+      "text": "TRUMP : Many of them",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:25"
+    },
+    {
+      "nodeID": "220224",
+      "text": "M: TRUMP : Many of them",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:25"
+    },
+    {
+      "nodeID": "220225",
+      "text": "TRUMP supported CRIST",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:25"
+    },
+    {
+      "nodeID": "220226",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:26",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220227",
+      "text": "RUBIO : Actually , to be clear he supported Charlie Crist",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:26"
+    },
+    {
+      "nodeID": "220228",
+      "text": "M: RUBIO : Actually , to be clear ... [ crosstalk ] ... he supported Charlie Crist",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:26"
+    },
+    {
+      "nodeID": "220229",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:26",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220230",
+      "text": "TRUMP did not support CRIST much",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:26"
+    },
+    {
+      "nodeID": "220231",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:26",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220232",
+      "text": "TRUMP : Not much",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:26"
+    },
+    {
+      "nodeID": "220233",
+      "text": "M: TRUMP : Not much",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:26"
+    },
+    {
+      "nodeID": "220234",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:26",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220235",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:26",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "220236",
+      "text": "our system is broken",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:26"
+    },
+    {
+      "nodeID": "220237",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:27",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220238",
+      "text": "TRUMP : our system is broken",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:27"
+    },
+    {
+      "nodeID": "220239",
+      "text": "M: TRUMP : our system is broken",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:27"
+    },
+    {
+      "nodeID": "220240",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:27",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220241",
+      "text": "TRUMP gave money to many people before two months ago when he was a businessman",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:27"
+    },
+    {
+      "nodeID": "220242",
+      "text": "TRUMP gives money to everybody",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:27"
+    },
+    {
+      "nodeID": "220243",
+      "text": "when they call, TRUMP gives money",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:27"
+    },
+    {
+      "nodeID": "220244",
+      "text": "TRUMP got X from them",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:27"
+    },
+    {
+      "nodeID": "220245",
+      "text": "Pure Questioning",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:27",
+      "scheme": "PureQuestioning",
+      "schemeID": "91"
+    },
+    {
+      "nodeID": "220246",
+      "text": "UNIDENTIFIED MALE : So what did you get ?",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:27"
+    },
+    {
+      "nodeID": "220247",
+      "text": "M: UNIDENTIFIED MALE : So what did you get ?",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:27"
+    },
+    {
+      "nodeID": "220248",
+      "text": "TRUMP : that 's a broken system",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:28"
+    },
+    {
+      "nodeID": "220249",
+      "text": "M: TRUMP : that 's a broken system",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:28"
+    },
+    {
+      "nodeID": "220250",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:28",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220251",
+      "text": "TRUMP got X from Hillary Clinton and Nancy Pelosi",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:28"
+    },
+    {
+      "nodeID": "220252",
+      "text": "Pure Questioning",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:28",
+      "scheme": "PureQuestioning",
+      "schemeID": "91"
+    },
+    {
+      "nodeID": "220253",
+      "text": "UNIDENTIFIED MALE : What did you get from Hillary Clinton and Nancy Pelosi ?",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:28"
+    },
+    {
+      "nodeID": "220254",
+      "text": "M: UNIDENTIFIED MALE : What did you get from Hillary Clinton and Nancy Pelosi ?",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:28"
+    },
+    {
+      "nodeID": "220255",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-11-01 15:00:28",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "220256",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:28",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220257",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:28",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "220258",
+      "text": "TRUMP asked CLINTON to be at his wedding",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:28"
+    },
+    {
+      "nodeID": "220259",
+      "text": "CLINTON came to TRUMP's wedding",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:29"
+    },
+    {
+      "nodeID": "220260",
+      "text": "TRUMP gave money to a foundation that is supposed to do good",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:29"
+    },
+    {
+      "nodeID": "220261",
+      "text": "TRUMP didn't know CLINTON's money would be used on private jets going all over the world",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:29"
+    },
+    {
+      "nodeID": "220262",
+      "text": "CLINTON's money was used on private jets going all over the world",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:29"
+    },
+    {
+      "nodeID": "220263",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:29",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220264",
+      "text": "TRUMP : I gave to many people , before this , before two months ago , I was a businessman",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:29"
+    },
+    {
+      "nodeID": "220265",
+      "text": "M: TRUMP : I gave to many people , before this , before two months ago , I was a businessman",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:29"
+    },
+    {
+      "nodeID": "220266",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:29",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220267",
+      "text": "TRUMP :  I give to everybody",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:29"
+    },
+    {
+      "nodeID": "220268",
+      "text": "M: TRUMP :  I give to everybody",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:29"
+    },
+    {
+      "nodeID": "220269",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:30",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220270",
+      "text": "TRUMP : When they call , I give",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:30"
+    },
+    {
+      "nodeID": "220271",
+      "text": "M: TRUMP : When they call , I give",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:30"
+    },
+    {
+      "nodeID": "220272",
+      "text": "M: TRUMP : When I need something from them two years later , three years later, I call them, they are there for me",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:30"
+    },
+    {
+      "nodeID": "220273",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:30",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220274",
+      "text": "TRUMP : be at my wedding",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:30"
+    },
+    {
+      "nodeID": "220275",
+      "text": "M: TRUMP : with Hillary Clinton , I said be at my wedding",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:30"
+    },
+    {
+      "nodeID": "220276",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:30",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220277",
+      "text": "TRUMP : she came to my wedding",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:30"
+    },
+    {
+      "nodeID": "220278",
+      "text": "M: TRUMP : she came to my wedding",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:30"
+    },
+    {
+      "nodeID": "220279",
+      "text": "M: TRUMP : She did n't have a choice because I gave",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:30"
+    },
+    {
+      "nodeID": "220280",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:31",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220281",
+      "text": "TRUMP : I gave to a foundation that , frankly , that foundation is supposed to do good",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:31"
+    },
+    {
+      "nodeID": "220282",
+      "text": "M: TRUMP : I gave to a foundation that , frankly , that foundation is supposed to do good",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:31"
+    },
+    {
+      "nodeID": "220283",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:31",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220284",
+      "text": "TRUMP : I did n't know her money would be used on private jets going all over the world",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:31"
+    },
+    {
+      "nodeID": "220285",
+      "text": "M: TRUMP : I did n't know her money would be used on private jets going all over the world",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:31"
+    },
+    {
+      "nodeID": "220286",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:31",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220287",
+      "text": "TRUMP : It was",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:31"
+    },
+    {
+      "nodeID": "220288",
+      "text": "M: TRUMP : It was",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:31"
+    },
+    {
+      "nodeID": "220289",
+      "text": "we spent a lot of time talking about CLINTON",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:31"
+    },
+    {
+      "nodeID": "220290",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:32",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220291",
+      "text": "WALKER : we spent a lot of time talking about Hillary Clinton",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:32"
+    },
+    {
+      "nodeID": "220292",
+      "text": "M: WALKER : we spent a lot of time talking about Hillary Clinton",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:32"
+    },
+    {
+      "nodeID": "220293",
+      "text": "we spent a lot of time pitting us back and forth",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:32"
+    },
+    {
+      "nodeID": "220294",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:32",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220295",
+      "text": "WALKER : pitting us back and forth",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:32"
+    },
+    {
+      "nodeID": "220296",
+      "text": "M: WALKER : pitting us back and forth",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:32"
+    },
+    {
+      "nodeID": "220297",
+      "text": "we should be talking about CLINTON on the subject of her money",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:32"
+    },
+    {
+      "nodeID": "220298",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:32",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220299",
+      "text": "WALKER : we should be talking about Hillary Clinton on that last subject",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:32"
+    },
+    {
+      "nodeID": "220300",
+      "text": "M: WALKER : we should be talking about Hillary Clinton on that last subject",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:32"
+    },
+    {
+      "nodeID": "220301",
+      "text": "everywhere in the world that CLINTON touched is more messed up today than before she and the president",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:33"
+    },
+    {
+      "nodeID": "220302",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:33",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220303",
+      "text": "WALKER : everywhere in the world that Hillary Clinton touched is more messed up today than before she and the president",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:33"
+    },
+    {
+      "nodeID": "220304",
+      "text": "M: WALKER : everywhere in the world that Hillary Clinton touched is more messed up today than before she and the president",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:33"
+    },
+    {
+      "nodeID": "220305",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-01 15:00:33",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "220306",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:33",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220307",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:33",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "220308",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:33",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220309",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:33",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220310",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:33",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220311",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:34",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220312",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:34",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220313",
+      "text": "TRUMP : TRUMP: with Hillary Clinton , I said be at my wedding",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:34"
+    },
+    {
+      "nodeID": "220314",
+      "text": "M: TRUMP : TRUMP : with Hillary Clinton , I said be at my wedding",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:34"
+    },
+    {
+      "nodeID": "220315",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:34",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220316",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:34",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220317",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:34",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220318",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:34",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220319",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-11-01 15:00:34",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "220320",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:34",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220321",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:35",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "220322",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:35",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220323",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:35",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220324",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:35",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220325",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-01 15:00:35",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "220326",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:35",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220327",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:35",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "220328",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:35",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220329",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:35",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220330",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:35",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "220331",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-01 15:00:36",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "220332",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:36",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220333",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:36",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "220334",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:36",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220335",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-01 15:00:36",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "220336",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:36",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "220337",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:36",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    },
+    {
+      "nodeID": "220338",
+      "text": "most of the people on this stage TRUMP has given a lot of money",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:36"
+    },
+    {
+      "nodeID": "220339",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:36",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220340",
+      "text": "TRUMP : most of the people on this stage I 've given to , just so you understand , a lot of money",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:36"
+    },
+    {
+      "nodeID": "220341",
+      "text": "M: TRUMP : most of the people on this stage I 've given to , just so you understand , a lot of money",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:37"
+    },
+    {
+      "nodeID": "220342",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:37",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220343",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:37",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220344",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:37",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "220345",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:37",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220346",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:37",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "220347",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-11-01 15:00:37",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "220348",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:37",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220349",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:37",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "220350",
+      "text": "Rhetorical Questioning",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:38",
+      "scheme": "RhetoricalQuestioning",
+      "schemeID": "85"
+    },
+    {
+      "nodeID": "220351",
+      "text": "TRUMP : do you know what ?",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:38"
+    },
+    {
+      "nodeID": "220352",
+      "text": "M: TRUMP : do you know what ?",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:38"
+    },
+    {
+      "nodeID": "220353",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:38",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220354",
+      "text": "when TRUMP needs something from them two years later, three years later, TRUMP calls them",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:38"
+    },
+    {
+      "nodeID": "220355",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:38",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220356",
+      "text": "TRUMP : When I need something from them two years later , three years later , I call them",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:38"
+    },
+    {
+      "nodeID": "220357",
+      "text": "M: TRUMP : When I need something from them two years later , three years later , I call them",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:38"
+    },
+    {
+      "nodeID": "220358",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:38",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220359",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:38",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220360",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:39",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220361",
+      "text": "we have many questions to come",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:39"
+    },
+    {
+      "nodeID": "220362",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:39",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220363",
+      "text": "BAIER : We have many questions to come",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:39"
+    },
+    {
+      "nodeID": "220364",
+      "text": "M: BAIER : We have many questions to come",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:39"
+    },
+    {
+      "nodeID": "220365",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:39",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220366",
+      "text": "It's true that we have many questions to come",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:39"
+    },
+    {
+      "nodeID": "220367",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:39",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220368",
+      "text": "WALKER : It 's true",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:39"
+    },
+    {
+      "nodeID": "220369",
+      "text": "M: WALKER : It 's true",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:39"
+    },
+    {
+      "nodeID": "220370",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:00:40",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220371",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:00:40",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "267276",
+      "fromID": "220005",
+      "toID": "220004",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267277",
+      "fromID": "220006",
+      "toID": "220005",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267278",
+      "fromID": "220009",
+      "toID": "220008",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267279",
+      "fromID": "220010",
+      "toID": "220009",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267280",
+      "fromID": "220006",
+      "toID": "220012",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267281",
+      "fromID": "220012",
+      "toID": "220010",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267282",
+      "fromID": "220014",
+      "toID": "220013",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267283",
+      "fromID": "220015",
+      "toID": "220014",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267284",
+      "fromID": "220010",
+      "toID": "220017",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267285",
+      "fromID": "220017",
+      "toID": "220015",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267286",
+      "fromID": "220020",
+      "toID": "220018",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267287",
+      "fromID": "220021",
+      "toID": "220020",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267288",
+      "fromID": "220015",
+      "toID": "220023",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267289",
+      "fromID": "220023",
+      "toID": "220021",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267290",
+      "fromID": "220019",
+      "toID": "220024",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267291",
+      "fromID": "220024",
+      "toID": "220018",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267292",
+      "fromID": "220025",
+      "toID": "220019",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267293",
+      "fromID": "220026",
+      "toID": "220025",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267294",
+      "fromID": "220021",
+      "toID": "220029",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267295",
+      "fromID": "220029",
+      "toID": "220026",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267296",
+      "fromID": "220029",
+      "toID": "220030",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267297",
+      "fromID": "220030",
+      "toID": "220024",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267298",
+      "fromID": "220031",
+      "toID": "220028",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267299",
+      "fromID": "220032",
+      "toID": "220031",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267300",
+      "fromID": "220035",
+      "toID": "220034",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267301",
+      "fromID": "220036",
+      "toID": "220035",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267302",
+      "fromID": "220039",
+      "toID": "220038",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267303",
+      "fromID": "220040",
+      "toID": "220039",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267304",
+      "fromID": "220052",
+      "toID": "220053",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267305",
+      "fromID": "220053",
+      "toID": "220050",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267306",
+      "fromID": "220054",
+      "toID": "220055",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267307",
+      "fromID": "220055",
+      "toID": "220052",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267308",
+      "fromID": "220057",
+      "toID": "220058",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267309",
+      "fromID": "220058",
+      "toID": "220054",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267310",
+      "fromID": "220062",
+      "toID": "220042",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267311",
+      "fromID": "220063",
+      "toID": "220062",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267312",
+      "fromID": "220065",
+      "toID": "220043",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267313",
+      "fromID": "220066",
+      "toID": "220065",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267314",
+      "fromID": "220068",
+      "toID": "220044",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267315",
+      "fromID": "220069",
+      "toID": "220068",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267316",
+      "fromID": "220071",
+      "toID": "220045",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267317",
+      "fromID": "220072",
+      "toID": "220071",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267318",
+      "fromID": "220074",
+      "toID": "220046",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267319",
+      "fromID": "220075",
+      "toID": "220074",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267320",
+      "fromID": "220077",
+      "toID": "220047",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267321",
+      "fromID": "220078",
+      "toID": "220077",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267322",
+      "fromID": "220080",
+      "toID": "220048",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267323",
+      "fromID": "220081",
+      "toID": "220080",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267324",
+      "fromID": "220083",
+      "toID": "220049",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267325",
+      "fromID": "220084",
+      "toID": "220083",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267326",
+      "fromID": "220086",
+      "toID": "220050",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267327",
+      "fromID": "220087",
+      "toID": "220086",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267328",
+      "fromID": "220089",
+      "toID": "220051",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267329",
+      "fromID": "220090",
+      "toID": "220089",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267330",
+      "fromID": "220092",
+      "toID": "220052",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267331",
+      "fromID": "220093",
+      "toID": "220092",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267332",
+      "fromID": "220095",
+      "toID": "220054",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267333",
+      "fromID": "220096",
+      "toID": "220095",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267334",
+      "fromID": "220098",
+      "toID": "220056",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267335",
+      "fromID": "220099",
+      "toID": "220098",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267336",
+      "fromID": "220101",
+      "toID": "220057",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267337",
+      "fromID": "220102",
+      "toID": "220101",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267338",
+      "fromID": "220104",
+      "toID": "220106",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267339",
+      "fromID": "220106",
+      "toID": "220052",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267340",
+      "fromID": "220107",
+      "toID": "220059",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267341",
+      "fromID": "220108",
+      "toID": "220107",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267342",
+      "fromID": "220110",
+      "toID": "220060",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267343",
+      "fromID": "220111",
+      "toID": "220110",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267344",
+      "fromID": "220113",
+      "toID": "220061",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267345",
+      "fromID": "220114",
+      "toID": "220113",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267346",
+      "fromID": "220063",
+      "toID": "220117",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267347",
+      "fromID": "220117",
+      "toID": "220066",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267348",
+      "fromID": "220044",
+      "toID": "220118",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267349",
+      "fromID": "220118",
+      "toID": "220047",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267350",
+      "fromID": "220043",
+      "toID": "220119",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267351",
+      "fromID": "220119",
+      "toID": "220047",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267352",
+      "fromID": "220069",
+      "toID": "220120",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267353",
+      "fromID": "220120",
+      "toID": "220078",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267354",
+      "fromID": "220120",
+      "toID": "220121",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267355",
+      "fromID": "220121",
+      "toID": "220118",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267356",
+      "fromID": "220078",
+      "toID": "220122",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267357",
+      "fromID": "220122",
+      "toID": "220081",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267358",
+      "fromID": "220081",
+      "toID": "220123",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267359",
+      "fromID": "220123",
+      "toID": "220084",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267360",
+      "fromID": "220050",
+      "toID": "220124",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267361",
+      "fromID": "220124",
+      "toID": "220049",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267362",
+      "fromID": "220084",
+      "toID": "220125",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267363",
+      "fromID": "220125",
+      "toID": "220087",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267364",
+      "fromID": "220125",
+      "toID": "220126",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267365",
+      "fromID": "220126",
+      "toID": "220124",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267366",
+      "fromID": "220087",
+      "toID": "220127",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267367",
+      "fromID": "220127",
+      "toID": "220090",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267368",
+      "fromID": "220087",
+      "toID": "220128",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267369",
+      "fromID": "220128",
+      "toID": "220093",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267370",
+      "fromID": "220128",
+      "toID": "220129",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267371",
+      "fromID": "220129",
+      "toID": "220053",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267372",
+      "fromID": "220096",
+      "toID": "220130",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267373",
+      "fromID": "220130",
+      "toID": "220102",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267374",
+      "fromID": "220130",
+      "toID": "220131",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267375",
+      "fromID": "220131",
+      "toID": "220058",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267376",
+      "fromID": "220093",
+      "toID": "220132",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267377",
+      "fromID": "220132",
+      "toID": "220096",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267378",
+      "fromID": "220096",
+      "toID": "220133",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267379",
+      "fromID": "220133",
+      "toID": "220099",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267380",
+      "fromID": "220102",
+      "toID": "220134",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267381",
+      "fromID": "220134",
+      "toID": "220104",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267382",
+      "fromID": "220104",
+      "toID": "220135",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267383",
+      "fromID": "220135",
+      "toID": "220108",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267384",
+      "fromID": "220059",
+      "toID": "220136",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267385",
+      "fromID": "220136",
+      "toID": "220061",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267386",
+      "fromID": "220060",
+      "toID": "220137",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267387",
+      "fromID": "220137",
+      "toID": "220061",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267388",
+      "fromID": "220108",
+      "toID": "220138",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267389",
+      "fromID": "220138",
+      "toID": "220114",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267390",
+      "fromID": "220138",
+      "toID": "220139",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267391",
+      "fromID": "220139",
+      "toID": "220136",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267392",
+      "fromID": "220111",
+      "toID": "220140",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267393",
+      "fromID": "220140",
+      "toID": "220114",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267394",
+      "fromID": "220140",
+      "toID": "220141",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267395",
+      "fromID": "220141",
+      "toID": "220137",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267396",
+      "fromID": "220144",
+      "toID": "220143",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267397",
+      "fromID": "220145",
+      "toID": "220144",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267398",
+      "fromID": "220114",
+      "toID": "220147",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267399",
+      "fromID": "220147",
+      "toID": "220145",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267400",
+      "fromID": "220149",
+      "toID": "220148",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267401",
+      "fromID": "220150",
+      "toID": "220149",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267402",
+      "fromID": "220148",
+      "toID": "220152",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267403",
+      "fromID": "220152",
+      "toID": "220151",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267404",
+      "fromID": "220153",
+      "toID": "220151",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267405",
+      "fromID": "220154",
+      "toID": "220153",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267406",
+      "fromID": "220150",
+      "toID": "220156",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267407",
+      "fromID": "220156",
+      "toID": "220154",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267408",
+      "fromID": "220156",
+      "toID": "220157",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267409",
+      "fromID": "220157",
+      "toID": "220152",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267410",
+      "fromID": "220145",
+      "toID": "220158",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267411",
+      "fromID": "220158",
+      "toID": "220150",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267412",
+      "fromID": "220154",
+      "toID": "220163",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267413",
+      "fromID": "220163",
+      "toID": "220161",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267414",
+      "fromID": "220164",
+      "toID": "220160",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267415",
+      "fromID": "220165",
+      "toID": "220164",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267416",
+      "fromID": "220161",
+      "toID": "220167",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267417",
+      "fromID": "220167",
+      "toID": "220151",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267418",
+      "fromID": "220161",
+      "toID": "220168",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267419",
+      "fromID": "220168",
+      "toID": "220165",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267420",
+      "fromID": "220170",
+      "toID": "220169",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267421",
+      "fromID": "220171",
+      "toID": "220170",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267422",
+      "fromID": "220165",
+      "toID": "220173",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267423",
+      "fromID": "220173",
+      "toID": "220171",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267424",
+      "fromID": "220175",
+      "toID": "220174",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267425",
+      "fromID": "220176",
+      "toID": "220175",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267426",
+      "fromID": "220171",
+      "toID": "220178",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267427",
+      "fromID": "220178",
+      "toID": "220176",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267428",
+      "fromID": "220180",
+      "toID": "220179",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267429",
+      "fromID": "220181",
+      "toID": "220180",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267430",
+      "fromID": "220176",
+      "toID": "220183",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267431",
+      "fromID": "220183",
+      "toID": "220181",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267432",
+      "fromID": "220185",
+      "toID": "220184",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267433",
+      "fromID": "220186",
+      "toID": "220185",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267434",
+      "fromID": "220189",
+      "toID": "220188",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267435",
+      "fromID": "220190",
+      "toID": "220189",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267436",
+      "fromID": "220192",
+      "toID": "220190",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267437",
+      "fromID": "220193",
+      "toID": "220192",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267438",
+      "fromID": "220181",
+      "toID": "220195",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267439",
+      "fromID": "220195",
+      "toID": "220186",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267440",
+      "fromID": "220186",
+      "toID": "220196",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267441",
+      "fromID": "220196",
+      "toID": "220193",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267442",
+      "fromID": "220198",
+      "toID": "220197",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267443",
+      "fromID": "220199",
+      "toID": "220198",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267444",
+      "fromID": "220193",
+      "toID": "220201",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267445",
+      "fromID": "220201",
+      "toID": "220199",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267446",
+      "fromID": "220203",
+      "toID": "220202",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267447",
+      "fromID": "220204",
+      "toID": "220203",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267448",
+      "fromID": "220199",
+      "toID": "220206",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267449",
+      "fromID": "220206",
+      "toID": "220204",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267450",
+      "fromID": "220209",
+      "toID": "220208",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267451",
+      "fromID": "220210",
+      "toID": "220209",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267452",
+      "fromID": "220213",
+      "toID": "220212",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267453",
+      "fromID": "220214",
+      "toID": "220213",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267454",
+      "fromID": "220217",
+      "toID": "220216",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267455",
+      "fromID": "220218",
+      "toID": "220217",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267456",
+      "fromID": "220214",
+      "toID": "220220",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267457",
+      "fromID": "220220",
+      "toID": "220218",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267458",
+      "fromID": "220222",
+      "toID": "220221",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267459",
+      "fromID": "220223",
+      "toID": "220222",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267460",
+      "fromID": "220226",
+      "toID": "220225",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267461",
+      "fromID": "220227",
+      "toID": "220226",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267462",
+      "fromID": "220223",
+      "toID": "220229",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267463",
+      "fromID": "220229",
+      "toID": "220227",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267464",
+      "fromID": "220231",
+      "toID": "220230",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267465",
+      "fromID": "220232",
+      "toID": "220231",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267466",
+      "fromID": "220227",
+      "toID": "220234",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267467",
+      "fromID": "220234",
+      "toID": "220232",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267468",
+      "fromID": "220234",
+      "toID": "220235",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267469",
+      "fromID": "220235",
+      "toID": "220225",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267470",
+      "fromID": "220237",
+      "toID": "220236",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267471",
+      "fromID": "220238",
+      "toID": "220237",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267472",
+      "fromID": "220232",
+      "toID": "220240",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267473",
+      "fromID": "220240",
+      "toID": "220238",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267474",
+      "fromID": "220245",
+      "toID": "220244",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267475",
+      "fromID": "220246",
+      "toID": "220245",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267476",
+      "fromID": "220238",
+      "toID": "220250",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267477",
+      "fromID": "220250",
+      "toID": "220248",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267478",
+      "fromID": "220252",
+      "toID": "220251",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267479",
+      "fromID": "220253",
+      "toID": "220252",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267480",
+      "fromID": "220251",
+      "toID": "220255",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267481",
+      "fromID": "220255",
+      "toID": "220244",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267482",
+      "fromID": "220246",
+      "toID": "220256",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267483",
+      "fromID": "220256",
+      "toID": "220253",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267484",
+      "fromID": "220256",
+      "toID": "220257",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267485",
+      "fromID": "220257",
+      "toID": "220255",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267486",
+      "fromID": "220263",
+      "toID": "220241",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267487",
+      "fromID": "220264",
+      "toID": "220263",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267488",
+      "fromID": "220266",
+      "toID": "220242",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267489",
+      "fromID": "220267",
+      "toID": "220266",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267490",
+      "fromID": "220269",
+      "toID": "220243",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267491",
+      "fromID": "220270",
+      "toID": "220269",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267492",
+      "fromID": "220273",
+      "toID": "220258",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267493",
+      "fromID": "220274",
+      "toID": "220273",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267494",
+      "fromID": "220276",
+      "toID": "220259",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267495",
+      "fromID": "220277",
+      "toID": "220276",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267496",
+      "fromID": "220280",
+      "toID": "220260",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267497",
+      "fromID": "220281",
+      "toID": "220280",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267498",
+      "fromID": "220283",
+      "toID": "220261",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267499",
+      "fromID": "220284",
+      "toID": "220283",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267500",
+      "fromID": "220286",
+      "toID": "220262",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267501",
+      "fromID": "220287",
+      "toID": "220286",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267502",
+      "fromID": "220290",
+      "toID": "220289",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267503",
+      "fromID": "220291",
+      "toID": "220290",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267504",
+      "fromID": "220294",
+      "toID": "220293",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267505",
+      "fromID": "220295",
+      "toID": "220294",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267506",
+      "fromID": "220298",
+      "toID": "220297",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267507",
+      "fromID": "220299",
+      "toID": "220298",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267508",
+      "fromID": "220302",
+      "toID": "220301",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267509",
+      "fromID": "220303",
+      "toID": "220302",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267510",
+      "fromID": "220301",
+      "toID": "220305",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267511",
+      "fromID": "220305",
+      "toID": "220297",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267512",
+      "fromID": "220299",
+      "toID": "220306",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267513",
+      "fromID": "220306",
+      "toID": "220303",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267514",
+      "fromID": "220306",
+      "toID": "220307",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267515",
+      "fromID": "220307",
+      "toID": "220305",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267516",
+      "fromID": "220291",
+      "toID": "220308",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267517",
+      "fromID": "220308",
+      "toID": "220295",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267518",
+      "fromID": "220295",
+      "toID": "220309",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267519",
+      "fromID": "220309",
+      "toID": "220299",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267520",
+      "fromID": "220287",
+      "toID": "220310",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267521",
+      "fromID": "220310",
+      "toID": "220291",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267522",
+      "fromID": "220284",
+      "toID": "220311",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267523",
+      "fromID": "220311",
+      "toID": "220287",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267524",
+      "fromID": "220312",
+      "toID": "220274",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267525",
+      "fromID": "220313",
+      "toID": "220312",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267526",
+      "fromID": "220253",
+      "toID": "220315",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267527",
+      "fromID": "220315",
+      "toID": "220313",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267528",
+      "fromID": "220313",
+      "toID": "220316",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267529",
+      "fromID": "220316",
+      "toID": "220277",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267530",
+      "fromID": "220281",
+      "toID": "220317",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267531",
+      "fromID": "220317",
+      "toID": "220284",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267532",
+      "fromID": "220277",
+      "toID": "220318",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267533",
+      "fromID": "220318",
+      "toID": "220281",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267534",
+      "fromID": "220243",
+      "toID": "220319",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267535",
+      "fromID": "220319",
+      "toID": "220242",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267536",
+      "fromID": "220267",
+      "toID": "220320",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267537",
+      "fromID": "220320",
+      "toID": "220270",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267538",
+      "fromID": "220320",
+      "toID": "220321",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267539",
+      "fromID": "220321",
+      "toID": "220319",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267540",
+      "fromID": "220264",
+      "toID": "220322",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267541",
+      "fromID": "220322",
+      "toID": "220267",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267542",
+      "fromID": "220026",
+      "toID": "220323",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267543",
+      "fromID": "220323",
+      "toID": "220032",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267544",
+      "fromID": "220032",
+      "toID": "220324",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267545",
+      "fromID": "220324",
+      "toID": "220036",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267546",
+      "fromID": "220042",
+      "toID": "220325",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267547",
+      "fromID": "220325",
+      "toID": "220034",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267548",
+      "fromID": "220036",
+      "toID": "220326",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267549",
+      "fromID": "220326",
+      "toID": "220063",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267550",
+      "fromID": "220326",
+      "toID": "220327",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267551",
+      "fromID": "220327",
+      "toID": "220325",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267552",
+      "fromID": "220036",
+      "toID": "220328",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267553",
+      "fromID": "220328",
+      "toID": "220040",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267554",
+      "fromID": "220066",
+      "toID": "220329",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267555",
+      "fromID": "220329",
+      "toID": "220078",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267556",
+      "fromID": "220329",
+      "toID": "220330",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267557",
+      "fromID": "220330",
+      "toID": "220119",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267558",
+      "fromID": "220045",
+      "toID": "220331",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267559",
+      "fromID": "220331",
+      "toID": "220047",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267560",
+      "fromID": "220072",
+      "toID": "220332",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267561",
+      "fromID": "220332",
+      "toID": "220078",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267562",
+      "fromID": "220332",
+      "toID": "220333",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267563",
+      "fromID": "220333",
+      "toID": "220331",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267564",
+      "fromID": "220075",
+      "toID": "220334",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267565",
+      "fromID": "220334",
+      "toID": "220078",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267566",
+      "fromID": "220148",
+      "toID": "220335",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267567",
+      "fromID": "220335",
+      "toID": "220143",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267568",
+      "fromID": "220158",
+      "toID": "220336",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267569",
+      "fromID": "220336",
+      "toID": "220335",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267570",
+      "fromID": "220201",
+      "toID": "220337",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267571",
+      "fromID": "220337",
+      "toID": "220188",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267572",
+      "fromID": "220339",
+      "toID": "220338",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267573",
+      "fromID": "220340",
+      "toID": "220339",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267574",
+      "fromID": "220204",
+      "toID": "220342",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267575",
+      "fromID": "220342",
+      "toID": "220340",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267576",
+      "fromID": "220340",
+      "toID": "220343",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267577",
+      "fromID": "220343",
+      "toID": "220210",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267578",
+      "fromID": "220343",
+      "toID": "220344",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267579",
+      "fromID": "220344",
+      "toID": "220338",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267580",
+      "fromID": "220210",
+      "toID": "220345",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267581",
+      "fromID": "220345",
+      "toID": "220214",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267582",
+      "fromID": "220345",
+      "toID": "220346",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267583",
+      "fromID": "220346",
+      "toID": "220338",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267584",
+      "fromID": "220221",
+      "toID": "220347",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267585",
+      "fromID": "220347",
+      "toID": "220338",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267586",
+      "fromID": "220340",
+      "toID": "220348",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267587",
+      "fromID": "220348",
+      "toID": "220223",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267588",
+      "fromID": "220348",
+      "toID": "220349",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267589",
+      "fromID": "220349",
+      "toID": "220347",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267590",
+      "fromID": "220350",
+      "toID": "220051",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267591",
+      "fromID": "220351",
+      "toID": "220350",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267592",
+      "fromID": "220270",
+      "toID": "220353",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267593",
+      "fromID": "220353",
+      "toID": "220351",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267594",
+      "fromID": "220355",
+      "toID": "220354",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267595",
+      "fromID": "220356",
+      "toID": "220355",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267596",
+      "fromID": "220351",
+      "toID": "220358",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267597",
+      "fromID": "220358",
+      "toID": "220356",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267598",
+      "fromID": "220356",
+      "toID": "220359",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267599",
+      "fromID": "220359",
+      "toID": "220246",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267600",
+      "fromID": "220248",
+      "toID": "220360",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267601",
+      "fromID": "220360",
+      "toID": "220236",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267602",
+      "fromID": "220362",
+      "toID": "220361",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267603",
+      "fromID": "220363",
+      "toID": "220362",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267604",
+      "fromID": "220303",
+      "toID": "220365",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267605",
+      "fromID": "220365",
+      "toID": "220363",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267606",
+      "fromID": "220367",
+      "toID": "220366",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267607",
+      "fromID": "220368",
+      "toID": "220367",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267608",
+      "fromID": "220363",
+      "toID": "220370",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267609",
+      "fromID": "220370",
+      "toID": "220368",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267610",
+      "fromID": "220370",
+      "toID": "220371",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "267611",
+      "fromID": "220371",
+      "toID": "220361",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "220006",
+      "personID": "2811",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220010",
+      "personID": "2811",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220015",
+      "personID": "2811",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220021",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220026",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220032",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220036",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220040",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220063",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220066",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220069",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220072",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220075",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220078",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220081",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220084",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220087",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220090",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220093",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220096",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220099",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220102",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220104",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220108",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220111",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220114",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220145",
+      "personID": "2580",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220150",
+      "personID": "2580",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220154",
+      "personID": "2580",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220161",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220165",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220171",
+      "personID": "2811",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220176",
+      "personID": "2811",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220181",
+      "personID": "2811",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220186",
+      "personID": "2811",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220190",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220193",
+      "personID": "2811",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220199",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220204",
+      "personID": "2811",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220210",
+      "personID": "2411",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220214",
+      "personID": "2495",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220218",
+      "personID": "2495",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220223",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220227",
+      "personID": "2411",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220232",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220238",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220246",
+      "personID": "2815",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220248",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220253",
+      "personID": "2815",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220264",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220267",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220270",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220274",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220277",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220281",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220284",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220287",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220291",
+      "personID": "2412",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220295",
+      "personID": "2412",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220299",
+      "personID": "2412",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220303",
+      "personID": "2412",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220313",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220340",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220351",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220356",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220363",
+      "personID": "2811",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220368",
+      "personID": "2412",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

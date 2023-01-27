@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143769",
+      "text": "We are setting up permanent bases in Iraq to steal their oil Bush is going to disband Congress and declare himself emperor Bush is going to nuke Iran and North Korea Bush is going to turn America into a theocracy Blah Blah Blah",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:48"
+    },
+    {
+      "nodeID": "143770",
+      "text": ":) I can't tell. Are you a Bush supporter or not? (Just kidding... emoticon_xgood )",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:48"
+    },
+    {
+      "nodeID": "143771",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:58:49"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186100",
+      "fromID": "143770",
+      "toID": "143771",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186101",
+      "fromID": "143771",
+      "toID": "143769",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

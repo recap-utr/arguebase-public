@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "161093",
+      "text": "At least we're on the right side of the issues, [ trying to shoot down another big-government, bureaucratic, wallet-busting, job-killing, liberty-gutting abortion.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:36"
+    },
+    {
+      "nodeID": "161094",
+      "text": "More like the wrong side of the issues, ever in search of more money with the health insurance industry, I'd say. Off the blood of your fellow Americans. Shoot down sounds appropriate though.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:36"
+    },
+    {
+      "nodeID": "161095",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:36:36"
+    },
+    {
+      "nodeID": "161096",
+      "text": "And now, we've had a chance to watch Republican men shouting down women Democratic representatives during a health care debate, as the women spoke about women's health care issues, and as if they were throwing eggs at suffragettes marching (or rather, having a tantrum in their high chairs?).",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:36"
+    },
+    {
+      "nodeID": "161097",
+      "text": "Hey - there's plenty of disordered liberal Democrat women badgering conservative men and women tea party participants. Including the head mistress, Nancy Pelosi and all her sychophants. At least we're on the right side of the issues, trying to shoot down another big-government, bureaucratic, wallet-busting, job-killing, liberty-gutting abortion. What all pro-abortion pundits have in common: THEIR MOTHERS ALL CHOSE LIFE!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:36"
+    },
+    {
+      "nodeID": "161098",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:36:37"
+    },
+    {
+      "nodeID": "161099",
+      "text": "Let's just point out, as far as the article is concerned, just how many of your fellow Americans you're talking about. And what they must think about someone like you.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:37"
+    },
+    {
+      "nodeID": "161100",
+      "text": "He is a hell of a lot wiser than thee.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:37"
+    },
+    {
+      "nodeID": "161101",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:36:37"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198358",
+      "fromID": "161094",
+      "toID": "161095",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198359",
+      "fromID": "161095",
+      "toID": "161093",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198360",
+      "fromID": "161097",
+      "toID": "161098",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198361",
+      "fromID": "161098",
+      "toID": "161096",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198362",
+      "fromID": "161100",
+      "toID": "161101",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198363",
+      "fromID": "161101",
+      "toID": "161099",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

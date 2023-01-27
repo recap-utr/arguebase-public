@@ -1,0 +1,984 @@
+{
+  "nodes": [
+    {
+      "nodeID": "211079",
+      "text": "RammingIntoChicks : They've only asked Rand one question so far",
+      "type": "L",
+      "timestamp": "2016-10-31 17:01:19"
+    },
+    {
+      "nodeID": "211080",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:01:19",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211081",
+      "text": "They've only asked PAUL one question so far",
+      "type": "I",
+      "timestamp": "2016-10-31 17:01:20"
+    },
+    {
+      "nodeID": "211082",
+      "text": "Rory: RammingIntoChicks : They've only asked Rand one question so far",
+      "type": "L",
+      "timestamp": "2016-10-31 17:01:20"
+    },
+    {
+      "nodeID": "211083",
+      "text": "RammingIntoChicks : everyone else has at least 3",
+      "type": "L",
+      "timestamp": "2016-10-31 17:01:20"
+    },
+    {
+      "nodeID": "211084",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:01:20",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211085",
+      "text": "everyone else has at least 3",
+      "type": "I",
+      "timestamp": "2016-10-31 17:01:20"
+    },
+    {
+      "nodeID": "211086",
+      "text": "Rory: RammingIntoChicks : everyone else has at least 3",
+      "type": "L",
+      "timestamp": "2016-10-31 17:01:20"
+    },
+    {
+      "nodeID": "211087",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:01:20",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211088",
+      "text": "RammingIntoChicks : Memories of his dad",
+      "type": "L",
+      "timestamp": "2016-10-31 17:01:20"
+    },
+    {
+      "nodeID": "211089",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:01:20",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211090",
+      "text": "Memories of PAULS dad",
+      "type": "I",
+      "timestamp": "2016-10-31 17:01:20"
+    },
+    {
+      "nodeID": "211091",
+      "text": "Rory: RammingIntoChicks : Memories of his dad",
+      "type": "L",
+      "timestamp": "2016-10-31 17:01:20"
+    },
+    {
+      "nodeID": "211092",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:01:21",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211093",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 17:01:21",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "211094",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:01:21",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "211095",
+      "text": "PAUL : Help, help! I'm bein' repressed",
+      "type": "L",
+      "timestamp": "2016-10-31 17:01:21"
+    },
+    {
+      "nodeID": "211096",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:01:21",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211097",
+      "text": "Help, help! PAULs bein' repressed",
+      "type": "I",
+      "timestamp": "2016-10-31 17:01:21"
+    },
+    {
+      "nodeID": "211098",
+      "text": "Rory: PAUL : Help, help! I'm bein' repressed",
+      "type": "L",
+      "timestamp": "2016-10-31 17:01:21"
+    },
+    {
+      "nodeID": "211099",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:01:21",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211100",
+      "text": "seltaeb4 : PAUL : Help, help! I'm bein' repressed",
+      "type": "L",
+      "timestamp": "2016-10-31 17:01:21"
+    },
+    {
+      "nodeID": "211101",
+      "text": "Rory: seltaeb4 : PAUL : Help, help! I'm bein' repressed",
+      "type": "L",
+      "timestamp": "2016-10-31 17:01:21"
+    },
+    {
+      "nodeID": "211102",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:01:21",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211103",
+      "text": "SapCPark : He has been an ass once or twice",
+      "type": "L",
+      "timestamp": "2016-10-31 17:01:22"
+    },
+    {
+      "nodeID": "211104",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:01:22",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211105",
+      "text": "PAUL has been an ass once or twice",
+      "type": "I",
+      "timestamp": "2016-10-31 17:01:22"
+    },
+    {
+      "nodeID": "211106",
+      "text": "Rory: SapCPark : He has been an ass once or twice",
+      "type": "L",
+      "timestamp": "2016-10-31 17:01:22"
+    },
+    {
+      "nodeID": "211107",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:01:22",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211108",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 17:01:22",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "211109",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:01:22",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "211110",
+      "text": "RammingIntoChicks : Yeah he destroyed Trump and Christie",
+      "type": "L",
+      "timestamp": "2016-10-31 17:01:22"
+    },
+    {
+      "nodeID": "211111",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:01:22",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211112",
+      "text": "Yeah PAUL destroyed TRUMP and CHRISTIE",
+      "type": "I",
+      "timestamp": "2016-10-31 17:01:22"
+    },
+    {
+      "nodeID": "211113",
+      "text": "Rory: RammingIntoChicks : Yeah he destroyed Trump and Christie",
+      "type": "L",
+      "timestamp": "2016-10-31 17:01:23"
+    },
+    {
+      "nodeID": "211114",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:01:23",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211115",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:01:23",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    },
+    {
+      "nodeID": "211116",
+      "text": "RammingIntoChicks :  he knew he wouldn't get any questions",
+      "type": "L",
+      "timestamp": "2016-10-31 17:01:23"
+    },
+    {
+      "nodeID": "211117",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:01:23",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211118",
+      "text": "PAUL knew PAUL wouldn't get any questions",
+      "type": "I",
+      "timestamp": "2016-10-31 17:01:23"
+    },
+    {
+      "nodeID": "211119",
+      "text": "Rory: RammingIntoChicks :  he knew he wouldn't get any questions",
+      "type": "L",
+      "timestamp": "2016-10-31 17:01:23"
+    },
+    {
+      "nodeID": "211120",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:01:23",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211121",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 17:01:23",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "211122",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:01:23",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "211123",
+      "text": "SapCPark : Trump shut him down pretty quickly",
+      "type": "L",
+      "timestamp": "2016-10-31 17:01:23"
+    },
+    {
+      "nodeID": "211124",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:01:24",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211125",
+      "text": "TRUMP shut him down pretty quickly",
+      "type": "I",
+      "timestamp": "2016-10-31 17:01:24"
+    },
+    {
+      "nodeID": "211126",
+      "text": "Rory: SapCPark : Trump shut him down pretty quickly",
+      "type": "L",
+      "timestamp": "2016-10-31 17:01:24"
+    },
+    {
+      "nodeID": "211127",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:01:24",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211128",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-10-31 17:01:24",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "211129",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:01:24",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "211130",
+      "text": "SapCPark : Paul didn't listen",
+      "type": "L",
+      "timestamp": "2016-10-31 17:01:24"
+    },
+    {
+      "nodeID": "211131",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:01:24",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211132",
+      "text": "PAUL didn't listen",
+      "type": "I",
+      "timestamp": "2016-10-31 17:01:24"
+    },
+    {
+      "nodeID": "211133",
+      "text": "Rory: SapCPark : Paul didn't listen",
+      "type": "L",
+      "timestamp": "2016-10-31 17:01:24"
+    },
+    {
+      "nodeID": "211134",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:01:24",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211135",
+      "text": "RammingIntoChicks : Were you not watching the beginning of the debate",
+      "type": "L",
+      "timestamp": "2016-10-31 17:01:25"
+    },
+    {
+      "nodeID": "211136",
+      "text": "Rhetorical Questioning",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:01:25",
+      "scheme": "RhetoricalQuestioning",
+      "schemeID": "85"
+    },
+    {
+      "nodeID": "211137",
+      "text": "you were not watching the beginning of the debate",
+      "type": "I",
+      "timestamp": "2016-10-31 17:01:25"
+    },
+    {
+      "nodeID": "211138",
+      "text": "Rory: RammingIntoChicks : Were you not watching the beginning of the debate",
+      "type": "L",
+      "timestamp": "2016-10-31 17:01:25"
+    },
+    {
+      "nodeID": "211139",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:01:25",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211140",
+      "text": "RammingIntoChicks : Trump withdrew from Rand's attack",
+      "type": "L",
+      "timestamp": "2016-10-31 17:01:25"
+    },
+    {
+      "nodeID": "211141",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:01:25",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211142",
+      "text": "TRUMP withdrew from PAUL's attack",
+      "type": "I",
+      "timestamp": "2016-10-31 17:01:25"
+    },
+    {
+      "nodeID": "211143",
+      "text": "Rory: RammingIntoChicks : Trump withdrew from Rand's attack",
+      "type": "L",
+      "timestamp": "2016-10-31 17:01:25"
+    },
+    {
+      "nodeID": "211144",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-10-31 17:01:25",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "211145",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:01:25",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "211146",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:01:26",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211147",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 17:01:26",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "211148",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:01:26",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "211149",
+      "text": "RammingIntoChicks : The second attack on Trump wasn't the best",
+      "type": "L",
+      "timestamp": "2016-10-31 17:01:26"
+    },
+    {
+      "nodeID": "211150",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:01:26",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211151",
+      "text": "The second attack on TRUMP wasn't the best",
+      "type": "I",
+      "timestamp": "2016-10-31 17:01:26"
+    },
+    {
+      "nodeID": "211152",
+      "text": "Rory: RammingIntoChicks : The second attack on Trump wasn't the best",
+      "type": "L",
+      "timestamp": "2016-10-31 17:01:26"
+    },
+    {
+      "nodeID": "211153",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:01:26",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "257649",
+      "fromID": "211080",
+      "toID": "211081",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257650",
+      "fromID": "211079",
+      "toID": "211080",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257651",
+      "fromID": "211084",
+      "toID": "211085",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257652",
+      "fromID": "211083",
+      "toID": "211084",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257653",
+      "fromID": "211079",
+      "toID": "211087",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257654",
+      "fromID": "211087",
+      "toID": "211083",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257655",
+      "fromID": "211089",
+      "toID": "211090",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257656",
+      "fromID": "211088",
+      "toID": "211089",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257657",
+      "fromID": "211079",
+      "toID": "211092",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257658",
+      "fromID": "211092",
+      "toID": "211088",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257659",
+      "fromID": "211090",
+      "toID": "211093",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257660",
+      "fromID": "211093",
+      "toID": "211081",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257661",
+      "fromID": "211092",
+      "toID": "211094",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257662",
+      "fromID": "211094",
+      "toID": "211093",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257663",
+      "fromID": "211096",
+      "toID": "211097",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257664",
+      "fromID": "211095",
+      "toID": "211096",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257665",
+      "fromID": "211099",
+      "toID": "211095",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257666",
+      "fromID": "211100",
+      "toID": "211099",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257667",
+      "fromID": "211088",
+      "toID": "211102",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257668",
+      "fromID": "211102",
+      "toID": "211100",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257669",
+      "fromID": "211104",
+      "toID": "211105",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257670",
+      "fromID": "211103",
+      "toID": "211104",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257671",
+      "fromID": "211079",
+      "toID": "211107",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257672",
+      "fromID": "211107",
+      "toID": "211103",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257673",
+      "fromID": "211105",
+      "toID": "211108",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257674",
+      "fromID": "211108",
+      "toID": "211081",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257675",
+      "fromID": "211107",
+      "toID": "211109",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257676",
+      "fromID": "211109",
+      "toID": "211108",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257677",
+      "fromID": "211111",
+      "toID": "211112",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257678",
+      "fromID": "211110",
+      "toID": "211111",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257679",
+      "fromID": "211103",
+      "toID": "211114",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257680",
+      "fromID": "211114",
+      "toID": "211110",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257681",
+      "fromID": "211114",
+      "toID": "211115",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257682",
+      "fromID": "211115",
+      "toID": "211105",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257683",
+      "fromID": "211117",
+      "toID": "211118",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257684",
+      "fromID": "211116",
+      "toID": "211117",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257685",
+      "fromID": "211110",
+      "toID": "211120",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257686",
+      "fromID": "211120",
+      "toID": "211116",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257687",
+      "fromID": "211118",
+      "toID": "211121",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257688",
+      "fromID": "211121",
+      "toID": "211112",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257689",
+      "fromID": "211120",
+      "toID": "211122",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257690",
+      "fromID": "211122",
+      "toID": "211121",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257691",
+      "fromID": "211124",
+      "toID": "211125",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257692",
+      "fromID": "211123",
+      "toID": "211124",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257693",
+      "fromID": "211110",
+      "toID": "211127",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257694",
+      "fromID": "211127",
+      "toID": "211123",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257695",
+      "fromID": "211125",
+      "toID": "211128",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257696",
+      "fromID": "211128",
+      "toID": "211112",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257697",
+      "fromID": "211127",
+      "toID": "211129",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257698",
+      "fromID": "211129",
+      "toID": "211128",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257699",
+      "fromID": "211131",
+      "toID": "211132",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257700",
+      "fromID": "211130",
+      "toID": "211131",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257701",
+      "fromID": "211123",
+      "toID": "211134",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257702",
+      "fromID": "211134",
+      "toID": "211130",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257703",
+      "fromID": "211136",
+      "toID": "211137",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257704",
+      "fromID": "211135",
+      "toID": "211136",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257705",
+      "fromID": "211123",
+      "toID": "211139",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257706",
+      "fromID": "211139",
+      "toID": "211135",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257707",
+      "fromID": "211141",
+      "toID": "211142",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257708",
+      "fromID": "211140",
+      "toID": "211141",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257709",
+      "fromID": "211137",
+      "toID": "211144",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257710",
+      "fromID": "211144",
+      "toID": "211125",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257711",
+      "fromID": "211139",
+      "toID": "211145",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257712",
+      "fromID": "211145",
+      "toID": "211144",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257713",
+      "fromID": "211135",
+      "toID": "211146",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257714",
+      "fromID": "211146",
+      "toID": "211140",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257715",
+      "fromID": "211142",
+      "toID": "211147",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257716",
+      "fromID": "211147",
+      "toID": "211137",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257717",
+      "fromID": "211146",
+      "toID": "211148",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257718",
+      "fromID": "211148",
+      "toID": "211147",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257719",
+      "fromID": "211150",
+      "toID": "211151",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257720",
+      "fromID": "211149",
+      "toID": "211150",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257721",
+      "fromID": "211140",
+      "toID": "211153",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257722",
+      "fromID": "211153",
+      "toID": "211149",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "211100",
+      "personID": "2701",
+      "timestamp": "2016-10-31 17:01:29",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

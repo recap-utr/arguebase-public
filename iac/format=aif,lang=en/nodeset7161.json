@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138680",
+      "text": "But just try and remove them from those that think we do and you will have a war on your hands. It's too bad we didn't become more like Canada is respect to gun ownership. A lot more people would be alive today and others not sitting in prison for crimes they commited.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:36"
+    },
+    {
+      "nodeID": "138681",
+      "text": "Just how do you arrive at that conclusion?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:36"
+    },
+    {
+      "nodeID": "138682",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:47:36"
+    },
+    {
+      "nodeID": "138683",
+      "text": "And the loss to society because people used guns instead of an alternate weapon is?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:36"
+    },
+    {
+      "nodeID": "138684",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:47:36"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182478",
+      "fromID": "138681",
+      "toID": "138682",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182479",
+      "fromID": "138682",
+      "toID": "138680",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182480",
+      "fromID": "138683",
+      "toID": "138684",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182481",
+      "fromID": "138684",
+      "toID": "138680",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

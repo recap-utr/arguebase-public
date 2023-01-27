@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139542",
+      "text": "I have a question for all those of you who are against same sex marriage. Now this takes some ability for inward perspective, a quality in short supply here sometimes. Here goes. Would you be happy to accept what you are asking gay people to accept? Would you want gay people to outlaw your marriages? Would you still support the majority decision if the majority of people were gay and it was heterosexual marriages that were being denied or banned outright? Would you accept civil unions even though they were less then marriage? Would you be happy or find it just that certain religious sects were fighting your civil rights? I know this is a futile attempt to try and get you all to think of life from a gay perspective.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:22"
+    },
+    {
+      "nodeID": "139543",
+      "text": "You know the answer, Matt. They'd never accept it.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:22"
+    },
+    {
+      "nodeID": "139544",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:49:22"
+    },
+    {
+      "nodeID": "139545",
+      "text": "Would you accept civil unions even though they were less then marriage?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:23"
+    },
+    {
+      "nodeID": "139546",
+      "text": "No...and you don't have to either.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:23"
+    },
+    {
+      "nodeID": "139547",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:49:23"
+    },
+    {
+      "nodeID": "139548",
+      "text": "Here goes. Would you be happy to accept what you are asking gay people to accept?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:23"
+    },
+    {
+      "nodeID": "139549",
+      "text": "Yes. Were I a logical gay man, I would accept the fact that I cannot marry a man due to the definition of marriage. I would accept that fact and continue to demand that all legally joined couples share the same benefits now given to married couples.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:23"
+    },
+    {
+      "nodeID": "139550",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:49:23"
+    },
+    {
+      "nodeID": "139551",
+      "text": "Apparently, you have five questions. If by 'ability for inward perspective' you imply the ability to look at one's self, it is incongruent to say you are leary of our ability 'to think of life from a gay perspective'. What you are asking is for people to see your troubles from your perspective...hardly possible for many. Yes. Were I a logical gay man, I would accept the fact that I cannot marry a man due to the definition of marriage. I would accept that fact and continue to demand that all legally joined couples share the same benefits now given to married couples.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:23"
+    },
+    {
+      "nodeID": "139552",
+      "text": "You say you cannot see it from the gay perspective, then you speak from that perspective as a gay man. This is confusing. As a heterosexual, if you are one, would you give up those rights and let gays have the rights?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:23"
+    },
+    {
+      "nodeID": "139553",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:49:23"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183096",
+      "fromID": "139543",
+      "toID": "139544",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183097",
+      "fromID": "139544",
+      "toID": "139542",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183098",
+      "fromID": "139546",
+      "toID": "139547",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183099",
+      "fromID": "139547",
+      "toID": "139545",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183100",
+      "fromID": "139549",
+      "toID": "139550",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183101",
+      "fromID": "139550",
+      "toID": "139548",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183102",
+      "fromID": "139552",
+      "toID": "139553",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183103",
+      "fromID": "139553",
+      "toID": "139551",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

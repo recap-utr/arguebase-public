@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "146872",
+      "text": "A good point. It's hard to take posts from Rev. Hellhound and Patrick Henry seriously when they depend so much on propaganda from biased web sites.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:03"
+    },
+    {
+      "nodeID": "146873",
+      "text": "Oh give it a rest... Just because you have the attention span of a lemur does not mean I am posting 'propaganda' Kelvin will vouch for the depth I have contributed in the past...  So if you are so willing to violate my civil rights will YOU be coming to get my guns or will you be sending someone elses child to do your nazi dirty work?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:03"
+    },
+    {
+      "nodeID": "146874",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:05:03"
+    },
+    {
+      "nodeID": "146875",
+      "text": "Talk about begging the question! I don't want your gun, and if such a law were passed it's not my job to enforce the law.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:03"
+    },
+    {
+      "nodeID": "146876",
+      "text": "I see you are willing to violate my constitutional rights yet you expect someone else to do your dirty work.... How typical.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:03"
+    },
+    {
+      "nodeID": "146877",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:05:03"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "188286",
+      "fromID": "146873",
+      "toID": "146874",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188287",
+      "fromID": "146874",
+      "toID": "146872",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188288",
+      "fromID": "146876",
+      "toID": "146877",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188289",
+      "fromID": "146877",
+      "toID": "146875",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

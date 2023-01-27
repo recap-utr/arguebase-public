@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "145063",
+      "text": "March 25, 2004 Washington, DC - Planned Parenthood Federation of America (PPFA) today denounced the Senate's passage of S. 1019, the so-called Unborn Victims of Violence Act (UVVA), which creates a penalty for anyone convicted of harming a fetus during commission of certain federal crimes. The UVVA would give separate legal status to a fertilized egg, embryo, or fetus even if the woman does not know she is pregnant. 'The so-called Unborn Victims of Violence Act (UVVA) is not intended to protect pregnant women from domestic violence or punish individuals who harm them,' said PPFA President Gloria Feldt. 'It is part of a deceptive anti-choice strategy to make women's bodies mere vessels by creating legal personhood for the fetus.' The UVVA was created with the sole aim of undermining the 1973 U.S. Supreme Court Roe v. Wade decision, in which the Supreme Court ruled that 'the word 'person' as used in the Fourteenth Amendment, does not include the unborn.' This bill elevates the legal status of a fetus to make it equal to that of the adult woman who actually suffers the primary injury. It is part of ongoing attempts to bestow personhood on the fetus by granting it separate legal rights equal to and independent of those of the pregnant woman. This legislation, which passed the Senate 61 to 38, fails to mention the harm to the woman resulting from an involuntary termination of her pregnancy. Sponsors of the UVVA today made their ideological goal abundantly clear: when given the opportunity to vote for a substitute bill that had virtually identical criminal penalties but recognized the pregnant woman, rather than the fetus, as the victim, they voted against the alternative. 'Violence against women, including pregnant women, is a significant problem in America, one that should be addressed,' stated Feldt. 'This bill does nothing but shift the focus away from real solutions by undermining women's health and reproductive freedoms.' Because the UVVA is a Federal Bill, it cannot actually be used in any murder case, which would fall under State Law. This would make the UVVA ineffectual in actually protecting a pregnant woman, but create a stepping stone for a national ban on abortion. An alternate version of the bill, which recognizes the pregnant woman as the victim, and includes a provision to the Tenth Amendment (States Rights), was voted against by the same people who voted for the UVVA.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:33"
+    },
+    {
+      "nodeID": "145064",
+      "text": "That is fairly rediculous. The bill is being used as a political tool and will not help women at all. I hate it when all these self-righteous 'pro-life' senators say how much they want to help, and ignore what will actually help. As a note, John Kerry voted for the alternative bill.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:33"
+    },
+    {
+      "nodeID": "145065",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:01:33"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187012",
+      "fromID": "145064",
+      "toID": "145065",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187013",
+      "fromID": "145065",
+      "toID": "145063",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

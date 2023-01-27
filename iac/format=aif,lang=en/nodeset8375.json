@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "156464",
+      "text": "If any of the gun nuts think they can use their Second Amendment 'rights' to curtail my First Amendment rights, they are very much mistaken.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:07"
+    },
+    {
+      "nodeID": "156465",
+      "text": "I would never think of telling you that you can not speak or express your most deeply (or superficially) held sentiments on any subject. There is even less of a chance that I would use a gun to threaten or coerce you into silence (which would not be an exercise of the right to be armed); your argument is nonsensical.  I will however use the right of free speech to tell you that your beliefs are incompatible with the fundamental, unchangeable principles of the constitutional republic we now enjoy. Feel free to advance the proposition that the present system should be scrapped and a new one, founded on liberal 'values' be established. That is the proper course of action, not eating the present system from the inside like a cancer, misrepresenting and perverting the principles it rests upon.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:07"
+    },
+    {
+      "nodeID": "156466",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:26:08"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195044",
+      "fromID": "156465",
+      "toID": "156466",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195045",
+      "fromID": "156466",
+      "toID": "156464",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,717 @@
+{
+  "nodes": [
+    {
+      "nodeID": "211026",
+      "text": "deleted : No ones debating anything",
+      "type": "L",
+      "timestamp": "2016-10-31 17:00:38"
+    },
+    {
+      "nodeID": "211027",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:00:39",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211028",
+      "text": "No ones debating anything",
+      "type": "I",
+      "timestamp": "2016-10-31 17:00:39"
+    },
+    {
+      "nodeID": "211029",
+      "text": "Rory: deleted : No ones debating anything",
+      "type": "L",
+      "timestamp": "2016-10-31 17:00:39"
+    },
+    {
+      "nodeID": "211030",
+      "text": "The_Magic :  these aren't debates",
+      "type": "L",
+      "timestamp": "2016-10-31 17:00:39"
+    },
+    {
+      "nodeID": "211031",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:00:39",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211032",
+      "text": "these aren't debates",
+      "type": "I",
+      "timestamp": "2016-10-31 17:00:39"
+    },
+    {
+      "nodeID": "211033",
+      "text": "Rory: The_Magic :  these aren't debates",
+      "type": "L",
+      "timestamp": "2016-10-31 17:00:39"
+    },
+    {
+      "nodeID": "211034",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:00:39",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211035",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 17:00:39",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "211036",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:00:39",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "211037",
+      "text": "The_Magic : they're simultaneous press conferences",
+      "type": "L",
+      "timestamp": "2016-10-31 17:00:39"
+    },
+    {
+      "nodeID": "211038",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:00:40",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211039",
+      "text": "they're simultaneous press conferences",
+      "type": "I",
+      "timestamp": "2016-10-31 17:00:40"
+    },
+    {
+      "nodeID": "211040",
+      "text": "Rory: The_Magic : they're simultaneous press conferences",
+      "type": "L",
+      "timestamp": "2016-10-31 17:00:40"
+    },
+    {
+      "nodeID": "211041",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:00:40",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211042",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 17:00:40",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "211043",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:00:40",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "211044",
+      "text": "Hmmhowaboutthis : they all agree on 90% of the issues",
+      "type": "L",
+      "timestamp": "2016-10-31 17:00:40"
+    },
+    {
+      "nodeID": "211045",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:00:40",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211046",
+      "text": "they all agree on 90% of the issues",
+      "type": "I",
+      "timestamp": "2016-10-31 17:00:40"
+    },
+    {
+      "nodeID": "211047",
+      "text": "Rory: Hmmhowaboutthis : they all agree on 90% of the issues",
+      "type": "L",
+      "timestamp": "2016-10-31 17:00:40"
+    },
+    {
+      "nodeID": "211048",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:00:41",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211049",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 17:00:41",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "211050",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:00:41",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "211051",
+      "text": "SMACz42 : That's why they call it a debate",
+      "type": "L",
+      "timestamp": "2016-10-31 17:00:41"
+    },
+    {
+      "nodeID": "211052",
+      "text": "Ironic Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:00:41",
+      "scheme": "Ironic Asserting",
+      "schemeID": "148"
+    },
+    {
+      "nodeID": "211053",
+      "text": "That's why they call it a debate",
+      "type": "I",
+      "timestamp": "2016-10-31 17:00:41"
+    },
+    {
+      "nodeID": "211054",
+      "text": "Rory: SMACz42 : That's why they call it a debate",
+      "type": "L",
+      "timestamp": "2016-10-31 17:00:41"
+    },
+    {
+      "nodeID": "211055",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:00:41",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211056",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 17:00:41",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "211057",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:00:41",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "211058",
+      "text": "SMACz42 : (shh it's secretly ironic)",
+      "type": "L",
+      "timestamp": "2016-10-31 17:00:41"
+    },
+    {
+      "nodeID": "211059",
+      "text": "Rory: SMACz42 : (shh it's secretly ironic)",
+      "type": "L",
+      "timestamp": "2016-10-31 17:00:41"
+    },
+    {
+      "nodeID": "211060",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:00:42",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211061",
+      "text": "deleted : this isn't a debate",
+      "type": "L",
+      "timestamp": "2016-10-31 17:00:42"
+    },
+    {
+      "nodeID": "211062",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:00:42",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211063",
+      "text": "this isn't a debate",
+      "type": "I",
+      "timestamp": "2016-10-31 17:00:42"
+    },
+    {
+      "nodeID": "211064",
+      "text": "Rory: deleted : this isn't a debate",
+      "type": "L",
+      "timestamp": "2016-10-31 17:00:42"
+    },
+    {
+      "nodeID": "211065",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:00:42",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211066",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-10-31 17:00:42",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "211067",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:00:42",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "211068",
+      "text": "deleted :  it's a culling of the herd",
+      "type": "L",
+      "timestamp": "2016-10-31 17:00:42"
+    },
+    {
+      "nodeID": "211069",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:00:42",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211070",
+      "text": "it's a culling of the herd",
+      "type": "I",
+      "timestamp": "2016-10-31 17:00:43"
+    },
+    {
+      "nodeID": "211071",
+      "text": "Rory: deleted :  it's a culling of the herd",
+      "type": "L",
+      "timestamp": "2016-10-31 17:00:43"
+    },
+    {
+      "nodeID": "211072",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:00:43",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211073",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 17:00:43",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "211074",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:00:43",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "211075",
+      "text": "DarkMoth : so much this",
+      "type": "L",
+      "timestamp": "2016-10-31 17:00:43"
+    },
+    {
+      "nodeID": "211076",
+      "text": "Rory: DarkMoth : so much this",
+      "type": "L",
+      "timestamp": "2016-10-31 17:00:43"
+    },
+    {
+      "nodeID": "211077",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:00:43",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211078",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:00:43",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "257593",
+      "fromID": "211027",
+      "toID": "211028",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257594",
+      "fromID": "211026",
+      "toID": "211027",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257595",
+      "fromID": "211031",
+      "toID": "211032",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257596",
+      "fromID": "211030",
+      "toID": "211031",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257597",
+      "fromID": "211026",
+      "toID": "211034",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257598",
+      "fromID": "211034",
+      "toID": "211030",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257599",
+      "fromID": "211032",
+      "toID": "211035",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257600",
+      "fromID": "211035",
+      "toID": "211028",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257601",
+      "fromID": "211034",
+      "toID": "211036",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257602",
+      "fromID": "211036",
+      "toID": "211035",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257603",
+      "fromID": "211038",
+      "toID": "211039",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257604",
+      "fromID": "211037",
+      "toID": "211038",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257605",
+      "fromID": "211030",
+      "toID": "211041",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257606",
+      "fromID": "211041",
+      "toID": "211037",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257607",
+      "fromID": "211039",
+      "toID": "211042",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257608",
+      "fromID": "211042",
+      "toID": "211032",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257609",
+      "fromID": "211041",
+      "toID": "211043",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257610",
+      "fromID": "211043",
+      "toID": "211042",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257611",
+      "fromID": "211045",
+      "toID": "211046",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257612",
+      "fromID": "211044",
+      "toID": "211045",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257613",
+      "fromID": "211026",
+      "toID": "211048",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257614",
+      "fromID": "211048",
+      "toID": "211044",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257615",
+      "fromID": "211046",
+      "toID": "211049",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257616",
+      "fromID": "211049",
+      "toID": "211028",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257617",
+      "fromID": "211048",
+      "toID": "211050",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257618",
+      "fromID": "211050",
+      "toID": "211049",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257619",
+      "fromID": "211052",
+      "toID": "211053",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257620",
+      "fromID": "211051",
+      "toID": "211052",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257621",
+      "fromID": "211026",
+      "toID": "211055",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257622",
+      "fromID": "211055",
+      "toID": "211051",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257623",
+      "fromID": "211053",
+      "toID": "211056",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257624",
+      "fromID": "211056",
+      "toID": "211028",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257625",
+      "fromID": "211055",
+      "toID": "211057",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257626",
+      "fromID": "211057",
+      "toID": "211056",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257627",
+      "fromID": "211051",
+      "toID": "211060",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257628",
+      "fromID": "211060",
+      "toID": "211058",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257629",
+      "fromID": "211062",
+      "toID": "211063",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257630",
+      "fromID": "211061",
+      "toID": "211062",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257631",
+      "fromID": "211026",
+      "toID": "211065",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257632",
+      "fromID": "211065",
+      "toID": "211061",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257633",
+      "fromID": "211063",
+      "toID": "211066",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257634",
+      "fromID": "211066",
+      "toID": "211028",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257635",
+      "fromID": "211065",
+      "toID": "211067",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257636",
+      "fromID": "211067",
+      "toID": "211066",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257637",
+      "fromID": "211069",
+      "toID": "211070",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257638",
+      "fromID": "211068",
+      "toID": "211069",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257639",
+      "fromID": "211061",
+      "toID": "211072",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257640",
+      "fromID": "211072",
+      "toID": "211068",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257641",
+      "fromID": "211070",
+      "toID": "211073",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257642",
+      "fromID": "211073",
+      "toID": "211063",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257643",
+      "fromID": "211072",
+      "toID": "211074",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257644",
+      "fromID": "211074",
+      "toID": "211073",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257645",
+      "fromID": "211026",
+      "toID": "211077",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257646",
+      "fromID": "211077",
+      "toID": "211075",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257647",
+      "fromID": "211077",
+      "toID": "211078",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257648",
+      "fromID": "211078",
+      "toID": "211028",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

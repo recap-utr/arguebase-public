@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "161779",
+      "text": "A woman's rights over her body aren't absolute at all. When a woman who's OD'ed is brought to a hospital, they take steps to save her... they don't just say 'She's a druggie, she's obviously sick of life, we'll respect her right to die'. Even if she recovers, and lucidly announces the same intent, they will take steps to stop her. It is because it is un-natural. It is un-natural to kill another human or to harm another human. People do it, but we don't just accept it... we try and put these people into a place where they're not going to do it again. Further, if a woman smokes, her 'right to smoke' might impinge upon my right to be in a smoke free environment. Why is it that restaurants (at least in this country) now have to be smoke free? Why is my right greater than hers? I might point out that the woman in question has every right to go down and file a DNR and a living will, and then the medical responders would be required by law to adhere to it. If she went and OD'ed again, and was going to die, they would have to let her die... in effect she has gone through all neccessary legal steps to end her life. When a woman goes into a clinic to have an abortion, she also complies with the law, but for some reason, there will always be someone who doesn't think she should be allowed the right to do so. Restaurants are not required to be smoke free. There are some local ordinances that may require it, but it is not a federal law. Workplaces, yes, restaurants, no. Walk into any diner in say, Cheyenne, WY to see it I'm wrong. The reasons a restauranteur might decide to make his establishment non-smoking are numerous. The fact is, in most venues, the smoker is the minority, and so it only makes sense. My own opinion is that, while a smoker can last an hour or so for dinner without dying for a smoke, some vehement non-smokers could not last two minutes if they were within a half mile of a lit cigarette. (you know the type, the suburban soccer mom who coughs on sight of a cigarette, the one who will traipse through a discount motel at midnight looking at 10 rooms because none of them 'smell right')",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:20"
+    },
+    {
+      "nodeID": "161780",
+      "text": "You are arguing from US law, I am arguing from Australian law. I think I needed to state this at the beginning. I have not heard of a US court case where a woman sued a hospital for bringing her back to life 'against her will'. Though in America, anything is possible  The oath of a doctor is to save a life. A woman who OD'ed would need to be saved.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:20"
+    },
+    {
+      "nodeID": "161781",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:20"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198850",
+      "fromID": "161780",
+      "toID": "161781",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198851",
+      "fromID": "161781",
+      "toID": "161779",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

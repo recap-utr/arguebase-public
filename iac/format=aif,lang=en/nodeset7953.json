@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "150502",
+      "text": "Introduction to special issue Testing Our Defenses Stephen J. Simpson and John Travis Figure 1 CREDIT: C. BICKEL/SCIENCE Challenge the immune system, and you might well induce a vigorous response. Challenge an immunologist, and you can be confident of eliciting something rather similar. Indeed, our rate of progress in understanding the immune system has been anything but sluggish over the past few decades. This has encouraged a mood of optimism that new vaccines for infectious diseases and immune-based therapies for cancer and autoimmune diseases are just around the corner. Yet despite this brisk pace of discovery and some enticing glimpses of how the immune system might be manipulated, there is much that is clearly left to explore about its inner workings. In this special issue, we consider a selection of fundamental immunological questions that still test investigators. As Casanova and Abel explain (p. 617), the genetic study of human primary immunodeficiencies is an emerging field that is revealing surprises about our evolving relationship with the world of pathogens. Kioussis and Georgopoulos (p. 620) discuss the epigenetic rules that govern lymphocyte function and development, and, Reiner et al. (p. 622) frame some of the most pertinent issues in T cell fate determination. Cell biology and immunology have long been intimate partners, and Mellman (p. 625) uses the study of antigen presentation to explain how discoveries in basic cell biology continue to underpin our understanding of the immune system. Finally, Sakaguchi and Powrie (p. 627) reveal just how much there is still to learn about the regulatory T cell and its power in preventing overzealous immune responses and autoimmunity. In News, Leslie (p. 614) describes how immunologists have struggled to understand the purpose of mast cells, and Cohen (p. 612) updates the daring efforts of gene therapists to reboot the human immune system with cells impervious to HIV. Science's STKE focuses on some molecular challenges for immunologists (www.sciencemag.org/sciext/immunology07). Lind&#233;n describes how the adaptor protein Act1 mediates interleukin-17 receptor signaling. Serfling et al. discuss the importance of NFAT transcription factors to memory lymphocytes. Finally, Wattenberg and Raben describe the negative regulation of various immune responses by diacylglycerol kinase. We are still learning about how immune cells move around the body, and in the research section a Report by Auffrey et al. (p. 666) describes a subset of monocytes that patrol the surfaces of blood vessels for damage and inflammation, contrasting their behavior with that of typical leukocytes. Mueller et al. (p. 670) offer up some intriguing evidence that lymphoid organs 'close up shop' for new business during an immune response, by using chemokine regulation to prevent the admission of circulating na&#239;ve lymphocytes. In research that may shed some evolutionary light on an ancient system, Chen et al. (p. 678 and see related News item) describe how the social amoeba Dictyostelium uses specialized cells akin to phagocytes in animals. Finally, Carmody et al. (p. 675) reveal the means by which normally potent signals mediated by the innate immune Toll-like receptors are placated by blocking ubiquity-nation. With so much left to discover about our immune system, there seems little doubt that immunologists will find plenty to challenge them in the years to come.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:12:47"
+    },
+    {
+      "nodeID": "150503",
+      "text": "And its all evolved via NDS - marvellous!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:12:47"
+    },
+    {
+      "nodeID": "150504",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:12:47"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "190842",
+      "fromID": "150503",
+      "toID": "150504",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190843",
+      "fromID": "150504",
+      "toID": "150502",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152153",
+      "text": "Barack Obama promised change. Then he took on one of Washington's toughest issues: health care. During his first year in office, he found himself making one deal after another with Capitol Hill's powerful insiders--lobbyists and influential members of Congress. He angered his political base, watched his popularity sink, and nearly failed to pass the bill. In Obama's Deal, FRONTLINE follows the story of the president's historic victory and offers the first in-depth look at how the Obama administration operates. Veteran FRONTLINE producer Michael Kirk (Bush's War, Dreams of Obama, Inside the Meltdown) provides a sobering view inside Obama's deals and reveals the realities of American politics, the power of special interest groups, and the role of money in policy making. FRONTLINE: Coming Soon - Obama's Deal | PBS",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:19"
+    },
+    {
+      "nodeID": "152154",
+      "text": "I am understanding the show will also cover how single payer advocates were not allowed a seat at the discussion table, and how, a year ago today, they were arrested at the Senate Finance Committee hearing for nevertheless speaking out in challenge to Max Baucus. This thread is for discussing the show, so if you don't plan on seeing it, don't bother saying something stupid, Archie. Steeve, you don't even exist. Go back to cooking your daily books, for the health insurance ghouls you work for. It's good that they're expanding the safety net, but ultimately, this bill bringing 30 million new customers to the health insurance industry is not what we need. What we need is simple single payer legislation opening up Medicare to all Americans. Health care is a human right.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:19"
+    },
+    {
+      "nodeID": "152155",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:16:19"
+    },
+    {
+      "nodeID": "152156",
+      "text": "You missed the media coverage of it being signed into law?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:19"
+    },
+    {
+      "nodeID": "152157",
+      "text": "Obviously.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:19"
+    },
+    {
+      "nodeID": "152158",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:16:19"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192004",
+      "fromID": "152154",
+      "toID": "152155",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192005",
+      "fromID": "152155",
+      "toID": "152153",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192006",
+      "fromID": "152157",
+      "toID": "152158",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192007",
+      "fromID": "152158",
+      "toID": "152156",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

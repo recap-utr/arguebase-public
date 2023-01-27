@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148811",
+      "text": "How did they either create themselves or what created them (in which case they didn't create everything). It is possible that aliens created life on Earth, but it is highly unlikely and they have left no clues to suggest they did.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:21"
+    },
+    {
+      "nodeID": "148812",
+      "text": "Well in the opinion of supporters of that theory there has been evidence for their beliefs... Visions, UFO's, ... even though it is very doubtful, it would have to be respected in classes at school...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:21"
+    },
+    {
+      "nodeID": "148813",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:09:22"
+    },
+    {
+      "nodeID": "148814",
+      "text": "The possibility that life was created by extraterrestrials currently has 0 evidence to support it.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:22"
+    },
+    {
+      "nodeID": "148815",
+      "text": "Well, 'evidence' for an extraterrestrial creation isn't just through visions and people who have 'seen' UFO's. You forget 'evidence' given by astronomes such as the people from SETI. (SETI is an organization founded after scientists have discovered a strange signal from outer-space. From there on the organization has developed very much) The signal, the SETI people got showed the first three prime numbers. This is very strange because it has never happened before (the scientist who detected the signal, called it WOW-signal, because it was so strange) This signal shows a major part of Design: Specification But unfortunately, to show that it is really true, it is missing another part: Complexity The signal is evidence, but unfortunately it is too short. If those scientists would detect a signal that shows the prime numbers from 2 to 101 it would meet both parts: it has specification and complexity... The SETI people would party all night... So these 'theories' aren't as unproven as you think they are... (I still don't believe it happened like that)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:22"
+    },
+    {
+      "nodeID": "148816",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:09:22"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189648",
+      "fromID": "148812",
+      "toID": "148813",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189649",
+      "fromID": "148813",
+      "toID": "148811",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189650",
+      "fromID": "148815",
+      "toID": "148816",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189651",
+      "fromID": "148816",
+      "toID": "148814",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

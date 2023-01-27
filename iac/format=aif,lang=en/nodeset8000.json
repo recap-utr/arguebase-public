@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151068",
+      "text": "How can something come out of nothing? It seems that before that first thing that existed something had to exist before that.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:02"
+    },
+    {
+      "nodeID": "151069",
+      "text": "Yes. We all ask this question of creationists who propose that the universe was created out of nothing - poof! But science doesn't try to answer that question. We do know that the universe began expanding about 13.7 billion years ago. What went before that and the cause for the expansion isn't known and at present, and may never be knowable. However, we do know that particles can and do spring into existence from nothing, for no apparent reason. Google 'Casimir effect' and read about one example. Wikipedia will probably be the 3rd entry. This something from nothing is an effect from the zero-point energy of a vacuum.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:02"
+    },
+    {
+      "nodeID": "151070",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:14:02"
+    },
+    {
+      "nodeID": "151071",
+      "text": "What is the convincing evidence (that would keep one from taking a leap of faith to believe in the theory) for macroevolution and secular humanism?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:02"
+    },
+    {
+      "nodeID": "151072",
+      "text": "Well, your question doesn't need the macro bit in there as evolution happens or it doesn't, the 'macro' bit is once again an artifact of our view on the world (ie. our short lives make it rather difficult to see evolution shape anything other than the organisms with the fastest of reproductive cycles.) Given we have evidence of life (fossils) changing over time (radiometric dating and stratigraphy) we know it takes many of thousands, if not millions of years for noticable to-the-eye changes in animals to occur. Once again it is important to consider perspective- we only have the equivalent of a few frames (fossils) from the movie of life (geological time) and there is much that is lost to history forever. Still, enough remains to support evolution, unless you were to purposefully disregard the facts we find. On your final point it is rather out of context, and I suspect not accidentally so. I'm not sure what on earth consitutes 'convincing evidence' for any philosphical outlook on life, be it theistic or otherwise.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:02"
+    },
+    {
+      "nodeID": "151073",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:14:02"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191240",
+      "fromID": "151069",
+      "toID": "151070",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191241",
+      "fromID": "151070",
+      "toID": "151068",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191242",
+      "fromID": "151072",
+      "toID": "151073",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191243",
+      "fromID": "151073",
+      "toID": "151071",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

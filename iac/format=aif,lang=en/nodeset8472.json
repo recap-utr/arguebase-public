@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157826",
+      "text": "I am not limited to patellar responses.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:18"
+    },
+    {
+      "nodeID": "157827",
+      "text": "Well if your claim is that you shouldn't push a gun owner's buttons and make them mad, then why are you arguing with me when that's what you're claiming is the wrong thing to do?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:18"
+    },
+    {
+      "nodeID": "157828",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:29:18"
+    },
+    {
+      "nodeID": "157829",
+      "text": "I note that you consider yourself irrational, though I could not possibly comment. There are times that I am grateful that your parents chose to live on the wrong side of the Atlantic, but then I allow for your need to identify with your adopted home and reject the motherland. You flatter yourself in assuming that you were any part of my considerations when choosing to post. The button reference is a play on words known as a pun.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:18"
+    },
+    {
+      "nodeID": "157830",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:29:18"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196008",
+      "fromID": "157827",
+      "toID": "157828",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196009",
+      "fromID": "157828",
+      "toID": "157826",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196010",
+      "fromID": "157829",
+      "toID": "157830",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196011",
+      "fromID": "157830",
+      "toID": "157827",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

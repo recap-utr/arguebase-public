@@ -1,0 +1,343 @@
+{
+  "nodes": [
+    {
+      "nodeID": "23880",
+      "text": "yes",
+      "type": "I",
+      "timestamp": "2013-08-06 16:53:15"
+    },
+    {
+      "nodeID": "209584",
+      "text": "RobCharities : Is Joe Flacco an Elite Quarterback",
+      "type": "L",
+      "timestamp": "2016-10-28 17:07:08"
+    },
+    {
+      "nodeID": "209586",
+      "text": "Joe Flacco is an Elite Quarterback",
+      "type": "I",
+      "timestamp": "2016-10-28 17:07:46"
+    },
+    {
+      "nodeID": "209587",
+      "text": "Barbara: RobCharities : Is Joe Flacco an Elite Quarterback",
+      "type": "L",
+      "timestamp": "2016-10-28 17:07:47"
+    },
+    {
+      "nodeID": "209588",
+      "text": "Barbara: Clifford : No",
+      "type": "L",
+      "timestamp": "2016-10-28 17:07:49"
+    },
+    {
+      "nodeID": "209589",
+      "text": "[deleted] : No",
+      "type": "L",
+      "timestamp": "2016-10-28 17:07:50"
+    },
+    {
+      "nodeID": "209591",
+      "text": "no, Joe Flacco is not an Elite Quarterback",
+      "type": "I",
+      "timestamp": "2016-10-28 17:07:56"
+    },
+    {
+      "nodeID": "209592",
+      "text": "Barbara: [deleted] : No",
+      "type": "L",
+      "timestamp": "2016-10-28 17:07:57"
+    },
+    {
+      "nodeID": "209596",
+      "text": "RobCharities : Is he above the Andy Dalton line",
+      "type": "L",
+      "timestamp": "2016-10-28 17:08:02"
+    },
+    {
+      "nodeID": "209598",
+      "text": "above is the Andy Dalton line",
+      "type": "I",
+      "timestamp": "2016-10-28 17:08:04"
+    },
+    {
+      "nodeID": "209599",
+      "text": "Barbara: RobCharities : Is he above the Andy Dalton line",
+      "type": "L",
+      "timestamp": "2016-10-28 17:08:04"
+    },
+    {
+      "nodeID": "209600",
+      "text": "Mellophone21 : Yes",
+      "type": "L",
+      "timestamp": "2016-10-28 17:08:07"
+    },
+    {
+      "nodeID": "209601",
+      "text": "Barbara: Mellophone21 : Mellophone21",
+      "type": "L",
+      "timestamp": "2016-10-28 17:08:08"
+    },
+    {
+      "nodeID": "209604",
+      "text": "Todo88 : Joe \"Elite Joe Flacco\" Flacco",
+      "type": "L",
+      "timestamp": "2016-10-28 17:08:55"
+    },
+    {
+      "nodeID": "209606",
+      "text": "Joe \"Elite Joe Flacco\" Flacco",
+      "type": "I",
+      "timestamp": "2016-10-28 17:10:08"
+    },
+    {
+      "nodeID": "209607",
+      "text": "Barbara: Todo88 : Joe \"Elite Joe Flacco\" Flacco",
+      "type": "L",
+      "timestamp": "2016-10-28 17:10:43"
+    },
+    {
+      "nodeID": "210398",
+      "text": "Assertive Questioning",
+      "type": "YA",
+      "timestamp": "2016-10-30 18:55:18",
+      "scheme": "AssertiveQuestioning",
+      "schemeID": "73"
+    },
+    {
+      "nodeID": "210399",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-30 18:55:19",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "210400",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-10-30 18:55:19",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "210401",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-30 18:55:19",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "210402",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-10-30 18:55:19",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "210403",
+      "text": "Assertive Questioning",
+      "type": "YA",
+      "timestamp": "2016-10-30 18:55:19",
+      "scheme": "AssertiveQuestioning",
+      "schemeID": "73"
+    },
+    {
+      "nodeID": "210404",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-30 18:55:20",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "210405",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2016-10-30 18:55:20",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    },
+    {
+      "nodeID": "210406",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-30 18:55:20",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "210407",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-10-30 18:55:20",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "210408",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-30 18:55:21",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "210409",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2016-10-30 18:55:21",
+      "scheme": "Restating",
+      "schemeID": "101"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "256922",
+      "fromID": "210398",
+      "toID": "209586",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256923",
+      "fromID": "209584",
+      "toID": "210398",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256924",
+      "fromID": "210399",
+      "toID": "209591",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256925",
+      "fromID": "209589",
+      "toID": "210399",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256926",
+      "fromID": "209591",
+      "toID": "210400",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256927",
+      "fromID": "210400",
+      "toID": "209586",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256928",
+      "fromID": "209584",
+      "toID": "210401",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256929",
+      "fromID": "210401",
+      "toID": "209589",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256930",
+      "fromID": "210401",
+      "toID": "210402",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256931",
+      "fromID": "210402",
+      "toID": "210400",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256932",
+      "fromID": "210403",
+      "toID": "209598",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256933",
+      "fromID": "209596",
+      "toID": "210403",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256934",
+      "fromID": "209596",
+      "toID": "210404",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256935",
+      "fromID": "210404",
+      "toID": "209600",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256936",
+      "fromID": "210404",
+      "toID": "210405",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256937",
+      "fromID": "210405",
+      "toID": "209598",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256938",
+      "fromID": "210406",
+      "toID": "209606",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256939",
+      "fromID": "209604",
+      "toID": "210406",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256940",
+      "fromID": "209606",
+      "toID": "210407",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256941",
+      "fromID": "210407",
+      "toID": "209586",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256942",
+      "fromID": "209584",
+      "toID": "210408",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256943",
+      "fromID": "210408",
+      "toID": "209604",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256944",
+      "fromID": "210408",
+      "toID": "210409",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256945",
+      "fromID": "210409",
+      "toID": "210407",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

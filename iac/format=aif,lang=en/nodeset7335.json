@@ -1,0 +1,121 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140884",
+      "text": "Origin of mankind. source: Genesis.  Ray M.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:29"
+    },
+    {
+      "nodeID": "140885",
+      "text": "So you are saying that genesis is a scientific fact. Ok, so how did all the millions of species of life fit on a 450 ft wooden ship?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:30"
+    },
+    {
+      "nodeID": "140886",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:52:30"
+    },
+    {
+      "nodeID": "140887",
+      "text": "I CAN EMPIRICALLY PROVE THE EXISTENCE OF THE GOD OF THE BIBLE VIA ITS CENTRAL CLAIMS",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:30"
+    },
+    {
+      "nodeID": "140888",
+      "text": "Oh dear, deluded philisopher nutter alert. No one can empirically prove anything. Fact. End of discussion.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:30"
+    },
+    {
+      "nodeID": "140889",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:52:30"
+    },
+    {
+      "nodeID": "140890",
+      "text": "Well, that's at least one helluva way to say good bye.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:30"
+    },
+    {
+      "nodeID": "140891",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:52:30"
+    },
+    {
+      "nodeID": "140892",
+      "text": "They must of because how else can we account for the species today ?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:30"
+    },
+    {
+      "nodeID": "140893",
+      "text": "Just claim hyperevolution so that the millions of species today (about 5 million named - estimates as high as 30 million) can evolve from the few 'kinds' that were able to be on the ark, around 16,000 by most creationist claims.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:30"
+    },
+    {
+      "nodeID": "140894",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:52:30"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184050",
+      "fromID": "140885",
+      "toID": "140886",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184051",
+      "fromID": "140886",
+      "toID": "140884",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184052",
+      "fromID": "140888",
+      "toID": "140889",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184053",
+      "fromID": "140889",
+      "toID": "140887",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184054",
+      "fromID": "140890",
+      "toID": "140891",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184055",
+      "fromID": "140891",
+      "toID": "140887",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184056",
+      "fromID": "140893",
+      "toID": "140894",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184057",
+      "fromID": "140894",
+      "toID": "140892",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

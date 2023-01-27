@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148491",
+      "text": "It's the heaviest snowfall around here for twenty years. What's the weather like where you are? emoticon_frazzled",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:37"
+    },
+    {
+      "nodeID": "148492",
+      "text": "Which still proves nothing in regards to climate change or global warming Why do people seem to think that for global warming to be a fact that it would have to stop snowing?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:37"
+    },
+    {
+      "nodeID": "148493",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:08:37"
+    },
+    {
+      "nodeID": "148494",
+      "text": "Warm today near 80f. Not a cloud in the sky.emoticon_xgood",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:37"
+    },
+    {
+      "nodeID": "148495",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:08:37"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189418",
+      "fromID": "148492",
+      "toID": "148493",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189419",
+      "fromID": "148493",
+      "toID": "148491",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189420",
+      "fromID": "148494",
+      "toID": "148495",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189421",
+      "fromID": "148495",
+      "toID": "148491",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

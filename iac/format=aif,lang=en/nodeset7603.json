@@ -1,0 +1,175 @@
+{
+  "nodes": [
+    {
+      "nodeID": "144846",
+      "text": "Just curious what the Poll results here on this forum will be. 1) Yes, I want the Bill to pass - as is. 2) No, I don't want any kind of government-run, mandatory health care 3) Maybe, if it is tweeked",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:56"
+    },
+    {
+      "nodeID": "144847",
+      "text": "Who wants healthcare run by large corporations that have rigged the market for cost twice as large as in other developed countries?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:56"
+    },
+    {
+      "nodeID": "144848",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:00:56"
+    },
+    {
+      "nodeID": "144849",
+      "text": "Nobody with a brain would want the government deciding when they deserve to get medical treatment, and when they're not sick enough to qualify.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:56"
+    },
+    {
+      "nodeID": "144850",
+      "text": "And no country in the developed world has such a system. Take your strawman elsewhere. In any case, if such decisions are made I'd rather have them made by democratically accountable government than private corporations. I live in a country with a very good, though not perfect, public healthcare system, and the system proposed in the US is not government run, by any stretch of the imagination. The government will not own the hospitals, employ the medical staff, pay for most of the medicine, that will all be done by private insurers and private hospitals still. My maybe vote therefore means I think the US system needs to be nationalised, it's much more efficient to do that.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:56"
+    },
+    {
+      "nodeID": "144851",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:00:56"
+    },
+    {
+      "nodeID": "144852",
+      "text": "There is no 'maybe' vote listed. Whahappened? emoticon_confused 'Efficiency' emoticon_confused Profit is what motivates decision-makers in government here.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:56"
+    },
+    {
+      "nodeID": "144853",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:00:56"
+    },
+    {
+      "nodeID": "144854",
+      "text": "and the system proposed in the US is not government run, by any stretch of the imagination.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:56"
+    },
+    {
+      "nodeID": "144855",
+      "text": "True, but the one after this one will be. I think many sane people see the writing on the wall which shows this health care bill only gives you the costs of the current US system with the defects of a universal system. I'm not much for conspiracy theories but if I were I'd think the government was purposely driving health care off a cliff to get universal care in place.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:56"
+    },
+    {
+      "nodeID": "144856",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:00:56"
+    },
+    {
+      "nodeID": "144857",
+      "text": "My maybe vote therefore means I think the US system needs to be nationalised, it's much more efficient to do that.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:56"
+    },
+    {
+      "nodeID": "144858",
+      "text": "Well it's more efficient than the bill we just passed...I think we agree that much.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:56"
+    },
+    {
+      "nodeID": "144859",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:00:56"
+    },
+    {
+      "nodeID": "144860",
+      "text": "President Obama!? What did I win!?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:56"
+    },
+    {
+      "nodeID": "144861",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:00:56"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186856",
+      "fromID": "144847",
+      "toID": "144848",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186857",
+      "fromID": "144848",
+      "toID": "144846",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186858",
+      "fromID": "144850",
+      "toID": "144851",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186859",
+      "fromID": "144851",
+      "toID": "144849",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186860",
+      "fromID": "144852",
+      "toID": "144853",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186861",
+      "fromID": "144853",
+      "toID": "144850",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186862",
+      "fromID": "144855",
+      "toID": "144856",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186863",
+      "fromID": "144856",
+      "toID": "144854",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186864",
+      "fromID": "144858",
+      "toID": "144859",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186865",
+      "fromID": "144859",
+      "toID": "144857",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186866",
+      "fromID": "144860",
+      "toID": "144861",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186867",
+      "fromID": "144861",
+      "toID": "144847",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

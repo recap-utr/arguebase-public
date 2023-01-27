@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151306",
+      "text": "There are quite a lot of other differences between modern human and neaderthals other than just 'brain size'. Well, right... neanderthals were short and stocky and big-boned...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:32"
+    },
+    {
+      "nodeID": "151307",
+      "text": "Among other things, generally adaptions to a colder environment. As for your theory as a whole, doesn't the whole 15, 000 year gap between the extinction of the Neanderthalls and the development of farming (particularly the grains youre talking about).",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:32"
+    },
+    {
+      "nodeID": "151308",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:14:32"
+    },
+    {
+      "nodeID": "151309",
+      "text": "Wouldn't this theory then absolutely demonstrate that more primative humans than neanderthals and people today had more sugary diets than we do to account for their smaller brain sizes? sigh..Neanderthals had larger brains....there are no 'primitive' people.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:32"
+    },
+    {
+      "nodeID": "151310",
+      "text": "That was the point, Neanderthals have larger brains than humans, how have larger brains than 'earlier fossil humans' if we're going to use your terms. A switch to a more sugary diet can't explain brain sizes changing in both directions.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:33"
+    },
+    {
+      "nodeID": "151311",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:14:33"
+    },
+    {
+      "nodeID": "151312",
+      "text": "...doesn't mean anything like you think it does, you're treating them as if one is caused by the other and there is a big chain of disease that all leads up to an excessively sugary diet. did you not read my post? It's the other way around...sugar is the culprit for a changing morphology.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:33"
+    },
+    {
+      "nodeID": "151313",
+      "text": "You're saying that if we track the causes of these diseases back to their source its sugar. You are then saying that modern humans have adapted to a high sugar diet by having smaller skulls, because if you eat a very sugar rich diet over a prolonged period of time you will suffer from degenerative diseases that cause the brain to shrink. The next generation responds to their parents degenerative disease by being born with a smaller skull?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:33"
+    },
+    {
+      "nodeID": "151314",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:14:33"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191412",
+      "fromID": "151307",
+      "toID": "151308",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191413",
+      "fromID": "151308",
+      "toID": "151306",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191414",
+      "fromID": "151310",
+      "toID": "151311",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191415",
+      "fromID": "151311",
+      "toID": "151309",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191416",
+      "fromID": "151313",
+      "toID": "151314",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191417",
+      "fromID": "151314",
+      "toID": "151312",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,997 @@
+{
+  "nodes": [
+    {
+      "nodeID": "218489",
+      "text": "WALLACE : Senator Cruz , your colleague , Senator Paul , right there next to you , said a few months ago he agrees with you on a number of issues , but he says you do nothing to grow the party",
+      "type": "L",
+      "timestamp": "2016-11-01 14:46:47"
+    },
+    {
+      "nodeID": "218490",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 14:46:47",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "218491",
+      "text": "Senator Cruz , CRUZ's colleague , Senator Paul , right there next to CRUZ , said a few months ago PAUL agrees with CRUZ on a number of issues , but PAUL says CRUZ do nothing to grow the party",
+      "type": "I",
+      "timestamp": "2016-11-01 14:46:47"
+    },
+    {
+      "nodeID": "218492",
+      "text": "Jacky: WALLACE : Senator Cruz , your colleague , Senator Paul , right there next to you , said a few months ago he agrees with you on a number of issues , but he says you do nothing to grow the party",
+      "type": "L",
+      "timestamp": "2016-11-01 14:46:47"
+    },
+    {
+      "nodeID": "218493",
+      "text": "WALLACE : He says you feed red meat to the base , but you do n't reach out to minorities",
+      "type": "L",
+      "timestamp": "2016-11-01 14:46:47"
+    },
+    {
+      "nodeID": "218494",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 14:46:47",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "218495",
+      "text": "PAUL says CRUZ feeds red meat to the base , but CRUZ doesn't reach out to minorities",
+      "type": "I",
+      "timestamp": "2016-11-01 14:46:48"
+    },
+    {
+      "nodeID": "218496",
+      "text": "Jacky: WALLACE : He says you feed red meat to the base , but you do n't reach out to minorities",
+      "type": "L",
+      "timestamp": "2016-11-01 14:46:48"
+    },
+    {
+      "nodeID": "218497",
+      "text": "WALLACE : You have a toxic relationship with GOP leaders in Congress",
+      "type": "L",
+      "timestamp": "2016-11-01 14:46:48"
+    },
+    {
+      "nodeID": "218498",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 14:46:48",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "218499",
+      "text": "CRUZ has a toxic relationship with GOP leaders in Congress",
+      "type": "I",
+      "timestamp": "2016-11-01 14:46:48"
+    },
+    {
+      "nodeID": "218500",
+      "text": "Jacky: WALLACE : You have a toxic relationship with GOP leaders in Congress",
+      "type": "L",
+      "timestamp": "2016-11-01 14:46:48"
+    },
+    {
+      "nodeID": "218501",
+      "text": "WALLACE : You even called the Republican Senate Leader Mitch McConnell a liar recently",
+      "type": "L",
+      "timestamp": "2016-11-01 14:46:48"
+    },
+    {
+      "nodeID": "218502",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 14:46:48",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "218503",
+      "text": "CRUZ even called the Republican Senate Leader Mitch McConnell a liar recently",
+      "type": "I",
+      "timestamp": "2016-11-01 14:46:48"
+    },
+    {
+      "nodeID": "218504",
+      "text": "Jacky: WALLACE : You even called the Republican Senate Leader Mitch McConnell a liar recently",
+      "type": "L",
+      "timestamp": "2016-11-01 14:46:48"
+    },
+    {
+      "nodeID": "218505",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-01 14:46:48",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "218506",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 14:46:49",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "218507",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-01 14:46:49",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "218508",
+      "text": "WALLACE : How can you win in 2016 when you 're such a divisive figure",
+      "type": "L",
+      "timestamp": "2016-11-01 14:46:49"
+    },
+    {
+      "nodeID": "218509",
+      "text": "Assertive Challenging",
+      "type": "YA",
+      "timestamp": "2016-11-01 14:46:49",
+      "scheme": "AssertiveChallenging",
+      "schemeID": "87"
+    },
+    {
+      "nodeID": "218510",
+      "text": "CRUZ cannot win in 2016 when CRUZ is such a divisive figure",
+      "type": "I",
+      "timestamp": "2016-11-01 14:46:49"
+    },
+    {
+      "nodeID": "218511",
+      "text": "Jacky: WALLACE : How can you win in 2016 when you 're such a divisive figure",
+      "type": "L",
+      "timestamp": "2016-11-01 14:46:49"
+    },
+    {
+      "nodeID": "218512",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 14:46:49",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "218513",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-01 14:46:49",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "218514",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-01 14:46:49",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "218515",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-01 14:46:49",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "218516",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 14:46:50",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "218517",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-01 14:46:50",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "218518",
+      "text": "CRUZ : Chris , I believe the American people are looking for someone to speak the truth",
+      "type": "L",
+      "timestamp": "2016-11-01 14:46:50"
+    },
+    {
+      "nodeID": "218519",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 14:46:50",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "218520",
+      "text": "the American people are looking for someone to speak the truth",
+      "type": "I",
+      "timestamp": "2016-11-01 14:46:50"
+    },
+    {
+      "nodeID": "218521",
+      "text": "Jacky: CRUZ : Chris , I believe the American people are looking for someone to speak the truth",
+      "type": "L",
+      "timestamp": "2016-11-01 14:46:50"
+    },
+    {
+      "nodeID": "218522",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 14:46:50",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "218523",
+      "text": "CRUZ : If you 're looking for someone to go to Washington , to go along to get along , to get -- to agree with the career politicians in both parties who get in bed with the lobbyists and special interests , then I ai n't your guy",
+      "type": "L",
+      "timestamp": "2016-11-01 14:46:50"
+    },
+    {
+      "nodeID": "218524",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 14:46:50",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "218525",
+      "text": "CRUZ is not someone to go to Washington , to go along to get along , to agree with the career politicians in both parties who get in bed with the lobbyists and special interests",
+      "type": "I",
+      "timestamp": "2016-11-01 14:46:50"
+    },
+    {
+      "nodeID": "218526",
+      "text": "Jacky: CRUZ : If you 're looking for someone to go to Washington , to go along to get along , to get -- to agree with the career politicians in both parties who get in bed with the lobbyists and special interests , then I ai n't your guy",
+      "type": "L",
+      "timestamp": "2016-11-01 14:46:50"
+    },
+    {
+      "nodeID": "218527",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 14:46:51",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "218528",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-01 14:46:51",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "218529",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-01 14:46:51",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "218530",
+      "text": "CRUZ : There is a reason that we have $ 18 trillion in debt",
+      "type": "L",
+      "timestamp": "2016-11-01 14:46:51"
+    },
+    {
+      "nodeID": "218531",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 14:46:51",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "218532",
+      "text": "There is a reason that we have $ 18 trillion in debt",
+      "type": "I",
+      "timestamp": "2016-11-01 14:46:51"
+    },
+    {
+      "nodeID": "218533",
+      "text": "Jacky: CRUZ : There is a reason that we have $ 18 trillion in debt",
+      "type": "L",
+      "timestamp": "2016-11-01 14:46:51"
+    },
+    {
+      "nodeID": "218534",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 14:46:51",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "218535",
+      "text": "CRUZ : as conservatives , as Republicans , we keep winning elections",
+      "type": "L",
+      "timestamp": "2016-11-01 14:46:51"
+    },
+    {
+      "nodeID": "218536",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 14:46:51",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "218537",
+      "text": "as conservatives , as Republicans , we keep winning elections",
+      "type": "I",
+      "timestamp": "2016-11-01 14:46:52"
+    },
+    {
+      "nodeID": "218538",
+      "text": "Jacky: CRUZ : as conservatives , as Republicans , we keep winning elections",
+      "type": "L",
+      "timestamp": "2016-11-01 14:46:52"
+    },
+    {
+      "nodeID": "218539",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-01 14:46:52",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "218540",
+      "text": "CRUZ : We got a Republican House",
+      "type": "L",
+      "timestamp": "2016-11-01 14:46:52"
+    },
+    {
+      "nodeID": "218541",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 14:46:52",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "218542",
+      "text": "We got a Republican House",
+      "type": "I",
+      "timestamp": "2016-11-01 14:46:52"
+    },
+    {
+      "nodeID": "218543",
+      "text": "Jacky: CRUZ : We got a Republican House",
+      "type": "L",
+      "timestamp": "2016-11-01 14:46:52"
+    },
+    {
+      "nodeID": "218544",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 14:46:52",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "218545",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 14:46:52",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "218546",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-01 14:46:52",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "218547",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-01 14:46:53",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "218548",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-01 14:46:53",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "218549",
+      "text": "CRUZ : we 've got a Republican Senate",
+      "type": "L",
+      "timestamp": "2016-11-01 14:46:53"
+    },
+    {
+      "nodeID": "218550",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 14:46:53",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "218551",
+      "text": "we 've got a Republican Senate",
+      "type": "I",
+      "timestamp": "2016-11-01 14:46:53"
+    },
+    {
+      "nodeID": "218552",
+      "text": "Jacky: CRUZ : we 've got a Republican Senate",
+      "type": "L",
+      "timestamp": "2016-11-01 14:46:53"
+    },
+    {
+      "nodeID": "218553",
+      "text": "CRUZ : we do n't have leaders who honor their commitments",
+      "type": "L",
+      "timestamp": "2016-11-01 14:46:53"
+    },
+    {
+      "nodeID": "218554",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 14:46:53",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "218555",
+      "text": "we do n't have leaders who honor their commitments",
+      "type": "I",
+      "timestamp": "2016-11-01 14:46:53"
+    },
+    {
+      "nodeID": "218556",
+      "text": "Jacky: CRUZ : we do n't have leaders who honor their commitments",
+      "type": "L",
+      "timestamp": "2016-11-01 14:46:53"
+    },
+    {
+      "nodeID": "218557",
+      "text": "CRUZ : I will always tell the truth and do what I said I would do",
+      "type": "L",
+      "timestamp": "2016-11-01 14:46:53"
+    },
+    {
+      "nodeID": "218558",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 14:46:54",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "218559",
+      "text": "CRUZ will always tell the truth and do what CRUZ said CRUZ would do",
+      "type": "I",
+      "timestamp": "2016-11-01 14:46:54"
+    },
+    {
+      "nodeID": "218560",
+      "text": "Jacky: CRUZ : I will always tell the truth and do what I said I would do",
+      "type": "L",
+      "timestamp": "2016-11-01 14:46:54"
+    },
+    {
+      "nodeID": "218561",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-11-01 14:46:54",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "218562",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 14:46:54",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "218563",
+      "text": "Default Illocuting",
+      "type": "YA",
+      "timestamp": "2016-11-01 14:46:54",
+      "scheme": "Default Illocuting",
+      "schemeID": "168"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "265459",
+      "fromID": "218490",
+      "toID": "218491",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265460",
+      "fromID": "218489",
+      "toID": "218490",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265461",
+      "fromID": "218494",
+      "toID": "218495",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265462",
+      "fromID": "218493",
+      "toID": "218494",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265463",
+      "fromID": "218498",
+      "toID": "218499",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265464",
+      "fromID": "218497",
+      "toID": "218498",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265465",
+      "fromID": "218502",
+      "toID": "218503",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265466",
+      "fromID": "218501",
+      "toID": "218502",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265467",
+      "fromID": "218503",
+      "toID": "218505",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265468",
+      "fromID": "218505",
+      "toID": "218499",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265469",
+      "fromID": "218497",
+      "toID": "218506",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265470",
+      "fromID": "218506",
+      "toID": "218501",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265471",
+      "fromID": "218506",
+      "toID": "218507",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265472",
+      "fromID": "218507",
+      "toID": "218505",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265473",
+      "fromID": "218509",
+      "toID": "218510",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265474",
+      "fromID": "218508",
+      "toID": "218509",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265475",
+      "fromID": "218497",
+      "toID": "218512",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265476",
+      "fromID": "218512",
+      "toID": "218508",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265477",
+      "fromID": "218499",
+      "toID": "218513",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265478",
+      "fromID": "218513",
+      "toID": "218510",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265479",
+      "fromID": "218512",
+      "toID": "218514",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265480",
+      "fromID": "218514",
+      "toID": "218513",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265481",
+      "fromID": "218495",
+      "toID": "218515",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265482",
+      "fromID": "218515",
+      "toID": "218491",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265483",
+      "fromID": "218489",
+      "toID": "218516",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265484",
+      "fromID": "218516",
+      "toID": "218493",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265485",
+      "fromID": "218516",
+      "toID": "218517",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265486",
+      "fromID": "218517",
+      "toID": "218515",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265487",
+      "fromID": "218491",
+      "toID": "218513",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265488",
+      "fromID": "218489",
+      "toID": "218512",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265489",
+      "fromID": "218519",
+      "toID": "218520",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265490",
+      "fromID": "218518",
+      "toID": "218519",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265491",
+      "fromID": "218508",
+      "toID": "218522",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265492",
+      "fromID": "218522",
+      "toID": "218518",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265493",
+      "fromID": "218524",
+      "toID": "218525",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265494",
+      "fromID": "218523",
+      "toID": "218524",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265495",
+      "fromID": "218518",
+      "toID": "218527",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265496",
+      "fromID": "218527",
+      "toID": "218523",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265497",
+      "fromID": "218520",
+      "toID": "218528",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265498",
+      "fromID": "218528",
+      "toID": "218525",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265499",
+      "fromID": "218527",
+      "toID": "218529",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265500",
+      "fromID": "218529",
+      "toID": "218528",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265501",
+      "fromID": "218531",
+      "toID": "218532",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265502",
+      "fromID": "218530",
+      "toID": "218531",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265503",
+      "fromID": "218523",
+      "toID": "218534",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265504",
+      "fromID": "218534",
+      "toID": "218530",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265505",
+      "fromID": "218536",
+      "toID": "218537",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265506",
+      "fromID": "218535",
+      "toID": "218536",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265507",
+      "fromID": "218537",
+      "toID": "218539",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265508",
+      "fromID": "218539",
+      "toID": "218532",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265509",
+      "fromID": "218541",
+      "toID": "218542",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265510",
+      "fromID": "218540",
+      "toID": "218541",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265511",
+      "fromID": "218535",
+      "toID": "218544",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265512",
+      "fromID": "218544",
+      "toID": "218540",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265513",
+      "fromID": "218530",
+      "toID": "218545",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265514",
+      "fromID": "218545",
+      "toID": "218535",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265515",
+      "fromID": "218545",
+      "toID": "218546",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265516",
+      "fromID": "218546",
+      "toID": "218539",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265517",
+      "fromID": "218542",
+      "toID": "218547",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265518",
+      "fromID": "218547",
+      "toID": "218537",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265519",
+      "fromID": "218544",
+      "toID": "218548",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265520",
+      "fromID": "218548",
+      "toID": "218547",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265521",
+      "fromID": "218550",
+      "toID": "218551",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265522",
+      "fromID": "218549",
+      "toID": "218550",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265523",
+      "fromID": "218544",
+      "toID": "218549",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265524",
+      "fromID": "218551",
+      "toID": "218547",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265525",
+      "fromID": "218554",
+      "toID": "218555",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265526",
+      "fromID": "218553",
+      "toID": "218554",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265527",
+      "fromID": "218555",
+      "toID": "218539",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265528",
+      "fromID": "218545",
+      "toID": "218553",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265529",
+      "fromID": "218558",
+      "toID": "218559",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265530",
+      "fromID": "218557",
+      "toID": "218558",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265531",
+      "fromID": "218559",
+      "toID": "218561",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265532",
+      "fromID": "218561",
+      "toID": "218525",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265533",
+      "fromID": "218523",
+      "toID": "218562",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265534",
+      "fromID": "218562",
+      "toID": "218557",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265535",
+      "fromID": "218562",
+      "toID": "218563",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "265536",
+      "fromID": "218563",
+      "toID": "218561",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

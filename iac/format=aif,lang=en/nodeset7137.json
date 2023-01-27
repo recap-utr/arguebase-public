@@ -1,0 +1,205 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138372",
+      "text": "There's an abortion pill?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:57"
+    },
+    {
+      "nodeID": "138373",
+      "text": "I believe he refers to the fact that the morning after pill will keep a fertilized egg, if there is a fertilized egg, from implanting (which 60% don't on their own anyway but..). To the delusional, that's an abortion. Besides, the restriction is that no military funding, or health facilities can be used to perform an abortion. A pharmacy is a STORE.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:57"
+    },
+    {
+      "nodeID": "138374",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:46:57"
+    },
+    {
+      "nodeID": "138375",
+      "text": "There's an abortion pill? News to me. I thought there was only the morning after pill and the birth control pill. Neither of which are even close to being an 'abortion pill'.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:57"
+    },
+    {
+      "nodeID": "138376",
+      "text": "Oh my goodness. This is a trick called semantics. I guess you got sucked in. Yes, abortion is used as contraception unfortunately.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:57"
+    },
+    {
+      "nodeID": "138377",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:46:57"
+    },
+    {
+      "nodeID": "138378",
+      "text": "Yea I know that, but there is no 'abortion' pill that will terminate a fetus.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:57"
+    },
+    {
+      "nodeID": "138379",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:46:57"
+    },
+    {
+      "nodeID": "138380",
+      "text": "Actually there is, RU-486 (AKA Mifepristone), which aborts upt to two months into the pregnancy. But again, this poster sems to be talking about Plan B, which is NOT an abortion pill, and was what was allowed in the military.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:57"
+    },
+    {
+      "nodeID": "138381",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:46:57"
+    },
+    {
+      "nodeID": "138382",
+      "text": "Nobody considers a petri dish pregnant,",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:57"
+    },
+    {
+      "nodeID": "138383",
+      "text": "But they consider the exact same thing inside a human that has yet to be implanted a pregnancy? Double standards much?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:57"
+    },
+    {
+      "nodeID": "138384",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:46:57"
+    },
+    {
+      "nodeID": "138385",
+      "text": "but, thats not the point.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:58"
+    },
+    {
+      "nodeID": "138386",
+      "text": "Actually yes, yes it is.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:58"
+    },
+    {
+      "nodeID": "138387",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:46:58"
+    },
+    {
+      "nodeID": "138388",
+      "text": "Nobody considers a petri dish pregnant, but, thats not the point. Many people consider conception to be the beginning of life and anything that prevents that life from continuing to grow an abortion. As to your example, many would consider embrios stored for later IVF to be lives. Why else would they fight so hard to stop them from being destroyed.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:58"
+    },
+    {
+      "nodeID": "138389",
+      "text": "But what are you aborting? You can't abort something that hasn't started yet. Simply not allowing yourself to become pregnant by whatever means (abstinence, condoms, pills etc.) ends in the same result, you not becoming pregnant. Not allowing an unwanted fertilized egg to implant into your womb is hardly an abortion or 'murder'.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:58"
+    },
+    {
+      "nodeID": "138390",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:46:58"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182260",
+      "fromID": "138373",
+      "toID": "138374",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182261",
+      "fromID": "138374",
+      "toID": "138372",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182262",
+      "fromID": "138376",
+      "toID": "138377",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182263",
+      "fromID": "138377",
+      "toID": "138375",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182264",
+      "fromID": "138378",
+      "toID": "138379",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182265",
+      "fromID": "138379",
+      "toID": "138376",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182266",
+      "fromID": "138380",
+      "toID": "138381",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182267",
+      "fromID": "138381",
+      "toID": "138378",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182268",
+      "fromID": "138383",
+      "toID": "138384",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182269",
+      "fromID": "138384",
+      "toID": "138382",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182270",
+      "fromID": "138386",
+      "toID": "138387",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182271",
+      "fromID": "138387",
+      "toID": "138385",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182272",
+      "fromID": "138389",
+      "toID": "138390",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182273",
+      "fromID": "138390",
+      "toID": "138388",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

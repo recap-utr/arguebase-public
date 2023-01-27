@@ -1,0 +1,187 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141642",
+      "text": "Being pro-life 'except for rape' doesn't make any sense. It's the same organism regardless of the father.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:11"
+    },
+    {
+      "nodeID": "141643",
+      "text": "I think it's hipocritical for pro-lifers to call themselves pro-life except for rape. It's either a child or it's not. If it is a child, then no matter what, the child must survive, becuase it has every right to. If the fetus isn't a child, then we can do whatever the hell we wnat with it. But it's a child, since humans only produce children, and not being of other speices, in accordance to the Principle of Biogenesis. Therefore, abortion is wrong in all cases.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:11"
+    },
+    {
+      "nodeID": "141644",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:54:11"
+    },
+    {
+      "nodeID": "141645",
+      "text": "He may have been referring to the hundreds of thousands of kids who can't get adopted because they're not healthy, white infants. The kids stuck in the adoption system or in poor foster care.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:11"
+    },
+    {
+      "nodeID": "141646",
+      "text": "So we kill the baby instead? Interesting idea. How about instead we reform the fostor and adoption care system. No, people arn't looking for healthy, white infants, they are looking for infants. This automatically reduces 90% of adoption cases. The so called 'Healthy white infants' make up 70% of all adoption cases, seeing that 30% of abortion are done by blacks, and latinos and most minorities don't have abortions, but instead keep their children.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:11"
+    },
+    {
+      "nodeID": "141647",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:54:12"
+    },
+    {
+      "nodeID": "141648",
+      "text": "Then why don't I haul abortionists off to jail as well? They're killing people!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:12"
+    },
+    {
+      "nodeID": "141649",
+      "text": "You can try, but it won't be legal.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:12"
+    },
+    {
+      "nodeID": "141650",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:54:12"
+    },
+    {
+      "nodeID": "141651",
+      "text": "At anyrate, the world isn't over populated. The entire world can fit in the Island of Bali with each person getting 40 square feet of space.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:12"
+    },
+    {
+      "nodeID": "141652",
+      "text": "You don't seem to understand the concept of overpopulation.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:12"
+    },
+    {
+      "nodeID": "141653",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:54:12"
+    },
+    {
+      "nodeID": "141654",
+      "text": "I realize this. But I haven't heard of breaking research in areas like growing crops in deserts, or re-purifying urine. I would think that if the world is truly as over-populated as you make it out to be, we would be desperate for technologies like these.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:12"
+    },
+    {
+      "nodeID": "141655",
+      "text": "Well, the areas which might want these technologies don't really have research facilities on every block.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:12"
+    },
+    {
+      "nodeID": "141656",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:54:12"
+    },
+    {
+      "nodeID": "141657",
+      "text": "What is? Whether abortion is right or wrong is a matter of opinion, unless you're trying to say that everyone who supports it secretly is against it.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:12"
+    },
+    {
+      "nodeID": "141658",
+      "text": "Well then. Murder is an opinion.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:12"
+    },
+    {
+      "nodeID": "141659",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:54:12"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184586",
+      "fromID": "141643",
+      "toID": "141644",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184587",
+      "fromID": "141644",
+      "toID": "141642",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184588",
+      "fromID": "141646",
+      "toID": "141647",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184589",
+      "fromID": "141647",
+      "toID": "141645",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184590",
+      "fromID": "141649",
+      "toID": "141650",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184591",
+      "fromID": "141650",
+      "toID": "141648",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184592",
+      "fromID": "141652",
+      "toID": "141653",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184593",
+      "fromID": "141653",
+      "toID": "141651",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184594",
+      "fromID": "141655",
+      "toID": "141656",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184595",
+      "fromID": "141656",
+      "toID": "141654",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184596",
+      "fromID": "141658",
+      "toID": "141659",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184597",
+      "fromID": "141659",
+      "toID": "141657",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

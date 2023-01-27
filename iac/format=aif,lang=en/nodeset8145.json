@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "153075",
+      "text": "Please don't be offended by this, my family is far from perfect, my parents gave birth to 5 accidents! One was planned. To this day I don't know why my mother didn't just go on the pill instead of relying on stoneage condoms...but as soon as I raise the issue she tells me to shut up or she'll send me to an orphanage! (just kiddn):)  Also, the fact that the world today has turned sex into a 'hobby' doesn't really help matters. I don't mean to sound biased here or take sides but if people were to have a more religious view (like it used to be years ago) then there wouldn't be a sex mad world (and therefore, relationships would be taken more seriously and kids would be planned). Not saying that you have to become Islamic or anything, just stating a fact.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:31"
+    },
+    {
+      "nodeID": "153076",
+      "text": "Even though that may be true, stats have shown that sex is actually healthy for a romantic relationship. Although I agree 100% that more people should be using condoms or other birth control methods, abstaining from sex is not always the smartest thing to do.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:31"
+    },
+    {
+      "nodeID": "153077",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:18:31"
+    },
+    {
+      "nodeID": "153078",
+      "text": "Yeah of course it's good for relationships, being religious doesn't mean abstaining from sex (.....in most religions). I'm just saying that if you're religious you're more likely to keep sex for relationships and taking it more seriously (as aposed to having sex with someone you've just met at a nightclub/party while you were drunk). Yeah, I gues criminalization would make it worse in this day and age, but like I said, in a perfect world casual sex would be minimised and overpopulation (through unwanted pregnancies) would be too. But, we don't live in a perfect world and there is more to overpopulation issue than the above.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:31"
+    },
+    {
+      "nodeID": "153079",
+      "text": "Very sorry for the above confusion, its_just_me is my fiancee and I forgot to log in as myself (thinking_person) before writing the above quoted post. Duh. Wasn't thinking sorry (haha):xbanghead",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:32"
+    },
+    {
+      "nodeID": "153080",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:18:32"
+    },
+    {
+      "nodeID": "153081",
+      "text": "I'm just saying that if you're religious you're more likely to keep sex for relationships and taking it more seriously (as aposed to having sex with someone you've just met at a nightclub/party while you were drunk).",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:32"
+    },
+    {
+      "nodeID": "153082",
+      "text": "How is it you know this to be true? Please answer this. I think this is the lie that religious people tell each other to help them justify their belief. Here in the US, the most religious area of the country, the so-called bible belt, has the highest rates of unwanted pregnancy.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:32"
+    },
+    {
+      "nodeID": "153083",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:18:32"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192656",
+      "fromID": "153076",
+      "toID": "153077",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192657",
+      "fromID": "153077",
+      "toID": "153075",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192658",
+      "fromID": "153079",
+      "toID": "153080",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192659",
+      "fromID": "153080",
+      "toID": "153078",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192660",
+      "fromID": "153082",
+      "toID": "153083",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192661",
+      "fromID": "153083",
+      "toID": "153081",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

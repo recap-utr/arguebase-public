@@ -1,0 +1,157 @@
+{
+  "nodes": [
+    {
+      "nodeID": "149290",
+      "text": "No, that is a false perception.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:31"
+    },
+    {
+      "nodeID": "149291",
+      "text": "So when the sea and sky informs a sailor, how does it inform?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:31"
+    },
+    {
+      "nodeID": "149292",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:10:31"
+    },
+    {
+      "nodeID": "149293",
+      "text": "Without language, the sailor would see neither sea nor sky - indeed, he would not have a boat!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:31"
+    },
+    {
+      "nodeID": "149294",
+      "text": "But the sea and sky are the same regardless. I would say the sailor conceives the information with language. He infers the information with language.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:31"
+    },
+    {
+      "nodeID": "149295",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:10:31"
+    },
+    {
+      "nodeID": "149296",
+      "text": "And remember, ToE says the genome of each creature acts independently of the environment.....the genome does not 'read' the environment, nor does it act upon it, nor does it take information from it. It acts independently.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:31"
+    },
+    {
+      "nodeID": "149297",
+      "text": "Actually, it doesn't. Perhaps you could try learning some new information rather than just making things up for other people to believe. The concept of information, which you have chosen not to define for the transparent reason of employing a shifting definition, is not typically employed by biologists. A mutation is what it is, regardless of whether you define what it contains as 'information' or not. Perhaps you'd like to get into insisting that information 'requires a sender' now, we've all heard it before.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:31"
+    },
+    {
+      "nodeID": "149298",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:10:32"
+    },
+    {
+      "nodeID": "149299",
+      "text": "Darwinists have long said that mutations have the ability to create new information.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:32"
+    },
+    {
+      "nodeID": "149300",
+      "text": "Actually, they don't. I have never heard a biologist talking about 'mutations creating information'.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:32"
+    },
+    {
+      "nodeID": "149301",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:10:32"
+    },
+    {
+      "nodeID": "149302",
+      "text": "I have never heard a biologist talking about 'mutations creating information'.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:32"
+    },
+    {
+      "nodeID": "149303",
+      "text": "Oh? What other darwinists here agree with Symbiote?  http://www.nmsr.org/nylon.htm My favorite example of a mutation producing new information involves a Japanese bacterium that suffered a frame shift mutation that just happened to allow it to metabolize nylon waste.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:32"
+    },
+    {
+      "nodeID": "149304",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:10:32"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189988",
+      "fromID": "149291",
+      "toID": "149292",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189989",
+      "fromID": "149292",
+      "toID": "149290",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189990",
+      "fromID": "149294",
+      "toID": "149295",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189991",
+      "fromID": "149295",
+      "toID": "149293",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189992",
+      "fromID": "149297",
+      "toID": "149298",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189993",
+      "fromID": "149298",
+      "toID": "149296",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189994",
+      "fromID": "149300",
+      "toID": "149301",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189995",
+      "fromID": "149301",
+      "toID": "149299",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189996",
+      "fromID": "149303",
+      "toID": "149304",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189997",
+      "fromID": "149304",
+      "toID": "149302",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

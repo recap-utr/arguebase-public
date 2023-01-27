@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "nodeID": "185516",
+      "text": "COOPER :  You don't consider yourself a capitalist, though?",
+      "type": "L",
+      "timestamp": "2016-07-29 11:30:48"
+    },
+    {
+      "nodeID": "186435",
+      "text": "broduding : Cooper asked quite simply if he was a capitalist",
+      "type": "L",
+      "timestamp": "2016-08-01 08:45:53"
+    },
+    {
+      "nodeID": "186437",
+      "text": "Cooper asked quite simply if Bernie Sanders was a capitalist",
+      "type": "I",
+      "timestamp": "2016-08-01 08:45:53"
+    },
+    {
+      "nodeID": "262271",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-03 15:05:12",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "262272",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-03 15:05:13",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "262273",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-03 15:05:13",
+      "scheme": "Restating",
+      "schemeID": "101"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "316284",
+      "fromID": "185516",
+      "toID": "262271",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316285",
+      "fromID": "262271",
+      "toID": "186435",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316286",
+      "fromID": "186437",
+      "toID": "262272",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316287",
+      "fromID": "262272",
+      "toID": "185516",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316288",
+      "fromID": "262271",
+      "toID": "262273",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316289",
+      "fromID": "262273",
+      "toID": "262272",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

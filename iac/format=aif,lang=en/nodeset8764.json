@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "162316",
+      "text": "But my question is this. If PP is simply concerned with offering a medical procedure in order to insure the health and welfare of women, and not the wholesale murder of as many children as possible, why would they see the need to deceive anyone in order to promote their abortions ?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:43"
+    },
+    {
+      "nodeID": "162317",
+      "text": "So that no girl, underage or otherwise, refuses to seek treatment for fear of what their parents will think or say. If a girl cannot be tested for a STD without parental notification and she does not wish her parents to know she had sex (or fears their wrath), she may not go in for testing. In general, knowing whether you have a STD is a good thing.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:43"
+    },
+    {
+      "nodeID": "162318",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:39:44"
+    },
+    {
+      "nodeID": "162319",
+      "text": "But why does this generation get to bypass the same authority that every other generation before them submitted to with their parental oversight ? How is it right now for 13,14 and 15 year old kids to make such adult decisions without their parents knowing ? Are you suggesting that 13 year old girls are mature enough emotionally to make such adult decisions about getting an abortion ? And if so, do you then also believe that a 13-15 year olds should be allowed to adopt a child ? Or to enter into a contract to purchase a home or car ? Because those are also adult decisions and it doesn't seem reasonable to me that we should allow them to slide on emotionally damaging decisions about sex or abortions and then insist they're not mature enough to participate in other adult decisions. Kids need consistency in order to grow up to be responsible adults and by your way of thinking, you will just add more confusion and insecurity in an already difficult time in an adolescents life.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:44"
+    },
+    {
+      "nodeID": "162320",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:39:44"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "199228",
+      "fromID": "162317",
+      "toID": "162318",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199229",
+      "fromID": "162318",
+      "toID": "162316",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199230",
+      "fromID": "162319",
+      "toID": "162320",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199231",
+      "fromID": "162320",
+      "toID": "162317",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

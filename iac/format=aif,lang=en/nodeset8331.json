@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "155811",
+      "text": "A blind faith in a particular religion's God seems rather different than a decision based upon reasoning",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:41"
+    },
+    {
+      "nodeID": "155812",
+      "text": "But that's just it . . . if his belief in God is based on reasoning and science, then it's not 'blind' faith.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:41"
+    },
+    {
+      "nodeID": "155813",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:41"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194592",
+      "fromID": "155812",
+      "toID": "155813",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194593",
+      "fromID": "155813",
+      "toID": "155811",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

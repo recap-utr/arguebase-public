@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "153395",
+      "text": "This is so inane I dont know where to start. Firstly - If there existed an armed forces capable of destroying the US military, then an armed civilian population would be absolutely no barrier to them. Secondly - There is no single nation on earth that can move 200,000,000 men. Thirdly - How exactly do you propose China get its men to the USA? Are they going to use their secrect commie teleporting machines? There is no chance for them to cross the oceans, or deploy either north or south of the USA.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:10"
+    },
+    {
+      "nodeID": "153396",
+      "text": "Yes that is a problem. But there is an instance when the 2nd Amendment did protect the USA from invaders: 'Someone at the table asked a Japanese admiral why, with the Pacific Fleet devastated at Pearl Harbor and the mainland US forces in what Japan had to know was a pathetic state of unreadiness, Japan had not simply invaded the West Coast' - http://www.backwoodshome.com/articles2/ayoob70.html If it wasn't for the 2nd Amendment you would be speaking Japanese if you live on the West coast, German if you live on the East coast.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:10"
+    },
+    {
+      "nodeID": "153397",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:19:10"
+    },
+    {
+      "nodeID": "153398",
+      "text": "Even in the case of the Romans, such practices as decimation eventually led to their downfall. When Atilla marched on rome, he started with less than 2000 men. He picked up hundreds of thousands on the way through, people dissatisfied with the Roamsn policies.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:10"
+    },
+    {
+      "nodeID": "153399",
+      "text": "And Atilla's army of as many as 1/2 million men was beaten and forced into retreat by the Romans and Visigoths in 451AD. A year later, he was forced to make peace after devastating the Roman countryside...but NOT Rome itself. He died a year later in 453AD.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:11"
+    },
+    {
+      "nodeID": "153400",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:19:11"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192880",
+      "fromID": "153396",
+      "toID": "153397",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192881",
+      "fromID": "153397",
+      "toID": "153395",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192882",
+      "fromID": "153399",
+      "toID": "153400",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192883",
+      "fromID": "153400",
+      "toID": "153398",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139050",
+      "text": "Anchorage Daily News, Anchorage, Alaska, 11/4/2006  WHEN MATTHEW SCHNEIDER pulled into his driveway and got out of his truck, three teenagers approached and began an altercation. According to authorities, Schneider told the youths to vacate his property, but they began assaulting him, even slamming the truck door on his head. Schneider, who has a concealed carry permit, reached for his .4o pistol and fired twice at his assailants. 'I thought they were going to kill me if I didn't do something,' Schneider said. Two suspects fled, one of them wounded, while a third collapsed. Schneider says he prayed for the fallen suspect to survive, but he died at the scene",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:22"
+    },
+    {
+      "nodeID": "139051",
+      "text": "I thought I'd give Brady and Penfold a chance to tell us what a bad man this guy was for defending himself like that. BTW, here in Alaska he didn't need to have a concealed carry permit. Here, if you can legally own a gun you can carry it with a few exceptions. Merry Christmas",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:22"
+    },
+    {
+      "nodeID": "139052",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:48:22"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182756",
+      "fromID": "139051",
+      "toID": "139052",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182757",
+      "fromID": "139052",
+      "toID": "139050",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

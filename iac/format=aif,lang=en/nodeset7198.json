@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139133",
+      "text": "'Elections matter. We have a pro-life Senate,' the Kansas Republican said in an interview.  It sounds like there might be some change coming up. The Senate is basically now pro-life now, and are even going to attemt to stop future filibusters.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:32"
+    },
+    {
+      "nodeID": "139134",
+      "text": "I believe the filibuster issue relates to voting on judgeships only. ICBM, but this won't affect abortion issues. It's only recently that the Democrats have used the filibuster to delay the vote on appointed judges. I don't think there's any possibility of getting rid of filibusters all together. BTW, what's wrong with a pro-life court? ;)",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:32"
+    },
+    {
+      "nodeID": "139135",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:48:32"
+    },
+    {
+      "nodeID": "139136",
+      "text": "Oh, I don't think there's anything wrong with it, I'm completely for it.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:32"
+    },
+    {
+      "nodeID": "139137",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:48:32"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182812",
+      "fromID": "139134",
+      "toID": "139135",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182813",
+      "fromID": "139135",
+      "toID": "139133",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182814",
+      "fromID": "139136",
+      "toID": "139137",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182815",
+      "fromID": "139137",
+      "toID": "139134",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

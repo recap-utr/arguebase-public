@@ -1,0 +1,157 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138538",
+      "text": "I'm confused by this one. You didn't say in the original statement that the boyfriend had anything to do with it. So how would doing 'the right thing' involve him.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:17"
+    },
+    {
+      "nodeID": "138539",
+      "text": "I'm not saying it's the 'right thing' to do, it's just the sort of thing that a desperate father might do to save the reputation of his daughter. I mean, we live in a Christian nation and we still kind of think, in our heart of hearts, that if a woman or girl is raped IT'S HER FAULT.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:17"
+    },
+    {
+      "nodeID": "138540",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:47:17"
+    },
+    {
+      "nodeID": "138541",
+      "text": "Is there a 'Let her have the baby and place it with one of the thousands of waiting adoptive couples so she does not have to raise it, nor does she have to live with the potential guilt issues involved in having an abortion' option? Is there an option where I get to hunt the SOB down and beat him to death with a claw hammer?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:17"
+    },
+    {
+      "nodeID": "138542",
+      "text": "Now you're talking. emoticon_xgood emoticon_xkill",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:17"
+    },
+    {
+      "nodeID": "138543",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:47:17"
+    },
+    {
+      "nodeID": "138544",
+      "text": "I wouldn't want to make my daughter do anything in this scenario. I'd be careful to explain all her options as free from bias as possible, and then let her choose.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:17"
+    },
+    {
+      "nodeID": "138545",
+      "text": "Me, too. I'd probably throw in some counseling as well, just for starters.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:17"
+    },
+    {
+      "nodeID": "138546",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:47:17"
+    },
+    {
+      "nodeID": "138547",
+      "text": "...I mean, we live in a Christian nation and we still kind of think, in our heart of hearts, that if a woman or girl is raped IT'S HER FAULT.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:17"
+    },
+    {
+      "nodeID": "138548",
+      "text": "Why is that the belief. If a guy rapes a woman, there is some sort of power thing involved. He isn't interested in her as anything else other than a thing to controll. Only an idiot would assume that it's automatically her fault.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:17"
+    },
+    {
+      "nodeID": "138549",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:47:17"
+    },
+    {
+      "nodeID": "138550",
+      "text": "I mean, we live in a Christian nation and we still kind of think, in our heart of hearts, that if a woman or girl is raped IT'S HER FAULT.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:17"
+    },
+    {
+      "nodeID": "138551",
+      "text": "You might want to get some help with that. The only people I have ever heard imply such things is feminists. That is really not right. It is time for you folks to understand that if a woman is raped, it is NOT her fault, it is the rapists fault. I don't undestand how you folks can claim to be pro woman, then spread this draconian mindset.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:17"
+    },
+    {
+      "nodeID": "138552",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:47:17"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182378",
+      "fromID": "138539",
+      "toID": "138540",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182379",
+      "fromID": "138540",
+      "toID": "138538",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182380",
+      "fromID": "138542",
+      "toID": "138543",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182381",
+      "fromID": "138543",
+      "toID": "138541",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182382",
+      "fromID": "138545",
+      "toID": "138546",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182383",
+      "fromID": "138546",
+      "toID": "138544",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182384",
+      "fromID": "138548",
+      "toID": "138549",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182385",
+      "fromID": "138549",
+      "toID": "138547",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182386",
+      "fromID": "138551",
+      "toID": "138552",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182387",
+      "fromID": "138552",
+      "toID": "138550",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

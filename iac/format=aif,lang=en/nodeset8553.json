@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "159190",
+      "text": "Saul Cornell says he is neither an advocate of the individual rights model nor of the collective rights model. He calls his interpretation of the Second Amendment the Civic Rights Model.  According to him, the right to bear arms is like the right to vote. You have the right to vote because you are a citizen of a political community. In contrast, truly individual rights such as freedom of religion and freedom of speech do not depend on citizenship. You have those rights because you are an individual or a human being.  People exercise their right to vote in a government organized election just as people exercise their right to bear arms in a government organized militia.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:19"
+    },
+    {
+      "nodeID": "159191",
+      "text": "Actually, the statement bolded above puts Cornell squarely in the 'collective rights' catagory. As the 2nd clearly states, and the supreme court reaffirmed, the RKBA is an individual right. Merry Christmas",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:19"
+    },
+    {
+      "nodeID": "159192",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:32:19"
+    },
+    {
+      "nodeID": "159193",
+      "text": "Galileo- The Supreme Court has ruled that the Second Amendment has absolutely nothing to do with being part of any militia group, organized or otherwise, it's not about serving any duty to the state or government.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:19"
+    },
+    {
+      "nodeID": "159194",
+      "text": "Well if it has nothing to do with a militia that would mean that the preamble is merely unnecessary verbiage. So you want people to just ignore the plain text of the Second Amendment- at least the part you don't like. The preamble lets us know that the main focus if not the sole focus of this amendment is the militia.  David Konig is another historian that has found both the individual rights interpretation and the collective interpretation unsatisfactory. He says the Second Amendment protects an individual right that is exercised collectively.  'Indeed, to serve in the militia and participate in this civic duty was more than a duty: it was a civic right of a peculiarly eighteenth-century nature unlike either the 'individual' or 'collective' models argued for today. On neither side of the Atlantic, that is, did the debate concern itself with this right in the present-day sense of an 'individual' or personal constitutional right; but at the same time, its common emphasis on widespread individual arms-bearing for public service distinguishes it from today's narrowly applied 'collective' application to the National Guard. No individual right existed unrelated to service in a well-regulated militia; no effective militia could serve its purpose without an armed citizenry. This type of right may appear paradoxical to us today, but it fitted 'the inner coherence of a given system of beliefs'4 held by people in the past, and which made sense to those familiar with the concept of an individual right exercised collectively.' David Thomas Konig | The Second Amendment: A Missing Transatlantic Context for the Historical Meaning of 'the Right of the People to Keep and Bear Arms' | Law and History Review, 22.1 | The History Cooperative",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:19"
+    },
+    {
+      "nodeID": "159195",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:32:19"
+    },
+    {
+      "nodeID": "159196",
+      "text": "Besides, the Supreme Court is not always right. They have supported racism and segregation in the past.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:19"
+    },
+    {
+      "nodeID": "159197",
+      "text": "And until they later contradict themselves their ruling is final, it doesn't matter if it's right or not, it's the way it is. The subject is closed, individual rights has won out, the duty to the state has been executed for charges of treason.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:19"
+    },
+    {
+      "nodeID": "159198",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:32:20"
+    },
+    {
+      "nodeID": "159199",
+      "text": "One person's opinion",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:20"
+    },
+    {
+      "nodeID": "159200",
+      "text": "And who is it @1790 that said the right of the people to bear arms ONLY related to active duty militia members?  It makes little sense to argure ambiguity and precision at the same time, but that is what Cornell does. His argument is internally inconsistent in that in an effort to undermine the standard model, he argues that there was no agreement on what the RKBA meant, but then he proposes a narrow/exclusive right which would reguire more, not less, precision -though he can not cite even one person from that time articulating such a narrow right.  Why would one assume that the civics rights model, which demands exclusivity, is to be favored over the standard model which does not ? Note that the standard model encompasses a right to keep and bear arms for one's own defense as well as to contribute to the common defense so is consistent with various statements from that time (i.e. see Bryan's non-exhaustive list of citations from that era). However the civic rights model proposed by Cornell does not fit with what was said by J.Wilson, R,Sherman, and other framers.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:20"
+    },
+    {
+      "nodeID": "159201",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:32:20"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196994",
+      "fromID": "159191",
+      "toID": "159192",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196995",
+      "fromID": "159192",
+      "toID": "159190",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196996",
+      "fromID": "159194",
+      "toID": "159195",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196997",
+      "fromID": "159195",
+      "toID": "159193",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196998",
+      "fromID": "159197",
+      "toID": "159198",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196999",
+      "fromID": "159198",
+      "toID": "159196",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197000",
+      "fromID": "159200",
+      "toID": "159201",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197001",
+      "fromID": "159201",
+      "toID": "159199",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

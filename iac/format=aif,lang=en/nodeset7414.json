@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141868",
+      "text": "I support gay adoption only as a last resort. I am not a biggot but you have to realize that unless you are super rich being the child of a gay couple can have severe consequences. Lets face it. Kids are cruel and if a child has gay parents then they are a target. The best situation for any child is two parents one male and one female. However if that is absolutley not possible then I have no problem with gay adoption.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:49"
+    },
+    {
+      "nodeID": "141869",
+      "text": "Kids can get teased for all sorts of reasons. Mother is too ugly. Mother is too hot. Father is a sanitation worker. Father is one of the teachers. Even family is too rich can be a source of teasing... I think a better solution would be to target the bullying / teasing itself, for all situations...",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:49"
+    },
+    {
+      "nodeID": "141870",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:54:49"
+    },
+    {
+      "nodeID": "141871",
+      "text": "Today I was driving my son and two of his team-mates to basketball practice. One of the kids used the word gay in a derogatory manner. I asked him not to. My son said 'ya, my dad is gay.' No teasing, no name calling, a few curious a questions and back to basketball. My son has also been thrown to floor of the bus and force fed garbage for asking a kid to not use the word 'gay' in a derogatory manner. Do you really think the solution is to prevent gay people from forming families so mean kids can have free reign to be little asses? Or maybe the fact that a kid has gay parents isn't the real issue. I would also like to point out that your argument fails to address the thousands of gay parents who have BIOLOGICAL children.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:49"
+    },
+    {
+      "nodeID": "141872",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:54:49"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184740",
+      "fromID": "141869",
+      "toID": "141870",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184741",
+      "fromID": "141870",
+      "toID": "141868",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184742",
+      "fromID": "141871",
+      "toID": "141872",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184743",
+      "fromID": "141872",
+      "toID": "141868",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

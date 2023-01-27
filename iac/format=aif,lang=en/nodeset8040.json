@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151617",
+      "text": "The US Supreme Court won't see the law until someone brings a suit against it. Until all your (S. Dakota's) Courts are exhausted only then will the US Supreme Court take it, if they so choose. Being that it is abortion, I think they will accept it.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:10"
+    },
+    {
+      "nodeID": "151618",
+      "text": "I think it's pretty clear that this is in violation of the Supreme Court's current abortion jurisprudence, at least to the extent that one could actually figure that out. The question is, are there enough justices on the Supreme Court who would reverse the judge-made Constitutional Amendment which granted an absolute right to abortion.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:10"
+    },
+    {
+      "nodeID": "151619",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:15:10"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191626",
+      "fromID": "151618",
+      "toID": "151619",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191627",
+      "fromID": "151619",
+      "toID": "151617",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

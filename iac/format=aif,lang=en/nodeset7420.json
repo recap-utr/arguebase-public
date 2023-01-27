@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141902",
+      "text": "Ok according to the bible God only created the first two beings, Adam and Eve. Now christians dont rule out science, and science has shown that we produce offspring. God has created these offspring but not directly. Think of photosynthesis, we eat meat, this is getting energy from the sun indirectly. So we have shown that we ourselves produce offspring but we are put here and given the abbility by God to produce offspring.  As far as your question on why God alows addicts to have babies it can be explained as this. We where given the freedome of choice to decide if we want to be an addict, wrong put we have the choice. God created us to have that choice, or else we would be robots. The bible also says God knows everything yet to come, so he new that this particular person would become an addict and have baby. God can stop this put he doesnt interecpt dirrectly with our choices.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:56"
+    },
+    {
+      "nodeID": "141903",
+      "text": "So God already knows if a particular person will become an addict? That doesn't leave much free choice for that person, does it? If I go to a restaurant and God already knows I'm going to choose the poached salmon for my entree, then I don't have much choice in the matter, do I? Omniscience and free will are mutually exclusive. If God is omniscient, then we are indeed ultimately robots. Deluded with the perception of free will, but robots none the less. Unless of course, God is so omnipotent that he can know everything and still allow free choice. But then reason, logic, and thought become delusional. Sounds like a loose / loose situation to me.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:56"
+    },
+    {
+      "nodeID": "141904",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:54:56"
+    },
+    {
+      "nodeID": "141905",
+      "text": "Yeah, and why should any of us have to do anything to be saved? I mean, we didn't have to do anything in order to be condemned to eternal damnation ... except be born!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:56"
+    },
+    {
+      "nodeID": "141906",
+      "text": "Well I don't know about you guys, but I was baptized so I'm out of that eternal damnation thing. emoticon_xgood",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:56"
+    },
+    {
+      "nodeID": "141907",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:54:57"
+    },
+    {
+      "nodeID": "141908",
+      "text": "A little apple eating pales in comparison to what Cain and Able had to do to their sisters in order to further the human race. Had the apple not been eaten, the human group would have fizzled out.  Walking-fish: If Cain & Abel had carnal knowledge with their sisters, we would all be a bunch of inbred XXXXXX... Hey wait... Maybe that's why so many people act like XXXXXX.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:57"
+    },
+    {
+      "nodeID": "141909",
+      "text": "And thus the human condition is explained at last!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:57"
+    },
+    {
+      "nodeID": "141910",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:54:57"
+    },
+    {
+      "nodeID": "141911",
+      "text": "I don't know what I think about this. Personally, I believed that Cain and Seth did marry their sisters. I know, sounds like incest, and today that is what it would be. However, you need to remember that there were no exact set of laws at the beginning of the creation. Almost all of God's followers were spoken to by him and were given visions and angels to tell them what to do. I don't believe it was considered incest till the law was written abolishing that sort of thing. I'm not sure about him creating other women either, but you could be right. After all, I've found the idea of him creating life on other planets AFTER the creation acceptable (still wondering about the end of the creation where he stopped though) so with that view in mind, I suppose it's possible.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:57"
+    },
+    {
+      "nodeID": "141912",
+      "text": "Yea I agree with you on how there was no exact se t of laws at the beginning of creation. The reason I say that they most likely didn't marry their sisters is mostly cause God gets mad at Cain and places a mark on his head so everyone he runs across will not kill him unless they want to die a death 10 times worse than his. Kinda just says that there are other people out there.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:57"
+    },
+    {
+      "nodeID": "141913",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:54:57"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184764",
+      "fromID": "141903",
+      "toID": "141904",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184765",
+      "fromID": "141904",
+      "toID": "141902",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184766",
+      "fromID": "141906",
+      "toID": "141907",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184767",
+      "fromID": "141907",
+      "toID": "141905",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184768",
+      "fromID": "141909",
+      "toID": "141910",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184769",
+      "fromID": "141910",
+      "toID": "141908",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184770",
+      "fromID": "141912",
+      "toID": "141913",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184771",
+      "fromID": "141913",
+      "toID": "141911",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

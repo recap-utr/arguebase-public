@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139465",
+      "text": "I can agree with legalizing Marijuana, but it is very similar to alcohol. Your reaction time is slowed down considerably. Before being legalized, there needs to be a test, similar to the BAC test. It shouldn't be illegal to smoke marijuana, but it should be the same as alcohol; you can't smoke and drive.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:07"
+    },
+    {
+      "nodeID": "139466",
+      "text": "But you can drink and drive, you just cannot be intoxicated over a certain limit and drive. There is no test possible in the field (like a breathylizer used for alcohol) that would allow for testing of THC levels. It should be like anything else, if you are causing a problem or showing visible signs of impairment, you get detained and taken for further testing, which they can actually draw a THC level on you in a lab. And since you bring it up, marijuanna does not slow down reaction times near as much as alcohol. Alcohol is far more physically impairing than even high doses of THC.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:07"
+    },
+    {
+      "nodeID": "139467",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:49:07"
+    },
+    {
+      "nodeID": "139468",
+      "text": "Do you favor Legalizing the Medical use of Marijuana ?  http://www.youdebate.com/DEBATES/medical_marijuana .HTM",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:07"
+    },
+    {
+      "nodeID": "139469",
+      "text": "I say, since there are medical uses for the stuff, the drug is not pure harm (as the authoritarians assert.) Marijuana has its benefits and harms, and some of these benefits boil down to a matter of personal preference. Illegalizing it, in effect, dictates a personal preference.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:07"
+    },
+    {
+      "nodeID": "139470",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:49:07"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183042",
+      "fromID": "139466",
+      "toID": "139467",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183043",
+      "fromID": "139467",
+      "toID": "139465",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183044",
+      "fromID": "139469",
+      "toID": "139470",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183045",
+      "fromID": "139470",
+      "toID": "139468",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,296 @@
+{
+  "nodes": [
+    {
+      "nodeID": "204076",
+      "text": "RUBIO :  the evidence is now clear that the majority of people coming across the border are not from Mexico",
+      "type": "L",
+      "timestamp": "2016-09-30 09:27:24"
+    },
+    {
+      "nodeID": "204078",
+      "text": "the evidence is now clear that the majority of people coming across the border are not from Mexico",
+      "type": "I",
+      "timestamp": "2016-09-30 09:27:24"
+    },
+    {
+      "nodeID": "204095",
+      "text": "RUBIO : we need a fence",
+      "type": "L",
+      "timestamp": "2016-09-30 09:27:26"
+    },
+    {
+      "nodeID": "204097",
+      "text": "we need a fence",
+      "type": "I",
+      "timestamp": "2016-09-30 09:27:26"
+    },
+    {
+      "nodeID": "206837",
+      "text": "FFS TRUMP they're not all Mexicans",
+      "type": "I",
+      "timestamp": "2016-10-17 17:55:59"
+    },
+    {
+      "nodeID": "206842",
+      "text": "dbcspace : RUBIO : FFS Trump they're not all Mexicans",
+      "type": "L",
+      "timestamp": "2016-10-17 17:56:02"
+    },
+    {
+      "nodeID": "206852",
+      "text": "I actually really liked RUBIO's stance about the border",
+      "type": "I",
+      "timestamp": "2016-10-17 17:56:08"
+    },
+    {
+      "nodeID": "206854",
+      "text": "SweeterThanYoohoo : I actually really liked Rubio's stance about the border",
+      "type": "L",
+      "timestamp": "2016-10-17 17:56:09"
+    },
+    {
+      "nodeID": "206865",
+      "text": "we should build a wall",
+      "type": "I",
+      "timestamp": "2016-10-17 17:56:18"
+    },
+    {
+      "nodeID": "206867",
+      "text": "RUBIO : we should build a wall",
+      "type": "L",
+      "timestamp": "2016-10-17 17:56:18"
+    },
+    {
+      "nodeID": "264516",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-09 15:52:31",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "264517",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 15:52:31",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264518",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-09 15:52:32",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "264519",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-09 15:52:32",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "264520",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 15:52:33",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264521",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-09 15:52:33",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "264522",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2017-03-09 15:52:34",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "264523",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 15:52:34",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264524",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2017-03-09 15:52:35",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "320106",
+      "fromID": "206865",
+      "toID": "264516",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320107",
+      "fromID": "264516",
+      "toID": "204097",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320108",
+      "fromID": "204095",
+      "toID": "264517",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320109",
+      "fromID": "264517",
+      "toID": "206867",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320110",
+      "fromID": "264517",
+      "toID": "264518",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320111",
+      "fromID": "264518",
+      "toID": "264516",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320112",
+      "fromID": "206837",
+      "toID": "264519",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320113",
+      "fromID": "264519",
+      "toID": "204078",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320114",
+      "fromID": "204076",
+      "toID": "264520",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320115",
+      "fromID": "264520",
+      "toID": "206842",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320116",
+      "fromID": "264520",
+      "toID": "264521",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320117",
+      "fromID": "264521",
+      "toID": "264519",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320118",
+      "fromID": "206852",
+      "toID": "264522",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320119",
+      "fromID": "264522",
+      "toID": "204078",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320120",
+      "fromID": "204076",
+      "toID": "264523",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320121",
+      "fromID": "264523",
+      "toID": "206854",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320122",
+      "fromID": "264523",
+      "toID": "264524",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320123",
+      "fromID": "264524",
+      "toID": "264522",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "206842",
+      "personID": "2472",
+      "timestamp": "2016-10-17 17:56:37",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "206854",
+      "personID": "2261",
+      "timestamp": "2016-10-17 17:56:37",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "206867",
+      "personID": "2411",
+      "timestamp": "2016-10-17 17:56:37",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "206842",
+      "personID": "2472",
+      "timestamp": "2016-10-17 18:13:33",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "206854",
+      "personID": "2261",
+      "timestamp": "2016-10-17 18:13:33",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "206867",
+      "personID": "2411",
+      "timestamp": "2016-10-17 18:13:33",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

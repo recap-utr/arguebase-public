@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139112",
+      "text": "Yeah. Banning them will only send us back to the medieval times when everyone used SWORDS.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:28"
+    },
+    {
+      "nodeID": "139113",
+      "text": "Well at least you can't have a drive by swording. You can run from a sword. They are pretty tough to conceal in a bank robbery.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:28"
+    },
+    {
+      "nodeID": "139114",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:48:28"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182798",
+      "fromID": "139113",
+      "toID": "139114",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182799",
+      "fromID": "139114",
+      "toID": "139112",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

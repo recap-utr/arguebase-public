@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152247",
+      "text": "How could they be 'accurate' and be wrong? There is nothing 'less accurate' about that, it is wrong!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:33"
+    },
+    {
+      "nodeID": "152248",
+      "text": "Really? So suppose that you have two models for the way the solar system works. You measure where the planets are today in the night sky, and you use both models to predict where the planets will be ten years from now. In ten years you make actual measurements. The predictions of the first model for Mars are off by, say, a tenth of a minute of arc. The second model is off by a hundredth of a minute of arc. (For comparison, the full moon in the sky has a width of about 30 minutes -- I may be wrong about this). So, are you saying the first model is wrong? The error seems to be pretty tiny (by most standards). What about the second?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:33"
+    },
+    {
+      "nodeID": "152249",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:16:33"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192072",
+      "fromID": "152248",
+      "toID": "152249",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192073",
+      "fromID": "152249",
+      "toID": "152247",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

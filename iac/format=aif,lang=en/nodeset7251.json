@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139777",
+      "text": "Joe, this is no surprise....This Pope is a very conservative one and like it or not the Roman Catholic church and most churches believe the sexual act that gays commit a sin as they would any other sin.........The church believes love the sinner but hate the sin.......... That will never change my friend",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:03"
+    },
+    {
+      "nodeID": "139778",
+      "text": "I wouldn't say most cjurches, because you cannot prove that. There is a long list of churches that are accepting of gay folks.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:03"
+    },
+    {
+      "nodeID": "139779",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:03"
+    },
+    {
+      "nodeID": "139780",
+      "text": "And so does the Catholic Church.........They accept the homosexual but still condemn the homosexual act as they would any other sin.......",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:03"
+    },
+    {
+      "nodeID": "139781",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:03"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183258",
+      "fromID": "139778",
+      "toID": "139779",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183259",
+      "fromID": "139779",
+      "toID": "139777",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183260",
+      "fromID": "139780",
+      "toID": "139781",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183261",
+      "fromID": "139781",
+      "toID": "139778",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

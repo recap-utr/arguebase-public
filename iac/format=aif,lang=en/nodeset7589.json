@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "144541",
+      "text": "Abortion is murder.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:22"
+    },
+    {
+      "nodeID": "144542",
+      "text": "Yes, according to JimmyJ. God, the laws regarding murder from all over the world, have absolutely no impact upon the holy proclamations emanating from JimmyJ.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:22"
+    },
+    {
+      "nodeID": "144543",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:00:22"
+    },
+    {
+      "nodeID": "144544",
+      "text": "This is, simply put, false. murdere is unlawful killing, so as long as abortion remains legal, it is not murder any more than killing in self-defense is.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:22"
+    },
+    {
+      "nodeID": "144545",
+      "text": "Well since the Jews killed in the holocaust where kill under German legislation they where not murdered either.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:22"
+    },
+    {
+      "nodeID": "144546",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:00:22"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186638",
+      "fromID": "144542",
+      "toID": "144543",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186639",
+      "fromID": "144543",
+      "toID": "144541",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186640",
+      "fromID": "144545",
+      "toID": "144546",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186641",
+      "fromID": "144546",
+      "toID": "144544",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

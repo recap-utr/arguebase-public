@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "153167",
+      "text": "sinjin But my study and prayer tells me that babies born who live only a short while , may have been saved from worse fates that awaited them had they lived longer.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:45"
+    },
+    {
+      "nodeID": "153168",
+      "text": "As opposed to being denied the joys that most of us experience in life. Convenient.  http://dictionary.reference.com/browse/sophistry",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:45"
+    },
+    {
+      "nodeID": "153169",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:18:45"
+    },
+    {
+      "nodeID": "153170",
+      "text": "sinjin what does the word sophistry mean? Its not in my websters dictonary. Certianly mine is at least 40 years old , so is that a new word? In answer to your question sin jin. God just as he answered me simply above , does not always explain in detail his ways to mankind. But my study and prayer tells me that babies born who live only a short while , may have been saved from worse fates that awaited them had they lived longer. They may indeed be the lucky ones who were so loved by God he craved to have them walk the earth only a short while to be counted among men, he knew thier souls were not in need of years of learning many of us must do on earth to evolve into who we become . They were simple , beautiful souls who did not reguire the rigors of the world to perfect them. hope that helps.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:46"
+    },
+    {
+      "nodeID": "153171",
+      "text": "My god, you're almost as bad as EZ.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:46"
+    },
+    {
+      "nodeID": "153172",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:18:46"
+    },
+    {
+      "nodeID": "153173",
+      "text": "It is impossible for mankind to alter God's plan. That would make man more powerful than God. Everything that happens is part of God's plan, which is why it is so difficult for me to believe in God. Why would God create man, give them free will, then punish those who actually exercise their free will and choose not to believe in God?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:46"
+    },
+    {
+      "nodeID": "153174",
+      "text": "Maybe He doesn't punish them.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:46"
+    },
+    {
+      "nodeID": "153175",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:18:46"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192720",
+      "fromID": "153168",
+      "toID": "153169",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192721",
+      "fromID": "153169",
+      "toID": "153167",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192722",
+      "fromID": "153171",
+      "toID": "153172",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192723",
+      "fromID": "153172",
+      "toID": "153170",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192724",
+      "fromID": "153174",
+      "toID": "153175",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192725",
+      "fromID": "153175",
+      "toID": "153173",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

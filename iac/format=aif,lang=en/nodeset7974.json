@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "150859",
+      "text": "This is not because her life is sacred, but because her body is her own to control. I think, the point we are really disagreeing on here is that I believe a persons right to have control over their own body is their right naturally, and it dose not depend on the mystical idea that life is sacred.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:30"
+    },
+    {
+      "nodeID": "150860",
+      "text": "No, I don't disagree with this, I agree with this, but this also implies you can't go around killing other people on the basis that they 'can be considered part of the mother' under some worldview.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:30"
+    },
+    {
+      "nodeID": "150861",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:13:30"
+    },
+    {
+      "nodeID": "150862",
+      "text": "You claim that the distinction between a baby being a bodily function of a woman or not is a matter of 'empirical fact', this is just not so. I think you should rethink what 'empirical fact' is. Empirical fact, are facts that are said to be true on the basis of empirical observation. If I see a light on in a room, that is an empirical observation, and for me, that the light is on, is an empirical fact. However, if you and I both empirically observe at a fetus in a womb then the only empirical fact we could both agree on, I think, is that there is indeed a fetus in a womb. I say that fetus is part of a persons body performing a function, you say its something else, and that's a mater if ideology, not mere observation.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:30"
+    },
+    {
+      "nodeID": "150863",
+      "text": "So for example if I say 'you are a part of my body, and therefore I have a right to kill you', is this simply a matter of ideology? I admit the distinction is not clearcut at early stages of development, but how do you support the idea that post-birth children are 'a part' of their mothers' bodies and therefore legitimate to kill? It is no more legitimate to say that a fetus is a part of a woman's body than it is to say that a woman is a part of a fetus' body. Just as a woman is not a subordinate slave to the fetus within her, the fetus cannot be considered subordinate in rights to the woman it is inside.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:30"
+    },
+    {
+      "nodeID": "150864",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:13:30"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191094",
+      "fromID": "150860",
+      "toID": "150861",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191095",
+      "fromID": "150861",
+      "toID": "150859",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191096",
+      "fromID": "150863",
+      "toID": "150864",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191097",
+      "fromID": "150864",
+      "toID": "150862",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

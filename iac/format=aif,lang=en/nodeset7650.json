@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "145541",
+      "text": "Materialists simply hate the idea that life is an abstract, undefinable, unmeasurable process. Somehow, some way, the framers of materialistic ToE just HAD to make life a materialistic, definable 'thing' and cram it into a materialistic, definable theory.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:32"
+    },
+    {
+      "nodeID": "145542",
+      "text": "And yet SS according to you they say.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:32"
+    },
+    {
+      "nodeID": "145543",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:02:32"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187346",
+      "fromID": "145542",
+      "toID": "145543",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187347",
+      "fromID": "145543",
+      "toID": "145541",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

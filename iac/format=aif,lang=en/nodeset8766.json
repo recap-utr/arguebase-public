@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "162321",
+      "text": "ON the topic of evolution and creation it is relgion verus relgion because evolitn is just a relgion.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:46"
+    },
+    {
+      "nodeID": "162322",
+      "text": "So you define religion as the following: 1) Testable 2) Based on Experiments 3) Based on empirical evidence 4) Open to change based on experiments and new evidence 5) Validity based on facts, rather then Faith If evolution is a religion, so is Chemistry.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:46"
+    },
+    {
+      "nodeID": "162323",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:39:47"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "199232",
+      "fromID": "162322",
+      "toID": "162323",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199233",
+      "fromID": "162323",
+      "toID": "162321",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

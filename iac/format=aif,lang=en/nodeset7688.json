@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "146292",
+      "text": "And I've heard smiley represent a presumably large group of people who believe that they would beat up an attacker rather than shooting them.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:57"
+    },
+    {
+      "nodeID": "146293",
+      "text": "Of course. The Kellerman study points out that a firearm is 43 times more likely to be used on its owner than in self defense.  This is why it makes perfect sense to hand all our guns over to criminals. We can then take them away using Kung Fu and use them against their owners. (According to Kellerman, we are guaranteed to be 43 times more successful that way.)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:57"
+    },
+    {
+      "nodeID": "146294",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:03:57"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187872",
+      "fromID": "146293",
+      "toID": "146294",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187873",
+      "fromID": "146294",
+      "toID": "146292",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

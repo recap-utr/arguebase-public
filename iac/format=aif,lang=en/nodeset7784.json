@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "147897",
+      "text": "Originally posted by Peach47 If I cannot question and receive specifics I do not consider it a fact. You can read all the books, cruise all the websites. but indeed they are just other peoples opinions. Show me the documented proof!!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:18"
+    },
+    {
+      "nodeID": "147898",
+      "text": "So everything that other people say on a website or in a book is just and opinion? And everything you say is a fact? Nice how you've got things set up.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:18"
+    },
+    {
+      "nodeID": "147899",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:18"
+    },
+    {
+      "nodeID": "147900",
+      "text": "Originally posted by Peach47 I don't gather information from other people opinions.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:18"
+    },
+    {
+      "nodeID": "147901",
+      "text": "And yet all you do is present your own opinions without supporting facts.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:18"
+    },
+    {
+      "nodeID": "147902",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:18"
+    },
+    {
+      "nodeID": "147903",
+      "text": "Originally posted by Peach47 3. Whether you happen to like someone or not, if they are pointing a gun in your face nad threatening your life, wouldn't you shoot them?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:18"
+    },
+    {
+      "nodeID": "147904",
+      "text": "Well, if they are already pointing a gun at me, I wouldn't have a chance to pull out a gun and shoot them. They would shoot me before I did that.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:18"
+    },
+    {
+      "nodeID": "147905",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:18"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189000",
+      "fromID": "147898",
+      "toID": "147899",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189001",
+      "fromID": "147899",
+      "toID": "147897",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189002",
+      "fromID": "147901",
+      "toID": "147902",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189003",
+      "fromID": "147902",
+      "toID": "147900",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189004",
+      "fromID": "147904",
+      "toID": "147905",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189005",
+      "fromID": "147905",
+      "toID": "147903",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

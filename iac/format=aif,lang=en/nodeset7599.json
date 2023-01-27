@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "144685",
+      "text": "I swear. Your dishonesty never seems to diminish, and never seems to grow any brains to actually be deceptive. Rather, it's boringly blatant that what you claim is false... From the article: 'A majority of registered Californian voters...' '... a growing number of Californians ...' 'The poll of 1,052 registered Californian voters ...' The ARTICLE originates in San Fran. The POLL discussed in the article was made across a base of CALIFORNIA voters, most of whom don't live in San Fran.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:40"
+    },
+    {
+      "nodeID": "144686",
+      "text": "So 1052 voters is a majority of california voters? And I know what the article say's, but no where did it actually say it was from a diverse sampling from across the State so forgive my suspicions, but I just don't trust the gay lobby to be honest or ethical about anything they do.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:40"
+    },
+    {
+      "nodeID": "144687",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:00:40"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186748",
+      "fromID": "144686",
+      "toID": "144687",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186749",
+      "fromID": "144687",
+      "toID": "144685",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

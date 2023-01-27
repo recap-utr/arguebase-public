@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138225",
+      "text": "Why doesn't this apply to Soviet Russia - which had a population of similar size ? Presumably, your answer would be that the USSR was less 'developed' than the US ?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:37"
+    },
+    {
+      "nodeID": "138226",
+      "text": "You presume correctly, sir. :) Overall the USSR could produce almost the same level of technology the US could during the cold war; however the restrictive nature of Soviet society during that time I believe quashed the possibility of many bright Soviet citizens to be better educated, and eliminated the possibility that many of them could reach their potential. I hope the situation is improving there; guess we'll find out in 50 years. Another factor that contributed was the fact that there are more remote and undeveloped areas in the former USSR than in the US, which supports the idea that parts of the Soviet Union were (and may still be) less developed.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:37"
+    },
+    {
+      "nodeID": "138227",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:46:37"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182156",
+      "fromID": "138226",
+      "toID": "138227",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182157",
+      "fromID": "138227",
+      "toID": "138225",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

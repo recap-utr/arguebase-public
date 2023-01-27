@@ -1,0 +1,1004 @@
+{
+  "nodes": [
+    {
+      "nodeID": "253315",
+      "text": "WALKER is guy with a wife and two kids, and Harley",
+      "type": "I",
+      "timestamp": "2016-12-21 17:51:35"
+    },
+    {
+      "nodeID": "253316",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:51:35",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253317",
+      "text": "WALKER : I'm guy with a wife and two kids, and Harley",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:35"
+    },
+    {
+      "nodeID": "253318",
+      "text": "M: WALKER : I'm guy with a wife and two kids, and Harley",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:35"
+    },
+    {
+      "nodeID": "253319",
+      "text": "one article called WALKER \"aggressively normal.\"",
+      "type": "I",
+      "timestamp": "2016-12-21 17:51:35"
+    },
+    {
+      "nodeID": "253320",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:51:36",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253321",
+      "text": "WALKER : One article called me \"aggressively normal.\"",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:36"
+    },
+    {
+      "nodeID": "253322",
+      "text": "M: WALKER : One article called me \"aggressively normal.\"",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:36"
+    },
+    {
+      "nodeID": "253323",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:51:36",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253324",
+      "text": "WALKER : I ran for governor",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:36"
+    },
+    {
+      "nodeID": "253325",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:51:36",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253326",
+      "text": "WALKER ran for governor",
+      "type": "I",
+      "timestamp": "2016-12-21 17:51:36"
+    },
+    {
+      "nodeID": "253327",
+      "text": "M: WALKER : I ran for governor",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:36"
+    },
+    {
+      "nodeID": "253328",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:51:37",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253329",
+      "text": "WALKER : I was worried about my kids' future",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:37"
+    },
+    {
+      "nodeID": "253330",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:51:37",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253331",
+      "text": "WALKER was worried about his kids' future",
+      "type": "I",
+      "timestamp": "2016-12-21 17:51:37"
+    },
+    {
+      "nodeID": "253332",
+      "text": "M: WALKER : I was worried about my kids' future",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:37"
+    },
+    {
+      "nodeID": "253333",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:51:37",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253334",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:51:37",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "253335",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:51:37",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "253336",
+      "text": "WALKER : Then, I took on the big government union bosses, and we won",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:37"
+    },
+    {
+      "nodeID": "253337",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:51:38",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253338",
+      "text": "then WALKER took on the big government union bosses, and WALKER won",
+      "type": "I",
+      "timestamp": "2016-12-21 17:51:38"
+    },
+    {
+      "nodeID": "253339",
+      "text": "M: WALKER : Then, I took on the big government union bosses, and we won",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:38"
+    },
+    {
+      "nodeID": "253340",
+      "text": "WALKER : They tried to recall me, and we won",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:38"
+    },
+    {
+      "nodeID": "253341",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:51:38",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253342",
+      "text": "They tried to recall WALKER, and WALKER won",
+      "type": "I",
+      "timestamp": "2016-12-21 17:51:38"
+    },
+    {
+      "nodeID": "253343",
+      "text": "M: WALKER : They tried to recall me, and we won",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:38"
+    },
+    {
+      "nodeID": "253344",
+      "text": "M: WALKER : hey target us again, and we won",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:38"
+    },
+    {
+      "nodeID": "253345",
+      "text": "WALKER : They target us again, and we won",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:38"
+    },
+    {
+      "nodeID": "253346",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:51:39",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253347",
+      "text": "they target WALKER again, and WALKER won",
+      "type": "I",
+      "timestamp": "2016-12-21 17:51:39"
+    },
+    {
+      "nodeID": "253348",
+      "text": "M: WALKER : They target us again, and we won",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:39"
+    },
+    {
+      "nodeID": "253349",
+      "text": "WALKER : We balanced the budget",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:39"
+    },
+    {
+      "nodeID": "253350",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:51:39",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253351",
+      "text": "WALKER balanced the budget",
+      "type": "I",
+      "timestamp": "2016-12-21 17:51:39"
+    },
+    {
+      "nodeID": "253352",
+      "text": "M: WALKER : We balanced the budget",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:39"
+    },
+    {
+      "nodeID": "253353",
+      "text": "WALKER : cut taxes",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:39"
+    },
+    {
+      "nodeID": "253354",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:51:39",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253355",
+      "text": "WALKER cut taxes",
+      "type": "I",
+      "timestamp": "2016-12-21 17:51:40"
+    },
+    {
+      "nodeID": "253356",
+      "text": "M: WALKER : cut taxes",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:40"
+    },
+    {
+      "nodeID": "253357",
+      "text": "WALKER : turned our state around with big, bold reforms",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:40"
+    },
+    {
+      "nodeID": "253358",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:51:40",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253359",
+      "text": "WALKER turned our state around with big, bold reforms",
+      "type": "I",
+      "timestamp": "2016-12-21 17:51:40"
+    },
+    {
+      "nodeID": "253360",
+      "text": "M: WALKER : turned our state around with big, bold reforms",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:40"
+    },
+    {
+      "nodeID": "253361",
+      "text": "WALKER : It wasn't too late for Wisconsin",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:40"
+    },
+    {
+      "nodeID": "253362",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:51:40",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253363",
+      "text": "it wasn't too late for Wisconsin",
+      "type": "I",
+      "timestamp": "2016-12-21 17:51:40"
+    },
+    {
+      "nodeID": "253364",
+      "text": "M: WALKER : It wasn't too late for Wisconsin",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:41"
+    },
+    {
+      "nodeID": "253365",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:51:41",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "253366",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:51:41",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253367",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:51:41",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "253368",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:51:41",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "253369",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:51:41",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253370",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:51:41",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "253371",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:51:41",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253372",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:51:42",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "253373",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:51:42",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "253374",
+      "text": "WALKER : it's not too late for America",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:42"
+    },
+    {
+      "nodeID": "253375",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:51:42",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253376",
+      "text": "it's not too late for America",
+      "type": "I",
+      "timestamp": "2016-12-21 17:51:42"
+    },
+    {
+      "nodeID": "253377",
+      "text": "M: WALKER : it's not too late for America",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:42"
+    },
+    {
+      "nodeID": "253378",
+      "text": "WALKER : I ask for your vote",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:42"
+    },
+    {
+      "nodeID": "253379",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:51:42",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253380",
+      "text": "WALKER asks for the vote",
+      "type": "I",
+      "timestamp": "2016-12-21 17:51:42"
+    },
+    {
+      "nodeID": "253381",
+      "text": "M: WALKER : I ask for your vote",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:43"
+    },
+    {
+      "nodeID": "253382",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:51:43",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253383",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:51:43",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "253384",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:51:43",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "253385",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:51:43",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253386",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:51:43",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "253387",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:51:43",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "253388",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:51:43",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253389",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:51:44",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253390",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:51:44",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253391",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:51:44",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "304707",
+      "fromID": "253316",
+      "toID": "253315",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304708",
+      "fromID": "253317",
+      "toID": "253316",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304709",
+      "fromID": "253320",
+      "toID": "253319",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304710",
+      "fromID": "253321",
+      "toID": "253320",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304711",
+      "fromID": "253317",
+      "toID": "253323",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304712",
+      "fromID": "253323",
+      "toID": "253321",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304713",
+      "fromID": "253325",
+      "toID": "253326",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304714",
+      "fromID": "253324",
+      "toID": "253325",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304715",
+      "fromID": "253321",
+      "toID": "253328",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304716",
+      "fromID": "253328",
+      "toID": "253324",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304717",
+      "fromID": "253330",
+      "toID": "253331",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304718",
+      "fromID": "253329",
+      "toID": "253330",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304719",
+      "fromID": "253324",
+      "toID": "253333",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304720",
+      "fromID": "253333",
+      "toID": "253329",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304721",
+      "fromID": "253331",
+      "toID": "253334",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304722",
+      "fromID": "253334",
+      "toID": "253326",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304723",
+      "fromID": "253333",
+      "toID": "253335",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304724",
+      "fromID": "253335",
+      "toID": "253334",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304725",
+      "fromID": "253337",
+      "toID": "253338",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304726",
+      "fromID": "253336",
+      "toID": "253337",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304727",
+      "fromID": "253341",
+      "toID": "253342",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304728",
+      "fromID": "253340",
+      "toID": "253341",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304729",
+      "fromID": "253346",
+      "toID": "253347",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304730",
+      "fromID": "253345",
+      "toID": "253346",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304731",
+      "fromID": "253350",
+      "toID": "253351",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304732",
+      "fromID": "253349",
+      "toID": "253350",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304733",
+      "fromID": "253354",
+      "toID": "253355",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304734",
+      "fromID": "253353",
+      "toID": "253354",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304735",
+      "fromID": "253358",
+      "toID": "253359",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304736",
+      "fromID": "253357",
+      "toID": "253358",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304737",
+      "fromID": "253362",
+      "toID": "253363",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304738",
+      "fromID": "253361",
+      "toID": "253362",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304739",
+      "fromID": "253359",
+      "toID": "253365",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304740",
+      "fromID": "253365",
+      "toID": "253363",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304741",
+      "fromID": "253357",
+      "toID": "253366",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304742",
+      "fromID": "253366",
+      "toID": "253361",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304743",
+      "fromID": "253366",
+      "toID": "253367",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304744",
+      "fromID": "253367",
+      "toID": "253365",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304745",
+      "fromID": "253355",
+      "toID": "253368",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304746",
+      "fromID": "253368",
+      "toID": "253363",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304747",
+      "fromID": "253353",
+      "toID": "253369",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304748",
+      "fromID": "253369",
+      "toID": "253361",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304749",
+      "fromID": "253369",
+      "toID": "253370",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304750",
+      "fromID": "253370",
+      "toID": "253368",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304751",
+      "fromID": "253349",
+      "toID": "253371",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304752",
+      "fromID": "253371",
+      "toID": "253361",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304753",
+      "fromID": "253351",
+      "toID": "253372",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304754",
+      "fromID": "253372",
+      "toID": "253363",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304755",
+      "fromID": "253371",
+      "toID": "253373",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304756",
+      "fromID": "253373",
+      "toID": "253372",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304757",
+      "fromID": "253375",
+      "toID": "253376",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304758",
+      "fromID": "253374",
+      "toID": "253375",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304759",
+      "fromID": "253379",
+      "toID": "253380",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304760",
+      "fromID": "253378",
+      "toID": "253379",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304761",
+      "fromID": "253374",
+      "toID": "253382",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304762",
+      "fromID": "253382",
+      "toID": "253378",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304763",
+      "fromID": "253376",
+      "toID": "253383",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304764",
+      "fromID": "253383",
+      "toID": "253380",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304765",
+      "fromID": "253382",
+      "toID": "253384",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304766",
+      "fromID": "253384",
+      "toID": "253383",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304767",
+      "fromID": "253361",
+      "toID": "253385",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304768",
+      "fromID": "253385",
+      "toID": "253378",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304769",
+      "fromID": "253363",
+      "toID": "253386",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304770",
+      "fromID": "253386",
+      "toID": "253380",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304771",
+      "fromID": "253385",
+      "toID": "253387",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304772",
+      "fromID": "253387",
+      "toID": "253386",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304773",
+      "fromID": "253329",
+      "toID": "253388",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304774",
+      "fromID": "253388",
+      "toID": "253336",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304775",
+      "fromID": "253336",
+      "toID": "253389",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304776",
+      "fromID": "253389",
+      "toID": "253340",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304777",
+      "fromID": "253340",
+      "toID": "253390",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304778",
+      "fromID": "253390",
+      "toID": "253345",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304779",
+      "fromID": "253345",
+      "toID": "253391",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304780",
+      "fromID": "253391",
+      "toID": "253349",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "253317",
+      "personID": "2412",
+      "timestamp": "2016-12-21 17:51:48",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "253321",
+      "personID": "2412",
+      "timestamp": "2016-12-21 17:51:48",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

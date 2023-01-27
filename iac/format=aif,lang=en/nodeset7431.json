@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "142109",
+      "text": "No ownership society for women when they can't even claim autonomy over their own bodies.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:20"
+    },
+    {
+      "nodeID": "142110",
+      "text": "Which is precisely why the law must needs be silent when it comes to women choosing whether or not to continue their pregnancies.emoticon_xhoho",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:20"
+    },
+    {
+      "nodeID": "142111",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:55:21"
+    },
+    {
+      "nodeID": "142112",
+      "text": "funny that all proponents of abortion for unwanted pregnancies talk about abortion as if being a political statement: I control my body. Funny that they never think that the reason most women need an abortion was because they couldn't control their legs and kept them crossed. They can not control their lust, so much for body control. emoticon_rolleyes",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:21"
+    },
+    {
+      "nodeID": "142113",
+      "text": "Which, we suppose, in your mind releases the sperm donor of any responsibility whatsoever, right? Isn't it interesting that your solution for the abortion issue demands that women deny their sexuality while permitting men to run the gamut of theirs. Does this attitude, of which you are not the only proponent, stem from a hatred or a fear of women?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:21"
+    },
+    {
+      "nodeID": "142114",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:55:21"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184916",
+      "fromID": "142110",
+      "toID": "142111",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184917",
+      "fromID": "142111",
+      "toID": "142109",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184918",
+      "fromID": "142113",
+      "toID": "142114",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184919",
+      "fromID": "142114",
+      "toID": "142112",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

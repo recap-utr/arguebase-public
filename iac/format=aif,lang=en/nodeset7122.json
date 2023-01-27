@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138210",
+      "text": "I believe in Spinoza's God who reveals himself in the orderly harmony of what exists, not in a God who concerns himself with the fates and actions of human beings. I cannot imagine a God who rewards and punishes the objects of his creation, whose purposes are modeled after our own -- a God, in short, who is but a reflection of human frailty. Neither can I believe that the individual survives the death of his body, although feeble souls harbor such thoughts through fear or ridiculous egotisms. A man's ethical behavior should be based effectually on sympathy, education, and social ties and needs; no religious basis is necessary. Man would indeed be in a poor way if he had to be restrained by fear of punishment and hope of reward after death. Scientific research is based on the idea that everything that takes place is determined by laws of nature, and therefore this holds for the action of people. For this reason, a research scientist will hardly be inclined to believe that events could be influenced by a prayer, i.e. by a wish addressed to a Supernatural Being.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:34"
+    },
+    {
+      "nodeID": "138211",
+      "text": "And Stephen Hawking, the only thing he has said was 'I do not believe in a personal god', which would make him a pantheist or deist at best.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:34"
+    },
+    {
+      "nodeID": "138212",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:46:34"
+    },
+    {
+      "nodeID": "138213",
+      "text": "You're too harsh. You seem to not be aware that Einstein and Hawking, two of the most intelligent people to live thus far, both believed in a creator...as do thousands of other scientifically minded people, including myself.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:34"
+    },
+    {
+      "nodeID": "138214",
+      "text": "Well, Nature was einstein's god. Look at some of his statements",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:34"
+    },
+    {
+      "nodeID": "138215",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:46:34"
+    },
+    {
+      "nodeID": "138216",
+      "text": "I have met a creationist who believed in a semi-literal who knew more about evolution then the people flaming him.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:34"
+    },
+    {
+      "nodeID": "138217",
+      "text": "And I once had a discussion with a YEC who was a degreed chemist who actually knew what science is and how it works. We had a lengthy discussion about the fossil reactors at Oklo. He limited himself to what he knew - chemistry. The discussion became one of the solubility of various salts and oxides. The chemist could find no information while I did.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:34"
+    },
+    {
+      "nodeID": "138218",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:46:34"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182146",
+      "fromID": "138211",
+      "toID": "138212",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182147",
+      "fromID": "138212",
+      "toID": "138210",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182148",
+      "fromID": "138214",
+      "toID": "138215",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182149",
+      "fromID": "138215",
+      "toID": "138213",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182150",
+      "fromID": "138217",
+      "toID": "138218",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182151",
+      "fromID": "138218",
+      "toID": "138216",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

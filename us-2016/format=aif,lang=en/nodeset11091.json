@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "197543",
+      "text": "Xelnastoss : turns out the committee to figure out what happens only goal was to hurt hillary",
+      "type": "L",
+      "timestamp": "2016-09-01 12:29:38"
+    },
+    {
+      "nodeID": "197545",
+      "text": "turns out the committee to figure out what happened in Benghazi only goal was to hurt Hillary Clinton",
+      "type": "I",
+      "timestamp": "2016-09-01 12:29:38"
+    },
+    {
+      "nodeID": "240656",
+      "text": "CLINTON : it 's pretty clear what their obvious goal is",
+      "type": "L",
+      "timestamp": "2016-11-10 18:34:20"
+    },
+    {
+      "nodeID": "240658",
+      "text": "it 's pretty clear what their obvious goal is",
+      "type": "I",
+      "timestamp": "2016-11-10 18:34:20"
+    },
+    {
+      "nodeID": "262481",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-03 18:44:44",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "262482",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-03 18:44:44",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "262483",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-03 18:44:45",
+      "scheme": "Restating",
+      "schemeID": "101"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "316630",
+      "fromID": "240656",
+      "toID": "262481",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316631",
+      "fromID": "262481",
+      "toID": "197543",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316632",
+      "fromID": "197545",
+      "toID": "262482",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316633",
+      "fromID": "262482",
+      "toID": "240658",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316634",
+      "fromID": "262481",
+      "toID": "262483",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316635",
+      "fromID": "262483",
+      "toID": "262482",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "142159",
+      "text": "Hey, I wonder what they would need to see in order to be convinced of design. I think most scientists would admit the universe looks designed, so what would convince them that it actually is?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:29"
+    },
+    {
+      "nodeID": "142160",
+      "text": "emoticon_wow You are making up your own strawman arguments as you go along. Asking 'what they would need' is a poor mask to avoid the fact that YOU HAVE NO EVIDENCE in the first place. A lot of 'doesn't this look like ...', but that's akin to interpreting Rorschach tests. You see what you want to.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:29"
+    },
+    {
+      "nodeID": "142161",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:55:29"
+    },
+    {
+      "nodeID": "142162",
+      "text": "And like usual, you are wrong.  Abiogenesis - Wikipedia, the free encyclopedia",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:29"
+    },
+    {
+      "nodeID": "142163",
+      "text": "Yes, I'm always a step behind the word definition switcharoos. I have been told many times on 4forums that abiogenesis is not science.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:29"
+    },
+    {
+      "nodeID": "142164",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:55:29"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184952",
+      "fromID": "142160",
+      "toID": "142161",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184953",
+      "fromID": "142161",
+      "toID": "142159",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184954",
+      "fromID": "142163",
+      "toID": "142164",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184955",
+      "fromID": "142164",
+      "toID": "142162",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139143",
+      "text": "For example, how many times have the Yankees won the world series? I don't know off hand, but I know it isn't 2, and I know it isn't 1000000, and I definately know it isn't -5.3.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:34"
+    },
+    {
+      "nodeID": "139144",
+      "text": "Oh but I wish the -5.3 won world series games for the Yankees was the truest information you could get in baseball. That would make me so happy. So would the Red Sox winning the 1000000, and the Kansas City Royals winning 2.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:34"
+    },
+    {
+      "nodeID": "139145",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:48:34"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182820",
+      "fromID": "139144",
+      "toID": "139145",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182821",
+      "fromID": "139145",
+      "toID": "139143",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

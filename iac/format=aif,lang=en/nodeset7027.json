@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "136620",
+      "text": "Someone brought up a interesting point yesterday...they stated the court might have created an equal protection problem with their ruling. I'm not sure if that has any merit but interesting to look at.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:25"
+    },
+    {
+      "nodeID": "136621",
+      "text": "Yes, that is interesting. There are some same-sex couples who are legally married, while other same-sex couples cannot marry in California. An interesting issue.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:25"
+    },
+    {
+      "nodeID": "136622",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:43:25"
+    },
+    {
+      "nodeID": "136623",
+      "text": "The court followed the idea of not changing the game after it has been played. They changed the law, but they wont undo what had been done before the law change. For example, say the changed the fine for speeding to 10,000 dollars. People who had already been given speeding tickets would not be fined more money. People who were married before prop 8 did so completely legally. The law has been changed, but the act of marrying that they performed was legal at the time it was performed, so it would be wrong to undo that.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:25"
+    },
+    {
+      "nodeID": "136624",
+      "text": "Yes, that's all true, and it makes complete sense. But in doing this, the Court may have created a situation where plaintiffs can argue that California is denying people the equal protection of the laws, by allowing some people to be married to same-sex spouses and not allowing other people to be so married. If that is the argument that the plaintiffs make in their federal lawsuit, this could be interesting. The courts might have to interpret whether allowing some people to be married and not allowing other people to be married violates the equal protection clause of the 14th amendment to the U.S. constitution. And then they might have to decide whether this means that all same-sex couples must have the right to marry, because some of them can be legally married. In other words, this situation may be an opportunity, because no one can argue that this is a case of apples and oranges of same-sex couples being different from opposite-sex couples. Now you have same-sex couples who are legally married and same-sex couples who cannot be legally married in the same state, which can be argued to be denial of equal protection of the laws. I don't know....it could be interesting. Maybe things won't play out this way. We'll have to wait and see.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:25"
+    },
+    {
+      "nodeID": "136625",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:43:25"
+    },
+    {
+      "nodeID": "136626",
+      "text": "Even more so when Article 1 Section 8 is referring to the power of taxation and NOT a power to 'provide for the general welfare'.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:25"
+    },
+    {
+      "nodeID": "136627",
+      "text": "But then there is the 'necessary and proper' clause, which has been interpreted as giving Congress broad powers.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:25"
+    },
+    {
+      "nodeID": "136628",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:43:25"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181008",
+      "fromID": "136621",
+      "toID": "136622",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181009",
+      "fromID": "136622",
+      "toID": "136620",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181010",
+      "fromID": "136624",
+      "toID": "136625",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181011",
+      "fromID": "136625",
+      "toID": "136623",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181012",
+      "fromID": "136627",
+      "toID": "136628",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181013",
+      "fromID": "136628",
+      "toID": "136626",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

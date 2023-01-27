@@ -1,0 +1,1456 @@
+{
+  "nodes": [
+    {
+      "nodeID": "250420",
+      "text": "BAIER : we know how much you love hand-raising questions",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:27"
+    },
+    {
+      "nodeID": "250421",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:33:27",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "250422",
+      "text": "we know how much candidates love hand-raising questions",
+      "type": "I",
+      "timestamp": "2016-12-21 17:33:27"
+    },
+    {
+      "nodeID": "250423",
+      "text": "Barbara: BAIER : we know how much you love hand-raising questions",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:27"
+    },
+    {
+      "nodeID": "250424",
+      "text": "BAIER : we promise, this is the only one tonight: the only one",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:28"
+    },
+    {
+      "nodeID": "250425",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:33:28",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "250426",
+      "text": "we promise, this is the only one hand-raising question tonight",
+      "type": "I",
+      "timestamp": "2016-12-21 17:33:28"
+    },
+    {
+      "nodeID": "250427",
+      "text": "Barbara: BAIER : we promise, this is the only one tonight: the only one",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:28"
+    },
+    {
+      "nodeID": "250428",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:33:28",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "250429",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:33:28",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "250430",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:33:28",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "250431",
+      "text": "BAIER : Is there anyone on stage, and can I see hands, who is unwilling tonight to pledge your support to the eventual nominee of the Republican party and pledge to not run an independent campaign against that person",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:28"
+    },
+    {
+      "nodeID": "250432",
+      "text": "Pure Questioning",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:33:28",
+      "scheme": "PureQuestioning",
+      "schemeID": "91"
+    },
+    {
+      "nodeID": "250433",
+      "text": "there is/ there is not anyone on stage, and can I see hands, who is unwilling tonight to pledge your support to the eventual nominee of the Republican party and pledge to not run an independent campaign against that person",
+      "type": "I",
+      "timestamp": "2016-12-21 17:33:29"
+    },
+    {
+      "nodeID": "250434",
+      "text": "Barbara: BAIER : Is there anyone on stage, and can I see hands, who is unwilling tonight to pledge your support to the eventual nominee of the Republican party and pledge to not run an independent campaign against that person",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:29"
+    },
+    {
+      "nodeID": "250435",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:33:29",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "250436",
+      "text": "BAIER : we're looking for you to raise your hand now -- raise your hand now if you won't make that pledge tonight",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:29"
+    },
+    {
+      "nodeID": "250437",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:33:29",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "250438",
+      "text": "we're looking for you to raise your hand now -- raise your hand now if you won't make that pledge tonight",
+      "type": "I",
+      "timestamp": "2016-12-21 17:33:29"
+    },
+    {
+      "nodeID": "250439",
+      "text": "Barbara: BAIER : Again, we're looking for you to raise your hand now -- raise your hand now if you won't make that pledge tonight",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:29"
+    },
+    {
+      "nodeID": "250440",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-12-21 17:33:29",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "250441",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:33:29",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "250442",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:33:30",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "250443",
+      "text": "Barbara: TRUMP : Mr. Trump",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:30"
+    },
+    {
+      "nodeID": "250444",
+      "text": "Barbara: TRUMP : Mr. Trump to be clear, you're standing on a Republican primary debate stage",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:30"
+    },
+    {
+      "nodeID": "250445",
+      "text": "Barbara: BAIER : Mr. Trump",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:30"
+    },
+    {
+      "nodeID": "250446",
+      "text": "TRUMP is unwilling tonight to pledge his support to the eventual nominee of the Republican party and pledge to not run an independent campaign against that person",
+      "type": "I",
+      "timestamp": "2016-12-21 17:33:30"
+    },
+    {
+      "nodeID": "250447",
+      "text": "Barbara: BAIER : TRUMP : Mr. Trump",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:30"
+    },
+    {
+      "nodeID": "250448",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:33:30",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "250449",
+      "text": "TRUMP : Mr. Trump",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:30"
+    },
+    {
+      "nodeID": "250450",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:33:31",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "250451",
+      "text": "BAIER : TRUMP : Mr. Trump",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:31"
+    },
+    {
+      "nodeID": "250452",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-12-21 17:33:31",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "250453",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:33:31",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "250454",
+      "text": "Default Illocuting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:33:31",
+      "scheme": "Default Illocuting",
+      "schemeID": "168"
+    },
+    {
+      "nodeID": "250455",
+      "text": "BAIER : Mr. Trump to be clear, you're standing on a Republican primary debate stage",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:31"
+    },
+    {
+      "nodeID": "250456",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:33:31",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "250457",
+      "text": "TRUMP is standing on a Republican primary debate stage",
+      "type": "I",
+      "timestamp": "2016-12-21 17:33:31"
+    },
+    {
+      "nodeID": "250458",
+      "text": "Barbara: BAIER : Mr. Trump to be clear, you're standing on a Republican primary debate stage",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:32"
+    },
+    {
+      "nodeID": "250459",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-12-21 17:33:32",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "250460",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:33:32",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "250461",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:33:32",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "250462",
+      "text": "TRUMP : I fully understand",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:32"
+    },
+    {
+      "nodeID": "250463",
+      "text": "Barbara: TRUMP : I fully understand",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:32"
+    },
+    {
+      "nodeID": "250464",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:33:32",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "250465",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:33:32",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    },
+    {
+      "nodeID": "250466",
+      "text": "BAIER : The place where the RNC will give the nominee the nod",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:32"
+    },
+    {
+      "nodeID": "250467",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:33:33",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "250468",
+      "text": "Republican primary debate stage is the place where the RNC will give the nominee the nod",
+      "type": "I",
+      "timestamp": "2016-12-21 17:33:33"
+    },
+    {
+      "nodeID": "250469",
+      "text": "Barbara: BAIER : The place where the RNC will give the nominee the nod",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:33"
+    },
+    {
+      "nodeID": "250470",
+      "text": "BAIER : I fully understand",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:33"
+    },
+    {
+      "nodeID": "250471",
+      "text": "Barbara: BAIER : I fully understand",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:33"
+    },
+    {
+      "nodeID": "250472",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:33:33",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "250473",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-12-21 17:33:33",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "250474",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:33:33",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "250475",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:33:33",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "250476",
+      "text": "BAIER : experts say an independent run would almost certainly hand the race over to Democrats and likely another Clinton",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:33"
+    },
+    {
+      "nodeID": "250477",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:33:34",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "250478",
+      "text": "experts say an independent run would almost certainly hand the race over to Democrats and likely another Clinton",
+      "type": "I",
+      "timestamp": "2016-12-21 17:33:34"
+    },
+    {
+      "nodeID": "250479",
+      "text": "Barbara: BAIER : experts say an independent run would almost certainly hand the race over to Democrats and likely another Clinton",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:34"
+    },
+    {
+      "nodeID": "250480",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-12-21 17:33:34",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "250481",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:33:34",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "250482",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:33:34",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "250483",
+      "text": "BAIER : You can't say tonight that you can make that pledge",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:34"
+    },
+    {
+      "nodeID": "250484",
+      "text": "Assertive Questioning",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:33:34",
+      "scheme": "AssertiveQuestioning",
+      "schemeID": "73"
+    },
+    {
+      "nodeID": "250485",
+      "text": "TRUMP can't say tonight that he can make that pledge",
+      "type": "I",
+      "timestamp": "2016-12-21 17:33:34"
+    },
+    {
+      "nodeID": "250486",
+      "text": "Barbara: BAIER : You can't say tonight that you can make that pledge",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:35"
+    },
+    {
+      "nodeID": "250487",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:33:35",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "250488",
+      "text": "TRUMP : I cannot say",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:35"
+    },
+    {
+      "nodeID": "250489",
+      "text": "Barbara: TRUMP : I cannot say",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:35"
+    },
+    {
+      "nodeID": "250490",
+      "text": "TRUMP :  I have to respect the person that, if it's not me, the person that wins, if I do win, and I'm leading by quite a bit, that's what I want to do",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:35"
+    },
+    {
+      "nodeID": "250491",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:33:35",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "250492",
+      "text": "TRUMP has to respect the person that, if it's not TRUMP, the person that wins, if he does win, and he is leading by quite a bit, that's what TRUMP wants to do",
+      "type": "I",
+      "timestamp": "2016-12-21 17:33:35"
+    },
+    {
+      "nodeID": "250493",
+      "text": "Barbara: TRUMP :  I have to respect the person that, if it's not me, the person that wins, if I do win, and I'm leading by quite a bit, that's what I want to do",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:35"
+    },
+    {
+      "nodeID": "250494",
+      "text": "TRUMP : I can totally make that pledge",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:35"
+    },
+    {
+      "nodeID": "250495",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:33:36",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "250496",
+      "text": "TRUMP can totally make that pledge",
+      "type": "I",
+      "timestamp": "2016-12-21 17:33:36"
+    },
+    {
+      "nodeID": "250497",
+      "text": "Barbara: TRUMP : I can totally make that pledge",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:36"
+    },
+    {
+      "nodeID": "250498",
+      "text": "TRUMP :  If I'm the nominee, I will pledge I will not run as an independent",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:36"
+    },
+    {
+      "nodeID": "250499",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:33:36",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "250500",
+      "text": "if TRUMP is the nominee, TRUMP will pledge he will not run as an independent",
+      "type": "I",
+      "timestamp": "2016-12-21 17:33:36"
+    },
+    {
+      "nodeID": "250501",
+      "text": "Barbara: TRUMP :  If I'm the nominee, I will pledge I will not run as an independent",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:36"
+    },
+    {
+      "nodeID": "250502",
+      "text": "TRUMP : I'm, you know, talking about a lot of leverage",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:36"
+    },
+    {
+      "nodeID": "250503",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:33:36",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "250504",
+      "text": "TRUMP is talking about a lot of leverage",
+      "type": "I",
+      "timestamp": "2016-12-21 17:33:36"
+    },
+    {
+      "nodeID": "250505",
+      "text": "Barbara: TRUMP : I'm, you know, talking about a lot of leverage",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:37"
+    },
+    {
+      "nodeID": "250506",
+      "text": "TRUMP : We want to win, and we will win",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:37"
+    },
+    {
+      "nodeID": "250507",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:33:37",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "250508",
+      "text": "we want to win, and we will win",
+      "type": "I",
+      "timestamp": "2016-12-21 17:33:37"
+    },
+    {
+      "nodeID": "250509",
+      "text": "Barbara: TRUMP : We want to win, and we will win",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:37"
+    },
+    {
+      "nodeID": "250510",
+      "text": "TRUMP :  I want to win as the Republican",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:37"
+    },
+    {
+      "nodeID": "250511",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:33:37",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "250512",
+      "text": "TRUMP wants to win as the Republican",
+      "type": "I",
+      "timestamp": "2016-12-21 17:33:37"
+    },
+    {
+      "nodeID": "250513",
+      "text": "Barbara: TRUMP :  I want to win as the Republican",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:37"
+    },
+    {
+      "nodeID": "250514",
+      "text": "TRUMP : I want to run as the Republican nominee",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:38"
+    },
+    {
+      "nodeID": "250515",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:33:38",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "250516",
+      "text": "TRUMP wants to run as the Republican nominee",
+      "type": "I",
+      "timestamp": "2016-12-21 17:33:38"
+    },
+    {
+      "nodeID": "250517",
+      "text": "Barbara: TRUMP : I want to run as the Republican nominee",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:38"
+    },
+    {
+      "nodeID": "250518",
+      "text": "PAUL : This is what's wrong",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:38"
+    },
+    {
+      "nodeID": "250519",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:33:38",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "250520",
+      "text": "this is what's wrong",
+      "type": "I",
+      "timestamp": "2016-12-21 17:33:38"
+    },
+    {
+      "nodeID": "250521",
+      "text": "Barbara: PAUL : This is what's wrong!",
+      "type": "L",
+      "timestamp": "2016-12-21 17:33:38"
+    },
+    {
+      "nodeID": "250522",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:33:38",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "250523",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:33:39",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "250524",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:33:39",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "250525",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:33:39",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    },
+    {
+      "nodeID": "250526",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:33:39",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "250527",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:33:39",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "250528",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:33:39",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "250529",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:33:39",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "250530",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:33:39",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "250531",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-12-21 17:33:39",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "250532",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:33:40",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "250533",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:33:40",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "301884",
+      "fromID": "250421",
+      "toID": "250422",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301885",
+      "fromID": "250420",
+      "toID": "250421",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301886",
+      "fromID": "250425",
+      "toID": "250426",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301887",
+      "fromID": "250424",
+      "toID": "250425",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301888",
+      "fromID": "250422",
+      "toID": "250428",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301889",
+      "fromID": "250428",
+      "toID": "250426",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301890",
+      "fromID": "250420",
+      "toID": "250429",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301891",
+      "fromID": "250429",
+      "toID": "250424",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301892",
+      "fromID": "250429",
+      "toID": "250430",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301893",
+      "fromID": "250430",
+      "toID": "250428",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301894",
+      "fromID": "250432",
+      "toID": "250433",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301895",
+      "fromID": "250431",
+      "toID": "250432",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301896",
+      "fromID": "250424",
+      "toID": "250435",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301897",
+      "fromID": "250435",
+      "toID": "250431",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301898",
+      "fromID": "250437",
+      "toID": "250438",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301899",
+      "fromID": "250436",
+      "toID": "250437",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301900",
+      "fromID": "250438",
+      "toID": "250440",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301901",
+      "fromID": "250440",
+      "toID": "250433",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301902",
+      "fromID": "250431",
+      "toID": "250441",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301903",
+      "fromID": "250441",
+      "toID": "250436",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301904",
+      "fromID": "250441",
+      "toID": "250442",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301905",
+      "fromID": "250442",
+      "toID": "250440",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301906",
+      "fromID": "250448",
+      "toID": "250446",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301907",
+      "fromID": "250449",
+      "toID": "250448",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301908",
+      "fromID": "250450",
+      "toID": "250449",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301909",
+      "fromID": "250451",
+      "toID": "250450",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301910",
+      "fromID": "250446",
+      "toID": "250452",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301911",
+      "fromID": "250452",
+      "toID": "250433",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301912",
+      "fromID": "250431",
+      "toID": "250453",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301913",
+      "fromID": "250453",
+      "toID": "250451",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301914",
+      "fromID": "250453",
+      "toID": "250454",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301915",
+      "fromID": "250454",
+      "toID": "250452",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301916",
+      "fromID": "250456",
+      "toID": "250457",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301917",
+      "fromID": "250455",
+      "toID": "250456",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301918",
+      "fromID": "250457",
+      "toID": "250459",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301919",
+      "fromID": "250459",
+      "toID": "250446",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301920",
+      "fromID": "250451",
+      "toID": "250460",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301921",
+      "fromID": "250460",
+      "toID": "250455",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301922",
+      "fromID": "250460",
+      "toID": "250461",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301923",
+      "fromID": "250461",
+      "toID": "250459",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301924",
+      "fromID": "250455",
+      "toID": "250464",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301925",
+      "fromID": "250464",
+      "toID": "250462",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301926",
+      "fromID": "250464",
+      "toID": "250465",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301927",
+      "fromID": "250465",
+      "toID": "250457",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301928",
+      "fromID": "250467",
+      "toID": "250468",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301929",
+      "fromID": "250466",
+      "toID": "250467",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301930",
+      "fromID": "250466",
+      "toID": "250472",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301931",
+      "fromID": "250472",
+      "toID": "250470",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301932",
+      "fromID": "250468",
+      "toID": "250473",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301933",
+      "fromID": "250473",
+      "toID": "250446",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301934",
+      "fromID": "250451",
+      "toID": "250474",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301935",
+      "fromID": "250474",
+      "toID": "250470",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301936",
+      "fromID": "250474",
+      "toID": "250475",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301937",
+      "fromID": "250475",
+      "toID": "250473",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301938",
+      "fromID": "250477",
+      "toID": "250478",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301939",
+      "fromID": "250476",
+      "toID": "250477",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301940",
+      "fromID": "250478",
+      "toID": "250480",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301941",
+      "fromID": "250480",
+      "toID": "250446",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301942",
+      "fromID": "250451",
+      "toID": "250481",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301943",
+      "fromID": "250481",
+      "toID": "250476",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301944",
+      "fromID": "250481",
+      "toID": "250482",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301945",
+      "fromID": "250482",
+      "toID": "250480",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301946",
+      "fromID": "250484",
+      "toID": "250485",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301947",
+      "fromID": "250483",
+      "toID": "250484",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301948",
+      "fromID": "250476",
+      "toID": "250487",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301949",
+      "fromID": "250487",
+      "toID": "250483",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301950",
+      "fromID": "250491",
+      "toID": "250492",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301951",
+      "fromID": "250490",
+      "toID": "250491",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301952",
+      "fromID": "250495",
+      "toID": "250496",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301953",
+      "fromID": "250494",
+      "toID": "250495",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301954",
+      "fromID": "250499",
+      "toID": "250500",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301955",
+      "fromID": "250498",
+      "toID": "250499",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301956",
+      "fromID": "250503",
+      "toID": "250504",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301957",
+      "fromID": "250502",
+      "toID": "250503",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301958",
+      "fromID": "250507",
+      "toID": "250508",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301959",
+      "fromID": "250506",
+      "toID": "250507",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301960",
+      "fromID": "250511",
+      "toID": "250512",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301961",
+      "fromID": "250510",
+      "toID": "250511",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301962",
+      "fromID": "250515",
+      "toID": "250516",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301963",
+      "fromID": "250514",
+      "toID": "250515",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301964",
+      "fromID": "250519",
+      "toID": "250520",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301965",
+      "fromID": "250518",
+      "toID": "250519",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301966",
+      "fromID": "250520",
+      "toID": "250519",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301967",
+      "fromID": "250483",
+      "toID": "250522",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301968",
+      "fromID": "250522",
+      "toID": "250488",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301969",
+      "fromID": "250488",
+      "toID": "250523",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301970",
+      "fromID": "250523",
+      "toID": "250490",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301971",
+      "fromID": "250490",
+      "toID": "250524",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301972",
+      "fromID": "250524",
+      "toID": "250494",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301973",
+      "fromID": "250522",
+      "toID": "250525",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301974",
+      "fromID": "250525",
+      "toID": "250485",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301975",
+      "fromID": "250494",
+      "toID": "250526",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301976",
+      "fromID": "250526",
+      "toID": "250498",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301977",
+      "fromID": "250498",
+      "toID": "250527",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301978",
+      "fromID": "250527",
+      "toID": "250502",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301979",
+      "fromID": "250502",
+      "toID": "250528",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301980",
+      "fromID": "250528",
+      "toID": "250506",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301981",
+      "fromID": "250506",
+      "toID": "250529",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301982",
+      "fromID": "250529",
+      "toID": "250510",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301983",
+      "fromID": "250510",
+      "toID": "250530",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301984",
+      "fromID": "250530",
+      "toID": "250514",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301985",
+      "fromID": "250520",
+      "toID": "250531",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301986",
+      "fromID": "250531",
+      "toID": "250485",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301987",
+      "fromID": "250483",
+      "toID": "250532",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301988",
+      "fromID": "250532",
+      "toID": "250518",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301989",
+      "fromID": "250532",
+      "toID": "250533",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301990",
+      "fromID": "250533",
+      "toID": "250531",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "250449",
+      "personID": "1602",
+      "timestamp": "2016-12-21 17:33:46",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "250451",
+      "personID": "2811",
+      "timestamp": "2016-12-21 17:33:46",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

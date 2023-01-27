@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157908",
+      "text": "I went from pro-life to pro-choice.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:32"
+    },
+    {
+      "nodeID": "157909",
+      "text": "And I the opposite... Kind of a wash I guess.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:32"
+    },
+    {
+      "nodeID": "157910",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:29:32"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196070",
+      "fromID": "157909",
+      "toID": "157910",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196071",
+      "fromID": "157910",
+      "toID": "157908",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

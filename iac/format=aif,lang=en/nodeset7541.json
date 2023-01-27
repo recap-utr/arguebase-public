@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143775",
+      "text": "Aren't there already drugs in existence that contain the chemicals that are (supposedly) beneficial in marijuana (i.e. THC)?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:50"
+    },
+    {
+      "nodeID": "143776",
+      "text": "I looked it up and apparently there is a synthetic form of THC on the market, (generically known as Dronabinol and sold under the trade name Marinol). But it is only allowed under restricted prescription (it's a Schedule II controlled substance, the same as morphine or cocaine) and is far less effective than plant-derived THC.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:50"
+    },
+    {
+      "nodeID": "143777",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:58:50"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186104",
+      "fromID": "143776",
+      "toID": "143777",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186105",
+      "fromID": "143777",
+      "toID": "143775",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

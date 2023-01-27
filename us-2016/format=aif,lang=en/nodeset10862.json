@@ -1,0 +1,531 @@
+{
+  "nodes": [
+    {
+      "nodeID": "256967",
+      "text": "COOPER : Should he do jail time",
+      "type": "L",
+      "timestamp": "2016-12-22 13:48:20"
+    },
+    {
+      "nodeID": "256968",
+      "text": "Pure Questioning",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:48:20",
+      "scheme": "PureQuestioning",
+      "schemeID": "91"
+    },
+    {
+      "nodeID": "256969",
+      "text": "Snowden should / should not do jail time",
+      "type": "I",
+      "timestamp": "2016-12-22 13:48:20"
+    },
+    {
+      "nodeID": "256970",
+      "text": "Jacky: COOPER : Should he do jail time",
+      "type": "L",
+      "timestamp": "2016-12-22 13:48:20"
+    },
+    {
+      "nodeID": "256971",
+      "text": "CLINTON : in addition, he stole very important information that has unfortunately fallen into a lot of the wrong hands",
+      "type": "L",
+      "timestamp": "2016-12-22 13:48:21"
+    },
+    {
+      "nodeID": "256972",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:48:21",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "256973",
+      "text": "in addition, Snowden stole very important information that has unfortunately fallen into a lot of the wrong hands",
+      "type": "I",
+      "timestamp": "2016-12-22 13:48:21"
+    },
+    {
+      "nodeID": "256974",
+      "text": "Jacky: CLINTON : in addition, he stole very important information that has unfortunately fallen into a lot of the wrong hands",
+      "type": "L",
+      "timestamp": "2016-12-22 13:48:21"
+    },
+    {
+      "nodeID": "256975",
+      "text": "CLINTON : I don't think he should be brought home without facing the music",
+      "type": "L",
+      "timestamp": "2016-12-22 13:48:21"
+    },
+    {
+      "nodeID": "256976",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:48:21",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "256977",
+      "text": "Snowden should not be brought home without facing the music",
+      "type": "I",
+      "timestamp": "2016-12-22 13:48:21"
+    },
+    {
+      "nodeID": "256978",
+      "text": "Jacky: CLINTON : I don't think he should be brought home without facing the music",
+      "type": "L",
+      "timestamp": "2016-12-22 13:48:21"
+    },
+    {
+      "nodeID": "256979",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 13:48:21",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "256980",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 13:48:22",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "256981",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-12-22 13:48:22",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "256982",
+      "text": "Default Illocuting",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:48:22",
+      "scheme": "Default Illocuting",
+      "schemeID": "168"
+    },
+    {
+      "nodeID": "256983",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-22 13:48:22",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "256984",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:48:22",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "256985",
+      "text": "O'MALLEY : Snowden put a lot of Americans' lives at risk",
+      "type": "L",
+      "timestamp": "2016-12-22 13:48:22"
+    },
+    {
+      "nodeID": "256986",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:48:22",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "256987",
+      "text": "Snowden put a lot of Americans' lives at risk",
+      "type": "I",
+      "timestamp": "2016-12-22 13:48:22"
+    },
+    {
+      "nodeID": "256988",
+      "text": "Jacky: O'MALLEY : Snowden put a lot of Americans' lives at risk",
+      "type": "L",
+      "timestamp": "2016-12-22 13:48:23"
+    },
+    {
+      "nodeID": "256989",
+      "text": "O'MALLEY : Snowden broke the law",
+      "type": "L",
+      "timestamp": "2016-12-22 13:48:23"
+    },
+    {
+      "nodeID": "256990",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:48:23",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "256991",
+      "text": "Snowden broke the law",
+      "type": "I",
+      "timestamp": "2016-12-22 13:48:23"
+    },
+    {
+      "nodeID": "256992",
+      "text": "Jacky: O'MALLEY : Snowden broke the law",
+      "type": "L",
+      "timestamp": "2016-12-22 13:48:23"
+    },
+    {
+      "nodeID": "256993",
+      "text": "O'MALLEY : Whistleblowers do not run to Russia and try to get protection from Putin",
+      "type": "L",
+      "timestamp": "2016-12-22 13:48:23"
+    },
+    {
+      "nodeID": "256994",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:48:23",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "256995",
+      "text": "Whistleblowers do not run to Russia and try to get protection from Putin",
+      "type": "I",
+      "timestamp": "2016-12-22 13:48:23"
+    },
+    {
+      "nodeID": "256996",
+      "text": "Jacky: O'MALLEY : Whistleblowers do not run to Russia and try to get protection from Putin",
+      "type": "L",
+      "timestamp": "2016-12-22 13:48:23"
+    },
+    {
+      "nodeID": "256997",
+      "text": "O'MALLEY : If he really believes that, he should be back here",
+      "type": "L",
+      "timestamp": "2016-12-22 13:48:24"
+    },
+    {
+      "nodeID": "256998",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:48:24",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "256999",
+      "text": "If he really believes that, he should be back here",
+      "type": "I",
+      "timestamp": "2016-12-22 13:48:24"
+    },
+    {
+      "nodeID": "257000",
+      "text": "Jacky: O'MALLEY : If he really believes that, he should be back here",
+      "type": "L",
+      "timestamp": "2016-12-22 13:48:24"
+    },
+    {
+      "nodeID": "257001",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 13:48:24",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257002",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 13:48:24",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257003",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 13:48:24",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257004",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 13:48:24",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257005",
+      "text": "SANDERS : Snowden played a very important role in educating the American people to the degree in which our civil liberties and our constitutional rights are being undermined",
+      "type": "L",
+      "timestamp": "2016-12-22 13:48:24"
+    },
+    {
+      "nodeID": "257006",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:48:25",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257007",
+      "text": "Snowden played a very important role in educating the American people to the degree in which our civil liberties and our constitutional rights are being undermined",
+      "type": "I",
+      "timestamp": "2016-12-22 13:48:25"
+    },
+    {
+      "nodeID": "257008",
+      "text": "Jacky: SANDERS : Snowden played a very important role in educating the American people to the degree in which our civil liberties and our constitutional rights are being undermined",
+      "type": "L",
+      "timestamp": "2016-12-22 13:48:25"
+    },
+    {
+      "nodeID": "257009",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 13:48:25",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "308350",
+      "fromID": "256968",
+      "toID": "256969",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308351",
+      "fromID": "256967",
+      "toID": "256968",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308352",
+      "fromID": "256972",
+      "toID": "256973",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308353",
+      "fromID": "256971",
+      "toID": "256972",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308354",
+      "fromID": "256976",
+      "toID": "256977",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308355",
+      "fromID": "256975",
+      "toID": "256976",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308356",
+      "fromID": "256967",
+      "toID": "256979",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308357",
+      "fromID": "256979",
+      "toID": "256975",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308358",
+      "fromID": "256971",
+      "toID": "256980",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308359",
+      "fromID": "256980",
+      "toID": "256975",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308360",
+      "fromID": "256977",
+      "toID": "256981",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308361",
+      "fromID": "256981",
+      "toID": "256969",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308362",
+      "fromID": "256979",
+      "toID": "256982",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308363",
+      "fromID": "256982",
+      "toID": "256981",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308364",
+      "fromID": "256973",
+      "toID": "256983",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308365",
+      "fromID": "256983",
+      "toID": "256977",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308366",
+      "fromID": "256980",
+      "toID": "256984",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308367",
+      "fromID": "256984",
+      "toID": "256983",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308368",
+      "fromID": "256986",
+      "toID": "256987",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308369",
+      "fromID": "256985",
+      "toID": "256986",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308370",
+      "fromID": "256990",
+      "toID": "256991",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308371",
+      "fromID": "256989",
+      "toID": "256990",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308372",
+      "fromID": "256994",
+      "toID": "256995",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308373",
+      "fromID": "256993",
+      "toID": "256994",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308374",
+      "fromID": "256998",
+      "toID": "256999",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308375",
+      "fromID": "256997",
+      "toID": "256998",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308376",
+      "fromID": "256967",
+      "toID": "257001",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308377",
+      "fromID": "257001",
+      "toID": "256997",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308378",
+      "fromID": "256985",
+      "toID": "257002",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308379",
+      "fromID": "257002",
+      "toID": "256989",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308380",
+      "fromID": "256989",
+      "toID": "257003",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308381",
+      "fromID": "257003",
+      "toID": "256993",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308382",
+      "fromID": "256993",
+      "toID": "257004",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308383",
+      "fromID": "257004",
+      "toID": "256997",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308384",
+      "fromID": "257006",
+      "toID": "257007",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308385",
+      "fromID": "257005",
+      "toID": "257006",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308386",
+      "fromID": "256967",
+      "toID": "257009",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308387",
+      "fromID": "257009",
+      "toID": "257005",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

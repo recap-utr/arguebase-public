@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "161279",
+      "text": "Also, a fetus isn't a child. A child can live without it's mother. A fetus cannot. We don't see a fetus as a parasite, but that essentially what it is.....",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:14"
+    },
+    {
+      "nodeID": "161280",
+      "text": "Thats an odd analogy. Can a child survive without its mother? I'd say a baby is no less dependent on its mother the first few years than it is when in it grew in the womb. Is the child still a parasite then?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:14"
+    },
+    {
+      "nodeID": "161281",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:37:14"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198490",
+      "fromID": "161280",
+      "toID": "161281",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198491",
+      "fromID": "161281",
+      "toID": "161279",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

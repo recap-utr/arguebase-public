@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "136923",
+      "text": "http://news.telegraph.co.uk/news/main.jhtml?xml=/news/2005/05/15/nabort15.xml",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:05"
+    },
+    {
+      "nodeID": "136924",
+      "text": "I think that I don't have quite enough Tobasco in my Bloody Mary. emoticon_wow",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:05"
+    },
+    {
+      "nodeID": "136925",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:44:05"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181216",
+      "fromID": "136924",
+      "toID": "136925",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181217",
+      "fromID": "136925",
+      "toID": "136923",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

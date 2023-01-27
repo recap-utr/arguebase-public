@@ -1,0 +1,205 @@
+{
+  "nodes": [
+    {
+      "nodeID": "160687",
+      "text": "1. legal relationship between spouses: a legally recognized relationship, established by a civil or religious ceremony, between two people who intend to live together as sexual and domestic partners 2. specific marriage relationship: a married relationship between two people, or a somebody's relationship with his or her spouse",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:46"
+    },
+    {
+      "nodeID": "160688",
+      "text": "American Heritage http://www.bartleby.com/61/2/M0120200.html",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:46"
+    },
+    {
+      "nodeID": "160689",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:35:46"
+    },
+    {
+      "nodeID": "160690",
+      "text": "(2) : the state of being united to a person of the same sex in a relationship like that of a traditional marriage <same-sex marriage<",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:46"
+    },
+    {
+      "nodeID": "160691",
+      "text": "Dictionary.com http://dictionary.reference.com/browse/marriage",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:46"
+    },
+    {
+      "nodeID": "160692",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:35:46"
+    },
+    {
+      "nodeID": "160693",
+      "text": "1d. A union between two persons having the customary but usually not the legal force of marriage: a same-sex marriage.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:46"
+    },
+    {
+      "nodeID": "160694",
+      "text": "This is not to say that every current dictionary includes such a definition... yet... but a number of major on-line ones demonstrably do, and to my knowledge human civilization has yet to suffer any negative effects.  (By the way, the above entries also include the typical 'husband and wife' kind of arrangement as well. Funny how words can have more than one meaning, isn't it?)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:46"
+    },
+    {
+      "nodeID": "160695",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:35:46"
+    },
+    {
+      "nodeID": "160696",
+      "text": "4. a relationship in which two people have pledged themselves to each other in the manner of a husband and wife, without legal sanction: trial marriage; homosexual marriage.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:46"
+    },
+    {
+      "nodeID": "160697",
+      "text": "Encarta http://encarta.msn.com/encnet/features/dictionary/DictionaryResults.aspx?refid=1861628509",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:46"
+    },
+    {
+      "nodeID": "160698",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:35:46"
+    },
+    {
+      "nodeID": "160699",
+      "text": "Those who object to same-sex marriage primarily (or so they claim) because it would 'change the definition of marriage' should perhaps be made aware that that train has already left the station: Merriam-Webster On-line http://www.m-w.com/dictionary/marriage Dictionary.com http://dictionary.reference.com/browse/marriage Encarta http://encarta.msn.com/encnet/features/dictionary/DictionaryResults.aspx?refid=1861628509 American Heritage http://www.bartleby.com/61/2/M0120200.html This is not to say that every current dictionary includes such a definition... yet... but a number of major on-line ones demonstrably do, and to my knowledge human civilization has yet to suffer any negative effects.  (By the way, the above entries also include the typical 'husband and wife' kind of arrangement as well. Funny how words can have more than one meaning, isn't it?)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:46"
+    },
+    {
+      "nodeID": "160700",
+      "text": "The whole 'change the definition of marriage' is mainly a scare tactic used by anti-gay religious bigots. They don't seem to realize that words can have several meanings.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:46"
+    },
+    {
+      "nodeID": "160701",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:35:47"
+    },
+    {
+      "nodeID": "160702",
+      "text": "Funny how they never claimed that naming a computer pointing device a 'mouse' was blasphemous to Mickey. emoticon_xangel",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:47"
+    },
+    {
+      "nodeID": "160703",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:35:47"
+    },
+    {
+      "nodeID": "160704",
+      "text": "It is also a desperate tactic because there are no other intelligent arguments. It is really a 'non-tactic', and merely just a re-statement of their position: 'I am opposed to changing the definition of marriage to include same-sex couples in the marriage laws because that would change the definition.' It is semantically indistinguishable from saying, 'I don't like the idea of same-sex marriage.' When objectively assessing the pros and cons, there are no valid arguments against same-sex marriage, except for biblical admonitions (which are not really objective, anyway.)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:47"
+    },
+    {
+      "nodeID": "160705",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:35:47"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198062",
+      "fromID": "160688",
+      "toID": "160689",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198063",
+      "fromID": "160689",
+      "toID": "160687",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198064",
+      "fromID": "160691",
+      "toID": "160692",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198065",
+      "fromID": "160692",
+      "toID": "160690",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198066",
+      "fromID": "160694",
+      "toID": "160695",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198067",
+      "fromID": "160695",
+      "toID": "160693",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198068",
+      "fromID": "160697",
+      "toID": "160698",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198069",
+      "fromID": "160698",
+      "toID": "160696",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198070",
+      "fromID": "160700",
+      "toID": "160701",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198071",
+      "fromID": "160701",
+      "toID": "160699",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198072",
+      "fromID": "160702",
+      "toID": "160703",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198073",
+      "fromID": "160703",
+      "toID": "160700",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198074",
+      "fromID": "160704",
+      "toID": "160705",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198075",
+      "fromID": "160705",
+      "toID": "160700",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

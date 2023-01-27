@@ -1,0 +1,192 @@
+{
+  "nodes": [
+    {
+      "nodeID": "212862",
+      "text": "Banzeye : Why can't these motherfuckers actually act like politicians instead of warmongering morons",
+      "type": "L",
+      "timestamp": "2016-10-31 17:20:24"
+    },
+    {
+      "nodeID": "212864",
+      "text": "Why can't these motherfuckers actually act like politicians instead of warmongering morons",
+      "type": "I",
+      "timestamp": "2016-10-31 17:20:25"
+    },
+    {
+      "nodeID": "212866",
+      "text": "Banzeye : Tearing apart the Iran deal and reinstittuing sanctions is ass backwards",
+      "type": "L",
+      "timestamp": "2016-10-31 17:20:25"
+    },
+    {
+      "nodeID": "212868",
+      "text": "Tearing apart the Iran deal and reinstittuing sanctions is ass backwards",
+      "type": "I",
+      "timestamp": "2016-10-31 17:20:25"
+    },
+    {
+      "nodeID": "221776",
+      "text": "Iran is at the heart of most of the evil that is going on in the Middle East through their proxy",
+      "type": "I",
+      "timestamp": "2016-11-01 15:07:08"
+    },
+    {
+      "nodeID": "221781",
+      "text": "FIORINA : Iran is at the heart of most of the evil that is going on in the Middle East through their proxy",
+      "type": "L",
+      "timestamp": "2016-11-01 15:07:08"
+    },
+    {
+      "nodeID": "221785",
+      "text": "WALKER would tear up the Iran deal on day one",
+      "type": "I",
+      "timestamp": "2016-11-01 15:07:08"
+    },
+    {
+      "nodeID": "221790",
+      "text": "BAIER : WALKER : you would tear up the Iran deal on day one",
+      "type": "L",
+      "timestamp": "2016-11-01 15:07:09"
+    },
+    {
+      "nodeID": "264396",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 13:05:09",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264397",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-09 13:05:09",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "264398",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-09 13:05:10",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "264399",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 13:05:10",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264400",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-09 13:05:11",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "264401",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-09 13:05:11",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "319866",
+      "fromID": "221790",
+      "toID": "264396",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319867",
+      "fromID": "264396",
+      "toID": "212866",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319868",
+      "fromID": "212868",
+      "toID": "264397",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319869",
+      "fromID": "264397",
+      "toID": "221785",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319870",
+      "fromID": "264396",
+      "toID": "264398",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319871",
+      "fromID": "264398",
+      "toID": "264397",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319872",
+      "fromID": "221781",
+      "toID": "264399",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319873",
+      "fromID": "264399",
+      "toID": "212862",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319874",
+      "fromID": "212864",
+      "toID": "264400",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319875",
+      "fromID": "264400",
+      "toID": "221776",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319876",
+      "fromID": "264399",
+      "toID": "264401",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319877",
+      "fromID": "264401",
+      "toID": "264400",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "221781",
+      "personID": "2484",
+      "timestamp": "2016-11-01 15:08:10",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "221790",
+      "personID": "2811",
+      "timestamp": "2016-11-01 15:08:10",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

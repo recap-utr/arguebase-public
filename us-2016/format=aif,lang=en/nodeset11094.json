@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "nodeID": "199255",
+      "text": "WordRick : stop complaining about the time",
+      "type": "L",
+      "timestamp": "2016-09-16 11:40:17"
+    },
+    {
+      "nodeID": "199257",
+      "text": "Webb should stop complaining about the time",
+      "type": "I",
+      "timestamp": "2016-09-16 11:40:17"
+    },
+    {
+      "nodeID": "248756",
+      "text": "WEBB : I hope I can get that kind of time here",
+      "type": "L",
+      "timestamp": "2016-12-21 14:44:36"
+    },
+    {
+      "nodeID": "262496",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-03 19:12:33",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "262497",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-03 19:12:33",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "262498",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-03 19:12:34",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "316660",
+      "fromID": "248756",
+      "toID": "262496",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316661",
+      "fromID": "262496",
+      "toID": "199255",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316662",
+      "fromID": "199257",
+      "toID": "262497",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316663",
+      "fromID": "262497",
+      "toID": "248756",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316664",
+      "fromID": "262496",
+      "toID": "262498",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316665",
+      "fromID": "262498",
+      "toID": "262497",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

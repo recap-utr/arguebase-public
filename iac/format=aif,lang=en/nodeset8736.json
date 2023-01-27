@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "162001",
+      "text": "everything. it states that you cannot discriminate against people even if they have a disorder. and if you prohibit people from getting married because they have a disorder, thats discrimination",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:54"
+    },
+    {
+      "nodeID": "162002",
+      "text": "By that logic being black or of some other minority, is a disorder. That's not correct. AA is suppose to be a leg up for the so-called less fortunate.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:54"
+    },
+    {
+      "nodeID": "162003",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:54"
+    },
+    {
+      "nodeID": "162004",
+      "text": "how is it discrimination when they aren't being denied rights everyone else has? They have no right that I don't have. Read my previous posts before you respond. Also affirmative action is helping those that are disadvantaged to do the same things that those that aren't disadvantaged like the American wiht Disabilites act. It's not asking to give them different rights.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:54"
+    },
+    {
+      "nodeID": "162005",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:54"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "199008",
+      "fromID": "162002",
+      "toID": "162003",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199009",
+      "fromID": "162003",
+      "toID": "162001",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199010",
+      "fromID": "162004",
+      "toID": "162005",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199011",
+      "fromID": "162005",
+      "toID": "162001",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

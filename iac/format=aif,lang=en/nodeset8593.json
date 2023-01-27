@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "159695",
+      "text": "Why is their no option for changing the constitution against the right to bear arms?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:32"
+    },
+    {
+      "nodeID": "159696",
+      "text": "Because the purpose of the US Bill of Rights is to grant or guarantee rights, not to prohibit or curtail personal freedoms.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:32"
+    },
+    {
+      "nodeID": "159697",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:33:32"
+    },
+    {
+      "nodeID": "159698",
+      "text": "Because the 'founding fathers' were not as foolish and gullible as people like you (especially, in foreign countries) to believe that ANY form of government is above the possiblity of tyranny against it's citizens.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:32"
+    },
+    {
+      "nodeID": "159699",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:33:32"
+    },
+    {
+      "nodeID": "159700",
+      "text": "The purpose of hte bill of rights is to recognise certain pre-exisitng rights, but specifically NOT to curtail any that are not specifically recognised.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:32"
+    },
+    {
+      "nodeID": "159701",
+      "text": "But still, if you think there are rights in the bill of rights that is wrong, that should not be granted or guaranteed, it would be a viable option to vote for removing them. What debate are you trying to end here? The debate: 'do you want little or less gun-control'?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:32"
+    },
+    {
+      "nodeID": "159702",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:33:32"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "197360",
+      "fromID": "159696",
+      "toID": "159697",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197361",
+      "fromID": "159697",
+      "toID": "159695",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197362",
+      "fromID": "159698",
+      "toID": "159699",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197363",
+      "fromID": "159699",
+      "toID": "159695",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197364",
+      "fromID": "159701",
+      "toID": "159702",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197365",
+      "fromID": "159702",
+      "toID": "159700",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "136513",
+      "text": ".50 caliber rifles have been legal for ownership since the revolutionary days. They even had .75 caliber rifles.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:09"
+    },
+    {
+      "nodeID": "136514",
+      "text": "So they had guns that could shoot down planes even before they had planes? Their primitive muskets were that powerful? I am not that easy to fool!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:09"
+    },
+    {
+      "nodeID": "136515",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:43:09"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "180930",
+      "fromID": "136514",
+      "toID": "136515",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180931",
+      "fromID": "136515",
+      "toID": "136513",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

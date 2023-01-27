@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "162860",
+      "text": "Haven't you seen all of the programs and News reels of people with their necks being crushed by toilet seats? I recall seeing an Emergency Room on a Fridday night in downtown Detroit that was full of people turning blue because they had a toilet seat wrapped around their neck! (Some folks will say anything, eh? LOL!!!)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:41:10"
+    },
+    {
+      "nodeID": "162861",
+      "text": "Yes they sure will.... with what 776 accidental deaths last year due to guns as opposed to 3,402 accidental drownings seems like more should be spent on preventing drownings than guns. But if your intellect is not up to understanding hyperbole (literary form of exageration to express a point) I will try in the future to keep it down to your level.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:41:10"
+    },
+    {
+      "nodeID": "162862",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:41:10"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "199622",
+      "fromID": "162861",
+      "toID": "162862",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199623",
+      "fromID": "162862",
+      "toID": "162860",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152750",
+      "text": "WW, while that link is encouraging, do you think biology is actually headed that direction or are we deluding ourselves that there will ever be a change in the status quo? To me, Big Science and Big Medicine are run much like a totalitarian-style government. They mobilize all their people and all their assets in support of their official ideological goals.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:39"
+    },
+    {
+      "nodeID": "152751",
+      "text": "And would you care to tell us just what those 'official ideological goals' are and where we might find a certifiable copy of them?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:39"
+    },
+    {
+      "nodeID": "152752",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:17:39"
+    },
+    {
+      "nodeID": "152753",
+      "text": "why don't you tell us how looking at an organism as a holistic whole, a whole that interacts with and evolves with a changing environment supports your theory.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:39"
+    },
+    {
+      "nodeID": "152754",
+      "text": "See, this is where reading the page would have helped you out alot. No where does it say that organisms evolve with a changing environment. That's what WW would like it to say, but it says nothing of the sort. All it talks about is a different approach to modeling cell behavior. Critical reading skills, they're really essential if you're going to try to debate science.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:39"
+    },
+    {
+      "nodeID": "152755",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:17:40"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192422",
+      "fromID": "152751",
+      "toID": "152752",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192423",
+      "fromID": "152752",
+      "toID": "152750",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192424",
+      "fromID": "152754",
+      "toID": "152755",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192425",
+      "fromID": "152755",
+      "toID": "152753",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

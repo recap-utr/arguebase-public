@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "161747",
+      "text": "Of course, this says nothing of the reality that other bats would have to be able to receive and interpret this new sonar-producing capability, which would also require the evolution of new hardware....randomly, of course.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:14"
+    },
+    {
+      "nodeID": "161748",
+      "text": "The words 'reality' and 'have to' should never have been added to that sentence. The reality is, bats could have evolved echolocation as a navigating tool, and learned to apply it to hunting and communication later. After all, all three uses require the same 'hardware': an organ to generate the sonar, and an organ to receive it.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:14"
+    },
+    {
+      "nodeID": "161749",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:14"
+    },
+    {
+      "nodeID": "161750",
+      "text": "But mutations don't add new body parts, and that's because mere changes in matter cannot add the information needed to create them.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:14"
+    },
+    {
+      "nodeID": "161751",
+      "text": "What is so sacred about this type of 'information' that it cannot be produced randomly?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:14"
+    },
+    {
+      "nodeID": "161752",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:15"
+    },
+    {
+      "nodeID": "161753",
+      "text": "Er . . . just a quick question. Why would other bats need to be able to receive and interpret this new sonar-producing capability? Bats use their sonar as echo-location, not as a means of communication with others, don't they? Does this reveal a hole in your thinking? Smiley",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:15"
+    },
+    {
+      "nodeID": "161754",
+      "text": "sonar is more than that; it's a method of communication. http://dsc.discovery.com/news/briefs/20041025/bat.html Whenever females heard sonar sounds from another female, they would call less frequently, likely to tune in to what the other female was communicating. According to the researchers, female bats interact mainly with other females in complex hierarchies during their lives, so that could be why they take more of an interest in echolocation sounds from their own sex. .....She told Discovery News, 'The connection of the two studies is in the idea that bat communication is more complex than previously documented, since research is finding a variety of social calls to be communicating territory defense and mate attraction, as well as sonar calls, previously thought to only function in prey capture and navigation, to also have a communication role.'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:15"
+    },
+    {
+      "nodeID": "161755",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:38:15"
+    },
+    {
+      "nodeID": "161756",
+      "text": "SS: How does evolution happen when mutations do not and can not create new body parts? Evolutionists need a mechanism of random change that links new body parts to a vehicle of inheritance. But they don't have it. Actually random mutation combined with selection and inheritance is all thats needed. .",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:15"
+    },
+    {
+      "nodeID": "161757",
+      "text": "evidently not. You have been unable to present me with any scientific evidence that mutations can create the raw material for which natural selection (which also doesn't exist) would act. This renders your theory scientifically worthless and more along the lines of astrology or palm reading.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:15"
+    },
+    {
+      "nodeID": "161758",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:38:15"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198828",
+      "fromID": "161748",
+      "toID": "161749",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198829",
+      "fromID": "161749",
+      "toID": "161747",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198830",
+      "fromID": "161751",
+      "toID": "161752",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198831",
+      "fromID": "161752",
+      "toID": "161750",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198832",
+      "fromID": "161754",
+      "toID": "161755",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198833",
+      "fromID": "161755",
+      "toID": "161753",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198834",
+      "fromID": "161757",
+      "toID": "161758",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198835",
+      "fromID": "161758",
+      "toID": "161756",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

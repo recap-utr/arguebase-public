@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140592",
+      "text": "This is ridiculous and barbaric. This woman should have had access to safe, legal and easily accessible abortion. It is shameful that she should have been reduced to such circumstances.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:45"
+    },
+    {
+      "nodeID": "140593",
+      "text": "But she murdered her child. There are laws in Austrailia (and hopefully someday in the U.S.) against killing your pre-birth children.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:45"
+    },
+    {
+      "nodeID": "140594",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:51:45"
+    },
+    {
+      "nodeID": "140595",
+      "text": "How far along was the pregnancy? And why is Australia so backward in regard to women?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:45"
+    },
+    {
+      "nodeID": "140596",
+      "text": "And 'why is the United States so backward in regard to children's rights to their lives?'",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:45"
+    },
+    {
+      "nodeID": "140597",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:51:45"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183840",
+      "fromID": "140593",
+      "toID": "140594",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183841",
+      "fromID": "140594",
+      "toID": "140592",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183842",
+      "fromID": "140596",
+      "toID": "140597",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183843",
+      "fromID": "140597",
+      "toID": "140595",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

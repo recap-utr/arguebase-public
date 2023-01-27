@@ -1,0 +1,258 @@
+{
+  "nodes": [
+    {
+      "nodeID": "210359",
+      "text": "shung : That's the best solution",
+      "type": "L",
+      "timestamp": "2016-10-30 18:53:31"
+    },
+    {
+      "nodeID": "210361",
+      "text": "building a giant wall on the border to solve the illegal immigration problem is not the best solution",
+      "type": "I",
+      "timestamp": "2016-10-30 18:53:31"
+    },
+    {
+      "nodeID": "210376",
+      "text": "no one would be bringing immigration up if TRUM didn't say anything",
+      "type": "I",
+      "timestamp": "2016-10-30 18:53:32"
+    },
+    {
+      "nodeID": "210378",
+      "text": "TRUMP : no one would be bringing it up if he didn't say anything",
+      "type": "L",
+      "timestamp": "2016-10-30 18:53:33"
+    },
+    {
+      "nodeID": "210391",
+      "text": "immigration definitely has  been a hot button issue for a couple decades",
+      "type": "I",
+      "timestamp": "2016-10-30 18:53:34"
+    },
+    {
+      "nodeID": "210393",
+      "text": "LumpyArryhead : immigration definitely hasn't been a hot button issue for a couple decades or anything",
+      "type": "L",
+      "timestamp": "2016-10-30 18:53:34"
+    },
+    {
+      "nodeID": "251114",
+      "text": "TRUMP : if it weren't for me, you wouldn't even be talking about illegal immigration, Chris",
+      "type": "L",
+      "timestamp": "2016-12-21 17:37:00"
+    },
+    {
+      "nodeID": "251116",
+      "text": "if it weren't for TRUMP, WALLACE wouldn't even be talking about illegal immigration",
+      "type": "I",
+      "timestamp": "2016-12-21 17:37:00"
+    },
+    {
+      "nodeID": "251118",
+      "text": "TRUMP : You wouldn't even be talking about it",
+      "type": "L",
+      "timestamp": "2016-12-21 17:37:00"
+    },
+    {
+      "nodeID": "264604",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-09 17:44:02",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "264605",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 17:44:02",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264606",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-09 17:44:03",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "264607",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-09 17:44:03",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "264608",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 17:44:04",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264609",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-09 17:44:04",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "264610",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-09 17:44:04",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "264611",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 17:44:05",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264612",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-09 17:44:05",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "320282",
+      "fromID": "210376",
+      "toID": "264604",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320283",
+      "fromID": "264604",
+      "toID": "251116",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320284",
+      "fromID": "251114",
+      "toID": "264605",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320285",
+      "fromID": "264605",
+      "toID": "210378",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320286",
+      "fromID": "264605",
+      "toID": "264606",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320287",
+      "fromID": "264606",
+      "toID": "264604",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320288",
+      "fromID": "210391",
+      "toID": "264607",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320289",
+      "fromID": "264607",
+      "toID": "251116",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320290",
+      "fromID": "251114",
+      "toID": "264608",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320291",
+      "fromID": "264608",
+      "toID": "210393",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320292",
+      "fromID": "264608",
+      "toID": "264609",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320293",
+      "fromID": "264609",
+      "toID": "264607",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320294",
+      "fromID": "210361",
+      "toID": "264610",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320295",
+      "fromID": "264610",
+      "toID": "251116",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320296",
+      "fromID": "251118",
+      "toID": "264611",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320297",
+      "fromID": "264611",
+      "toID": "210359",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320298",
+      "fromID": "264611",
+      "toID": "264612",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320299",
+      "fromID": "264612",
+      "toID": "264610",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "210378",
+      "personID": "1602",
+      "timestamp": "2016-10-30 18:53:41",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "210393",
+      "personID": "2665",
+      "timestamp": "2016-10-30 18:53:41",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

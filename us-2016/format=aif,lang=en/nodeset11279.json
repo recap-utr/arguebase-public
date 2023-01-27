@@ -1,0 +1,149 @@
+{
+  "nodes": [
+    {
+      "nodeID": "211577",
+      "text": "now the candidates try to sell scaling back on social security/medicare without committing political suicide",
+      "type": "L",
+      "timestamp": "2016-10-31 17:08:27"
+    },
+    {
+      "nodeID": "211578",
+      "text": "dichloroethane : now the candidates try to sell scaling back on social security/medicare without committing political suicide",
+      "type": "L",
+      "timestamp": "2016-10-31 17:08:27"
+    },
+    {
+      "nodeID": "211581",
+      "text": "Sniksder16 : The part about capping liquid assets/income was not a bad idea imo",
+      "type": "L",
+      "timestamp": "2016-10-31 17:08:27"
+    },
+    {
+      "nodeID": "221072",
+      "text": "CHRISTIE : I 'm the only guy on this stage who 's put out a detailed , 12 point plan on entitlement reform",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:50"
+    },
+    {
+      "nodeID": "221074",
+      "text": "CHRISTIE is the only guy on this stage who 's put out a detailed , 12 point plan on entitlement reform",
+      "type": "I",
+      "timestamp": "2016-11-01 15:04:50"
+    },
+    {
+      "nodeID": "221113",
+      "text": "CHRISTIE : we would means test Social Security for those who are making over $ 200,000 dollars a year in retirement income , and have $ 4 to $ 5 million dollars in liquid assets saved",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:54"
+    },
+    {
+      "nodeID": "221115",
+      "text": "CHRISTIE would means test Social Security for those who are making over $ 200,000 dollars a year in retirement income , and have $ 4 to $ 5 million dollars in liquid assets saved",
+      "type": "I",
+      "timestamp": "2016-11-01 15:04:54"
+    },
+    {
+      "nodeID": "264304",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 09:58:02",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264305",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2017-03-09 09:58:02",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    },
+    {
+      "nodeID": "264306",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 09:58:03",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264307",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-09 09:58:03",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "264308",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-09 09:58:04",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "319698",
+      "fromID": "221113",
+      "toID": "264304",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319699",
+      "fromID": "264304",
+      "toID": "211581",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319700",
+      "fromID": "264304",
+      "toID": "264305",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319701",
+      "fromID": "264305",
+      "toID": "221115",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319702",
+      "fromID": "221072",
+      "toID": "264306",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319703",
+      "fromID": "264306",
+      "toID": "211578",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319704",
+      "fromID": "211577",
+      "toID": "264307",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319705",
+      "fromID": "264307",
+      "toID": "221074",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319706",
+      "fromID": "264306",
+      "toID": "264308",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319707",
+      "fromID": "264308",
+      "toID": "264307",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

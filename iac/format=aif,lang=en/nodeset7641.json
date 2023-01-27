@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "145434",
+      "text": "To be fair, there are extreme views on the pro-choice side that would alllow almost anything to be considered a health issue - ex. if the mother is stressed out about the pregnancy, or she has high blood pressure during the pregnancy, etc., and this is the extreme arguement that McCain is addressing. Nevertheless, he is vastly exagerating the pro-choice view based on extreme examples.  The trouble is that we as a society, including the pro-choice community, have NOT outlined any criteria for which health issues would be valid reasons and which would not. I think that most of us would view extreme health issues (such as high chance of paralysis or major heart problems) to be valid reasons while minor health issues (short-term stress, or change in post-pregnancy metabolism to have greater weight gain tendency, etc.) to not be valid reasons for third trimester abortions. I tried to start a thread here once -'The mother's health exception - where do we draw the line?' - but it didn't get very far in resolving the issue here. Perhaps this could be a good topic to address here.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:16"
+    },
+    {
+      "nodeID": "145435",
+      "text": "I believe that a number of issues are to be considered in regard to a pregnant woman's health.  How damaging to her health would continuation of the pregnancy be? What sort of family responsibilities does she have? Most women, it seems, have family responsibilities of one sort or another, as opposed to men who tend to let family responsibilities go by the wayside. Is she the breadwinner of the family? If she's disabled, what will happen to her family? I hate it when men, I presume that most of the trivializers are men, when men trivialize the issue of a woman's health. And we very well know that McCain has little use for women. He is a supreme user of women. He married his first wife for her beauty and discarded her when she lost that beauty. He married his next wife for her beauty and wealth but did not hesitate to call her the C word and denounce her for a trollop for putting on so much makeup. The woman is no longer the youthful beauty she once was, so why shouldn't she use make-up if that pleases her? McCain has repeatedly demonstrated he hates women:",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:16"
+    },
+    {
+      "nodeID": "145436",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:02:17"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187274",
+      "fromID": "145435",
+      "toID": "145436",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187275",
+      "fromID": "145436",
+      "toID": "145434",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

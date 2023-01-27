@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157087",
+      "text": "Originally posted by voiceofreason Yeah right, like one man's opinion is a death blow to socialism.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:30"
+    },
+    {
+      "nodeID": "157088",
+      "text": "Yes I exaggerate. As long a Americans who love freedom and have the means to protect it, you will never see the same oppressive taxation in Europe happen here. If Bellesiles is the poster boy for academia and socialism, then I rather not have utopia run by men like him.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:30"
+    },
+    {
+      "nodeID": "157089",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:27:30"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195490",
+      "fromID": "157088",
+      "toID": "157089",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195491",
+      "fromID": "157089",
+      "toID": "157087",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

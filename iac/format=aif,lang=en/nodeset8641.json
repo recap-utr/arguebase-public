@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "160608",
+      "text": "there were state laws (not the new admendments) that made a same sex couple illegal. some of them being writen in the 1800's",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:35"
+    },
+    {
+      "nodeID": "160609",
+      "text": "NO, these were all ammedments. all passed. All written recently. There are laws on the book from the 1800's but that isn't what just passed.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:35"
+    },
+    {
+      "nodeID": "160610",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:35:35"
+    },
+    {
+      "nodeID": "160611",
+      "text": "When the citizens are allowed to vote for a ban on same-sex marriage, and it passes alarmingly, in some instances by a 70% margin, how can people fight to try and get it repealed? All of the 11 initiatives passed by at least 10%, and I think 8 of them also banned civil unions. With this alarming margin of appeal, why are gays still trying to fight this? Some times you can't have everything the way you want it. What's next...do we try and have the results of the election reversed because some people didn't like the outcome? Stop whining and move somewhere where it's legal to get married to another guy and stop trying to impose your way of life on people everywhere.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:35"
+    },
+    {
+      "nodeID": "160612",
+      "text": "Yes Joe, please quit trying to impose your way of life on us. The majority of americans are against this sort of behavior, yet you continue to try to impose this aberrant behavior on the rest of society. We dont want any part of it.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:35"
+    },
+    {
+      "nodeID": "160613",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:35:35"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198008",
+      "fromID": "160609",
+      "toID": "160610",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198009",
+      "fromID": "160610",
+      "toID": "160608",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198010",
+      "fromID": "160612",
+      "toID": "160613",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198011",
+      "fromID": "160613",
+      "toID": "160611",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "156246",
+      "text": "The recent confiscation of a formerly legal firearm has raised questions about how the RCMP inspects imported firearms and has forced a change of national firearms policy. The RCMP will be physically checking every assault-style rifle that enters the country from now on. Before the change, verifiers were used to check to make sure the guns are what the exporter said they would be. Verifiers could be anyone with knowledge of firearms and were given a one-day course from the RCMP. Businesses that sell weapons were able to nominate their own verifiers. But the discovery of a gun the RCMP says should never have made it into Canada has highlighted potential problems with the verifier program. There is concern that the first loyalty of business verifiers is to the business and that this could hurt the accuracy of the verifications. 'We've identified an issue with [the program],' said Marty Cheliak, the director general of the Canadian Firearms Program. 'There's a perception of a conflict of interest that may be prevalent. In this case, we're looking into that for sure.' Cheliak was referring to the case of the Norinco Type 97A rifle. Sixty of the Chinese-made guns were imported between December 2006 and November 2007. They were initially classified as restricted, based on information from the importer, photos, specifications from the manufacturer and an inspection by a business-nominated verifier. In October 2009, the Canada Border Services Agency alerted the RCMP to a second shipment. This time the rifles were given a full physical inspection by the RCMP, which determined the rifles should be prohibited. 'Why did they make a mistake?' asked Blair Hagen, president of the National Firearms Association. 'If the RCMP made the mistake in the first place, that has some very serious ramifications.' In March, the RCMP sent letters to owners of the Norinco Type 97A rifles, demanding they turn in the guns. This came after the RCMP decided the gun was prohibited after determining it could be easily converted to fully automatic fire. 'It was a purpose-built fully automatic firearm with the fully automatic features disabled by [Norinco] which were not reported to us,' Cheliak said. 'It is very easily converted back to automatic.' Automatic weapons, even those converted to semi-automatic fire, are prohibited in Canada. Guns that can be easily converted to fully automatic fire are also prohibited. The firearms association believes the gun was illegally reclassified, and some members plan to go to court to fight the seizures. 'The NFA is very concerned about the RCMP's unilateral reclassification of this particular firearm and believes there should be a more transparent process in place to explain it,' Hagen said. 'Apparently, they've done a report on this. However, they've refused to release that report. I think what's required here is some transparency. 'They should demonstrate that to the owners and to the firearms community, so that everyone knows the truth and we can make a determination if the classification was indeed legitimate.' Cheliak suggested the process is transparent enough. 'Why would we, the RCMP, or any police service give out information to any group &#8230; on how to convert a firearm from semi-automatic to fully automatic? That's ludicrous.' Hagen said owners are simply looking for proof. He does not believe that if owners knew how to convert their weapons to fully automatic they would do so. That quest for proof will be part of the owners' fight in court, where they are questioning the RCMP's ability to reclassify the weapons. Hagen said his understanding of the law is that only the federal cabinet can initiate a reclassification. However, Cheliak said he doesn't believe the weapon has actually been reclassified, but classified for the first time. A proper classification was done with the physical inspection of the firearm. Collection of the weapons began in early May. The RCMP say about half of the rifles have been turned in. Those who turned over their weapons were eligible for reimbursement from the Ministry of Public Safety, which is rare. Public Safety Minister Vic Toews issued a written statement supporting the RCMP's efforts to retrieve the firearms and saying the authorization of compensation 'balances the need for public safety with the legitimate expectations of firearms owners.' Hagen, of the National Firearms Association, says the RCMP have put the Conservative government, a longtime supporter of the rights of gun owners, in an awkward position. For now, the owners don't feel the government has turned its back on them. 'However, as this issue progresses, it is going to raise a lot of questions with the minister and inside the government, and I think the minister needs to be prepared for that.'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:42"
+    },
+    {
+      "nodeID": "156247",
+      "text": "So it's just as we've said: registration can and does lead to confiscation down the line. And now we have further proof that we're right about what we say. Government gets the weapon registered, then they can, at any time and for any reason, demand it be surrendered to the authorities or else punishment will be administered.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:43"
+    },
+    {
+      "nodeID": "156248",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:25:43"
+    },
+    {
+      "nodeID": "156249",
+      "text": "Yes, they were confiscated, but they were not 'legally' owned, as the guns themselves were illegal.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:43"
+    },
+    {
+      "nodeID": "156250",
+      "text": "See above I guess.And if you read the article (if)what about the other half?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:43"
+    },
+    {
+      "nodeID": "156251",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:25:43"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194894",
+      "fromID": "156247",
+      "toID": "156248",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194895",
+      "fromID": "156248",
+      "toID": "156246",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194896",
+      "fromID": "156250",
+      "toID": "156251",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194897",
+      "fromID": "156251",
+      "toID": "156249",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

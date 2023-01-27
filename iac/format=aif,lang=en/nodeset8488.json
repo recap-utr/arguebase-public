@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "158042",
+      "text": "Forget law abiding, convicted felons on death row are free to marry if they so desire. I have never found anything wrong with that either. At the end of the day marriage deals with the two consenting adults who have decided to legally document their partnership.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:51"
+    },
+    {
+      "nodeID": "158043",
+      "text": "I think you're right, but prisoners usually marry women, don't they?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:51"
+    },
+    {
+      "nodeID": "158044",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:29:51"
+    },
+    {
+      "nodeID": "158045",
+      "text": "I do not consider same sex marriage or opposite sex marriage good or bad in and of itself.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:51"
+    },
+    {
+      "nodeID": "158046",
+      "text": "Really! Why not? I'm very interested.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:51"
+    },
+    {
+      "nodeID": "158047",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:29:51"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196168",
+      "fromID": "158043",
+      "toID": "158044",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196169",
+      "fromID": "158044",
+      "toID": "158042",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196170",
+      "fromID": "158046",
+      "toID": "158047",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196171",
+      "fromID": "158047",
+      "toID": "158045",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

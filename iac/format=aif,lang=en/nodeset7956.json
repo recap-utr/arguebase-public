@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "150517",
+      "text": "First off, the comet impact which killed off the dinosaurs was millions of years before the ice age that humans lived through. There was nothing vaugely human around at the time. Secondly, there's a growing body of evidence to indicate that dinosaurs may have been warm blooded as well. It wasn't the cold per se that killed off everything, it was the fact that plants died off, disrupting the food chain. Anything that required alot of food, and anything human sized would have been included, was in trouble. As for the original question, it seems that even creationist have given up on persuing this line of inquiry. If creationists think something is too far fetched to consider, then you know it's really out there.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:12:50"
+    },
+    {
+      "nodeID": "150518",
+      "text": "well i know that they never coexisted but the fallout lasted a long time and i think humans could survive because we can eat such a lage varity of food humans seem to be able to live almost everware",
+      "type": "I",
+      "timestamp": "2016-03-08 20:12:50"
+    },
+    {
+      "nodeID": "150519",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:12:50"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "190852",
+      "fromID": "150518",
+      "toID": "150519",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190853",
+      "fromID": "150519",
+      "toID": "150517",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

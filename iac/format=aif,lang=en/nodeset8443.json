@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157450",
+      "text": "ok.. lets get this straight..",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:25"
+    },
+    {
+      "nodeID": "157451",
+      "text": "You do realize that the rules are supposed to be absurd, to point up the absurdity of a recent court ruling, right?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:25"
+    },
+    {
+      "nodeID": "157452",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:28:25"
+    },
+    {
+      "nodeID": "157453",
+      "text": "yes and my post was proving that",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:26"
+    },
+    {
+      "nodeID": "157454",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:28:26"
+    },
+    {
+      "nodeID": "157455",
+      "text": "NO I mean every word of what I type. If they institute these rules I will back off gay claim to marriage and accept that marriage is about children. As long as they continue to let 70 and 80 year olds get married marriage is not about children and there is no reason to exclude gay people. I would also add one more lisencing rule 8 No one may have children with out a marriage lisence.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:26"
+    },
+    {
+      "nodeID": "157456",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:28:26"
+    },
+    {
+      "nodeID": "157457",
+      "text": "Well I gotta hand it to you, Matt, you're consistent.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:26"
+    },
+    {
+      "nodeID": "157458",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:28:26"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195744",
+      "fromID": "157451",
+      "toID": "157452",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195745",
+      "fromID": "157452",
+      "toID": "157450",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195746",
+      "fromID": "157453",
+      "toID": "157454",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195747",
+      "fromID": "157454",
+      "toID": "157451",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195748",
+      "fromID": "157455",
+      "toID": "157456",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195749",
+      "fromID": "157456",
+      "toID": "157451",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195750",
+      "fromID": "157457",
+      "toID": "157458",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195751",
+      "fromID": "157458",
+      "toID": "157455",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

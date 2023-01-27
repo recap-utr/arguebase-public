@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "145564",
+      "text": "Averages tend not to mean much when 14 kids are laying dead in a school.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:37"
+    },
+    {
+      "nodeID": "145565",
+      "text": "And irrational emotional appeals seldom hold up in the face of logic",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:37"
+    },
+    {
+      "nodeID": "145566",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:02:37"
+    },
+    {
+      "nodeID": "145567",
+      "text": "Sorry my brain wasn't working that early this morning. What I was trying to say was I can't understand those who wish to completely take guns away from civilians. Now I think it does get a little extreme with owning several M-16s, but if I want to own a pistol, a shotgun, and some fancy automatic, well that's my right.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:37"
+    },
+    {
+      "nodeID": "145568",
+      "text": "Well, maybe the pistol and the hunting rifle, what do you need an automatic weapon? Have the deer gotten faster?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:37"
+    },
+    {
+      "nodeID": "145569",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:02:37"
+    },
+    {
+      "nodeID": "145570",
+      "text": "The pistol and hunting rifle is not enough. Please read the 2nd Amendment. It does not mention hunting as a reason for firearm owership or a reason for firearm ownership.  What the 2nd Amendment refers to is modern military weapons. So, yes, we 'need' military weapons. The purpose of the 2nd Amendment is to defend democracy from enemies of democracy who are armed with modern military weapons. The 2nd Amendment does not mean I fight the enemies of democracy with hunting guns. It means I fight back with the same guns they will probably be shooting at ME with.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:37"
+    },
+    {
+      "nodeID": "145571",
+      "text": "Well when the second amendment was written, 'modern military weapons' were black powder rifles. Feel free to defend yourself with black powder rifles. In addition, what are the non-recreational benefits of guns. In other words, what would we lose by taking away automatic guns (since I know your manly self could never part with every weapon you own.)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:38"
+    },
+    {
+      "nodeID": "145572",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:02:38"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187362",
+      "fromID": "145565",
+      "toID": "145566",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187363",
+      "fromID": "145566",
+      "toID": "145564",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187364",
+      "fromID": "145568",
+      "toID": "145569",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187365",
+      "fromID": "145569",
+      "toID": "145567",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187366",
+      "fromID": "145571",
+      "toID": "145572",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187367",
+      "fromID": "145572",
+      "toID": "145570",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

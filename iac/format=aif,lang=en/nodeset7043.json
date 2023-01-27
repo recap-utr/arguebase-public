@@ -1,0 +1,181 @@
+{
+  "nodes": [
+    {
+      "nodeID": "136782",
+      "text": "Was incest okay back then?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:47"
+    },
+    {
+      "nodeID": "136783",
+      "text": "Well, how else were they supposed to reproduce?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:47"
+    },
+    {
+      "nodeID": "136784",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:43:47"
+    },
+    {
+      "nodeID": "136785",
+      "text": "If God is a forgiving one, why is there the Devil?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:48"
+    },
+    {
+      "nodeID": "136786",
+      "text": "Because Satan is a fallen angel. He had a chance to be with God, but he didn't take it. He could go back to God any time he wanted to, but he doesn't want to. He has free will. God won't take that away, even though He can.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:48"
+    },
+    {
+      "nodeID": "136787",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:43:48"
+    },
+    {
+      "nodeID": "136788",
+      "text": "Was the snake actually a snake or is it a metaphor?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:48"
+    },
+    {
+      "nodeID": "136789",
+      "text": "You must be assuming that the entire story is true. Again, how can anyone possibly answer this?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:48"
+    },
+    {
+      "nodeID": "136790",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:43:48"
+    },
+    {
+      "nodeID": "136791",
+      "text": "Does creating Eve with Adams rib have anything today with DNA?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:48"
+    },
+    {
+      "nodeID": "136792",
+      "text": "I would hope not, since that would imply that god was the first to practice cloning, and it would be Adam and Adam instead of Adam and Eve.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:48"
+    },
+    {
+      "nodeID": "136793",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:43:48"
+    },
+    {
+      "nodeID": "136794",
+      "text": "Is lucifer the Devil?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:48"
+    },
+    {
+      "nodeID": "136795",
+      "text": "Yes &#8211; same, same.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:48"
+    },
+    {
+      "nodeID": "136796",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:43:48"
+    },
+    {
+      "nodeID": "136797",
+      "text": "I don't agree with this debate. If preventing the Devil from interfering on earth should not be prevented by God then why is it that God did prevent the Devil from interfering in heaven after he was defeated? They are both essentially taking the Devil away from an area where he could potentially harm those that are good. God seemingly saw fit for one to occur but not the other. Why would that be?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:48"
+    },
+    {
+      "nodeID": "136798",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:43:48"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181118",
+      "fromID": "136783",
+      "toID": "136784",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181119",
+      "fromID": "136784",
+      "toID": "136782",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181120",
+      "fromID": "136786",
+      "toID": "136787",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181121",
+      "fromID": "136787",
+      "toID": "136785",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181122",
+      "fromID": "136789",
+      "toID": "136790",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181123",
+      "fromID": "136790",
+      "toID": "136788",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181124",
+      "fromID": "136792",
+      "toID": "136793",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181125",
+      "fromID": "136793",
+      "toID": "136791",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181126",
+      "fromID": "136795",
+      "toID": "136796",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181127",
+      "fromID": "136796",
+      "toID": "136794",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181128",
+      "fromID": "136797",
+      "toID": "136798",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181129",
+      "fromID": "136798",
+      "toID": "136783",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

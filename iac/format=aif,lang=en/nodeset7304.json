@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140583",
+      "text": "The better question would be why did we let it be signed into law?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:44"
+    },
+    {
+      "nodeID": "140584",
+      "text": "Well that is a good question,but were just kinda what ifing heres all.http://www.4forums.com/political/images/smilies/xkill.gif emoticon_xkill",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:44"
+    },
+    {
+      "nodeID": "140585",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:51:44"
+    },
+    {
+      "nodeID": "140586",
+      "text": "Corrections Officer ? Internment/Resettlement Specialist Job in Multiple locations Have you been fooling around on McKelvey's site? Would be way funny to sign up and wind up in the healthy climate of Afghanistan :) It would be more healthy than in the States though because most folks know what posse commitatus means over here.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:44"
+    },
+    {
+      "nodeID": "140587",
+      "text": "Well gonna sign up now and beat the rush?Ah the other I'm not familar with. McKelvey's site?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:44"
+    },
+    {
+      "nodeID": "140588",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:51:44"
+    },
+    {
+      "nodeID": "140589",
+      "text": "Sunspot activity must be high today. The tinfoil beanie brigade is our in full force.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:44"
+    },
+    {
+      "nodeID": "140590",
+      "text": "Yes you are.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:44"
+    },
+    {
+      "nodeID": "140591",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:51:44"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183834",
+      "fromID": "140584",
+      "toID": "140585",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183835",
+      "fromID": "140585",
+      "toID": "140583",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183836",
+      "fromID": "140587",
+      "toID": "140588",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183837",
+      "fromID": "140588",
+      "toID": "140586",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183838",
+      "fromID": "140590",
+      "toID": "140591",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183839",
+      "fromID": "140591",
+      "toID": "140589",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

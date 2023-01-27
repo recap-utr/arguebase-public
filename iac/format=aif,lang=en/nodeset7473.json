@@ -1,0 +1,121 @@
+{
+  "nodes": [
+    {
+      "nodeID": "142922",
+      "text": "Hey, let me jump in on this one. Creation science has found nothing. There are no ifs, buts or maybes, on this one. Creation science is wrong and has been proven so by the scientific community time and time again. Look at pretty much any post on this forum and you will see this. Every time a Creat brings up an argument, the secular residents of this site beat them down with logic and reason. No Creat argument has stood up to the test of science. Pure and simple.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:53"
+    },
+    {
+      "nodeID": "142923",
+      "text": "point me toward the right way then? if creationists are wrong then why is evolution right? this is a biased answer based on your beliefs. please tell us how creationists were wrong. i would gladly like to see you try!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:53"
+    },
+    {
+      "nodeID": "142924",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:56:53"
+    },
+    {
+      "nodeID": "142925",
+      "text": "I don't know if I can accept 'creationist science' as a true form of science. True science involves developing explanations for phenomena based on ALL available evidence gathered. Creationists pick and choose little bits of science that supports their claims, all the while ignoring the evidence that discredits them.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:53"
+    },
+    {
+      "nodeID": "142926",
+      "text": "Walking-fish: A great example of this is the way Young Earthers try to discount radiometric dating. They will choose a couple hundred inconsistent radiometric dates out of the thousands that have been recorded and argue that they are unreliable. Then they will choose a couple lame pieces of evidence for a young earth, such as Robt Gentry's Polonium halos, rate of decay in the earth's magnetic field, rates of sediment/salt deposition in the ocean or rate of population growth. This is supposed to outweigh the evidence from thousands of good radiometric dates. Creationists are not very good at doing science but they are good at picking cherries. So if you own an orchard and need a few good field hands, hire a young earth creationist.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:53"
+    },
+    {
+      "nodeID": "142927",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:56:53"
+    },
+    {
+      "nodeID": "142928",
+      "text": "please tell us how creationists were wrong. i would gladly like to see you try!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:53"
+    },
+    {
+      "nodeID": "142929",
+      "text": "Simply put, there is zero evidence to support the theories of divine creation or intelligent design. One might as well believe that invisible flying space monkeys built the earth.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:53"
+    },
+    {
+      "nodeID": "142930",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:56:53"
+    },
+    {
+      "nodeID": "142931",
+      "text": "It is very simple. Creationism is not a valid scientific theory. It cannot be, and has never been, demonstrated that Creationism or ID are valid scientific theories. Therefore Creationism and ID should not be taught in science class. Evolution has been shown to be a valid scientific theory through research and experimentation over a century. It should be taught in science classes. That is the only issue. Should any idea, whether or not it is a valid scientific theory, be taught in a science class.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:53"
+    },
+    {
+      "nodeID": "142932",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:56:54"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185504",
+      "fromID": "142923",
+      "toID": "142924",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185505",
+      "fromID": "142924",
+      "toID": "142922",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185506",
+      "fromID": "142926",
+      "toID": "142927",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185507",
+      "fromID": "142927",
+      "toID": "142925",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185508",
+      "fromID": "142929",
+      "toID": "142930",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185509",
+      "fromID": "142930",
+      "toID": "142928",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185510",
+      "fromID": "142931",
+      "toID": "142932",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185511",
+      "fromID": "142932",
+      "toID": "142923",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

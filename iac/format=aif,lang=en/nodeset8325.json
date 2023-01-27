@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "155733",
+      "text": "I would be willing to debate anyone on the topic of whether homosexuals should be allowed to marry. I will take the position that they should not.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:30"
+    },
+    {
+      "nodeID": "155734",
+      "text": "if you can find an impartial judge, i'll take you up.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:30"
+    },
+    {
+      "nodeID": "155735",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:30"
+    },
+    {
+      "nodeID": "155736",
+      "text": "This is pretty random - but I'd be willing to be the judge. I've had a reasonable amount of experience with debates and I feel I could be a judge objectively. Up to you. ;)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:30"
+    },
+    {
+      "nodeID": "155737",
+      "text": "If you don't mind, could you just outline your paradigm please? and also, when you say you have experience, do you mean in 'real' debating (HS and College) or just on this and other sites?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:30"
+    },
+    {
+      "nodeID": "155738",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:30"
+    },
+    {
+      "nodeID": "155739",
+      "text": "and also, when you say you have experience, do you mean in 'real' debating (HS and College) or just on this and other sites?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:30"
+    },
+    {
+      "nodeID": "155740",
+      "text": "We often have debates in our Sixth Form (College), but I have also attended several 'debate camps' - each a weekend long. I also attended a day at oxford which was made up of a few formal debates and just a bit of teaching on Philosophy and Classics. Apart from that - I have been on debate forums for quite some time, and I've gained experience from there too.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:30"
+    },
+    {
+      "nodeID": "155741",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:24:31"
+    },
+    {
+      "nodeID": "155742",
+      "text": "If you don't mind, could you just outline your paradigm please?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:31"
+    },
+    {
+      "nodeID": "155743",
+      "text": "Sure. This is the 'norm' that we have. But really, these rules are open to change by either of you. You should decide how you want to be 'judged'.  Since this is a formal debate - one should stay clear of all the classical logical fallacies. They actually contain the majority of rules and guidelines for a successful argument. A decent list of them is compiled here: http://www.infidels.org/news/atheism/logic.html Using proper English and capitalization is just another novelty of formal debate. Although I personally think that it strengthens one's argument - I'm quite sure that the content speaks for itself.  Insults and personal attacks should have no place in debate. It is always possible to separate one from their argument. Attack the argument and not the person. Again - that is just one of the logical fallacies. As for advice and other guidelines of a strong argument, I strongly suggest this website: http://www.kings.edu/debate/Judges/NDT2000/S/Sternhagen.html It gives general tips and the like for debates. Also, regarding length. Length of posts is often required and over-simplifying can be a great error. The other extreme - over-complicating will not add much to debate.  Once the debate is over (you decide how many posts each) then I could, if you want, outline a winner and provide my reasons for thinking so.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:31"
+    },
+    {
+      "nodeID": "155744",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:31"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194538",
+      "fromID": "155734",
+      "toID": "155735",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194539",
+      "fromID": "155735",
+      "toID": "155733",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194540",
+      "fromID": "155737",
+      "toID": "155738",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194541",
+      "fromID": "155738",
+      "toID": "155736",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194542",
+      "fromID": "155740",
+      "toID": "155741",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194543",
+      "fromID": "155741",
+      "toID": "155739",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194544",
+      "fromID": "155743",
+      "toID": "155744",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194545",
+      "fromID": "155744",
+      "toID": "155742",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "159392",
+      "text": "no, just overturn roe vs wade.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:47"
+    },
+    {
+      "nodeID": "159393",
+      "text": "And then you can go pat yourself on the back and pretend it's all better. I hope your personal comfort level will be worth the havoc that will be brought upon the lives of women.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:47"
+    },
+    {
+      "nodeID": "159394",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:32:47"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "197144",
+      "fromID": "159393",
+      "toID": "159394",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197145",
+      "fromID": "159394",
+      "toID": "159392",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

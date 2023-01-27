@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "161603",
+      "text": "Howard, I'm not sure I understood your first question above. Are you saying that my position is non-christian?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:56"
+    },
+    {
+      "nodeID": "161604",
+      "text": "You cannot point to one word Jesus spoke that gave any person the right to interfere with the female reproductive process which God, in his infinite wisdom, placed within the female body. Any position that encourages that is fine as a US Citizen, but it is not Christian.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:56"
+    },
+    {
+      "nodeID": "161605",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:37:56"
+    },
+    {
+      "nodeID": "161606",
+      "text": "I do ask you to question the belief because of the makeup of the female in God's scheme of things and undue burden legislation would put on a woman. I think that Alan Simpson, Conservative Republican of Wyoming said it best when he said, 'Not only shouldn't men have a vote on the issue, they should keep their mouths shut.'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:56"
+    },
+    {
+      "nodeID": "161607",
+      "text": "Just because a woman is made to bear children doesn't mean she has some God given right to abort her child. I don't think you can support this view with God's word. -theo",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:56"
+    },
+    {
+      "nodeID": "161608",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:37:57"
+    },
+    {
+      "nodeID": "161609",
+      "text": "What did Jesus have to say about the issue of abortion?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:57"
+    },
+    {
+      "nodeID": "161610",
+      "text": "Well I don't believe Jesus said anything directly about abortion but I'm pretty sure that Jesus would not support abortion since it is murder. To further support my point on this as proving that the child developing inside the mother is not part of the mother but an individual life please click here to read a very important article discussing this issue. -theo",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:57"
+    },
+    {
+      "nodeID": "161611",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:37:57"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198724",
+      "fromID": "161604",
+      "toID": "161605",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198725",
+      "fromID": "161605",
+      "toID": "161603",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198726",
+      "fromID": "161607",
+      "toID": "161608",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198727",
+      "fromID": "161608",
+      "toID": "161606",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198728",
+      "fromID": "161610",
+      "toID": "161611",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198729",
+      "fromID": "161611",
+      "toID": "161609",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

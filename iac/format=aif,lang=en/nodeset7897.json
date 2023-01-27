@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "149329",
+      "text": "Bill lets public use lethal force on intruders | Irish Examiner  Finally some common sense is coming to Ireland. Now the criminals are going to be behind the 8 ball rather than the homeowners. The Irish will soon have the ability to beat a home invader into unconsciousness with a bat, hunk of pipe or any other implement, if they catch them in the process of stealing their TV. And the burglar won't be able to do a damn thing about it. That's how civilized society is supposed to work. The Castle Doctrine is spreading out from America to other nations, and it's about damn time.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:36"
+    },
+    {
+      "nodeID": "149330",
+      "text": "You think someone deserves to be beaten into unconsciousness with a bat for trying to steal a TV?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:36"
+    },
+    {
+      "nodeID": "149331",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:10:36"
+    },
+    {
+      "nodeID": "149332",
+      "text": "'Even the sight of guns, which people think of as objects that can hurt others, can induce aggressive ideas.' -Leonard Berkowitz",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:36"
+    },
+    {
+      "nodeID": "149333",
+      "text": "So you see a cop on the streets, you see he's armed, that's enough to induce aggression and violence, possibly cause you to hurt others, simply because you saw that somebody else was armed?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:36"
+    },
+    {
+      "nodeID": "149334",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:10:36"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "190014",
+      "fromID": "149330",
+      "toID": "149331",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190015",
+      "fromID": "149331",
+      "toID": "149329",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190016",
+      "fromID": "149333",
+      "toID": "149334",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190017",
+      "fromID": "149334",
+      "toID": "149332",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

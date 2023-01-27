@@ -1,0 +1,676 @@
+{
+  "nodes": [
+    {
+      "nodeID": "253258",
+      "text": "it seems like this election has been a whole lot about a person who's very high in the polls",
+      "type": "I",
+      "timestamp": "2016-12-21 17:51:09"
+    },
+    {
+      "nodeID": "253259",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:51:09",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "253260",
+      "text": "HUCKABEE : It seems like this election has been a whole lot about a person who's very high in the polls",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:09"
+    },
+    {
+      "nodeID": "253261",
+      "text": "M: HUCKABEE : It seems like this election has been a whole lot about a person who's very high in the polls",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:09"
+    },
+    {
+      "nodeID": "253262",
+      "text": "HUCKABEE : that doesn't have a clue about how to govern",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:09"
+    },
+    {
+      "nodeID": "253263",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:51:09",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253264",
+      "text": "it seems like this election has been a whole lot about a person that doesn't have a clue about how to govern",
+      "type": "I",
+      "timestamp": "2016-12-21 17:51:09"
+    },
+    {
+      "nodeID": "253265",
+      "text": "M: HUCKABEE : that doesn't have a clue about how to govern",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:09"
+    },
+    {
+      "nodeID": "253266",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:51:10",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253267",
+      "text": "HUCKABEE : A person who has been filled with scandals",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:10"
+    },
+    {
+      "nodeID": "253268",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:51:10",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253269",
+      "text": "it seems like this election has been a whole lot about a person who has been filled with scandals",
+      "type": "I",
+      "timestamp": "2016-12-21 17:51:10"
+    },
+    {
+      "nodeID": "253270",
+      "text": "M: HUCKABEE : A person who has been filled with scandals",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:10"
+    },
+    {
+      "nodeID": "253271",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:51:10",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253272",
+      "text": "HUCKABEE : who could not lead",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:10"
+    },
+    {
+      "nodeID": "253273",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:51:10",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253274",
+      "text": "it seems like this election has been a whole lot about a person who could not lead",
+      "type": "I",
+      "timestamp": "2016-12-21 17:51:10"
+    },
+    {
+      "nodeID": "253275",
+      "text": "M: HUCKABEE : who could not lead",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:11"
+    },
+    {
+      "nodeID": "253276",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:51:11",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253277",
+      "text": "HUCKABEE : of course, I'm talking about Hillary Clinton",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:11"
+    },
+    {
+      "nodeID": "253278",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:51:11",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253279",
+      "text": "HUCKABEE is talking about Hillary Clinton",
+      "type": "I",
+      "timestamp": "2016-12-21 17:51:11"
+    },
+    {
+      "nodeID": "253280",
+      "text": "M: HUCKABEE : of course, I'm talking about Hillary Clinton",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:11"
+    },
+    {
+      "nodeID": "253281",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:51:11",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253282",
+      "text": "M: HUCKABEE : I think America...\r \r UNKNOWN: Thank you.\r \r HUCKABEE: ...is in trouble",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:11"
+    },
+    {
+      "nodeID": "253283",
+      "text": "HUCKABEE : America is in trouble",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:11"
+    },
+    {
+      "nodeID": "253284",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:51:12",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253285",
+      "text": "America is in trouble",
+      "type": "I",
+      "timestamp": "2016-12-21 17:51:12"
+    },
+    {
+      "nodeID": "253286",
+      "text": "M: HUCKABEE : America...\r \r UNKNOWN: Thank you.\r \r HUCKABEE: ...is in trouble",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:12"
+    },
+    {
+      "nodeID": "253287",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:51:12",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253288",
+      "text": "HUCKABEE : it's not beyond repair",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:12"
+    },
+    {
+      "nodeID": "253289",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:51:12",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253290",
+      "text": "America is not beyond repair",
+      "type": "I",
+      "timestamp": "2016-12-21 17:51:12"
+    },
+    {
+      "nodeID": "253291",
+      "text": "M: HUCKABEE : it's not beyond repair",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:12"
+    },
+    {
+      "nodeID": "253292",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:51:12",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253293",
+      "text": "HUCKABEE : it's going to take leadership who sees the greatness of this country",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:13"
+    },
+    {
+      "nodeID": "253294",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:51:13",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253295",
+      "text": "it's going to take leadership who sees the greatness of this country",
+      "type": "I",
+      "timestamp": "2016-12-21 17:51:13"
+    },
+    {
+      "nodeID": "253296",
+      "text": "M: HUCKABEE : it's going to take leadership who sees the greatness of this country",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:13"
+    },
+    {
+      "nodeID": "253297",
+      "text": "I'll be my best to do that, and thank",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:13"
+    },
+    {
+      "nodeID": "253298",
+      "text": "ho believes that once again we can be one nation, under God",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:13"
+    },
+    {
+      "nodeID": "253299",
+      "text": "HUCKABEE : who believes that once again we can be one nation, under God",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:13"
+    },
+    {
+      "nodeID": "253300",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:51:13",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253301",
+      "text": "it's going to take leadership who believes that once again Americans can be one nation, under God",
+      "type": "I",
+      "timestamp": "2016-12-21 17:51:13"
+    },
+    {
+      "nodeID": "253302",
+      "text": "M: HUCKABEE : who believes that once again we can be one nation, under God",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:14"
+    },
+    {
+      "nodeID": "253303",
+      "text": "HUCKABEE : I'll be my best to do that",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:14"
+    },
+    {
+      "nodeID": "253304",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:51:14",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253305",
+      "text": "HUCKABEE will be his best to do that",
+      "type": "I",
+      "timestamp": "2016-12-21 17:51:14"
+    },
+    {
+      "nodeID": "253306",
+      "text": "M: HUCKABEE : I'll be my best to do that",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:14"
+    },
+    {
+      "nodeID": "253307",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:51:14",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "253308",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:51:14",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253309",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:51:14",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "253310",
+      "text": "HUCKABEE : thank you for your support",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:15"
+    },
+    {
+      "nodeID": "253311",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:51:15",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253312",
+      "text": "thank you for your support",
+      "type": "I",
+      "timestamp": "2016-12-21 17:51:15"
+    },
+    {
+      "nodeID": "253313",
+      "text": "M: HUCKABEE : thank you for your support",
+      "type": "L",
+      "timestamp": "2016-12-21 17:51:15"
+    },
+    {
+      "nodeID": "253314",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:51:15",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "304661",
+      "fromID": "253259",
+      "toID": "253258",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304662",
+      "fromID": "253260",
+      "toID": "253259",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304663",
+      "fromID": "253263",
+      "toID": "253264",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304664",
+      "fromID": "253262",
+      "toID": "253263",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304665",
+      "fromID": "253260",
+      "toID": "253266",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304666",
+      "fromID": "253266",
+      "toID": "253262",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304667",
+      "fromID": "253268",
+      "toID": "253269",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304668",
+      "fromID": "253267",
+      "toID": "253268",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304669",
+      "fromID": "253262",
+      "toID": "253271",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304670",
+      "fromID": "253271",
+      "toID": "253267",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304671",
+      "fromID": "253273",
+      "toID": "253274",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304672",
+      "fromID": "253272",
+      "toID": "253273",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304673",
+      "fromID": "253267",
+      "toID": "253276",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304674",
+      "fromID": "253276",
+      "toID": "253272",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304675",
+      "fromID": "253278",
+      "toID": "253279",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304676",
+      "fromID": "253277",
+      "toID": "253278",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304677",
+      "fromID": "253272",
+      "toID": "253281",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304678",
+      "fromID": "253281",
+      "toID": "253277",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304679",
+      "fromID": "253284",
+      "toID": "253285",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304680",
+      "fromID": "253283",
+      "toID": "253284",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304681",
+      "fromID": "253277",
+      "toID": "253287",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304682",
+      "fromID": "253287",
+      "toID": "253283",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304683",
+      "fromID": "253289",
+      "toID": "253290",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304684",
+      "fromID": "253288",
+      "toID": "253289",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304685",
+      "fromID": "253283",
+      "toID": "253292",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304686",
+      "fromID": "253292",
+      "toID": "253288",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304687",
+      "fromID": "253294",
+      "toID": "253295",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304688",
+      "fromID": "253293",
+      "toID": "253294",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304689",
+      "fromID": "253300",
+      "toID": "253301",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304690",
+      "fromID": "253299",
+      "toID": "253300",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304691",
+      "fromID": "253304",
+      "toID": "253305",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304692",
+      "fromID": "253303",
+      "toID": "253304",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304693",
+      "fromID": "253290",
+      "toID": "253307",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304694",
+      "fromID": "253307",
+      "toID": "253305",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304695",
+      "fromID": "253295",
+      "toID": "253307",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304696",
+      "fromID": "253301",
+      "toID": "253307",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304697",
+      "fromID": "253299",
+      "toID": "253308",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304698",
+      "fromID": "253308",
+      "toID": "253303",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304699",
+      "fromID": "253308",
+      "toID": "253309",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304700",
+      "fromID": "253309",
+      "toID": "253307",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304701",
+      "fromID": "253293",
+      "toID": "253308",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304702",
+      "fromID": "253288",
+      "toID": "253308",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304703",
+      "fromID": "253311",
+      "toID": "253312",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304704",
+      "fromID": "253310",
+      "toID": "253311",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304705",
+      "fromID": "253303",
+      "toID": "253314",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304706",
+      "fromID": "253314",
+      "toID": "253310",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "253260",
+      "personID": "2495",
+      "timestamp": "2016-12-21 17:51:18",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

@@ -1,0 +1,789 @@
+{
+  "nodes": [
+    {
+      "nodeID": "185093",
+      "text": "[deleted] : They're treating the Democrats so much worse than the Republicans",
+      "type": "L",
+      "timestamp": "2016-07-28 11:04:46"
+    },
+    {
+      "nodeID": "185094",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-07-28 11:04:46",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "185095",
+      "text": "They're treating the Democrats so much worse than the Republicans",
+      "type": "I",
+      "timestamp": "2016-07-28 11:04:46"
+    },
+    {
+      "nodeID": "185096",
+      "text": "Barbara: [deleted] : They're treating the Democrats so much worse than the Republicans",
+      "type": "L",
+      "timestamp": "2016-07-28 11:04:46"
+    },
+    {
+      "nodeID": "185097",
+      "text": "Rosebunse : Harder questions",
+      "type": "L",
+      "timestamp": "2016-07-28 11:04:46"
+    },
+    {
+      "nodeID": "185098",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-07-28 11:04:46",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "185099",
+      "text": "the questions for Democrats are harder than for Republicans",
+      "type": "I",
+      "timestamp": "2016-07-28 11:04:46"
+    },
+    {
+      "nodeID": "185100",
+      "text": "Barbara: Rosebunse : Harder questions",
+      "type": "L",
+      "timestamp": "2016-07-28 11:04:46"
+    },
+    {
+      "nodeID": "185101",
+      "text": "Rosebunse : the Democratic candidates are real candidates, not just showboaters who have no idea what they're doing",
+      "type": "L",
+      "timestamp": "2016-07-28 11:04:46"
+    },
+    {
+      "nodeID": "185102",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-07-28 11:04:46",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "185103",
+      "text": "the Democratic candidates are real candidates, not just showboaters who have no idea what they're doing",
+      "type": "I",
+      "timestamp": "2016-07-28 11:04:47"
+    },
+    {
+      "nodeID": "185104",
+      "text": "Barbara: Rosebunse : the Democratic candidates are real candidates, not just showboaters who have no idea what they're doing",
+      "type": "L",
+      "timestamp": "2016-07-28 11:04:47"
+    },
+    {
+      "nodeID": "185105",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-07-28 11:04:47",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "185106",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-07-28 11:04:47",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "185107",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-07-28 11:04:47",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "185108",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-07-28 11:04:47",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "185109",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-07-28 11:04:47",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "185110",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2016-07-28 11:04:47",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "185111",
+      "text": "jtyndalld : Ehhh not so much",
+      "type": "L",
+      "timestamp": "2016-07-28 11:04:47"
+    },
+    {
+      "nodeID": "185112",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-07-28 11:04:47",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "185113",
+      "text": "not so much",
+      "type": "I",
+      "timestamp": "2016-07-28 11:04:47"
+    },
+    {
+      "nodeID": "185114",
+      "text": "Barbara: jtyndalld : Ehhh not so much",
+      "type": "L",
+      "timestamp": "2016-07-28 11:04:47"
+    },
+    {
+      "nodeID": "185115",
+      "text": "jtyndalld : They're just not having a he-said-she-said",
+      "type": "L",
+      "timestamp": "2016-07-28 11:04:48"
+    },
+    {
+      "nodeID": "185116",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-07-28 11:04:48",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "185117",
+      "text": "they're just not having a he-said-she-said",
+      "type": "I",
+      "timestamp": "2016-07-28 11:04:48"
+    },
+    {
+      "nodeID": "185118",
+      "text": "Barbara: jtyndalld : They're just not having a he-said-she-said",
+      "type": "L",
+      "timestamp": "2016-07-28 11:04:48"
+    },
+    {
+      "nodeID": "185119",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-07-28 11:04:48",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "185120",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-07-28 11:04:48",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "185121",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-07-28 11:04:48",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "185122",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-07-28 11:04:48",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "185123",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-07-28 11:04:48",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "185124",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-07-28 11:04:48",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "185125",
+      "text": "yesprobably : the democracts so far have just been spewing shit",
+      "type": "L",
+      "timestamp": "2016-07-28 11:04:48"
+    },
+    {
+      "nodeID": "185126",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-07-28 11:04:48",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "185127",
+      "text": "the democracts so far have just been spewing shit",
+      "type": "I",
+      "timestamp": "2016-07-28 11:04:49"
+    },
+    {
+      "nodeID": "185128",
+      "text": "Barbara: yesprobably : the democracts so far have just been spewing shit",
+      "type": "L",
+      "timestamp": "2016-07-28 11:04:49"
+    },
+    {
+      "nodeID": "185129",
+      "text": "yesprobably : honestly we started with clinton",
+      "type": "L",
+      "timestamp": "2016-07-28 11:04:49"
+    },
+    {
+      "nodeID": "185130",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-07-28 11:04:49",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "185131",
+      "text": "we started with clinton",
+      "type": "I",
+      "timestamp": "2016-07-28 11:04:49"
+    },
+    {
+      "nodeID": "185132",
+      "text": "Barbara: yesprobably : honestly we started with clinton",
+      "type": "L",
+      "timestamp": "2016-07-28 11:04:49"
+    },
+    {
+      "nodeID": "185133",
+      "text": "yesprobably : it wasn't going to get off to a good start however you slice it",
+      "type": "L",
+      "timestamp": "2016-07-28 11:04:49"
+    },
+    {
+      "nodeID": "185134",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-07-28 11:04:49",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "185135",
+      "text": "it wasn't going to get off to a good start however you slice it",
+      "type": "I",
+      "timestamp": "2016-07-28 11:04:49"
+    },
+    {
+      "nodeID": "185136",
+      "text": "Barbara: yesprobably : it wasn't going to get off to a good start however you slice it",
+      "type": "L",
+      "timestamp": "2016-07-28 11:04:49"
+    },
+    {
+      "nodeID": "185137",
+      "text": "IEatALotOfPoop : such victims",
+      "type": "L",
+      "timestamp": "2016-07-28 11:04:49"
+    },
+    {
+      "nodeID": "185138",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-07-28 11:04:50",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "185139",
+      "text": "such victims",
+      "type": "I",
+      "timestamp": "2016-07-28 11:04:50"
+    },
+    {
+      "nodeID": "185140",
+      "text": "Barbara: IEatALotOfPoop : such victims",
+      "type": "L",
+      "timestamp": "2016-07-28 11:04:50"
+    },
+    {
+      "nodeID": "185141",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-07-28 11:04:50",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "185142",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-07-28 11:04:50",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "185143",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-07-28 11:04:50",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "185144",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-07-28 11:04:50",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "185145",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-07-28 11:04:50",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "185146",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-07-28 11:04:50",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "185147",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-07-28 11:04:50",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "185148",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-07-28 11:04:51",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "185149",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-07-28 11:04:51",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "185150",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-07-28 11:04:51",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "226604",
+      "fromID": "185094",
+      "toID": "185095",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226605",
+      "fromID": "185093",
+      "toID": "185094",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226606",
+      "fromID": "185098",
+      "toID": "185099",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226607",
+      "fromID": "185097",
+      "toID": "185098",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226608",
+      "fromID": "185102",
+      "toID": "185103",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226609",
+      "fromID": "185101",
+      "toID": "185102",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226610",
+      "fromID": "185103",
+      "toID": "185105",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226611",
+      "fromID": "185105",
+      "toID": "185099",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226612",
+      "fromID": "185097",
+      "toID": "185106",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226613",
+      "fromID": "185106",
+      "toID": "185101",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226614",
+      "fromID": "185106",
+      "toID": "185107",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226615",
+      "fromID": "185107",
+      "toID": "185105",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226616",
+      "fromID": "185093",
+      "toID": "185108",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226617",
+      "fromID": "185108",
+      "toID": "185097",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226618",
+      "fromID": "185099",
+      "toID": "185109",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226619",
+      "fromID": "185109",
+      "toID": "185095",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226620",
+      "fromID": "185108",
+      "toID": "185110",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226621",
+      "fromID": "185110",
+      "toID": "185109",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226622",
+      "fromID": "185112",
+      "toID": "185113",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226623",
+      "fromID": "185111",
+      "toID": "185112",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226624",
+      "fromID": "185116",
+      "toID": "185117",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226625",
+      "fromID": "185115",
+      "toID": "185116",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226626",
+      "fromID": "185113",
+      "toID": "185119",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226627",
+      "fromID": "185119",
+      "toID": "185095",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226628",
+      "fromID": "185093",
+      "toID": "185120",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226629",
+      "fromID": "185120",
+      "toID": "185111",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226630",
+      "fromID": "185120",
+      "toID": "185121",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226631",
+      "fromID": "185121",
+      "toID": "185119",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226632",
+      "fromID": "185111",
+      "toID": "185122",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226633",
+      "fromID": "185122",
+      "toID": "185115",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226634",
+      "fromID": "185117",
+      "toID": "185123",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226635",
+      "fromID": "185123",
+      "toID": "185113",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226636",
+      "fromID": "185122",
+      "toID": "185124",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226637",
+      "fromID": "185124",
+      "toID": "185123",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226638",
+      "fromID": "185126",
+      "toID": "185127",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226639",
+      "fromID": "185125",
+      "toID": "185126",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226640",
+      "fromID": "185130",
+      "toID": "185131",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226641",
+      "fromID": "185129",
+      "toID": "185130",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226642",
+      "fromID": "185134",
+      "toID": "185135",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226643",
+      "fromID": "185133",
+      "toID": "185134",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226644",
+      "fromID": "185138",
+      "toID": "185139",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226645",
+      "fromID": "185137",
+      "toID": "185138",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226646",
+      "fromID": "185131",
+      "toID": "185141",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226647",
+      "fromID": "185141",
+      "toID": "185135",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226648",
+      "fromID": "185129",
+      "toID": "185142",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226649",
+      "fromID": "185142",
+      "toID": "185133",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226650",
+      "fromID": "185142",
+      "toID": "185143",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226651",
+      "fromID": "185143",
+      "toID": "185141",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226652",
+      "fromID": "185135",
+      "toID": "185144",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226653",
+      "fromID": "185144",
+      "toID": "185127",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226654",
+      "fromID": "185125",
+      "toID": "185145",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226655",
+      "fromID": "185145",
+      "toID": "185133",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226656",
+      "fromID": "185145",
+      "toID": "185146",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226657",
+      "fromID": "185146",
+      "toID": "185144",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226658",
+      "fromID": "185127",
+      "toID": "185147",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226659",
+      "fromID": "185147",
+      "toID": "185095",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226660",
+      "fromID": "185093",
+      "toID": "185148",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226661",
+      "fromID": "185148",
+      "toID": "185125",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226662",
+      "fromID": "185148",
+      "toID": "185149",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226663",
+      "fromID": "185149",
+      "toID": "185147",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226664",
+      "fromID": "185093",
+      "toID": "185150",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "226665",
+      "fromID": "185150",
+      "toID": "185137",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

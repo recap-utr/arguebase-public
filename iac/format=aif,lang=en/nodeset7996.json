@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151057",
+      "text": "Depends if you belong to the rich and the famous club.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:58"
+    },
+    {
+      "nodeID": "151058",
+      "text": "Because it's unfair that us little people can also own guns.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:58"
+    },
+    {
+      "nodeID": "151059",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:13:59"
+    },
+    {
+      "nodeID": "151060",
+      "text": "I pretend I'm rich and famous that way being surrounded by firepower don't bother me as much and I feel better about it.;)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:59"
+    },
+    {
+      "nodeID": "151061",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:13:59"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191232",
+      "fromID": "151058",
+      "toID": "151059",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191233",
+      "fromID": "151059",
+      "toID": "151057",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191234",
+      "fromID": "151060",
+      "toID": "151061",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191235",
+      "fromID": "151061",
+      "toID": "151058",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

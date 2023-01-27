@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "137170",
+      "text": "See above.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:32"
+    },
+    {
+      "nodeID": "154346",
+      "text": "Why should Alice and Bob not be permitted to kill this chronically ill child?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:25"
+    },
+    {
+      "nodeID": "154347",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:21:26"
+    },
+    {
+      "nodeID": "154348",
+      "text": "For the pro-life community, the issue comes down to the fact that every human being has intrinsic value and worth, and their life is valuable for its own sake",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:26"
+    },
+    {
+      "nodeID": "154349",
+      "text": "Really? 'cuss what I always see with anti-choicers is that they seem to think that the pregnant woman is invisible. This means that all men and all fetuses have a right to life at all times, but women, for some unknown reason, seem to lose that right when they become pregnant. Weird.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:26"
+    },
+    {
+      "nodeID": "154350",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:21:26"
+    },
+    {
+      "nodeID": "154351",
+      "text": "You are so morally bankrupt that you're not even aware that it isn't the baby that created the situation the woman is in",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:26"
+    },
+    {
+      "nodeID": "154352",
+      "text": "And you are so uneducated that you don't even know that the woman's egg sends out a 'signal' which tells the sperm exactly where it is so that the pregnancy can begin. The newest forms of birth control are now working on ways to block that chemical 'signal' - but I guess you couldn't have learned that reading your funny papers emoticon_rolleyes",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:26"
+    },
+    {
+      "nodeID": "154353",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:21:26"
+    },
+    {
+      "nodeID": "154354",
+      "text": "Before this thread is finished I'll be able to quote one of you subconsciously showing that you think the woman is invisible.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:26"
+    },
+    {
+      "nodeID": "154355",
+      "text": "No, you probably won't be able to.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:26"
+    },
+    {
+      "nodeID": "154356",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:21:26"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193550",
+      "fromID": "137170",
+      "toID": "154347",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193551",
+      "fromID": "154347",
+      "toID": "154346",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193552",
+      "fromID": "154349",
+      "toID": "154350",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193553",
+      "fromID": "154350",
+      "toID": "154348",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193554",
+      "fromID": "154352",
+      "toID": "154353",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193555",
+      "fromID": "154353",
+      "toID": "154351",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193556",
+      "fromID": "154355",
+      "toID": "154356",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193557",
+      "fromID": "154356",
+      "toID": "154354",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

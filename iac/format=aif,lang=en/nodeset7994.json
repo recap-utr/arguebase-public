@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151051",
+      "text": "If only McCain were anywhere near his equal, it might be a contest.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:57"
+    },
+    {
+      "nodeID": "151052",
+      "text": "You are a known anti-gun supporter, should we really be surprised at your presidential choice. Funny thing is, you are going to get screwed just like the rest of us if Obama wins. He might try to take our guns away, but your rights that are important to you wont be very far behind.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:57"
+    },
+    {
+      "nodeID": "151053",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:13:57"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191228",
+      "fromID": "151052",
+      "toID": "151053",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191229",
+      "fromID": "151053",
+      "toID": "151051",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

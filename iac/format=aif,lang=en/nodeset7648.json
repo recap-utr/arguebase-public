@@ -1,0 +1,121 @@
+{
+  "nodes": [
+    {
+      "nodeID": "145524",
+      "text": "Sorry, I miss-spoke.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:29"
+    },
+    {
+      "nodeID": "145525",
+      "text": "I see.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:30"
+    },
+    {
+      "nodeID": "145526",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:02:30"
+    },
+    {
+      "nodeID": "145527",
+      "text": "'One of the guns used at Columbine was a Tec-9, a semiautomatic handgun once specifically advertised by its manufacturer as the most popular crime weapon in America. The Tec-9 was banned under President Clinton's semiautomatic weapon order some years ago and is no longer made, but the ones that are still out there can be legally sold.' Gun Shows and Columbine Same for North Hollywood. The weapons were legally bought at a gun show by an acquaintance and transfered to the shooters. The shooters then easily modified several to full-auto.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:30"
+    },
+    {
+      "nodeID": "145528",
+      "text": "So then the law is flawed because criminals could just as easily get their hands on select firearms, ban or no ban. You've just admitted that the bill did nothing and thus there's no justification for it to be reinstated.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:30"
+    },
+    {
+      "nodeID": "145529",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:02:30"
+    },
+    {
+      "nodeID": "145530",
+      "text": "It's like saying 'murder is illegal, but we have all these murders going on, so clearly a ban on murder isn't having any effect'.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:30"
+    },
+    {
+      "nodeID": "145531",
+      "text": "Well you've made a good point; just because something is banned or made illegal doesn't mean that it'll have an affect on reducing the numbers.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:30"
+    },
+    {
+      "nodeID": "145532",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:02:30"
+    },
+    {
+      "nodeID": "145533",
+      "text": "So you think that, if murders were legal, there would still be the same number? How about robberies, or rapes? There are plenty of those, the law can't be having any effect... In short, I'm saying that making anything illegal reduces that thing. Criminalising murder results in less murder, criminalising drugs leads to reduced supply of drugs (compare any drug with nicotine, or alcohol), and criminalising guns would lead to a similar reduction.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:30"
+    },
+    {
+      "nodeID": "145534",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:02:30"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187334",
+      "fromID": "145525",
+      "toID": "145526",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187335",
+      "fromID": "145526",
+      "toID": "145524",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187336",
+      "fromID": "145528",
+      "toID": "145529",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187337",
+      "fromID": "145529",
+      "toID": "145527",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187338",
+      "fromID": "145531",
+      "toID": "145532",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187339",
+      "fromID": "145532",
+      "toID": "145530",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187340",
+      "fromID": "145533",
+      "toID": "145534",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187341",
+      "fromID": "145534",
+      "toID": "145531",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

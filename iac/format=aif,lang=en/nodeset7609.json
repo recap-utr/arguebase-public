@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "144959",
+      "text": "http://news.yahoo.com/s/ap/20070531/ap_on_re_us/civil_unions_2;_ylt=AhS9aHW0pMzSvLNfpmCZaggE1vAI",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:09"
+    },
+    {
+      "nodeID": "144960",
+      "text": "Wonderful News. Nice to see that at least some of the states here in the US have some common sense and are at least heading towards equality for gay couples. Good to hear about Oregon joining in soon.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:09"
+    },
+    {
+      "nodeID": "144961",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:01:09"
+    },
+    {
+      "nodeID": "144962",
+      "text": "I live in NH and I can truly say it is a great place to be!!emoticon_xhoho",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:09"
+    },
+    {
+      "nodeID": "144963",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:01:09"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186938",
+      "fromID": "144960",
+      "toID": "144961",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186939",
+      "fromID": "144961",
+      "toID": "144959",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186940",
+      "fromID": "144962",
+      "toID": "144963",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186941",
+      "fromID": "144963",
+      "toID": "144960",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

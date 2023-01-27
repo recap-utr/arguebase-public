@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "150990",
+      "text": "'We thought that the idea itself was important, that this is a really powerful approach to a very major question,' said Funk, 'but we thought there was no way in the world that we were actually going to get statistically significant results.' The reason for his doubt was the incompleteness and lack of uniformity of ecological data. 'There are all these species out there and so few of them are known in intimate detail, so any kind of ecological characterization - through no fault of ecologists - will be limited in accuracy and precision,' Funk said.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:48"
+    },
+    {
+      "nodeID": "150991",
+      "text": "I think the FSM threw these guys a bone. They cherrypicked which taxa would give them the most statistically significant results. If they were to expand the method to include more and more taxa, they'd see the Noodly Appendage of the Flying Spaghetti Monster. Ramen.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:48"
+    },
+    {
+      "nodeID": "150992",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:13:48"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191186",
+      "fromID": "150991",
+      "toID": "150992",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191187",
+      "fromID": "150992",
+      "toID": "150990",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

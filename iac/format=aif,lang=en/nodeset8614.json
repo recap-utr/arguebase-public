@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "160241",
+      "text": "If Prop. 8 is upheld, then I don't see the point of having a Supreme Court with salaried positions. Any ruling it makes can be changed. People's rights are only as good as their popularity at any given time. All rights are potentially as solid as sand as the tide moves in.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:34:36"
+    },
+    {
+      "nodeID": "160242",
+      "text": "So basically your position is that since the California constitution is too easy to amend that prop 8 should be overturned and a few judges should do this. If this truly is your position (and if not so be it) than basically you have a few people removing the right for the people to amend their constitution. You would basically be asking the judge to make a constitutional provision unconstitutional. That would be remarkably horrific for our government.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:34:36"
+    },
+    {
+      "nodeID": "160243",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:34:36"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "197748",
+      "fromID": "160242",
+      "toID": "160243",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197749",
+      "fromID": "160243",
+      "toID": "160241",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

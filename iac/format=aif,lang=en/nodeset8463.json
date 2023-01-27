@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157761",
+      "text": "Then your argument too is flawed by the same principals of debate.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:06"
+    },
+    {
+      "nodeID": "157762",
+      "text": "Because? The conventional big bang is just as unlikely as God. Therefore your claim is wrong.  However the current believe mainly among physicists and astronomers is that there is no end and there is no beginning to the universe. Expansionary theories along with contractionary theories that are being observed have led many to believe that the current universe was born from the death of the last universe. There is no end and there is no beginning. You are out of your league.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:06"
+    },
+    {
+      "nodeID": "157763",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:29:06"
+    },
+    {
+      "nodeID": "157764",
+      "text": "Is there evidence of uncaused events? I thought at issue was simply the impossibility of determing precise data.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:06"
+    },
+    {
+      "nodeID": "157765",
+      "text": "I am hardly a phyicist, but I am under the impression that there is at least some people who feel there is reason that there are 'uncaused causes'. I think that the terms used are 'Vacuum flucuations', and 'virtual particles'. I am not aware of any peer reviewed articles on it , but a popular press book is 'Achilles in the quantum world' by Richard Morris.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:06"
+    },
+    {
+      "nodeID": "157766",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:29:06"
+    },
+    {
+      "nodeID": "157767",
+      "text": "the problem then is, how could the universe begin in the midst of absolutely nothing (no time, no matter, no space, no energy)? what could possibly trigger the universe's beginning? (and then of course, where did these triggering events come from?) you will end up at negative infinity at some point",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:06"
+    },
+    {
+      "nodeID": "157768",
+      "text": "I think the currently popular belief is that time itself is limited. Space, time, energy, matter and laws all came into existence together. Of course that's impossible for us to envisage....",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:06"
+    },
+    {
+      "nodeID": "157769",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:29:06"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195964",
+      "fromID": "157762",
+      "toID": "157763",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195965",
+      "fromID": "157763",
+      "toID": "157761",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195966",
+      "fromID": "157765",
+      "toID": "157766",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195967",
+      "fromID": "157766",
+      "toID": "157764",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195968",
+      "fromID": "157768",
+      "toID": "157769",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195969",
+      "fromID": "157769",
+      "toID": "157767",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

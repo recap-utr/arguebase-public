@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "162051",
+      "text": "[B]Reading comprehension not among your skill sets eh simone?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:03"
+    },
+    {
+      "nodeID": "162052",
+      "text": "You mean yours. Make up your mind as to whether or not there's a problem and what it is. State for the board.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:03"
+    },
+    {
+      "nodeID": "162053",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:39:03"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "199042",
+      "fromID": "162052",
+      "toID": "162053",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199043",
+      "fromID": "162053",
+      "toID": "162051",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

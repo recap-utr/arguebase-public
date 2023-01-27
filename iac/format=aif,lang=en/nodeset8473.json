@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157831",
+      "text": "I like this concept. It seems to do a good job of explaining how microbes adapt so quickly to antibiotics, for example. Our blood cells multiply fairly quickly, but the genetic makeup does not change from one lymphocyte 'generation' to the next. Yet we know that over our lifetimes they 'learn' to produce new types of defenses against diseases. These adaptations are clearly not genetic, but they are a form of micro-evolution.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:19"
+    },
+    {
+      "nodeID": "157832",
+      "text": "Actually, they are genetic. Our cells have receptors which are triggered by exposure to pathogens; that's how we 'learn' to fight off a disease. And not everyone has the same receptors, which ones you posses is a genetic trait. It's one of the reasons that Native Americans were so vulnerable to European diseases, they hadn't evolved the receptors that would have enabled them to build up defences against the diseases the Europeans had lived with for generations. If your hypothesis was correct we wouldn't see different populations having different reactions to the same disease.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:19"
+    },
+    {
+      "nodeID": "157833",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:29:19"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196012",
+      "fromID": "157832",
+      "toID": "157833",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196013",
+      "fromID": "157833",
+      "toID": "157831",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

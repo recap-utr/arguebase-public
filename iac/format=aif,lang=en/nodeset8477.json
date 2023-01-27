@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157905",
+      "text": "The Chicago Tribune says:  The end of the Chicago handgun ban",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:28"
+    },
+    {
+      "nodeID": "157906",
+      "text": "Oh my, where are these rights going to end? Gun Groups File Lawsuit To Validate Montana Firearms Freedom Act Seems like kalifornia might be in line pretty soon :)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:28"
+    },
+    {
+      "nodeID": "157907",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:29:28"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196068",
+      "fromID": "157906",
+      "toID": "157907",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196069",
+      "fromID": "157907",
+      "toID": "157905",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

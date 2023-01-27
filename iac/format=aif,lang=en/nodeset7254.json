@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139812",
+      "text": "electrolyte has a point. If the butterfly had changed into another creature then it would have been somethin worth noting. The butterfly stayed as a butterfly. It's just like a Mexican and an American Indian having a child. It would have a different skin color and facial features and stuff like that, but it would still be a human.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:08"
+    },
+    {
+      "nodeID": "139813",
+      "text": "But, it is a new TYPE of butterfly.  It would be more like if a bonobo and a human had a child. That is theorotically possible...",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:08"
+    },
+    {
+      "nodeID": "139814",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:08"
+    },
+    {
+      "nodeID": "139815",
+      "text": "But Mexicans and Native Americans are the same species, so it's not just like that. This butterfly is a species different than either parent. One reason that that particular creationist objection has no merit is because the butterflies are significantly biologically different (i.e. different species). The fact that we call each species a type of butterfly has only to do with our taxonomic system. If we were to somehow have fossils representing the complete record of the water-to-land transition, one would be forced to pick a point at which a fish became a land animal. Just because one finds this a difficult task to accomplish doesn't mean that there was no transition. Likewise, this applies to any line of ancestry. As an example, look at creationists' response to Archaeopteryx. Many insisted that it is a bird. Others insisted that it is a reptile. A few have originally called it a bird, then decided that it must be a reptile. The fact that people have trouble fitting an organism into our previously-learned concepts of classifications is a sign that species have changed significantly.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:08"
+    },
+    {
+      "nodeID": "139816",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:08"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183282",
+      "fromID": "139813",
+      "toID": "139814",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183283",
+      "fromID": "139814",
+      "toID": "139812",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183284",
+      "fromID": "139815",
+      "toID": "139816",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183285",
+      "fromID": "139816",
+      "toID": "139812",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

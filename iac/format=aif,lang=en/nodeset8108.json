@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152555",
+      "text": "It's only logical that if chimps had the brains that science can prove on paper, their capability of useful work would be obvious. With their ability to grasp objects, their use in manufacturing / assembly work would be widespread.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:16"
+    },
+    {
+      "nodeID": "152556",
+      "text": "So, evolution is falsified because Ford didn't draft chimps to work the assembly lines? I've never seen such nonsense paraded about with such pride. I'd congratulate you on your win DamEtel, but I'm more impressed with your patience.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:16"
+    },
+    {
+      "nodeID": "152557",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:17:16"
+    },
+    {
+      "nodeID": "152558",
+      "text": "I'd congratulate you on your win DamEtel, but I'm more impressed with your patience.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:16"
+    },
+    {
+      "nodeID": "152559",
+      "text": "Well, I personally agree that I 'spanked' marc9000 (http://www.4forums.com/political/showthread.php?t=6348). But we'll have to leave it to the judges to make the formal decision.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:16"
+    },
+    {
+      "nodeID": "152560",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:17:16"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192288",
+      "fromID": "152556",
+      "toID": "152557",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192289",
+      "fromID": "152557",
+      "toID": "152555",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192290",
+      "fromID": "152559",
+      "toID": "152560",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192291",
+      "fromID": "152560",
+      "toID": "152558",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "160400",
+      "text": "I am a giant sleeping alien that is having strange dream. Earth does not exist at all, its all in my mind. You only think it is silly because I imagine that you do.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:34:56"
+    },
+    {
+      "nodeID": "160401",
+      "text": "but you too are a figment of my imagination, and you only think you are a giant alien dreaming about this world because i imagined you as such. you cannot disprove this either.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:34:56"
+    },
+    {
+      "nodeID": "160402",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:34:57"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "197860",
+      "fromID": "160401",
+      "toID": "160402",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197861",
+      "fromID": "160402",
+      "toID": "160400",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148092",
+      "text": "'To announce that there must be no criticism of the president, or that we are to stand by the president, right or wrong, is not only unpatriotic and servile, but is morally treasonable to the American public.' - Theodore Roosevelt",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:46"
+    },
+    {
+      "nodeID": "148093",
+      "text": "I see that you have adopted my signature line (slightly misquoted). I will yield to you and remove mine today. We must agree that Teddy was a great Liberal President. Dono",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:46"
+    },
+    {
+      "nodeID": "148094",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:46"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189142",
+      "fromID": "148093",
+      "toID": "148094",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189143",
+      "fromID": "148094",
+      "toID": "148092",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

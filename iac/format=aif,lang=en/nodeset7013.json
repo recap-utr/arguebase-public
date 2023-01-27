@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "136505",
+      "text": "You claim that there was a god that created the earth in 6 literal days with a miracle, flooded the earth with a miracle and scattered the people of earth and created new languages with a miracle. Now why do modern obervations of the physical world have to support these miracles? If god made a copy of adam as he was 8 days after creation and placed him in a modern day hospital isn't it plausible doctors would state he was an adult man.  So if you could say a human that is a few days old is a mature adult, Couldn't you also a universe that is a thousands of years old is billions of years old. Just looking at the muscle tissue in adams arm when it was an hour old you would conclude it had grown over a period of many years. How can you rule out the possibility that this is a good analogy for humanities current observations of the universe and conclude that it had grown over millions of years when it was actually only 1000s of years old.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:07"
+    },
+    {
+      "nodeID": "136506",
+      "text": "''No, actually the earth is 150 years old. FACT. And its age never changes. FACT.'' :p -Chris Formage, Grand Theft Auto: San Andreas.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:07"
+    },
+    {
+      "nodeID": "136507",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:43:07"
+    },
+    {
+      "nodeID": "136508",
+      "text": "Why not? My mother has been 39,for the last 39 years.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:07"
+    },
+    {
+      "nodeID": "136509",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:43:08"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "180924",
+      "fromID": "136506",
+      "toID": "136507",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180925",
+      "fromID": "136507",
+      "toID": "136505",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180926",
+      "fromID": "136508",
+      "toID": "136509",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180927",
+      "fromID": "136509",
+      "toID": "136506",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

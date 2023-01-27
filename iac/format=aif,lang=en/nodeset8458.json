@@ -1,0 +1,157 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157569",
+      "text": "The Pope is not biased and never has been.  That doesn't even make any sense.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:46"
+    },
+    {
+      "nodeID": "157570",
+      "text": "I think her point was that the pope is biased because he's catholic.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:46"
+    },
+    {
+      "nodeID": "157571",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:28:46"
+    },
+    {
+      "nodeID": "157572",
+      "text": "Really, I think it he or she is. really, i don't think it is a baby yet. I don't quite get this. The whole point of my post was that researchers did not have any reason to get embryonic stem cells. how do you know? maybe they do, but you're just too close-minded to know. then again, i may be wrong, but.... Perhaps you don't get this. I want stem cell research. i cannot describe how much I want. I do know some people that could really use these stem cells. I just don't want researchers to harvest the cells from our children. Not only is it a sick and perverted way of medicene and science, but it doesn't work. Embryonic stem cell research does not work. We haven't even dared trying to test them on humans yet. When we tested them on mice, the mice grew tumors and died. You see, I want the stem cells to come from our own bodies. the stem cells in our own bodies are called adult stem cells and they really work. In the first post, it states that there have been treatments for over 56 diseases. Embryonic stem cells have done nothing like this. Not to mention the umbilical cord stem cells have worked really well too.  well, since the ubilical cord stems have worked really well, then how come the scientists and doctors are also doing embryonic stem cell research? again, they have their reasons to. they wudn't choose 2 use the embryonic cells if they didn't have to. i'm no science wiz, and a lot of the science stuff that i'm saying might be wrong, but the rest of the stuff are the things that i'm using based off of logic, and my knowledge. common sense, that's wat it's called. I'm not like that. I could list a few hundred people that I know that are not like that.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:46"
+    },
+    {
+      "nodeID": "157573",
+      "text": "oh really? so u wud choose 2 have...say...a close friend or relative who has a disease that wud probably be cured by stem cell research, 2 die from it and choose 2 have a new baby be born, right? well then, wat if it's ur mom or dad?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:46"
+    },
+    {
+      "nodeID": "157574",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:28:46"
+    },
+    {
+      "nodeID": "157575",
+      "text": "I saw a picture of the Pope blessing the register. Now I'm pretty sure that the Pope is smart guy.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:46"
+    },
+    {
+      "nodeID": "157576",
+      "text": "And?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:46"
+    },
+    {
+      "nodeID": "157577",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:28:46"
+    },
+    {
+      "nodeID": "157578",
+      "text": "ok, first of all, the 'baby' isn't really a baby yet.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:46"
+    },
+    {
+      "nodeID": "157579",
+      "text": "Really, I think it he or she is.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:46"
+    },
+    {
+      "nodeID": "157580",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:28:47"
+    },
+    {
+      "nodeID": "157581",
+      "text": "If it was anybody I was choose adult stem cells. My whole point is that adult stem cells work and embryonic cells don't.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:47"
+    },
+    {
+      "nodeID": "157582",
+      "text": "well, then why are the doctors trying 2 also test the embyonic cells? what's their reason then? we don't know, because the doctors might not want everything that they're doing be on the front page of every newspaper. they have their reasons for their actions, and they just don't want people like you to know about them. or...they already have their reasons published and everything and you're just 2 close-minded 2 take the information in.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:47"
+    },
+    {
+      "nodeID": "157583",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:28:47"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195830",
+      "fromID": "157570",
+      "toID": "157571",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195831",
+      "fromID": "157571",
+      "toID": "157569",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195832",
+      "fromID": "157573",
+      "toID": "157574",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195833",
+      "fromID": "157574",
+      "toID": "157572",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195834",
+      "fromID": "157576",
+      "toID": "157577",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195835",
+      "fromID": "157577",
+      "toID": "157575",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195836",
+      "fromID": "157579",
+      "toID": "157580",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195837",
+      "fromID": "157580",
+      "toID": "157578",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195838",
+      "fromID": "157582",
+      "toID": "157583",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195839",
+      "fromID": "157583",
+      "toID": "157581",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,151 @@
+{
+  "nodes": [
+    {
+      "nodeID": "137679",
+      "text": "Many Christians often say that the proofs for Evolution is very doubtful...hmmm... but isn't the 'Word of God' in the bible doubtful, too? I mean, it is just a book that is over 2000 years old. Throughout history there have been many people who tried to manipulate the basics of church. There is no real and definite proof that the words in the bible are the complete truth and that's why there is no real proof for Creationism.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:26"
+    },
+    {
+      "nodeID": "137680",
+      "text": "Just because the bible is over 2000 years old doesn't make it unreliable, I mean your placing all your money on a billion year old one cell organism. You don't have any absolute proof and neither do I.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:26"
+    },
+    {
+      "nodeID": "137681",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:45:27"
+    },
+    {
+      "nodeID": "137682",
+      "text": "What you really mean is - Creationists don't answer the way you'd like them to. The fact is they usually get bored with presenting good evidence, only to have die hard evolutionists refuse to acknowledge the good science behind their claims. That's what seperates evolutionists from real scientists.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:27"
+    },
+    {
+      "nodeID": "137683",
+      "text": "And just what is the number of 'real scientists' that acknowledge the good science behind creationist claims? And why is it that over 99% of the biologists in the U.S. accept evolution and reject classic creationism? You make statements that are patently untrue.......",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:27"
+    },
+    {
+      "nodeID": "137684",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:45:27"
+    },
+    {
+      "nodeID": "137685",
+      "text": "Can we get an unbiased point of view? The bible is not just a book. It is the infallible word of God. And I would like to know what proof there is for evolution?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:27"
+    },
+    {
+      "nodeID": "137686",
+      "text": "Well, a good start would be at http://www.talkorigins.org  And, what evidence do you have that the bible is the infallible word of God? Other , than of course, unsubstantiated claims the bible makes.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:27"
+    },
+    {
+      "nodeID": "137687",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:45:27"
+    },
+    {
+      "nodeID": "137688",
+      "text": "But at least Evolutionist can give physical proofs for their beliefs. It is right that nothing is completely sure and clear, but Evolutionists and Scientists have shown a lot more evidence that shows that Evolution is right, Creationists just can't show enough... (my opinion) And it's right that most stuff Evolutionists are dealing with are millions of years old, but it still all makes more sense than some stuff in the bible... There is no complete proof for any of the theories, but Evolution just gives more evidence... And if Creationists just want some credit for their beliefs and work, they shouldn't want evolution to be deleted vom Education. No one knows what is right but right now the theories of Evolution just shows more evidence and is widely accepted and used...",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:27"
+    },
+    {
+      "nodeID": "137689",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:45:27"
+    },
+    {
+      "nodeID": "137690",
+      "text": "Their beliefs are fanciful. We might as well give credence to Murray the mystical Eeel as having created the earth and the universe. It's unparsimonious. You don't need absolute proof for something to be valid. There is no credible proof for creationism, and evolution is the ONLY other viable, parsimonious explanation.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:27"
+    },
+    {
+      "nodeID": "137691",
+      "text": "Just because you don't hold the same beliefs as we do, does not invalidate our belief. I feel sorry for you if all you have to believe in is a small petri dish of algae. You do need absolute proof if your going claim it as the only possible way of creation.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:27"
+    },
+    {
+      "nodeID": "137692",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:45:27"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181770",
+      "fromID": "137680",
+      "toID": "137681",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181771",
+      "fromID": "137681",
+      "toID": "137679",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181772",
+      "fromID": "137683",
+      "toID": "137684",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181773",
+      "fromID": "137684",
+      "toID": "137682",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181774",
+      "fromID": "137686",
+      "toID": "137687",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181775",
+      "fromID": "137687",
+      "toID": "137685",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181776",
+      "fromID": "137688",
+      "toID": "137689",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181777",
+      "fromID": "137689",
+      "toID": "137680",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181778",
+      "fromID": "137691",
+      "toID": "137692",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181779",
+      "fromID": "137692",
+      "toID": "137690",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

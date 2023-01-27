@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "160640",
+      "text": "If I was a creationist, I'd try to avoid discussing the merits of my belief.  Assume that if not A, therefore B.  Creationism is true because evolution is false!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:40"
+    },
+    {
+      "nodeID": "160641",
+      "text": "Thank the lord you are not a creationist (pardon the pun). The method you referred to above is known as deductive reasoning, and is known to be a very valid way of finding a solution even by most 3rd graders. Also, I look at the Bible as a written record of what actually happened as well as the holy book. Seeing as scientists have believed the journals of young Native Americans from a hundred years ago, I don't see the problem of believing the written journal of hundreds of very wise men and women, including God himself.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:40"
+    },
+    {
+      "nodeID": "160642",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:35:40"
+    },
+    {
+      "nodeID": "160643",
+      "text": "If I was a creationist, I'd try to avoid discussing the merits of my belief. Which is probably why you are not a creationist. But consider it from the point of view of a true believer. First comes the ideology, any discussion of that ideology will by a true believer will FIND justifications after the fact of the belief. SS is a good example of this. As is I suppose WW. Ideologues first arrive at the belief and then find justifications for it. Scientists study data and obeservations and draw conclusions which those data and observations support. The two approaches are entirely separate and opposed to one another. Scientists draw inferences, true believers make declarations of faith.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:40"
+    },
+    {
+      "nodeID": "160644",
+      "text": "** Which is why you darwinists, for all that you parade yourselves as 'scientists', are really nothing but 'true believers', intent upon evangelizing your core ideology, materialist atheism.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:40"
+    },
+    {
+      "nodeID": "160645",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:35:40"
+    },
+    {
+      "nodeID": "160646",
+      "text": "Nope a true believer will insist on his belief system even in the presense of overwheliming contrary evidence. So far you have not managed to produce andy such evidence to the contrary. Should you do so in a rational scientific way which can be verified then Darwinists will throw down the theory and join you in your conclusions with verve. I am not however going to wait for it to happen. Tis up to you.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:40"
+    },
+    {
+      "nodeID": "160647",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:35:40"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198030",
+      "fromID": "160641",
+      "toID": "160642",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198031",
+      "fromID": "160642",
+      "toID": "160640",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198032",
+      "fromID": "160644",
+      "toID": "160645",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198033",
+      "fromID": "160645",
+      "toID": "160643",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198034",
+      "fromID": "160646",
+      "toID": "160647",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198035",
+      "fromID": "160647",
+      "toID": "160644",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

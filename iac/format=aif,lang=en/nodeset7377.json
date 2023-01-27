@@ -1,0 +1,181 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141433",
+      "text": "POLICE are hunting armed bandits who have stolen more than $30,000 worth of guns in targeted home invasions Police fear the guns could be sold on the black market or used to commit further violent crimes.  The chilling ambush attacks on family homes in Trafalgar, on August 19, and Hampton Park, in June, are almost identical, with a crew of five masked men storming both houses in search for guns.  In the Hampton Park attack, a woman and her three teenage children were tied up as their father was made to open a safe containing $25,000 worth of high-powered pistols.  At the Trafalgar home, a woman, eight months pregnant, was pushed to the ground and bound as her husband was forced to retrieve $10,000 worth of guns from a safe and hand them over.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:42"
+    },
+    {
+      "nodeID": "141434",
+      "text": "Melbourne Australia.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:42"
+    },
+    {
+      "nodeID": "141435",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:53:42"
+    },
+    {
+      "nodeID": "141436",
+      "text": "POLICE raids and an undercover operation have netted more than 100 illegal firearms and thousands of rounds of ammunition in a crackdown on an alleged Wollongong-based gun trafficking network. A Heckler and Koch MP5 9mm submachine gun - capable of firing 800 rounds a minute and used by armed forces and police in 40 countries - was also found, police said. Among the guns allegedly bought from the gang was a World War II Bren Light machine gun capable of firing up to 520 rounds a minute. The haul also included bullet proof vests and night vision telescopic sights, it is alleged.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:42"
+    },
+    {
+      "nodeID": "141437",
+      "text": "Same place. Australia. That, after 5 or 6 thousand illegal guns were just handed in during the last in a series of never-ending amnesties.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:42"
+    },
+    {
+      "nodeID": "141438",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:53:42"
+    },
+    {
+      "nodeID": "141439",
+      "text": "Oh they MUST be criminals! After all they are Gun Owners!  Gun Owners = Criminals!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:42"
+    },
+    {
+      "nodeID": "141440",
+      "text": "Just how many gun clubs do you think there are in this area? If a thief plans to steal guns, it is therefore logical for them to choose members of a Gun Club, and follow them home! What do you expect the criminals to do? Go to a anti-gun rally and follow the Antis home?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:42"
+    },
+    {
+      "nodeID": "141441",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:53:42"
+    },
+    {
+      "nodeID": "141442",
+      "text": "Police hunt armed bandits targeting gun stashes in homes  Melbourne Australia.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:42"
+    },
+    {
+      "nodeID": "141443",
+      "text": "So much for lists of registration and 'safe storage'. Same thing happened when Hitler took over a country and got hold of all the lists. They were especially interested in the gun lists and radio lists.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:42"
+    },
+    {
+      "nodeID": "141444",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:53:43"
+    },
+    {
+      "nodeID": "141445",
+      "text": "Same thing happened in Rwanda. First they put the names of all Tutsis on lists. Then, the Hutu came around with machettes and took them off of the lists....permanently. emoticon_wow",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:43"
+    },
+    {
+      "nodeID": "141446",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:53:43"
+    },
+    {
+      "nodeID": "141447",
+      "text": "You would if it's later discovered the registration database was hacked, as it has been in other countries.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:43"
+    },
+    {
+      "nodeID": "141448",
+      "text": "There's a simpler explanation here though.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:43"
+    },
+    {
+      "nodeID": "141449",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:53:43"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184440",
+      "fromID": "141434",
+      "toID": "141435",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184441",
+      "fromID": "141435",
+      "toID": "141433",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184442",
+      "fromID": "141437",
+      "toID": "141438",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184443",
+      "fromID": "141438",
+      "toID": "141436",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184444",
+      "fromID": "141440",
+      "toID": "141441",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184445",
+      "fromID": "141441",
+      "toID": "141439",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184446",
+      "fromID": "141443",
+      "toID": "141444",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184447",
+      "fromID": "141444",
+      "toID": "141442",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184448",
+      "fromID": "141445",
+      "toID": "141446",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184449",
+      "fromID": "141446",
+      "toID": "141443",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184450",
+      "fromID": "141448",
+      "toID": "141449",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184451",
+      "fromID": "141449",
+      "toID": "141447",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

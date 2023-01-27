@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "154258",
+      "text": "Illinois just allowed 167 death row inmates released from death row. Just in case one of them might not be guilty. I say, what about the other 166 that are guilty?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:12"
+    },
+    {
+      "nodeID": "154259",
+      "text": "Just so you know Peach, the 167 death row inmates are now serving life in prison. At least that one who's not guilty might now have a chance to be free.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:12"
+    },
+    {
+      "nodeID": "154260",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:21:13"
+    },
+    {
+      "nodeID": "154261",
+      "text": "Every system has its flaws. Does that mean that we should abolish every system?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:13"
+    },
+    {
+      "nodeID": "154262",
+      "text": "No, we shouldn't abolish every flawed system. However, when the flaw results in putting innocent people to death, it is not worth the risk. In 26 years the death penalty has been in effect in my home state of Illinois, there have been more people exonerated due to irrefutable evidence than have been put to death. I think that constitutes a serious problem.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:13"
+    },
+    {
+      "nodeID": "154263",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:21:13"
+    },
+    {
+      "nodeID": "154264",
+      "text": "After the person's case is thoroughly investigated, and they are guilty, the death penalty should stay",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:13"
+    },
+    {
+      "nodeID": "154265",
+      "text": "But the problem is with determining whether or not a person ACTUALLY is guilty. If we could determine 100% for sure whether or not a person is guilty, I would definitely be pro-death penalty. However, I don't think it is worth the risk to sacrifice one innocent life in order to punish others.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:13"
+    },
+    {
+      "nodeID": "154266",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:21:13"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193488",
+      "fromID": "154259",
+      "toID": "154260",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193489",
+      "fromID": "154260",
+      "toID": "154258",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193490",
+      "fromID": "154262",
+      "toID": "154263",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193491",
+      "fromID": "154263",
+      "toID": "154261",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193492",
+      "fromID": "154265",
+      "toID": "154266",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193493",
+      "fromID": "154266",
+      "toID": "154264",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

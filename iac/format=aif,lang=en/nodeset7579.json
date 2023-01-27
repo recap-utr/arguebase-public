@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "144429",
+      "text": "This has nothing to do with religion whatsoever.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:07"
+    },
+    {
+      "nodeID": "144430",
+      "text": "Well... someone hasn't been following the campaigns for the so-called 'protection of marriage' amendments, federal or state.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:07"
+    },
+    {
+      "nodeID": "144431",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:00:07"
+    },
+    {
+      "nodeID": "144432",
+      "text": "So the argument that this is a breach of separation of church and state is pretty weak, IMO.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:07"
+    },
+    {
+      "nodeID": "144433",
+      "text": "Oh, oh, and don't forget to include the proposed Federal Kosher Amendment's text, which just coincidentally matches the Levitical proscriptions, in your argument that things like the FMA have nothing to do with separation of church and state.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:07"
+    },
+    {
+      "nodeID": "144434",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:00:07"
+    },
+    {
+      "nodeID": "144435",
+      "text": "It's been a long standing standard that if the only motivation for a law, act, etc is religious, then it's a violation of SOCAS. If a proposed law just happens to agree with your religion, or if religion is just one small part of the motivation, then it's not a problem. But if you take out religion and you're left with pretty much nothing, then you've got an issue.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:07"
+    },
+    {
+      "nodeID": "144436",
+      "text": "Well . . . one could make that argument about anything--voting for instance. Amendments are created by voting, and people and legislatures vote (hopefully) their conscience (and the will of their constituents), even if they are religious. I think this is a different matter than, say, displaying religious icons on courtroom walls or grounds, which is a clear endorsement of religion by the government.  The 18th amendment was religion-motivated, but it didn't get rescinded for THAT reason. It got rescinded because it didn't work practically. (and because FDR wanted to see the returns on the economy for his New Deal)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:07"
+    },
+    {
+      "nodeID": "144437",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:00:07"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186560",
+      "fromID": "144430",
+      "toID": "144431",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186561",
+      "fromID": "144431",
+      "toID": "144429",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186562",
+      "fromID": "144433",
+      "toID": "144434",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186563",
+      "fromID": "144434",
+      "toID": "144432",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186564",
+      "fromID": "144436",
+      "toID": "144437",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186565",
+      "fromID": "144437",
+      "toID": "144435",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

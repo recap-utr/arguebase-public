@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148694",
+      "text": "who's job is it to protece ME from crime?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:05"
+    },
+    {
+      "nodeID": "148695",
+      "text": "Well you should protect yourself of course, that is your right (and duty) as a human being, but that's not what the 2nd amendment is for. It's just convenient that the tools that protect you from tyranny can also be used to protect yourself against criminals.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:05"
+    },
+    {
+      "nodeID": "148696",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:09:05"
+    },
+    {
+      "nodeID": "148697",
+      "text": "but that's not what the 2nd amendment is for.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:05"
+    },
+    {
+      "nodeID": "148698",
+      "text": "but it is what section 32 of Indiana constitution Section 32. Arms--Right to bear. The people shall have a right to bear arms, for the defense of themselves and the State.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:05"
+    },
+    {
+      "nodeID": "148699",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:09:05"
+    },
+    {
+      "nodeID": "148700",
+      "text": "I don't mean to get off on a tangent here, but it's our duty to protect ourselves? Right is one thing, but duty?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:05"
+    },
+    {
+      "nodeID": "148701",
+      "text": "Well let me put it like this, I consider it your duty because if you don't protect yourself then you basically shift that responsibility to someone else. Not only is this incredibly selfish, but 9 out of 10 times the 'protection business' gets outsourced to the State. This in itself it dangerous because when people decide that a third party like the State (which has no real accountability) has control over their lives it can all to easily lead to a situation where the State becomes tyrannical. More people have been killed by their own government than by any foreign government.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:06"
+    },
+    {
+      "nodeID": "148702",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:09:06"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189560",
+      "fromID": "148695",
+      "toID": "148696",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189561",
+      "fromID": "148696",
+      "toID": "148694",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189562",
+      "fromID": "148698",
+      "toID": "148699",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189563",
+      "fromID": "148699",
+      "toID": "148697",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189564",
+      "fromID": "148701",
+      "toID": "148702",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189565",
+      "fromID": "148702",
+      "toID": "148700",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

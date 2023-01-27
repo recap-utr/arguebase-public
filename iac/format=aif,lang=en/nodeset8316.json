@@ -1,0 +1,187 @@
+{
+  "nodes": [
+    {
+      "nodeID": "144131",
+      "text": "Really?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:36"
+    },
+    {
+      "nodeID": "155668",
+      "text": "Faith is the cornerstone of religion, yes. But who says God cares about religion? Religion is a completely human invention, and as such is a poor indicator for God's will. If God felt like showing up, and thus proving his existance, I don't think he'd let the fact that it would screw up most of the world's religions stop him.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:18"
+    },
+    {
+      "nodeID": "155669",
+      "text": "Well said, Kronus. Very well indeed. emoticon_xgood",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:19"
+    },
+    {
+      "nodeID": "155670",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:24:19"
+    },
+    {
+      "nodeID": "155671",
+      "text": "If you use both faith AND reason to support your belief, you are using circular reasoning.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:19"
+    },
+    {
+      "nodeID": "155672",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:19"
+    },
+    {
+      "nodeID": "155673",
+      "text": "You see, I could replace any mumbo jumbo made up stuff and replace the placebo with it. Then by your logic, we could prove anything has an effect on anything else IN COMBINATION with something that actually works (you know, logical AND)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:19"
+    },
+    {
+      "nodeID": "155674",
+      "text": "I see!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:19"
+    },
+    {
+      "nodeID": "155675",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:24:19"
+    },
+    {
+      "nodeID": "155676",
+      "text": "Let's use your logic:",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:19"
+    },
+    {
+      "nodeID": "155677",
+      "text": "You mean; let's use a straw-man. But anyway...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:19"
+    },
+    {
+      "nodeID": "155678",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:19"
+    },
+    {
+      "nodeID": "155679",
+      "text": "Faith by definition is a belief without evidence.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:19"
+    },
+    {
+      "nodeID": "155680",
+      "text": "yes. But then you throw in 'reasoned faith'. But then you are making up terms that try to show faith as reason. What is reasoned faith? If reasoned faith is the same as 'reason', then fine, you aren't using faith. If it's faith, belief without evidence, then your evidence is your faith, and thus, it's circular. If your faith is even part of your 'evidence' or 'reason' for belief, then logically the entire claim is arrived at through circular reasoning. You can use both all you like, I'm just letting you know it's fallacy to claim faith as evidence, which you do. If you do not, then you are using reason, and not faith, and we don't need to continue because I see no fallacy in using evidence to back your claim. Enjoy. I found this as well, maybe it will be worded in such a way that you understand, since you seem to reject my arguments based on my name. http://rous.redbarn.org/objectivism/Writing/JoelKatz/answers2.html",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:19"
+    },
+    {
+      "nodeID": "155681",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:24:19"
+    },
+    {
+      "nodeID": "155682",
+      "text": "When I was an atheist, I was quite unconvinced by rational arguments for the existence of God. Now that I am a Christian, I am quite unconvinced by rational arguments for the existence of God. B",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:19"
+    },
+    {
+      "nodeID": "155683",
+      "text": "Well, we're not devoid of emotion. So you can know God through your whole self, not just a small part of you (i.e. logic). We Orthodox believe in noetic knowledge, that is, knowledge gained through 'the heart'.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:20"
+    },
+    {
+      "nodeID": "155684",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:20"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194494",
+      "fromID": "155669",
+      "toID": "155670",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194495",
+      "fromID": "155670",
+      "toID": "155668",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194496",
+      "fromID": "144131",
+      "toID": "155672",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194497",
+      "fromID": "155672",
+      "toID": "155671",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194498",
+      "fromID": "155674",
+      "toID": "155675",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194499",
+      "fromID": "155675",
+      "toID": "155673",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194500",
+      "fromID": "155677",
+      "toID": "155678",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194501",
+      "fromID": "155678",
+      "toID": "155676",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194502",
+      "fromID": "155680",
+      "toID": "155681",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194503",
+      "fromID": "155681",
+      "toID": "155679",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194504",
+      "fromID": "155683",
+      "toID": "155684",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194505",
+      "fromID": "155684",
+      "toID": "155682",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

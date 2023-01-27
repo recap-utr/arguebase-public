@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151303",
+      "text": "I was convinced he was deliberately annoying people and I said as much, he was not finding much in the way of conversation here.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:31"
+    },
+    {
+      "nodeID": "151304",
+      "text": "Yes...if you ignore people, they eventually go away...except for me, of course. :)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:32"
+    },
+    {
+      "nodeID": "151305",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:14:32"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191410",
+      "fromID": "151304",
+      "toID": "151305",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191411",
+      "fromID": "151305",
+      "toID": "151303",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

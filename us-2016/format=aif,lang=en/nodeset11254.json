@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "nodeID": "201740",
+      "text": "[deleted] : People who were off the wall with Bernie worrying he might be senile are only given fuel to the fire",
+      "type": "L",
+      "timestamp": "2016-09-22 13:15:45"
+    },
+    {
+      "nodeID": "201742",
+      "text": "people who were off the wall with Bernie Sanders worrying he might be senile are only given fuel to the fire",
+      "type": "I",
+      "timestamp": "2016-09-22 13:15:45"
+    },
+    {
+      "nodeID": "256333",
+      "text": "WEBB : Pardon me?",
+      "type": "L",
+      "timestamp": "2016-12-22 13:16:37"
+    },
+    {
+      "nodeID": "263989",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-08 10:54:28",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "263990",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2017-03-08 10:54:29",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "263991",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2017-03-08 10:54:29",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "319096",
+      "fromID": "256333",
+      "toID": "263989",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319097",
+      "fromID": "263989",
+      "toID": "201740",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319098",
+      "fromID": "256333",
+      "toID": "263990",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319099",
+      "fromID": "263990",
+      "toID": "201742",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319100",
+      "fromID": "263989",
+      "toID": "263991",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319101",
+      "fromID": "263991",
+      "toID": "263990",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

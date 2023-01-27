@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "136911",
+      "text": "Isn't it amazing how quickly creationists will accept natural selection and superfast evolution when it supports they're beliefs?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:03"
+    },
+    {
+      "nodeID": "136912",
+      "text": "And it doesn't stop there. Another of my favorites is how they loudly criticize radiometric dating (most commonly radiocarbon dating because they know no other kind) then shout from the rooftops that radiometric dating confirms the 'genuineness' of ~2000 year old manuscripts...",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:03"
+    },
+    {
+      "nodeID": "136913",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:44:03"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181208",
+      "fromID": "136912",
+      "toID": "136913",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181209",
+      "fromID": "136913",
+      "toID": "136911",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "160115",
+      "text": "SACRAMENTO - A bill that would ban the public display of unloaded guns narrowly passed the Senate Public Safety Committee Tuesday. The 4-3 vote sent the legislation carried by Assemblywoman Lori Salda\u00f1a, D-San Diego, to the Appropriations Committee and likely on to the Senate floor where the final outcome is in doubt, particularly in this election-year atmosphere. The measure has passed the Assembly earlier this month. California law currently allows unloaded handguns to be carried in public. Salda\u00f1a's measure, Assembly Bill 1934, is supported by a statewide police chief's organization and major gun-control groups. They argue that police are being required to respond to reports of guns, draining resources and creating dangerous situations because authorities have to assume the guns are loaded. This 'open carry movement' goes 'beyond what's safe and what's responsible,' Salda\u00f1a said. Emeryville Police Chief Ken James added, 'Open carry is not just a threat to public safety, it's a threat to officers.' Several opponents of the measure countered that they have a constitutional right to bear arms and noted that there have been no police problems directly associated with someone carrying an unloaded weapon in plain sight. Some also contend the legislation would make criminals out of hunters, campers and others who take their weapons along for protection and target shooting. Sen. Rod Wright, D-Inglewood, and a gun owner, defended the right to carry weapons in public as long as they are unloaded. Responding to complaints that the guns intimidate and make people uncomfortable, Wright said he has a tall friend with tattoos who intimidates and makes people uncomfortable. 'Are we going to ban him next?' Wright asked as he voted against the bill. But Sen. Gil Cedillo, D-Los Angeles, said that it is too dangerous to allow 'gang-bangers' to openly tote weapons. 'There are Second Amendment rights,' he said. 'There are also Second Amendment responsibilities,' Cedillo said.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:34:21"
+    },
+    {
+      "nodeID": "160116",
+      "text": "So law-abiding citizens are being considered gang-bangers in California? Yeah that's really nice to know. Nice to see that government feels the people who put them into office are nothing more than criminals who can't be trusted. And the last sentence, 'There are also Second Amendment responsibilities' can somebody please explain exactly what's irresponsible about carrying your legally owned weapon, in a legal manner?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:34:21"
+    },
+    {
+      "nodeID": "160117",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:34:21"
+    },
+    {
+      "nodeID": "160118",
+      "text": "'...guns intimidate and make people uncomfortable.'  Crazy Californians.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:34:21"
+    },
+    {
+      "nodeID": "160119",
+      "text": "And a lot of people are made uncomfortable by a presence of a mother breastfeeding her baby in public. You can't simply let standards of discomfort rule and guide the course of law. There's no constitutional or human right to be free of discomfort and not intimidated.  If you're intimidated by somebody walking a large, powerful looking dog that could probably break your arm in its mouth, should we take steps to prevent such dogs from being owned, or walked in places where other people are present? I'm sure if you look you can find plenty of women who are uncomfortable in the presence of black men, for whatever reason. Should we take action to free them of their discomfort?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:34:21"
+    },
+    {
+      "nodeID": "160120",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:34:21"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "197662",
+      "fromID": "160116",
+      "toID": "160117",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197663",
+      "fromID": "160117",
+      "toID": "160115",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197664",
+      "fromID": "160119",
+      "toID": "160120",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197665",
+      "fromID": "160120",
+      "toID": "160118",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

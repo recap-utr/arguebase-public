@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138802",
+      "text": "LOL Kronus - my wife and I don't sit around the dinner table debating evolution either, she was shocked that people could be so intentionally ingnorant and zealous, supposedly in the name of Christianity.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:49"
+    },
+    {
+      "nodeID": "138803",
+      "text": "Actually, my wife and I discuss evolution all the time. She's an evolutionary biologist. She did feel as if she had some duty to watch the show, just to stay on top of the sorts of things being said. She just has a low tolerance for willful stupidity. Which I totally understand. :)",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:49"
+    },
+    {
+      "nodeID": "138804",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:47:49"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182570",
+      "fromID": "138803",
+      "toID": "138804",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182571",
+      "fromID": "138804",
+      "toID": "138802",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

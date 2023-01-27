@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "153155",
+      "text": "No, says the Indiana Court of Appeals in Washington v. State. Correct, I think: The Supreme Court has repeatedly said that the standard for a Terry frisk is whether the officer reasonably suspects the person is 'armed and dangerous.' 'Armed' alone shouldn't be enough, although of course in many cases the two will go together.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:43"
+    },
+    {
+      "nodeID": "153156",
+      "text": "So there it is in black and white! That LEO knew or should have know he was a legitimate ccw carrier but no matter as anyone in Texas can carry a gun in their car if they are not a gang member or convicted felon. Wrong is wrong, can you say 'wrong' slick?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:43"
+    },
+    {
+      "nodeID": "153157",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:18:43"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192712",
+      "fromID": "153156",
+      "toID": "153157",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192713",
+      "fromID": "153157",
+      "toID": "153155",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

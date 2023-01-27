@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "159517",
+      "text": "HOW DARE THEY NOT SUPPORT YOUR UNNATURAL LIFESTYLE!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:08"
+    },
+    {
+      "nodeID": "159518",
+      "text": "Yea dude I'm not gay and homosexuality is not unnatural.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:08"
+    },
+    {
+      "nodeID": "159519",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:33:08"
+    },
+    {
+      "nodeID": "159520",
+      "text": "I repeat in rebuttal to the ignorant, bigoted and hateful response above. Not to mention anti-american, prejudicial and irrational justification for attempting to deny free americans of their right to vote for a legally held proposition to amend the California Constitution according to the rules outlined in the Constitution of California. And for comparing Americans who simply voted, with Nazi's who more resemble your groups tactics, than the LDS community.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:08"
+    },
+    {
+      "nodeID": "159521",
+      "text": "Oh, gee! There goes my irony meter. It pegged and started smoking at the end of the first sentence. Archy is just being christian by trying to impose his twisted morality on everyone.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:08"
+    },
+    {
+      "nodeID": "159522",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:33:08"
+    },
+    {
+      "nodeID": "159523",
+      "text": "Hey pandion, voting according to the rules of the California Constitution is not imposing any individuals will or morality on anyone.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:08"
+    },
+    {
+      "nodeID": "159524",
+      "text": "But what if it is unconstitutional, like Prop. 8?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:08"
+    },
+    {
+      "nodeID": "159525",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:33:08"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "197230",
+      "fromID": "159518",
+      "toID": "159519",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197231",
+      "fromID": "159519",
+      "toID": "159517",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197232",
+      "fromID": "159521",
+      "toID": "159522",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197233",
+      "fromID": "159522",
+      "toID": "159520",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197234",
+      "fromID": "159524",
+      "toID": "159525",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197235",
+      "fromID": "159525",
+      "toID": "159523",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

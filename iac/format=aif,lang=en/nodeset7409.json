@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141818",
+      "text": "We owe it to our readers to present everybody's ideas equally and not to ignore or discredit theories simply because they lack scientifically credible arguments or facts. Nor should we succumb to the easy mistake of thinking that scientists understand their fields better than, say, U.S. senators or best-selling novelists do. Indeed, if politicians or special-interest groups say things that seem untrue or misleading, our duty as journalists is to quote them without comment or contradiction...In that spirit, we will end the practice of expressing our own views in this space: an editorial page is no place for opinions.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:40"
+    },
+    {
+      "nodeID": "141819",
+      "text": "And at last:",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:40"
+    },
+    {
+      "nodeID": "141820",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:54:40"
+    },
+    {
+      "nodeID": "141821",
+      "text": "we shamefully mistreated the Intelligent Design (ID) theorists by lumping them in with creationists. Creationists believe that God designed all life, and that's a somewhat religious idea. But ID theorists think that at unspecified times some unnamed superpowerful entity designed life, or maybe just some species, or maybe just some of the stuff in cells. That's what makes ID a superior scientific theory: it doesn't get bogged down in details.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:40"
+    },
+    {
+      "nodeID": "141822",
+      "text": "And still more:",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:40"
+    },
+    {
+      "nodeID": "141823",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:54:40"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184704",
+      "fromID": "141819",
+      "toID": "141820",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184705",
+      "fromID": "141820",
+      "toID": "141818",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184706",
+      "fromID": "141822",
+      "toID": "141823",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184707",
+      "fromID": "141823",
+      "toID": "141821",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

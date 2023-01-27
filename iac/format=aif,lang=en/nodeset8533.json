@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "158723",
+      "text": "Substitute the word 'segregation' for 'guns' and you will see just how utterly ridiculous your point is.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:23"
+    },
+    {
+      "nodeID": "158724",
+      "text": "You know, your comparison of those that fought to end segregation, to those that fight to enact gun ban and gun control laws, is nothing more than a cheap and dirty tactic that does nothing to address the issue, and everything to suggest that breaking the law is alright if you're a politician or legislator. There's a very large difference between people like Rosa Parks, and the mayor of Philadelphia; gun ownership is protected by the Constitution, segregation wasn't. The fact that you're comparing those who instituted civil disobedience for good reasons, to those who want to violate state laws to pass their own laws because they think they know better and have a right to do so, just shows that you can't address the point at hand.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:23"
+    },
+    {
+      "nodeID": "158725",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:31:23"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196658",
+      "fromID": "158724",
+      "toID": "158725",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196659",
+      "fromID": "158725",
+      "toID": "158723",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

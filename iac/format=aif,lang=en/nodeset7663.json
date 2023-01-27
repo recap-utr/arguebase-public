@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "145948",
+      "text": "Dear Chloe, Do you really want women tried for murder because they decide to take a pill that will cause an abortion? That is the only logical position a court can take once a zygote, embryo and fetus are legislated into the status of Human Beings. If one kills a human being, one is guilty of murder.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:14"
+    },
+    {
+      "nodeID": "145949",
+      "text": "yes, that would be correct.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:14"
+    },
+    {
+      "nodeID": "145950",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:03:14"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187628",
+      "fromID": "145949",
+      "toID": "145950",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187629",
+      "fromID": "145950",
+      "toID": "145948",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

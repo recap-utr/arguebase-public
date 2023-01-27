@@ -1,0 +1,272 @@
+{
+  "nodes": [
+    {
+      "nodeID": "209441",
+      "text": "Hmmhowaboutthis : wtf does that have to do with taxes",
+      "type": "L",
+      "timestamp": "2016-10-28 14:12:18"
+    },
+    {
+      "nodeID": "209443",
+      "text": "wtf does that have to do with taxes",
+      "type": "I",
+      "timestamp": "2016-10-28 14:12:19"
+    },
+    {
+      "nodeID": "209453",
+      "text": "godzilla_dropkick : Trying to sell the Flat Tax idea to the Christian demographic",
+      "type": "L",
+      "timestamp": "2016-10-28 14:12:23"
+    },
+    {
+      "nodeID": "209455",
+      "text": "trying to sell the Flat Tax idea to the Christian demographic",
+      "type": "I",
+      "timestamp": "2016-10-28 14:12:24"
+    },
+    {
+      "nodeID": "209470",
+      "text": "i_drink_wd40 : Nothing, unless you're in a theocracy. ..wait a minute",
+      "type": "L",
+      "timestamp": "2016-10-28 14:12:32"
+    },
+    {
+      "nodeID": "209472",
+      "text": "tithing has nothing to do with taxes, unless you're in a theocracy. ..wait a minute",
+      "type": "I",
+      "timestamp": "2016-10-28 14:12:33"
+    },
+    {
+      "nodeID": "220509",
+      "text": "the one that I've advocated is based on tithing",
+      "type": "I",
+      "timestamp": "2016-11-01 15:02:09"
+    },
+    {
+      "nodeID": "220512",
+      "text": "CARSON : the one that I've advocated is based on tithing",
+      "type": "L",
+      "timestamp": "2016-11-01 15:02:09"
+    },
+    {
+      "nodeID": "220524",
+      "text": "GOD : if you give me a tithe, it doesn't matter how much you made",
+      "type": "L",
+      "timestamp": "2016-11-01 15:02:10"
+    },
+    {
+      "nodeID": "220527",
+      "text": "CARSON : GOD : if you give me a tithe, it doesn't matter how much you made",
+      "type": "L",
+      "timestamp": "2016-11-01 15:02:11"
+    },
+    {
+      "nodeID": "264210",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-08 17:59:24",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264211",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-08 17:59:25",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "264212",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-08 17:59:25",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "264213",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-08 17:59:26",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264214",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-08 17:59:26",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "264215",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-08 17:59:27",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "264216",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-08 17:59:27",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264217",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2017-03-08 17:59:28",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "264218",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2017-03-08 17:59:28",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "319510",
+      "fromID": "220512",
+      "toID": "264210",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319511",
+      "fromID": "264210",
+      "toID": "209441",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319512",
+      "fromID": "209443",
+      "toID": "264211",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319513",
+      "fromID": "264211",
+      "toID": "220509",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319514",
+      "fromID": "264210",
+      "toID": "264212",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319515",
+      "fromID": "264212",
+      "toID": "264211",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319516",
+      "fromID": "220512",
+      "toID": "264213",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319517",
+      "fromID": "264213",
+      "toID": "209470",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319518",
+      "fromID": "209472",
+      "toID": "264214",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319519",
+      "fromID": "264214",
+      "toID": "220509",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319520",
+      "fromID": "264213",
+      "toID": "264215",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319521",
+      "fromID": "264215",
+      "toID": "264214",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319522",
+      "fromID": "220527",
+      "toID": "264216",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319523",
+      "fromID": "264216",
+      "toID": "209453",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319524",
+      "fromID": "209455",
+      "toID": "264217",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319525",
+      "fromID": "264217",
+      "toID": "220524",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319526",
+      "fromID": "264216",
+      "toID": "264218",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319527",
+      "fromID": "264218",
+      "toID": "264217",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "220512",
+      "personID": "2628",
+      "timestamp": "2016-11-01 15:03:06",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220524",
+      "personID": "2628",
+      "timestamp": "2016-11-01 15:03:06",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220527",
+      "personID": "2628",
+      "timestamp": "2016-11-01 15:03:06",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

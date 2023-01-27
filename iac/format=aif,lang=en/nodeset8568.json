@@ -1,0 +1,151 @@
+{
+  "nodes": [
+    {
+      "nodeID": "159395",
+      "text": "The article makes it clear it was circulated at many chuches. Just because some members sign it doesn't mean that the churches themselves (as governed bodies) officially sanction it.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:48"
+    },
+    {
+      "nodeID": "159396",
+      "text": "Really? DId you read the article? excert: Some people who signed by petitions on Sunday said they felt pressured. One woman who did not want to be identified said that others at her church who tried not to sign were harassed by church elders who were circulating the forms. 'I didn't want to be singled out,' she told 365Gay.com. 'I just signed it and hoped that would be the end of it.'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:48"
+    },
+    {
+      "nodeID": "159397",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:32:48"
+    },
+    {
+      "nodeID": "159398",
+      "text": "Anyone who preaches against my people are not a nice guys.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:48"
+    },
+    {
+      "nodeID": "159399",
+      "text": "Well, I don't think that is a good way to look at people.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:48"
+    },
+    {
+      "nodeID": "159400",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:32:48"
+    },
+    {
+      "nodeID": "159401",
+      "text": "What you fail to understand is that I have a right to my beliefs. So if some sect of christianity puts something into law that goes against my beliefs, and effects my life and not theirs, then that is forcing their beliefs on me through the ballot box. Do you think it is right that christians in countries where the majority of the population are Muslim are forced by law to live by sheria law?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:49"
+    },
+    {
+      "nodeID": "159402",
+      "text": "So you don't believe in a democracy? What if a group of people that have been sexually assaulted get together and try to force their beliefs of stricter punishments on the group of people that sexually assault others. Should this not be allowed to happen in by a vote in a democracy? So to answer your Muslim question, if done by a vote, then why not? If you impose 0 beliefs on people you have no laws.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:49"
+    },
+    {
+      "nodeID": "159403",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:32:49"
+    },
+    {
+      "nodeID": "159404",
+      "text": "So if I come and insult and demonize you or somebody you love - you might still consider me a good person?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:49"
+    },
+    {
+      "nodeID": "159405",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:32:49"
+    },
+    {
+      "nodeID": "159406",
+      "text": "What? Now you are for 17yr old getting married,",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:49"
+    },
+    {
+      "nodeID": "159407",
+      "text": "I think I said. I DON'T CARE.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:49"
+    },
+    {
+      "nodeID": "159408",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:32:49"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "197146",
+      "fromID": "159396",
+      "toID": "159397",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197147",
+      "fromID": "159397",
+      "toID": "159395",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197148",
+      "fromID": "159399",
+      "toID": "159400",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197149",
+      "fromID": "159400",
+      "toID": "159398",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197150",
+      "fromID": "159402",
+      "toID": "159403",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197151",
+      "fromID": "159403",
+      "toID": "159401",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197152",
+      "fromID": "159404",
+      "toID": "159405",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197153",
+      "fromID": "159405",
+      "toID": "159399",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197154",
+      "fromID": "159407",
+      "toID": "159408",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197155",
+      "fromID": "159408",
+      "toID": "159406",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

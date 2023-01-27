@@ -1,0 +1,256 @@
+{
+  "nodes": [
+    {
+      "nodeID": "202018",
+      "text": "Atraktape : Bernie wants to throw Snowden in the slammer",
+      "type": "L",
+      "timestamp": "2016-09-22 15:48:12"
+    },
+    {
+      "nodeID": "202020",
+      "text": "Bernie Sanders wants to throw Snowden in the slammer",
+      "type": "I",
+      "timestamp": "2016-09-22 15:48:12"
+    },
+    {
+      "nodeID": "202068",
+      "text": "JZer86 : He said Snowden broke the law, but the civil liberty violations that were discovered because of it should be taken into consideration",
+      "type": "L",
+      "timestamp": "2016-09-22 15:48:17"
+    },
+    {
+      "nodeID": "202069",
+      "text": "Snowden broke the law, but the civil liberty violations that were discovered because of it should be taken into consideration",
+      "type": "I",
+      "timestamp": "2016-09-22 15:48:17"
+    },
+    {
+      "nodeID": "202092",
+      "text": "mud074 : You can't just make exceptions to laws because it was justified",
+      "type": "L",
+      "timestamp": "2016-09-22 15:48:19"
+    },
+    {
+      "nodeID": "202094",
+      "text": "you can't just make exceptions to laws because it was justified",
+      "type": "I",
+      "timestamp": "2016-09-22 15:48:19"
+    },
+    {
+      "nodeID": "217268",
+      "text": "SANDERS : there should be a penalty to that",
+      "type": "L",
+      "timestamp": "2016-11-01 13:40:38"
+    },
+    {
+      "nodeID": "217270",
+      "text": "there should be a penalty to that",
+      "type": "I",
+      "timestamp": "2016-11-01 13:40:38"
+    },
+    {
+      "nodeID": "217272",
+      "text": "SANDERS :  what he did in educating us should be taken into consideration before he is",
+      "type": "L",
+      "timestamp": "2016-11-01 13:40:38"
+    },
+    {
+      "nodeID": "217274",
+      "text": "what Snowden did in educating us should be taken into consideration before Snowden is",
+      "type": "I",
+      "timestamp": "2016-11-01 13:40:39"
+    },
+    {
+      "nodeID": "264016",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-08 13:58:40",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264017",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-08 13:58:41",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "264018",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-08 13:58:41",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "264019",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-08 13:58:41",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264020",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-08 13:58:42",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "264021",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-08 13:58:42",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "264022",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-08 13:58:43",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264023",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2017-03-08 13:58:43",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "264024",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2017-03-08 13:58:44",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "319150",
+      "fromID": "217268",
+      "toID": "264016",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319151",
+      "fromID": "264016",
+      "toID": "202018",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319152",
+      "fromID": "202020",
+      "toID": "264017",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319153",
+      "fromID": "264017",
+      "toID": "217268",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319154",
+      "fromID": "264016",
+      "toID": "264018",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319155",
+      "fromID": "264018",
+      "toID": "264017",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319156",
+      "fromID": "217272",
+      "toID": "264019",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319157",
+      "fromID": "264019",
+      "toID": "202068",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319158",
+      "fromID": "202069",
+      "toID": "264020",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319159",
+      "fromID": "264020",
+      "toID": "217274",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319160",
+      "fromID": "264019",
+      "toID": "264021",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319161",
+      "fromID": "264021",
+      "toID": "264020",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319162",
+      "fromID": "217268",
+      "toID": "264022",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319163",
+      "fromID": "264022",
+      "toID": "202092",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319164",
+      "fromID": "202094",
+      "toID": "264023",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319165",
+      "fromID": "264023",
+      "toID": "217270",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319166",
+      "fromID": "264022",
+      "toID": "264024",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319167",
+      "fromID": "264024",
+      "toID": "264023",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "217272",
+      "personID": "1851",
+      "timestamp": "2017-01-09 11:46:51",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

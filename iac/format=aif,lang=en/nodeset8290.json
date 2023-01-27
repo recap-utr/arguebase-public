@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "155196",
+      "text": "pandion: I thought I had worded my post quite clearly. I even pointed out that it appeared that Dembski thought that there were only three laws of thermodynamics and claimed to have discovered a 4th (which he of course named the 4th law of thermodynamics). He seems unaware of the zeroth law.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:23:19"
+    },
+    {
+      "nodeID": "155197",
+      "text": "Well, I was kind of hoping that my questioning would encourage you to provide a quote to show us exactly what Dembski himself said, but I guess I wasn't blunt enough. You've now made it clear that your claim - which is still unsupported - is that Dembski says a fourth law of thermodynamics, and not the fourth law of thermodynamics. But that still would not necessarily make Dembski wrong.  Does Dembki's wording show he means a fourth law-of-thermodynamics, or a fourth-law-of-thermodynamics? The first would be wrong but the second would be right.  To try to make this clearer: ..... We have a zeroth law of thermodynamics. ..... We have a first law of thermodynamics. ..... We have a second law of thermodynamics. ..... We have a third law of thermodynamics. ..... Dembski claims to have uncovered a fourth law of the thermodynamics. If his actual statements can be read in that sense, then his claiming to have come up with a fourth law of thermodynamics does not show ignorance, on his part, of their already being 4 laws of thermodynamics.  And as I suggested in my post, here is Stuart Kauffman, who is clearly neither a Creationist nor an ID Creationist, speaking of his attempts to uncover a fourth law of thermodynamics...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:23:19"
+    },
+    {
+      "nodeID": "155198",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:23:19"
+    },
+    {
+      "nodeID": "155199",
+      "text": "3. The scientific effect involved is always at the very limit of detection.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:23:19"
+    },
+    {
+      "nodeID": "155200",
+      "text": "Well, in the sense that we cannot actually detect the intelligent design Behe proposes, then it it OUTSIDE the limit of actual detection.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:23:19"
+    },
+    {
+      "nodeID": "155201",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:23:20"
+    },
+    {
+      "nodeID": "155202",
+      "text": "Does Dembski claim to have discoverted a 4th law of thermodynamics, or the 4th law of thermodynamics? While it is true that there are already 4 laws of thermodynamics, there is no 4th law of thermodynamics. The current laws run from 0 - 3, so the third law of thermodynamics is the highest numbered one there is right now. Also, I believe that Stuart Kauffman - who is clearly not a creationist or ID creationist - has (also) claimed to have discovered the 4th law of thermodynamics.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:23:20"
+    },
+    {
+      "nodeID": "155203",
+      "text": "I thought I had worded my post quite clearly. I even pointed out that it appeared that Dembski thought that there were only three laws of thermodynamics and claimed to have discovered a 4th (which he of course named the 4th law of thermodynamics). He seems unaware of the zeroth law.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:23:20"
+    },
+    {
+      "nodeID": "155204",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:23:20"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194160",
+      "fromID": "155197",
+      "toID": "155198",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194161",
+      "fromID": "155198",
+      "toID": "155196",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194162",
+      "fromID": "155200",
+      "toID": "155201",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194163",
+      "fromID": "155201",
+      "toID": "155199",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194164",
+      "fromID": "155203",
+      "toID": "155204",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194165",
+      "fromID": "155204",
+      "toID": "155202",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "158663",
+      "text": "I support your right to own firearms for your self-defense and the defense of freedom as spelled-out in the BOR. Always have.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:13"
+    },
+    {
+      "nodeID": "158664",
+      "text": "And as ruled by the Supreme Court, that right includes personal defense and the ownership of modern weaponry. That means you can't be against ownership of particular types of weapons, ammo, or magazines.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:13"
+    },
+    {
+      "nodeID": "158665",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:31:13"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196618",
+      "fromID": "158664",
+      "toID": "158665",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196619",
+      "fromID": "158665",
+      "toID": "158663",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152759",
+      "text": "The justification comes from this being a scientific fact. This evidence has been posted before by chloe, but here it is again for your enjoyment.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:41"
+    },
+    {
+      "nodeID": "152760",
+      "text": "But it's not a 'fact' unless you've defined what you mean by 'person.' If you define 'person' as 'the combination of a fertilization event,' then all you have is a meaningless tautology.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:41"
+    },
+    {
+      "nodeID": "152761",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:17:41"
+    },
+    {
+      "nodeID": "152762",
+      "text": "What is not fertilized is what a woman flushes in each monthly cycle. She isn't flushing people or potential people, and how sad it is that you can't understand that.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:41"
+    },
+    {
+      "nodeID": "152763",
+      "text": "Actually, according to your use of the word 'person,' she is. A significant percentage of fertilized eggs fail to implant and are instead passed. How sad (and typical) that you haven't bothered to educate yourself about these things.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:41"
+    },
+    {
+      "nodeID": "152764",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:17:41"
+    },
+    {
+      "nodeID": "152765",
+      "text": "She is saying, and I'm agreeing that at every stage of development a human possesses inherent value and dignity. Until the egg is fertilized their is no maturing person to kill, but once fertilized, their is a person growing from that very point on through to its birth. [bold added]",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:41"
+    },
+    {
+      "nodeID": "152766",
+      "text": "So if this entity is not born, does that mean it's not a person? Or does it become a person upon fertilization? If so, why does that occurrence create value and dignity where none existed before?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:42"
+    },
+    {
+      "nodeID": "152767",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:17:42"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192428",
+      "fromID": "152760",
+      "toID": "152761",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192429",
+      "fromID": "152761",
+      "toID": "152759",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192430",
+      "fromID": "152763",
+      "toID": "152764",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192431",
+      "fromID": "152764",
+      "toID": "152762",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192432",
+      "fromID": "152766",
+      "toID": "152767",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192433",
+      "fromID": "152767",
+      "toID": "152765",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

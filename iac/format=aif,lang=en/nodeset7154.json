@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138607",
+      "text": "I just became aware of a new movement: http://www.godnotguns.org/ And, it made me aware of a very 'XXXXX' conundrum in the philosophy of the right, their ceaseless screaming or babbling about<b></b>: Gays! God! Guns! I had the realization that to the radically religious rightwing wingnuts, Guns are God Almighty. This applies to radically rightwing Islamists who want to destroy non-Muslims as well. I'd bet that all of these nuts have altars devoted to their guns. They sleep with a pistol under their pillows and they kiss their weaponry 'Nighty night!' every night.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:26"
+    },
+    {
+      "nodeID": "138608",
+      "text": "Actually, Simone, if you spend more time on their website and research a little deeper, you will find that they are also 'right wing wingnuts' but they happen to want 'sensible' gun policies in order to eliminate violence (clearly delineated from war) with the use of guns in all countries. Essentially they are the ones you are griping about and stereotyping. Provide a decent basis of argument besides a stereotype please.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:26"
+    },
+    {
+      "nodeID": "138609",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:47:26"
+    },
+    {
+      "nodeID": "138610",
+      "text": "Actually, I looked at the sight rather thoroughly, and I was unable to find any real mention of 'sensible' gun policies. But then I looked deeper and found out why. This is simply a marketing ploy by the Brady Center aimed at the religious crowd, so the 'sensible' policies that they support are really just the same policies that the Brady Center puts forth. Just another way of reaching out to a different demographic.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:26"
+    },
+    {
+      "nodeID": "138611",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:47:26"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182426",
+      "fromID": "138608",
+      "toID": "138609",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182427",
+      "fromID": "138609",
+      "toID": "138607",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182428",
+      "fromID": "138610",
+      "toID": "138611",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182429",
+      "fromID": "138611",
+      "toID": "138608",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

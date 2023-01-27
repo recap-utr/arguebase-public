@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "142448",
+      "text": "I am by nature and training and experience argumentative. Its a way of life.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:56"
+    },
+    {
+      "nodeID": "142449",
+      "text": "just curious...what do you do for a living?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:56"
+    },
+    {
+      "nodeID": "142450",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:55:57"
+    },
+    {
+      "nodeID": "142451",
+      "text": "The bottom line: Evolution cannot be disproved as it has already been proven. Creation cannot be disproved except in regard to errant conclusions related to the timing of events. Evolution is the method that God used to create all things.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:57"
+    },
+    {
+      "nodeID": "142452",
+      "text": "Well, the point about evolution is that it doesn't need a god to tinker with it. Maybe you can postulate a god as the prime mover of the big bang, I don't know why you'd want to, but i suppose you could. After that, the laws of physics take over, and evolution is the result. Even if one were to suppose a god initiated the big bang, there is no reason to suppose it took an interest in subsequent events, or nudged them down one path as opposed to any other. Evolution doesn't need a deity in its daily operation... that's why it works so well as science!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:57"
+    },
+    {
+      "nodeID": "142453",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:55:57"
+    },
+    {
+      "nodeID": "142454",
+      "text": "Yes and no. Metaphorical creationism can't be disproved period as there are no hard facts to disprove. Literal creationism can be disproven on a number of factors, from the timeline, to events such as the flood.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:57"
+    },
+    {
+      "nodeID": "142455",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:55:57"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185162",
+      "fromID": "142449",
+      "toID": "142450",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185163",
+      "fromID": "142450",
+      "toID": "142448",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185164",
+      "fromID": "142452",
+      "toID": "142453",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185165",
+      "fromID": "142453",
+      "toID": "142451",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185166",
+      "fromID": "142454",
+      "toID": "142455",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185167",
+      "fromID": "142455",
+      "toID": "142451",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

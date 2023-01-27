@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141764",
+      "text": "Fellow Christians in this 'Creation v. Evolution' forum... Who knows--rise to the challenge and perhaps you can bring a straying 'evil-lutionist' back into the fold... Bradley",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:32"
+    },
+    {
+      "nodeID": "141765",
+      "text": "You ask to debate a lot of issues at once. Do you believe in a literal Adam? Do you not think that the idea is completely connected to Jesus' ministry? If it weren't for sin - Jesus would need not have come.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:32"
+    },
+    {
+      "nodeID": "141766",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:54:32"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184668",
+      "fromID": "141765",
+      "toID": "141766",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184669",
+      "fromID": "141766",
+      "toID": "141764",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

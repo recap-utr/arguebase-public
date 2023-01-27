@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "161227",
+      "text": "However, having seen so many of Matthew S's rants on oppression I was really taking the opportunity to ask if he really knows what oppressionmeans.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:06"
+    },
+    {
+      "nodeID": "161228",
+      "text": "I think the history of discrimination against gays does count as oppression. Being classified as a 'mental illness' with cures that could possibly involve shock 'therapy', castration, or lobotomies, having our sex be illegal, the type of harassment we have seen which should make any civilized person blush... I understand you think the 'oppression' could be worse, but quite frankly how many minority groups have undergone what gays have undergone? I mean, there is no competing with the atrocities committed against the blacks, and millions of Jews died in the holocaust (along with gay people), but what more is required before you can look at gay history and not see it as 'oppression'?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:06"
+    },
+    {
+      "nodeID": "161229",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:37:06"
+    },
+    {
+      "nodeID": "161230",
+      "text": "Wait a minute. You say that any physical attack is wrong, but in the sentence after you say you don't see why Matthew S has a problem with it. Are you for real?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:06"
+    },
+    {
+      "nodeID": "161231",
+      "text": "Yes, I'd say I do exist (to answer your question). Furthermore, I don't see why Matthew S has a problem with it....he is the one thinking we are 'at war' and he states that he is willing to do the same things. I assume he finds this behavior during 'a war' to be fairly standard and if the opposite situation had happened he would be all for it.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:06"
+    },
+    {
+      "nodeID": "161232",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:37:06"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198452",
+      "fromID": "161228",
+      "toID": "161229",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198453",
+      "fromID": "161229",
+      "toID": "161227",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198454",
+      "fromID": "161231",
+      "toID": "161232",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198455",
+      "fromID": "161232",
+      "toID": "161230",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

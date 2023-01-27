@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "150940",
+      "text": "Similarly, if David slew Goliath who is proclaimed to be from a line of Giants, how was Goliath born if all of the giants died during the flood?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:42"
+    },
+    {
+      "nodeID": "150941",
+      "text": "Because each generation can get taller or shorter? How many generations is it from the flood till David?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:42"
+    },
+    {
+      "nodeID": "150942",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:13:42"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191150",
+      "fromID": "150941",
+      "toID": "150942",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191151",
+      "fromID": "150942",
+      "toID": "150940",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

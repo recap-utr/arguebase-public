@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143081",
+      "text": "'Assault Weapons 'Ban' Will Do Little to Keep Assault Weapons Off Our Streets' http://www.vpc.org/press/0403awpass.htm  Looks to me like someone is lying. So who is it? VPC or Brady?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:14"
+    },
+    {
+      "nodeID": "143082",
+      "text": "Well, Jeff, may I suggest this is just ppart of the next step in the disarming of America.  'We tried Brady, it's not good enough, therefore, we must step up the attacks with even more stringent legislation. Understand, The VPC isan organization of Gun Grabbers, as well.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:14"
+    },
+    {
+      "nodeID": "143083",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:57:14"
+    },
+    {
+      "nodeID": "143084",
+      "text": "The point is that they think the current ban is ineffective so they want to change the ban and make it stricter so that it is effective.  'Legislation (the 'Assault Weapons Ban and Law Enforcement Protection Act of 2003,' S. 1431 and H.R. 2038) based on California law that would effectively renew and strengthen the assault weapons ban, so that it actually works to ban all assault weapons, remains pending in the U.S. Senate and House. ' http://www.vpc.org/press/0403awpass.htm",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:14"
+    },
+    {
+      "nodeID": "143085",
+      "text": "Oh so then Brady got it all wrong according to the VPC. Funny. Brady says the Brady laws are working quite well. Now they are asking me to trust them that they can make it all right? What is going on here? Because this VPC site says they are trying to renew the Brady bill: http://www.banassaultweapons.org/ OK so if I understand this correctly, the VPC wants to renew a law that according to thier own literature is ineffective, not working, and full of holes? If your anti-gunner, does this just strike you as wrong?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:15"
+    },
+    {
+      "nodeID": "143086",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:57:15"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185616",
+      "fromID": "143082",
+      "toID": "143083",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185617",
+      "fromID": "143083",
+      "toID": "143081",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185618",
+      "fromID": "143085",
+      "toID": "143086",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185619",
+      "fromID": "143086",
+      "toID": "143084",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139902",
+      "text": "I am motivated to understand God's creation from what I believe to be a biblical, creationist perspective. Evolution itself is not flawed or without evidence. Please don't be duped into thinking that somehow evolution itself is a failure. Please don't idolize your own ability to reason. Faith is enough. If God said it, that should settle it. Maybe that's not enough for your scoffing professor or your non-Christian friends, but it should be enough for you.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:19"
+    },
+    {
+      "nodeID": "139903",
+      "text": "So neither is a failure, and neither is ultimately true. emoticon_confused In reality, one is true and one is false. Faith isn't enough, when they clash politically. One will lose, and one will win.  There is a huge gap in this persons reasoning. Why is it that atheists seem to have more respect for this type of creationist than they do for others - others who don't regard what atheists in science produce as unquestionable evidence?  It seems to be the same for Kurt Wise. A quick google search turns up these Dawkins remarks about Mr. Wise;",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:19"
+    },
+    {
+      "nodeID": "139904",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:19"
+    },
+    {
+      "nodeID": "139905",
+      "text": "(Oh, and I see you're still equating 'atheist' with 'anyone who doesn't believe as I do')",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:19"
+    },
+    {
+      "nodeID": "139906",
+      "text": "And I see you still flip back and fourth from being an atheist to not being an atheist.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:19"
+    },
+    {
+      "nodeID": "139907",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:19"
+    },
+    {
+      "nodeID": "139908",
+      "text": "Why, it says 'his most recent book is Unweaving the Rainbow'. Unweaving the Rainbow, according to Wikipedia, was published in 1998. A quick google search will show this same article posted in a few places dated at 2002. So it was originally written between 1998 and 2002. At the time this article was written, Obama was a nobody state senator.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:19"
+    },
+    {
+      "nodeID": "139909",
+      "text": "So you don't think Dawkins is a liberal? You don't think Dawkins favors northern, liberal universities over southern, conservative universities?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:19"
+    },
+    {
+      "nodeID": "139910",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:19"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183348",
+      "fromID": "139903",
+      "toID": "139904",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183349",
+      "fromID": "139904",
+      "toID": "139902",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183350",
+      "fromID": "139906",
+      "toID": "139907",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183351",
+      "fromID": "139907",
+      "toID": "139905",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183352",
+      "fromID": "139909",
+      "toID": "139910",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183353",
+      "fromID": "139910",
+      "toID": "139908",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

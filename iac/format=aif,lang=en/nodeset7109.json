@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "137936",
+      "text": "If you have a position please share it. No need to start new threads as some sort of news service.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:05"
+    },
+    {
+      "nodeID": "137937",
+      "text": "Well, the Vatican taking a proper moral stand is so rare and note worthy.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:05"
+    },
+    {
+      "nodeID": "137938",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:46:05"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181952",
+      "fromID": "137937",
+      "toID": "137938",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181953",
+      "fromID": "137938",
+      "toID": "137936",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "156956",
+      "text": "Who said this: 'I carried a concealed weapon. I made the determination that if somebody was going to try to take me out, I was going to take them with me.'  A) Marine sniper Carlos Hathcock B) NRA president Charleton Heston C) General Patton D) LA police chief Willie Williams E) Anti-gun Senator Fienstien   If you said the anti-gunner 'E' you are correct. Many good citizens carry a gun for the same reason, but to the Senator from California, she should be exempt from the law.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:15"
+    },
+    {
+      "nodeID": "156957",
+      "text": "Hillarious. I remember seeing that a while back. That's liberals for you, the laws they propose are for the 'peasants', not for them to obey. They, afterall, are better suited for making decisions like these than you. You need them to think for you.. to care for you.. cradle to grave. You may also recall that famed anti-gunner Rosie O'Donnell has armed bodyguards but says you shouldn't have guns yourself. You cannot be trusted, afterall. And who was that writer who shot the kid in the hand that was swimming in his pool late one night? Carl something. Another anti-gunner who preaches 'do as I say, not as I do'. Liberals.. LOL!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:15"
+    },
+    {
+      "nodeID": "156958",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:27:15"
+    },
+    {
+      "nodeID": "156959",
+      "text": "Do you see cops driving down the road, going over the speed limit, turning on their lights during rush hour to get to their exit which is just a little ways ahead and then turn their lights off after they exit the highway. People who enforce the law think that they are better than the law, and don't have follow the law, even if they enforce the law, or make them, i personally think that is Bull****!!!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:15"
+    },
+    {
+      "nodeID": "156960",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:27:15"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195390",
+      "fromID": "156957",
+      "toID": "156958",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195391",
+      "fromID": "156958",
+      "toID": "156956",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195392",
+      "fromID": "156959",
+      "toID": "156960",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195393",
+      "fromID": "156960",
+      "toID": "156957",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

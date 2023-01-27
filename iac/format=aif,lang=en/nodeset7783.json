@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "147891",
+      "text": "and the atheist cannot restrict the science to be according to their views.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:16"
+    },
+    {
+      "nodeID": "147892",
+      "text": "But isn't that the problem? This creationist decided that science should be limited to his religion. He's afraid of flying.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:16"
+    },
+    {
+      "nodeID": "147893",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:17"
+    },
+    {
+      "nodeID": "147894",
+      "text": "Atheists may not believe even though you open the gates of heaven for them and they saw the angels with their own eyes; they are like the smoker who smokes cigarettes in spite of that he knows that cigarettes are harmful.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:17"
+    },
+    {
+      "nodeID": "147895",
+      "text": "I think that's more true of believers. :) However, when you manage to demonstrate your deity by opening his gates, do let us know. We'll take a look around!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:17"
+    },
+    {
+      "nodeID": "147896",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:17"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "188996",
+      "fromID": "147892",
+      "toID": "147893",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188997",
+      "fromID": "147893",
+      "toID": "147891",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188998",
+      "fromID": "147895",
+      "toID": "147896",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188999",
+      "fromID": "147896",
+      "toID": "147894",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

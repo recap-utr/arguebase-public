@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "142623",
+      "text": "I'm not even going to bother with your non-sequitor, but I imagine plenty of alcohol manufacturers enjoy the occasional drink.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:19"
+    },
+    {
+      "nodeID": "142624",
+      "text": "But they're not drunks, are they?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:19"
+    },
+    {
+      "nodeID": "142625",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:56:19"
+    },
+    {
+      "nodeID": "142626",
+      "text": "Stabbing yourself is not ok, but that doesn't mean it should be illegal.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:19"
+    },
+    {
+      "nodeID": "142627",
+      "text": "I believe suicide is murder, no matter how you look at it. It's already illegal, and if you do it, then chances are you're either taking PCP or are mentally unstable.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:19"
+    },
+    {
+      "nodeID": "142628",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:56:19"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185286",
+      "fromID": "142624",
+      "toID": "142625",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185287",
+      "fromID": "142625",
+      "toID": "142623",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185288",
+      "fromID": "142627",
+      "toID": "142628",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185289",
+      "fromID": "142628",
+      "toID": "142626",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

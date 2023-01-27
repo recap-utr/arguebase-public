@@ -1,0 +1,157 @@
+{
+  "nodes": [
+    {
+      "nodeID": "161910",
+      "text": "You're an extremist of the most dangerous kind Brady, and you have lost all credibility as an objective concerned citizen who is seeking balanced gun policies. You have an anti-constitutional agenda that works to disarm honest people in favor of criminals who will never obey the laws to disarm if you ever succeeded in you goals. In my opinion, you and your ilk are as dangerous a threat to America as the terrorists who have openly vowed to destroy us.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:38"
+    },
+    {
+      "nodeID": "161911",
+      "text": "so a person that doesnt want children to have machine guns and 50caliber weapons is an antigun extremist? Id hate to know what you think a moderate is.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:38"
+    },
+    {
+      "nodeID": "161912",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:38"
+    },
+    {
+      "nodeID": "161913",
+      "text": "Once again, archie can't refute the message, so he pathetically attacks the messenger. Arch, in MY opinion, you and your ilk are as dangerous a threat to America as the terrorists who have openly vowed to destroy us.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:38"
+    },
+    {
+      "nodeID": "161914",
+      "text": "Well you have to admit, nobody with a brain would believe or support what the Brady Bunch is blabbering about this time around. Right on their front page they say 'The bill, H.R. 6691, would allow nearly anyone, even teenagers and children, to carry loaded assault rifles on the streets of our Nation's Capital' but the text of the bill says no such thing. There's no talk of lowering the age for gun ownership below 18, which is already federal law, there's no talk of opening up sales of fully-automatic machineguns capable of firing 1,200 rounds per minute, there's no talk of the bill opening up sales of .50 caliber rifles that can hit a target at over a mile, there's nothing. All this bill is gonna do is force DC to be in line with the rest of America. How exactly is that a bad thing, and why shouldn't we support it?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:38"
+    },
+    {
+      "nodeID": "161915",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:38:38"
+    },
+    {
+      "nodeID": "161916",
+      "text": "The only reason this bill has advanced is because the NRA has threatened to withhold endorsements from conservative Democrats in tough races this year. http://www.washingtonpost.com/wp-dyn/content/article/2008/09/07/AR2008090701982.html",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:38"
+    },
+    {
+      "nodeID": "161917",
+      "text": "And why should I care?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:38"
+    },
+    {
+      "nodeID": "161918",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:38"
+    },
+    {
+      "nodeID": "161919",
+      "text": "Gun registration would be abolished,",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:38"
+    },
+    {
+      "nodeID": "161920",
+      "text": "And how is this a bad thing?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:38"
+    },
+    {
+      "nodeID": "161921",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:38"
+    },
+    {
+      "nodeID": "161922",
+      "text": "Be that as it may, no one has refuted that there are more cases of Concealed Carry Permit holders who have gone off and assaulted people than there have been school shootings.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:39"
+    },
+    {
+      "nodeID": "161923",
+      "text": "And there have been more cases of people being killed with knives than so called 'assault weapons'. Your point is what?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:39"
+    },
+    {
+      "nodeID": "161924",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:39"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198946",
+      "fromID": "161911",
+      "toID": "161912",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198947",
+      "fromID": "161912",
+      "toID": "161910",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198948",
+      "fromID": "161914",
+      "toID": "161915",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198949",
+      "fromID": "161915",
+      "toID": "161913",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198950",
+      "fromID": "161917",
+      "toID": "161918",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198951",
+      "fromID": "161918",
+      "toID": "161916",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198952",
+      "fromID": "161920",
+      "toID": "161921",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198953",
+      "fromID": "161921",
+      "toID": "161919",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198954",
+      "fromID": "161923",
+      "toID": "161924",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198955",
+      "fromID": "161924",
+      "toID": "161922",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

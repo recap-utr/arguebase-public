@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139738",
+      "text": "I wish you could put your hands on that poll as well. Until then I'll remain skeptical. Let's remember that Democrats and liberals hunt. Remove that group and what's left? Something less than 20% of Americans that own only handguns.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:58"
+    },
+    {
+      "nodeID": "139739",
+      "text": "I think you mean to say is hunters not liberal democrat hunters. Actualy I know of very few hunters that only have rifles or shot guns they usualy also have pistols to since you can hunt with them also.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:58"
+    },
+    {
+      "nodeID": "139740",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:49:58"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183230",
+      "fromID": "139739",
+      "toID": "139740",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183231",
+      "fromID": "139740",
+      "toID": "139738",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

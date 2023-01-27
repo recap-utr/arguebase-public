@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "156452",
+      "text": "If you really care about millions of people being murdered, why have you done nothing about it? Because you don't.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:06"
+    },
+    {
+      "nodeID": "156453",
+      "text": "Well, i vote, that seems to be working enough seeing that 2 pro-life judges have been appointed within 1 year. interesting, im takin a cheesecake break..",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:06"
+    },
+    {
+      "nodeID": "156454",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:26:06"
+    },
+    {
+      "nodeID": "156455",
+      "text": "'Why does this matter? Is this your own personal view of what a person is?'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:06"
+    },
+    {
+      "nodeID": "156456",
+      "text": "No, this is more of an ethical stand point. A fetus is incapable of feeling outraged or offended by being aborted then why is it an outrage by others to begin with? The only party that stakes out a vital rule in condemning abortion is the fetus...and unfortunately for that minority the fetus is a neutral party. However clinical signs of life do define us as a living person. Not conception. So no living people is being aborted...at least in the majority of abortion cases.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:06"
+    },
+    {
+      "nodeID": "156457",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:26:06"
+    },
+    {
+      "nodeID": "156458",
+      "text": "'For example if you say '10,000 people died in a car accident last year' you don't downplaying the ones that died in 2004'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:06"
+    },
+    {
+      "nodeID": "156459",
+      "text": "But you know it is more then just that. The poster gave a specific date that is relevant to when abortion was legalized. It shows the poster is being selective and may hold prejudice to fetuses who aren't aborted by legal abortions. You see, it is the pro-life movement's selective outrages that makes me think they aren't serious about abortion as a whole.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:06"
+    },
+    {
+      "nodeID": "156460",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:26:06"
+    },
+    {
+      "nodeID": "156461",
+      "text": "Would you consider abortion in the following four situations?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:06"
+    },
+    {
+      "nodeID": "156462",
+      "text": "And if I did then so what? Hiter's Mom and Saddam's Mom both were given the option to abort their pregnancies by nurses and decided against it. So I guess this makes pro-lifers responsible for the holocaust and the slaughter of Kurds?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:06"
+    },
+    {
+      "nodeID": "156463",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:26:06"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195036",
+      "fromID": "156453",
+      "toID": "156454",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195037",
+      "fromID": "156454",
+      "toID": "156452",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195038",
+      "fromID": "156456",
+      "toID": "156457",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195039",
+      "fromID": "156457",
+      "toID": "156455",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195040",
+      "fromID": "156459",
+      "toID": "156460",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195041",
+      "fromID": "156460",
+      "toID": "156458",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195042",
+      "fromID": "156462",
+      "toID": "156463",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195043",
+      "fromID": "156463",
+      "toID": "156461",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

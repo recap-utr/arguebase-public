@@ -1,0 +1,100 @@
+{
+  "nodes": [
+    {
+      "nodeID": "201569",
+      "text": "ChristianTaz : That's just some stuff off his official website",
+      "type": "L",
+      "timestamp": "2016-09-22 12:25:37"
+    },
+    {
+      "nodeID": "201571",
+      "text": "that's just some stuff off Sanders' official website",
+      "type": "I",
+      "timestamp": "2016-09-22 12:25:37"
+    },
+    {
+      "nodeID": "214808",
+      "text": "I would urge people to go to berniesanders.com , hear what I said in 2002",
+      "type": "I",
+      "timestamp": "2016-11-01 13:09:48"
+    },
+    {
+      "nodeID": "214811",
+      "text": "SANDERS : I would urge people to go to berniesanders.com , hear what I said in 2002",
+      "type": "L",
+      "timestamp": "2016-11-01 13:09:49"
+    },
+    {
+      "nodeID": "263986",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-08 10:43:14",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "263987",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-08 10:43:16",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "263988",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-08 10:43:18",
+      "scheme": "Restating",
+      "schemeID": "101"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "319090",
+      "fromID": "214811",
+      "toID": "263986",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319091",
+      "fromID": "263986",
+      "toID": "201569",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319092",
+      "fromID": "201571",
+      "toID": "263987",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319093",
+      "fromID": "263987",
+      "toID": "214808",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319094",
+      "fromID": "263986",
+      "toID": "263988",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319095",
+      "fromID": "263988",
+      "toID": "263987",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "214811",
+      "personID": "2802",
+      "timestamp": "2016-11-01 13:11:15",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

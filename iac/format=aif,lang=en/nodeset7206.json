@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139236",
+      "text": "I feel that so many of these bans on gay marriage were done in hate and haste. There was a ;acl of critical thinking on many parts. That was the failure. They were so worried about banning gay rights, they didn't think through the process.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:44"
+    },
+    {
+      "nodeID": "139237",
+      "text": "You're giving them waaaaay too much credit. All of these amendments were prepared and supported by the same national organizations working with local groups. They've heard the arguments about how broad these laws are and haven't changed a single one. They know exactly what they're doing. In a few cases, after assuring people that they didn't intend to interfere with domestic partnership legislation, they filed suits to do exactly that once the amendment passed.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:44"
+    },
+    {
+      "nodeID": "139238",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:48:44"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182886",
+      "fromID": "139237",
+      "toID": "139238",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182887",
+      "fromID": "139238",
+      "toID": "139236",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "136779",
+      "text": "Phil Kline is anti-choice and filed suit against an abortion clinic? emoticon_confused  If you are just posting an article then ok.... I just didn't know if you were trying to make a point on something.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:46"
+    },
+    {
+      "nodeID": "136780",
+      "text": "Yes, the article said it succinctly and I felt no real need to expand on it. Also, one extra point had to do with the second article on how he has been inflicted on the citizens of Johnson County despite their vote against him, which shows the pettiness of him and the Republican party.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:47"
+    },
+    {
+      "nodeID": "136781",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:43:47"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181116",
+      "fromID": "136780",
+      "toID": "136781",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181117",
+      "fromID": "136781",
+      "toID": "136779",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

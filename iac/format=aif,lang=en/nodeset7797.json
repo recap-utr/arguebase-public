@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148030",
+      "text": "The theory of aggregated production, which is the point of the following book, nevertheless can be much easier adapted to the conditions of a totalitarian state [eines totalen Staates] than the theory of production and distribution of a given production put forth under conditions of free competition and a large degree of laissez-faire. This is one of the reasons that justifies the fact that I call my theory a general theory. Since it is based on fewer hypotheses than the orthodox theory, it can accommodate itself all the easier to a wider field of varying conditions. Although I have, after all, worked it out with a view to the conditions prevailing in the Anglo-Saxon countries where a large degree of laissez-faire still prevails, nevertheless it remains applicable to situations in which state management is more pronounced. For the theory of psychological laws which bring consumption and saving into relationship with each other, the influence of loan expenditures on prices, and real wages, the role played by the rate of interest-all these basic ideas also remain under such conditions necessary parts of our plan of thought.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:37"
+    },
+    {
+      "nodeID": "148031",
+      "text": "And no, Simone, a market is a metaphor for countless individual relationships. To say it should be regulated is to say the government should interfere with consensual relationships.. To say that consensual relationships are immoral and that interfering with them is moral is turning morality on it's head;.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:37"
+    },
+    {
+      "nodeID": "148032",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:37"
+    },
+    {
+      "nodeID": "148033",
+      "text": "Is Keynesianism a theory of the free market? No says Keynes, it is just as applicable in a totalitarian state",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:37"
+    },
+    {
+      "nodeID": "148034",
+      "text": "I believe that Jo Bennett has just stated that Keynesianism is essentially a repudiation of the free market so I can't possibly see how Keyneisanism can be a theory of the 'free market.'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:37"
+    },
+    {
+      "nodeID": "148035",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:37"
+    },
+    {
+      "nodeID": "148036",
+      "text": "People do not like to be cheated. They do not like to be victims of fraud. If economic systems are not governed and regulated, people can be victimized by the systems.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:37"
+    },
+    {
+      "nodeID": "148037",
+      "text": "And if they are governed and regulated people can be victimized by the system. In fact, the regulation might be the very thing victimizing people. Again, it isn't the system but the people who are in society that make a morality.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:38"
+    },
+    {
+      "nodeID": "148038",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:38"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189098",
+      "fromID": "148031",
+      "toID": "148032",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189099",
+      "fromID": "148032",
+      "toID": "148030",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189100",
+      "fromID": "148034",
+      "toID": "148035",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189101",
+      "fromID": "148035",
+      "toID": "148033",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189102",
+      "fromID": "148037",
+      "toID": "148038",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189103",
+      "fromID": "148038",
+      "toID": "148036",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

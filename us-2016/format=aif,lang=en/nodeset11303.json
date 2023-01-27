@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "nodeID": "207065",
+      "text": "Kasich has said some good things about the Medicaid expansion",
+      "type": "L",
+      "timestamp": "2016-10-17 19:56:16"
+    },
+    {
+      "nodeID": "207066",
+      "text": "FallenAerials : Kasich has said some good things about the Medicaid expansion",
+      "type": "L",
+      "timestamp": "2016-10-17 19:56:16"
+    },
+    {
+      "nodeID": "219173",
+      "text": "KASICH : first of all , Megyn , you should know that -- that President Reagan expanded Medicaid three or four times",
+      "type": "L",
+      "timestamp": "2016-11-01 14:54:38"
+    },
+    {
+      "nodeID": "264528",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2017-03-09 15:58:42",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "264529",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 15:58:43",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264530",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2017-03-09 15:58:43",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "320130",
+      "fromID": "207065",
+      "toID": "264528",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320131",
+      "fromID": "264528",
+      "toID": "219173",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320132",
+      "fromID": "219173",
+      "toID": "264529",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320133",
+      "fromID": "264529",
+      "toID": "207066",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320134",
+      "fromID": "264529",
+      "toID": "264530",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320135",
+      "fromID": "264530",
+      "toID": "264528",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

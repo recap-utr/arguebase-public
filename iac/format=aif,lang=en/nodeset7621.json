@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "145060",
+      "text": "What about due process?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:31"
+    },
+    {
+      "nodeID": "145061",
+      "text": "Well what about it girl?  That is due process!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:32"
+    },
+    {
+      "nodeID": "145062",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:01:32"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187010",
+      "fromID": "145061",
+      "toID": "145062",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187011",
+      "fromID": "145062",
+      "toID": "145060",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

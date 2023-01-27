@@ -1,0 +1,115 @@
+{
+  "nodes": [
+    {
+      "nodeID": "162063",
+      "text": "How is allowing both their lives valuing the fetus over the women?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:05"
+    },
+    {
+      "nodeID": "162064",
+      "text": "Because you don't give a damn about the circumstances of the woman. All she is to you is a pregnancy and nothing more.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:05"
+    },
+    {
+      "nodeID": "162065",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:39:06"
+    },
+    {
+      "nodeID": "162066",
+      "text": "I don't give a damn about the circumstances of the unborn either(obvious here I am not saying I don't care what happens to either, but for the sake of whether or not we should kill the unborn this is my stance). Neither one should have a right to kill the other...and for that matter, no one else should be allowed to come up and murder the women or the unborn. So my views are still treating them as equals. and I will ask you to stay away from more assumtions that you can't prove.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:06"
+    },
+    {
+      "nodeID": "162067",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:39:06"
+    },
+    {
+      "nodeID": "162068",
+      "text": "Now that's a bald-faced lie",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:06"
+    },
+    {
+      "nodeID": "162069",
+      "text": "No - it's not. Your stand on rape victims proves it.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:06"
+    },
+    {
+      "nodeID": "162070",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:39:06"
+    },
+    {
+      "nodeID": "162071",
+      "text": "No, its the truth. You ignore women in the scenario and see and use them as a mere tool for the birth of a fetus.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:06"
+    },
+    {
+      "nodeID": "162072",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:39:06"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "199050",
+      "fromID": "162064",
+      "toID": "162065",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199051",
+      "fromID": "162065",
+      "toID": "162063",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199052",
+      "fromID": "162066",
+      "toID": "162067",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199053",
+      "fromID": "162067",
+      "toID": "162064",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199054",
+      "fromID": "162069",
+      "toID": "162070",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199055",
+      "fromID": "162070",
+      "toID": "162068",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199056",
+      "fromID": "162071",
+      "toID": "162072",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199057",
+      "fromID": "162072",
+      "toID": "162068",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

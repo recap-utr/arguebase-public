@@ -1,0 +1,65 @@
+{
+  "nodes": [
+    {
+      "nodeID": "203574",
+      "text": "rowdyroddypiperjr : 2050 is going to happen anyway",
+      "type": "L",
+      "timestamp": "2016-09-29 15:26:21"
+    },
+    {
+      "nodeID": "257532",
+      "text": "O'MALLEY : I have put forward a plan \u2014 and I'm the only candidate, I believe, in either party to do this \u2014 to move America forward to a 100 percent clean electric grid by 2050",
+      "type": "L",
+      "timestamp": "2016-12-22 16:02:43"
+    },
+    {
+      "nodeID": "257534",
+      "text": "O'MALLEY has put forward a plan to move America forward to a 100 percent clean electric grid by 2050",
+      "type": "I",
+      "timestamp": "2016-12-22 16:02:44"
+    },
+    {
+      "nodeID": "264154",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-08 16:22:04",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264155",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2017-03-08 16:22:04",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "319426",
+      "fromID": "257532",
+      "toID": "264154",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319427",
+      "fromID": "264154",
+      "toID": "203574",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319428",
+      "fromID": "264154",
+      "toID": "264155",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319429",
+      "fromID": "264155",
+      "toID": "257534",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

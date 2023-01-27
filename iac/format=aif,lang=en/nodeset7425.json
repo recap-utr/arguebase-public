@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141968",
+      "text": "Attention Trebor:  According to your own Jewish Tanakh, is God the Creator of the heavens and earth, and man?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:05"
+    },
+    {
+      "nodeID": "141969",
+      "text": "If you want an answer to that, I suggest you read Genesis.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:05"
+    },
+    {
+      "nodeID": "141970",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:55:05"
+    },
+    {
+      "nodeID": "141971",
+      "text": "What are you afraid of, Trebor?? The whole world wants to know why you keep avoiding this question: According to your own Jewish Tanakh, is God the Creator of the heavens and earth, and man? Will he give a pertinent answer or evade it again?? I'm betting he won't answer the question.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:05"
+    },
+    {
+      "nodeID": "141972",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:55:05"
+    },
+    {
+      "nodeID": "141973",
+      "text": "You are making some false assumptions. However, I guess you are unable to read. I definately know you can't read in context.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:05"
+    },
+    {
+      "nodeID": "141974",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:55:05"
+    },
+    {
+      "nodeID": "141975",
+      "text": "Yep, he dodged it again. Care to explain your views on Creation in the Tanakh for the folks here?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:05"
+    },
+    {
+      "nodeID": "141976",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:55:05"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184814",
+      "fromID": "141969",
+      "toID": "141970",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184815",
+      "fromID": "141970",
+      "toID": "141968",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184816",
+      "fromID": "141971",
+      "toID": "141972",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184817",
+      "fromID": "141972",
+      "toID": "141969",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184818",
+      "fromID": "141973",
+      "toID": "141974",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184819",
+      "fromID": "141974",
+      "toID": "141971",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184820",
+      "fromID": "141975",
+      "toID": "141976",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184821",
+      "fromID": "141976",
+      "toID": "141973",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143355",
+      "text": "a) the amount of abortions would be static",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:51"
+    },
+    {
+      "nodeID": "143356",
+      "text": "Actually, a few studies I've seen suggest exactly that. Looking at the birth rates among the various ethnic groups, and correcting for better birth control, etc, the rate actually remained fairly constant from before the Roe v Wade decision to the years afterwards. This suggests that the number of abortions remained fairly constant, they simply became legal to perform and recieve. My feeling is, the desire and need for the abortion option has always been there. The legality will affect it, but not to a great extent.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:51"
+    },
+    {
+      "nodeID": "143357",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:57:51"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185808",
+      "fromID": "143356",
+      "toID": "143357",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185809",
+      "fromID": "143357",
+      "toID": "143355",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

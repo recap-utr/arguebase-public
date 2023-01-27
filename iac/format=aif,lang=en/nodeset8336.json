@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "155882",
+      "text": "I find one comment extremely absurd, by a board member who voted for the new standards: 'It gets rid of a lot of dogma that's being taught in the classroom today,' said board member John Bacon. Dear Mr. Bacon, here is the definition of dogma: A doctrine or a corpus of doctrines relating to matters such as morality and faith, set forth in an authoritative manner by a church. America is slowly going down the drain",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:50"
+    },
+    {
+      "nodeID": "155883",
+      "text": "Yes, Creationist doublespeak at its 'best'. Once again creeping Creationism seeks to undermine science in little steps. If this latest inroad is not stopped more will follow, rest assured.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:50"
+    },
+    {
+      "nodeID": "155884",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:24:50"
+    },
+    {
+      "nodeID": "155885",
+      "text": "Makes George Carlin's plan to use the state of Kansas as a prison even more appealing.  I especially liked the board member dogma statement.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:50"
+    },
+    {
+      "nodeID": "155886",
+      "text": "Yes, kind of reminds me of Abraham Lincoln's thought: 'Better to remain silent and be thought a fool than to speak out and remove all doubt.'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:51"
+    },
+    {
+      "nodeID": "155887",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:24:51"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194640",
+      "fromID": "155883",
+      "toID": "155884",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194641",
+      "fromID": "155884",
+      "toID": "155882",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194642",
+      "fromID": "155886",
+      "toID": "155887",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194643",
+      "fromID": "155887",
+      "toID": "155885",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

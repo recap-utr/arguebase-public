@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "155988",
+      "text": "Number of physicians in the U.S...........................................700,000 Accidental deaths caused by physicians per year...............120,000 Accidental deaths per physician...........................0.171 Number of gun owners in the U.S. ................................ 80,000,000 Number of accidental gun deaths per year (all age groups)......1,500 Accidental deaths per gun owner..................................0.0000188 Therefore, doctors are approximately 9,000 times more dangerous than gun owners!!!!!!!!!!!!!!!!  Taken from the Internet.   Should we ban doctors?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:06"
+    },
+    {
+      "nodeID": "155989",
+      "text": "i dont believe you",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:06"
+    },
+    {
+      "nodeID": "155990",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:25:06"
+    },
+    {
+      "nodeID": "155991",
+      "text": "The whole argument is weak unless gun control advocates are only pressing the issue due to accidental deaths.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:06"
+    },
+    {
+      "nodeID": "155992",
+      "text": "No. The point is that doctors are more dangerous than guns, highlighting the stupidity of the anti-gun crowed who believe that guns should be outlawed because they are &#8220;dangerous.&#8221; Furthermore, if we wanted to include deliberate killing, we would have to include doctors who deliberately kill. And we would have to point out that many people who are killed with guns - should be killed (violent criminals, for example).  A few other education links are here: http://www.aapsonline.org/press/medsentgun.htm http://teapot.usask.ca/cdn-firearms/Schulman/doctors.html",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:06"
+    },
+    {
+      "nodeID": "155993",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:25:06"
+    },
+    {
+      "nodeID": "155994",
+      "text": "Thats nice. How's those '32' guns you 'own' and hows your 'training' going.  Funny though how you can believe or not believe a question....",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:06"
+    },
+    {
+      "nodeID": "155995",
+      "text": "Actually, he said he didn't believe you. Come to think of it, I don't believe he has 32 guns either.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:06"
+    },
+    {
+      "nodeID": "155996",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:25:06"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194714",
+      "fromID": "155989",
+      "toID": "155990",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194715",
+      "fromID": "155990",
+      "toID": "155988",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194716",
+      "fromID": "155992",
+      "toID": "155993",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194717",
+      "fromID": "155993",
+      "toID": "155991",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194718",
+      "fromID": "155995",
+      "toID": "155996",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194719",
+      "fromID": "155996",
+      "toID": "155994",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "nodeID": "188387",
+      "text": "Bernie : We have to balance the needs of rural gun-owners with the social costs of gun ownership",
+      "type": "L",
+      "timestamp": "2016-08-03 16:20:29"
+    },
+    {
+      "nodeID": "188391",
+      "text": "[deleted] : Bernie : We have to balance the needs of rural gun-owners with the social costs of gun ownership",
+      "type": "L",
+      "timestamp": "2016-08-03 16:20:29"
+    },
+    {
+      "nodeID": "241103",
+      "text": "SANDERS : As a senator from a rural state, what I can tell Secretary Clinton, that all the shouting in the world is not going to do what I would hope all of us want, and that is keep guns out of the hands of people who should not have those guns and end this horrible violence that we are seeing",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:49"
+    },
+    {
+      "nodeID": "262280",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-03 15:40:22",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "262281",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-03 15:40:22",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "262282",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-03 15:40:23",
+      "scheme": "Restating",
+      "schemeID": "101"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "316302",
+      "fromID": "241103",
+      "toID": "262280",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316303",
+      "fromID": "262280",
+      "toID": "188391",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316304",
+      "fromID": "188387",
+      "toID": "262281",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316305",
+      "fromID": "262281",
+      "toID": "241103",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316306",
+      "fromID": "262280",
+      "toID": "262282",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316307",
+      "fromID": "262282",
+      "toID": "262281",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

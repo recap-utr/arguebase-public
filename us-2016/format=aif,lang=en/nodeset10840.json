@@ -1,0 +1,1011 @@
+{
+  "nodes": [
+    {
+      "nodeID": "253062",
+      "text": "RUBIO : both of my parents were born into poor families on the island of Cuba",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:40"
+    },
+    {
+      "nodeID": "253063",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:49:40",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253064",
+      "text": "both of RUBIO's parents were born into poor families on the island of Cuba",
+      "type": "I",
+      "timestamp": "2016-12-21 17:49:40"
+    },
+    {
+      "nodeID": "253065",
+      "text": "M: RUBIO : both of my parents were born into poor families on the island of Cuba",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:40"
+    },
+    {
+      "nodeID": "253066",
+      "text": "RUBIO : They came to America",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:40"
+    },
+    {
+      "nodeID": "253067",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:49:40",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253068",
+      "text": "RUBIO's parents came to America",
+      "type": "I",
+      "timestamp": "2016-12-21 17:49:41"
+    },
+    {
+      "nodeID": "253069",
+      "text": "M: RUBIO : They came to America",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:41"
+    },
+    {
+      "nodeID": "253070",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:49:41",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253071",
+      "text": "RUBIO : it was the only place where people like them could have a chance",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:41"
+    },
+    {
+      "nodeID": "253072",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:49:41",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253073",
+      "text": "America was the only place where people like RUBIO's parents could have a chance",
+      "type": "I",
+      "timestamp": "2016-12-21 17:49:41"
+    },
+    {
+      "nodeID": "253074",
+      "text": "M: RUBIO : it was the only place where people like them could have a chance",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:41"
+    },
+    {
+      "nodeID": "253075",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:49:41",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "253076",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:49:41",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253077",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:49:42",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "253078",
+      "text": "RUBIO : Here in this country, they never made it big",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:42"
+    },
+    {
+      "nodeID": "253079",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:49:42",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253080",
+      "text": "here in the USA, RUBIO's parents never made it big",
+      "type": "I",
+      "timestamp": "2016-12-21 17:49:42"
+    },
+    {
+      "nodeID": "253081",
+      "text": "M: RUBIO : Here in this country, they never made it big",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:42"
+    },
+    {
+      "nodeID": "253082",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:49:42",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253083",
+      "text": "RUBIO : the very purpose of their life was to give us the chance to do all the things they never could",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:42"
+    },
+    {
+      "nodeID": "253084",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:49:42",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253085",
+      "text": "the very purpose of RUBIO's parents' life was to give their children the chance to do all the things they never could",
+      "type": "I",
+      "timestamp": "2016-12-21 17:49:43"
+    },
+    {
+      "nodeID": "253086",
+      "text": "M: RUBIO : the very purpose of their life was to give us the chance to do all the things they never could",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:43"
+    },
+    {
+      "nodeID": "253087",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:49:43",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253088",
+      "text": "RUBIO : My father was a bartender",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:43"
+    },
+    {
+      "nodeID": "253089",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:49:43",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253090",
+      "text": "RUBIO's father was a bartender",
+      "type": "I",
+      "timestamp": "2016-12-21 17:49:43"
+    },
+    {
+      "nodeID": "253091",
+      "text": "M: RUBIO : My father was a bartender",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:43"
+    },
+    {
+      "nodeID": "253092",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:49:43",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253093",
+      "text": "RUBIO : the journey from the back of that bar to this stage tonight, to me, that is the essence of the American dream",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:43"
+    },
+    {
+      "nodeID": "253094",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:49:44",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253095",
+      "text": "the journey from the back of that bar to this stage tonight is to RUBIO the essence of the American dream",
+      "type": "I",
+      "timestamp": "2016-12-21 17:49:44"
+    },
+    {
+      "nodeID": "253096",
+      "text": "M: RUBIO : the journey from the back of that bar to this stage tonight, to me, that is the essence of the American dream",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:44"
+    },
+    {
+      "nodeID": "253097",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:49:44",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253098",
+      "text": "RUBIO : It is what makes our nation different",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:44"
+    },
+    {
+      "nodeID": "253099",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:49:44",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253100",
+      "text": "the journey from the back of that bar to this stage tonight is what makes American nation different",
+      "type": "I",
+      "timestamp": "2016-12-21 17:49:44"
+    },
+    {
+      "nodeID": "253101",
+      "text": "M: RUBIO : It is what makes our nation different",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:44"
+    },
+    {
+      "nodeID": "253102",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:49:44",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253103",
+      "text": "RUBIO : I'm running for president",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:45"
+    },
+    {
+      "nodeID": "253104",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:49:45",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253105",
+      "text": "RUBIO is running for president",
+      "type": "I",
+      "timestamp": "2016-12-21 17:49:45"
+    },
+    {
+      "nodeID": "253106",
+      "text": "M: RUBIO : I'm running for president",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:45"
+    },
+    {
+      "nodeID": "253107",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:49:45",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253108",
+      "text": "RUBIO : I want that to still be possible for the people trying to do that now",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:45"
+    },
+    {
+      "nodeID": "253109",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:49:45",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253110",
+      "text": "RUBIO wants that too still be possible for the people trying to do that now",
+      "type": "I",
+      "timestamp": "2016-12-21 17:49:45"
+    },
+    {
+      "nodeID": "253111",
+      "text": "M: RUBIO : I want that to still be possible for the people trying to do that now",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:45"
+    },
+    {
+      "nodeID": "253112",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:49:46",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253113",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:49:46",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "253114",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:49:46",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "253115",
+      "text": "RUBIO : I run for president",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:46"
+    },
+    {
+      "nodeID": "253116",
+      "text": "M: RUBIO : I run for president",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:46"
+    },
+    {
+      "nodeID": "253117",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:49:46",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253118",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:49:46",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253119",
+      "text": "RUBIO : I believe that we can't just save the American dream; we can expand it to reach more people and change more lives than ever before",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:46"
+    },
+    {
+      "nodeID": "253120",
+      "text": "RUBIO believes that one can't just save the American dream, but that one can expand it to reach more people and change more lives than ever before",
+      "type": "I",
+      "timestamp": "2016-12-21 17:49:47"
+    },
+    {
+      "nodeID": "253121",
+      "text": "M: RUBIO : I believe that we can't just save the American dream; we can expand it to reach more people and change more lives than ever before",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:47"
+    },
+    {
+      "nodeID": "253122",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:49:47",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253123",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:49:47",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "253124",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:49:47",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253125",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:49:47",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "253126",
+      "text": "RUBIO : I'm asking for your vote",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:47"
+    },
+    {
+      "nodeID": "253127",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:49:47",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253128",
+      "text": "RUBIO is asking for Americans' vote",
+      "type": "I",
+      "timestamp": "2016-12-21 17:49:48"
+    },
+    {
+      "nodeID": "253129",
+      "text": "M: RUBIO : I'm asking for your vote",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:48"
+    },
+    {
+      "nodeID": "253130",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:49:48",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "253131",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:49:48",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253132",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:49:48",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "253133",
+      "text": "RUBIO : we can make America greater than it has ever been",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:48"
+    },
+    {
+      "nodeID": "253134",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:49:48",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253135",
+      "text": "we can make America greater than it has ever been",
+      "type": "I",
+      "timestamp": "2016-12-21 17:49:48"
+    },
+    {
+      "nodeID": "253136",
+      "text": "M: RUBIO : we can make America greater than it has ever been",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:48"
+    },
+    {
+      "nodeID": "253137",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:49:49",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253138",
+      "text": "RUBIO :  make of this century a new American century",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:49"
+    },
+    {
+      "nodeID": "253139",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:49:49",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253140",
+      "text": "we can make of this century a new American century",
+      "type": "I",
+      "timestamp": "2016-12-21 17:49:49"
+    },
+    {
+      "nodeID": "253141",
+      "text": "M: RUBIO :  make of this century a new American century",
+      "type": "L",
+      "timestamp": "2016-12-21 17:49:49"
+    },
+    {
+      "nodeID": "253142",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:49:49",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "304483",
+      "fromID": "253063",
+      "toID": "253064",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304484",
+      "fromID": "253062",
+      "toID": "253063",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304485",
+      "fromID": "253067",
+      "toID": "253068",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304486",
+      "fromID": "253066",
+      "toID": "253067",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304487",
+      "fromID": "253062",
+      "toID": "253070",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304488",
+      "fromID": "253070",
+      "toID": "253066",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304489",
+      "fromID": "253072",
+      "toID": "253073",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304490",
+      "fromID": "253071",
+      "toID": "253072",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304491",
+      "fromID": "253073",
+      "toID": "253075",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304492",
+      "fromID": "253075",
+      "toID": "253068",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304493",
+      "fromID": "253066",
+      "toID": "253076",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304494",
+      "fromID": "253076",
+      "toID": "253071",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304495",
+      "fromID": "253076",
+      "toID": "253077",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304496",
+      "fromID": "253077",
+      "toID": "253075",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304497",
+      "fromID": "253079",
+      "toID": "253080",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304498",
+      "fromID": "253078",
+      "toID": "253079",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304499",
+      "fromID": "253071",
+      "toID": "253082",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304500",
+      "fromID": "253082",
+      "toID": "253078",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304501",
+      "fromID": "253084",
+      "toID": "253085",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304502",
+      "fromID": "253083",
+      "toID": "253084",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304503",
+      "fromID": "253078",
+      "toID": "253087",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304504",
+      "fromID": "253087",
+      "toID": "253083",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304505",
+      "fromID": "253089",
+      "toID": "253090",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304506",
+      "fromID": "253088",
+      "toID": "253089",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304507",
+      "fromID": "253083",
+      "toID": "253092",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304508",
+      "fromID": "253092",
+      "toID": "253088",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304509",
+      "fromID": "253094",
+      "toID": "253095",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304510",
+      "fromID": "253093",
+      "toID": "253094",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304511",
+      "fromID": "253088",
+      "toID": "253097",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304512",
+      "fromID": "253097",
+      "toID": "253093",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304513",
+      "fromID": "253099",
+      "toID": "253100",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304514",
+      "fromID": "253098",
+      "toID": "253099",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304515",
+      "fromID": "253093",
+      "toID": "253102",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304516",
+      "fromID": "253102",
+      "toID": "253098",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304517",
+      "fromID": "253104",
+      "toID": "253105",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304518",
+      "fromID": "253103",
+      "toID": "253104",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304519",
+      "fromID": "253098",
+      "toID": "253107",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304520",
+      "fromID": "253107",
+      "toID": "253103",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304521",
+      "fromID": "253109",
+      "toID": "253110",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304522",
+      "fromID": "253108",
+      "toID": "253109",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304523",
+      "fromID": "253103",
+      "toID": "253112",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304524",
+      "fromID": "253112",
+      "toID": "253108",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304525",
+      "fromID": "253110",
+      "toID": "253113",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304526",
+      "fromID": "253113",
+      "toID": "253105",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304527",
+      "fromID": "253112",
+      "toID": "253114",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304528",
+      "fromID": "253114",
+      "toID": "253113",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304529",
+      "fromID": "253115",
+      "toID": "253117",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304530",
+      "fromID": "253117",
+      "toID": "253105",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304531",
+      "fromID": "253108",
+      "toID": "253118",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304532",
+      "fromID": "253118",
+      "toID": "253115",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304533",
+      "fromID": "253119",
+      "toID": "253122",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304534",
+      "fromID": "253122",
+      "toID": "253120",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304535",
+      "fromID": "253120",
+      "toID": "253123",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304536",
+      "fromID": "253123",
+      "toID": "253105",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304537",
+      "fromID": "253103",
+      "toID": "253124",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304538",
+      "fromID": "253124",
+      "toID": "253119",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304539",
+      "fromID": "253124",
+      "toID": "253125",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304540",
+      "fromID": "253125",
+      "toID": "253123",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304541",
+      "fromID": "253127",
+      "toID": "253128",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304542",
+      "fromID": "253126",
+      "toID": "253127",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304543",
+      "fromID": "253120",
+      "toID": "253130",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304544",
+      "fromID": "253130",
+      "toID": "253128",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304545",
+      "fromID": "253119",
+      "toID": "253131",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304546",
+      "fromID": "253131",
+      "toID": "253126",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304547",
+      "fromID": "253131",
+      "toID": "253132",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304548",
+      "fromID": "253132",
+      "toID": "253130",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304549",
+      "fromID": "253134",
+      "toID": "253135",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304550",
+      "fromID": "253133",
+      "toID": "253134",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304551",
+      "fromID": "253126",
+      "toID": "253137",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304552",
+      "fromID": "253137",
+      "toID": "253133",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304553",
+      "fromID": "253139",
+      "toID": "253140",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304554",
+      "fromID": "253138",
+      "toID": "253139",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304555",
+      "fromID": "253133",
+      "toID": "253142",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304556",
+      "fromID": "253142",
+      "toID": "253138",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

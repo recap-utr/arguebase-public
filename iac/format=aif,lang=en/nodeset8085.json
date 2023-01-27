@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152250",
+      "text": "Not like this issue. Moral belief may have been used to justify opposition on civil rights and women's rights, but I don't think gay lobbyists realize how much moral belief IS the basis for opposing gay marriage. It's not the excuse, it's the reason. There's a vast difference, and it's why the public hasn't bought into the propaganda that this is just another civil rights issue.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:34"
+    },
+    {
+      "nodeID": "152251",
+      "text": "You may see a vast differene, many do not. The 'moral' grounds for many is simply the justification for their homophobia.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:34"
+    },
+    {
+      "nodeID": "152252",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:16:34"
+    },
+    {
+      "nodeID": "152253",
+      "text": "I'm not Canadian, but I suspect you greatly underestimate the amount of under-the-radar opposition and frustration about gay marriage in your country. Polls often don't give an accurate picture of the full situation. You have a significantly liberal govt and liberal media that even goes so far as to stifle and prevent free speech on this issue. I've read the views of many religious people in Canada, and a lot of them feel that they are truly being persecuted and oppresed by tha lack of free speech your govt. gives them on this issue. One reason it appears 'dead' is that your govt. stifles free speech about this issue. You've lost religious freedom in an overboard attempt to provide 'freedom' in another area. You should have found a way to have both.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:34"
+    },
+    {
+      "nodeID": "152254",
+      "text": "So now it's a massive nation wide government conspiracy to stifle free speech? Canada stifles and oppresses religious freedom? Honestly Jyoshu, where do you get this stuff? emoticon_frazzled  This is utter BS, if you can find ANY proof of the Canadian gov't stifling free speech on this issue, religious freedom, or any other issue for that matter, please post it. If not, retract your BS statement, and admit that it's a fabrication. I honestly don't think I underestimate it at all. I come across a very broad spectrum of people in my line of work, from one end of the scale to the other. The most common negative response I get is from those that are opposed to homosexuality in general and respond along the lines of 'I don't like, I don't want to see it, but rights are rights, as long as it doesn't negatively affect me, I don't have a problem with it/I don't really care.' I have come across a couple of people who were strongly opposed to the use of the term 'marriage' but were fine with allowing homosexual 'civil unions'. I think you overestimate how big of a 'moral issue' this really is for most people. Waxy",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:34"
+    },
+    {
+      "nodeID": "152255",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:16:35"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192074",
+      "fromID": "152251",
+      "toID": "152252",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192075",
+      "fromID": "152252",
+      "toID": "152250",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192076",
+      "fromID": "152254",
+      "toID": "152255",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192077",
+      "fromID": "152255",
+      "toID": "152253",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

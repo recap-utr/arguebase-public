@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143256",
+      "text": "Jim, The working class has shown themselves unfit to lead. What now?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:34"
+    },
+    {
+      "nodeID": "143257",
+      "text": "personally I don't accept the premise of the question.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:34"
+    },
+    {
+      "nodeID": "143258",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:57:34"
+    },
+    {
+      "nodeID": "143259",
+      "text": "Fortunately, the Bolshevik Revolution failed. 1989, the Berlin Wall came a-tumbling down, along with Soviet Ideology. Communism is a failed philosophy and the free world has soundly rejected it.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:34"
+    },
+    {
+      "nodeID": "143260",
+      "text": "Of course the bolshevik revolution was doomed from the start as Russia was not indsutrialised and the revolution was imposed by a minority of the bourgeoisie rather than a mass movement of the proletariat (not that there was a proletariat in Russia at the time).",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:34"
+    },
+    {
+      "nodeID": "143261",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:57:34"
+    },
+    {
+      "nodeID": "143262",
+      "text": "Socialsim and Communism in the Soviet Union failed because the USSR spent its entire existence recovering from war. The country was bombed to hell by Germany twice, around the time of the world wars. The united states put unspeakable amounts of money into their war machine, which forced the Soviets to do the same. I, for one, would buy a gun If I knew my neighbor had six, and he wanted me dead. The CIA and American military carried out immoral operations in 60+ countries since 1945. The soviet KGB, as far as I know, has only been in Germany, korea, China, and Afgahnistan.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:34"
+    },
+    {
+      "nodeID": "143263",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:57:34"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185734",
+      "fromID": "143257",
+      "toID": "143258",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185735",
+      "fromID": "143258",
+      "toID": "143256",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185736",
+      "fromID": "143260",
+      "toID": "143261",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185737",
+      "fromID": "143261",
+      "toID": "143259",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185738",
+      "fromID": "143262",
+      "toID": "143263",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185739",
+      "fromID": "143263",
+      "toID": "143259",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

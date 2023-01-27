@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "155613",
+      "text": "A bump of the topic. It seems that any evolutionist with any knowledge of this topic has either quit this board or been banned. Yet there is no response by creationists. Why is that? Is it that Garioch is correct? Is it that creationists are making assertions without understanding what they are talking about? If creationists are talking from a position of knowledge then there should be a creationist discussion of gastralia, their relative position to the sternum, the ossification of the sternum, the presence of a carina, and so forth. The continued failure of creationists to respond with intelligent discussion demonstrates their ignorance of the topic. Therefore, any creationist assertions of the status of Archaeopteryx must be considered as unfounded.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:11"
+    },
+    {
+      "nodeID": "155614",
+      "text": "One shouldn't assume ignorance on the part of creationists. That is a mistake that too many evolutionists make. In the real world, we have people willing to say things they already know isn't true. Why should creationists be any different? After all, they are people, too. But rather than accept that fact, evolutionists argue that creationists are ignorant of a subject when, in reality, they (creationists) were simply telling lies.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:11"
+    },
+    {
+      "nodeID": "155615",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:24:11"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194452",
+      "fromID": "155614",
+      "toID": "155615",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194453",
+      "fromID": "155615",
+      "toID": "155613",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

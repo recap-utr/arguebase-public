@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "147840",
+      "text": "What's your definition of pure?  Has it? This says different: http://skepdic.com/homeo.html I do know of recent studies that show that minute amounts of toxic substances are beneficial and therapeutic. I don't know if one can consider this homeopathic medicine though. I guess I don't know what's being called homeopathic medicine these days. If someone comes up with something that works can they just call it homeopathic medicine and say that homeopathic medicine works?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:08"
+    },
+    {
+      "nodeID": "147841",
+      "text": "Because of your question ' What is your definition of pure', I now know how to make soap. I'll never stink again!!! And I think homeopathic medicine is all about using things like vitamin c to prevent colds, and making sure you ingest lots of calcium if you are worried about ostioperosis. Ya know stuff that makes sense.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:08"
+    },
+    {
+      "nodeID": "147842",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:08"
+    },
+    {
+      "nodeID": "147843",
+      "text": "First is the fact that Ivory soap is pure. just because a substance is airrated doesnt make it less pure.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:08"
+    },
+    {
+      "nodeID": "147844",
+      "text": "What's your definition of pure?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:08"
+    },
+    {
+      "nodeID": "147845",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:08"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "188962",
+      "fromID": "147841",
+      "toID": "147842",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188963",
+      "fromID": "147842",
+      "toID": "147840",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188964",
+      "fromID": "147844",
+      "toID": "147845",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188965",
+      "fromID": "147845",
+      "toID": "147843",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

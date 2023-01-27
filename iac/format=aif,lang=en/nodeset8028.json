@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151404",
+      "text": "IThere are no half-ape men found in the fossil record.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:45"
+    },
+    {
+      "nodeID": "151405",
+      "text": ":xbanghead :xbanghead :xbanghead :xbanghead :xbanghead You seem to like this little blurb, I've seen it several times in various forms. The last time I saw it, it said something like 'there are no half ape-half human fossils'. This is a rediculous line of thought, and shows how little you actually know about TOE.  A half ape-half human fossil would mean that an ape had reproduced with a human. THAT IS NOT WHAT THE TOE IMPLIES. I don't know how many more times you need this repeated to you, but I will offer my assistance as often as needed...no need to thank me.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:45"
+    },
+    {
+      "nodeID": "151406",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:14:46"
+    },
+    {
+      "nodeID": "151407",
+      "text": "Also, I think that evolution in itself is sort of a religion, as it tries to explain the creation of the universe and of all life.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:46"
+    },
+    {
+      "nodeID": "151408",
+      "text": "You must be thinking of physics... last I looked, biologists weren't trying to explain the the creation of the universe. However, we have an excellent handle on the evolution of species, and some pretty reasonable ideas about the origin of life, which is more than your bible ever came up with. I mean... some invisible, bearded guy-in-the-sky zapped it all into existence? Fairytales.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:46"
+    },
+    {
+      "nodeID": "151409",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:14:46"
+    },
+    {
+      "nodeID": "151410",
+      "text": "I have believed that God created everything 'in the beginning' for as long as I can remember. There was a time in my life where I believed that God created evolution, but after seeing the video, I changed to total creationist.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:46"
+    },
+    {
+      "nodeID": "151411",
+      "text": "Well, it does take some scientific knowledge to understand the evidence for evolution. One doesn't expect Creationists to possess it.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:46"
+    },
+    {
+      "nodeID": "151412",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:14:46"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191478",
+      "fromID": "151405",
+      "toID": "151406",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191479",
+      "fromID": "151406",
+      "toID": "151404",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191480",
+      "fromID": "151408",
+      "toID": "151409",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191481",
+      "fromID": "151409",
+      "toID": "151407",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191482",
+      "fromID": "151411",
+      "toID": "151412",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191483",
+      "fromID": "151412",
+      "toID": "151410",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

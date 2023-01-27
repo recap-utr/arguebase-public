@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152067",
+      "text": "I agree 100%. It is sad that many 'Christians' treat the Bible like a buffet and pick and choose what to believe and practice. If they really believed and followed it all then it would be a religious practice commonly scoffed at. Examples pertaining to women: 1 Corinthians 14:34-35: '...women should remain silent in the churches. They are not allowed to speak, but must be in submission, as the Law says, If they want to inquire about something, they should ask their own husbands at home; for it is disgraceful for a woman to speak in the church.'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:08"
+    },
+    {
+      "nodeID": "152068",
+      "text": "I know a number of Christians who do actually stick to this belief.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:08"
+    },
+    {
+      "nodeID": "152069",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:16:09"
+    },
+    {
+      "nodeID": "152070",
+      "text": "1 Corinthians 11:4-7 Any man who prays or prophesies with something on his head disgraces his head, but any woman who prays or prophesies with her head unveiled disgraces her head--it is one and the same thing as having her head shaved. For if a woman will not veil herself, then she should cut off her hair; but if it is disgraceful for a woman to have her hair cut off or to be shaved, she should wear a veil. For a man ought not to have his head veiled, since he is the image and reflection of God; but woman is the reflection of man.[/COLOR]",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:09"
+    },
+    {
+      "nodeID": "152071",
+      "text": "And this one too (abeit watered down- having to wear a to church) Goes to show just when you thought we had gone all progressive there are some people wanting hiding blatant sexism behind the veil of religion. But with regard to your point I agree entirely- the bible is interpreted in different ways, depending on the person.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:09"
+    },
+    {
+      "nodeID": "152072",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:16:09"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191946",
+      "fromID": "152068",
+      "toID": "152069",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191947",
+      "fromID": "152069",
+      "toID": "152067",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191948",
+      "fromID": "152071",
+      "toID": "152072",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191949",
+      "fromID": "152072",
+      "toID": "152070",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

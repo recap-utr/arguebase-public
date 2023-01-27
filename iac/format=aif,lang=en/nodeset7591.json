@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "144550",
+      "text": "Police officer deaths fell sharply in 2008 -- number hasn't been that low since 1999",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:24"
+    },
+    {
+      "nodeID": "144551",
+      "text": "But I thought it was an epidemic, more cops killed than civilians?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:24"
+    },
+    {
+      "nodeID": "144552",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:00:24"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186644",
+      "fromID": "144551",
+      "toID": "144552",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186645",
+      "fromID": "144552",
+      "toID": "144550",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

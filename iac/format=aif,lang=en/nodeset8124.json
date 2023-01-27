@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152771",
+      "text": "No, there really aren't. As for Robertson, why do you think I said he was right (as in global warming is happening and we are largely responsible) by sheer luck?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:43"
+    },
+    {
+      "nodeID": "152772",
+      "text": "Yes, there ARE good scientists on both sides of the issue--you've been shown this before already in another thread, as I recall.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:43"
+    },
+    {
+      "nodeID": "152773",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:17:43"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192436",
+      "fromID": "152772",
+      "toID": "152773",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192437",
+      "fromID": "152773",
+      "toID": "152771",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

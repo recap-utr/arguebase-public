@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "159526",
+      "text": ",...As for Cyber...he is not a Catholic but an atheist so I have no idea what he will think of this...Atheist + pro-life is quite strange, but not unheard of.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:09"
+    },
+    {
+      "nodeID": "159527",
+      "text": "See?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:09"
+    },
+    {
+      "nodeID": "159528",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:33:09"
+    },
+    {
+      "nodeID": "159529",
+      "text": "Your point here would be stronger if you yourself did not constantly engage in the same tactics that you accuse others of doing. I have answered nearly all of the points you ever made to me (I might have missed one or two during your period of multiple replies). You, however, have very often engaged in the very behavior toward me that you accuse those on the pro-choice side of engaging in.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:09"
+    },
+    {
+      "nodeID": "159530",
+      "text": "I see you offer no links to posts or anything other than this baseless allegation. Do you think you could maybe provide a link to a post where I have engaged in a tactic that I have accused others of?  Please? I don't think you can.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:09"
+    },
+    {
+      "nodeID": "159531",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:33:09"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "197236",
+      "fromID": "159527",
+      "toID": "159528",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197237",
+      "fromID": "159528",
+      "toID": "159526",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197238",
+      "fromID": "159530",
+      "toID": "159531",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197239",
+      "fromID": "159531",
+      "toID": "159529",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

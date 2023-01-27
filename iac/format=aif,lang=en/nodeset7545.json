@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143805",
+      "text": "Notice he is from a baptist church. The most bigest<term that has been banned<are baptists or catholic.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:55"
+    },
+    {
+      "nodeID": "143806",
+      "text": "Really??? Maybe you should do a little research before you make sweeping statements like that. -- http://www.rainbowbaptists.org/",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:55"
+    },
+    {
+      "nodeID": "143807",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:58:55"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186126",
+      "fromID": "143806",
+      "toID": "143807",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186127",
+      "fromID": "143807",
+      "toID": "143805",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

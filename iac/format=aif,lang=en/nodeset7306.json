@@ -1,0 +1,145 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140598",
+      "text": "we need more pro gun control advocates on this forum, there are nto enough and this is such a good debate topic. I think we shoot them down so much they gave up",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:46"
+    },
+    {
+      "nodeID": "140599",
+      "text": "This is a free market of ideas. The good ones survive. The bad one die like dinosaurs.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:46"
+    },
+    {
+      "nodeID": "140600",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:51:46"
+    },
+    {
+      "nodeID": "140601",
+      "text": "If only that were the case. It's pretty easy to 'shoot down' an anti, since they rarely have any kind of evidence to support their emotional claims that guns are bad. I was engaged via private message on another forum by a user (who regularly boasted of his recreational drug use) who insisted guns were bad. When challenged with stats from the British Home Office (the person in question was a Briton) he replied something along the lines of 'Well, I don't care any more'. Which I considered odd, as it was he who initiated the debate. Given that, and other comments during our brief correspondence, I concluded that he could not reconcile the stats with his stance (the fact that rape, homicide, violent assault and theft all increased while rates of firearm ownership decreased, and the police themselves were dis-armed) and simply refused to admit his position may have been poorly informed.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:46"
+    },
+    {
+      "nodeID": "140602",
+      "text": "http://www.homeoffice.gov.uk/rds/pdfs2/hosb703.pdf It doesn't look like the UK has been doing too bad. Crime has actually been decreasing.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:46"
+    },
+    {
+      "nodeID": "140603",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:51:46"
+    },
+    {
+      "nodeID": "140604",
+      "text": "I'm for gun control. I believe you should have a steady hand, firm grip, calm breath, and a smooth pull. The more control, the better the shot.emoticon_xkill",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:47"
+    },
+    {
+      "nodeID": "140605",
+      "text": "and al shots in the ten range. And in response to Zachvac i mean guns not arms (as in nukes) but im fine with automatics and such in the right hands.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:47"
+    },
+    {
+      "nodeID": "140606",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:51:47"
+    },
+    {
+      "nodeID": "140607",
+      "text": "Very well put. emoticon_xhoho",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:47"
+    },
+    {
+      "nodeID": "140608",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:51:47"
+    },
+    {
+      "nodeID": "140609",
+      "text": "That wasn't my question. My question wasn't what you said, but what you believed. You sort of answered that. But the same people spouting off about the second ammendment being the reason for guns should also be for it defending your right to a nuclear bomb.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:47"
+    },
+    {
+      "nodeID": "140610",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:51:47"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183844",
+      "fromID": "140599",
+      "toID": "140600",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183845",
+      "fromID": "140600",
+      "toID": "140598",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183846",
+      "fromID": "140602",
+      "toID": "140603",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183847",
+      "fromID": "140603",
+      "toID": "140601",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183848",
+      "fromID": "140605",
+      "toID": "140606",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183849",
+      "fromID": "140606",
+      "toID": "140604",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183850",
+      "fromID": "140607",
+      "toID": "140608",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183851",
+      "fromID": "140608",
+      "toID": "140604",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183852",
+      "fromID": "140609",
+      "toID": "140610",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183853",
+      "fromID": "140610",
+      "toID": "140605",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148426",
+      "text": "I believe he is referring to everyone going to the courts to get what they want instead of the old fashion way, voting.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:29"
+    },
+    {
+      "nodeID": "148427",
+      "text": "And by old fashion I assume you mean Greece a couple of thousand years ago. That's the only place and time I can think of off hand where the populace (by which I mean landed men in this case) could vote to change laws. In this country the correct procedure for a citizen to change an unjust law is via the courts, and always has been. However, I don't think that is, in fact, what Jyoshu was refering to.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:29"
+    },
+    {
+      "nodeID": "148428",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:08:29"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189374",
+      "fromID": "148427",
+      "toID": "148428",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189375",
+      "fromID": "148428",
+      "toID": "148426",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140154",
+      "text": "Marriage is between a man and a woman. If we allow marriage to be redefined to include same-sex couples, the Twin Pilllars of Morality and Spirituality (which have served as beacons of the American culture since our beginning) will not stand.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:49"
+    },
+    {
+      "nodeID": "140155",
+      "text": "And those pillars will be replaced by something stronger like equality and Justice.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:49"
+    },
+    {
+      "nodeID": "140156",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:49"
+    },
+    {
+      "nodeID": "140157",
+      "text": "I will not alter my foundational belief in marriage and family just because some cry for freedom at all costs.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:49"
+    },
+    {
+      "nodeID": "140158",
+      "text": "I don't have to say anything here, your post made it sound sick enough. Yes, freedaom at all cost. Isn't that the theory this country was founded by?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:49"
+    },
+    {
+      "nodeID": "140159",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:49"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183530",
+      "fromID": "140155",
+      "toID": "140156",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183531",
+      "fromID": "140156",
+      "toID": "140154",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183532",
+      "fromID": "140158",
+      "toID": "140159",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183533",
+      "fromID": "140159",
+      "toID": "140157",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

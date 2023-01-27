@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "153332",
+      "text": "Frankly, I think it's about the only meaningful answer there is. Dawkins has famously said that ToE made atheism an intellectually defensible position, and he has a point. But it doesn't make it an intellectually mandatory one.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:03"
+    },
+    {
+      "nodeID": "153333",
+      "text": "And I think Steven Weinberg said something like science does not make it impossible to believe in God, but it does make it possible to not believe in God.  Maybe I have both the quote and the attribution wrong, but I stand by the sentiment.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:03"
+    },
+    {
+      "nodeID": "153334",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:19:03"
+    },
+    {
+      "nodeID": "153335",
+      "text": "I've said it many times before and I'll probably have to say it many times in the future, biological evolution is atheistic in the same way that plumbing is atheistic.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:03"
+    },
+    {
+      "nodeID": "153336",
+      "text": "Well, both traffic in waste material. Many traps are present in each for them to function properly. And don't forget where biological evolution and plumbing both lead you--into a cesspool. :)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:03"
+    },
+    {
+      "nodeID": "153337",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:19:03"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192836",
+      "fromID": "153333",
+      "toID": "153334",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192837",
+      "fromID": "153334",
+      "toID": "153332",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192838",
+      "fromID": "153336",
+      "toID": "153337",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192839",
+      "fromID": "153337",
+      "toID": "153335",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157148",
+      "text": "There have been so many school shootings over the last 40 years that researchers have been able to develop a profile of the typical mass murderer. They're called 'active shooters' or 'active killers' and their crimes play out in a matter of minutes. After the Columbine High School massacre in 1999, police changed their tactics. The two student gunmen killed 15 people and themselves before the SWAT team was in position. Commanders realized that it simply takes too long to assemble a tactical team in time to stop an active killer. The new tactics developed in response to Columbine involved creating an ad-hoc tactical team using the first four or five patrol officers on the scene. They would enter the shooting scene in a diamond formation with guns pointing in all directions. This technique was employed by police departments around the country. Then 32 people were killed by a lone gunman at Virginia Tech in April 2007. Seung Hui Cho shot 47 people, 30 fatally, in the university's Norris Hall in just 11 minutes. That means every minute he killed more than three people and shot a total of four. Once again, the gunman continued shooting until a four-officer team made entry and then he killed himself. Law enforcement reviewed its tactics. Based on the Virginia Tech data, experts determined the first officer on scene should make entry immediately with an aggressive attack on the shooter. Every minute the officer waits for back-up, another three or more people could die. In other words, while it was once considered suicide for a lone officer to take on an active killer, it is now considered statistical homicide for him not to do so. Tactical Defense Institute in Adams County, Ohio developed one of the first 'single officer response' programs in the nation. TDI was teaching the tactic even before Virginia Tech. Now the National School Resource Officer Organization (NSRO) is using TDI instructors to teach school resource officers how to confront a gunman immediately. Locally, all Blue Ash police officers are trained in these new tactics in large part because their chief, Col. Chris Wallace, is also a TDI instructor. The other statistic that emerged from a study of active killers is that they almost exclusively seek out 'gun free' zones for their attacks. In most states, concealed handguns are prohibited at schools and on college campuses even for those with permits. Many malls and workplaces also place signs at their entrances prohibiting firearms on the premises. Now tacticians believe the signs themselves may be an invitation to the active killers. The psychological profile of a mass murderer indicates he is looking to inflict the most casualties as quickly as possible. Also, the data show most active killers have no intention of surviving the event. They may select schools and shopping malls because of the large number of defenseless victims and the virtual guarantee no on the scene one is armed. As soon as they're confronted by any armed resistance, the shooters typically turn the gun on themselves.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:39"
+    },
+    {
+      "nodeID": "157149",
+      "text": "I believe that explains everything very well. 'Gun free zones' are nothing more than 'sheep for the slaughter' and 'wholesale massacre' locations that violent and murderous individuals flock to.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:39"
+    },
+    {
+      "nodeID": "157150",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:27:39"
+    },
+    {
+      "nodeID": "157151",
+      "text": "Batman never carried a gun.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:39"
+    },
+    {
+      "nodeID": "157152",
+      "text": "Actually Batman did carry and use a gun in the early comics, and he also killed the villains sometimes.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:39"
+    },
+    {
+      "nodeID": "157153",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:27:39"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195532",
+      "fromID": "157149",
+      "toID": "157150",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195533",
+      "fromID": "157150",
+      "toID": "157148",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195534",
+      "fromID": "157152",
+      "toID": "157153",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195535",
+      "fromID": "157153",
+      "toID": "157151",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

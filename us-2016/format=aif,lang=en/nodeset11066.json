@@ -1,0 +1,65 @@
+{
+  "nodes": [
+    {
+      "nodeID": "186093",
+      "text": "mitch47 : I like his opinions on mental health care",
+      "type": "L",
+      "timestamp": "2016-07-30 10:25:16"
+    },
+    {
+      "nodeID": "240953",
+      "text": "SANDERS : I believe that everybody in this country who has a mental crisis has got to get mental health counseling immediately",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:33"
+    },
+    {
+      "nodeID": "240955",
+      "text": "SANDERS believes that everybody in this country who has a mental crisis has got to get mental health counseling immediately",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:33"
+    },
+    {
+      "nodeID": "262264",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-03 14:46:44",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "262265",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2017-03-03 14:46:44",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "316270",
+      "fromID": "240953",
+      "toID": "262264",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316271",
+      "fromID": "262264",
+      "toID": "186093",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316272",
+      "fromID": "262264",
+      "toID": "262265",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316273",
+      "fromID": "262265",
+      "toID": "240955",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

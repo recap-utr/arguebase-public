@@ -1,0 +1,801 @@
+{
+  "nodes": [
+    {
+      "nodeID": "205859",
+      "text": "captaindammit87 : As a Kentuckian, I'm sorry for Rand Paul",
+      "type": "L",
+      "timestamp": "2016-10-12 10:30:26"
+    },
+    {
+      "nodeID": "205860",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-12 10:30:26",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "205861",
+      "text": "as a Kentuckian, I'm sorry for PAUL",
+      "type": "I",
+      "timestamp": "2016-10-12 10:30:26"
+    },
+    {
+      "nodeID": "205862",
+      "text": "Barbara: captaindammit87 : As a Kentuckian, I'm sorry for Rand Paul",
+      "type": "L",
+      "timestamp": "2016-10-12 10:30:26"
+    },
+    {
+      "nodeID": "205863",
+      "text": "captaindammit87 : He is an embarrassment",
+      "type": "L",
+      "timestamp": "2016-10-12 10:30:27"
+    },
+    {
+      "nodeID": "205864",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-12 10:30:27",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "205865",
+      "text": "PAUL is an embarrassment",
+      "type": "I",
+      "timestamp": "2016-10-12 10:30:27"
+    },
+    {
+      "nodeID": "205866",
+      "text": "Barbara: captaindammit87 : He is an embarrassment",
+      "type": "L",
+      "timestamp": "2016-10-12 10:30:27"
+    },
+    {
+      "nodeID": "205867",
+      "text": "Nairbod : He's the only logical person on this stage in some places",
+      "type": "L",
+      "timestamp": "2016-10-12 10:30:27"
+    },
+    {
+      "nodeID": "205868",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-12 10:30:27",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "205869",
+      "text": "PAUL is the only logical person on this stage in some places",
+      "type": "I",
+      "timestamp": "2016-10-12 10:30:27"
+    },
+    {
+      "nodeID": "205870",
+      "text": "Barbara: Nairbod : He's the only logical person on this stage in some places",
+      "type": "L",
+      "timestamp": "2016-10-12 10:30:27"
+    },
+    {
+      "nodeID": "205871",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-12 10:30:27",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "205872",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-12 10:30:27",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "205873",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-12 10:30:28",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "205874",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-12 10:30:28",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "205875",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-10-12 10:30:28",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "205876",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-10-12 10:30:28",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "205877",
+      "text": "Barbara: captaindammit87 : And that is sad",
+      "type": "L",
+      "timestamp": "2016-10-12 10:30:28"
+    },
+    {
+      "nodeID": "205878",
+      "text": "Barbara: JuannyCarson : captaindammit87",
+      "type": "L",
+      "timestamp": "2016-10-12 10:30:28"
+    },
+    {
+      "nodeID": "205879",
+      "text": "captaindammit87 : that is sad",
+      "type": "L",
+      "timestamp": "2016-10-12 10:30:28"
+    },
+    {
+      "nodeID": "205880",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-12 10:30:28",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "205881",
+      "text": "that is sad",
+      "type": "I",
+      "timestamp": "2016-10-12 10:30:28"
+    },
+    {
+      "nodeID": "205882",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-12 10:30:29",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "205883",
+      "text": "JuannyCarson :  I like him",
+      "type": "L",
+      "timestamp": "2016-10-12 10:30:29"
+    },
+    {
+      "nodeID": "205884",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-12 10:30:29",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "205885",
+      "text": "I like PAUL",
+      "type": "I",
+      "timestamp": "2016-10-12 10:30:29"
+    },
+    {
+      "nodeID": "205886",
+      "text": "Barbara: JuannyCarson :  I like him",
+      "type": "L",
+      "timestamp": "2016-10-12 10:30:29"
+    },
+    {
+      "nodeID": "205887",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-10-12 10:30:29",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "205888",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-12 10:30:29",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "205889",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-10-12 10:30:29",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "205890",
+      "text": "OnAPartyRock : You're an embarrassment",
+      "type": "L",
+      "timestamp": "2016-10-12 10:30:29"
+    },
+    {
+      "nodeID": "205891",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-12 10:30:29",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "205892",
+      "text": "captaindammit87 is an embarrassment",
+      "type": "I",
+      "timestamp": "2016-10-12 10:30:29"
+    },
+    {
+      "nodeID": "205893",
+      "text": "Barbara: OnAPartyRock : You're an embarrassmen",
+      "type": "L",
+      "timestamp": "2016-10-12 10:30:30"
+    },
+    {
+      "nodeID": "205894",
+      "text": "Ad hominem",
+      "type": "CA",
+      "timestamp": "2016-10-12 10:30:30",
+      "scheme": "Ad hominem",
+      "schemeID": "172"
+    },
+    {
+      "nodeID": "205895",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-12 10:30:30",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "205896",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-10-12 10:30:30",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "205897",
+      "text": "Colonel_Angus : too bad he ducked his question",
+      "type": "L",
+      "timestamp": "2016-10-12 10:30:30"
+    },
+    {
+      "nodeID": "205898",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-12 10:30:30",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "205899",
+      "text": "too bad PAUL ducked his question",
+      "type": "I",
+      "timestamp": "2016-10-12 10:30:30"
+    },
+    {
+      "nodeID": "205900",
+      "text": "Barbara: Colonel_Angus : too bad he ducked his question",
+      "type": "L",
+      "timestamp": "2016-10-12 10:30:30"
+    },
+    {
+      "nodeID": "205901",
+      "text": "Barbara: sleaze_bag_alert : Cuz he's right",
+      "type": "L",
+      "timestamp": "2016-10-12 10:30:30"
+    },
+    {
+      "nodeID": "205902",
+      "text": "Colonel_Angus : he's right",
+      "type": "L",
+      "timestamp": "2016-10-12 10:30:30"
+    },
+    {
+      "nodeID": "205903",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-12 10:30:31",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "205904",
+      "text": "PAUL is right",
+      "type": "I",
+      "timestamp": "2016-10-12 10:30:31"
+    },
+    {
+      "nodeID": "205905",
+      "text": "Barbara: Colonel_Angus : he's right",
+      "type": "L",
+      "timestamp": "2016-10-12 10:30:31"
+    },
+    {
+      "nodeID": "205906",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-12 10:30:31",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "205907",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-12 10:30:31",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "205908",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-12 10:30:31",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "205909",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-12 10:30:31",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "205910",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-10-12 10:30:31",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "205911",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-10-12 10:30:31",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "205912",
+      "text": "sleaze_bag_alert :  Id be more proud to be from Kentucky than the people in New Jersey at least",
+      "type": "L",
+      "timestamp": "2016-10-12 10:30:31"
+    },
+    {
+      "nodeID": "205913",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-12 10:30:32",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "205914",
+      "text": "I would be more proud to be from Kentucky than the people in New Jersey at least",
+      "type": "I",
+      "timestamp": "2016-10-12 10:30:32"
+    },
+    {
+      "nodeID": "205915",
+      "text": "Barbara: sleaze_bag_alert :  Id be more proud to be from Kentucky than the people in New Jersey at least",
+      "type": "L",
+      "timestamp": "2016-10-12 10:30:32"
+    },
+    {
+      "nodeID": "205916",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-10-12 10:30:32",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "205917",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-12 10:30:32",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "205918",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-10-12 10:30:32",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "251159",
+      "fromID": "205860",
+      "toID": "205861",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251160",
+      "fromID": "205859",
+      "toID": "205860",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251161",
+      "fromID": "205864",
+      "toID": "205865",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251162",
+      "fromID": "205863",
+      "toID": "205864",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251163",
+      "fromID": "205868",
+      "toID": "205869",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251164",
+      "fromID": "205867",
+      "toID": "205868",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251165",
+      "fromID": "205865",
+      "toID": "205871",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251166",
+      "fromID": "205871",
+      "toID": "205861",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251167",
+      "fromID": "205859",
+      "toID": "205872",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251168",
+      "fromID": "205872",
+      "toID": "205863",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251169",
+      "fromID": "205872",
+      "toID": "205873",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251170",
+      "fromID": "205873",
+      "toID": "205871",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251171",
+      "fromID": "205863",
+      "toID": "205874",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251172",
+      "fromID": "205874",
+      "toID": "205867",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251173",
+      "fromID": "205869",
+      "toID": "205875",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251174",
+      "fromID": "205875",
+      "toID": "205865",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251175",
+      "fromID": "205874",
+      "toID": "205876",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251176",
+      "fromID": "205876",
+      "toID": "205875",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251177",
+      "fromID": "205880",
+      "toID": "205881",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251178",
+      "fromID": "205879",
+      "toID": "205880",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251179",
+      "fromID": "205867",
+      "toID": "205882",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251180",
+      "fromID": "205882",
+      "toID": "205879",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251181",
+      "fromID": "205884",
+      "toID": "205885",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251182",
+      "fromID": "205883",
+      "toID": "205884",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251183",
+      "fromID": "205885",
+      "toID": "205887",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251184",
+      "fromID": "205887",
+      "toID": "205865",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251185",
+      "fromID": "205863",
+      "toID": "205888",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251186",
+      "fromID": "205888",
+      "toID": "205883",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251187",
+      "fromID": "205888",
+      "toID": "205889",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251188",
+      "fromID": "205889",
+      "toID": "205887",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251189",
+      "fromID": "205891",
+      "toID": "205892",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251190",
+      "fromID": "205890",
+      "toID": "205891",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251191",
+      "fromID": "205892",
+      "toID": "205894",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251192",
+      "fromID": "205894",
+      "toID": "205865",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251193",
+      "fromID": "205863",
+      "toID": "205895",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251194",
+      "fromID": "205895",
+      "toID": "205890",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251195",
+      "fromID": "205895",
+      "toID": "205896",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251196",
+      "fromID": "205896",
+      "toID": "205894",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251197",
+      "fromID": "205898",
+      "toID": "205899",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251198",
+      "fromID": "205897",
+      "toID": "205898",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251199",
+      "fromID": "205903",
+      "toID": "205904",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251200",
+      "fromID": "205902",
+      "toID": "205903",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251201",
+      "fromID": "205897",
+      "toID": "205906",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251202",
+      "fromID": "205906",
+      "toID": "205902",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251203",
+      "fromID": "205904",
+      "toID": "205907",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251204",
+      "fromID": "205907",
+      "toID": "205899",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251205",
+      "fromID": "205906",
+      "toID": "205908",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251206",
+      "fromID": "205908",
+      "toID": "205907",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251207",
+      "fromID": "205863",
+      "toID": "205909",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251208",
+      "fromID": "205909",
+      "toID": "205902",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251209",
+      "fromID": "205904",
+      "toID": "205910",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251210",
+      "fromID": "205910",
+      "toID": "205865",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251211",
+      "fromID": "205909",
+      "toID": "205911",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251212",
+      "fromID": "205911",
+      "toID": "205910",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251213",
+      "fromID": "205913",
+      "toID": "205914",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251214",
+      "fromID": "205912",
+      "toID": "205913",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251215",
+      "fromID": "205914",
+      "toID": "205916",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251216",
+      "fromID": "205916",
+      "toID": "205861",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251217",
+      "fromID": "205859",
+      "toID": "205917",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251218",
+      "fromID": "205917",
+      "toID": "205912",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251219",
+      "fromID": "205918",
+      "toID": "205916",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251220",
+      "fromID": "205917",
+      "toID": "205918",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

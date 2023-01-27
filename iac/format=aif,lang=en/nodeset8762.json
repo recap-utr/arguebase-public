@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "162304",
+      "text": "Now, if the perpetual fetus worshippers could drag themselves away from the eternal worship of the fetus to deal with some real problems. . . .",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:40"
+    },
+    {
+      "nodeID": "162305",
+      "text": "Well, you've convinced me. Instead of letting the poor babies suffer from malnutrition, let's perform an extremely late-term abortion on them, say at 1 year old? emoticon_rolleyes",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:40"
+    },
+    {
+      "nodeID": "162306",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:39:40"
+    },
+    {
+      "nodeID": "162307",
+      "text": "Here's an interesting hypothetical situation that I came across recently. It's one of those Catch-22, you can only save one things.  Say you are in a fertility clinic and it's burning down. Over in the corner there is a 2 year old child crying. In the other corner is a petri dish (or test tubes if you like) with 5 blastula embryos in it. You can only save one. Do you save the 2 year old child or do you save the 5 lives in the petri dish?  And this brings up the point of why is it that there are protesters outside abortion clinics that abort pregnancies but there are never protesters outside of fertility clinics where millions MORE embryos are destroyed than ever will be destroyed in abortion clinics? What gives with that? The fertility clinics are still 'killing babies' aren't they? Why are there so many protesters outside abortion clinics and none outside fertility clinics?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:40"
+    },
+    {
+      "nodeID": "162308",
+      "text": "and the pro-choicers claim pro-lifers appeal to emotion too much. Nevertheless, I think the embryos would probably be dead if they were just sitting on a counter somewhere so you then save the child.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:40"
+    },
+    {
+      "nodeID": "162309",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:39:41"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "199220",
+      "fromID": "162305",
+      "toID": "162306",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199221",
+      "fromID": "162306",
+      "toID": "162304",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199222",
+      "fromID": "162308",
+      "toID": "162309",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199223",
+      "fromID": "162309",
+      "toID": "162307",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "147202",
+      "text": "I SUGGEST THESE AREN'T NEWLY EVOLVED CHARACTERISTICS BUT HAVE ALWAYS EXISTED WITHIN THEIR GENETIC MAKE UP.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:45"
+    },
+    {
+      "nodeID": "147203",
+      "text": "But these organisms haven't always existed.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:45"
+    },
+    {
+      "nodeID": "147204",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:05:45"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "188514",
+      "fromID": "147203",
+      "toID": "147204",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188515",
+      "fromID": "147204",
+      "toID": "147202",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

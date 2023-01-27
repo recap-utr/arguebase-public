@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143501",
+      "text": "And I'd think the explanation would be that oxygen content was much different before the flood",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:16"
+    },
+    {
+      "nodeID": "143502",
+      "text": "And yet the species that exist today are the exact same as the species during the high oxygen content? That makes little sense. It's like saying the world was vastly different before yet perfectly suited for the species that exist today. That is COMPLETELY nonsensical.  Where did all of the oxygen go?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:16"
+    },
+    {
+      "nodeID": "143503",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:58:16"
+    },
+    {
+      "nodeID": "143504",
+      "text": "grow for their complete lives. So although there was a slightly higher oxygen level, it wasn't the reason for larger growth of reptiles.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:16"
+    },
+    {
+      "nodeID": "143505",
+      "text": "Well, we'll ignore the fact that you think dinos are the same as modern day reptiles, and we'll ignore the fact that you are assuming that what goes today must have gone before (something you rant against on a daily basis). Who said anything about reptiles or dinosaurs?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:16"
+    },
+    {
+      "nodeID": "143506",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:58:16"
+    },
+    {
+      "nodeID": "143507",
+      "text": "Not to mention that even today, reptiles, which dinos are,",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:17"
+    },
+    {
+      "nodeID": "143508",
+      "text": "No, they're not.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:17"
+    },
+    {
+      "nodeID": "143509",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:58:17"
+    },
+    {
+      "nodeID": "143510",
+      "text": "All this proves is that atheists/ secular humanists/ evolutionists can't even consider an opposing perspective that seeks to answer the question they ask.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:17"
+    },
+    {
+      "nodeID": "143511",
+      "text": "And how does that perspective even deal with the problem of limited ATP production in a low oxygen atmosphere? I suspect you don't understand the question. You're completely avoiding the issue of oxygen in the first place.  You don't even understand the very basics of biology!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:17"
+    },
+    {
+      "nodeID": "143512",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:58:17"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185906",
+      "fromID": "143502",
+      "toID": "143503",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185907",
+      "fromID": "143503",
+      "toID": "143501",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185908",
+      "fromID": "143505",
+      "toID": "143506",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185909",
+      "fromID": "143506",
+      "toID": "143504",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185910",
+      "fromID": "143508",
+      "toID": "143509",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185911",
+      "fromID": "143509",
+      "toID": "143507",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185912",
+      "fromID": "143511",
+      "toID": "143512",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185913",
+      "fromID": "143512",
+      "toID": "143510",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

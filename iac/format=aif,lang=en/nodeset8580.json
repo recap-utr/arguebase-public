@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "159508",
+      "text": "Who's Tiggerward?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:06"
+    },
+    {
+      "nodeID": "159509",
+      "text": "Just another one of Chuzlife's overgeneralizing personal attacks. Along with child molester, mass murderer, ad nauseum ... Chuzlife may not need God, but he needs the good guys and the bad guys in his worldview.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:06"
+    },
+    {
+      "nodeID": "159510",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:33:06"
+    },
+    {
+      "nodeID": "159511",
+      "text": "To me, viability, sentience, the development of the nervous system and the brain, and the experience of pain in a fetus during the third trimester begin to mark the ethical boundaries. But those, too, as indicators, are not absolute. And the woman comes first. It's between her and her physician. It's not my job to judge whether she suffered appropriately enough or not.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:06"
+    },
+    {
+      "nodeID": "159512",
+      "text": "You state 'the woman comes first'. This seems to be your only 'absolute'. Why does the woman come first? Is it because she is fully developed? Is she more important than the child she is carrying?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:06"
+    },
+    {
+      "nodeID": "159513",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:33:07"
+    },
+    {
+      "nodeID": "159514",
+      "text": "A child's right to their life should begin when their life does and not just when you can't justify their denial anymore. You don't like it? Tough :xcensored Whether you want to make the defense of those children's YOUR business or not,... I'm making it MY business. And neither of us are standing alone nor backing down. The lines are drawn and the battle wages on. 'Same as it ever was!'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:07"
+    },
+    {
+      "nodeID": "159515",
+      "text": "I think you sound rather immature. And actually, it's tough luck for you, Chuzlife. Because the law is not on your side. And I doubt women who are exercising their Constitutional rights are going to tell you about what's going on with their bodies or within their privacy of their relationships with their physicians and/or family members.  Nor do I blame them one bit. And just to clarify your position for the board, on this 'child' definition you keep insisting on. Do you mean to use that terminology for a fertilized egg, too? As in the photograph I shared earlier? :flutteringeyelashes:",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:07"
+    },
+    {
+      "nodeID": "159516",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:33:07"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "197224",
+      "fromID": "159509",
+      "toID": "159510",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197225",
+      "fromID": "159510",
+      "toID": "159508",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197226",
+      "fromID": "159512",
+      "toID": "159513",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197227",
+      "fromID": "159513",
+      "toID": "159511",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197228",
+      "fromID": "159515",
+      "toID": "159516",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197229",
+      "fromID": "159516",
+      "toID": "159514",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

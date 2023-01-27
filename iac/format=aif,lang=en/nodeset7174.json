@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138846",
+      "text": "Other than for propaganda purposes, why do you and your playmates post this stuff? Who is it aimed at? Do you really expect to be changing anyones mind, or is it preaching to the converted?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:56"
+    },
+    {
+      "nodeID": "138847",
+      "text": "Actually I did not know what Nato had posted. I found it quite interesting. I know that when I and my wife attended church, I thought about that possibility. Someone who Hates us just because we go to church, and I thought about bringing the problem up.  I quickly dismissed the probability of something like this happening because right across the street, is the Fairview Police Station. However, this is exactly where things like this do happen. In places where one is not allowed to carry a concealed firearm.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:56"
+    },
+    {
+      "nodeID": "138848",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:47:56"
+    },
+    {
+      "nodeID": "138849",
+      "text": "What Would Jesus Carry?emoticon_xclown",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:56"
+    },
+    {
+      "nodeID": "138850",
+      "text": "A lot of people say that Jesus is the son of God. Others say that Jesus was actually God Himself, who came to Earth. Whichever way is the real case, Jesus didn't need to carry anything, because God had the ability to wipe two cities off the face of the map by raining down fire and brimstone. God has plenty of firepower at His disposal. And He never said 'lay down and die because it's wrong to protect yourselves from harm.'",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:56"
+    },
+    {
+      "nodeID": "138851",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:47:56"
+    },
+    {
+      "nodeID": "138852",
+      "text": "A two edged sword! Revelations!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:56"
+    },
+    {
+      "nodeID": "138853",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:47:56"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182602",
+      "fromID": "138847",
+      "toID": "138848",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182603",
+      "fromID": "138848",
+      "toID": "138846",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182604",
+      "fromID": "138850",
+      "toID": "138851",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182605",
+      "fromID": "138851",
+      "toID": "138849",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182606",
+      "fromID": "138852",
+      "toID": "138853",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182607",
+      "fromID": "138853",
+      "toID": "138849",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

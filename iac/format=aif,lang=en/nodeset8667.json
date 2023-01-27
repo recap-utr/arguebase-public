@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "161087",
+      "text": "So why have we a abandoned so much of the old testiment law? Stop eating pork, cutting your hair, shaving your beard (especially you girls), unless of course you just wish to adhere to those laws that are convenient.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:35"
+    },
+    {
+      "nodeID": "161088",
+      "text": "Well there's a new Covenant / Testament. But Jesus declared all foods clean so you can have your pork. Check for trichinellas, which is probably one reason it wasn't on God's preferred list in those unsanitary times. Recommended study for you: Investigate the different kinds of laws (i.e. moral, civil / tort, ceremonial, dietary). Then look at how these issues are treated in the NT.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:35"
+    },
+    {
+      "nodeID": "161089",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:36:35"
+    },
+    {
+      "nodeID": "161090",
+      "text": "Adultery is still adultery, murder is still murder, stealing is still stealing, etc.....",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:35"
+    },
+    {
+      "nodeID": "161091",
+      "text": "But what is adultery? Mark 10:11: And he saith unto them, Whosoever shall put away his wife, and marry another, committeth adultery against her. And if a woman shall put away her husband, and be married to another, she committeth adultery. Matthew 19:9: And I say unto you, Whosoever shall put away his wife, except it be for fornication, and shall marry another, committeth adultery; and whoso marrieth her which is put away doth commit adultery.  Strange that the gospels differ so importantly about what Jesus said in the same instance. According to Mark, all putting away is adultery, but Matthew says that her fornication provides for an out for him. Which is it?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:35"
+    },
+    {
+      "nodeID": "161092",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:36:35"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198354",
+      "fromID": "161088",
+      "toID": "161089",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198355",
+      "fromID": "161089",
+      "toID": "161087",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198356",
+      "fromID": "161091",
+      "toID": "161092",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198357",
+      "fromID": "161092",
+      "toID": "161090",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

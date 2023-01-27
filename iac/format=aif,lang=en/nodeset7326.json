@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140789",
+      "text": "CASE 2: What about if you disagreed with how much the government is taxing you. Lets say your tax rate is 25% but you thought that was too much, would you just pay the amount you felt was fair?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:16"
+    },
+    {
+      "nodeID": "140790",
+      "text": "I don't know if you ever heard of the UK Poll Tax but I could have seen myself protesting by non-payment against such a grotesquely unfair system of taxation had I been of the age to do so.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:16"
+    },
+    {
+      "nodeID": "140791",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:52:16"
+    },
+    {
+      "nodeID": "140792",
+      "text": "As I've stated in the other thread, I'm not a judge and I wouldn't rule on this. Life is not a simple matter of black and white, cut and dried answers. There can be extenuating circumstances--if you have the intelligence to get to understanding that point.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:16"
+    },
+    {
+      "nodeID": "140793",
+      "text": "I think it is more cut and dry than you think. Some of us have a higher law than the US code. You might have a similiar hierachy of how you go about deciding right and wrong. A difference might be that my wants are below the law while your wants are above the law...would this be a fair representation? (note: I don't mean 'above the law' as to imply that you think you are mightier than everyone)",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:16"
+    },
+    {
+      "nodeID": "140794",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:52:16"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183982",
+      "fromID": "140790",
+      "toID": "140791",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183983",
+      "fromID": "140791",
+      "toID": "140789",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183984",
+      "fromID": "140793",
+      "toID": "140794",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183985",
+      "fromID": "140794",
+      "toID": "140792",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

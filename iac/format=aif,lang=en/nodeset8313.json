@@ -1,0 +1,247 @@
+{
+  "nodes": [
+    {
+      "nodeID": "23880",
+      "text": "yes",
+      "type": "I",
+      "timestamp": "2013-08-06 15:53:15"
+    },
+    {
+      "nodeID": "155616",
+      "text": "If boy A loves boy B, and boy B loves boy C, and boy C loves boy A, they should be allowed to work out their own triangular marriage. If twenty people are in love with each other, they should all be allowed to marry as one big group.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:12"
+    },
+    {
+      "nodeID": "155617",
+      "text": "oh please now you are just being dramatic. But for the sake of argumnet. NO marriage should be two consenting adults.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:12"
+    },
+    {
+      "nodeID": "155618",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:12"
+    },
+    {
+      "nodeID": "155619",
+      "text": "So men can marry men, and women can marry women.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:12"
+    },
+    {
+      "nodeID": "155620",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:12"
+    },
+    {
+      "nodeID": "155621",
+      "text": "Are we prepared for that? Would it be good for society? Would it be right?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:12"
+    },
+    {
+      "nodeID": "155622",
+      "text": "I don't think people like you are prepared for it, but I'm not prepared to put up with people like you, and I get by somehow. Would it be good for society? What society? What are you talking about?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:12"
+    },
+    {
+      "nodeID": "155623",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:12"
+    },
+    {
+      "nodeID": "155624",
+      "text": "Age ought not play a part in marriage if love is truly involved.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:12"
+    },
+    {
+      "nodeID": "155625",
+      "text": "But only true love is not involved. There is the matter of a legal contract. Also, a child is not a consenting adult.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:12"
+    },
+    {
+      "nodeID": "155626",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:13"
+    },
+    {
+      "nodeID": "155627",
+      "text": "People truly in love with themselves should be able to marry themselves.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:13"
+    },
+    {
+      "nodeID": "155628",
+      "text": "Well, since the definition of marriage involves 'bringing together to make one' then that doesn't make sense. But, whatever, nothings stopping you. Marry yourself. I just did (in the eyes of god).",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:13"
+    },
+    {
+      "nodeID": "155629",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:13"
+    },
+    {
+      "nodeID": "155630",
+      "text": "Who said anything about a different form of love?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:13"
+    },
+    {
+      "nodeID": "155631",
+      "text": "You did when you talked about someone loving objects, or a mokey, etc.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:13"
+    },
+    {
+      "nodeID": "155632",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:13"
+    },
+    {
+      "nodeID": "155633",
+      "text": "But, even if all this were untrue, it really has nothing to do with America. Canada may very well have been prepared to accept gays into its army without serious repercussions, specifically a degradation of its cohesion. If this is the case, then good for them. It does not mean America is in any such stage.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:13"
+    },
+    {
+      "nodeID": "155634",
+      "text": "So are you saying that Canadian society is less bigoted than US? Are you saying that because US society is bigoted then it is right to pander to the bigots and allow them to dictate the rules of society? Oh and BTW, the British Army openly allows homosexuals as well, and seems to function well enough too.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:13"
+    },
+    {
+      "nodeID": "155635",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:13"
+    },
+    {
+      "nodeID": "155636",
+      "text": "If they did, you probably wouldn't know about it.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:13"
+    },
+    {
+      "nodeID": "155637",
+      "text": "Oh? Seeing as my information comes from active Canadian Forces members, both gay and straight, I'd say that I'd know about it. Anecdotal evidence, to be sure, but it seems to be supported by the official channels.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:13"
+    },
+    {
+      "nodeID": "155638",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:13"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194454",
+      "fromID": "155617",
+      "toID": "155618",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194455",
+      "fromID": "155618",
+      "toID": "155616",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194456",
+      "fromID": "23880",
+      "toID": "155620",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194457",
+      "fromID": "155620",
+      "toID": "155619",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194458",
+      "fromID": "155622",
+      "toID": "155623",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194459",
+      "fromID": "155623",
+      "toID": "155621",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194460",
+      "fromID": "155625",
+      "toID": "155626",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194461",
+      "fromID": "155626",
+      "toID": "155624",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194462",
+      "fromID": "155628",
+      "toID": "155629",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194463",
+      "fromID": "155629",
+      "toID": "155627",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194464",
+      "fromID": "155631",
+      "toID": "155632",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194465",
+      "fromID": "155632",
+      "toID": "155630",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194466",
+      "fromID": "155634",
+      "toID": "155635",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194467",
+      "fromID": "155635",
+      "toID": "155633",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194468",
+      "fromID": "155637",
+      "toID": "155638",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194469",
+      "fromID": "155638",
+      "toID": "155636",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

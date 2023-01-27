@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "136644",
+      "text": "Won't a .22 penetrate easer due to its smaller size? Don't for get to ban the weapon that will go through all soft armor, of any rating, a knife!!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:30"
+    },
+    {
+      "nodeID": "136645",
+      "text": "Just like the plastic gun fear, the armour piercing bullet fear was built upon misinformation and myth.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:30"
+    },
+    {
+      "nodeID": "136646",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:43:30"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181024",
+      "fromID": "136645",
+      "toID": "136646",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181025",
+      "fromID": "136646",
+      "toID": "136644",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

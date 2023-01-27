@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140456",
+      "text": "Makes quite a difference. Still a third trimester baby.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:31"
+    },
+    {
+      "nodeID": "140457",
+      "text": "yeah, i misread it. still....the point is the same.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:31"
+    },
+    {
+      "nodeID": "140458",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:51:31"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183746",
+      "fromID": "140457",
+      "toID": "140458",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183747",
+      "fromID": "140458",
+      "toID": "140456",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

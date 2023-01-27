@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139109",
+      "text": "So this eliminates Neanderthal from being an ancestor to homo sapiens.......do you have any idea of the implications of this?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:27"
+    },
+    {
+      "nodeID": "139110",
+      "text": "Yes I do. I wonder if you do. Neandertals aren't claimed to be ancestors of Homo sapiens. They are generally considered to be a separate species descended from a common ancestor. No one except uninformed creationists makes any claim that Neandertals are ancestral to modern humans.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:27"
+    },
+    {
+      "nodeID": "139111",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:48:27"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182796",
+      "fromID": "139110",
+      "toID": "139111",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182797",
+      "fromID": "139111",
+      "toID": "139109",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141812",
+      "text": "Now, now, Terje...ever been to Texas?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:39"
+    },
+    {
+      "nodeID": "141813",
+      "text": "Actually no. And I'd really want to go for the music. This is a quote from Bob Brozman, a great slide player that I've seen a few times. Funny guy.  The full quote is like this: 'I'm so glad to be here in Europe where you still have freedom of speech. They've taken that away from us. Remember that I come from a coutry where 40% of the people don't believe in evolution. And if you ever go to Texas... there's no evidence of any!'",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:39"
+    },
+    {
+      "nodeID": "141814",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:54:39"
+    },
+    {
+      "nodeID": "141815",
+      "text": "Way wrong... is it wishful thinking that makes you make this assumption? :)",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:39"
+    },
+    {
+      "nodeID": "141816",
+      "text": "No. I have a beautiful wife and three grown daughters - I don't wish for no more. (That's Texan for: I have no desire for more.) :p BTW - Welcome aboard emoticon_xgood",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:39"
+    },
+    {
+      "nodeID": "141817",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:54:39"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184700",
+      "fromID": "141813",
+      "toID": "141814",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184701",
+      "fromID": "141814",
+      "toID": "141812",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184702",
+      "fromID": "141816",
+      "toID": "141817",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184703",
+      "fromID": "141817",
+      "toID": "141815",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

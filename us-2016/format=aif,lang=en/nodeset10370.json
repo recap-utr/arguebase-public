@@ -1,0 +1,455 @@
+{
+  "nodes": [
+    {
+      "nodeID": "208868",
+      "text": "Thrownawayactually : Donald opposed the war",
+      "type": "L",
+      "timestamp": "2016-10-25 12:13:21"
+    },
+    {
+      "nodeID": "209710",
+      "text": "Assertive Questioning",
+      "type": "YA",
+      "timestamp": "2016-10-30 18:34:24",
+      "scheme": "AssertiveQuestioning",
+      "schemeID": "73"
+    },
+    {
+      "nodeID": "209711",
+      "text": "TRUMP opposed the war",
+      "type": "I",
+      "timestamp": "2016-10-30 18:34:24"
+    },
+    {
+      "nodeID": "209712",
+      "text": "Barbara: Thrownawayactually : Donald opposed the war",
+      "type": "L",
+      "timestamp": "2016-10-30 18:34:24"
+    },
+    {
+      "nodeID": "209713",
+      "text": "StokedAs : Yep",
+      "type": "L",
+      "timestamp": "2016-10-30 18:34:24"
+    },
+    {
+      "nodeID": "209714",
+      "text": "Barbara: StokedAs : Yep",
+      "type": "L",
+      "timestamp": "2016-10-30 18:34:24"
+    },
+    {
+      "nodeID": "209715",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-30 18:34:24",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "209716",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2016-10-30 18:34:24",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    },
+    {
+      "nodeID": "209717",
+      "text": "Son_Of_Jameson : yes",
+      "type": "L",
+      "timestamp": "2016-10-30 18:34:24"
+    },
+    {
+      "nodeID": "209718",
+      "text": "Barbara: Son_Of_Jameson : yes",
+      "type": "L",
+      "timestamp": "2016-10-30 18:34:24"
+    },
+    {
+      "nodeID": "209719",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-30 18:34:24",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "209720",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2016-10-30 18:34:24",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    },
+    {
+      "nodeID": "209721",
+      "text": "Son_Of_Jameson : he was",
+      "type": "L",
+      "timestamp": "2016-10-30 18:34:25"
+    },
+    {
+      "nodeID": "209722",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-30 18:34:25",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "209723",
+      "text": "TRUMP was opposing the war",
+      "type": "I",
+      "timestamp": "2016-10-30 18:34:25"
+    },
+    {
+      "nodeID": "209724",
+      "text": "Barbara: Son_Of_Jameson : he was",
+      "type": "L",
+      "timestamp": "2016-10-30 18:34:25"
+    },
+    {
+      "nodeID": "209725",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-10-30 18:34:25",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "209726",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-30 18:34:25",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "209727",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2016-10-30 18:34:25",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "209728",
+      "text": "F22Rapture : Apparently, yeah",
+      "type": "L",
+      "timestamp": "2016-10-30 18:34:25"
+    },
+    {
+      "nodeID": "209729",
+      "text": "Barbara: F22Rapture : Apparently, yeah",
+      "type": "L",
+      "timestamp": "2016-10-30 18:34:25"
+    },
+    {
+      "nodeID": "209730",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-30 18:34:25",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "209731",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2016-10-30 18:34:25",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    },
+    {
+      "nodeID": "209732",
+      "text": "F22Rapture : I did a brief google and found a forum post quoting him from 2004 that seemed that way",
+      "type": "L",
+      "timestamp": "2016-10-30 18:34:25"
+    },
+    {
+      "nodeID": "209733",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-30 18:34:26",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "209734",
+      "text": "I did a brief google and found a forum post quoting TRUMP from 2004 that seemed that he opposed the war",
+      "type": "I",
+      "timestamp": "2016-10-30 18:34:26"
+    },
+    {
+      "nodeID": "209735",
+      "text": "Barbara: F22Rapture : I did a brief google and found a forum post quoting him from 2004 that seemed that way",
+      "type": "L",
+      "timestamp": "2016-10-30 18:34:26"
+    },
+    {
+      "nodeID": "209736",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-30 18:34:26",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "209737",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-30 18:34:26",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "209738",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-30 18:34:26",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "209739",
+      "text": "unityskater : Wars are bad for hospitality",
+      "type": "L",
+      "timestamp": "2016-10-30 18:34:26"
+    },
+    {
+      "nodeID": "209740",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-30 18:34:26",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "209741",
+      "text": "wars are bad for hospitality",
+      "type": "I",
+      "timestamp": "2016-10-30 18:34:26"
+    },
+    {
+      "nodeID": "209742",
+      "text": "Barbara: unityskater : Wars are bad for hospitality",
+      "type": "L",
+      "timestamp": "2016-10-30 18:34:26"
+    },
+    {
+      "nodeID": "209743",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-30 18:34:27",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "256049",
+      "fromID": "209710",
+      "toID": "209711",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256050",
+      "fromID": "208868",
+      "toID": "209710",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256051",
+      "fromID": "208868",
+      "toID": "209715",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256052",
+      "fromID": "209715",
+      "toID": "209713",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256053",
+      "fromID": "209715",
+      "toID": "209716",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256054",
+      "fromID": "209716",
+      "toID": "209711",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256055",
+      "fromID": "208868",
+      "toID": "209719",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256056",
+      "fromID": "209719",
+      "toID": "209717",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256057",
+      "fromID": "209719",
+      "toID": "209720",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256058",
+      "fromID": "209720",
+      "toID": "209711",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256059",
+      "fromID": "209722",
+      "toID": "209723",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256060",
+      "fromID": "209721",
+      "toID": "209722",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256061",
+      "fromID": "209723",
+      "toID": "209725",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256062",
+      "fromID": "209725",
+      "toID": "209711",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256063",
+      "fromID": "208868",
+      "toID": "209726",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256064",
+      "fromID": "209726",
+      "toID": "209721",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256065",
+      "fromID": "209726",
+      "toID": "209727",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256066",
+      "fromID": "209727",
+      "toID": "209725",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256067",
+      "fromID": "208868",
+      "toID": "209730",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256068",
+      "fromID": "209730",
+      "toID": "209728",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256069",
+      "fromID": "209730",
+      "toID": "209731",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256070",
+      "fromID": "209731",
+      "toID": "209711",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256071",
+      "fromID": "209733",
+      "toID": "209734",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256072",
+      "fromID": "209732",
+      "toID": "209733",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256073",
+      "fromID": "209734",
+      "toID": "209736",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256074",
+      "fromID": "209736",
+      "toID": "209711",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256075",
+      "fromID": "208868",
+      "toID": "209737",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256076",
+      "fromID": "209737",
+      "toID": "209732",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256077",
+      "fromID": "209737",
+      "toID": "209738",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256078",
+      "fromID": "209738",
+      "toID": "209736",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256079",
+      "fromID": "209740",
+      "toID": "209741",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256080",
+      "fromID": "209739",
+      "toID": "209740",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256081",
+      "fromID": "208868",
+      "toID": "209743",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256082",
+      "fromID": "209743",
+      "toID": "209739",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

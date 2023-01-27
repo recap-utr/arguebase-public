@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "142592",
+      "text": "I simply wanted to point out that pregnancy can kill a woman. Guess you just couldn't understand that.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:13"
+    },
+    {
+      "nodeID": "142593",
+      "text": "No one said otherwise and it is still irrelevant.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:13"
+    },
+    {
+      "nodeID": "142594",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:56:13"
+    },
+    {
+      "nodeID": "142595",
+      "text": "False assumptions usually do sound ugly. Try these: Let's assume for a moment that an egg is a chicken. Let's assume for a moment that an acorn is an oak tree. Pretty silly, right?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:13"
+    },
+    {
+      "nodeID": "142596",
+      "text": "Actually false assumptions can sound quite pleasant. For example: there will be peace in the world.  The vile comments you embrace are not ugly because they are supposedly false, but because they treat human life in a contemptuous and arrogant manner, in the context of destroying that life.  You can behave with as little class as you want over the internet, but it shows a lot of cowardice since I bet you wouldn't be so prickly face to face with other people.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:13"
+    },
+    {
+      "nodeID": "142597",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:56:13"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185264",
+      "fromID": "142593",
+      "toID": "142594",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185265",
+      "fromID": "142594",
+      "toID": "142592",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185266",
+      "fromID": "142596",
+      "toID": "142597",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185267",
+      "fromID": "142597",
+      "toID": "142595",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

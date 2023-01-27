@@ -1,0 +1,703 @@
+{
+  "nodes": [
+    {
+      "nodeID": "206784",
+      "text": "Snaaaaaaaaaake : May not like Rubio",
+      "type": "L",
+      "timestamp": "2016-10-17 17:31:06"
+    },
+    {
+      "nodeID": "206785",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-17 17:31:07",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "206786",
+      "text": "I may not like RUBIO",
+      "type": "I",
+      "timestamp": "2016-10-17 17:31:07"
+    },
+    {
+      "nodeID": "206787",
+      "text": "Barbara: Snaaaaaaaaaake : May not like Rubio",
+      "type": "L",
+      "timestamp": "2016-10-17 17:31:07"
+    },
+    {
+      "nodeID": "206788",
+      "text": "Snaaaaaaaaaake : he's winning",
+      "type": "L",
+      "timestamp": "2016-10-17 17:31:07"
+    },
+    {
+      "nodeID": "206789",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-17 17:31:07",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "206790",
+      "text": "RUBIO is winning",
+      "type": "I",
+      "timestamp": "2016-10-17 17:31:07"
+    },
+    {
+      "nodeID": "206791",
+      "text": "Barbara: Snaaaaaaaaaake : he's winning",
+      "type": "L",
+      "timestamp": "2016-10-17 17:31:07"
+    },
+    {
+      "nodeID": "206792",
+      "text": "Sullyville : yeah",
+      "type": "L",
+      "timestamp": "2016-10-17 17:31:07"
+    },
+    {
+      "nodeID": "206793",
+      "text": "Barbara: Sullyville : yeah",
+      "type": "L",
+      "timestamp": "2016-10-17 17:31:07"
+    },
+    {
+      "nodeID": "206794",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-17 17:31:07",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "206795",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-17 17:31:08",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "206796",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2016-10-17 17:31:08",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    },
+    {
+      "nodeID": "206797",
+      "text": "Sullyville : he is the only adult in the room right now",
+      "type": "L",
+      "timestamp": "2016-10-17 17:31:08"
+    },
+    {
+      "nodeID": "206798",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-17 17:31:08",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "206799",
+      "text": "RUBIO is the only adult in the room right now",
+      "type": "I",
+      "timestamp": "2016-10-17 17:31:08"
+    },
+    {
+      "nodeID": "206800",
+      "text": "Barbara: Sullyville : he is the only adult in the room right now",
+      "type": "L",
+      "timestamp": "2016-10-17 17:31:08"
+    },
+    {
+      "nodeID": "206801",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-17 17:31:08",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "206802",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-17 17:31:08",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "206803",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-17 17:31:09",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "206804",
+      "text": "crispy111 : Kasich is the only adult in this room",
+      "type": "L",
+      "timestamp": "2016-10-17 17:31:09"
+    },
+    {
+      "nodeID": "206805",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-17 17:31:09",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "206806",
+      "text": "KASICH is the only adult in this room",
+      "type": "I",
+      "timestamp": "2016-10-17 17:31:09"
+    },
+    {
+      "nodeID": "206807",
+      "text": "Barbara: crispy111 : Kasich is the only adult in this room",
+      "type": "L",
+      "timestamp": "2016-10-17 17:31:09"
+    },
+    {
+      "nodeID": "206808",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-10-17 17:31:10",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "206809",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-17 17:31:10",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "206810",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-10-17 17:31:10",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "206811",
+      "text": "crispy111 : Rubio and Jeb are the teenagers of the debate",
+      "type": "L",
+      "timestamp": "2016-10-17 17:31:10"
+    },
+    {
+      "nodeID": "206812",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-17 17:31:10",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "206813",
+      "text": "RUBIO and BUSH are the teenagers of the debate",
+      "type": "I",
+      "timestamp": "2016-10-17 17:31:11"
+    },
+    {
+      "nodeID": "206814",
+      "text": "Barbara: crispy111 : Rubio and Jeb are the teenagers of the debate",
+      "type": "L",
+      "timestamp": "2016-10-17 17:31:11"
+    },
+    {
+      "nodeID": "206815",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-17 17:31:11",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "206816",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-17 17:31:11",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "206817",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-17 17:31:11",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "206818",
+      "text": "Windover : He's hit the nail on the head on both of his answers so far",
+      "type": "L",
+      "timestamp": "2016-10-17 17:31:12"
+    },
+    {
+      "nodeID": "206819",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-17 17:31:12",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "206820",
+      "text": "RUBIO has hit the nail on the head on both of his answers so far",
+      "type": "I",
+      "timestamp": "2016-10-17 17:31:12"
+    },
+    {
+      "nodeID": "206821",
+      "text": "Barbara: Windover : He's hit the nail on the head on both of his answers so far.",
+      "type": "L",
+      "timestamp": "2016-10-17 17:31:12"
+    },
+    {
+      "nodeID": "206822",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-17 17:31:12",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "206823",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-17 17:31:12",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "206824",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-17 17:31:12",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "206825",
+      "text": "Hmmhowaboutthis :  Kasich held his ground well on health care",
+      "type": "L",
+      "timestamp": "2016-10-17 17:31:12"
+    },
+    {
+      "nodeID": "206826",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-17 17:31:13",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "206827",
+      "text": "KASICH held his ground well on health care",
+      "type": "I",
+      "timestamp": "2016-10-17 17:31:13"
+    },
+    {
+      "nodeID": "206828",
+      "text": "Barbara: Hmmhowaboutthis :  Kasich held his ground well on health care",
+      "type": "L",
+      "timestamp": "2016-10-17 17:31:13"
+    },
+    {
+      "nodeID": "206829",
+      "text": "Hmmhowaboutthis : don't really like him generally",
+      "type": "L",
+      "timestamp": "2016-10-17 17:31:13"
+    },
+    {
+      "nodeID": "206830",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-17 17:31:13",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "206831",
+      "text": "I don't really like KASICH generally",
+      "type": "I",
+      "timestamp": "2016-10-17 17:31:13"
+    },
+    {
+      "nodeID": "206832",
+      "text": "Barbara: Hmmhowaboutthis : don't really like him generally",
+      "type": "L",
+      "timestamp": "2016-10-17 17:31:13"
+    },
+    {
+      "nodeID": "206833",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-17 17:31:13",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "206834",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-17 17:31:13",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "206835",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-17 17:31:13",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "206836",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-17 17:31:14",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "252101",
+      "fromID": "206785",
+      "toID": "206786",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252102",
+      "fromID": "206784",
+      "toID": "206785",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252103",
+      "fromID": "206789",
+      "toID": "206790",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252104",
+      "fromID": "206788",
+      "toID": "206789",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252105",
+      "fromID": "206784",
+      "toID": "206794",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252106",
+      "fromID": "206794",
+      "toID": "206788",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252107",
+      "fromID": "206788",
+      "toID": "206795",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252108",
+      "fromID": "206795",
+      "toID": "206792",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252109",
+      "fromID": "206795",
+      "toID": "206796",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252110",
+      "fromID": "206796",
+      "toID": "206790",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252111",
+      "fromID": "206798",
+      "toID": "206799",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252112",
+      "fromID": "206797",
+      "toID": "206798",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252113",
+      "fromID": "206799",
+      "toID": "206801",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252114",
+      "fromID": "206801",
+      "toID": "206790",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252115",
+      "fromID": "206788",
+      "toID": "206802",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252116",
+      "fromID": "206802",
+      "toID": "206797",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252117",
+      "fromID": "206802",
+      "toID": "206803",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252118",
+      "fromID": "206803",
+      "toID": "206801",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252119",
+      "fromID": "206805",
+      "toID": "206806",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252120",
+      "fromID": "206804",
+      "toID": "206805",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252121",
+      "fromID": "206806",
+      "toID": "206808",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252122",
+      "fromID": "206808",
+      "toID": "206799",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252123",
+      "fromID": "206797",
+      "toID": "206809",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252124",
+      "fromID": "206809",
+      "toID": "206804",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252125",
+      "fromID": "206809",
+      "toID": "206810",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252126",
+      "fromID": "206810",
+      "toID": "206808",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252127",
+      "fromID": "206812",
+      "toID": "206813",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252128",
+      "fromID": "206811",
+      "toID": "206812",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252129",
+      "fromID": "206813",
+      "toID": "206815",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252130",
+      "fromID": "206815",
+      "toID": "206806",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252131",
+      "fromID": "206804",
+      "toID": "206816",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252132",
+      "fromID": "206816",
+      "toID": "206811",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252133",
+      "fromID": "206816",
+      "toID": "206817",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252134",
+      "fromID": "206817",
+      "toID": "206815",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252135",
+      "fromID": "206819",
+      "toID": "206820",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252136",
+      "fromID": "206818",
+      "toID": "206819",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252137",
+      "fromID": "206820",
+      "toID": "206822",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252138",
+      "fromID": "206822",
+      "toID": "206790",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252139",
+      "fromID": "206788",
+      "toID": "206823",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252140",
+      "fromID": "206823",
+      "toID": "206818",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252141",
+      "fromID": "206823",
+      "toID": "206824",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252142",
+      "fromID": "206824",
+      "toID": "206822",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252143",
+      "fromID": "206826",
+      "toID": "206827",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252144",
+      "fromID": "206825",
+      "toID": "206826",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252145",
+      "fromID": "206830",
+      "toID": "206831",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252146",
+      "fromID": "206829",
+      "toID": "206830",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252147",
+      "fromID": "206827",
+      "toID": "206833",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252148",
+      "fromID": "206833",
+      "toID": "206806",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252149",
+      "fromID": "206804",
+      "toID": "206834",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252150",
+      "fromID": "206834",
+      "toID": "206825",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252151",
+      "fromID": "206834",
+      "toID": "206835",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252152",
+      "fromID": "206835",
+      "toID": "206833",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252153",
+      "fromID": "206825",
+      "toID": "206836",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "252154",
+      "fromID": "206836",
+      "toID": "206829",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

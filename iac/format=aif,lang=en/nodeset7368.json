@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141372",
+      "text": "Modern evolutionary synthesis From Wikipedia, the free encyclopedia \u0095 Learn more about using Wikipedia for research \u0095 Jump to: navigation, search The modern evolutionary synthesis refers to a set of ideas from several biological specialities that were brought together to form a unified theory of evolution accepted by the great majority of working biologists. This synthesis was produced over a period of about a decade (1936-1947) and was closely connected with the development from 1918 to 1932 of the discipline of population genetics, which integrated the theory of natural selection with Mendelian genetics. Julian Huxley invented the term, when he summarised the ideas in his book, Evolution: The Modern Synthesis in 1942. Though the 'Modern Synthesis' is the basis of current evolutionary thinking, it refers to a historical event that took place in the 1930s and 1940s. Major figures in the development of the modern synthesis include R. A. Fisher, Theodosius Dobzhansky, J.B.S. Haldane, Sewall Wright, Julian Huxley, Ernst Mayr, Bernhard Rensch, George Gaylord Simpson, and G. Ledyard Stebbins. The modern synthesis solved difficulties and confusions caused by the specialisation and poor communication between biologists in the early years of the twentieth century. Discoveries of early geneticists were difficult to reconcile with gradual evolution and the mechanism of natural selection. The synthesis reconciled the two schools of thought, while providing evidence that studies of populations in the field were crucial to evolutionary theory. It drew together ideas from several branches of biology that had become separated, particularly genetics, cytology, systematics, botany, morphology, ecology and paleontology.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:31"
+    },
+    {
+      "nodeID": "141373",
+      "text": "And",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:31"
+    },
+    {
+      "nodeID": "141374",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:53:31"
+    },
+    {
+      "nodeID": "141375",
+      "text": "If intelligence of any form is involved, including some intelligent organizing force innate to living systems, life is intelligently designed.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:31"
+    },
+    {
+      "nodeID": "141376",
+      "text": "And if intelligence is not involved in evolution but rather is a product of evolution then life is not intelligently designed. Which of the two alternatives do you think has empirical support. Whats the IQ of the metaphorical pond scum? From whence did an 'intelligent' organizing force arise? And so forth.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:31"
+    },
+    {
+      "nodeID": "141377",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:53:31"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184398",
+      "fromID": "141373",
+      "toID": "141374",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184399",
+      "fromID": "141374",
+      "toID": "141372",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184400",
+      "fromID": "141376",
+      "toID": "141377",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184401",
+      "fromID": "141377",
+      "toID": "141375",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,115 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141237",
+      "text": "Can you be aganist abortion at the same time as aganist measures that reduce abortion such as comphrensive Sex Education, contraceptives, and other forms of prevention and education?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:15"
+    },
+    {
+      "nodeID": "141238",
+      "text": "Only a fool could believe that getting rid of contraceptives, and other forms of prevention and education will reduce the abortion rate!!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:15"
+    },
+    {
+      "nodeID": "141239",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:53:15"
+    },
+    {
+      "nodeID": "141240",
+      "text": "You can believe it all you want...If you don't believe in abortion and you don't believe in any kinda of birth control then that is your belief...it doesn't contradict itself.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:15"
+    },
+    {
+      "nodeID": "141241",
+      "text": "It is horribly oppressive of women, though, to oppose both abortion and contraceptives. That means that women will have no control over their pregnancies at all.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:15"
+    },
+    {
+      "nodeID": "141242",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:53:15"
+    },
+    {
+      "nodeID": "141243",
+      "text": "What? Women are being forced into having sex?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:15"
+    },
+    {
+      "nodeID": "141244",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:53:15"
+    },
+    {
+      "nodeID": "141245",
+      "text": "If everytime I say something you(you in the general sense) bring out 'that is oppressive to women' then please don't bother posting. If you don't believe in it you don't...I guess you could say if you don't support drugs you are oppressing the drug users....but you really arent.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:15"
+    },
+    {
+      "nodeID": "141246",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:53:15"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184302",
+      "fromID": "141238",
+      "toID": "141239",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184303",
+      "fromID": "141239",
+      "toID": "141237",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184304",
+      "fromID": "141241",
+      "toID": "141242",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184305",
+      "fromID": "141242",
+      "toID": "141240",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184306",
+      "fromID": "141243",
+      "toID": "141244",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184307",
+      "fromID": "141244",
+      "toID": "141241",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184308",
+      "fromID": "141245",
+      "toID": "141246",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184309",
+      "fromID": "141246",
+      "toID": "141241",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

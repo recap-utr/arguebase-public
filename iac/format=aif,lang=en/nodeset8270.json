@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "154868",
+      "text": "Sina mostly followed instructions and smiled alluringly at men because she would have been beaten if men didn't choose her. But sometimes she was in such pain that she resisted, and then she said she would be dragged down to a torture chamber in the basement. 'Many of the brothels have these torture chambers,' she said. 'They are underground because then the girls' screams are muffled.' As in many brothels, the torture of choice was electric shocks. Sina would be tied down, doused in water and then prodded with wires running from the 220-volt wall outlet. The jolt causes intense pain, sometimes evacuation of the bladder and bowel - and even unconsciousness.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:22:34"
+    },
+    {
+      "nodeID": "154869",
+      "text": "Oh, but Sina does not live in a womb so she is unimportant.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:22:34"
+    },
+    {
+      "nodeID": "154870",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:22:34"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193922",
+      "fromID": "154869",
+      "toID": "154870",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193923",
+      "fromID": "154870",
+      "toID": "154868",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

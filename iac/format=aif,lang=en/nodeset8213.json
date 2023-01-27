@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "154056",
+      "text": "Apparently, we're headed into an ice age of about 100,000 years -- give or take. As for CO2 levels, core samples show conclusively they follow the earth's temperature rise, not lead it.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:20:43"
+    },
+    {
+      "nodeID": "154057",
+      "text": "Because in the case of glacial/interglacial variation, CO2 functions as a feedback from orbital forcing. Again, this is all very simple, basic stuff outlined in chapter 6 of the AR4.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:20:44"
+    },
+    {
+      "nodeID": "154058",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:20:44"
+    },
+    {
+      "nodeID": "154059",
+      "text": "This is where the looney left gets lost. Their mantra is atmospheric CO2 levels are escalating and this is unquestionably causing earth's temperature rise. But ask yourself -- if global temperatures are experiencing the biggest sustained drop in decades, while CO2 levels continue to rise -- how can it be true?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:20:44"
+    },
+    {
+      "nodeID": "154060",
+      "text": "Because internal variability from the likes of ENSO, which can cause short term swings of a full degree C, easily swamp the smaller increase we'd expect from CO2 forcing. Easy.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:20:44"
+    },
+    {
+      "nodeID": "154061",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:20:44"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193346",
+      "fromID": "154057",
+      "toID": "154058",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193347",
+      "fromID": "154058",
+      "toID": "154056",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193348",
+      "fromID": "154060",
+      "toID": "154061",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193349",
+      "fromID": "154061",
+      "toID": "154059",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141532",
+      "text": "regardless of whether many religions accept evolution, as it stands, such does not fill the holes in evolution.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:55"
+    },
+    {
+      "nodeID": "141533",
+      "text": "But that doesn't make Creationism correct either.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:55"
+    },
+    {
+      "nodeID": "141534",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:53:55"
+    },
+    {
+      "nodeID": "141535",
+      "text": "You have this odd notion that only the Biblical faiths count as religions.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:55"
+    },
+    {
+      "nodeID": "141536",
+      "text": "No i dont... as im a plurilist....",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:55"
+    },
+    {
+      "nodeID": "141537",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:53:55"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184510",
+      "fromID": "141533",
+      "toID": "141534",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184511",
+      "fromID": "141534",
+      "toID": "141532",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184512",
+      "fromID": "141536",
+      "toID": "141537",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184513",
+      "fromID": "141537",
+      "toID": "141535",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

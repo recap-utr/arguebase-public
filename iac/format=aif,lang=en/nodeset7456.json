@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "142618",
+      "text": "I condemn the Wrong at every opportunity. Whackjob Nutso Drivel is a fraudulent use of the term 'news'. The WOT is and was a hoax, but Koolade drinkers enjoy squandering the lives of others on their adventures abroad.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:18"
+    },
+    {
+      "nodeID": "142619",
+      "text": "And you call this warped opinion of yours evidence of anything? As usual you make blanket condemnations while proving nothing at all.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:18"
+    },
+    {
+      "nodeID": "142620",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:56:18"
+    },
+    {
+      "nodeID": "142621",
+      "text": "Really? Then why haven't you condemned organizations such as the Brady Campaign? They continually put out the lie that the .50 BMG is capable of bringing down commercial planes as if the entire process was mere child's play, but there's absolutely not a shred of evidence to support this claim.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:18"
+    },
+    {
+      "nodeID": "142622",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:56:18"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185282",
+      "fromID": "142619",
+      "toID": "142620",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185283",
+      "fromID": "142620",
+      "toID": "142618",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185284",
+      "fromID": "142621",
+      "toID": "142622",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185285",
+      "fromID": "142622",
+      "toID": "142618",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

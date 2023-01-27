@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157415",
+      "text": "Modern society does not fit well with the society of 2000+ years ago, with their beleifs eroding away those who see themselves primarily as 'American Christians' may find this involentary loss of beleif as worrying and threatening to the older, more familiar ways. This might manifest as a general feeling of fear and being threatened, hence the percieved need for weapons.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:20"
+    },
+    {
+      "nodeID": "157416",
+      "text": "So,are you saying that all anti-gunners are fearless??? If so,,I must laugh.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:20"
+    },
+    {
+      "nodeID": "157417",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:28:20"
+    },
+    {
+      "nodeID": "157418",
+      "text": "No, they just don't 'fear' in general, their fears are directed at something (madmen with guns ;)), and those that do find other ways to feel protected (usually in society rather than being a lone individual).",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:20"
+    },
+    {
+      "nodeID": "157419",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:28:20"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195720",
+      "fromID": "157416",
+      "toID": "157417",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195721",
+      "fromID": "157417",
+      "toID": "157415",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195722",
+      "fromID": "157418",
+      "toID": "157419",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195723",
+      "fromID": "157419",
+      "toID": "157416",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

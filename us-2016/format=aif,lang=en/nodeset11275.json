@@ -1,0 +1,100 @@
+{
+  "nodes": [
+    {
+      "nodeID": "211154",
+      "text": "brent0935 : How to destroy a state, Scott Walker edition",
+      "type": "L",
+      "timestamp": "2016-10-31 17:02:02"
+    },
+    {
+      "nodeID": "211156",
+      "text": "How to destroy a state, Scott Walker edition",
+      "type": "I",
+      "timestamp": "2016-10-31 17:02:02"
+    },
+    {
+      "nodeID": "220897",
+      "text": "WALKER : the voters in Wisconsin elected me last year for the third time",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:01"
+    },
+    {
+      "nodeID": "220899",
+      "text": "the voters in Wisconsin elected WALKER last year for the third time",
+      "type": "I",
+      "timestamp": "2016-11-01 15:04:01"
+    },
+    {
+      "nodeID": "264285",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 09:30:49",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264286",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-09 09:30:49",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "264287",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-09 09:30:50",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "319660",
+      "fromID": "220897",
+      "toID": "264285",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319661",
+      "fromID": "264285",
+      "toID": "211154",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319662",
+      "fromID": "211156",
+      "toID": "264286",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319663",
+      "fromID": "264286",
+      "toID": "220899",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319664",
+      "fromID": "264285",
+      "toID": "264287",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319665",
+      "fromID": "264287",
+      "toID": "264286",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "220897",
+      "personID": "2412",
+      "timestamp": "2017-01-09 11:49:39",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151170",
+      "text": "...where are the MILLIONS of links that supposedly connected them?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:16"
+    },
+    {
+      "nodeID": "151171",
+      "text": "Because of the rare nature of fossilisation, we don't expect to see perfect transitional lineages through millions and millions of years. I really don't think there are any scientists that think there SHOULD be millions and millions of transitions, because of the nature of fossilisation. Science is like a detective story. If you wanted to solve a murder, for example, you take a look at the evidence. You have a gun, spent rounds, dead body etc. To convict someone of a murder, you need fingerprints, blood on clothes, DNA and such to prove beyond a reasonable doubt that the person you are accusing actually shot the deceased and you can convict WITHOUT an eye witness. It's the same for science and the fossil record, because there is no-one around who directly observed animals undertaking large changes over time. But if you take a look at the fossil record, molecular biology, geological time etc, this is what it shows. From what we understand from the last 100 or so years of evidence and investigation, biological evolution is the best scientific explanation we have for the diversity of life on earth. 3 questions for Calligirl. For the 4th time. What would be YOUR definition of a transitional form? When calculating the age of this earth, how precise do you expect or want scientists to get? How many transitional fossils would you LIKE to see in what period of time? I really don't think this will progress if you can't tell us what it is you would like to see.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:16"
+    },
+    {
+      "nodeID": "151172",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:14:16"
+    },
+    {
+      "nodeID": "151173",
+      "text": "1)I would consider a transitional fossil one which contains parts from both the upper and lower class evolutionary forms it links. However, it must contain many of these, and I imagine a few would have 'melded' during the process.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:16"
+    },
+    {
+      "nodeID": "151174",
+      "text": "So what's wrong with the lineages provided? Define 'melding'.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:16"
+    },
+    {
+      "nodeID": "151175",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:14:16"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191310",
+      "fromID": "151171",
+      "toID": "151172",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191311",
+      "fromID": "151172",
+      "toID": "151170",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191312",
+      "fromID": "151174",
+      "toID": "151175",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191313",
+      "fromID": "151175",
+      "toID": "151173",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

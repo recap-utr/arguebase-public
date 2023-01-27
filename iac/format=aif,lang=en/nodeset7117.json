@@ -1,0 +1,157 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138085",
+      "text": "Any evidence to prove that guns don't fuel aggression? I won't even ask you for numbers...",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:21"
+    },
+    {
+      "nodeID": "138086",
+      "text": "Actually, that's your job, since it's already generally assumed that guns don't fuel aggression. You're the one who brought that point up, it's your job. You need unquestionable proof that the mere presence of a gun fuels aggression, and so far, none has been presented to me.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:21"
+    },
+    {
+      "nodeID": "138087",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:46:21"
+    },
+    {
+      "nodeID": "138088",
+      "text": "The only people that the law affects is the law abiding citizen, it does not affect the criminal because he does not care about laws, he doesnt care about gun control, he doesnt care about the cops, and he certainly doesnt care about your life. He does not fear going to jail, nor does he fear non lethal devices.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:21"
+    },
+    {
+      "nodeID": "138089",
+      "text": "So... why do we have any laws? After all, criminals won't obey them anyway...",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:21"
+    },
+    {
+      "nodeID": "138090",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:46:21"
+    },
+    {
+      "nodeID": "138091",
+      "text": "Me personally ill go with what i see, not what i hear or read. And as far as gun laws and gun control goes, or any laws for that matter, do you honestly believe if guns were banned that criminals wont be able to get them anymore.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:21"
+    },
+    {
+      "nodeID": "138092",
+      "text": "Well, if I'm allowed to go purely on what I see, I've never seen an illegally owned firearm in the UK, and handguns are (for all intents and purposes) banned here. This should be a knock-down argument, should it not? If you don't want to go on what you read or hear, why are you debating the issue online?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:21"
+    },
+    {
+      "nodeID": "138093",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:46:21"
+    },
+    {
+      "nodeID": "138094",
+      "text": "by gun nut logic children should be able to tote guns around at school because it wont make a difference because if they really wanted to kill each other, theyll just find another way to do it if they dont got guns because you know what guns dont kill people, people kill people!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:22"
+    },
+    {
+      "nodeID": "138095",
+      "text": "You know Brady, you've said a lot of stupid stuff over the years. I even remember finding a post of yours where you said all guns and gun owners should be registered, but sex offenders shouldn't be.  This latest post of yours is just another senseless and stupid rambling of somebody that's so hateful and fearful of an inanimate object that it's impossible for him to function in our society and can barely handle his own needs.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:22"
+    },
+    {
+      "nodeID": "138096",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:46:22"
+    },
+    {
+      "nodeID": "138097",
+      "text": "This latest post of yours is just another senseless and stupid rambling of somebody that's so hateful and fearful of an inanimate object that it's impossible for him to function in our society and can barely handle his own needs.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:22"
+    },
+    {
+      "nodeID": "138098",
+      "text": "I thought it was on topic actually, if emotive. Well, it responds to the topic title, Ethmi re-refined the topic to just 'prove guns increase aggression' a few posts in. Or are you saying that a child with a gun is just as likely to kill someone as a child without a gun?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:22"
+    },
+    {
+      "nodeID": "138099",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:46:22"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182062",
+      "fromID": "138086",
+      "toID": "138087",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182063",
+      "fromID": "138087",
+      "toID": "138085",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182064",
+      "fromID": "138089",
+      "toID": "138090",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182065",
+      "fromID": "138090",
+      "toID": "138088",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182066",
+      "fromID": "138092",
+      "toID": "138093",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182067",
+      "fromID": "138093",
+      "toID": "138091",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182068",
+      "fromID": "138095",
+      "toID": "138096",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182069",
+      "fromID": "138096",
+      "toID": "138094",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182070",
+      "fromID": "138098",
+      "toID": "138099",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182071",
+      "fromID": "138099",
+      "toID": "138097",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

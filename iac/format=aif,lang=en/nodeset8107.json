@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152552",
+      "text": "You need look no further than the current state of California to realized that the United States is heading towards socialism just as Europe has in the past few decades. Will the United States one day become a socialist nation? Does socialism work? Would avoiding socialism hurt the future of the US or would socialism hurt the future of the US?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:15"
+    },
+    {
+      "nodeID": "152553",
+      "text": "Yes California is following European socialism. Just like socialist Europe, they are going broke. Socialism depends on large income taxes to fund social programs. Try the same taxes here in the USA and people will get thier guns and shoot all the politicians trying to tax them. Remember this country was born over a fight over taxes.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:15"
+    },
+    {
+      "nodeID": "152554",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:17:15"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192286",
+      "fromID": "152553",
+      "toID": "152554",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192287",
+      "fromID": "152554",
+      "toID": "152552",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

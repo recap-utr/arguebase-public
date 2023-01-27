@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152644",
+      "text": "This is a typical pro-choice scenario--a rare one irrelevent to more than 95% of abortions. Pro-choicers have to use rare examples to make their arguments appealing.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:27"
+    },
+    {
+      "nodeID": "152645",
+      "text": "Oh please - and the prolife side doesn't do this? All the pics they distribute of aborted babies aren't the very rare late term ones? It's called propganda and generally both sides use it in most major debates.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:27"
+    },
+    {
+      "nodeID": "152646",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:17:27"
+    },
+    {
+      "nodeID": "152647",
+      "text": "I don' want any more children. My son is nearly ten. That is a pretty big age difference. I especially don't want to raise any more alone, and I don't have a big confidence level in men (my problem due to my history with them - I know there are good ones out there). Current conservative legistlation has me worried. Although I am indeed abstinate and have been for years, I can't guarentee that in the future. And although I practice safe sex when sexually active, there are remote chances of rape, or the more likely failed birth control. I would not have an abortion unless rape or medical need - so I will do all I can not to get pregnant again - now or in the future. And it sends a message. This body is mine. I choose now - to never be pregnant again - regardless of the circumstances.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:27"
+    },
+    {
+      "nodeID": "152648",
+      "text": "I think that getting your tubes tied is a responsible act. I was just inquiring about the motive for doing so. Too bad more women (and men) don't share your level of responsibility. If they did, we wouldn't need to debate the 'need' for abortions. emoticon_xhoho",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:27"
+    },
+    {
+      "nodeID": "152649",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:17:28"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192350",
+      "fromID": "152645",
+      "toID": "152646",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192351",
+      "fromID": "152646",
+      "toID": "152644",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192352",
+      "fromID": "152648",
+      "toID": "152649",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192353",
+      "fromID": "152649",
+      "toID": "152647",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

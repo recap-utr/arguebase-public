@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "159502",
+      "text": "you might criticize me for believing evolution happened simply because scientists say it did, but alas, thats the reason why. anyway...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:05"
+    },
+    {
+      "nodeID": "159503",
+      "text": "No. Unless you wish to actually undertake the study of the relevant science, that's what you need to do. Creationists do the same thing. the problem is that creationists tend to accept the word of those who aren't any more educated than they are. Thus, a creationist will accept Hovind's dust on the moon argument or his shrinking sun argument as 'proof' of a young earth.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:05"
+    },
+    {
+      "nodeID": "159504",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:33:05"
+    },
+    {
+      "nodeID": "159505",
+      "text": "science and biology has never been my forte, i'm more of a history and literature person. i believe evolution because it is accepted as fact within scientific circles and there is overwhelming evidence supporting it. you might criticize me for believing evolution happened simply because scientists say it did, but alas, thats the reason why. anyway... whenever i tell someone that i believe in evolution, they always tell me that if evolution were really true, there would be half-human, half-ape people walking around. i know that this is a ridiculous comeback and there is obviously a scientific explanation why there are not, so i was wondering if someone could let me know the reason why. next time i get told something like that, i want to be able to explain myself. thanks :)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:05"
+    },
+    {
+      "nodeID": "159506",
+      "text": "I know very little about evolution, but I think that the half ape thing stems from the misconception that some people have that evolution means that humans are decended from apes, so our ancestor would be a half man/half ape. Instead, I believe that biologists think that apes and humans share a common ancestor, but our evolutionary paths diververged long ago. Please anyone feel free to argue/correct me, since I said, I am by no means an expert on evolution.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:05"
+    },
+    {
+      "nodeID": "159507",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:33:05"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "197220",
+      "fromID": "159503",
+      "toID": "159504",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197221",
+      "fromID": "159504",
+      "toID": "159502",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197222",
+      "fromID": "159506",
+      "toID": "159507",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197223",
+      "fromID": "159507",
+      "toID": "159505",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

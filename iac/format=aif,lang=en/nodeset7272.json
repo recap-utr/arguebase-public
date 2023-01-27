@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140093",
+      "text": "As of today, 11-08-04, the Cobb County (GA) school system is being tested in court about the validity of their warning sticker pasted in every Evolution textbook. The sticker basically says that evolution is a theory and should be approached with an open mind. The evolutionists are saying this is an endorsement of creationism, therefore is a religious doctrine being taught in school...against the law. This is the same school system whose leader recently tried to have the word 'evolution' deleted from the school curriculum. Is the Bible Belt getting too tight?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:42"
+    },
+    {
+      "nodeID": "140094",
+      "text": "Yes, it is. I'm actually considering moving out of the south specifically for that reason. I will miss the largemouth bass fishing....wth is a pike? ;) It's always been that bad though, now that I think about it. It's just I ignored it more when I was younger. The sticker is moronic IMO. If they label 'evolution' with that, they should go ahead and label every single book, TV, everyone's forehead, and every object that can hold a sticker in the entire world. Some people thing there is 'openess' about being correct or incorrect. On some things that are opinion, sure. On reality? Not the case. I mean, I'm not running around believing John Kerry actually won the election despite the evidence, although I certainly could, if I approached the election results with 'an open mind'. Although I could....hmmm...just have to keep it up for 4 years! -Mach",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:42"
+    },
+    {
+      "nodeID": "140095",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:50:42"
+    },
+    {
+      "nodeID": "140096",
+      "text": "If you spend much type speaking with physicists, you will often hear one say 'If einstein was right.....' This is what they are talking about.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:42"
+    },
+    {
+      "nodeID": "140097",
+      "text": "No it's not. Educating yourself before you speak might help.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:42"
+    },
+    {
+      "nodeID": "140098",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:42"
+    },
+    {
+      "nodeID": "140099",
+      "text": "Usually it is right there in the title, such as 'theory of relativity'. The theory of ralativity has not been proven, there is still room for debate on it, so it is a theory.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:42"
+    },
+    {
+      "nodeID": "140100",
+      "text": "Actually, no. It has been quite conclusively shown that the theory of relativity is correct. It is the sign of a scientific illiterate to claim that a theory is somehow doubted because it hasn't been 'proven.' No theory grows up to be a law.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:42"
+    },
+    {
+      "nodeID": "140101",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:42"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183488",
+      "fromID": "140094",
+      "toID": "140095",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183489",
+      "fromID": "140095",
+      "toID": "140093",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183490",
+      "fromID": "140097",
+      "toID": "140098",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183491",
+      "fromID": "140098",
+      "toID": "140096",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183492",
+      "fromID": "140100",
+      "toID": "140101",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183493",
+      "fromID": "140101",
+      "toID": "140099",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

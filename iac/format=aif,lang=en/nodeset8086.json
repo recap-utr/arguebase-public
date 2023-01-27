@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152256",
+      "text": "Those Who Abort Them Know Otherwise. I posted this on Youdebate, but as this is becoming more popular, I'll post it here too. --- So my question is this. Why don'y they call those bunch of cells a baby? Do they: 1. Do it because they believe it really is a baby or 2. Do it because it eases their conscience when they kill it?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:35"
+    },
+    {
+      "nodeID": "152257",
+      "text": "I believe that most women aren't in denial about what they are aborting. I haven't heard any women who have had an abortion call it 'a bunch of cells'. I haven't heard any women post abortion not consider it a 'human being'. I have heard the term 'fetus' more than 'baby'. This could be because 1. Eases their conscious or 2. It's a 'more correct' scientifically phrase. (up for debate with some) With the women I've talked to, if they've had an 'early on' abortion they feel less like it was a baby and more like it was an unknown that lacked personification b/c it lacked personality, they couldn't feel it, they didn't 'show', they didn't allow themselves to name it, use their imagination over what kind of person it would grow up to be, etc. Denial? Perhaps. I think it's a choice they make in their best interests, and they have to come to terms with their conscience. If they cannot come to terms with their conscience regarding having an abortion, then they have the child.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:36"
+    },
+    {
+      "nodeID": "152258",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:16:36"
+    },
+    {
+      "nodeID": "152259",
+      "text": "Proto, perchance, was your father a polygamist?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:36"
+    },
+    {
+      "nodeID": "152260",
+      "text": "No chance. And besides, my Mom still had the same amount of kids, how does this relate?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:36"
+    },
+    {
+      "nodeID": "152261",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:16:36"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192078",
+      "fromID": "152257",
+      "toID": "152258",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192079",
+      "fromID": "152258",
+      "toID": "152256",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192080",
+      "fromID": "152260",
+      "toID": "152261",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192081",
+      "fromID": "152261",
+      "toID": "152259",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

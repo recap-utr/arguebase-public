@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "159668",
+      "text": "I too find it amusing to read about Canada's nightmare socialist healthcare system.  This past weekend I went to the hospital after injuring myself in a race. From the door to triage: 2 minutes. Triage to admission: 10 minutes. Examined, treated, and discharged within 30 minutes. Discussion of payment: 0. Never in my life have I had difficulty in seeing any doctor I wanted to, nor have my friends or family members.  All this for far less expenditure per gdp than the US.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:27"
+    },
+    {
+      "nodeID": "159669",
+      "text": "Well, my daughter cut her chin (in the U.S.), which required some stitches. My wife arrived to the emergency room with my daughter around 6:30 PM. We did not come back home until after midnight.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:27"
+    },
+    {
+      "nodeID": "159670",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:33:27"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "197342",
+      "fromID": "159669",
+      "toID": "159670",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197343",
+      "fromID": "159670",
+      "toID": "159668",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

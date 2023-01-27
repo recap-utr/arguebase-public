@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143429",
+      "text": "Does private gun ownership deter crime ?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:04"
+    },
+    {
+      "nodeID": "143430",
+      "text": "I believe yes, because a robber might not rob a house if he/she knows that their is a gun inside that house.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:04"
+    },
+    {
+      "nodeID": "143431",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:58:04"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185858",
+      "fromID": "143430",
+      "toID": "143431",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185859",
+      "fromID": "143431",
+      "toID": "143429",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

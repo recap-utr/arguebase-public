@@ -1,0 +1,121 @@
+{
+  "nodes": [
+    {
+      "nodeID": "153639",
+      "text": "And your point is?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:44"
+    },
+    {
+      "nodeID": "156544",
+      "text": "** Just for fun, some recent research-- http://www.cbc.ca/health/story/2007/10/08/appendix-use.html",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:16"
+    },
+    {
+      "nodeID": "156545",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:26:16"
+    },
+    {
+      "nodeID": "156546",
+      "text": "** I wasn't making a 'point', just an observation. But since you want a 'point', nip back over to 'The Swamp',[that is, 'Internet Infidels (atheists)DB', and ask Oolon Colophid[sp.?] why he thinks the human appendix makes his 'point'.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:16"
+    },
+    {
+      "nodeID": "156547",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:26:17"
+    },
+    {
+      "nodeID": "156548",
+      "text": "... nip back over to 'The Swamp',[that is, 'Internet Infidels (atheists)DB', and ask Oolon Colophid[sp.?] why he thinks the human appendix makes his 'point'.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:17"
+    },
+    {
+      "nodeID": "156549",
+      "text": "Kudos on the arrogant, hateful stereotyping, wabbit. Ask around. Not all of the 'infidels' on IIDB are atheists. If you can't even get Oolon's name right, you clearly haven't spent enough time there to know. In fact, everyone should just go to Oolon's page of God's Greatest Mistakes and see for themselves.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:17"
+    },
+    {
+      "nodeID": "156550",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:26:17"
+    },
+    {
+      "nodeID": "156551",
+      "text": "Maybe it's because the evidence that indicates a use for the appendix, rather than it being an incompletely useless vestige, is itself further evidence of evolution and common descent.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:17"
+    },
+    {
+      "nodeID": "156552",
+      "text": "Bingo. Relationships between appendices of closely related species still suggest that the appendix used to have a different function, namely digestion of roughage. Linky. (Plus what Otto said, again.)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:17"
+    },
+    {
+      "nodeID": "156553",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:26:17"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195102",
+      "fromID": "153639",
+      "toID": "156545",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195103",
+      "fromID": "156545",
+      "toID": "156544",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195104",
+      "fromID": "156546",
+      "toID": "156547",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195105",
+      "fromID": "156547",
+      "toID": "153639",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195106",
+      "fromID": "156549",
+      "toID": "156550",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195107",
+      "fromID": "156550",
+      "toID": "156548",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195108",
+      "fromID": "156552",
+      "toID": "156553",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195109",
+      "fromID": "156553",
+      "toID": "156551",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

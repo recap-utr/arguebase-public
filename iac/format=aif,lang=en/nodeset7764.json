@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "147705",
+      "text": "The New Jersey Senate late Thursday passed sweeping amendments to the state's domestic partner law that would, upon a partner's death, give the surviving partner control of the estate and inheritance in the absence of a will.  The legislation also would give the surviving partner control of burial decisions absent a directive otherwise. In a vote that stunned even LGBT civil rights advocates the Senate vote was unanimous - 35-to-0. 'This is the most lopsided pro-LGBTI-rights vote in New Jersey history and one of the most lopsided pro-gay votes in American history,' Garden State Equality spokesperson Steven Goldstein told 365Gay.com",
+      "type": "I",
+      "timestamp": "2016-03-08 20:06:49"
+    },
+    {
+      "nodeID": "147706",
+      "text": "http://www.365gay.com/Newscon06/01/010606njPartner.htm",
+      "type": "I",
+      "timestamp": "2016-03-08 20:06:49"
+    },
+    {
+      "nodeID": "147707",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:06:49"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "188870",
+      "fromID": "147706",
+      "toID": "147707",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188871",
+      "fromID": "147707",
+      "toID": "147705",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

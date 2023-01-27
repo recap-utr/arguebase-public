@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "136850",
+      "text": "I am not amazed at the fallout caused by President Bush's comments about Intelligent Design. Darwin evolution nuts - I mean intellectual scientists - contend Intelligent Design is untested and untestable by scientific research. Apparently, evolution is not scientifically testable because they keep trying, to no avail. The intellectuals would have us believe in the Big Bang theory. They cannot tell you where the bang came from and they cannot explain the origin of the one-cell amoeba that evolved into humans. If, in fact, we came from apes, why do we still have apes? I assume, 'scientifically', if you are smarter than God, you would prefer evolution as the means for your arrival on earth. My answer is to that is, 'You may have come from an ape, but I didn't.' If those who believe in evolution are correct, when this world is over, it won't make any difference to anyone. If, in fact, the Christians are right and God created the world and hell, it will make a huge different to those who do not believe. Gerald L. Hicks Dothan",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:56"
+    },
+    {
+      "nodeID": "136851",
+      "text": "And finally, my own letter to the editor, which was printed in this week's Sunday paper (08/28/2005).",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:56"
+    },
+    {
+      "nodeID": "136852",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:43:56"
+    },
+    {
+      "nodeID": "136853",
+      "text": "trebor: Katrine is being particularly unkind to Alabama.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:56"
+    },
+    {
+      "nodeID": "136854",
+      "text": "OH MY GOD!!! I JUST REALIZED ... I'M TO BLAME! My letter to the editor was printed in Sunday's newspaper and Sunday night the storms started hitting the south! That cannot be coincidence. God has lifted his protecting hand because of my letter.  But seriously, 3 people I ran into today told me they saw it. Two were people at work: one just said she read it without saying how she felt about it, the other went a bit farther to say that it really didn't offend her. But if you think about it, just her comment indicates that she felt that the way most people would respond would be negatively. The other person was my dentist, who I just happened to have an appointment with today. He starting talking at great length about Hugh Ross, and Gerald Shroeder, and how his own personal faith in Jesus and science get along just fine. I listened for about 15 minutes, only saying a few things now and then. And when I did, I didn't argue against his position ... I just pointed out that people really have to accept that evolution is true and that the Earth is billions of years old, which he had already said he accepted.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:56"
+    },
+    {
+      "nodeID": "136855",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:43:56"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181166",
+      "fromID": "136851",
+      "toID": "136852",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181167",
+      "fromID": "136852",
+      "toID": "136850",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181168",
+      "fromID": "136854",
+      "toID": "136855",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181169",
+      "fromID": "136855",
+      "toID": "136853",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

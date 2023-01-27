@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "158344",
+      "text": "The Pro-Choice Democrats don't love born people that much, either. Our representatives are signed, sealed and delivered over to the health insurance industry. Displayed concern just a vehicle for ruthless, driven greed and profit.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:30:33"
+    },
+    {
+      "nodeID": "158345",
+      "text": "Just so!! We are witnessing an arrogant display of the power that money has over the Congress in Big Health's attempt to scuttle health care reform. My two Blue Dog Democratic Senators refuse to stick their necks out and take a stand. If JFK were writing today, he would have a new book called Profiles in Cowardice, and my two Senators would make up the first two chapters.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:30:33"
+    },
+    {
+      "nodeID": "158346",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:30:33"
+    },
+    {
+      "nodeID": "158347",
+      "text": "wow, that's quite an argument. emoticon_rolleyes",
+      "type": "I",
+      "timestamp": "2016-03-08 20:30:33"
+    },
+    {
+      "nodeID": "158348",
+      "text": "Well if their reasoning hasn't sunk in by now :xbanghead Anyways I'm pro-choice and pro-death penalty. I do believe in individual responsibility which is why I'm pro-choice for males as well.  What's your argument?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:30:33"
+    },
+    {
+      "nodeID": "158349",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:30:33"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196384",
+      "fromID": "158345",
+      "toID": "158346",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196385",
+      "fromID": "158346",
+      "toID": "158344",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196386",
+      "fromID": "158348",
+      "toID": "158349",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196387",
+      "fromID": "158349",
+      "toID": "158347",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

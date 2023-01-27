@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "145556",
+      "text": "Per your suggestion, I decided to get real. So here is the real Phyllis. I never said that you had to support anything. And voting for the democratic party does not prove that one likes democracy. And I never said that you had to support George Bush, nor did I say you had to be a republican. This is the real Phyllis signing off.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:35"
+    },
+    {
+      "nodeID": "145557",
+      "text": "Well, either the real or imaginary Phyllis implied those things in the post under discussion.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:35"
+    },
+    {
+      "nodeID": "145558",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:02:35"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187356",
+      "fromID": "145557",
+      "toID": "145558",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187357",
+      "fromID": "145558",
+      "toID": "145556",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

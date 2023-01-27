@@ -1,0 +1,313 @@
+{
+  "nodes": [
+    {
+      "nodeID": "208012",
+      "text": "Atheose_Writing : I didn't realize 9/11 happened in New Jersey",
+      "type": "L",
+      "timestamp": "2016-10-21 12:53:19"
+    },
+    {
+      "nodeID": "208014",
+      "text": "I didn't realize 9/11 happened in New Jersey",
+      "type": "I",
+      "timestamp": "2016-10-21 12:53:20"
+    },
+    {
+      "nodeID": "208034",
+      "text": "I find his 9/11 pandering a sad way of avoiding about talking about anything with substance",
+      "type": "I",
+      "timestamp": "2016-10-21 12:53:21"
+    },
+    {
+      "nodeID": "208036",
+      "text": "Ziddletwix : I'd feel the exact same way had he been mayor of New York at the time",
+      "type": "L",
+      "timestamp": "2016-10-21 12:53:21"
+    },
+    {
+      "nodeID": "208038",
+      "text": "I'd feel the exact same way had CHRISTIE been mayor of New York at the time",
+      "type": "I",
+      "timestamp": "2016-10-21 12:53:22"
+    },
+    {
+      "nodeID": "208040",
+      "text": "Ziddletwix : New Jersey was certainly effected by 9/11",
+      "type": "L",
+      "timestamp": "2016-10-21 12:53:22"
+    },
+    {
+      "nodeID": "208042",
+      "text": "New Jersey was certainly effected by 9/11",
+      "type": "I",
+      "timestamp": "2016-10-21 12:53:22"
+    },
+    {
+      "nodeID": "219672",
+      "text": "CHRISTIE : I was appointed U.S. attorney by President Bush on September 10th , 2001",
+      "type": "L",
+      "timestamp": "2016-11-01 14:58:22"
+    },
+    {
+      "nodeID": "219674",
+      "text": "CHRISTIE was appointed U.S. attorney by President Bush on September 10th , 2001",
+      "type": "I",
+      "timestamp": "2016-11-01 14:58:22"
+    },
+    {
+      "nodeID": "219676",
+      "text": "CHRISTIE : the world changed enormously the next day , and that happened in my state",
+      "type": "L",
+      "timestamp": "2016-11-01 14:58:22"
+    },
+    {
+      "nodeID": "219678",
+      "text": "the world changed enormously the next day , and that happened in CHRISTIE's state",
+      "type": "I",
+      "timestamp": "2016-11-01 14:58:22"
+    },
+    {
+      "nodeID": "264531",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-09 16:06:57",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "264532",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 16:06:57",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264533",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-09 16:06:58",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "264534",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-09 16:06:58",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "264535",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 16:06:59",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264536",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-09 16:06:59",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "264537",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-09 16:07:00",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "264538",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 16:07:00",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264539",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-09 16:07:01",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "264540",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2017-03-09 16:07:02",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "264541",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 16:07:02",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264542",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2017-03-09 16:07:03",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "320136",
+      "fromID": "208014",
+      "toID": "264531",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320137",
+      "fromID": "264531",
+      "toID": "219678",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320138",
+      "fromID": "219676",
+      "toID": "264532",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320139",
+      "fromID": "264532",
+      "toID": "208012",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320140",
+      "fromID": "264532",
+      "toID": "264533",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320141",
+      "fromID": "264533",
+      "toID": "264531",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320142",
+      "fromID": "208038",
+      "toID": "264534",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320143",
+      "fromID": "264534",
+      "toID": "219674",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320144",
+      "fromID": "219672",
+      "toID": "264535",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320145",
+      "fromID": "264535",
+      "toID": "208036",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320146",
+      "fromID": "264535",
+      "toID": "264536",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320147",
+      "fromID": "264536",
+      "toID": "264534",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320148",
+      "fromID": "208034",
+      "toID": "264537",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320149",
+      "fromID": "264537",
+      "toID": "219674",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320150",
+      "fromID": "219672",
+      "toID": "264538",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320151",
+      "fromID": "264538",
+      "toID": "208040",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320152",
+      "fromID": "264538",
+      "toID": "264539",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320153",
+      "fromID": "264539",
+      "toID": "264537",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320154",
+      "fromID": "208042",
+      "toID": "264540",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320155",
+      "fromID": "264540",
+      "toID": "219678",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320156",
+      "fromID": "219676",
+      "toID": "264541",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320157",
+      "fromID": "264541",
+      "toID": "208040",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320158",
+      "fromID": "264541",
+      "toID": "264542",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320159",
+      "fromID": "264542",
+      "toID": "264540",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

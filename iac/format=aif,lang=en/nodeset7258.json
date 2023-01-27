@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139875",
+      "text": "Don't expect the recent retractions and exonerations to change that. One of the strongest, most-repeated findings in the psychology of belief is that once people have been told X, especially if X is shocking, if they are later told, 'No, we were wrong about X,' most people still believe X. As Twain and Churchill knew, sometimes the truth never catches up with the lie, let alone overtakes it. As I wrote last summer in a story about why people believe lies even when they're later told the truth, sometimes people's mental processes simply go off the rails.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:15"
+    },
+    {
+      "nodeID": "139876",
+      "text": "Absolutely true! I discovered that with my fluoride research... For whatever reason, most people take another's word for what the truth actually is instead of searching for it themselves. If the lie is an easier pill to swallow than the truth pill, they'll take the lie. emoticon_frazzled",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:15"
+    },
+    {
+      "nodeID": "139877",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:50:15"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183330",
+      "fromID": "139876",
+      "toID": "139877",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183331",
+      "fromID": "139877",
+      "toID": "139875",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "142153",
+      "text": "BTW, I think Anthony Flew is wrong about the Christian God.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:27"
+    },
+    {
+      "nodeID": "142154",
+      "text": "You don't say!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:27"
+    },
+    {
+      "nodeID": "142155",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:55:27"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184948",
+      "fromID": "142154",
+      "toID": "142155",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184949",
+      "fromID": "142155",
+      "toID": "142153",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

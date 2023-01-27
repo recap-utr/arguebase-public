@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148989",
+      "text": "the trait has to arise first. do you really think the traits Jim mentioned could happen randomly?...by mutation, no less?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:42"
+    },
+    {
+      "nodeID": "148990",
+      "text": "I think Kronus pretty much covered that one...quite well actually.  It's sad SS, you always harp against NS, but you obviously have no clue what NS is really all about. I suggest a little educational reading. I at least read the bible before I began to publically debate it's validity.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:42"
+    },
+    {
+      "nodeID": "148991",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:09:42"
+    },
+    {
+      "nodeID": "148992",
+      "text": "Yes, but they could have arisen incrementally.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:42"
+    },
+    {
+      "nodeID": "148993",
+      "text": "oh, now we're getting somewhere. Explain more, please. Oh, and some evidence of incremental modifications would be nice too.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:42"
+    },
+    {
+      "nodeID": "148994",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:09:42"
+    },
+    {
+      "nodeID": "148995",
+      "text": "It's fascinting to me how much faith atheists have in randomness",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:42"
+    },
+    {
+      "nodeID": "148996",
+      "text": "And again, a creationist shows the belief that if you don't agree with them, you're an atheist.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:42"
+    },
+    {
+      "nodeID": "148997",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:09:43"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189772",
+      "fromID": "148990",
+      "toID": "148991",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189773",
+      "fromID": "148991",
+      "toID": "148989",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189774",
+      "fromID": "148993",
+      "toID": "148994",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189775",
+      "fromID": "148994",
+      "toID": "148992",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189776",
+      "fromID": "148996",
+      "toID": "148997",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189777",
+      "fromID": "148997",
+      "toID": "148995",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

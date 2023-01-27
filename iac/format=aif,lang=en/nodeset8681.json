@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "161205",
+      "text": "You are not the type of theist I am interested in talking to.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:02"
+    },
+    {
+      "nodeID": "161206",
+      "text": "Well excuuuuuuuuuuuse me. You are obviously not simply inquiring into the way people think then, so instead of asking generally what people think, why don't you tell us exactly who you are looking for so they can present themselves.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:02"
+    },
+    {
+      "nodeID": "161207",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:37:02"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198434",
+      "fromID": "161206",
+      "toID": "161207",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198435",
+      "fromID": "161207",
+      "toID": "161205",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

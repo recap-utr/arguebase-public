@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139554",
+      "text": "Yep, the Bushies want to bankrupt the country.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:25"
+    },
+    {
+      "nodeID": "139555",
+      "text": "But only in a good cause - which is defined as putting money into the pockets of friends of the Bush dynasty. Registering gays in DC is not going to do that. Nor will a lot of other worthy programs. On the other hand tearing down a country with one hand while rebuilding it with the other and paying for both ones own armaments and those of the 'enemy' manages the job nicely. And after all 'the right people' will come out ahead since they can hire all the cheap servants they want.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:25"
+    },
+    {
+      "nodeID": "139556",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:49:25"
+    },
+    {
+      "nodeID": "139557",
+      "text": "While Bush did indeed threaten to veto if there was no such amendment, I'm not sure why he's the focus here, or at least the total focus--the House of Representatives is the one that voted 224-200 for passing this amendment ensuring federal dollars couldn't be used. That's right--your Democratic-majority congress. (http://www.hrc.org/Template.cfm?Section=Press_Room&CONTENTID=37248&TEMPLATE=/ContentManagement/ContentDisplay.cfm) (and given the numbers, obviously a lot of Democrats voted against the funding. And of course, I'm just certain we'll see those Democrats criticized with the same fervor here in this forum as has been levied toward Bush. emoticon_xangel ) Other sources I've read also state that the vote will have little practical effect because the city uses local funds for the partner registry.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:25"
+    },
+    {
+      "nodeID": "139558",
+      "text": "I think we are all perfectly happy to criticise Democrats for not standing up to GOP homophobia! Let's not forget it was Bush who made gay people an issue here. It's your GOP that's the problem.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:25"
+    },
+    {
+      "nodeID": "139559",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:49:25"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183104",
+      "fromID": "139555",
+      "toID": "139556",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183105",
+      "fromID": "139556",
+      "toID": "139554",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183106",
+      "fromID": "139558",
+      "toID": "139559",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183107",
+      "fromID": "139559",
+      "toID": "139557",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,121 @@
+{
+  "nodes": [
+    {
+      "nodeID": "136366",
+      "text": "It's just feeding off of the mother.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:42:54"
+    },
+    {
+      "nodeID": "136367",
+      "text": "Just???  Spoken like a true man. :p",
+      "type": "I",
+      "timestamp": "2016-03-08 19:42:54"
+    },
+    {
+      "nodeID": "136368",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:42:54"
+    },
+    {
+      "nodeID": "136369",
+      "text": "No they are'nt. DNA of gametes is haploid, where as the stomatic cells of the mother and father are diploid. Also, egg and sperm DNA is jumbled, meaning it genes are swapped along chromsosomes, resulting in very different combinations then exist in the original stomatic cells. No, you're wrong, the DNA of the egg and father have many of the same genes as the mother and father, but lack 1/2 of the same genes as well as the same placement.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:42:54"
+    },
+    {
+      "nodeID": "136370",
+      "text": "I think you confused yourself. You more supported my argument than hurt it.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:42:54"
+    },
+    {
+      "nodeID": "136371",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:42:54"
+    },
+    {
+      "nodeID": "136372",
+      "text": "Because.....",
+      "type": "I",
+      "timestamp": "2016-03-08 19:42:54"
+    },
+    {
+      "nodeID": "136373",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:42:54"
+    },
+    {
+      "nodeID": "136374",
+      "text": "#1 What does a virus have to do with this discussion? I see in the post above you argue the same thing with clive. Are you for real? Mach Says: There are trillions of unique living organisms, some possibly hundreds or thousands of years old, living on my bathroom counter, complete with genetic material, etc.. I wipe them down with windex and don't think twice. What's the problem here? Mana'ia says: virus is simply a piece of DNA (or RNA - Ribonucleic Acid) that is wrapped in a protein coat. This is called the virus particle.  Who said anything about viruses? Another strawman. Bacteria Mana'ia. Bacteria are living, unique, fully classifiable LIFE, ORGANISMS.  #2, Again, who is arguing that living cells are not living? This entire line of reasoning looks to be strawman aimed at pro-choice advocates. Really, who is arguing against the fact that science classifies living cells as living? #3 Define distinct any way you like, it's arbitrary, and irrelevant.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:42:54"
+    },
+    {
+      "nodeID": "136375",
+      "text": "I had researched some stuff about viruses that was applicable about life in general because it is the only thing that is not defintely classified. So the argument was about life, the other stuff was just peripheral. Don't make such a big deal about including other tings in it.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:42:54"
+    },
+    {
+      "nodeID": "136376",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:42:54"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "180826",
+      "fromID": "136367",
+      "toID": "136368",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180827",
+      "fromID": "136368",
+      "toID": "136366",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180828",
+      "fromID": "136370",
+      "toID": "136371",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180829",
+      "fromID": "136371",
+      "toID": "136369",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180830",
+      "fromID": "136372",
+      "toID": "136373",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180831",
+      "fromID": "136373",
+      "toID": "136370",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180832",
+      "fromID": "136375",
+      "toID": "136376",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180833",
+      "fromID": "136376",
+      "toID": "136374",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

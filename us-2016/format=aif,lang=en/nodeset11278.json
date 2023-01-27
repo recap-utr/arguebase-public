@@ -1,0 +1,137 @@
+{
+  "nodes": [
+    {
+      "nodeID": "211497",
+      "text": "AMcMahon1 : Can you even get a job at 14",
+      "type": "L",
+      "timestamp": "2016-10-31 17:07:48"
+    },
+    {
+      "nodeID": "211520",
+      "text": "Clovis69 : Yes, Federal Law is 14",
+      "type": "L",
+      "timestamp": "2016-10-31 17:07:50"
+    },
+    {
+      "nodeID": "211522",
+      "text": "Yes, Federal Law is 14",
+      "type": "I",
+      "timestamp": "2016-10-31 17:07:50"
+    },
+    {
+      "nodeID": "221187",
+      "text": "HUCKABEE : Nobody in this country is on Social Security because they made the decision when they were starting work at 14 that they wanted to trust some of their money with the government",
+      "type": "L",
+      "timestamp": "2016-11-01 15:05:01"
+    },
+    {
+      "nodeID": "221189",
+      "text": "Nobody in this country is on Social Security because they made the decision when they were starting work at 14 that they wanted to trust some of their money with the government",
+      "type": "I",
+      "timestamp": "2016-11-01 15:05:01"
+    },
+    {
+      "nodeID": "264299",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 09:54:20",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264300",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-09 09:54:21",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "264301",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 09:54:21",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264302",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2017-03-09 09:54:22",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "264303",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2017-03-09 09:54:22",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "319688",
+      "fromID": "221187",
+      "toID": "264299",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319689",
+      "fromID": "264299",
+      "toID": "211497",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319690",
+      "fromID": "211497",
+      "toID": "264300",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319691",
+      "fromID": "264300",
+      "toID": "221189",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319692",
+      "fromID": "221187",
+      "toID": "264301",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319693",
+      "fromID": "264301",
+      "toID": "211520",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319694",
+      "fromID": "211522",
+      "toID": "264302",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319695",
+      "fromID": "264302",
+      "toID": "221189",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319696",
+      "fromID": "264301",
+      "toID": "264303",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319697",
+      "fromID": "264303",
+      "toID": "264302",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

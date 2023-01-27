@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "153670",
+      "text": "Despite the clinical term, the word is generally used to describe gun control advocates. It is mildly derogatory, less so than similar slang terms such as those mentioned above. It is most commonly used as a pejorative by gun rights advocates.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:51"
+    },
+    {
+      "nodeID": "153671",
+      "text": "Try the link. You've done the 'name calling', at least you could be honest about what you are doing.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:51"
+    },
+    {
+      "nodeID": "153672",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:19:51"
+    },
+    {
+      "nodeID": "153673",
+      "text": "When you resort to name calling you have lost the argument before you even start.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:51"
+    },
+    {
+      "nodeID": "153674",
+      "text": "Ah, yes.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:51"
+    },
+    {
+      "nodeID": "153675",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:19:51"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193074",
+      "fromID": "153671",
+      "toID": "153672",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193075",
+      "fromID": "153672",
+      "toID": "153670",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193076",
+      "fromID": "153674",
+      "toID": "153675",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193077",
+      "fromID": "153675",
+      "toID": "153673",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

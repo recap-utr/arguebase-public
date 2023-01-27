@@ -1,0 +1,218 @@
+{
+  "nodes": [
+    {
+      "nodeID": "211450",
+      "text": "71%",
+      "type": "I",
+      "timestamp": "2016-10-31 17:06:09"
+    },
+    {
+      "nodeID": "211453",
+      "text": "prophetofgreed : 71%",
+      "type": "L",
+      "timestamp": "2016-10-31 17:06:10"
+    },
+    {
+      "nodeID": "211455",
+      "text": "prophetofgreed : I heavily doubt that Christie",
+      "type": "L",
+      "timestamp": "2016-10-31 17:06:10"
+    },
+    {
+      "nodeID": "211483",
+      "text": "desert_wombat : This would indicate 66%, not far off",
+      "type": "L",
+      "timestamp": "2016-10-31 17:06:12"
+    },
+    {
+      "nodeID": "211485",
+      "text": "This would indicate 66%, not far off",
+      "type": "I",
+      "timestamp": "2016-10-31 17:06:13"
+    },
+    {
+      "nodeID": "221077",
+      "text": "CHRISTIE : 71 % of federal spending right now is on entitlements , and debt service , 71 %",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:50"
+    },
+    {
+      "nodeID": "221079",
+      "text": "71 % of federal spending right now is on entitlements , and debt service , 71 %",
+      "type": "I",
+      "timestamp": "2016-11-01 15:04:50"
+    },
+    {
+      "nodeID": "264291",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 09:41:27",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264292",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-09 09:41:27",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "264293",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-09 09:41:28",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "264294",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 09:41:28",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264295",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-09 09:41:29",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "264296",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 09:41:29",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264297",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2017-03-09 09:41:30",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "264298",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2017-03-09 09:41:30",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "319672",
+      "fromID": "221077",
+      "toID": "264291",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319673",
+      "fromID": "264291",
+      "toID": "211453",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319674",
+      "fromID": "211450",
+      "toID": "264292",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319675",
+      "fromID": "264292",
+      "toID": "221079",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319676",
+      "fromID": "264291",
+      "toID": "264293",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319677",
+      "fromID": "264293",
+      "toID": "264292",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319678",
+      "fromID": "221077",
+      "toID": "264294",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319679",
+      "fromID": "264294",
+      "toID": "211455",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319680",
+      "fromID": "264294",
+      "toID": "264295",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319681",
+      "fromID": "264295",
+      "toID": "221079",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319682",
+      "fromID": "221077",
+      "toID": "264296",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319683",
+      "fromID": "264296",
+      "toID": "211483",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319684",
+      "fromID": "211485",
+      "toID": "264297",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319685",
+      "fromID": "264297",
+      "toID": "221079",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319686",
+      "fromID": "264296",
+      "toID": "264298",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319687",
+      "fromID": "264298",
+      "toID": "264297",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "211453",
+      "personID": "2617",
+      "timestamp": "2016-10-31 17:06:16",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

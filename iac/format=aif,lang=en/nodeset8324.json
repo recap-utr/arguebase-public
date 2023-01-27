@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "155730",
+      "text": "good thing this argument has never been done!...oh wait. With that logic we should make everything legal. You are much better off making theft legal and safe (no more guns needed!) than to have it illegal and dangerous.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:29"
+    },
+    {
+      "nodeID": "155731",
+      "text": "And teen sex doesn't, by the very nature of it's action, result in ending a life that would grow into a toddler, a child, an adolescent, and an adult--basically the action of killing someone.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:29"
+    },
+    {
+      "nodeID": "155732",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:29"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194536",
+      "fromID": "155731",
+      "toID": "155732",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194537",
+      "fromID": "155732",
+      "toID": "155730",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

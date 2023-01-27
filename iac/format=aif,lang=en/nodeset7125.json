@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138228",
+      "text": "Since pandion cannot answer the following question it I would like someone else to. Thanks in advance If my wife's father was bald but my wife and her siblings show no signs of baldness, and if my father was not bald and neither of my siblings is but I am, what is the probability the my children will be bald. Please make sure that you address the issue of gender.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:38"
+    },
+    {
+      "nodeID": "138229",
+      "text": "I can well believe that pandion cannot answer this question; no one can accurately answer it. We know that baldness, as a genetic condition, is polygenetic (ie it's controlled by multiple genes) and autosomal (the genes [or at least the bulk of them] do not reside on the X or Y chromosomes). Despite being autosomal, people appear statistically slightly more likely to exhibit balness if the trait comes from their mother's side of the family. Even if we knew precisely which genes were involved and which of those genes your kids had, we still cannot tell you the likihood of your children being bald. The chances of the gene combination being expressed in the correct way to cause baldness are dependent on age, hormone levels, stress and probably a variety of other environmental conditions.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:38"
+    },
+    {
+      "nodeID": "138230",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:46:38"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182158",
+      "fromID": "138229",
+      "toID": "138230",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182159",
+      "fromID": "138230",
+      "toID": "138228",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

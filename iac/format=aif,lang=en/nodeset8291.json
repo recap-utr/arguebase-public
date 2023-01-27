@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "155205",
+      "text": "The healtcare reform addresses these issues. What you are writing is pure demagogy.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:23:21"
+    },
+    {
+      "nodeID": "155206",
+      "text": "Really? I never know why people can't objectively look at things. Where would this reduce ANY health care costs? From every study I've seen it will cost Americans more",
+      "type": "I",
+      "timestamp": "2016-03-08 20:23:21"
+    },
+    {
+      "nodeID": "155207",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:23:21"
+    },
+    {
+      "nodeID": "155208",
+      "text": "Okemoticon_confused, this doesn't address my point which is that none of the current bills in congress lower the costs of health care or anyone.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:23:21"
+    },
+    {
+      "nodeID": "155209",
+      "text": "Well, you know what happens when they try to eliminate waste. The opponents start screaming that the government is 'rationing' health care. In any case the inclusion of the 40 million uninsured wil be financed mostly by waste elimination. At least it is a start. The status quo is untenable.  The essential point here is that the universal healthcare systems in Europe, Japan and Canada deliver MORE healthcare for less money. It is not the case that in Canada, healtcare is in short supply because the government is rationing it. They are ahead of us in all metrics except waiting time for non-essential surgery. One example is the waiting time in emergency rooms as some of us have actually experienced. We may not be able to achieve the same efficiency overnight but we have to stop putting our head in the sand.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:23:21"
+    },
+    {
+      "nodeID": "155210",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:23:21"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194166",
+      "fromID": "155206",
+      "toID": "155207",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194167",
+      "fromID": "155207",
+      "toID": "155205",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194168",
+      "fromID": "155209",
+      "toID": "155210",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194169",
+      "fromID": "155210",
+      "toID": "155208",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

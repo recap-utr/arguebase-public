@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "162608",
+      "text": "I can give you two reasons why pro-life groups don't do things that you suggest in your post. 1. Because they may have children of their own they're providing for since they are pro-life, 2. Because of this. PRO-LIFER 'It is now our job to nurture and take care of those children who won't have a good future because of their parents or resources. DESPERATE MAN 'Honey! Let's go ahead and dump all our kids on these people because they want to raise our children so we won't have to! Let's tell the whole neighboorhood or even the whole city! Mr. Pro-lifer is going to care for them all now!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:40:33"
+    },
+    {
+      "nodeID": "162609",
+      "text": "But you don't have any problem with forcing women to go through pregnancies that they do not want--forcing them to give birth to children they are unable to care for. Nice.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:40:33"
+    },
+    {
+      "nodeID": "162610",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:40:33"
+    },
+    {
+      "nodeID": "162611",
+      "text": "Lovely. I guess there aren't any children at all outside of the United States.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:40:33"
+    },
+    {
+      "nodeID": "162612",
+      "text": "Well abortion is a law thing and for the most part it seems like he was getting after the US (as he has done in other posts)...nevertheless, starving children are around even with abortion and there is no reason to believe abortion has 'helped' this problem.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:40:33"
+    },
+    {
+      "nodeID": "162613",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:40:33"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "199442",
+      "fromID": "162609",
+      "toID": "162610",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199443",
+      "fromID": "162610",
+      "toID": "162608",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199444",
+      "fromID": "162612",
+      "toID": "162613",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199445",
+      "fromID": "162613",
+      "toID": "162611",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

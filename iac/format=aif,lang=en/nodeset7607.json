@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "144938",
+      "text": "JUSTICE SOUTER: Can we also look to current 13 conditions like current crime statistics? 14 MR. GURA: To some extent, Your Honor, but we have certainly -- 16 JUSTICE SOUTER: Well, can they consider the 17 extent of the murder rate in Washington, D.C., using 18 handguns? 19 MR. GURA: If we were to consider the extent of the murder rate with handguns, the law would not 21 survive any type of review, Your Honor. 22 JUSTICE SCALIA: All the more reason to 23 allow a homeowner to have a handgun. 24 MR. GURA: Absolutely, Your Honor. JUSTICE BREYER: Whose judgment is that 78 Alderson Reporting Company 5 10 15 20 25 Official - Subject to Final Review 1 to -- 2 JUSTICE SOUTER: The question is whether 3 they may consider those statistics, and I take it your 4 answer is yes? MR. GURA: Well, those statistics might be 6 considered in some way, the fact is that at some point 7 there is a role for judicial review. And you can't just 8 grab at statistics -- and some of the statistics that 9 were used here are very weak, and studies that have been rejected by the National Academy of Sciences repeatedly. 11 I mean, we don't really have -- it's hard to say that 12 those laws -- 13 JUSTICE SOUTER: But I think -- I don't want 14 you to misunderstand my question. My question is that by looking to the statistics, I'm not suggesting that 16 there is only sort of one reasonable response to them. 17 I want to know whether -- whether the policymakers may 18 look to them; and I take it your answer is yes? 19 MR. GURA: To some degree, yes, policymakers have to be informed by what's going on in order to make 21 policy. However, there are constitutional limitations 22 enforced by courts that are going to limit those 23 policies. And when you have a ban which bans 40 percent 24 of all weapons that are the type of weapons used by civilians, 80 percent of all self-defense occurs with 79 Alderson Reporting Company 5 10 15 20 25 Official - Subject to Final Review 1 handguns; when you have that kind of ban, functional 2 firearms ban, these are extreme measures -- 3 JUSTICE SOUTER: They may be. I just want 4 to make sure you're not making the argument that because there was not a comparable homicide rate, or for that 6 matter, a comparable need for self-defense from handgun 7 use in 1792, that there -- 1790 -- that therefore, the 8 statistics of today may not be considered? You're not 9 making that argument? MR. GURA: No, Your Honor, the fact is that 11 we can always debate these things, but the object of the 12 Bill of Rights is to remove certain judgments from the 13 legislature, because we can make policy arguments, 14 normative arguments about many provisions of the Constitution. But to make those arguments and say, 16 well, we've decided as a matter of policy that the right 17 to keep and bear arms is no longer a good idea and, 18 therefore, we are going to have restrictions that 19 violate that stricture in the Bill of Rights, that shouldn't pass judicial review. At some point you have 21 to go to Article 5 if you think that the Constitution is 22 impractical. 23 JUSTICE KENNEDY: But Just to be clear -- 24 and I don't want to misstate your position, but my understanding, I at least inferred that you would 80 Alderson Reporting Company",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:06"
+    },
+    {
+      "nodeID": "144939",
+      "text": "And here you are, claiming that judge Urbina ruled favorably to either Heller or for the side of the Second Amendment Rights? He did not! He tried to muddy the water and preserve the status quo of the failed D.C. gun laws.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:06"
+    },
+    {
+      "nodeID": "144940",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:01:06"
+    },
+    {
+      "nodeID": "144941",
+      "text": "Doesnt look like getting rid of gun control is DC is working out so well",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:06"
+    },
+    {
+      "nodeID": "144942",
+      "text": "So why is this killing in DC on the news, when so many previous ones were ignored and treated like they didn't exist?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:06"
+    },
+    {
+      "nodeID": "144943",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:01:06"
+    },
+    {
+      "nodeID": "144944",
+      "text": "Pure ignorance here, everybody take note. In Heller v. DC, in 2008, the SCOTUS reinterpreted the 2nd amendment and invalidated DC gun laws. The Indiana Law Blog: Courts - New DC gun laws tested under Heller standard [Updated again] So gun nuts got their way in DC and now look what happens...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:06"
+    },
+    {
+      "nodeID": "144945",
+      "text": "And are people in DC legally allowed to carry their guns with them in a concealed manner, having them readily available like the rest of us do in the country? Absolutely not. According to DC your rights don't extend past your home, and it barely even exists inside your home.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:06"
+    },
+    {
+      "nodeID": "144946",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:01:06"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186924",
+      "fromID": "144939",
+      "toID": "144940",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186925",
+      "fromID": "144940",
+      "toID": "144938",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186926",
+      "fromID": "144942",
+      "toID": "144943",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186927",
+      "fromID": "144943",
+      "toID": "144941",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186928",
+      "fromID": "144945",
+      "toID": "144946",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186929",
+      "fromID": "144946",
+      "toID": "144944",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

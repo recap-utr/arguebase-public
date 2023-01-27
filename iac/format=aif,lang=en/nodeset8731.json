@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "161956",
+      "text": "Maybe if there was a gun culture in the UK the police would have been more used to dealing with gun rampages. Maybe if everyone in the UK owned a gun then someone would have shot this man before he killed so many people. I dont know but I do know that the solution to stopping this happening again does not lie in making guns easier to get! The USA can have as many guns as it wants but to allow Brits to obtain guns as easy as they can it the States would be madness.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:47"
+    },
+    {
+      "nodeID": "161957",
+      "text": "Alarm at routine patrols by armed police - Crime, UK - The Independent",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:47"
+    },
+    {
+      "nodeID": "161958",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:47"
+    },
+    {
+      "nodeID": "161959",
+      "text": "But it was immediately denounced by members of the Metropolitan Police Authority (MPA), the body which governs the actions of Scotland Yard, which was apparently not consulted on the controversial decision. One MPA member described the move as 'totally unacceptable' while another called for an emergency meeting. Joanne McCartney said: 'We want fewer guns on the streets not more, and people to feel safe in their community - not scared of those who are supposed to protect them.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:47"
+    },
+    {
+      "nodeID": "161960",
+      "text": "So let's look at the facts. In the UK there's a continual fear of the people being armed, so pervasive and paralyzing in nature, that it extends even to the police being armed. You fear your own neighbors, you fear your own police officers. You insist that absolutely nobody can be trusted without extensive background checks and letters of reference of character, and even then you still don't trust people.  And yet you claim that this society of fear, this overwhelming distrust of absolutely everyone, is somehow the better society, the safer society. You want us to believe that fearing your own shadow is the kind of society that we in America should strive to become. No thanks.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:47"
+    },
+    {
+      "nodeID": "161961",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:47"
+    },
+    {
+      "nodeID": "161962",
+      "text": "No. You've completely missed the point. But then again you like in the United Kingdom so I'm not really surprised that you did. Your society has so much fear and distrust that it could actually be sold by the slice. Your paranoia is so pervasive that you've insisted on the 10,000 security cameras being implemented in just the city of London alone. You're so worried about a threat to your perceived safety that you don't even trust your down police because you're afraid they might wind up killing you. Fear isn't when you need a firearm to protect yourself. Fear is when you lock yourself away from the rest of the world and become unable to trust the police or your neighbors because you believe they're out to murder you. Fear is when you give up your liberties and rights because you want the government to be your parents and protect you from yourself. The United Kingdom is nothing more than a society of fear, distrust and raging paranoia. Yours is a society that we wish to have no part of. Kindly keep your distrust of your neighbors to yourself and don't try to tell us how we should run our country.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:47"
+    },
+    {
+      "nodeID": "161963",
+      "text": "'[On ancient Athens]: In the end, more than freedom, they wanted security. They wanted a comfortable life, and they lost it all &#8211; security, comfort, and freedom. When the Athenians finally wanted not to give to society but for society to give to them, when the freedom they wished for most was freedom from responsibility, then Athens ceased to be free and was never free again.' &#8211; Edward Gibbon History repeats itself when forgotten.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:47"
+    },
+    {
+      "nodeID": "161964",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:47"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198978",
+      "fromID": "161957",
+      "toID": "161958",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198979",
+      "fromID": "161958",
+      "toID": "161956",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198980",
+      "fromID": "161960",
+      "toID": "161961",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198981",
+      "fromID": "161961",
+      "toID": "161959",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198982",
+      "fromID": "161963",
+      "toID": "161964",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198983",
+      "fromID": "161964",
+      "toID": "161962",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

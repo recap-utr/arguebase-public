@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139471",
+      "text": "I didn't miss the part where the doctor stated that the woman's health 'could' be in danger. I also didn't miss the part where they would have to wait until the children were developed into late stages before deciding which ones to kill. In this case, the parents went to such extremes so as to become pregnant that they expose themselves as callously toying with lives to accomodate their own plans, then whining pre-emptively lest someone challenge their attempt at godhood. Conservatives do not want to select who dies for convenience sake. Only liberals would actually protest and make demands for the so called 'right' to kill their babies.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:08"
+    },
+    {
+      "nodeID": "139472",
+      "text": "So you would have the mother, all four fetus's die instead. Well, just so long as your conscience is clear.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:08"
+    },
+    {
+      "nodeID": "139473",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:49:08"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183046",
+      "fromID": "139472",
+      "toID": "139473",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183047",
+      "fromID": "139473",
+      "toID": "139471",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

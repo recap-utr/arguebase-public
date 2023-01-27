@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143513",
+      "text": "Do you think the God will be happy with abortion?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:18"
+    },
+    {
+      "nodeID": "143514",
+      "text": "I dunno. Do you think the Tooth Fairy will be happy with people drink-driving? Any argument from a religious stand-point necessitates proving that said religion is true. Do that, and you'll get a lot of respect from a lot of people.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:18"
+    },
+    {
+      "nodeID": "143515",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:58:18"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185914",
+      "fromID": "143514",
+      "toID": "143515",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185915",
+      "fromID": "143515",
+      "toID": "143513",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "158010",
+      "text": "So guns are more important than the safety of women? Then the right of women abandoned by their husbands to know about the financial situation of their spouses in a divorce case?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:46"
+    },
+    {
+      "nodeID": "158011",
+      "text": "I would agree with you, but first of all, the owner of the show has every right to not allow cameras. Second, it would be a huge invasion of privacy if all women knew what their ex wives could keep spying on what they buy and what they do. They have no buisness doing that.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:46"
+    },
+    {
+      "nodeID": "158012",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:29:46"
+    },
+    {
+      "nodeID": "158013",
+      "text": "But the large, stupid, uncivil man probably also packs a gun, probably even something like an AK7,",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:47"
+    },
+    {
+      "nodeID": "158014",
+      "text": "and you bace clame on what? that most violent crime is commited with out a weapon http://www.ojp.usdoj.gov/bjs/pub/pdf/wuvc01.pdf and that when a firearm is used 87% of the time it is a handgun (not an AK47, witch is a hollywood favorit, but not truth).",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:47"
+    },
+    {
+      "nodeID": "158015",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:29:47"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196142",
+      "fromID": "158011",
+      "toID": "158012",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196143",
+      "fromID": "158012",
+      "toID": "158010",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196144",
+      "fromID": "158014",
+      "toID": "158015",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196145",
+      "fromID": "158015",
+      "toID": "158013",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

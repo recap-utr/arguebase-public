@@ -1,0 +1,181 @@
+{
+  "nodes": [
+    {
+      "nodeID": "137295",
+      "text": "Do gay people decide to be gay or are they born gay?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:47"
+    },
+    {
+      "nodeID": "137296",
+      "text": "Well, I did not choose to be heterosexual, I was born heterosexual. I can not see why it should be different for Gay people",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:47"
+    },
+    {
+      "nodeID": "137297",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:44:47"
+    },
+    {
+      "nodeID": "137298",
+      "text": "Simple and insightful, I agree. I wonder what EZ thinks?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:47"
+    },
+    {
+      "nodeID": "137299",
+      "text": "I think dropping trou for illicit gay sex has nothing to do with genes. It's a deliberate behavior.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:47"
+    },
+    {
+      "nodeID": "137300",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:44:47"
+    },
+    {
+      "nodeID": "137301",
+      "text": "Oh OK, I get it! It's not being gay that is a sin; it's the gay sex that is a sin. You are such an expert on gay people! How about this EZ, what if two gay men live together, love each other, sleep in separate beds, never have sex but maybe give each other a little French kiss now and then? Is that OK, EZ? Here let me answer that question for you since your famous for avoiding the issue. Why yes Mr. Monster that is perfectly fine and a totally realistic thing to ask people to do! I know why you're avoiding answering the topic question directly. Believe me I am going to rip you a new one regardless (figuratively speaking.) You may as well let it all out. You know you want to. So go ahead, make my day.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:47"
+    },
+    {
+      "nodeID": "137302",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:44:47"
+    },
+    {
+      "nodeID": "137303",
+      "text": "Same here. I think there may be a few on the fence that choose but most of them are born with the compulsions they have.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:48"
+    },
+    {
+      "nodeID": "137304",
+      "text": "I think there are probably more on the fence than there are those who are purely homosexual. I think many who are 'on the fence' become homophobes to try to deny their idea and attractions. This is characterised by a lot of verbal condemnation with an equal amount of fascination about the sexual activities of Gays. Their big verbal condemnation is more to convince themselves than to convince others.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:48"
+    },
+    {
+      "nodeID": "137305",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:44:48"
+    },
+    {
+      "nodeID": "137306",
+      "text": "how do you know you were born heterosexual? what suggests that you were born with a particular sexual orientation?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:48"
+    },
+    {
+      "nodeID": "137307",
+      "text": "Because, not once, did I have feel any sort of physical attraction to the same gender as myself. I have known other people who have. I don't 'CHOOSE' who I think is sexually attractive.  It might have been environmental, but it certainly wasn't a 'choice' I have to assume that at least for some , if not most homosexuals, that pattern repeats itself.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:48"
+    },
+    {
+      "nodeID": "137308",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:44:48"
+    },
+    {
+      "nodeID": "137309",
+      "text": "I don't 'CHOOSE' who I think is sexually attractive.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:48"
+    },
+    {
+      "nodeID": "137310",
+      "text": "i disagree. being heterosexual does not mean you are sexually attractive to every female you come into contact with. you have a set of criteria that you use to determine which female is sexy. most boys (depending on how they are taught) are not sexually attracted to their sisters, mothers or females in their immediate family, regardless of how good-looking they are. yet they would be attracted to another female with the same body type and features. how do you explain that?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:48"
+    },
+    {
+      "nodeID": "137311",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:44:48"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181486",
+      "fromID": "137296",
+      "toID": "137297",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181487",
+      "fromID": "137297",
+      "toID": "137295",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181488",
+      "fromID": "137299",
+      "toID": "137300",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181489",
+      "fromID": "137300",
+      "toID": "137298",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181490",
+      "fromID": "137301",
+      "toID": "137302",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181491",
+      "fromID": "137302",
+      "toID": "137299",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181492",
+      "fromID": "137304",
+      "toID": "137305",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181493",
+      "fromID": "137305",
+      "toID": "137303",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181494",
+      "fromID": "137307",
+      "toID": "137308",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181495",
+      "fromID": "137308",
+      "toID": "137306",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181496",
+      "fromID": "137310",
+      "toID": "137311",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181497",
+      "fromID": "137311",
+      "toID": "137309",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

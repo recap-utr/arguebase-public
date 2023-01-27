@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138988",
+      "text": "'I think the school and the district made a terrible, terrible judgment,' he told the Times.'",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:14"
+    },
+    {
+      "nodeID": "138989",
+      "text": "Because they let the GSA act like any other club with the same amount of rights and lack of adminstration interference? emoticon_rolleyes",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:14"
+    },
+    {
+      "nodeID": "138990",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:48:14"
+    },
+    {
+      "nodeID": "138991",
+      "text": "The district issued a statement, calling the ceremonies 'a lawful exercise of the right of free speech guaranteed to public school students under state and federal law.'",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:14"
+    },
+    {
+      "nodeID": "138992",
+      "text": "And they would be correct.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:14"
+    },
+    {
+      "nodeID": "138993",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:48:14"
+    },
+    {
+      "nodeID": "138994",
+      "text": "I read it in the text:",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:14"
+    },
+    {
+      "nodeID": "138995",
+      "text": "Well, as we can see from other recent posts, your reading comprehension is below high school level. I don't get it. Why do folks think lying enhances their POV?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:14"
+    },
+    {
+      "nodeID": "138996",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:48:14"
+    },
+    {
+      "nodeID": "138997",
+      "text": "I think it is great school kids are learning to speak their minds. These are the future leaders and voters in America. It is good they are learning to make a difference. Bettter than silence!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:14"
+    },
+    {
+      "nodeID": "138998",
+      "text": "Actually our school's Gay-Straight Aliance held a day of silence to show respect for gays who have had to live in silence. They asked the teachers to respect the people in their day of silence and not force them to talk. I think most teachers didn't force students to talk. Unfortunately, some just spoke in sign language for fun and said they were doing it as part of the day of silence.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:15"
+    },
+    {
+      "nodeID": "138999",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:48:15"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182710",
+      "fromID": "138989",
+      "toID": "138990",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182711",
+      "fromID": "138990",
+      "toID": "138988",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182712",
+      "fromID": "138992",
+      "toID": "138993",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182713",
+      "fromID": "138993",
+      "toID": "138991",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182714",
+      "fromID": "138995",
+      "toID": "138996",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182715",
+      "fromID": "138996",
+      "toID": "138994",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182716",
+      "fromID": "138998",
+      "toID": "138999",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182717",
+      "fromID": "138999",
+      "toID": "138997",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

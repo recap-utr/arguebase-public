@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151620",
+      "text": "Look, you can get mad at the President for ignoring public opinion polls. That's perfectly fine. But I simply wanted to point out that this is not merely a Republican phenomenon. It is a political phenomenon. And if anything, it is reason enough to kick everyone out of the government and start over.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:11"
+    },
+    {
+      "nodeID": "151621",
+      "text": "So, you are going to ignore the fact that you just suggested that it was the Democrats trying to pass the immigration bill when it was really bipartisan? Really, Phyllis, are you too proud to admit that you were wrong?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:11"
+    },
+    {
+      "nodeID": "151622",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:15:11"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191628",
+      "fromID": "151621",
+      "toID": "151622",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191629",
+      "fromID": "151622",
+      "toID": "151620",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

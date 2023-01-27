@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141806",
+      "text": "I wonder, how do all the other democracies manage to survive without the protection of a heavily armed citizenry? Does this mean that the found fathers of America realised that they were not to be trusted?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:37"
+    },
+    {
+      "nodeID": "141807",
+      "text": "YES! the founding fathers realized government was to serve the people it governed. With out a set of rules that limited the government it would run wild (as england did). They made the bill of rights and constitution so that it would limit the government (to keep it from becoming too powerful, and overstepping it's bounds). And the only way the constitution could actually be enforced was for the population to uphold it. Back in the time of it's writing they probably saw the best way for a population to force a government to not over step it's bounds was to force it... er... by force. Today in the information age, a much better weapon is our right to vote. Sweeping changes can be implemented with out the use of force using the system.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:37"
+    },
+    {
+      "nodeID": "141808",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:54:38"
+    },
+    {
+      "nodeID": "141809",
+      "text": "My posts are not meant to project smugness. All I'd like to say is that systems operate, other than your own; It is possible to be a democracy without everyone carrying around a 9mm. That is why I also give examples of other countries such as Great Britain and New Zealand (both of whom have a general police force that is itself unarmed). I say this because the was an argument put forward to suggest that without a heavily armed citizenry, the people could be oppressed. So, rather than deal with a hypothetical - what if this happened in the USA, I thought I'd look to where there are actual cases of democracies with unarmed citizens. There are differing degrees of gun control. Canada has a fair few guns... but I don't believe it's a 'constitutional' issue. However, the large amount of small arms in the USA must have something to do with the large amount of deaths by small-arms",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:38"
+    },
+    {
+      "nodeID": "141810",
+      "text": "Well were are fine thank you very much. If we did it any other way then we would not be Americans. The UK police are not unarmed. Just as the government takes civilian guns away. They were giving them to cops: http://www.guardian.co.uk/Archive/Article/0,4273,4099970,00.html They are carrying full auto machine guns on patrol. Even US cops on patrol do not carry machine guns. 'On Monday in Brixton, south London, 28-year old Derek Bennett was shot six times by an officer who thought he was armed.' http://www.wsws.org/articles/2001/jul2001/shot-j23.shtml Don't trust the cops to be in your best interest. Authority is authority. Authority is not in the business of charity, nurture, or progressiveness. Authority is about control. At all levels, from the PIG cop giving tickets for kicks, to tyranical rape and murder; authority is about control. Ask any cop from any country. They will tell you, when they put on a uniform, something 'magical' happens. It is the semblance and air of AUTHORITY. Do you really think politicians enter politics for 'public good'. They all want the office, they want the bearing of the office, they want PRIVILEDGES of office. If they want to be about charity and public good, they why aren't they working for charities? Why aren't they working in labs to cure cancer? Why aren't they in soup kitchens? Why aren't they clegry? Because none of those idealist efforts offer the priviledges, bearing, and authority of office. Come on, you know they want it. No matter what country your from or what political system, you know they want it. Firearms are not a necessary requirement for freedom. They are a necessary requirement for fighting oppression. I am quite happy to have my politicians and elected represenatives fear me. They are my servants. When people in power do not fear citizens, then people in power have a writ to try anything. Soviets had a meaningless Constitution. Every oppressed industrial government in modern times had a government that had no fear of represials from citizens.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:38"
+    },
+    {
+      "nodeID": "141811",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:54:38"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184696",
+      "fromID": "141807",
+      "toID": "141808",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184697",
+      "fromID": "141808",
+      "toID": "141806",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184698",
+      "fromID": "141810",
+      "toID": "141811",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184699",
+      "fromID": "141811",
+      "toID": "141809",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

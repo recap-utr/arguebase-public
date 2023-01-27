@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139233",
+      "text": "Our pledge of allegiance is, &#8220;I pledge allegiance to the flag of the United States of America and to the republic for which it stands,&#8230;for all.&#8221;",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:43"
+    },
+    {
+      "nodeID": "139234",
+      "text": "Well see, 'democracy' is not a form of government. So you can't pledge allegiance to something that's not government (a particular form of government).",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:43"
+    },
+    {
+      "nodeID": "139235",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:48:43"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182884",
+      "fromID": "139234",
+      "toID": "139235",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182885",
+      "fromID": "139235",
+      "toID": "139233",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

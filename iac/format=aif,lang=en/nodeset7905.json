@@ -1,0 +1,121 @@
+{
+  "nodes": [
+    {
+      "nodeID": "149722",
+      "text": "'No. Probability arguments such as those Behe uses are pretty meaningless because there is no basis on which to calculate them.' - i take it you haven't read the book? 'All we can measure is average observed mutation rates in populations, which are commensurate with the speed of genetic diversification seen in primate lineages. In fact, such rates of diversification are used as the basis of the molecular clock to infer dates of separation of lineages when the fossil record isn't clear.' -ok 'Behe doesn't understand probability. If he were tossing coins, he'd be absolutely astonished by the sequence of heads and tails he obtained, because each sequence is vastly improbable.' - I think you are doing yourself a disservice by by such silly claims. If random mutations are 'random' don't you agree that the probablity of 2 mutations happening on the same gene at the same time is pretty low? And that 2 mutations happening on the same gene at different times is lower than one mutation on the gene? 'He'd probably attribute that to ID, too. However, biological evolution is based on cumulative and dependent probabilities, not independent ones, which makes them difficult to calculate. The reason biologists don't care much for Behe is that he's demonstrated a lack of understanding of some pretty basic concepts in science.'   'Since the probability is incalculable, then no.' - So the theory that RM initiated the changes that led from from monkey to man is unfalsifiable? 'We infer that mutations are random because directed mutations haven't been observed except under very limited circumstances. If some gene or DNA sequence undergoes a point mutation, who is to say it happened because of some random cosmic ray, or because the Creator decided in his infinite wisdom to suspend the laws of nature for that moment and poke molecules around? The answer is no-one, because no-one can calculate the relevant probabilities. However, the Creator hypothesis is scientifically barren because it explains everything, and hence explains nothing at all.'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:14"
+    },
+    {
+      "nodeID": "149723",
+      "text": "I don't agree with this either/or binary logic.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:14"
+    },
+    {
+      "nodeID": "149724",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:11:14"
+    },
+    {
+      "nodeID": "149725",
+      "text": "Well, whatever. Behe and his buddies misuse probability in their arguments, which fall flat as a result. If someone wishes to make the claim that mutations are directed as opposed to random, then it behoves them to demonstrate a mechanism for the directionality. Mere appeal to miscalculated probabilities is insufficient.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:14"
+    },
+    {
+      "nodeID": "149726",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:11:15"
+    },
+    {
+      "nodeID": "149727",
+      "text": "Your reasoning would be applicable if only one copy of the gene in question ever existed. If the chance of mutation A happening is one in a billion, and the chance of mutation B happening is also one in a billion, then the chance of them both happening together to a single gene is, as you say, beyond the realms of possibility at 1 in 1,000,000,000,000,000,000. However, we're not talking about a single gene. A population of a billion bacteria is nothing unusual, and all of them will contain the same gene. So while the odds of any individual experiencing mutation A are very low, the odds of one of them experiencing it are pretty high. The lottery works on the same principle. You probably won't win, but someone probably will. Ok, so now we have our billion bacteria, one of which possesses mutation A. However, the odds of mutation B stacking with it are still only 1 in 1,000,000,000. Now, if mutation A isn't particularly helpful, that's probably the end of the story. But if mutation A is helpful, then that bacterium will outcompete its peers for resources, and breed more readily than they do - either better in absolute terms, or better in immediate proximity, when in competition for the same resources. Either way, the proportion of the population possessing mutation A will increase until they predominate. Now there isn't just one copy of the A-mutant gene in circulation, there are about a billion, and the odds of mutation B stacking with just one of them are greatly improved. Once again, if mutation B is helpful the descendents of that bacterium will flourish and overrun the population, so that in a relatively short time (a few hundred bacterial generations) a single cell possessing neither mutation can give rise to a population of a billion all possessing not one but two billion-to-one mutations - a population ready for the next billion-to-one mutation to occur, and stack, and flourish, and so on. I hope that helps.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:15"
+    },
+    {
+      "nodeID": "149728",
+      "text": "Well this is what i am saying. The probability of a and b in one organism i very low. And the probability of A and B in many generations is lower than just A. This is what Behe deals with in his book. One reason evolution of primates interest me more than bacteria is the the number of organisms and generations is much much lower, and the changes involved must be pretty big. It involves Real evolution as opposed to stuff like antibiotic resistance or sicke cell haemoglobin that i see more as a reversable adaption, not a developement to a permanently better/more complex state.  IMO there should be possible to make some sort of calculation regarding the probability of RM being cause of the changes.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:15"
+    },
+    {
+      "nodeID": "149729",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:11:15"
+    },
+    {
+      "nodeID": "149730",
+      "text": "Well this is what i am saying. The probability of a and b in one organism i very low. And the probability of A and B in many generations is lower than just A.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:15"
+    },
+    {
+      "nodeID": "149731",
+      "text": "Actually, if you look at the example I've given, that's false. The probability of A in one organism may be low, but the probability of A in some organism approaches 100% as the population and the number of generations gets larger. And if A is useful and comes to dominate the population, then the probability of an AB individual appearing then also tends towards 100%. In the example above, the chance of an AB mutant occurring, if A and B are substantially useful mutations, is almost a dead certainty. It would be amazing if they didn't stack. So saying that AB occurring is less likely than A is misleading at best, downright wrong at worst. Behe is clearly misapplying probability theory.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:15"
+    },
+    {
+      "nodeID": "149732",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:11:15"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "190294",
+      "fromID": "149723",
+      "toID": "149724",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190295",
+      "fromID": "149724",
+      "toID": "149722",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190296",
+      "fromID": "149725",
+      "toID": "149726",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190297",
+      "fromID": "149726",
+      "toID": "149723",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190298",
+      "fromID": "149728",
+      "toID": "149729",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190299",
+      "fromID": "149729",
+      "toID": "149727",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190300",
+      "fromID": "149731",
+      "toID": "149732",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190301",
+      "fromID": "149732",
+      "toID": "149730",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

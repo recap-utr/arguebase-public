@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "162863",
+      "text": "Poetry does not mean fiction.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:41:11"
+    },
+    {
+      "nodeID": "162864",
+      "text": "But poetry will never be taken seriously in political decisions. Atheists have a lot to like in songofgenesis, don't they? :) another quote",
+      "type": "I",
+      "timestamp": "2016-03-08 20:41:11"
+    },
+    {
+      "nodeID": "162865",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:41:11"
+    },
+    {
+      "nodeID": "162866",
+      "text": "Science helps those who seek to understand God in a more profound way, to learn about the intricate and complex unfolding of His creation.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:41:11"
+    },
+    {
+      "nodeID": "162867",
+      "text": "And science helped Stenger write his book. How can the same subject make a stronger case for both of two completely opposing viewpoints?  another",
+      "type": "I",
+      "timestamp": "2016-03-08 20:41:11"
+    },
+    {
+      "nodeID": "162868",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:41:11"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "199624",
+      "fromID": "162864",
+      "toID": "162865",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199625",
+      "fromID": "162865",
+      "toID": "162863",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199626",
+      "fromID": "162867",
+      "toID": "162868",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199627",
+      "fromID": "162868",
+      "toID": "162866",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

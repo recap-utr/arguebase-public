@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "149159",
+      "text": "Hmmm. Why would someone assume that Eugenics, an idea created and a word coined by Sir Francis Galton the evolutionist and Cousin of Charles Darwin, have any relationship at all to the theory of evolution? That's a tough one. What do you think?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:11"
+    },
+    {
+      "nodeID": "149160",
+      "text": "I think that if for arguments sake that if Darwin was a racist that carried out genocides then I still don't see what Macroevolution would have to do with it. I will say it again. If you start with the mistaken belief some people are inferior then Eugenics immediately seems reasonable since it only relies on the idea that some people are inferior and the fact that parents are like their offspring.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:11"
+    },
+    {
+      "nodeID": "149161",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:10:11"
+    },
+    {
+      "nodeID": "149162",
+      "text": "And where does the macroevolution feature in that combination?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:11"
+    },
+    {
+      "nodeID": "149163",
+      "text": "Because the soundbite 'survival of the fittest' was coined to explain evolution to the stupid masses.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:11"
+    },
+    {
+      "nodeID": "149164",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:10:11"
+    },
+    {
+      "nodeID": "149165",
+      "text": "Not really. eugenics are not following evolution. Hitler for example didn't follow evolution at all. His entire aryan race didn't have a single fact of evolution in it.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:11"
+    },
+    {
+      "nodeID": "149166",
+      "text": "So you evolved and the aryan race was created by God? I have never heard that before.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:11"
+    },
+    {
+      "nodeID": "149167",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:10:11"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189890",
+      "fromID": "149160",
+      "toID": "149161",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189891",
+      "fromID": "149161",
+      "toID": "149159",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189892",
+      "fromID": "149163",
+      "toID": "149164",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189893",
+      "fromID": "149164",
+      "toID": "149162",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189894",
+      "fromID": "149166",
+      "toID": "149167",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189895",
+      "fromID": "149167",
+      "toID": "149165",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

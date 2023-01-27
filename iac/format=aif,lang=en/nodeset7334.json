@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140881",
+      "text": "It does seem like several of them have been particularly nasty lately. Maybe they are getting a pay cut from the groups they shill for or something.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:29"
+    },
+    {
+      "nodeID": "140882",
+      "text": "You know...zero from zero is still zero.... emoticon_wow",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:29"
+    },
+    {
+      "nodeID": "140883",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:52:29"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184048",
+      "fromID": "140882",
+      "toID": "140883",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184049",
+      "fromID": "140883",
+      "toID": "140881",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

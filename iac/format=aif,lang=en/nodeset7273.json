@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140102",
+      "text": "Sunday, July 26, 2009 Legal immunity set for swine flu vaccine makers: What are the implications? AP Medical Writer Mike Stobbe got a swine flu vaccine scoop--yet the news is four weeks old. It turns out that DHHS Secretary Sibelius has not only given immunity to the makers of Tamiflu and Relenza for injuries stemming from their use against swine flu. She also granted immunity to future swine flu vaccines and 'any associated adjuvants,' which was published in the June 25, 2009 Federal Register. Here is the start of his story: The last time the government embarked on a major vaccine campaign against a new swine flu, thousands filed claims contending they suffered side effects from the shots. This time, the government has already taken steps to head that off. Vaccine makers and federal officials will be immune from lawsuits that result from any new swine flu vaccine, under a document signed by Secretary of Health and Human Services Kathleen Sebelius, government health officials said Friday. Since the 1980s, the government has protected vaccine makers against lawsuits over the use of childhood vaccines. Instead, a federal court handles claims and decides who will be paid from a special fund. The document signed by Sebelius last month grants immunity to those making a swine flu vaccine, under the provisions of a 2006 law for public health emergencies. It allows for a compensation fund, if needed... However, the compensation issue is more difficult than portrayed by Stobbe. The special vaccine court to which Stobbe refers applies only to specially designated vaccines, excludes most adult vaccines, and swine flu is not a designated vaccine for which compensation can be paid. The 2006 Public Readiness and Emergency Preparedness Act (PREPA) allows the DHHS Secretary to invoke almost complete immunity from liability for manufacturers of vaccines and drugs used to combat a declared public health emergency. PREPA removes the right to a jury trial for persons injured by a covered vaccine, unless a plaintiff can provide clear evidence of willful misconduct that resulted in death or serious physical injury, and gets permission to sue from the DHHS Secretary. There has been no government funding of its potential compensation mechanism, to date. Furthermore, a PREPA declaration explicitly shields 'government program planners' who arranged for the liability waiver.  Pharmaceutical companies making swine flu vaccine today may have demanded immunity from liability before agreeing to begin a crash program to manufacture H1N1 vaccine for the government. According to a 1978 report by the National Academy of Sciences, something similar happened with the 1976 swine flu program: ... all manufacturers made plain that they would not insure themselves, not even temporarily. Instead they put off plans to bottle their vaccine; pending legislation they would keep the stuff in bulk. Each week's delay in moving from bulk to bottles assured at least as much delay in starting inoculations. Thus ended hopes of immunizing anybody in July or even August... Behind Merrell's firmness, there almost certainly was fear of the intentions of the casualty insurers. In May it was no secret that at least some major firms wanted to steer clear of swine vaccine. As early as April 8 Merck had been warned by its primary insurer that coverage for swine vaccine was 'considered' not 'feasible ... at virtually any price.' So Merck's President had written Mathews and everyone else in sight. Merrell, then about to switch insurers (for unrelated reasons) is reported to have been told by its new one something of the same sort at about the same time. We do not know precisely what was made of this, where in Merrell's management. We do know that the issue was reviewed again, in June, by the insurer with the same result, a 'no.' But we assume that Merrell's counsel knew in May what the insurer had already warned in April. However that may be, it shortly would turn out that all insurers saw the swine flu program much alike: not for them. Here is the problem: once the PREP Act is invoked to shield manufacturers from liability, the pharmaceutical firms have no financial incentive to make the safest product, and have a negative incentive to test it for safety. As long as they do not deliberately harm consumers of the product, they will not be liable for damages. Are you following this argument closely? In order to avoid having prior knowledge of possible harm to users of the product, for which they could be found liable, it is in the manufacturers' best interest to know as little as possible about adverse reactions caused by their product. Anthrax Vaccine -- posts by Meryl Nass, M.D.: Legal immunity set for swine flu vaccine makers: What are the implications?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:43"
+    },
+    {
+      "nodeID": "140103",
+      "text": "and this:",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:43"
+    },
+    {
+      "nodeID": "140104",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:43"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183494",
+      "fromID": "140103",
+      "toID": "140104",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183495",
+      "fromID": "140104",
+      "toID": "140102",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

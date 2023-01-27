@@ -1,0 +1,137 @@
+{
+  "nodes": [
+    {
+      "nodeID": "201015",
+      "text": "17th_knight : They should get the coverage",
+      "type": "L",
+      "timestamp": "2016-09-21 13:31:18"
+    },
+    {
+      "nodeID": "201047",
+      "text": "reaper527 : stop encouraging them to be her",
+      "type": "L",
+      "timestamp": "2016-09-21 13:31:21"
+    },
+    {
+      "nodeID": "201049",
+      "text": "stop encouraging illegal immigrants to be here",
+      "type": "I",
+      "timestamp": "2016-09-21 13:31:21"
+    },
+    {
+      "nodeID": "256922",
+      "text": "WEBB : I wouldn't have a problem with that",
+      "type": "L",
+      "timestamp": "2016-12-22 13:40:06"
+    },
+    {
+      "nodeID": "256924",
+      "text": "WEBB wouldn't have a problem with undocumented immigrants getting Obamacare",
+      "type": "I",
+      "timestamp": "2016-12-22 13:40:06"
+    },
+    {
+      "nodeID": "263951",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-08 10:15:33",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "263952",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2017-03-08 10:15:33",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    },
+    {
+      "nodeID": "263953",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-08 10:15:34",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "263954",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-08 10:15:34",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "263955",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-08 10:15:35",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "319020",
+      "fromID": "256922",
+      "toID": "263951",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319021",
+      "fromID": "263951",
+      "toID": "201015",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319022",
+      "fromID": "263951",
+      "toID": "263952",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319023",
+      "fromID": "263952",
+      "toID": "256924",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319024",
+      "fromID": "256922",
+      "toID": "263953",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319025",
+      "fromID": "263953",
+      "toID": "201047",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319026",
+      "fromID": "201049",
+      "toID": "263954",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319027",
+      "fromID": "263954",
+      "toID": "256924",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319028",
+      "fromID": "263953",
+      "toID": "263955",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319029",
+      "fromID": "263955",
+      "toID": "263954",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

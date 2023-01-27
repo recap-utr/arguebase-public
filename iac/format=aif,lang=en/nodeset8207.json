@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "153986",
+      "text": "...to me, if nothing was created, then it was just here, for eternity. The material for the Big Bang was always sitting somewhere, everything the universe is made of would always have been here. If the material that everything is made of was always there, why couldn't God have always been there?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:20:33"
+    },
+    {
+      "nodeID": "153987",
+      "text": "Actually it wasn't sitting somewhere since there was no 'where' to 'sit' and 'always' and 'eternity' have no meaning outside of time and no 'time' existed prior to the 'Big Bang', maybe.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:20:34"
+    },
+    {
+      "nodeID": "153988",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:20:34"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193298",
+      "fromID": "153987",
+      "toID": "153988",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193299",
+      "fromID": "153988",
+      "toID": "153986",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

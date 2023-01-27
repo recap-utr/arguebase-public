@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "145951",
+      "text": "Ha! Brady is so ignorant he's blindly repeating the greatest statistic that points out the fallacy of his argument that you can find. You heard it! Straight from the mouth of Brady! Only 151 killings since 2007! He doesn't even mention how many of these were considered justifiable cases of self-defense! Just 'killings' period. So, what he's saying is: In four years there have only been 151 lives taken by licenced CCW permit holders. Considering the number of folks posessing a CCW, and the number of killings that have happened in four years........... ......the result is a shocking .00000005 thousandths of a percentage point of total killings by CCW holders compared with killings by NON CCW holders! It seems like the hundreds of thousands of killings by NON CCW HOLDERS make the measly amount of killings by CCW holders pale in comparison. For example: Brady needs four years of data to come up with 151 'killings' (counting justified cases of self defense, as well). You only need the data for 2008 to find that over 180 children under 5 years old were killed by drowning in 5 gallon buckets. Soooooo........using the data provided by Brady we can determine with absolute certainty that: CCW holders are so safe, your child is more likely to be killed by a 5 gallon bucket within 365 days than a CCW holder in four years! Yet, when compared to non CCW holders, we're in deep trouble! Since 2007, NON CCW HOLDERS HAVE COMMITTED TENS OF THOUSANDS OF MURDERS! Yet, in four years, Brady can only find 151 by CCW holders. Some of those 151 are even cases of justifiable self defense! Keep up the good work pointing out how safe the percentages are, Brady! I couldn't do a better job of pointing out how CCW holders are so safe, they're only responsible for .00005 thousandths of a percent of killings compared with NON CCW holders, myself! Maybe they should change their name to 'Brady Campaign to Prevent Bucket Drownings'. They would save more lives in one year than in four spent chasing CCW holders.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:15"
+    },
+    {
+      "nodeID": "145952",
+      "text": "And terrorists probably kill less people in the US than non terrorists. To even begin to make any kind of meaningful comparison you have to adjust for the fact that there are a lot more people who don't pack heat than those that do in the US.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:15"
+    },
+    {
+      "nodeID": "145953",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:03:15"
+    },
+    {
+      "nodeID": "145954",
+      "text": "'After all, it's the job of the gun lobby and gunmakers to get as many guns into the hands of as many people as possible. It's everyone else's job to clean up after their mess.' Too true!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:15"
+    },
+    {
+      "nodeID": "145955",
+      "text": "Just like it's the job of the gun control lobby to try and pass an overwhelming, unreasonable level of fear of an inanimate object?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:15"
+    },
+    {
+      "nodeID": "145956",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:03:15"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187630",
+      "fromID": "145952",
+      "toID": "145953",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187631",
+      "fromID": "145953",
+      "toID": "145951",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187632",
+      "fromID": "145955",
+      "toID": "145956",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187633",
+      "fromID": "145956",
+      "toID": "145954",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143462",
+      "text": "You ask what is so bad about death...well nothing I suppose but it shouldn't ALWAYS be someone elses call about when you die.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:10"
+    },
+    {
+      "nodeID": "143463",
+      "text": "It's only time it's your call, is when it's suicide.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:11"
+    },
+    {
+      "nodeID": "143464",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:58:11"
+    },
+    {
+      "nodeID": "143465",
+      "text": "Legally there is a difference. But let's just toss that out for a second. The end result is exactly the same. Eyes fogged over no longer care whether it was fun or self defense.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:11"
+    },
+    {
+      "nodeID": "143466",
+      "text": "Well before there was a law someone came up with a difference, I didn't ask if they end result was the same, I asked if there was a difference in the two. Maybe a moral difference or something.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:11"
+    },
+    {
+      "nodeID": "143467",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:58:11"
+    },
+    {
+      "nodeID": "143468",
+      "text": "No, I'm saying it's OK because abortion is legal in this country. I was just pointing out that it's also legal to execute a convicted killer, and it's fine and dandy to declare wars where many people will die. 'Thall shalt not kill, unless there is a war'.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:11"
+    },
+    {
+      "nodeID": "143469",
+      "text": "Thou Shalt Not Kill.  Seems to be a pretty convenient verse to throw around. Does anyone who actually quotes the Bible bother to look up the Hebrew meanings? I don't think so.  You have to remember that the OT is wrote in Hebrew, Chaldean, and some Arabic. For the most part, words we use today, will have the same meaning. But in some instances they DON'T.  Take the word 'kill' for an example. If you own a Bible dictionary or concordance then it should inform you that the word kill in the Ten Commandments means to commit manslaughter. There is alot more to the actual commentary on this word and it is quite interesting.  But to say that killing was breaking a specific commandment and to use that as a reasoning against capital punishment is wrong. How do you explain all the wars that rage after the commandments were penned? How do you explain the cities of refuge set up for those folks quilty of accidentally killing another person. See Numbers 35:11. Distinctly two different meanings for the word kill.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:11"
+    },
+    {
+      "nodeID": "143470",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:58:11"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185880",
+      "fromID": "143463",
+      "toID": "143464",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185881",
+      "fromID": "143464",
+      "toID": "143462",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185882",
+      "fromID": "143466",
+      "toID": "143467",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185883",
+      "fromID": "143467",
+      "toID": "143465",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185884",
+      "fromID": "143469",
+      "toID": "143470",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185885",
+      "fromID": "143470",
+      "toID": "143468",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

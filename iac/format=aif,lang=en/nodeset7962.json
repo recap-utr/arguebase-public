@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "150678",
+      "text": "'Obviously it would be difficult for any committee to double-check every allegation made in the intense controversy over Professor Bellesiles' book, Arming America. The book is over 400 pages long and has over 120 pages of footnotes. Even the relatively small segment of the book we have been asked to review-the probate records and militia counts-involves complex materials scattered over many jurisdictions. We cannot claim to have undertaken a comprehensive review of every source in question. But we have done our best to review the major points at issue and to arrive at an independent judgment.' www.emory.edu/central/NEWS/Releases/Final_Report.pdf",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:07"
+    },
+    {
+      "nodeID": "150679",
+      "text": "Yes, and their final report was essentially that, while they did not review every piece of data used in the book, every single piece that they did review had been falsified or tapmered with.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:07"
+    },
+    {
+      "nodeID": "150680",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:13:07"
+    },
+    {
+      "nodeID": "150681",
+      "text": "I agree that the 98% statistic is not central to Lott's book. However, it does cast a shadow on his academic honesty. James Lindgren notes inconsistencies in Lott's claims about the 98% statistic- http://www.cse.unsw.edu.au/~lambert/guns/lindgren.htm",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:08"
+    },
+    {
+      "nodeID": "150682",
+      "text": "And yet no other portion of lotts work has been refuted. His methodology has been scrutinized and found to be legitimate. YET, you are willing to completely disregard his work because of an unrelated comment?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:08"
+    },
+    {
+      "nodeID": "150683",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:13:08"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "190960",
+      "fromID": "150679",
+      "toID": "150680",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190961",
+      "fromID": "150680",
+      "toID": "150678",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190962",
+      "fromID": "150682",
+      "toID": "150683",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190963",
+      "fromID": "150683",
+      "toID": "150681",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

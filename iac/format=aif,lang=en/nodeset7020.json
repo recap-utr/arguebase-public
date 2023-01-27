@@ -1,0 +1,139 @@
+{
+  "nodes": [
+    {
+      "nodeID": "136540",
+      "text": "What in your mind is the difference between civil unions and marriage? I read where several people, VOR being one of them, are opposed to gay marriage but support civil unions. If it is just the name then shouldn't we just change the name of all marriage licenses to civil unions? It is a lot like saying you like lemon juice but hate lemon squeezeings.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:14"
+    },
+    {
+      "nodeID": "136541",
+      "text": "You are right. Also, if the name wasn't important to those like VOR, they would have no problem with gay people using that name of 'marriage'. They know the name marriage carries with it a certain social significance and recognition that civil unions do not. That's why they want gay people to use only the lesser term. They don't want gay people and being gay, to have an equal level of recognition in this society.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:14"
+    },
+    {
+      "nodeID": "136542",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:43:14"
+    },
+    {
+      "nodeID": "136543",
+      "text": "civil union for all couples marriage only for those wanting kids",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:14"
+    },
+    {
+      "nodeID": "136544",
+      "text": "So if a gay couple plans to adopt, they can get married? And if a straight couple gets married, and then find out they can't have kids, does their marriage gets changed to a civil union? Or is it just desire to have kids?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:14"
+    },
+    {
+      "nodeID": "136545",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:43:14"
+    },
+    {
+      "nodeID": "136546",
+      "text": "i've no problems with gay couples marrying if they have kids straight couples can adopt as well",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:14"
+    },
+    {
+      "nodeID": "136547",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:43:15"
+    },
+    {
+      "nodeID": "136548",
+      "text": "Please, so you actually advocate 'down-grading' any union which does not raise children? That's simply insane! Not to mention also highly unconstitutional.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:15"
+    },
+    {
+      "nodeID": "136549",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:43:15"
+    },
+    {
+      "nodeID": "136550",
+      "text": "most straight people get marry intending to have kids.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:15"
+    },
+    {
+      "nodeID": "136551",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:43:15"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "180948",
+      "fromID": "136541",
+      "toID": "136542",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180949",
+      "fromID": "136542",
+      "toID": "136540",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180950",
+      "fromID": "136544",
+      "toID": "136545",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180951",
+      "fromID": "136545",
+      "toID": "136543",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180952",
+      "fromID": "136546",
+      "toID": "136547",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180953",
+      "fromID": "136547",
+      "toID": "136544",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180954",
+      "fromID": "136548",
+      "toID": "136549",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180955",
+      "fromID": "136549",
+      "toID": "136546",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180956",
+      "fromID": "136550",
+      "toID": "136551",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180957",
+      "fromID": "136551",
+      "toID": "136548",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

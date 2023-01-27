@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "63846",
+      "text": "Pardon me?",
+      "type": "I",
+      "timestamp": "2015-04-07 14:39:36"
+    },
+    {
+      "nodeID": "201119",
+      "text": "MrFordization : He was just overwhelmed by how weird whatever Webb was saying about China was",
+      "type": "L",
+      "timestamp": "2016-09-21 14:37:43"
+    },
+    {
+      "nodeID": "201121",
+      "text": "Sanders was just overwhelmed by how weird whatever Webb was saying about China was",
+      "type": "I",
+      "timestamp": "2016-09-21 14:37:44"
+    },
+    {
+      "nodeID": "256333",
+      "text": "WEBB : Pardon me?",
+      "type": "L",
+      "timestamp": "2016-12-22 13:16:37"
+    },
+    {
+      "nodeID": "263956",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-08 10:18:01",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "263957",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2017-03-08 10:18:01",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "263958",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2017-03-08 10:18:02",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "319030",
+      "fromID": "256333",
+      "toID": "263956",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319031",
+      "fromID": "263956",
+      "toID": "201119",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319032",
+      "fromID": "201121",
+      "toID": "263957",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319033",
+      "fromID": "263957",
+      "toID": "63846",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319034",
+      "fromID": "263956",
+      "toID": "263958",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319035",
+      "fromID": "263958",
+      "toID": "263957",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

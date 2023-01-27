@@ -1,0 +1,121 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148297",
+      "text": "A majority of New York City voters would support a law allowing gay marriage",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:13"
+    },
+    {
+      "nodeID": "148298",
+      "text": "So what else is new? Does Texas support the death penalty?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:13"
+    },
+    {
+      "nodeID": "148299",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:08:13"
+    },
+    {
+      "nodeID": "148300",
+      "text": "Well do you mean Texas or Texans? Because Texas holds the record for execusions in the US. Not something I'd be proud of.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:13"
+    },
+    {
+      "nodeID": "148301",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:08:13"
+    },
+    {
+      "nodeID": "148302",
+      "text": "That's a badge of honor, IMO. :)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:13"
+    },
+    {
+      "nodeID": "148303",
+      "text": "Because... 1) that Texas has a higher rate of violent crime? 2) that Texas fails to prevent such crimes? 3) that Texas sees a huge fisical deficit from such cases? Strange sense of honor you got there.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:13"
+    },
+    {
+      "nodeID": "148304",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:08:13"
+    },
+    {
+      "nodeID": "148305",
+      "text": "And your point is, Mr. I Am What's Right?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:13"
+    },
+    {
+      "nodeID": "148306",
+      "text": "I don't know what point he was trying to make, but if the best you can do in liberal NYC is squeak out 51% support, then gay marriage doesn't have a chance nationally.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:13"
+    },
+    {
+      "nodeID": "148307",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:08:13"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189282",
+      "fromID": "148298",
+      "toID": "148299",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189283",
+      "fromID": "148299",
+      "toID": "148297",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189284",
+      "fromID": "148300",
+      "toID": "148301",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189285",
+      "fromID": "148301",
+      "toID": "148298",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189286",
+      "fromID": "148303",
+      "toID": "148304",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189287",
+      "fromID": "148304",
+      "toID": "148302",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189288",
+      "fromID": "148306",
+      "toID": "148307",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189289",
+      "fromID": "148307",
+      "toID": "148305",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

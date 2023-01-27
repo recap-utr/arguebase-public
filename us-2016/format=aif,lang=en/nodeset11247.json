@@ -1,0 +1,151 @@
+{
+  "nodes": [
+    {
+      "nodeID": "200911",
+      "text": "helloboots : Bothers me that CNN calls it \"Obamacare\" and not \"Affordable Care Act\"",
+      "type": "L",
+      "timestamp": "2016-09-21 12:21:55"
+    },
+    {
+      "nodeID": "200913",
+      "text": "bothers me that CNN calls it \"Obamacare\" and not \"Affordable Care Act\"",
+      "type": "I",
+      "timestamp": "2016-09-21 12:21:55"
+    },
+    {
+      "nodeID": "216746",
+      "text": "LOPEZ : Secretary Clinton \u2014 Secretary Clinton , Governor O'Malley wants to open up Obamacare to millions of undocumented immigrants and their children , including almost 90,000 people right here in Nevada",
+      "type": "L",
+      "timestamp": "2016-11-01 13:34:57"
+    },
+    {
+      "nodeID": "256917",
+      "text": "LOPEZ : do you support the undocumented immigrants getting Obamacare",
+      "type": "L",
+      "timestamp": "2016-12-22 13:40:05"
+    },
+    {
+      "nodeID": "263945",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-08 10:11:30",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "263946",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-08 10:11:31",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "263947",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-08 10:11:31",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "263948",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-08 10:11:32",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "263949",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-08 10:11:32",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "263950",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-08 10:11:33",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "319008",
+      "fromID": "216746",
+      "toID": "263945",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319009",
+      "fromID": "263945",
+      "toID": "200911",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319010",
+      "fromID": "200913",
+      "toID": "263946",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319011",
+      "fromID": "263946",
+      "toID": "216746",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319012",
+      "fromID": "263945",
+      "toID": "263947",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319013",
+      "fromID": "263947",
+      "toID": "263946",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319014",
+      "fromID": "256917",
+      "toID": "263948",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319015",
+      "fromID": "263948",
+      "toID": "200911",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319016",
+      "fromID": "200913",
+      "toID": "263949",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319017",
+      "fromID": "263949",
+      "toID": "256917",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319018",
+      "fromID": "263948",
+      "toID": "263950",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319019",
+      "fromID": "263950",
+      "toID": "263949",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

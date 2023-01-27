@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "158785",
+      "text": "In my post I presented several reasons as to why they should have changed...everything from a changed environment down to genetic drift.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:32"
+    },
+    {
+      "nodeID": "158786",
+      "text": "They have changed. For example, ancient examples of coelacanth were shallow water species, while the modern coelacanth is a deep marine species (actually, two or three species). And the differences are enough to put them in different families. By the way, ark guy, what do you know about taxonomy?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:32"
+    },
+    {
+      "nodeID": "158787",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:31:32"
+    },
+    {
+      "nodeID": "158788",
+      "text": "A fossil that looks like the modern species?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:32"
+    },
+    {
+      "nodeID": "158789",
+      "text": "The fossils don't look like modern species. That is why they are put in different genera, nay, different families. Would you like to supply us with photos of fossils and modern species? And a detail, taxonomic comparison that indicated how they are the same species? -",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:32"
+    },
+    {
+      "nodeID": "158790",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:31:32"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196702",
+      "fromID": "158786",
+      "toID": "158787",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196703",
+      "fromID": "158787",
+      "toID": "158785",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196704",
+      "fromID": "158789",
+      "toID": "158790",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196705",
+      "fromID": "158790",
+      "toID": "158788",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

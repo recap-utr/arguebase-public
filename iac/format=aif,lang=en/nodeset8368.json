@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "156278",
+      "text": "Gavin Newsom- I expected more from him when I supported him in the 2003 election.  He showed himself as a family-man/Catholic, but he ended up being the exact oppisate, supporting abortion, and giving homosexuals marriage licenses.  I love San Francisco, but I hate the people. Sometimes, the people make me want to move to Sacramento or DC to fix things up.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:47"
+    },
+    {
+      "nodeID": "156279",
+      "text": "And what is wrong with giving homosexuals the right to settle down with the person they love? What is it to you if a few limp-wrists get married in San Francisco? Homosexuals are people, too, who take out their garbage, pay their taxes, go to work, take care of their dogs, and what they do in their bedroom is none of your business.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:47"
+    },
+    {
+      "nodeID": "156280",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:25:47"
+    },
+    {
+      "nodeID": "156281",
+      "text": "So let me make sure I have it right, in order to be a family-man/Catholic, I must be anti-abortion and against the rights of homosexuals. Is this what makes a good family-man/Catholic; denying the rights of those who are different from what is considered by some to be 'normal', and telling others what to do with their body?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:47"
+    },
+    {
+      "nodeID": "156282",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:25:47"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194916",
+      "fromID": "156279",
+      "toID": "156280",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194917",
+      "fromID": "156280",
+      "toID": "156278",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194918",
+      "fromID": "156281",
+      "toID": "156282",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194919",
+      "fromID": "156282",
+      "toID": "156278",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

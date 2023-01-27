@@ -1,0 +1,205 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140822",
+      "text": "Does anyone know how Carbon Dating Works?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:22"
+    },
+    {
+      "nodeID": "140823",
+      "text": "yea...it's like ordering a pizza. First the paleontologist digs up a bone or other artifact...then he calls the lab, tells them what he found and gives them the date they can expect the bone to arrive for 'testing.' Then the lab asks him from what organism the bone once belonged and also what toppings, I mean dates, he wants for his bone. Then the paleontologist gives him the range of dates that most suit his presuppositions.....Then the paleontologists sends in the bone fed-ex, along with a gift-certificate to the finest steakhouse in town and two tickets to the ballgame, and then sits back and waits for the results. Finally, just to be on the safe side, the paleontologist repeats this scenario with at least 2 more labs...this way just in case one doesn't cooperate he has backup and he can pick a date from any number of labs.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:22"
+    },
+    {
+      "nodeID": "140824",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:52:22"
+    },
+    {
+      "nodeID": "140825",
+      "text": "Sure, here ya go... Radiocarbon Dating",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:22"
+    },
+    {
+      "nodeID": "140826",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:52:22"
+    },
+    {
+      "nodeID": "140827",
+      "text": "Sure. Here is an explanation. The 14C Method That is from the Radiocarbon WEB info site by the Waikato Radiocarbon Dating Lab of the University of Waikato (New Zeland). That's how I think it works, so the ball in in your court now.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:22"
+    },
+    {
+      "nodeID": "140828",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:52:22"
+    },
+    {
+      "nodeID": "140829",
+      "text": "Ha ha, supersport and snakespit. The whole reason I started this thread is because I kneed to know what evos think Carbon Dating is before I can disprove it.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:22"
+    },
+    {
+      "nodeID": "140830",
+      "text": "Really? Why can't you 'disprove' what it actually is instead of someone's explanation of it? It's a standard scientific tool, the procedure is well documented. If you can 'prove' that it's wrong somehow you should be able to do it right off the bat, you shouldn't need to be primed with someone's explanation.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:22"
+    },
+    {
+      "nodeID": "140831",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:52:22"
+    },
+    {
+      "nodeID": "140832",
+      "text": "Translation of FS's question: 'I know it's wrong, but I don't actually know enough of the details to present a coherent argument.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:22"
+    },
+    {
+      "nodeID": "140833",
+      "text": "Bingo, Wells. It's the typical creationist standpoint: start with the answer you want, rationalize (however poorly) later.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:22"
+    },
+    {
+      "nodeID": "140834",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:52:22"
+    },
+    {
+      "nodeID": "140835",
+      "text": "That's how I think it works, so the ball in in your court now.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:22"
+    },
+    {
+      "nodeID": "140836",
+      "text": "I'm foolishly looking forward to this as if we're going to see anything besides the standard baloney. How silly. (Yes, I am still alive; I've just been incredibly busy and really hardly have the time even now to check in.)",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:22"
+    },
+    {
+      "nodeID": "140837",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:52:23"
+    },
+    {
+      "nodeID": "140838",
+      "text": "If you were really serious about learning how it works, you would have gone and read about it. It is not our job to educate you. The information is all out there. If you want to agrue against something, do like I did with the bible...read it first.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:23"
+    },
+    {
+      "nodeID": "140839",
+      "text": "It's even worse than that. He isn't asking for info on how it works; if he was I would supply it gladly. He claims to already know that it's wrong, which implies that he thinks he knows what it's about. But despite already knowing what carbon dating is, he still needs someone here to provide an explanation before he can present his 'proof' that it's incorrect.  As Akbar says, 'It's a trap!'",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:23"
+    },
+    {
+      "nodeID": "140840",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:52:23"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184004",
+      "fromID": "140823",
+      "toID": "140824",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184005",
+      "fromID": "140824",
+      "toID": "140822",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184006",
+      "fromID": "140825",
+      "toID": "140826",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184007",
+      "fromID": "140826",
+      "toID": "140822",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184008",
+      "fromID": "140827",
+      "toID": "140828",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184009",
+      "fromID": "140828",
+      "toID": "140822",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184010",
+      "fromID": "140830",
+      "toID": "140831",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184011",
+      "fromID": "140831",
+      "toID": "140829",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184012",
+      "fromID": "140833",
+      "toID": "140834",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184013",
+      "fromID": "140834",
+      "toID": "140832",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184014",
+      "fromID": "140836",
+      "toID": "140837",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184015",
+      "fromID": "140837",
+      "toID": "140835",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184016",
+      "fromID": "140839",
+      "toID": "140840",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184017",
+      "fromID": "140840",
+      "toID": "140838",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

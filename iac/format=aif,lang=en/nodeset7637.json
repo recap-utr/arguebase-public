@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "145377",
+      "text": "Don't get me wrong. This isn't exactly a trip to Sunday school. You shouldn't accept packing an arsenal around in the trunk as if it were completely innocuous. It kinda seems suspicious like a primer colored Nissan Maxima with five guys wearing stocking caps sitting in a vacant lot at 3 a.m......",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:09"
+    },
+    {
+      "nodeID": "145378",
+      "text": "Actually...I do believe there ARE laws against people wearing masks in public. IIRC, some locations even have laws against adults wearing masks in public on Halloween.  But, as to the story...Yes, cops are IGNORANT and DO LIE ALL THE TIME. But, what's new?  As for a trunk loaded with assault rifles... I've done that several times. Just not to an airport. I hope he sues the city and I also hope he (or someone else) takes CA's anti-gun laws to the supreme court.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:09"
+    },
+    {
+      "nodeID": "145379",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:02:09"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187236",
+      "fromID": "145378",
+      "toID": "145379",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187237",
+      "fromID": "145379",
+      "toID": "145377",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

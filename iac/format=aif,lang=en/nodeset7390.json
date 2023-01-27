@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141596",
+      "text": "Evolution is the study of the origin of life from a completely naturalistic point of view.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:04"
+    },
+    {
+      "nodeID": "141597",
+      "text": "Actually, evolution, as used by biologists, is not the study of origins of life. It is the theory that explains how new species arise, and why the present species (and past species in the fossil record) have the characteristics that they do, not only in form but also in spatial and temporal extent.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:04"
+    },
+    {
+      "nodeID": "141598",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:54:04"
+    },
+    {
+      "nodeID": "141599",
+      "text": "I see that no one has responded to the primary point of the post - that being that as Evolution is a naturalistic science and is, by definition, exclusionary to the supernatural, it cannot be used to prove or disprove creation.  Equally, as (young earth) creation is based on the Bible, and therefore rules out a completely naturalistic means to life as it exists today, it also cannot be used to prove or disprove evolution.  The two ideas are alternatives to each other, not proofs against one another.  Frequently in creation vs evolution discussions I see 'creation is wrong because x,y,z aspects of evolution disprove it'. Or, 'evolution is wrong because x.y.z aspects of creation disprove it'. This, however is fallicious. The ideas are merely alternatives.  Can we agree that the merit of each theory is separate and must stand on it's own evidence irrespective of the other theory?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:04"
+    },
+    {
+      "nodeID": "141600",
+      "text": "I think i disagree with the majority of people that have already posted here. evolution and creationism are mutually exclusive, and the both cannot be true at the same time, since there can be only one true way that life originated (even though i know that 'evolution' is not the correct term to describe the origin of life, and die-hard evolutionist might chew me out for using it wrongly. I prefer to use the term 'spontaneous origin' rather than 'evolution'). since creationism and the collection of spontaneous origin theories are mutually exclusive and cannot coexist, then upon proving either you automatically disprove the other. and if a 3rd unforseen theory is proven as the real way life originated on earth, then it would automatically disprove the both creationism and the current spontaneous origin theories the 2 concepts are pretty much diametrically opposed right now, both competing for evidence to support its case, and a strengthening of one theory automatically implies a weakening of the other",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:04"
+    },
+    {
+      "nodeID": "141601",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:54:04"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184554",
+      "fromID": "141597",
+      "toID": "141598",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184555",
+      "fromID": "141598",
+      "toID": "141596",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184556",
+      "fromID": "141600",
+      "toID": "141601",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184557",
+      "fromID": "141601",
+      "toID": "141599",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

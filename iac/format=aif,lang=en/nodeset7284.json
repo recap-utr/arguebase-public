@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140270",
+      "text": "Why are there people who want to tack away my guns? I have an 'assault rifle', an 'assault shotgun', and hand guns. All three of these types of guns are under attack and I would like to know why you (voice of reason, and others) think that they should be 'off the streets' or banned?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:03"
+    },
+    {
+      "nodeID": "140271",
+      "text": "Because someone has deemed you to be stupid. Never mind that stupid or not, citizens still have rights. Because someone has deemed you to be trivial. You don't matter enough to have rights or the rights you want are labeled to be trivial. Because your violating those rights of 'someone'. Though those 'someone' can not name the right your violating. They are sure your violating something eventhough they can not name it and they hate you for it.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:03"
+    },
+    {
+      "nodeID": "140272",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:51:03"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183610",
+      "fromID": "140271",
+      "toID": "140272",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183611",
+      "fromID": "140272",
+      "toID": "140270",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

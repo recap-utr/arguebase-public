@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157911",
+      "text": "You would think someone of his intellect would have more sense, wouldn't you? emoticon_rolleyes  Let's just protest this disgraceful train of thought, shall we? Close the minds of children to think only what we want them to think. Hold on...that's the same thing that you're saying religion is doing... emoticon_rolleyes",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:33"
+    },
+    {
+      "nodeID": "157912",
+      "text": "Well, if intelligent design can come up with evidence, and a way to TEST it, rather than just saying 'This is too complicated, an intelligence must have done it', then maybe scientists would take it seriously.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:33"
+    },
+    {
+      "nodeID": "157913",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:29:33"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196072",
+      "fromID": "157912",
+      "toID": "157913",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196073",
+      "fromID": "157913",
+      "toID": "157911",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

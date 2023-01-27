@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157914",
+      "text": "I don't agree with the very first assertion in the audio clip, that all life is derived from a SINGLE ancestor. We don't know that.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:34"
+    },
+    {
+      "nodeID": "157915",
+      "text": "But it isn't an assertion of absolute truth. It is actually an assertion of the consensus of current scientific thought. I have read some discussion about various other possibilities. Maybe several forms of life arose in various environments. Eventually they then had to compete for resourses and all but one went extinct. And then there is the hypothesis that life arose more than once and fused into a single population. The bottom line is that the DNA code is universal with only a few minor differences in a limited number of primative organisms.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:34"
+    },
+    {
+      "nodeID": "157916",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:29:34"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196074",
+      "fromID": "157915",
+      "toID": "157916",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196075",
+      "fromID": "157916",
+      "toID": "157914",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

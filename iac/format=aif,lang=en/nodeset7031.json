@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "136641",
+      "text": "We need the ability to identify and prosecute straw purchasers and complicit dealers.]quote",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:29"
+    },
+    {
+      "nodeID": "136642",
+      "text": "Well maybe on the 4473 they could put a little box to check if you are a straw purchaser,maybe a psychic in the back room or ask them politely if they are straw purchasers.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:29"
+    },
+    {
+      "nodeID": "136643",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:43:29"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181022",
+      "fromID": "136642",
+      "toID": "136643",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181023",
+      "fromID": "136643",
+      "toID": "136641",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140146",
+      "text": "According to this, there are 1,531,764 crimes stopped by guns this year (and it's not even the end of the year yet!). It also gives a reasonable explanation of why you don't see this on the news every day. It also says that legal gun owners account for almost 0% of all gun crime.  So if you want to ban guns, 1,531,764 people will get killed or injured, and you'll only take guns out of the hands of those who don't even commit gun crimes.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:48"
+    },
+    {
+      "nodeID": "140147",
+      "text": "But if you actually take time to read the study that is posted on that website it appears that the claims of the NSPOF are doubtful, inconsistent with other studies, and likely biased in favor of people answering that they had used a gun to defend themselves.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:48"
+    },
+    {
+      "nodeID": "140148",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:48"
+    },
+    {
+      "nodeID": "140149",
+      "text": "So you claim not to know what my sources are (why else would I have to provide them for you?), but also claim to know that half of them are from blogs? Not only are you logically inconsistant, you're also wrong. I'm talking about my four surveys from PubMed, the ones that yuou repeatedly tried to claim were from the UK wheras in fact they were all from the US. Remember? Just for you, I'll find them again. 1, 2, 3, 4. Various quotes -  Guns are used to threaten and intimidate far more often than they are used in self defense. Most self reported self defense gun uses may well be illegal and against the interests of society. we find that criminal gun use is far more common than self-defense gun use. This result is consistent with findings from other private surveys and the National Crime Victimization Surveys Firearm self-defense is rare compared with gun crimes. A minority of home invasion crimes result in injury. Measures that increase the difficulty of forced entry or enhance the likelihood of detection could be useful to prevent these crimes. Although firearms are often kept in the home for protection, they are rarely used for this purpose. For full text of each report, just click the PubMed 'full text' button on each page and follow links to PDFs.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:48"
+    },
+    {
+      "nodeID": "140150",
+      "text": "And where is their source?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:48"
+    },
+    {
+      "nodeID": "140151",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:48"
+    },
+    {
+      "nodeID": "140152",
+      "text": "Oh wow. Apparently your experience on the internet is quite shallow.  To people who have used the internet over a significant period of time, we recognize that the blue text are often links. Moving one's cursor over the blue text changes one cursor further proving that the text is just not colored.  In iangb's most recent post there are several links. That handle has labeled them 1, 2, 3 and 4. They are different color then the rest of the text and they are underlined. Generally links on forums are denoted that way. Upon clicking one of those links, as clicking is how links are open in internet browsers, either a new window or tab will appear with that page displayed.  Two of the links have the full document. If you look at the far right side, you'll notice a icon that says 'Free full text article.' That too is a link. In that web page, you'll see a page divider that is labeled 'Full Text' and there is a pdf which stands for 'portable document format.' Within that PDF is the full text. You may need to go to Adobe to download their free reader to read it.  The links all initially go to a web page database. Databases often include large amounts of primary source data. A primary source is one of original context, such as a scientific study, a drug test finding, a study of a historical event from a contemporary perspective by someone who lived through it.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:48"
+    },
+    {
+      "nodeID": "140153",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:48"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183524",
+      "fromID": "140147",
+      "toID": "140148",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183525",
+      "fromID": "140148",
+      "toID": "140146",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183526",
+      "fromID": "140150",
+      "toID": "140151",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183527",
+      "fromID": "140151",
+      "toID": "140149",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183528",
+      "fromID": "140152",
+      "toID": "140153",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183529",
+      "fromID": "140153",
+      "toID": "140150",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

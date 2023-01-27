@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157770",
+      "text": "Society's willingness to impose on women alone the sacrifice required by laws restricting abortion, unique within the landscape of Anglo-American law, may well reflect a deeply held traditional view of the differences in character of the sexes. While we might not impose selflessness and virtuous behavior on a man....some may find it less of a contradiction to impose such virtue on a woman because of the traditional view of her nature. But to impose virtue on ANY person demeans that person's individual worth. It is no more acceptable when the person is a woman than a man. There should be no 'woman's exception' to our traditional regard for individualism and autonomy. As long as these values remain at the core of our legal system, there is thus a powerful case for the conclusion that laws prohibiting abortion--even IF the fetus is regarded as a person--deny women the equal protection of the laws guaranteed to all by the 14th amendment. And if this is so, then perhaps the Roe decision, by gratuitously insisting that the fetus cannot be deemed a person, needlessly insulted and alienated those for whom the view that the fetus is a person represents a fundamental article of faith or a bedrock personal committment. Perhaps as Yale Law School Dean Guido Calabresi has suggested, the Roe opinion for no good reason said to a large and politically active group '[y]our metaphysics are not part of our Constitution.' The Court could have indeed have said: Even if the fetus is a person, our Constitution forbids compelling a woman to carry it for nine months and become a mother",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:07"
+    },
+    {
+      "nodeID": "157771",
+      "text": "Just an add-on and hopefully thought-provoking.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:07"
+    },
+    {
+      "nodeID": "157772",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:29:08"
+    },
+    {
+      "nodeID": "157773",
+      "text": "There is only one place in the law where a really significant and intimate sacrifice has been required of anyone in order to save another: the law of abortion. If you woke up with the hypothetical violinist attached to you, the law--and, probably, the views of morality held by most people--would permit you to free yourself of him. When the law prohibits a woman from freeing herself of the fetus inside her, the law appears to work a harsh discrimination against women even if fetuses count as persons",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:08"
+    },
+    {
+      "nodeID": "157774",
+      "text": "To which Cone raised an objection similar to:",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:08"
+    },
+    {
+      "nodeID": "157775",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:29:08"
+    },
+    {
+      "nodeID": "157776",
+      "text": "You kind of misrepresent cones view. He doesn't believe in abortion in cases or rape (neither do I). This is why we maintain that you might be obligated to keep the violionist attached for those 9 months.  Another way to look at it would be if you wanted to stay attached to the violionist. Does this mean the violionst has to do whatever you want to do now? Do you believe you have ownership over the violionist? Could you stab him in the back of the neck if you wanted to?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:08"
+    },
+    {
+      "nodeID": "157777",
+      "text": "I believe Cone is a woman as is Sigma. Just wanted to give props to our articulate women.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:08"
+    },
+    {
+      "nodeID": "157778",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:29:08"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195970",
+      "fromID": "157771",
+      "toID": "157772",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195971",
+      "fromID": "157772",
+      "toID": "157770",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195972",
+      "fromID": "157774",
+      "toID": "157775",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195973",
+      "fromID": "157775",
+      "toID": "157773",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195974",
+      "fromID": "157777",
+      "toID": "157778",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195975",
+      "fromID": "157778",
+      "toID": "157776",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

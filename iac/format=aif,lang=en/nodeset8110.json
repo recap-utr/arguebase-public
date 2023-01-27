@@ -1,0 +1,121 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152588",
+      "text": "Had it not been for Activist judges in Mass. and and activist mayor in Sodom (SF) trolling for votes gay marriage would not even be and issue......",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:20"
+    },
+    {
+      "nodeID": "152589",
+      "text": "Actually, no. If it had not been for the gay couples and the organizations who helped them fight for equality it wouldn't be an issue now, but it would still be an issue.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:20"
+    },
+    {
+      "nodeID": "152590",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:17:20"
+    },
+    {
+      "nodeID": "152591",
+      "text": "Hate to burst your ballon, but the mayor of San Francisco had JUST been elected. He doesn't need to worry about votes for a long time. Judges are supposed to rule on the Constitutionality of laws when asked to do so. They are doing their job. If it violates the Constitution it is illegal. Plain and simple. They are not making law.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:20"
+    },
+    {
+      "nodeID": "152592",
+      "text": "Well he has further political aspirations..........The 9th circuit in Sodom (SF) is always making law instead of interpreting it........That is why they are over ruled so often.......",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:20"
+    },
+    {
+      "nodeID": "152593",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:17:20"
+    },
+    {
+      "nodeID": "152594",
+      "text": "Your are right it was and issue but most states were not interested in changing their constitutions.........That changed when activist judges in Mass started making the law instead of interpreting it.......",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:20"
+    },
+    {
+      "nodeID": "152595",
+      "text": "Well, I would agree that as many constitutional ammendments probably would not have passed, but I certainly don't think they all would not have been passed, and I don't think that Massachusettes allowing same-sex marriage was a bad thing. Constitutional ammendments are difficult to overcome, but no one can ever change a law if people aren't willing to take a stand and fight for it. Can you tell that I love the quote in Jyoshu's signature?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:20"
+    },
+    {
+      "nodeID": "152596",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:17:20"
+    },
+    {
+      "nodeID": "152597",
+      "text": "I believe the Congress in Mass is still fighting what their Supreme Court did and I am pretty sure they will be trying to pass and amendment there in the next year........... It will be very interesting to see what happens..............",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:21"
+    },
+    {
+      "nodeID": "152598",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:17:21"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192312",
+      "fromID": "152589",
+      "toID": "152590",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192313",
+      "fromID": "152590",
+      "toID": "152588",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192314",
+      "fromID": "152592",
+      "toID": "152593",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192315",
+      "fromID": "152593",
+      "toID": "152591",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192316",
+      "fromID": "152595",
+      "toID": "152596",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192317",
+      "fromID": "152596",
+      "toID": "152594",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192318",
+      "fromID": "152597",
+      "toID": "152598",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192319",
+      "fromID": "152598",
+      "toID": "152595",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151892",
+      "text": "'Almighty God created the races white, black, yellow, malay and red, and he placed them on separate continents. And but for the interference with his arrangement there would be no cause for such marriages. The fact that he separated the races shows that he did not intend for the races to mix.'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:41"
+    },
+    {
+      "nodeID": "151893",
+      "text": "So basiclly the equal protection argument will help us based upon sex. There is also this at the end",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:42"
+    },
+    {
+      "nodeID": "151894",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:15:42"
+    },
+    {
+      "nodeID": "151895",
+      "text": "That didn't seem to hold up did it? Just because Mass and Cal. said it was alright did make it alright for the rest of the country.2 Liberal states didn't push the rest of the country to follow like sheep to a slaughter.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:42"
+    },
+    {
+      "nodeID": "151896",
+      "text": "Actually, it has. The last time I checked, well still have gay marriages in Massachusetts. As a matter of fact, it seems that it is difficult for most politicians to be elcted in the state without being supportive of marriage equality.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:42"
+    },
+    {
+      "nodeID": "151897",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:15:42"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191822",
+      "fromID": "151893",
+      "toID": "151894",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191823",
+      "fromID": "151894",
+      "toID": "151892",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191824",
+      "fromID": "151896",
+      "toID": "151897",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191825",
+      "fromID": "151897",
+      "toID": "151895",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

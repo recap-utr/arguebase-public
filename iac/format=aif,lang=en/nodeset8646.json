@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "160681",
+      "text": "What about high school seniors who are 18 or 19. Shouldnt they be allowed to bring their guns inside the classroom?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:44"
+    },
+    {
+      "nodeID": "160682",
+      "text": "I believe you know my answer to that.  But your question is moot. Please show me a 18 or 19 year old in high school who has all thier rights intact (not a convicted criminal) who wants to carry a gun to class. The short answer: I'll care about the ban when it does violate the Constitution. Your not going to find anyone to challenge the law. Personally I will not carry a firearm to a highschool. That is my personal choice. The consequences to me if I screw up with a firearm are too great, at the same time I would not restrict any citizen who wants to do so. If I find the need to be at a highschool, I am hoping that a gunman is going to shoot a lot of kids before he shoots me. That is what happens to the rest of society when you stop people who want to carry firearms. The good people who want to carry, hope that a lot of other people are going to get shot first before it is thier turn. It does not even have to be a gun, it can be any weapon. A criminals weapon vs. a good citizens 'hope', criminals win.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:44"
+    },
+    {
+      "nodeID": "160683",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:35:45"
+    },
+    {
+      "nodeID": "160684",
+      "text": "Personally I will not carry a firearm to a highschool. That is my personal choice. The consequences to me if I screw up with a firearm are too great, at the same time I would not restrict any citizen who wants to do so. If I find the need to be at a highschool, I am hoping that a gunman is going to shoot a lot of kids before he shoots me. That is what happens to the rest of society when you stop people who want to carry firearms. The good people who want to carry, hope that a lot of other people are going to get shot first before it is thier turn. It does not even have to be a gun, it can be any weapon. A criminals weapon vs. a good citizens 'hope', criminals win.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:45"
+    },
+    {
+      "nodeID": "160685",
+      "text": "I don't understand what point your trying to make here. Good citizens vs criminals with the criminals 'winning' is usually not the way it goes. Good citizens are the ones who catch and throw the criminals in jail. They are our police officers, the anonymous tipsters, and the countless law abiding citizens in our country. The way your talking you act like the only way for the good citizens to win is to have a gun or be ready to use force. If you want to do one better you could eliminate guns completely in order to lower the risk of deaths in gun fights. You can't debate the fact that less guns equals less murders. You can debate that without guns there would be more deaths to other weapons although you can't debate it would be to the same extent as gun murders and crimes would be. You talk about hope like it rests on whether you have the ability to kill another person or not. The criminals are the ones that have to hope. They are the ones who are outnumbered thousands to one and their weapon isn't going to protect them from that.  I'm not trying to make the case that guns should be banned. I'm not trying to make the case that all criminals will get caught. I'm not trying to make the case that we are already in the best possible system for fighting crime or when it comes to gun control. What I am saying is that you cannot possible expect that just because our society doesn't expect people to carry around guns that the criminals will be able to walk all over us. They are the ones who are running most of the time. They are the ones who have their lives taken away most of the time. They are the ones who have their lives ruined and ruin the lives of the ones they know most of the time. I'd much rather be a good citizen without a weapon than a criminal with one for I know who has the odds on their side.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:45"
+    },
+    {
+      "nodeID": "160686",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:35:45"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198058",
+      "fromID": "160682",
+      "toID": "160683",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198059",
+      "fromID": "160683",
+      "toID": "160681",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198060",
+      "fromID": "160685",
+      "toID": "160686",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198061",
+      "fromID": "160686",
+      "toID": "160684",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

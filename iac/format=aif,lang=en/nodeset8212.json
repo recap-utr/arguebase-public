@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "154047",
+      "text": "New ultrasound technology has even proven that babies in the womb smile when external stimulus like an abdomen rub is introduced.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:20:42"
+    },
+    {
+      "nodeID": "154048",
+      "text": "I had not heard this... do you have a source on it?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:20:42"
+    },
+    {
+      "nodeID": "154049",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:20:42"
+    },
+    {
+      "nodeID": "154050",
+      "text": "I do not believe abortion is generally about convenience because preganancy is more than mere inconvenience. Even if she does not have to raise the child, it does not mean she is emotionally, mentally, physically, or economically able to support a pregnancy. I have frequently suggested finding ways of bringing abortion down by addressing these issues - but according the lifers around here these problems don't exist and all that needs to be done is taking punitive measures against women. But then - when they take that stance they really do lose all credibility. At least for me. Wouldn't leave my kid alone with someone who loves like that.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:20:42"
+    },
+    {
+      "nodeID": "154051",
+      "text": "No one, I repeat no one wants to take punitive actions against any woman unless you call carrying the baby to term punitive action......... All we want is for the baby in the womb to have the same chance you did if possible...........",
+      "type": "I",
+      "timestamp": "2016-03-08 20:20:42"
+    },
+    {
+      "nodeID": "154052",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:20:42"
+    },
+    {
+      "nodeID": "154053",
+      "text": "All we want is for the baby in the womb to have the same chance you did if possible.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:20:42"
+    },
+    {
+      "nodeID": "154054",
+      "text": "So if Jitobear's mother had the option to abort Jitobear in utero, you want Jitobear to have the same option with any children she carries? That's awfully progressive of you.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:20:42"
+    },
+    {
+      "nodeID": "154055",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:20:43"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193340",
+      "fromID": "154048",
+      "toID": "154049",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193341",
+      "fromID": "154049",
+      "toID": "154047",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193342",
+      "fromID": "154051",
+      "toID": "154052",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193343",
+      "fromID": "154052",
+      "toID": "154050",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193344",
+      "fromID": "154054",
+      "toID": "154055",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193345",
+      "fromID": "154055",
+      "toID": "154053",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

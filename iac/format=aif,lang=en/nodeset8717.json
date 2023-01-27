@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "161771",
+      "text": "Good grief! What about religious beliefs about eternal life?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:18"
+    },
+    {
+      "nodeID": "161772",
+      "text": "Well, we could then rephrase the question: 'When does a person stop existing physically?'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:18"
+    },
+    {
+      "nodeID": "161773",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:18"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198844",
+      "fromID": "161772",
+      "toID": "161773",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198845",
+      "fromID": "161773",
+      "toID": "161771",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

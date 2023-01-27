@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "144547",
+      "text": "It deals with the death penalty...really the court is one vote away from getting rid of it because some liberal judges don't like it.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:23"
+    },
+    {
+      "nodeID": "144548",
+      "text": "I think if that happened, Texas probably will go back to being the lone star state.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:23"
+    },
+    {
+      "nodeID": "144549",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:00:23"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186642",
+      "fromID": "144548",
+      "toID": "144549",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186643",
+      "fromID": "144549",
+      "toID": "144547",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

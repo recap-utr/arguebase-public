@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139124",
+      "text": "Why didn't God put a picture of a chair on a deer's butt?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:30"
+    },
+    {
+      "nodeID": "139125",
+      "text": "Because deer don't live in Africa.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:30"
+    },
+    {
+      "nodeID": "139126",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:48:30"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182806",
+      "fromID": "139125",
+      "toID": "139126",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182807",
+      "fromID": "139126",
+      "toID": "139124",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

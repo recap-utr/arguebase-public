@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "146908",
+      "text": "The President can easily ignore 250,000 letters all stating the exact same thing. There are 294,905,636 people in America, courtesy of the US Census Bureau, and 250,000 letters, while being a paltry amount, can also be duplicated easily by the use of spam programs. Using the exact same letter won't work. -BMA",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:07"
+    },
+    {
+      "nodeID": "146909",
+      "text": "Correct. Form letters go in a junk pile. Individual letters are a different matter.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:07"
+    },
+    {
+      "nodeID": "146910",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:05:08"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "188310",
+      "fromID": "146909",
+      "toID": "146910",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188311",
+      "fromID": "146910",
+      "toID": "146908",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

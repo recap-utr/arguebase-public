@@ -1,0 +1,174 @@
+{
+  "nodes": [
+    {
+      "nodeID": "204874",
+      "text": "only Rosie O'Donnell",
+      "type": "I",
+      "timestamp": "2016-10-07 16:48:10"
+    },
+    {
+      "nodeID": "204876",
+      "text": "TRUMP : Only Rosie O'Donnell",
+      "type": "L",
+      "timestamp": "2016-10-07 16:48:14"
+    },
+    {
+      "nodeID": "204960",
+      "text": "not just Rosie O'Donnell",
+      "type": "I",
+      "timestamp": "2016-10-07 16:49:42"
+    },
+    {
+      "nodeID": "204963",
+      "text": "Megyn : Not just her",
+      "type": "L",
+      "timestamp": "2016-10-07 16:49:43"
+    },
+    {
+      "nodeID": "250937",
+      "text": "it was only Rosie O'Donnell",
+      "type": "I",
+      "timestamp": "2016-12-21 17:35:17"
+    },
+    {
+      "nodeID": "264480",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-09 14:17:55",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "264481",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 14:17:56",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264482",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-09 14:17:57",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "264483",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-09 14:17:57",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "264484",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 14:17:58",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264485",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-09 14:17:59",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "320034",
+      "fromID": "204874",
+      "toID": "264480",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320035",
+      "fromID": "264480",
+      "toID": "250937",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320036",
+      "fromID": "204876",
+      "toID": "264481",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320037",
+      "fromID": "264481",
+      "toID": "204876",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320038",
+      "fromID": "264481",
+      "toID": "264482",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320039",
+      "fromID": "264482",
+      "toID": "264480",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320040",
+      "fromID": "204960",
+      "toID": "264483",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320041",
+      "fromID": "264483",
+      "toID": "250937",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320042",
+      "fromID": "204876",
+      "toID": "264484",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320043",
+      "fromID": "264484",
+      "toID": "204963",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320044",
+      "fromID": "264484",
+      "toID": "264485",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320045",
+      "fromID": "264485",
+      "toID": "264483",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "204876",
+      "personID": "1602",
+      "timestamp": "2016-10-07 16:49:58",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "204963",
+      "personID": "2455",
+      "timestamp": "2016-10-07 16:49:58",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

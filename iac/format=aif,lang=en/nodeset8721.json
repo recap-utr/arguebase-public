@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "161797",
+      "text": "Exhibit A. One book: the Bible. Um, that's it though.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:23"
+    },
+    {
+      "nodeID": "161798",
+      "text": "Actually the bible really barely comments. Look how short and jumbled the Genesis account is. Genesis did not even fit what humans knew when it was written. So matching any creation theory to genesis is impossible. Unless you believe God created the heaven and earth twice, and created animals twice. Sure you can explain it away, but a verbal reading of the ACTUAL TEXT will make your head swim.  I don't wana be sacrilegious, but some parts of Genesis makes God look like he was telling a fish story to a really dumb scribe too lazy to get on his camel and go to the library of Alexandria , or worse one of his interns. I am a irrational creationist btw.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:23"
+    },
+    {
+      "nodeID": "161799",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:23"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198864",
+      "fromID": "161798",
+      "toID": "161799",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198865",
+      "fromID": "161799",
+      "toID": "161797",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

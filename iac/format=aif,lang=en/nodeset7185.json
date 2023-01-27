@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138985",
+      "text": "'Doesn't that seem hypocritical for them to scream about their 'rights' whils at the same time denying others their right free speech and right to be beleived when telling the truth?'",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:13"
+    },
+    {
+      "nodeID": "138986",
+      "text": "How does anyone deny someone the right to believe something? I don't understand what you're saying.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:13"
+    },
+    {
+      "nodeID": "138987",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:48:13"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182708",
+      "fromID": "138986",
+      "toID": "138987",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182709",
+      "fromID": "138987",
+      "toID": "138985",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

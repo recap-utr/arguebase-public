@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "149807",
+      "text": "What would you consider as constituting the soul if it does not include our personalities? As for god, I agree that the existence of god is not disproven but the discoveries of Science have very much limited the detailed roles that were originally ascribed to him. What, then, is left for the role of god?  What 'evidence' is there for God? Are you speaking of people's personal experiences? I always wondered what specifically in those experiences made people think that they were experiencing God - where they thought that no other explanations could be valid.  I agree that one can always think of ways to claim that scientific evidence of, say, Evolution was purposely planted by God as a test of mankind, and other such explanations. If one assumes an omnipotent God, then ANY evidence or logic can be discarded. It just seems that many of those who discard scientific findings jump through tremendous hoops to avoid addressing the evidence.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:25"
+    },
+    {
+      "nodeID": "149808",
+      "text": "I would say that the soul is that part of us that is immortal. It is our essence. Our personality may impact or is impacted by it, but I would say it is far more. Indeed, I would say it is what psychologists call emergent downward causality. As for the role of God, science has not disproven any of it. Science has explained how things occur but that does not eliminate the possibility of god nor does it limit what god does. We would simply not be understanding gods fit in the science of it. That makes sense given that god is considered infinite and we are finite. I think the soul is what gives us the possibility of even imagining the infinite. The idea that we can see beyond what we are or even to conceptualize such things gives a clue that there is more to us than meets the eye. I do not see why God and science cannot coexist. Even evolution and creation. Forget planting evidence. That is too far fetched. I would rather think that it is more likely that what God says actually fits the evidence even though we cannot understand it. I do not know about God or 'not god' (if you will) but if there is a God then the idea that he is beyond what I can actually conceive and yet completely conceivable makes sense for that kind of being. It should be an apparent paradox to me. If it is not, then my concept of God is faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaarrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr to small to be of any use to anyone. Huck.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:25"
+    },
+    {
+      "nodeID": "149809",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:11:25"
+    },
+    {
+      "nodeID": "149810",
+      "text": "Diseases used to be ascribed to God and it was thought that those people who got sick deserved to be sick because of their lack of piety. Now we know that diseases strike indiscriminately (where piety is concerned) and affect people only based on their risk of acquiring the virus and their general state of health. There are many other examples.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:25"
+    },
+    {
+      "nodeID": "149811",
+      "text": "See above. Nothing has been demonstrated that convinces me that God has been ruled out of all these issues. He probably isn't active in all situations, but there's nothing that says he (or even Satan) are totally inconsequential either.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:25"
+    },
+    {
+      "nodeID": "149812",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:11:25"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "190354",
+      "fromID": "149808",
+      "toID": "149809",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190355",
+      "fromID": "149809",
+      "toID": "149807",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190356",
+      "fromID": "149811",
+      "toID": "149812",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190357",
+      "fromID": "149812",
+      "toID": "149810",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,1582 @@
+{
+  "nodes": [
+    {
+      "nodeID": "210797",
+      "text": "FionnMacCoolie :  Jeb is heavily invested in private education",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:24"
+    },
+    {
+      "nodeID": "210798",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:39:24",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "210799",
+      "text": "BUSH had heavily invested in private education",
+      "type": "I",
+      "timestamp": "2016-10-31 13:39:24"
+    },
+    {
+      "nodeID": "210800",
+      "text": "Barbara: FionnMacCoolie :  Jeb is heavily invested in private education",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:25"
+    },
+    {
+      "nodeID": "210801",
+      "text": "FionnMacCoolie : Voucher programs are very beneficial to his portfolio value",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:25"
+    },
+    {
+      "nodeID": "210802",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:39:25",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "210803",
+      "text": "voucher programs are very beneficial to BUSH's portfolio value",
+      "type": "I",
+      "timestamp": "2016-10-31 13:39:25"
+    },
+    {
+      "nodeID": "210804",
+      "text": "Barbara: FionnMacCoolie : Voucher programs are very beneficial to his portfolio value",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:25"
+    },
+    {
+      "nodeID": "210805",
+      "text": "FionnMacCoolie :  His whole family are involved with and invested in private education",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:25"
+    },
+    {
+      "nodeID": "210806",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:39:25",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "210807",
+      "text": "BUSH's whole family are involved with and invested in private education",
+      "type": "I",
+      "timestamp": "2016-10-31 13:39:25"
+    },
+    {
+      "nodeID": "210808",
+      "text": "Barbara: FionnMacCoolie :  His whole family are involved with and invested in private education",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:25"
+    },
+    {
+      "nodeID": "210809",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 13:39:25",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "210810",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 13:39:25",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "210811",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:39:26",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "210812",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 13:39:26",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "210813",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 13:39:26",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "210814",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:39:26",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "210815",
+      "text": "DoctorIndyJones : It's shocking to think people would invest in something they believe in",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:26"
+    },
+    {
+      "nodeID": "210816",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:39:26",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "210817",
+      "text": "it's  not shocking to think people would invest in something they believe in",
+      "type": "I",
+      "timestamp": "2016-10-31 13:39:26"
+    },
+    {
+      "nodeID": "210818",
+      "text": "Barbara: DoctorIndyJones : It's shocking to think people would invest in something they believe in",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:26"
+    },
+    {
+      "nodeID": "210819",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-10-31 13:39:26",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "210820",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 13:39:26",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "210821",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:39:27",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "210822",
+      "text": "Barbara: FUCKYOUINYOURFACE : Yeah we don't need standards",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:27"
+    },
+    {
+      "nodeID": "210823",
+      "text": "Barbara: FUCKYOUINYOURFACE : States can just do whatever they want",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:27"
+    },
+    {
+      "nodeID": "210824",
+      "text": "Barbara: FUCKYOUINYOURFACE : Just have high standards",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:27"
+    },
+    {
+      "nodeID": "210825",
+      "text": "FUCKYOUINYOURFACE : That's as good as saying you have a lot of something",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:27"
+    },
+    {
+      "nodeID": "210826",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:39:27",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "210827",
+      "text": "that's as good as saying you have a lot of something",
+      "type": "I",
+      "timestamp": "2016-10-31 13:39:27"
+    },
+    {
+      "nodeID": "210828",
+      "text": "Barbara: FUCKYOUINYOURFACE : That's as good as saying you have a lot of something",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:27"
+    },
+    {
+      "nodeID": "210829",
+      "text": "FUCKYOUINYOURFACE : How much is a lot",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:27"
+    },
+    {
+      "nodeID": "210830",
+      "text": "Rhetorical Questioning",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:39:27",
+      "scheme": "RhetoricalQuestioning",
+      "schemeID": "85"
+    },
+    {
+      "nodeID": "210831",
+      "text": "a lot is xxx",
+      "type": "I",
+      "timestamp": "2016-10-31 13:39:27"
+    },
+    {
+      "nodeID": "210832",
+      "text": "Barbara: FUCKYOUINYOURFACE : How much is a lot",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:28"
+    },
+    {
+      "nodeID": "210833",
+      "text": "FUCKYOUINYOURFACE : A lot",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:28"
+    },
+    {
+      "nodeID": "210834",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:39:28",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "210835",
+      "text": "a lot",
+      "type": "I",
+      "timestamp": "2016-10-31 13:39:28"
+    },
+    {
+      "nodeID": "210836",
+      "text": "Barbara: FUCKYOUINYOURFACE : A lot",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:28"
+    },
+    {
+      "nodeID": "210837",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-10-31 13:39:28",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "210838",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 13:39:28",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "210839",
+      "text": "Default Illocuting",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:39:28",
+      "scheme": "Default Illocuting",
+      "schemeID": "168"
+    },
+    {
+      "nodeID": "210840",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 13:39:28",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "210841",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 13:39:28",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "210842",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:39:28",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "210843",
+      "text": "Barbara: FionnMacCoolie : we don't need standards",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:29"
+    },
+    {
+      "nodeID": "210844",
+      "text": "we don't need standards",
+      "type": "I",
+      "timestamp": "2016-10-31 13:39:29"
+    },
+    {
+      "nodeID": "210845",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:39:29",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "210846",
+      "text": "BUSH : we don't need standards",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:29"
+    },
+    {
+      "nodeID": "210847",
+      "text": "Barbara: BUSH : we don't need standards",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:29"
+    },
+    {
+      "nodeID": "210848",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:39:29",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "210849",
+      "text": "FUCKYOUINYOURFACE : BUSH : we don't need standards",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:29"
+    },
+    {
+      "nodeID": "210850",
+      "text": "Barbara: FUCKYOUINYOURFACE : BUSH : we don't need standards",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:29"
+    },
+    {
+      "nodeID": "210851",
+      "text": "states can just do whatever they want",
+      "type": "I",
+      "timestamp": "2016-10-31 13:39:29"
+    },
+    {
+      "nodeID": "210852",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:39:29",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "210853",
+      "text": "BUSH : States can just do whatever they want",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:30"
+    },
+    {
+      "nodeID": "210854",
+      "text": "Barbara: BUSH : States can just do whatever they want",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:30"
+    },
+    {
+      "nodeID": "210855",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:39:30",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "210856",
+      "text": "FUCKYOUINYOURFACE : BUSH : States can just do whatever they want",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:30"
+    },
+    {
+      "nodeID": "210857",
+      "text": "Barbara: FUCKYOUINYOURFACE : BUSH : States can just do whatever they want",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:30"
+    },
+    {
+      "nodeID": "210858",
+      "text": "states should just have high standards",
+      "type": "I",
+      "timestamp": "2016-10-31 13:39:30"
+    },
+    {
+      "nodeID": "210859",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:39:30",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "210860",
+      "text": "BUSH :  Just have high standards",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:30"
+    },
+    {
+      "nodeID": "210861",
+      "text": "Barbara: BUSH :  Just have high standards",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:30"
+    },
+    {
+      "nodeID": "210862",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:39:30",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "210863",
+      "text": "FUCKYOUINYOURFACE : BUSH :  Just have high standards",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:30"
+    },
+    {
+      "nodeID": "210864",
+      "text": "Barbara: FUCKYOUINYOURFACE : BUSH :  Just have high standards",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:31"
+    },
+    {
+      "nodeID": "210865",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 13:39:31",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "210866",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 13:39:31",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "210867",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:39:31",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "210868",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 13:39:31",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "210869",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-10-31 13:39:31",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "210870",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 13:39:31",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "210871",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:39:31",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "210872",
+      "text": "BUSH is a corrupted politician",
+      "type": "I",
+      "timestamp": "2016-10-31 13:39:31"
+    },
+    {
+      "nodeID": "210873",
+      "text": "Default Illocuting",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:39:31",
+      "scheme": "Default Illocuting",
+      "schemeID": "168"
+    },
+    {
+      "nodeID": "210874",
+      "text": "FakeAudio : What a corrupt politician",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:32"
+    },
+    {
+      "nodeID": "210875",
+      "text": "Barbara: FakeAudio : What a corrupt politician",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:32"
+    },
+    {
+      "nodeID": "210876",
+      "text": "fuck BUSH's education improvements he keeps talking about in Florida",
+      "type": "I",
+      "timestamp": "2016-10-31 13:39:32"
+    },
+    {
+      "nodeID": "210877",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:39:32",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "210878",
+      "text": "pathologie : Fuck his education improvements he keeps talking about in FL",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:32"
+    },
+    {
+      "nodeID": "210879",
+      "text": "Barbara: pathologie : Fuck his education improvements he keeps talking about in FL",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:32"
+    },
+    {
+      "nodeID": "210880",
+      "text": "pathologie : I grew up in his education system",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:32"
+    },
+    {
+      "nodeID": "210881",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:39:32",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "210882",
+      "text": "I grew up in BUSH's education system",
+      "type": "I",
+      "timestamp": "2016-10-31 13:39:32"
+    },
+    {
+      "nodeID": "210883",
+      "text": "Barbara: pathologie : I grew up in his education system",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:32"
+    },
+    {
+      "nodeID": "210884",
+      "text": "pathologie : talk about teaching to a test",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:32"
+    },
+    {
+      "nodeID": "210885",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:39:33",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "210886",
+      "text": "BUSH's education system in Florida was about teaching to a test",
+      "type": "I",
+      "timestamp": "2016-10-31 13:39:33"
+    },
+    {
+      "nodeID": "210887",
+      "text": "Barbara: pathologie : talk about teaching to a test",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:33"
+    },
+    {
+      "nodeID": "210888",
+      "text": "pathologie : Every year was getting students to pass the FCAT",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:33"
+    },
+    {
+      "nodeID": "210889",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:39:33",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "210890",
+      "text": "every year was getting students to pass the Florida Comprehensive Assessment Test",
+      "type": "I",
+      "timestamp": "2016-10-31 13:39:33"
+    },
+    {
+      "nodeID": "210891",
+      "text": "Barbara: pathologie : Every year was getting students to pass the FCAT",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:33"
+    },
+    {
+      "nodeID": "210892",
+      "text": "pathologie :  that is how schools were funded",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:33"
+    },
+    {
+      "nodeID": "210893",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:39:33",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "210894",
+      "text": "that is how schools were funded",
+      "type": "I",
+      "timestamp": "2016-10-31 13:39:33"
+    },
+    {
+      "nodeID": "210895",
+      "text": "Barbara: pathologie :  that is how schools were funded",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:33"
+    },
+    {
+      "nodeID": "210896",
+      "text": "pathologie : It was a terrible system",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:34"
+    },
+    {
+      "nodeID": "210897",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:39:34",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "210898",
+      "text": "BUSH's education improvements in Florida was a terrible system",
+      "type": "I",
+      "timestamp": "2016-10-31 13:39:34"
+    },
+    {
+      "nodeID": "210899",
+      "text": "Barbara: pathologie : It was a terrible system",
+      "type": "L",
+      "timestamp": "2016-10-31 13:39:34"
+    },
+    {
+      "nodeID": "210900",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 13:39:34",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "210901",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 13:39:34",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "210902",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 13:39:34",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "210903",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 13:39:34",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "210904",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 13:39:34",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "210905",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:39:34",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "210906",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:39:35",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "210907",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 13:39:35",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "210908",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:39:35",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "210909",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 13:39:35",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "210910",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 13:39:35",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "210911",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:39:35",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "210912",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 13:39:35",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "210913",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 13:39:35",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "257363",
+      "fromID": "210798",
+      "toID": "210799",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257364",
+      "fromID": "210797",
+      "toID": "210798",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257365",
+      "fromID": "210802",
+      "toID": "210803",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257366",
+      "fromID": "210801",
+      "toID": "210802",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257367",
+      "fromID": "210806",
+      "toID": "210807",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257368",
+      "fromID": "210805",
+      "toID": "210806",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257369",
+      "fromID": "210799",
+      "toID": "210809",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257370",
+      "fromID": "210809",
+      "toID": "210803",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257371",
+      "fromID": "210797",
+      "toID": "210810",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257372",
+      "fromID": "210810",
+      "toID": "210801",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257373",
+      "fromID": "210810",
+      "toID": "210811",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257374",
+      "fromID": "210811",
+      "toID": "210809",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257375",
+      "fromID": "210807",
+      "toID": "210812",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257376",
+      "fromID": "210812",
+      "toID": "210803",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257377",
+      "fromID": "210801",
+      "toID": "210813",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257378",
+      "fromID": "210813",
+      "toID": "210805",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257379",
+      "fromID": "210813",
+      "toID": "210814",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257380",
+      "fromID": "210814",
+      "toID": "210812",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257381",
+      "fromID": "210816",
+      "toID": "210817",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257382",
+      "fromID": "210815",
+      "toID": "210816",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257383",
+      "fromID": "210817",
+      "toID": "210819",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257384",
+      "fromID": "210819",
+      "toID": "210803",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257385",
+      "fromID": "210797",
+      "toID": "210820",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257386",
+      "fromID": "210820",
+      "toID": "210815",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257387",
+      "fromID": "210820",
+      "toID": "210821",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257388",
+      "fromID": "210821",
+      "toID": "210819",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257389",
+      "fromID": "210826",
+      "toID": "210827",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257390",
+      "fromID": "210825",
+      "toID": "210826",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257391",
+      "fromID": "210830",
+      "toID": "210831",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257392",
+      "fromID": "210829",
+      "toID": "210830",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257393",
+      "fromID": "210834",
+      "toID": "210835",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257394",
+      "fromID": "210833",
+      "toID": "210834",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257395",
+      "fromID": "210835",
+      "toID": "210837",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257396",
+      "fromID": "210837",
+      "toID": "210831",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257397",
+      "fromID": "210829",
+      "toID": "210838",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257398",
+      "fromID": "210838",
+      "toID": "210833",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257399",
+      "fromID": "210838",
+      "toID": "210839",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257400",
+      "fromID": "210839",
+      "toID": "210837",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257401",
+      "fromID": "210831",
+      "toID": "210840",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257402",
+      "fromID": "210840",
+      "toID": "210827",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257403",
+      "fromID": "210825",
+      "toID": "210841",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257404",
+      "fromID": "210841",
+      "toID": "210829",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257405",
+      "fromID": "210841",
+      "toID": "210842",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257406",
+      "fromID": "210842",
+      "toID": "210840",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257407",
+      "fromID": "210845",
+      "toID": "210844",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257408",
+      "fromID": "210846",
+      "toID": "210845",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257409",
+      "fromID": "210848",
+      "toID": "210846",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257410",
+      "fromID": "210849",
+      "toID": "210848",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257411",
+      "fromID": "210852",
+      "toID": "210851",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257412",
+      "fromID": "210853",
+      "toID": "210852",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257413",
+      "fromID": "210855",
+      "toID": "210853",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257414",
+      "fromID": "210856",
+      "toID": "210855",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257415",
+      "fromID": "210859",
+      "toID": "210858",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257416",
+      "fromID": "210860",
+      "toID": "210859",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257417",
+      "fromID": "210862",
+      "toID": "210860",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257418",
+      "fromID": "210863",
+      "toID": "210862",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257419",
+      "fromID": "210858",
+      "toID": "210865",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257420",
+      "fromID": "210865",
+      "toID": "210844",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257421",
+      "fromID": "210851",
+      "toID": "210865",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257422",
+      "fromID": "210846",
+      "toID": "210866",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257423",
+      "fromID": "210866",
+      "toID": "210860",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257424",
+      "fromID": "210866",
+      "toID": "210853",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257425",
+      "fromID": "210866",
+      "toID": "210867",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257426",
+      "fromID": "210867",
+      "toID": "210865",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257427",
+      "fromID": "210815",
+      "toID": "210868",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257428",
+      "fromID": "210868",
+      "toID": "210846",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257429",
+      "fromID": "210827",
+      "toID": "210869",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257430",
+      "fromID": "210869",
+      "toID": "210858",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257431",
+      "fromID": "210860",
+      "toID": "210870",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257432",
+      "fromID": "210870",
+      "toID": "210825",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257433",
+      "fromID": "210870",
+      "toID": "210871",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257434",
+      "fromID": "210871",
+      "toID": "210869",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257435",
+      "fromID": "210873",
+      "toID": "210872",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257436",
+      "fromID": "210874",
+      "toID": "210873",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257437",
+      "fromID": "210877",
+      "toID": "210876",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257438",
+      "fromID": "210878",
+      "toID": "210877",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257439",
+      "fromID": "210881",
+      "toID": "210882",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257440",
+      "fromID": "210880",
+      "toID": "210881",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257441",
+      "fromID": "210885",
+      "toID": "210886",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257442",
+      "fromID": "210884",
+      "toID": "210885",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257443",
+      "fromID": "210889",
+      "toID": "210890",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257444",
+      "fromID": "210888",
+      "toID": "210889",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257445",
+      "fromID": "210893",
+      "toID": "210894",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257446",
+      "fromID": "210892",
+      "toID": "210893",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257447",
+      "fromID": "210897",
+      "toID": "210898",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257448",
+      "fromID": "210896",
+      "toID": "210897",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257449",
+      "fromID": "210888",
+      "toID": "210900",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257450",
+      "fromID": "210900",
+      "toID": "210892",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257451",
+      "fromID": "210878",
+      "toID": "210901",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257452",
+      "fromID": "210901",
+      "toID": "210896",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257453",
+      "fromID": "210901",
+      "toID": "210880",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257454",
+      "fromID": "210894",
+      "toID": "210902",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257455",
+      "fromID": "210902",
+      "toID": "210890",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257456",
+      "fromID": "210890",
+      "toID": "210903",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257457",
+      "fromID": "210903",
+      "toID": "210886",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257458",
+      "fromID": "210884",
+      "toID": "210904",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257459",
+      "fromID": "210904",
+      "toID": "210888",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257460",
+      "fromID": "210900",
+      "toID": "210905",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257461",
+      "fromID": "210905",
+      "toID": "210902",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257462",
+      "fromID": "210904",
+      "toID": "210906",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257463",
+      "fromID": "210906",
+      "toID": "210903",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257464",
+      "fromID": "210882",
+      "toID": "210907",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257465",
+      "fromID": "210907",
+      "toID": "210876",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257466",
+      "fromID": "210898",
+      "toID": "210907",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257467",
+      "fromID": "210901",
+      "toID": "210908",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257468",
+      "fromID": "210908",
+      "toID": "210907",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257469",
+      "fromID": "210886",
+      "toID": "210909",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257470",
+      "fromID": "210909",
+      "toID": "210898",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257471",
+      "fromID": "210884",
+      "toID": "210910",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257472",
+      "fromID": "210910",
+      "toID": "210896",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257473",
+      "fromID": "210910",
+      "toID": "210911",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257474",
+      "fromID": "210911",
+      "toID": "210909",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257475",
+      "fromID": "210874",
+      "toID": "210912",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257476",
+      "fromID": "210912",
+      "toID": "210878",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257477",
+      "fromID": "210833",
+      "toID": "210913",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257478",
+      "fromID": "210913",
+      "toID": "210874",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "210846",
+      "personID": "2423",
+      "timestamp": "2016-10-31 13:39:40",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "210849",
+      "personID": "2577",
+      "timestamp": "2016-10-31 13:39:40",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "210853",
+      "personID": "2423",
+      "timestamp": "2016-10-31 13:39:40",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "210856",
+      "personID": "2577",
+      "timestamp": "2016-10-31 13:39:40",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "210860",
+      "personID": "2423",
+      "timestamp": "2016-10-31 13:39:40",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "210863",
+      "personID": "2577",
+      "timestamp": "2016-10-31 13:39:40",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "210874",
+      "personID": "2685",
+      "timestamp": "2016-10-31 13:39:40",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "210878",
+      "personID": "2686",
+      "timestamp": "2016-10-31 13:39:40",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

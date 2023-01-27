@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "153158",
+      "text": "One can live off the other...and if so do you kill the non-dominant one. They didn't say anything in this video but one is more dominant than the other normally. Does the dominant one have the right to kill the other for living off of them? Can one girl kill herself or do harmful things to her body if she chooses...even against the other heads will? So many questions and since the pro-choice stance is ever complex I figure this would be an interesting response.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:44"
+    },
+    {
+      "nodeID": "153159",
+      "text": "I am curious about the logic you used in your reasoning in thinking that pro-choice proponents would support having one of the girls on the video killed to let the other one have a better life. What, specifically, in anything that we have said would make you think that killing one of those girls would be ok? Since you brought up the questions, I wonder what your answer would be to that second question: 'Can one girl kill herself or do harmful things to her body if she chooses...even against the other heads will?' Along those lines, do you support people's rights to kill themselves?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:44"
+    },
+    {
+      "nodeID": "153160",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:18:44"
+    },
+    {
+      "nodeID": "153161",
+      "text": "Since you brought up the questions, I wonder what your answer would be to that second question: 'Can one girl kill herself or do harmful things to her body if she chooses...even against the other heads will?' Along those lines, do you support people's rights to kill themselves?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:44"
+    },
+    {
+      "nodeID": "153162",
+      "text": "I don't think people have a right to kills themselves (obviously not natural and obviously not legal right now). As for the other question, I wouldn't think a blatent disregard for the others health is morally ok.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:44"
+    },
+    {
+      "nodeID": "153163",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:18:44"
+    },
+    {
+      "nodeID": "153164",
+      "text": "Those that believe in a right to ones own body have only one logical conclusion for this.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:44"
+    },
+    {
+      "nodeID": "153165",
+      "text": "I see that you fail to see the logic that the less dominant Siamese twin ALSO has a right to their own body. One is not supporting the other - they are supporting each other so their rights are equal. Besides, both have a mental existence so, at least for me, abortion (or, in this case, one being killed for the rights to body of the other) would not be allowed.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:44"
+    },
+    {
+      "nodeID": "153166",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:18:44"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192714",
+      "fromID": "153159",
+      "toID": "153160",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192715",
+      "fromID": "153160",
+      "toID": "153158",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192716",
+      "fromID": "153162",
+      "toID": "153163",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192717",
+      "fromID": "153163",
+      "toID": "153161",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192718",
+      "fromID": "153165",
+      "toID": "153166",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192719",
+      "fromID": "153166",
+      "toID": "153164",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

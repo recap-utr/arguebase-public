@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148688",
+      "text": "NEW YORK (CNN) -- A U.S. judge Thursday became the second in the nation to rule that a federal ban on a particular type of late-term abortion is unconstitutional. In his ruling on the law dubbed the Partial-Birth Abortion Ban Act, Judge Richard Conway Casey cited a high court ruling and a lack of exemption to protect the health of a woman. 'The Supreme Court ... informed us that this gruesome procedure may be outlawed only if there exists in medical consensus that there is no circumstance in which any woman could potentially benefit from it,' Casey wrote in his ruling. 'A division of medical opinion exists,' Casey wrote. 'Such a division means that the constitution requires a health exception.' The plaintiffs in the suit -- seven physicians who perform abortions and the National Abortion Federation -- were represented by the American Civil Liberties Union. 'We're quite pleased that the court recognized that this ban brought an attack on second-trimester abortions as early as 13 weeks in pregnancy,' Lorraine Kenny, a spokeswoman for the ACLU, told CNN. The ban included no health exception and therefore would endanger women's health, Kenny said. Planned Parenthood also applauded the decision. 'The abortion ban is a brazen affront to women's health, the right to medical privacy and the U.S. Constitution and was rightfully struck down,' Planned Parenthood President Gloria Feldt said in a statement released by the group. 'This ruling is a critical step toward ensuring that women and doctors -- not politicians -- can make private, personal health care decisions,' Feldt added. The National Right to Life Committee came out against the judge's decision. 'Judge Casey said his ruling was dictated by a 5 to 4 Supreme Court ruling in 2000, which held that Roe v. Wade protects partial-birth abortion,' said Douglas Johnson, legislative director for the NRLC, in a statement. 'Future appointments to the Supreme Court will determine whether it remains legal to mostly deliver living premature infants and painfully puncture their skulls,' he said. Penalties and procedures A federal judge in San Francisco previously ruled the act unconstitutional, and a U.S. court in Nebraska is to rule on another case by August 31. The law would have imposed criminal and civil penalties on '[a]ny physician who, in or affecting interstate or foreign commerce, knowingly performs a partial-birth abortion.' The law affects abortions carried out late in the typical 40-week pregnancy, but before the fetus is considered viable. Such primarily second-trimester abortions usually involve a procedure known to doctors as 'dilation and extraction,' but referred to by opponents as 'partial-birth abortion.' During the procedure, the fetus is partially removed and its skull collapsed. Most medical organizations opposed the law. In the San Francisco ruling, Judge Phyllis Hamilton wrote that the American College of Obstetrics and Gynecology expressed the belief that there are circumstances in which partial-birth abortion 'may be the most appropriate and safest procedure to save the life or health of a woman.' The federal government contends that it is never necessary, refuting the Supreme Court's rejection of a Nebraska law in a 2000 decision. Since 1995, state bans against late-term abortions have been enacted in more than half the states. They have been challenged in courts throughout the country. The ACLU says courts considering these laws -- including the U.S. Supreme Court just three years ago -- have consistently struck down the bans because they do not take into account risks to the woman's health.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:03"
+    },
+    {
+      "nodeID": "148689",
+      "text": "Just to add more fuel on the fire :P",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:03"
+    },
+    {
+      "nodeID": "148690",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:09:03"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189556",
+      "fromID": "148689",
+      "toID": "148690",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189557",
+      "fromID": "148690",
+      "toID": "148688",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

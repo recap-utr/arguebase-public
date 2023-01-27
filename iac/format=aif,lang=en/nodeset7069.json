@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "137312",
+      "text": "As I understand, some people have claimed that the civil war was justified because the people in the southern states were exercising their 2nd amendment right to rebel. It seems questionable and contradictory to me. Do I have a right to buy a gun and start shooting politicians? If so, is it fair that I can be arrested for exercising my rights?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:49"
+    },
+    {
+      "nodeID": "137313",
+      "text": "I think that laws, like history, are written by the victors. Victory has historically justified many crimes comitted by those who win the power to absolve themselve of the inhumanity they exhibited in their struggle for power.  The Second Amendment does not negate laws prohibiting homicides. If David Koresh had possessed the courage to survive his encounter at Waco, then he would have been perfectly free to appear before the tribunal of his victorious adversary and defend himself in court on the grounds that his actions were protected by the Second Amendment and/or a right of self defense. I sincerely doubt, however, that you could ever find 12 people who would accept his defense. My vote would certainly go against him. Where I am from, we still refer to the Civil War as the 'War of Northern Aggression.' But my state entered that contest with the immoral goal of preserving slavery, and I will not attempt to justify her actions through the citizen's RKBA. She fought a long and glorious struggle which I believe is forever tainted by its immoral purpose. She was vanquished, and no one who answered her call to arms was ever permitted to use the Second Amendment as a shield from the wrath of the victor.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:49"
+    },
+    {
+      "nodeID": "137314",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:44:49"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181498",
+      "fromID": "137313",
+      "toID": "137314",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181499",
+      "fromID": "137314",
+      "toID": "137312",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

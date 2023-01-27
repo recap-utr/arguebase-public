@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "162201",
+      "text": "From a secular point of view there is no difference between a 30 year old woman and a 10 week old fetus because both are just blobs of tissue, neither has any more inherent value than a piece of dirt or wart on a monkey. There is no meaningful moral difference between a blob of person or a blob that you jump on at the lake at summer camp.  This is really a wonderful view of human life don't you think? Just think of all the wonderful fruit that can come from this root of thinking.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:21"
+    },
+    {
+      "nodeID": "162202",
+      "text": "Well its your view so you tell us. Its not the view of pro-choice supporters. So lets put your convictions to the test. Would you support the SCHIPs program just vetoed by our pro-life president? How much of a tax increase would you personally be willing to take on for the purposes of paying woment NOT to abort their fetus? Would you find $2000 per year too much? $1000, $500? Would you favor an additional 0.50 per gallon tax on gasoline to do the job? Would you be willing to accept $1.00 per pack of cigarettes? And would you support a welfare program for poor single mothers so that they can take care of their child after you pay them not to abort? Or does your concern for that fetus stop at birth? Pro-life till birth?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:22"
+    },
+    {
+      "nodeID": "162203",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:39:22"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "199148",
+      "fromID": "162202",
+      "toID": "162203",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199149",
+      "fromID": "162203",
+      "toID": "162201",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

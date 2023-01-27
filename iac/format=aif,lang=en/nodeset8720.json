@@ -1,0 +1,169 @@
+{
+  "nodes": [
+    {
+      "nodeID": "161782",
+      "text": "That would be Miami, where a playstation costs more on the street than an AK47........... emoticon_rolleyes",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:21"
+    },
+    {
+      "nodeID": "161783",
+      "text": "I'm calling you out. Exactly what is the street price for an AK-47 in Miami? Obviously you have the answer to this question, along with evidence that your answer is correct and factual, or you're just trolling and trying to derail a serious discussion, proving that you have nothing to contribute.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:21"
+    },
+    {
+      "nodeID": "161784",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:21"
+    },
+    {
+      "nodeID": "161785",
+      "text": "And where murder rates are over twice the national average, I might add. http://miamifl.areaconnect.com/crime1.htm",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:21"
+    },
+    {
+      "nodeID": "161786",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:38:21"
+    },
+    {
+      "nodeID": "161787",
+      "text": "My bet is on the latter since I have yet to see any serious debate beyond insults from it. Since it is West Palm Beach police department doing the deal Miami is out in left field. Pardon the redundancy.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:21"
+    },
+    {
+      "nodeID": "161788",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:38:21"
+    },
+    {
+      "nodeID": "161789",
+      "text": "Obviously you have the answer to this question, along with evidence that your answer is correct and factual, ......................",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:21"
+    },
+    {
+      "nodeID": "161790",
+      "text": "Yes, I do.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:21"
+    },
+    {
+      "nodeID": "161791",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:21"
+    },
+    {
+      "nodeID": "161792",
+      "text": "I'm calling you out. Exactly what is the street price for an AK-47 in Miami?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:22"
+    },
+    {
+      "nodeID": "161793",
+      "text": "Less than a playstation, of course!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:22"
+    },
+    {
+      "nodeID": "161794",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:38:22"
+    },
+    {
+      "nodeID": "161795",
+      "text": "Well then present it and stop being stupid.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:22"
+    },
+    {
+      "nodeID": "161796",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:22"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198852",
+      "fromID": "161783",
+      "toID": "161784",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198853",
+      "fromID": "161784",
+      "toID": "161782",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198854",
+      "fromID": "161785",
+      "toID": "161786",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198855",
+      "fromID": "161786",
+      "toID": "161782",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198856",
+      "fromID": "161787",
+      "toID": "161788",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198857",
+      "fromID": "161788",
+      "toID": "161783",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198858",
+      "fromID": "161790",
+      "toID": "161791",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198859",
+      "fromID": "161791",
+      "toID": "161789",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198860",
+      "fromID": "161793",
+      "toID": "161794",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198861",
+      "fromID": "161794",
+      "toID": "161792",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198862",
+      "fromID": "161795",
+      "toID": "161796",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198863",
+      "fromID": "161796",
+      "toID": "161790",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,180 @@
+{
+  "nodes": [
+    {
+      "nodeID": "205919",
+      "text": "scientific DNA evidence that an unborn child is actually a human",
+      "type": "I",
+      "timestamp": "2016-10-12 16:56:35"
+    },
+    {
+      "nodeID": "205936",
+      "text": "stagshore : HUCKABEE : scientific DNA evidence that an unborn child is actually a human",
+      "type": "L",
+      "timestamp": "2016-10-12 16:56:37"
+    },
+    {
+      "nodeID": "206135",
+      "text": "recently scientists have discovered that unborn children are human",
+      "type": "I",
+      "timestamp": "2016-10-12 16:56:55"
+    },
+    {
+      "nodeID": "206138",
+      "text": "HUCKABEE : recently scientists have discovered that unborn children are human",
+      "type": "L",
+      "timestamp": "2016-10-12 16:56:55"
+    },
+    {
+      "nodeID": "218887",
+      "text": "HUCKABEE : The reason we know that it is is because of the DNA schedule that we now have clear scientific evidence on",
+      "type": "L",
+      "timestamp": "2016-11-01 14:48:56"
+    },
+    {
+      "nodeID": "218889",
+      "text": "we now have clear evidence on the DNA schedule",
+      "type": "I",
+      "timestamp": "2016-11-01 14:48:56"
+    },
+    {
+      "nodeID": "264498",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-09 15:18:05",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "264499",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 15:18:06",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264500",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-09 15:18:06",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "264501",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-09 15:18:07",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "264502",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 15:18:07",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264503",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-09 15:18:08",
+      "scheme": "Restating",
+      "schemeID": "101"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "320070",
+      "fromID": "205919",
+      "toID": "264498",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320071",
+      "fromID": "264498",
+      "toID": "218889",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320072",
+      "fromID": "218887",
+      "toID": "264499",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320073",
+      "fromID": "264499",
+      "toID": "205936",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320074",
+      "fromID": "264499",
+      "toID": "264500",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320075",
+      "fromID": "264500",
+      "toID": "264498",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320076",
+      "fromID": "206135",
+      "toID": "264501",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320077",
+      "fromID": "264501",
+      "toID": "218889",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320078",
+      "fromID": "218887",
+      "toID": "264502",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320079",
+      "fromID": "264502",
+      "toID": "206138",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320080",
+      "fromID": "264502",
+      "toID": "264503",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320081",
+      "fromID": "264503",
+      "toID": "264501",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "205936",
+      "personID": "2496",
+      "timestamp": "2016-10-12 16:57:30",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "206138",
+      "personID": "2495",
+      "timestamp": "2016-10-12 16:57:30",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

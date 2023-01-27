@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "187764",
+      "text": "tartay745 : Unless you think a blind anti-gun stance isnt actually a great idea to reduce actual gun violence.",
+      "type": "L",
+      "timestamp": "2016-08-01 18:18:31"
+    },
+    {
+      "nodeID": "187766",
+      "text": "a blind anti-gun stance is not actually a great idea to reduce actual gun violence",
+      "type": "I",
+      "timestamp": "2016-08-01 18:18:32"
+    },
+    {
+      "nodeID": "241072",
+      "text": "CLINTON :  we need to stand up and say: Enough of that. We 're not going to let it continue.",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:46"
+    },
+    {
+      "nodeID": "241074",
+      "text": "we need to stand up and say: Enough of that. We 're not going to let it continue.",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:46"
+    },
+    {
+      "nodeID": "262274",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-03 15:11:23",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "262275",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-03 15:11:23",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "262276",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-03 15:11:24",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "316290",
+      "fromID": "241072",
+      "toID": "262274",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316291",
+      "fromID": "262274",
+      "toID": "187764",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316292",
+      "fromID": "187766",
+      "toID": "262275",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316293",
+      "fromID": "262275",
+      "toID": "241074",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316294",
+      "fromID": "262274",
+      "toID": "262276",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316295",
+      "fromID": "262276",
+      "toID": "262275",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,429 @@
+{
+  "nodes": [
+    {
+      "nodeID": "211368",
+      "text": "i_drink_wd40 : spoiler alert: they're all liars",
+      "type": "L",
+      "timestamp": "2016-10-31 17:05:01"
+    },
+    {
+      "nodeID": "211369",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:05:01",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211370",
+      "text": "spoiler alert: they're all liars",
+      "type": "I",
+      "timestamp": "2016-10-31 17:05:01"
+    },
+    {
+      "nodeID": "211371",
+      "text": "Rory: i_drink_wd40 : spoiler alert: they're all liars",
+      "type": "L",
+      "timestamp": "2016-10-31 17:05:01"
+    },
+    {
+      "nodeID": "211372",
+      "text": "drakebaylor  : Pretty much all candidates",
+      "type": "L",
+      "timestamp": "2016-10-31 17:05:01"
+    },
+    {
+      "nodeID": "211373",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:05:01",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211374",
+      "text": "Pretty much all candidates",
+      "type": "I",
+      "timestamp": "2016-10-31 17:05:01"
+    },
+    {
+      "nodeID": "211375",
+      "text": "Rory: drakebaylor  : Pretty much all candidates",
+      "type": "L",
+      "timestamp": "2016-10-31 17:05:01"
+    },
+    {
+      "nodeID": "211376",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:05:01",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211377",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:05:02",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    },
+    {
+      "nodeID": "211378",
+      "text": "fuzzyperson98 : Except Bernie",
+      "type": "L",
+      "timestamp": "2016-10-31 17:05:02"
+    },
+    {
+      "nodeID": "211379",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:05:02",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211380",
+      "text": "Except Bernie",
+      "type": "I",
+      "timestamp": "2016-10-31 17:05:02"
+    },
+    {
+      "nodeID": "211381",
+      "text": "Rory: fuzzyperson98 : Except Bernie",
+      "type": "L",
+      "timestamp": "2016-10-31 17:05:02"
+    },
+    {
+      "nodeID": "211382",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:05:02",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211383",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-10-31 17:05:02",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "211384",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:05:02",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "211385",
+      "text": "i_drink_wd40 : My bumper stickers arrived last week",
+      "type": "L",
+      "timestamp": "2016-10-31 17:05:02"
+    },
+    {
+      "nodeID": "211386",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:05:02",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211387",
+      "text": "My bumper stickers arrived last week",
+      "type": "I",
+      "timestamp": "2016-10-31 17:05:02"
+    },
+    {
+      "nodeID": "211388",
+      "text": "Rory: i_drink_wd40 : My bumper stickers arrived last week",
+      "type": "L",
+      "timestamp": "2016-10-31 17:05:03"
+    },
+    {
+      "nodeID": "211389",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:05:03",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211390",
+      "text": "drakebaylor  : You can't be serious",
+      "type": "L",
+      "timestamp": "2016-10-31 17:05:03"
+    },
+    {
+      "nodeID": "211391",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:05:03",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211392",
+      "text": "You can't be serious",
+      "type": "I",
+      "timestamp": "2016-10-31 17:05:03"
+    },
+    {
+      "nodeID": "211393",
+      "text": "Rory: drakebaylor  : You can't be serious",
+      "type": "L",
+      "timestamp": "2016-10-31 17:05:03"
+    },
+    {
+      "nodeID": "211394",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:05:03",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211395",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-10-31 17:05:03",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "211396",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:05:03",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "211397",
+      "text": "deftones1 : all politicians",
+      "type": "L",
+      "timestamp": "2016-10-31 17:05:03"
+    },
+    {
+      "nodeID": "211398",
+      "text": "Rory: deftones1 : all politicians",
+      "type": "L",
+      "timestamp": "2016-10-31 17:05:03"
+    },
+    {
+      "nodeID": "211399",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:05:04",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211400",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:05:04",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "257931",
+      "fromID": "211369",
+      "toID": "211370",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257932",
+      "fromID": "211368",
+      "toID": "211369",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257933",
+      "fromID": "211373",
+      "toID": "211374",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257934",
+      "fromID": "211372",
+      "toID": "211373",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257935",
+      "fromID": "211368",
+      "toID": "211376",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257936",
+      "fromID": "211376",
+      "toID": "211372",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257937",
+      "fromID": "211376",
+      "toID": "211377",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257938",
+      "fromID": "211377",
+      "toID": "211370",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257939",
+      "fromID": "211379",
+      "toID": "211380",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257940",
+      "fromID": "211378",
+      "toID": "211379",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257941",
+      "fromID": "211372",
+      "toID": "211382",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257942",
+      "fromID": "211382",
+      "toID": "211378",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257943",
+      "fromID": "211380",
+      "toID": "211383",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257944",
+      "fromID": "211383",
+      "toID": "211374",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257945",
+      "fromID": "211382",
+      "toID": "211384",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257946",
+      "fromID": "211384",
+      "toID": "211383",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257947",
+      "fromID": "211386",
+      "toID": "211387",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257948",
+      "fromID": "211385",
+      "toID": "211386",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257949",
+      "fromID": "211378",
+      "toID": "211389",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257950",
+      "fromID": "211389",
+      "toID": "211385",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257951",
+      "fromID": "211391",
+      "toID": "211392",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257952",
+      "fromID": "211390",
+      "toID": "211391",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257953",
+      "fromID": "211378",
+      "toID": "211394",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257954",
+      "fromID": "211394",
+      "toID": "211390",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257955",
+      "fromID": "211392",
+      "toID": "211395",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257956",
+      "fromID": "211395",
+      "toID": "211380",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257957",
+      "fromID": "211394",
+      "toID": "211396",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257958",
+      "fromID": "211396",
+      "toID": "211395",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257959",
+      "fromID": "211368",
+      "toID": "211399",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257960",
+      "fromID": "211399",
+      "toID": "211397",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257961",
+      "fromID": "211399",
+      "toID": "211400",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257962",
+      "fromID": "211400",
+      "toID": "211370",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

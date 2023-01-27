@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139625",
+      "text": "JP, Carla and I started this conversation on another thread but you can't see the entire thing because admin deleted it. I was only able to re-post my last question to Carla and I am awaiting a response. I asked if anyone had seen the film and stated that I had not. She claimed the film was innacurate, with deceptive narration, misleading camera work, up to the point of fraudulence. That is pretty close to her exact words though I couldn't remember the full quote. She cited a Planned Parenthood link but that was lost in the deletion of the other thread as well.  I found Silent Scream on the internet and tried to watch it but I guess my hardware is not good enough because the pictures and sound were of poor quality.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:41"
+    },
+    {
+      "nodeID": "139626",
+      "text": "Carla's silence is deafening. :)",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:41"
+    },
+    {
+      "nodeID": "139627",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:49:41"
+    },
+    {
+      "nodeID": "139628",
+      "text": "The Silent Scream is full of inaccuracies, as this link demonstrates... http://www.plannedparenthood.org/abortion/silentscream.HTM",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:41"
+    },
+    {
+      "nodeID": "139629",
+      "text": "Jake, Thanks for finding that link again. Perhaps you can answer the same question I posed to Carla?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:41"
+    },
+    {
+      "nodeID": "139630",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:49:41"
+    },
+    {
+      "nodeID": "139631",
+      "text": "Consider the source ...Planned Parenthood is far from an objective source. For example: From PP site... 'Claim: Many women who have an abortion suffer severe and lasting psychological damage. Expert Opinion: Serious emotional problems following abortion are uncommon. Most women report a sense of relief, although some may experience temporary depression. Serious psychological disturbances after abortion occur less frequently than after childbirth. ' I know 2 women, both had abortions 30 years ago and they both regret it every day. A lot of their other 'expert opinions' were nothing more than pro-abortion spin.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:41"
+    },
+    {
+      "nodeID": "139632",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:49:41"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183154",
+      "fromID": "139626",
+      "toID": "139627",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183155",
+      "fromID": "139627",
+      "toID": "139625",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183156",
+      "fromID": "139629",
+      "toID": "139630",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183157",
+      "fromID": "139630",
+      "toID": "139628",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183158",
+      "fromID": "139631",
+      "toID": "139632",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183159",
+      "fromID": "139632",
+      "toID": "139628",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

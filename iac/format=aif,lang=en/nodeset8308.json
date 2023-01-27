@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "155576",
+      "text": "BeHereNow: Well, you're just begging the question of what is evidence. You are saying religious belief (others might say religious knowledge) is not evidence. If it is scientific, it is evidence. If it is not scientific, it is not evidence. Have I got it right? Obvious child: If you use the proper definition of faith yes. Faith is a belief in something with no evidence.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:05"
+    },
+    {
+      "nodeID": "155577",
+      "text": "Well, I certainly never used the word faith, but since you brought it up, what do you put your faith in? What is it you believe in with no evidence? Could it be science? What is your evidence that science is true, except more science? Scientific evidence which supports science is circular reasoning. It is no different than using the bible to support the bible. The bible is evidence for creationism, if you accept the bible as literally true. And there are many reasons (mostly non-scientific) to accept the bible as true. Every belief system is supported by pillars of belief, ultimately based on faith. Some of these belief systems have pillars that are short, and solid, and other systems are supported by pillars that are tall and spindly. Each of us intuits one or more pillars to be true, and our belief system follows. You have intuited science to be true, and the resulting belief system finds the bible to be based on faith. Others have intuited the bible to be true, and the resulting belief system finds science to be based on faith. I intuit that you each have it half right, combining faith and evidence to arrive at your belief system.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:05"
+    },
+    {
+      "nodeID": "155578",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:05"
+    },
+    {
+      "nodeID": "155579",
+      "text": "So it's not evidence vs evidence, it's evidence vs religious belief.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:05"
+    },
+    {
+      "nodeID": "155580",
+      "text": "Well, you're just begging the question of what is evidence. You are saying religious belief (others might say religious knowledge) is not evidence. If it is scientific, it is evidence. If it is not scientific, it is not evidence. Have I got it right?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:05"
+    },
+    {
+      "nodeID": "155581",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:05"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194426",
+      "fromID": "155577",
+      "toID": "155578",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194427",
+      "fromID": "155578",
+      "toID": "155576",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194428",
+      "fromID": "155580",
+      "toID": "155581",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194429",
+      "fromID": "155581",
+      "toID": "155579",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

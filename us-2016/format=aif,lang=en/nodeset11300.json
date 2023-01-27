@@ -1,0 +1,324 @@
+{
+  "nodes": [
+    {
+      "nodeID": "206558",
+      "text": "Mr. TRUMP, I'm giving you 30 seconds to answer my question",
+      "type": "I",
+      "timestamp": "2016-10-17 10:17:55"
+    },
+    {
+      "nodeID": "206563",
+      "text": "parduscat : WALLACE : Mr. Trump, I'm giving you 30 seconds to answer my question",
+      "type": "L",
+      "timestamp": "2016-10-17 10:17:56"
+    },
+    {
+      "nodeID": "206565",
+      "text": "Fox News is out for TRUMP's blood",
+      "type": "I",
+      "timestamp": "2016-10-17 10:17:56"
+    },
+    {
+      "nodeID": "206567",
+      "text": "parduscat : Fox News is out for Trump's blood",
+      "type": "L",
+      "timestamp": "2016-10-17 10:17:56"
+    },
+    {
+      "nodeID": "206596",
+      "text": "lolamp33 : no one can accuse fox news of playing soft ball",
+      "type": "L",
+      "timestamp": "2016-10-17 10:17:59"
+    },
+    {
+      "nodeID": "206598",
+      "text": "no one can accuse fox news of playing soft ball",
+      "type": "I",
+      "timestamp": "2016-10-17 10:17:59"
+    },
+    {
+      "nodeID": "206600",
+      "text": "lolamp33 : I dont think hillary is going to get the same treatment in the dem debates",
+      "type": "L",
+      "timestamp": "2016-10-17 10:17:59"
+    },
+    {
+      "nodeID": "206602",
+      "text": "I don't think CLINTON is going to get the same treatment in the democratic debates",
+      "type": "I",
+      "timestamp": "2016-10-17 10:17:59"
+    },
+    {
+      "nodeID": "251174",
+      "text": "WALLACE : Mr. Trump, I'll give you 30 seconds -- I'll give you 30 seconds to answer my question",
+      "type": "L",
+      "timestamp": "2016-12-21 17:37:07"
+    },
+    {
+      "nodeID": "251176",
+      "text": "WALLACE will give TRUMP 30 seconds to answer the question",
+      "type": "I",
+      "timestamp": "2016-12-21 17:37:07"
+    },
+    {
+      "nodeID": "264504",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-09 15:37:27",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "264505",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 15:37:28",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264506",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-09 15:37:28",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "264507",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-09 15:37:28",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "264508",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 15:37:29",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264509",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-09 15:37:29",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "264510",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2017-03-09 15:37:30",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "264511",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 15:37:31",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264512",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2017-03-09 15:37:31",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "264513",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-09 15:37:31",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "264514",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 15:37:32",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264515",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-09 15:37:32",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "320082",
+      "fromID": "206558",
+      "toID": "264504",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320083",
+      "fromID": "264504",
+      "toID": "251176",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320084",
+      "fromID": "251174",
+      "toID": "264505",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320085",
+      "fromID": "264505",
+      "toID": "206563",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320086",
+      "fromID": "264505",
+      "toID": "264506",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320087",
+      "fromID": "264506",
+      "toID": "264504",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320088",
+      "fromID": "206602",
+      "toID": "264507",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320089",
+      "fromID": "264507",
+      "toID": "251176",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320090",
+      "fromID": "251174",
+      "toID": "264508",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320091",
+      "fromID": "264508",
+      "toID": "206600",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320092",
+      "fromID": "264508",
+      "toID": "264509",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320093",
+      "fromID": "264509",
+      "toID": "264507",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320094",
+      "fromID": "206598",
+      "toID": "264510",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320095",
+      "fromID": "264510",
+      "toID": "251176",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320096",
+      "fromID": "251174",
+      "toID": "264511",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320097",
+      "fromID": "264511",
+      "toID": "206596",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320098",
+      "fromID": "264511",
+      "toID": "264512",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320099",
+      "fromID": "264512",
+      "toID": "264510",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320100",
+      "fromID": "206565",
+      "toID": "264513",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320101",
+      "fromID": "264513",
+      "toID": "251176",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320102",
+      "fromID": "251174",
+      "toID": "264514",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320103",
+      "fromID": "264514",
+      "toID": "206567",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320104",
+      "fromID": "264514",
+      "toID": "264515",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320105",
+      "fromID": "264515",
+      "toID": "264513",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "206563",
+      "personID": "2531",
+      "timestamp": "2016-10-17 10:18:05",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "206567",
+      "personID": "2531",
+      "timestamp": "2016-10-17 10:18:05",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

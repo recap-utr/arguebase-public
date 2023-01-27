@@ -1,0 +1,597 @@
+{
+  "nodes": [
+    {
+      "nodeID": "187726",
+      "text": "[deleted] :  Say what you want about her but Hillary is dominating",
+      "type": "L",
+      "timestamp": "2016-08-01 18:18:28"
+    },
+    {
+      "nodeID": "187727",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-01 18:18:28",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "187728",
+      "text": "Hillary Clinton is dominating",
+      "type": "I",
+      "timestamp": "2016-08-01 18:18:28"
+    },
+    {
+      "nodeID": "187729",
+      "text": "Barbara: [deleted] :  Say what you want about her but Hillary is dominating",
+      "type": "L",
+      "timestamp": "2016-08-01 18:18:28"
+    },
+    {
+      "nodeID": "187730",
+      "text": "GenericReditAccount :  Bernie knows his gun control record isn't his strong suit",
+      "type": "L",
+      "timestamp": "2016-08-01 18:18:28"
+    },
+    {
+      "nodeID": "187731",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-01 18:18:28",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "187732",
+      "text": "Bernie Sanders knows his gun control record isn't his strong suit",
+      "type": "I",
+      "timestamp": "2016-08-01 18:18:29"
+    },
+    {
+      "nodeID": "187733",
+      "text": "Barbara: GenericReditAccount :  Bernie knows his gun control record isn't his strong suit",
+      "type": "L",
+      "timestamp": "2016-08-01 18:18:29"
+    },
+    {
+      "nodeID": "187734",
+      "text": "GenericReditAccount : Hillary does too",
+      "type": "L",
+      "timestamp": "2016-08-01 18:18:29"
+    },
+    {
+      "nodeID": "187735",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-01 18:18:29",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "187736",
+      "text": "Hillary Clinton knows Bernie Sanders' gun control record isn't his strong suit",
+      "type": "I",
+      "timestamp": "2016-08-01 18:18:29"
+    },
+    {
+      "nodeID": "187737",
+      "text": "Barbara: GenericReditAccount : Hillary does too",
+      "type": "L",
+      "timestamp": "2016-08-01 18:18:29"
+    },
+    {
+      "nodeID": "187738",
+      "text": "Ranman87 : Not hard to do when you'll say anything to get a vote",
+      "type": "L",
+      "timestamp": "2016-08-01 18:18:29"
+    },
+    {
+      "nodeID": "187739",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-01 18:18:29",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "187740",
+      "text": "not hard to dominate when you'll say anything to get a vote",
+      "type": "I",
+      "timestamp": "2016-08-01 18:18:29"
+    },
+    {
+      "nodeID": "187741",
+      "text": "Barbara: Ranman87 : Not hard to do when you'll say anything to get a vote",
+      "type": "L",
+      "timestamp": "2016-08-01 18:18:29"
+    },
+    {
+      "nodeID": "187742",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-08-01 18:18:29",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "187743",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-01 18:18:30",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "187744",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-08-01 18:18:30",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "187745",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-01 18:18:30",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "187746",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-08-01 18:18:30",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "187747",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-08-01 18:18:30",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "187748",
+      "text": "zotquix : That's what I'm seeing too",
+      "type": "L",
+      "timestamp": "2016-08-01 18:18:30"
+    },
+    {
+      "nodeID": "187749",
+      "text": "Barbara: zotquix : That's what I'm seeing too",
+      "type": "L",
+      "timestamp": "2016-08-01 18:18:30"
+    },
+    {
+      "nodeID": "187750",
+      "text": "zotquix : A lot of people here are seeing what they want to see",
+      "type": "L",
+      "timestamp": "2016-08-01 18:18:30"
+    },
+    {
+      "nodeID": "187751",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-01 18:18:30",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "187752",
+      "text": "A lot of people here are seeing what they want to see",
+      "type": "I",
+      "timestamp": "2016-08-01 18:18:30"
+    },
+    {
+      "nodeID": "187753",
+      "text": "Barbara: zotquix : A lot of people here are seeing what they want to see",
+      "type": "L",
+      "timestamp": "2016-08-01 18:18:30"
+    },
+    {
+      "nodeID": "187754",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-01 18:18:30",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "187755",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2016-08-01 18:18:31",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    },
+    {
+      "nodeID": "187756",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-01 18:18:31",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "187757",
+      "text": "zotquix : she looks good and her responses are polished and effective (so far)",
+      "type": "L",
+      "timestamp": "2016-08-01 18:18:31"
+    },
+    {
+      "nodeID": "187758",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-01 18:18:31",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "187759",
+      "text": "Hilary Clinton looks good and her responses are polished and effective (so far)",
+      "type": "I",
+      "timestamp": "2016-08-01 18:18:31"
+    },
+    {
+      "nodeID": "187760",
+      "text": "Barbara: zotquix : she looks good and her responses are polished and effective (so far)",
+      "type": "L",
+      "timestamp": "2016-08-01 18:18:31"
+    },
+    {
+      "nodeID": "187761",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-01 18:18:31",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "187762",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-08-01 18:18:31",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "187763",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-08-01 18:18:31",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "187764",
+      "text": "tartay745 : Unless you think a blind anti-gun stance isnt actually a great idea to reduce actual gun violence.",
+      "type": "L",
+      "timestamp": "2016-08-01 18:18:31"
+    },
+    {
+      "nodeID": "187765",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-01 18:18:31",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "187766",
+      "text": "a blind anti-gun stance is not actually a great idea to reduce actual gun violence",
+      "type": "I",
+      "timestamp": "2016-08-01 18:18:32"
+    },
+    {
+      "nodeID": "187767",
+      "text": "Barbara: tartay745 : Unless you think a blind anti-gun stance isnt actually a great idea to reduce actual gun violence.",
+      "type": "L",
+      "timestamp": "2016-08-01 18:18:32"
+    },
+    {
+      "nodeID": "187768",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-08-01 18:18:32",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "187769",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-01 18:18:32",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "187770",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-08-01 18:18:32",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "229863",
+      "fromID": "187727",
+      "toID": "187728",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229864",
+      "fromID": "187726",
+      "toID": "187727",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229865",
+      "fromID": "187731",
+      "toID": "187732",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229866",
+      "fromID": "187730",
+      "toID": "187731",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229867",
+      "fromID": "187735",
+      "toID": "187736",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229868",
+      "fromID": "187734",
+      "toID": "187735",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229869",
+      "fromID": "187739",
+      "toID": "187740",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229870",
+      "fromID": "187738",
+      "toID": "187739",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229871",
+      "fromID": "187732",
+      "toID": "187742",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229872",
+      "fromID": "187742",
+      "toID": "187728",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229873",
+      "fromID": "187726",
+      "toID": "187743",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229874",
+      "fromID": "187743",
+      "toID": "187734",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229875",
+      "fromID": "187736",
+      "toID": "187742",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229876",
+      "fromID": "187743",
+      "toID": "187730",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229877",
+      "fromID": "187743",
+      "toID": "187744",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229878",
+      "fromID": "187744",
+      "toID": "187742",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229879",
+      "fromID": "187726",
+      "toID": "187745",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229880",
+      "fromID": "187745",
+      "toID": "187738",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229881",
+      "fromID": "187740",
+      "toID": "187746",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229882",
+      "fromID": "187746",
+      "toID": "187728",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229883",
+      "fromID": "187745",
+      "toID": "187747",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229884",
+      "fromID": "187747",
+      "toID": "187746",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229885",
+      "fromID": "187751",
+      "toID": "187752",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229886",
+      "fromID": "187750",
+      "toID": "187751",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229887",
+      "fromID": "187726",
+      "toID": "187754",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229888",
+      "fromID": "187754",
+      "toID": "187748",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229889",
+      "fromID": "187754",
+      "toID": "187755",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229890",
+      "fromID": "187755",
+      "toID": "187728",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229891",
+      "fromID": "187748",
+      "toID": "187756",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229892",
+      "fromID": "187756",
+      "toID": "187750",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229893",
+      "fromID": "187758",
+      "toID": "187759",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229894",
+      "fromID": "187757",
+      "toID": "187758",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229895",
+      "fromID": "187726",
+      "toID": "187761",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229896",
+      "fromID": "187761",
+      "toID": "187757",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229897",
+      "fromID": "187759",
+      "toID": "187762",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229898",
+      "fromID": "187762",
+      "toID": "187728",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229899",
+      "fromID": "187761",
+      "toID": "187763",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229900",
+      "fromID": "187763",
+      "toID": "187762",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229901",
+      "fromID": "187765",
+      "toID": "187766",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229902",
+      "fromID": "187764",
+      "toID": "187765",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229903",
+      "fromID": "187766",
+      "toID": "187768",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229904",
+      "fromID": "187768",
+      "toID": "187728",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229905",
+      "fromID": "187726",
+      "toID": "187769",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229906",
+      "fromID": "187769",
+      "toID": "187764",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229907",
+      "fromID": "187769",
+      "toID": "187770",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "229908",
+      "fromID": "187770",
+      "toID": "187768",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

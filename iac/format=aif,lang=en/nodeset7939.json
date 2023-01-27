@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "150188",
+      "text": "'The gun lobby, however, didn't count on an uprising among African-Americans in Congress who favor gun control.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:12:12"
+    },
+    {
+      "nodeID": "150189",
+      "text": "Oh really? And who are these people? Point them out to us.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:12:12"
+    },
+    {
+      "nodeID": "150190",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:12:12"
+    },
+    {
+      "nodeID": "150191",
+      "text": "the provisions of the DISCLOSE Act that would favor one group over another in restricting free speech",
+      "type": "I",
+      "timestamp": "2016-03-08 20:12:12"
+    },
+    {
+      "nodeID": "150192",
+      "text": "You know America has fallen to a disgusting low when the parasites are furious that someone's rights are not being trampled on to an equal extent to everybody elses. It would be as though during the bombing campaign on Iraq, the left were out protesting that the US hadn't killed an equal number of Israelis, to be equitable. Why even bother getting into the idiocy of someone who thinks the constitution means 'You can restrict free speech, as long as you restrict it to everybody equally, and don't do the 2nd amendment lobby any favours', maybe they've mistaken the constitution for the communist manifesto.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:12:12"
+    },
+    {
+      "nodeID": "150193",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:12:12"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "190620",
+      "fromID": "150189",
+      "toID": "150190",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190621",
+      "fromID": "150190",
+      "toID": "150188",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190622",
+      "fromID": "150192",
+      "toID": "150193",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190623",
+      "fromID": "150193",
+      "toID": "150191",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

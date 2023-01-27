@@ -1,0 +1,121 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143070",
+      "text": "Anti-abortion legislation is simply a tool by which they try to maintain a less sexually permissive society, believing that if women who fall pregnant outside of marriage are forced to endure pregnancy and likely child-raising alone, rather than being offered an easy way out, they will be less likely to have sex outside of marriage.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:13"
+    },
+    {
+      "nodeID": "143071",
+      "text": "I think you fail to take into account that for most opposers of abortion, they genuinely feel they are trying to save lives by their opposition. In many cases it's not a matter of trying control sexual prermissiveness in society but preventing lives from being killed. Disagree or not, you can't separate the anti-abortion message from the fact that it holds to the view that abortion is a form of murder.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:13"
+    },
+    {
+      "nodeID": "143072",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:57:13"
+    },
+    {
+      "nodeID": "143073",
+      "text": "I wouldn't accuse you of being an intellectual, Steeeeve, so I wasn't talking about you and the other millions of 'grassroots' abortion prohibition soldiers.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:13"
+    },
+    {
+      "nodeID": "143074",
+      "text": "Well, i guess that depends on your definition of intellectual. Rational judgement would put one down the path of pro-life, however, I must say there are plenty of people above me that I would call an intellectual before I call myself that. Justice Scalia comes to mind. And likewise, I wouldn't accuse you of being in the 'intellectual' coloumn either.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:13"
+    },
+    {
+      "nodeID": "143075",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:57:13"
+    },
+    {
+      "nodeID": "143076",
+      "text": "And reduction of abortion requirements by preventing conception is not in line with that position? I see both issues tied to efforts of intent to control sex outside traditional marriage, again a belief system moral judgment (sin), and inseparable.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:13"
+    },
+    {
+      "nodeID": "143077",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:57:13"
+    },
+    {
+      "nodeID": "143078",
+      "text": "You all are missing the point that the morning after pill is abortion (or rather could be). It can still kill a human life on purpose.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:13"
+    },
+    {
+      "nodeID": "143079",
+      "text": "Oh come on Steeeeve, around 50% of fertilized embroyo's will fail to implant anyway, so nature 'has killed/'is killing' half of all the people who have ever existed anyway. You cannot tell me that none of those are not just fluke losses of otherwise perfectly healthly embryos. Also, prevention of implantation is only one of several mechanisms by which emergency contraception works- it also prevents ovulation, disrupts passage of a released egg and inhibits fertilzation occuring in the first place.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:13"
+    },
+    {
+      "nodeID": "143080",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:57:13"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185608",
+      "fromID": "143071",
+      "toID": "143072",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185609",
+      "fromID": "143072",
+      "toID": "143070",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185610",
+      "fromID": "143074",
+      "toID": "143075",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185611",
+      "fromID": "143075",
+      "toID": "143073",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185612",
+      "fromID": "143076",
+      "toID": "143077",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185613",
+      "fromID": "143077",
+      "toID": "143071",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185614",
+      "fromID": "143079",
+      "toID": "143080",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185615",
+      "fromID": "143080",
+      "toID": "143078",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

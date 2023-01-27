@@ -1,0 +1,151 @@
+{
+  "nodes": [
+    {
+      "nodeID": "142933",
+      "text": "Ephraim is smitten, their root is dried up, they shall bear no fruit: yea, though they bring forth, YET I SLAY EVEN THE BELOVED FRUIT OF THEIR WOMB",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:54"
+    },
+    {
+      "nodeID": "142934",
+      "text": "And, God even gives Mary a choice as to whether or not she will bear the Son of God. Mary answers in Luke 1:38",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:55"
+    },
+    {
+      "nodeID": "142935",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:56:55"
+    },
+    {
+      "nodeID": "142936",
+      "text": "wow, another person that tries to twist the Bible. Should I even be shocked?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:55"
+    },
+    {
+      "nodeID": "142937",
+      "text": "Actually the bible is silent concerning abortion which is odd considering it was highly outlawed by surrounding nations.The bible is very clear concerning the value of a fetus as opposed to an actual soulish being(mother) though.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:55"
+    },
+    {
+      "nodeID": "142938",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:56:55"
+    },
+    {
+      "nodeID": "142939",
+      "text": "No one, nothing lives forever. So who is killing off all these things?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:55"
+    },
+    {
+      "nodeID": "142940",
+      "text": "I think a better question is what preserved their life for so long? It is the mercy of God that upholds and preserves people in this life. It is the sin of human beings that is responsible for death.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:55"
+    },
+    {
+      "nodeID": "142941",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:56:55"
+    },
+    {
+      "nodeID": "142942",
+      "text": "Are you kidding me? The Bible says 'Thou shalt NOT kill'. Obviously the Bible doesn't say 'Thou shalt not have an abortion', but that's because it doesn't need to. The commandment pretty much says what it means.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:55"
+    },
+    {
+      "nodeID": "142943",
+      "text": "Actually it says *thou shalt not murder* killing a fetus wasn't considered murder,that IS stated in the bible.So yeah I agree the command does pretty much mean what it says and doesn't reffere to a fetus.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:55"
+    },
+    {
+      "nodeID": "142944",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:56:55"
+    },
+    {
+      "nodeID": "142945",
+      "text": "Oh? Don't you think that since Jesus said that whosoever so much as hated their brother without a cause is a murder? Or are you Jewish and don't believe the New Testament? Is that why you say the Bible says nothing about abortion, or just plain killing at all?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:55"
+    },
+    {
+      "nodeID": "142946",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:56:55"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185512",
+      "fromID": "142934",
+      "toID": "142935",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185513",
+      "fromID": "142935",
+      "toID": "142933",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185514",
+      "fromID": "142937",
+      "toID": "142938",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185515",
+      "fromID": "142938",
+      "toID": "142936",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185516",
+      "fromID": "142940",
+      "toID": "142941",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185517",
+      "fromID": "142941",
+      "toID": "142939",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185518",
+      "fromID": "142943",
+      "toID": "142944",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185519",
+      "fromID": "142944",
+      "toID": "142942",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185520",
+      "fromID": "142945",
+      "toID": "142946",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185521",
+      "fromID": "142946",
+      "toID": "142943",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

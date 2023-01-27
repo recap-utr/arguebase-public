@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "137358",
+      "text": "AN intern aat work just finished a sociology experiment for school that I thought was interesting. ... I am hoping that once he gets his report graded he will post it on the internet. I thought it was pretty interesting.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:55"
+    },
+    {
+      "nodeID": "137359",
+      "text": "Do you know what conclusions the person drew from this? What conclusions do you draw from this? That people that own guns are less scared? Or just nicer people? :)",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:55"
+    },
+    {
+      "nodeID": "137360",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:44:55"
+    },
+    {
+      "nodeID": "137361",
+      "text": "please incurage him to post his report. or if he would not like to, would you ask him is people can request a copy?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:55"
+    },
+    {
+      "nodeID": "137362",
+      "text": "Working on it. Apparently we are still waiting for to to be graded (it was really big, at leat 20 typed pages). I plan on buying from them when they get it back, and maybe putting up a whole page in honor of it. Partly because I think it is very telling, partly because I remember what it was like to be in college and get a little recognition for your work.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:55"
+    },
+    {
+      "nodeID": "137363",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:44:55"
+    },
+    {
+      "nodeID": "137364",
+      "text": "Or that they tend to be better prepared, or even less willing to accept help from others or get breakdown cover. That's the trouble with these kind of stats, the interpretations are pretty open to debate.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:55"
+    },
+    {
+      "nodeID": "137365",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:44:55"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181536",
+      "fromID": "137359",
+      "toID": "137360",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181537",
+      "fromID": "137360",
+      "toID": "137358",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181538",
+      "fromID": "137362",
+      "toID": "137363",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181539",
+      "fromID": "137363",
+      "toID": "137361",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181540",
+      "fromID": "137364",
+      "toID": "137365",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181541",
+      "fromID": "137365",
+      "toID": "137359",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

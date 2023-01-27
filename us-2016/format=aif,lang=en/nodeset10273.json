@@ -1,0 +1,618 @@
+{
+  "nodes": [
+    {
+      "nodeID": "202332",
+      "text": "chormin : \"Being the first woman president would be quite a change\"",
+      "type": "L",
+      "timestamp": "2016-09-26 11:25:28"
+    },
+    {
+      "nodeID": "202333",
+      "text": "being the first woman president would be quite a change",
+      "type": "I",
+      "timestamp": "2016-09-26 11:25:29"
+    },
+    {
+      "nodeID": "202334",
+      "text": "Barbara: Hillary : Being the first woman president would be quite a change",
+      "type": "L",
+      "timestamp": "2016-09-26 11:25:29"
+    },
+    {
+      "nodeID": "202335",
+      "text": "Barbara: chormin : Hillary : Being the first woman president would be quite a change",
+      "type": "L",
+      "timestamp": "2016-09-26 11:25:29"
+    },
+    {
+      "nodeID": "202336",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-26 11:25:29",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "202337",
+      "text": "Hillary : being the first woman president would be quite a change",
+      "type": "L",
+      "timestamp": "2016-09-26 11:25:29"
+    },
+    {
+      "nodeID": "202338",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-26 11:25:29",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "202339",
+      "text": "chormin : that's your best foot forward",
+      "type": "L",
+      "timestamp": "2016-09-26 11:25:29"
+    },
+    {
+      "nodeID": "202340",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-26 11:25:30",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "202341",
+      "text": "being a woman is Hillary Clinton's best foot forward",
+      "type": "I",
+      "timestamp": "2016-09-26 11:25:30"
+    },
+    {
+      "nodeID": "202342",
+      "text": "Barbara: chormin : that's your best foot forward",
+      "type": "L",
+      "timestamp": "2016-09-26 11:25:30"
+    },
+    {
+      "nodeID": "202343",
+      "text": "chormin : I'd rather vote for someone else",
+      "type": "L",
+      "timestamp": "2016-09-26 11:25:30"
+    },
+    {
+      "nodeID": "202344",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-26 11:25:30",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "202345",
+      "text": "I'd rather vote for someone else than Hillary Clinton",
+      "type": "I",
+      "timestamp": "2016-09-26 11:25:30"
+    },
+    {
+      "nodeID": "202346",
+      "text": "Barbara: chormin : I'd rather vote for someone else",
+      "type": "L",
+      "timestamp": "2016-09-26 11:25:30"
+    },
+    {
+      "nodeID": "202347",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-09-26 11:25:30",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "202348",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-09-26 11:25:30",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "202349",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-26 11:25:31",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "202350",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-26 11:25:31",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "202351",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-09-26 11:25:31",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "202352",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-09-26 11:25:31",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "202353",
+      "text": "[deleted] : did she just say that seriously",
+      "type": "L",
+      "timestamp": "2016-09-26 11:25:31"
+    },
+    {
+      "nodeID": "202354",
+      "text": "Pure Questioning",
+      "type": "YA",
+      "timestamp": "2016-09-26 11:25:31",
+      "scheme": "PureQuestioning",
+      "schemeID": "91"
+    },
+    {
+      "nodeID": "202355",
+      "text": "Hillary Clinton did/did not just say that seriously",
+      "type": "I",
+      "timestamp": "2016-09-26 11:25:31"
+    },
+    {
+      "nodeID": "202356",
+      "text": "Barbara: [deleted] : did she just say that seriously",
+      "type": "L",
+      "timestamp": "2016-09-26 11:25:31"
+    },
+    {
+      "nodeID": "202357",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-26 11:25:31",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "202358",
+      "text": "chormin : When asked what would make her not a third Obama term that's what she lead with",
+      "type": "L",
+      "timestamp": "2016-09-26 11:25:31"
+    },
+    {
+      "nodeID": "202359",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-26 11:25:31",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "202360",
+      "text": "Hilary Clinton when asked what would make her not a third Obama term that's what she lead with",
+      "type": "I",
+      "timestamp": "2016-09-26 11:25:32"
+    },
+    {
+      "nodeID": "202361",
+      "text": "Barbara: chormin : When asked what would make her not a third Obama term that's what she lead with",
+      "type": "L",
+      "timestamp": "2016-09-26 11:25:32"
+    },
+    {
+      "nodeID": "202362",
+      "text": "chormin : there were other things she followed with that I don't remember the specifics of",
+      "type": "L",
+      "timestamp": "2016-09-26 11:25:32"
+    },
+    {
+      "nodeID": "202363",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-26 11:25:32",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "202364",
+      "text": "there were other things Hillary Clinton followed with that I don't remember the specifics of",
+      "type": "I",
+      "timestamp": "2016-09-26 11:25:32"
+    },
+    {
+      "nodeID": "202365",
+      "text": "Barbara: chormin : there were other things she followed with that I don't remember the specifics of",
+      "type": "L",
+      "timestamp": "2016-09-26 11:25:32"
+    },
+    {
+      "nodeID": "202366",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-09-26 11:25:32",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "202367",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-26 11:25:32",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "202368",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2016-09-26 11:25:32",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "202369",
+      "text": "[deleted] : incredible",
+      "type": "L",
+      "timestamp": "2016-09-26 11:25:33"
+    },
+    {
+      "nodeID": "202370",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-26 11:25:33",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "202371",
+      "text": "incredible",
+      "type": "I",
+      "timestamp": "2016-09-26 11:25:33"
+    },
+    {
+      "nodeID": "202372",
+      "text": "Barbara: [deleted] : incredible",
+      "type": "L",
+      "timestamp": "2016-09-26 11:25:33"
+    },
+    {
+      "nodeID": "202373",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-26 11:25:33",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "202374",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-26 11:25:33",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "202375",
+      "text": "[deleted] : This was her go-to answer for far too many questions",
+      "type": "L",
+      "timestamp": "2016-09-26 11:25:33"
+    },
+    {
+      "nodeID": "202376",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-26 11:25:33",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "202377",
+      "text": "being a woman was Hillary Clinton's go-to answer for far too many questions",
+      "type": "I",
+      "timestamp": "2016-09-26 11:25:33"
+    },
+    {
+      "nodeID": "202378",
+      "text": "Barbara: [deleted] : This was her go-to answer for far too many questions",
+      "type": "L",
+      "timestamp": "2016-09-26 11:25:33"
+    },
+    {
+      "nodeID": "202379",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-26 11:25:33",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "247255",
+      "fromID": "202336",
+      "toID": "202333",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247256",
+      "fromID": "202337",
+      "toID": "202336",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247257",
+      "fromID": "202332",
+      "toID": "202338",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247258",
+      "fromID": "202338",
+      "toID": "202337",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247259",
+      "fromID": "202340",
+      "toID": "202341",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247260",
+      "fromID": "202339",
+      "toID": "202340",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247261",
+      "fromID": "202344",
+      "toID": "202345",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247262",
+      "fromID": "202343",
+      "toID": "202344",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247263",
+      "fromID": "202337",
+      "toID": "202347",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247264",
+      "fromID": "202347",
+      "toID": "202341",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247265",
+      "fromID": "202345",
+      "toID": "202344",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247266",
+      "fromID": "202341",
+      "toID": "202348",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247267",
+      "fromID": "202348",
+      "toID": "202345",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247268",
+      "fromID": "202332",
+      "toID": "202349",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247269",
+      "fromID": "202349",
+      "toID": "202339",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247270",
+      "fromID": "202339",
+      "toID": "202350",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247271",
+      "fromID": "202350",
+      "toID": "202343",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247272",
+      "fromID": "202349",
+      "toID": "202351",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247273",
+      "fromID": "202351",
+      "toID": "202347",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247274",
+      "fromID": "202350",
+      "toID": "202352",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247275",
+      "fromID": "202352",
+      "toID": "202348",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247276",
+      "fromID": "202354",
+      "toID": "202355",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247277",
+      "fromID": "202353",
+      "toID": "202354",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247278",
+      "fromID": "202332",
+      "toID": "202357",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247279",
+      "fromID": "202357",
+      "toID": "202353",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247280",
+      "fromID": "202359",
+      "toID": "202360",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247281",
+      "fromID": "202358",
+      "toID": "202359",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247282",
+      "fromID": "202363",
+      "toID": "202364",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247283",
+      "fromID": "202362",
+      "toID": "202363",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247284",
+      "fromID": "202360",
+      "toID": "202366",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247285",
+      "fromID": "202366",
+      "toID": "202355",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247286",
+      "fromID": "202353",
+      "toID": "202367",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247287",
+      "fromID": "202367",
+      "toID": "202358",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247288",
+      "fromID": "202367",
+      "toID": "202368",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247289",
+      "fromID": "202368",
+      "toID": "202366",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247290",
+      "fromID": "202370",
+      "toID": "202371",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247291",
+      "fromID": "202369",
+      "toID": "202370",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247292",
+      "fromID": "202358",
+      "toID": "202373",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247293",
+      "fromID": "202373",
+      "toID": "202362",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247294",
+      "fromID": "202362",
+      "toID": "202374",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247295",
+      "fromID": "202374",
+      "toID": "202369",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247296",
+      "fromID": "202376",
+      "toID": "202377",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247297",
+      "fromID": "202375",
+      "toID": "202376",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247298",
+      "fromID": "202369",
+      "toID": "202379",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247299",
+      "fromID": "202379",
+      "toID": "202375",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "202337",
+      "personID": "1850",
+      "timestamp": "2016-09-26 11:25:36",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

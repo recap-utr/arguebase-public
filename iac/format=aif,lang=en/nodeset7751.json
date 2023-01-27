@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "147464",
+      "text": "Has there ever been a case of assault that involved a bayonet attached to a rifle?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:06:13"
+    },
+    {
+      "nodeID": "147465",
+      "text": "Well I heard it was a big concern in la amoing gang circles as the drive by was becoming 'cowardice'. So there was a movment by both the bloods and crips to each lead charges by bayonet.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:06:14"
+    },
+    {
+      "nodeID": "147466",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:06:14"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "188696",
+      "fromID": "147465",
+      "toID": "147466",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188697",
+      "fromID": "147466",
+      "toID": "147464",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

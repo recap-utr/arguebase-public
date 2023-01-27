@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "155376",
+      "text": "No. Abortion is legal, so they don't have to worry about what they do with a woman's sexuality. If they knew abortion was not an option, they would probably think twice before having sex with any woman they wanted.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:23:41"
+    },
+    {
+      "nodeID": "155377",
+      "text": "So then, you think that the threat of criminalizing abortion will decrease sexual activity. In earlied posts you condemned wome's 'lust'. We gather that you think sexuality is a BAD thing. Why? Are you the avatar of either Saul of Tarsus or Augustine of Hippo?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:23:42"
+    },
+    {
+      "nodeID": "155378",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:23:42"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194288",
+      "fromID": "155377",
+      "toID": "155378",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194289",
+      "fromID": "155378",
+      "toID": "155376",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

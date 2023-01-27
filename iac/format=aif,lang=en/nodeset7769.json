@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "147738",
+      "text": "That's why today, after what happened to George Tiller, I know that the only thing that will assuage my personal grief over his shocking loss is for leaders across our nation to join me in expressing outrage at this heinous crime, this domestic terrorism. And yes, they need to call it out in exactly those terms. That's what it is. I want to hear massive outrage on the part of the community. I want it to start with President Obama. His statement today is a good beginning. But that's not nearly enough. He must immediately outline an action plan to increase federal protection for providers and clinics and call for stringent enforcement of the Federal Access to Clinic Entrances Act. He has an opportunity to make a speech that addresses women's moral right to reproductive self-determination as passionately as his brilliant speech about race did during the primary. He can and should lead the nation to a larger and more productive conversation about the complex choices women make, and why women deserve the respect, equality and justice inherent in the right to choose to have, or not have, a child. He should bring together pro-choice and anti-choice leaders and get them to issue a joint statement decrying Tiller's murder as well as all such violent opposition to one another's efforts. Now that would be real common ground. .... The silence overall from leaders so far has been deafening, as attorney and longtime Arizona volunteer for reproductive rights causes Leon Silver pointed out. And if our leaders remain silent, I can tell you with perfect assurance what will happen next. There will be more violence. Dr. Tiller's friends, family, patients, colleagues and the many pro-choice activists who have supported him over the years need the vigil in Wichita and those springing up elsewhere to mourn the 67-year-old doctor's death and celebrate his exceptional life. The larger community of reproductive health professionals and activists, including those who bravely escort women safely into and out of health facilities for abortions, need to cry and hug and lift one another up on the wings of their convictions that they are doing God's work, saving women's lives in the fullest sense of the word. I am with them in spirit. But when it comes to changing a culture that has marginalized abortion by shaming women and hounding, even murdering, the doctors and clinic staff who provide safe abortions, when it comes to changing a culture bent on shaming women who are, in all good conscience, making the most moral of personal decisions -- candlelight vigils alone will never be enough.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:06:55"
+    },
+    {
+      "nodeID": "147739",
+      "text": "George Tiller needs more than candlelight vigils | Salon Life",
+      "type": "I",
+      "timestamp": "2016-03-08 20:06:55"
+    },
+    {
+      "nodeID": "147740",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:06:55"
+    },
+    {
+      "nodeID": "147741",
+      "text": "How many threads are you planning on creating regarding this event, Simone? This is already your second.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:06:55"
+    },
+    {
+      "nodeID": "147742",
+      "text": "He is concerned that you are taking things to far, Simone.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:06:55"
+    },
+    {
+      "nodeID": "147743",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:06:55"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "188894",
+      "fromID": "147739",
+      "toID": "147740",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188895",
+      "fromID": "147740",
+      "toID": "147738",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188896",
+      "fromID": "147742",
+      "toID": "147743",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188897",
+      "fromID": "147743",
+      "toID": "147741",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

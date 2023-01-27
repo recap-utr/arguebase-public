@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "146208",
+      "text": "Now all evangelical christians will now be linked with the KKK. So when the average person thinks of christianity they will be seeing the KKK.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:45"
+    },
+    {
+      "nodeID": "146209",
+      "text": "And anyone who thinks this will be seen as an idiot and close-minded.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:45"
+    },
+    {
+      "nodeID": "146210",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:03:45"
+    },
+    {
+      "nodeID": "146211",
+      "text": "Gee I wonder if it's bad for a father or mother to provide for their kids, since members of the KKK may do that too and agree with it. emoticon_rolleyes",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:46"
+    },
+    {
+      "nodeID": "146212",
+      "text": "And many KKK members are fond of puppies. That doesn't make their politics any less abhorant. And it's politics were talking about here, not home life. If you're getting into polical discussions and find yourself on the same side as the KKK, you may well benefit from re-examine your positions.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:46"
+    },
+    {
+      "nodeID": "146213",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:03:46"
+    },
+    {
+      "nodeID": "146214",
+      "text": "And it's politics were talking about here, not home life. If you're getting into polical discussions and find yourself on the same side as the KKK, you may well benefit from re-examine your positions.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:46"
+    },
+    {
+      "nodeID": "146215",
+      "text": "Oh, it's politics! [Slapping forehead with hand] What was I thinking?? If I find any KKK members are against relaxing drug laws, I guess I'd better change my view and start opposing drug laws. And if I happen to find that there are KKK members who don't mind U.S. involvement in the UN, I'll be sure and oppose any U.S. involvement in the U.N. I wonder if any of them have parents on medicare? Doh!! Guess I better oppose any form of socialized healthcare! emoticon_rolleyes",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:46"
+    },
+    {
+      "nodeID": "146216",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:03:46"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187810",
+      "fromID": "146209",
+      "toID": "146210",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187811",
+      "fromID": "146210",
+      "toID": "146208",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187812",
+      "fromID": "146212",
+      "toID": "146213",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187813",
+      "fromID": "146213",
+      "toID": "146211",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187814",
+      "fromID": "146215",
+      "toID": "146216",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187815",
+      "fromID": "146216",
+      "toID": "146214",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

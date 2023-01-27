@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151315",
+      "text": "[B] My bad,but when violent people came after Christ, well we saw what happened, I'm talking about the violence of how it happened.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:34"
+    },
+    {
+      "nodeID": "151316",
+      "text": "Yes, but Christians have suffered in order to live out their faith for nearly 2000 years. Only one of the Apostles lived out the full measure of their days, most of them died violent deaths for refusing to renounce the Gospel. I make no claims to being worthy to stand in the company of the saints and martyrs, but their example is there, the way of Christ leads to the cross.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:34"
+    },
+    {
+      "nodeID": "151317",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:14:34"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191418",
+      "fromID": "151316",
+      "toID": "151317",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191419",
+      "fromID": "151317",
+      "toID": "151315",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

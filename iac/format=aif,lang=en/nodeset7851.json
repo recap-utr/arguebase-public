@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148712",
+      "text": "From my speculation, this topic is full of people trying to either prove or disprove evolution. Almost no one ever tries to give evidence against creation. So, what is it?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:09"
+    },
+    {
+      "nodeID": "148713",
+      "text": "Because there IS no evidence against creationism.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:09"
+    },
+    {
+      "nodeID": "148714",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:09:09"
+    },
+    {
+      "nodeID": "148715",
+      "text": "Actually, there is no evidence to support creationism, which is based on the mythology of bronze age, nomadic herdsmen. Thus, the creationism v. evolution debate becomes an effort by creationists to discredit evolution rather than an effort to offer evidence for creationism. The reason is simple - there is no evidence that supports creationism. On the other hand, it is intentional ignorance to claim that the earth is only 6,000 years old, that there was a universal flood about 4500 years ago, or that the millions of species in the world today evolved from a few thousand species at most at rates no evolutionary biologist would even consider possible. Creationists deny evolution and then offer hyperevolution when they realize that their position is impossible.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:09"
+    },
+    {
+      "nodeID": "148716",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:09:09"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189572",
+      "fromID": "148713",
+      "toID": "148714",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189573",
+      "fromID": "148714",
+      "toID": "148712",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189574",
+      "fromID": "148715",
+      "toID": "148716",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189575",
+      "fromID": "148716",
+      "toID": "148713",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

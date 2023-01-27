@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "146460",
+      "text": "Of course, teaching kids 'Stop, don't touch, leave the area, tell an adult' is pro-gun indoctrination with chilling similarities to indoctrination of North Korean children. :)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:04:22"
+    },
+    {
+      "nodeID": "146461",
+      "text": "And the same people that believe that are the ones that keep saying that teaching about alternative lifestyles isn't. emoticon_rolleyes BTW, Woodhaven is in my neck of the woods. Everyone here in Michigan has guns, especially the criminals. ;)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:04:22"
+    },
+    {
+      "nodeID": "146462",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:04:22"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187992",
+      "fromID": "146461",
+      "toID": "146462",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187993",
+      "fromID": "146462",
+      "toID": "146460",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

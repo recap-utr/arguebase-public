@@ -1,0 +1,397 @@
+{
+  "nodes": [
+    {
+      "nodeID": "199890",
+      "text": "bargainmusic :  When was the last time Chafee got to speak",
+      "type": "L",
+      "timestamp": "2016-09-17 16:34:22"
+    },
+    {
+      "nodeID": "199891",
+      "text": "Pure Questioning",
+      "type": "YA",
+      "timestamp": "2016-09-17 16:34:22",
+      "scheme": "PureQuestioning",
+      "schemeID": "91"
+    },
+    {
+      "nodeID": "199892",
+      "text": "the last time Chafee got to speak was xxx",
+      "type": "I",
+      "timestamp": "2016-09-17 16:34:22"
+    },
+    {
+      "nodeID": "199893",
+      "text": "Barbara: bargainmusic :  When was the last time Chafee got to speak?",
+      "type": "L",
+      "timestamp": "2016-09-17 16:34:22"
+    },
+    {
+      "nodeID": "199894",
+      "text": "Pepsiisgood1997 : Who",
+      "type": "L",
+      "timestamp": "2016-09-17 16:34:22"
+    },
+    {
+      "nodeID": "199895",
+      "text": "Pure Questioning",
+      "type": "YA",
+      "timestamp": "2016-09-17 16:34:22",
+      "scheme": "PureQuestioning",
+      "schemeID": "91"
+    },
+    {
+      "nodeID": "199896",
+      "text": "Chafee is xxx",
+      "type": "I",
+      "timestamp": "2016-09-17 16:34:22"
+    },
+    {
+      "nodeID": "199897",
+      "text": "Barbara: Pepsiisgood1997 : Who?",
+      "type": "L",
+      "timestamp": "2016-09-17 16:34:22"
+    },
+    {
+      "nodeID": "199898",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-17 16:34:22",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "199899",
+      "text": "bargainmusic : The guy on the other end not complaining about how much time he's had to speak",
+      "type": "L",
+      "timestamp": "2016-09-17 16:34:22"
+    },
+    {
+      "nodeID": "199900",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-17 16:34:22",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "199901",
+      "text": "Chafee is the guy on the other end not complaining about how much time he's had to speak",
+      "type": "I",
+      "timestamp": "2016-09-17 16:34:22"
+    },
+    {
+      "nodeID": "199902",
+      "text": "Barbara: bargainmusic : The guy on the other end not complaining about how much time he's had to speak",
+      "type": "L",
+      "timestamp": "2016-09-17 16:34:23"
+    },
+    {
+      "nodeID": "199903",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-09-17 16:34:23",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "199904",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-17 16:34:23",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "199905",
+      "text": "Default Illocuting",
+      "type": "YA",
+      "timestamp": "2016-09-17 16:34:23",
+      "scheme": "Default Illocuting",
+      "schemeID": "168"
+    },
+    {
+      "nodeID": "199906",
+      "text": "Looorney : Mike Jones",
+      "type": "L",
+      "timestamp": "2016-09-17 16:34:23"
+    },
+    {
+      "nodeID": "199907",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-17 16:34:23",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "199908",
+      "text": "Mike Jones",
+      "type": "I",
+      "timestamp": "2016-09-17 16:34:23"
+    },
+    {
+      "nodeID": "199909",
+      "text": "Barbara: Looorney : Mike Jones",
+      "type": "L",
+      "timestamp": "2016-09-17 16:34:23"
+    },
+    {
+      "nodeID": "199910",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-09-17 16:34:23",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "199911",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-17 16:34:23",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "199912",
+      "text": "Default Illocuting",
+      "type": "YA",
+      "timestamp": "2016-09-17 16:34:23",
+      "scheme": "Default Illocuting",
+      "schemeID": "168"
+    },
+    {
+      "nodeID": "199913",
+      "text": "MrsChimpGod : More than 10 minutes",
+      "type": "L",
+      "timestamp": "2016-09-17 16:34:24"
+    },
+    {
+      "nodeID": "199914",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-17 16:34:24",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "199915",
+      "text": "more than 10 minutes",
+      "type": "I",
+      "timestamp": "2016-09-17 16:34:24"
+    },
+    {
+      "nodeID": "199916",
+      "text": "Barbara: MrsChimpGod : More than 10 minutes",
+      "type": "L",
+      "timestamp": "2016-09-17 16:34:24"
+    },
+    {
+      "nodeID": "199917",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-17 16:34:24",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "199918",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-09-17 16:34:24",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "199919",
+      "text": "Default Illocuting",
+      "type": "YA",
+      "timestamp": "2016-09-17 16:34:24",
+      "scheme": "Default Illocuting",
+      "schemeID": "168"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "244524",
+      "fromID": "199891",
+      "toID": "199892",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244525",
+      "fromID": "199890",
+      "toID": "199891",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244526",
+      "fromID": "199895",
+      "toID": "199896",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244527",
+      "fromID": "199894",
+      "toID": "199895",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244528",
+      "fromID": "199890",
+      "toID": "199898",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244529",
+      "fromID": "199898",
+      "toID": "199894",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244530",
+      "fromID": "199900",
+      "toID": "199901",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244531",
+      "fromID": "199899",
+      "toID": "199900",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244532",
+      "fromID": "199901",
+      "toID": "199903",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244533",
+      "fromID": "199903",
+      "toID": "199896",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244534",
+      "fromID": "199894",
+      "toID": "199904",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244535",
+      "fromID": "199904",
+      "toID": "199899",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244536",
+      "fromID": "199904",
+      "toID": "199905",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244537",
+      "fromID": "199905",
+      "toID": "199903",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244538",
+      "fromID": "199907",
+      "toID": "199908",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244539",
+      "fromID": "199906",
+      "toID": "199907",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244540",
+      "fromID": "199908",
+      "toID": "199910",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244541",
+      "fromID": "199910",
+      "toID": "199896",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244542",
+      "fromID": "199894",
+      "toID": "199911",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244543",
+      "fromID": "199911",
+      "toID": "199906",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244544",
+      "fromID": "199911",
+      "toID": "199912",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244545",
+      "fromID": "199912",
+      "toID": "199910",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244546",
+      "fromID": "199914",
+      "toID": "199915",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244547",
+      "fromID": "199913",
+      "toID": "199914",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244548",
+      "fromID": "199890",
+      "toID": "199917",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244549",
+      "fromID": "199917",
+      "toID": "199913",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244550",
+      "fromID": "199915",
+      "toID": "199918",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244551",
+      "fromID": "199918",
+      "toID": "199892",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244552",
+      "fromID": "199917",
+      "toID": "199919",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244553",
+      "fromID": "199919",
+      "toID": "199918",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

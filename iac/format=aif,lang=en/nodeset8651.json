@@ -1,0 +1,139 @@
+{
+  "nodes": [
+    {
+      "nodeID": "160748",
+      "text": "South Dakotans say 'repeal the extreme abortion ban!' Thanks to the hard work of 1,200 volunteers in 138 different cities and towns -- in nine weeks time -- we filed petitions with the names of more than 38,000 South Dakotans who are calling for the repeal of the extreme abortion legislation enacted by the South Dakota legislature and signed into law by Governor Mike Rounds on March 6.  http://www.sdhealthyfamilies.org/",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:54"
+    },
+    {
+      "nodeID": "160749",
+      "text": "732,000 DIDN'T sign the petition. It seems only 5% of South Dakotans say 'repeal the extreme abortion ban' and that is ASSUMING that all the signatures are valid.  The good news for South Dakota is that come November they can show America how they really feel about abortion as opposed to having the courts decide laws.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:54"
+    },
+    {
+      "nodeID": "160750",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:35:54"
+    },
+    {
+      "nodeID": "160751",
+      "text": "'Healthy Families' seems like a strange name for this group that the link is to.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:54"
+    },
+    {
+      "nodeID": "160752",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:35:54"
+    },
+    {
+      "nodeID": "160753",
+      "text": "Pro choice is pro child is pro family. Having access to contraception and to abortion if contraception fails or for other reasons strengthens the family.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:54"
+    },
+    {
+      "nodeID": "160754",
+      "text": "pro-choice is only pro child if the choice is not abortion and they are only pro family when the choice for family. So really pro choice can be pro child or anti child and pro family or anti family.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:54"
+    },
+    {
+      "nodeID": "160755",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:35:54"
+    },
+    {
+      "nodeID": "160756",
+      "text": "How is killing a child pro child?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:54"
+    },
+    {
+      "nodeID": "160757",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:35:54"
+    },
+    {
+      "nodeID": "160758",
+      "text": "Who is killing children? Except for George Bush who has seen to the killing of thousands of children in Iraq.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:54"
+    },
+    {
+      "nodeID": "160759",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:35:54"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198104",
+      "fromID": "160749",
+      "toID": "160750",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198105",
+      "fromID": "160750",
+      "toID": "160748",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198106",
+      "fromID": "160751",
+      "toID": "160752",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198107",
+      "fromID": "160752",
+      "toID": "160748",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198108",
+      "fromID": "160754",
+      "toID": "160755",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198109",
+      "fromID": "160755",
+      "toID": "160753",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198110",
+      "fromID": "160756",
+      "toID": "160757",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198111",
+      "fromID": "160757",
+      "toID": "160753",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198112",
+      "fromID": "160758",
+      "toID": "160759",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198113",
+      "fromID": "160759",
+      "toID": "160756",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

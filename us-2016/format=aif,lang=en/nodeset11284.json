@@ -1,0 +1,316 @@
+{
+  "nodes": [
+    {
+      "nodeID": "212016",
+      "text": "beachfootballer : If you have a country $18,000,000,000,000 in debt, you'd want the best businessman possible to run the country in that situation",
+      "type": "L",
+      "timestamp": "2016-10-31 17:13:38"
+    },
+    {
+      "nodeID": "212018",
+      "text": "If you have a country $18,000,000,000,000 in debt, you'd want the best businessman possible to run the country in that situation",
+      "type": "I",
+      "timestamp": "2016-10-31 17:13:38"
+    },
+    {
+      "nodeID": "212023",
+      "text": "slagnanz : Is he the best businessman possible",
+      "type": "L",
+      "timestamp": "2016-10-31 17:13:39"
+    },
+    {
+      "nodeID": "212025",
+      "text": "TRUMP is not the best businessman possible",
+      "type": "I",
+      "timestamp": "2016-10-31 17:13:39"
+    },
+    {
+      "nodeID": "212031",
+      "text": "beachfootballer : He's the biggest name in business",
+      "type": "L",
+      "timestamp": "2016-10-31 17:13:40"
+    },
+    {
+      "nodeID": "212033",
+      "text": "TRUMP's the biggest name in business",
+      "type": "I",
+      "timestamp": "2016-10-31 17:13:40"
+    },
+    {
+      "nodeID": "212035",
+      "text": "beachfootballer : an icon",
+      "type": "L",
+      "timestamp": "2016-10-31 17:13:40"
+    },
+    {
+      "nodeID": "212037",
+      "text": "TRUMP is an icon",
+      "type": "I",
+      "timestamp": "2016-10-31 17:13:40"
+    },
+    {
+      "nodeID": "221631",
+      "text": "they need somebody like me to straighten out that mess",
+      "type": "I",
+      "timestamp": "2016-11-01 15:06:53"
+    },
+    {
+      "nodeID": "221637",
+      "text": "TRUMP : they need somebody like me to straighten out that mess",
+      "type": "L",
+      "timestamp": "2016-11-01 15:06:54"
+    },
+    {
+      "nodeID": "264346",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 11:59:39",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264347",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-09 11:59:39",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "264348",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-09 11:59:40",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "264349",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 11:59:40",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264350",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-09 11:59:41",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "264351",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-09 11:59:41",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "264352",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 11:59:42",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264353",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2017-03-09 11:59:42",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "264354",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2017-03-09 11:59:43",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "264355",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 11:59:43",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264356",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2017-03-09 11:59:44",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "264357",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2017-03-09 11:59:44",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "319766",
+      "fromID": "221637",
+      "toID": "264346",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319767",
+      "fromID": "264346",
+      "toID": "212016",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319768",
+      "fromID": "212018",
+      "toID": "264347",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319769",
+      "fromID": "264347",
+      "toID": "221631",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319770",
+      "fromID": "264346",
+      "toID": "264348",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319771",
+      "fromID": "264348",
+      "toID": "264347",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319772",
+      "fromID": "221637",
+      "toID": "264349",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319773",
+      "fromID": "264349",
+      "toID": "212023",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319774",
+      "fromID": "212025",
+      "toID": "264350",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319775",
+      "fromID": "264350",
+      "toID": "221631",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319776",
+      "fromID": "264349",
+      "toID": "264351",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319777",
+      "fromID": "264351",
+      "toID": "264350",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319778",
+      "fromID": "221637",
+      "toID": "264352",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319779",
+      "fromID": "264352",
+      "toID": "212031",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319780",
+      "fromID": "212033",
+      "toID": "264353",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319781",
+      "fromID": "264353",
+      "toID": "221631",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319782",
+      "fromID": "264352",
+      "toID": "264354",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319783",
+      "fromID": "264354",
+      "toID": "264353",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319784",
+      "fromID": "221637",
+      "toID": "264355",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319785",
+      "fromID": "264355",
+      "toID": "212035",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319786",
+      "fromID": "212037",
+      "toID": "264356",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319787",
+      "fromID": "264356",
+      "toID": "221631",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319788",
+      "fromID": "264355",
+      "toID": "264357",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319789",
+      "fromID": "264357",
+      "toID": "264356",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "221637",
+      "personID": "2816",
+      "timestamp": "2016-11-01 15:08:10",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

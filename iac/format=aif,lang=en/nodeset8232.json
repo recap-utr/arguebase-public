@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "154267",
+      "text": "And in November the democrats will lose full control of the house and senate, and all of these obamanations will be undone one after another. The American people strongly opposed health care reform and spoke out loudly against it, and they were soundly ignored. No democrat is safe come November. They lost in 1994, they'll lose in 2010 again...and this time it might take decades for them to regain any measure of control. Yes change is coming, the right kind of change. The change from liberal socialists to conservatives who will undo what went wrong.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:15"
+    },
+    {
+      "nodeID": "154268",
+      "text": "You wish. I doubt that it shall be so.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:15"
+    },
+    {
+      "nodeID": "154269",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:21:15"
+    },
+    {
+      "nodeID": "154270",
+      "text": "You can't hand these issues over to corporations with no real national allegiance.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:15"
+    },
+    {
+      "nodeID": "154271",
+      "text": "And yet you seem to feel we should leave these issues to the government, which has done nothing but corporate takeovers in regard to banks, automotive industries, and now health care.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:15"
+    },
+    {
+      "nodeID": "154272",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:21:15"
+    },
+    {
+      "nodeID": "154273",
+      "text": "Lawyers will surely benefit, but most Americans are concerned with preexisting conditions, the cost of premiums, and access to decent health care, or being thrown off their health plans if they get sick. We DO see benefits in the bill. emoticon_xgood",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:15"
+    },
+    {
+      "nodeID": "154274",
+      "text": "Actually, since most Americans opposed this healthcare take over it would seem they are more concerned with being shanghied by government. The lawyers are the only ones that will benefit from this passing. There will be multiple injunctions imposed on this legislation by the middle of April. This legislation will never be enforced, it can't pass a judicial sniff test. By the end of 2012 A large portion of the legislators that voted for this will be voted out of office, including the President that signed it. It will then be repealed and the lawyer will have to find another cash cow.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:15"
+    },
+    {
+      "nodeID": "154275",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:21:15"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193494",
+      "fromID": "154268",
+      "toID": "154269",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193495",
+      "fromID": "154269",
+      "toID": "154267",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193496",
+      "fromID": "154271",
+      "toID": "154272",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193497",
+      "fromID": "154272",
+      "toID": "154270",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193498",
+      "fromID": "154274",
+      "toID": "154275",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193499",
+      "fromID": "154275",
+      "toID": "154273",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

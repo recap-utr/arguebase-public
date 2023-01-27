@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "145440",
+      "text": "...then you are against the use of this pill? If pharmacists should be able to prescribe it (I agree, pharmacists shouldn't prescribe medicines at all) and physicians shouldn't prescribe it, who's left to prescribe it? Are you opposed to the idea of sex solely for pleasure?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:19"
+    },
+    {
+      "nodeID": "145441",
+      "text": "I believe chloe is against the abortion aspect of the pill.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:19"
+    },
+    {
+      "nodeID": "145442",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:02:19"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187278",
+      "fromID": "145441",
+      "toID": "145442",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187279",
+      "fromID": "145442",
+      "toID": "145440",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

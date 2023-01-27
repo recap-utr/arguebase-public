@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "144992",
+      "text": "On Wednesday, April 28, the Assembly Appropriations Committee met to consider Assembly Bill 1810 and Assembly Bill 2223. AB1810 was placed into the suspense file due to financial costs and will be reconsidered in the near future. This bill may be acted upon at a later date. Please continue checking your email and NRA-ILA :: for any updates on AB1810. AB2223 was re-scheduled for next week.  AB1810 would establish a registration system, similar to the one currently in place for handguns, for all newly-acquired long guns. Under AB1810, the make, model and serial number of the firearm as well as the identifying information of the purchaser would be recorded and kept on file by the California Attorney General's office.  If AB1810 were enacted, violent criminals would continue doing what they do now - obtain firearms through illegal means. This bill would not decrease crime but will rather have disastrous effects on the already financially unstable Golden State. AB1810 would impose additional burdens on California's taxpayers to maintain the registration system as well as on the state's licensed firearms dealers, small businesses who already deal with extensive business requirements.  One simply needs to look at Canada, a nation with draconian firearms registration, to see the results - billions in cumulative administrative costs, annual cost overruns, no clear substantiation of public safety benefits, unjust prosecution, and a bureaucratic complexity that daunts those willing to comply. Ironically, California is considering a new registration scheme as Canada is considering doing away with its system.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:16"
+    },
+    {
+      "nodeID": "144993",
+      "text": "Let's ask our California resident what he thinks of this new law. A waste of money in financial crunch time, or just good law making? However, that is not the only options. You can say whatever you like. It is a free country. At least for now. emoticon_smile Given all of the new laws being made, and the bureaucracy they create, thus adding more and further regs. associated with bigger government, the trend doesn't look good for Freedom from governmental intrusions. But at least for now. emoticon_smile",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:16"
+    },
+    {
+      "nodeID": "144994",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:01:16"
+    },
+    {
+      "nodeID": "144995",
+      "text": "If these DROS records really are destroyed after 15 days, what's the point in having the DROS system in the first place? What's the justification for giving the attorney general access to a database of registered and documented transactions, if the information can only exist for 15 days, and anything longer than that is illegal?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:16"
+    },
+    {
+      "nodeID": "144996",
+      "text": "sinjin - I didn't mean to imply any linkage between your opinions and those of another poster. Apologies.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:16"
+    },
+    {
+      "nodeID": "144997",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:01:16"
+    },
+    {
+      "nodeID": "144998",
+      "text": "Weren't you guys doubting the destruction of those records just a little while ago?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:16"
+    },
+    {
+      "nodeID": "144999",
+      "text": "You think it was Me? You are yet again, confused. I don't even know what a DROS is. Department of Registration Ohio State? That would be my best guess, seeing that I am from Ohio! emoticon_smile",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:16"
+    },
+    {
+      "nodeID": "145000",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:01:16"
+    },
+    {
+      "nodeID": "145001",
+      "text": "I assure you I never made such a claim.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:16"
+    },
+    {
+      "nodeID": "145002",
+      "text": "Here's what I was recalling:",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:16"
+    },
+    {
+      "nodeID": "145003",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:01:17"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186962",
+      "fromID": "144993",
+      "toID": "144994",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186963",
+      "fromID": "144994",
+      "toID": "144992",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186964",
+      "fromID": "144996",
+      "toID": "144997",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186965",
+      "fromID": "144997",
+      "toID": "144995",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186966",
+      "fromID": "144999",
+      "toID": "145000",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186967",
+      "fromID": "145000",
+      "toID": "144998",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186968",
+      "fromID": "145002",
+      "toID": "145003",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186969",
+      "fromID": "145003",
+      "toID": "145001",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

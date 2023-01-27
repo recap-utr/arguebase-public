@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "137467",
+      "text": "ugh, another court case coming",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:06"
+    },
+    {
+      "nodeID": "137468",
+      "text": "Well, John Roberts is on his way to be the next Chief Justice, and word is, Priscilla Owens is in the bullpen for O'Connor's seat.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:06"
+    },
+    {
+      "nodeID": "137469",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:45:06"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181612",
+      "fromID": "137468",
+      "toID": "137469",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181613",
+      "fromID": "137469",
+      "toID": "137467",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "154143",
+      "text": "This is a serious problem that government caused, not the greedy capitalist pigs they would like us to believe. I can't imagine an insurance company would agree to coverage of a person who found out he had cancer yesterday and applied for insurance today. They had mandates forcing this on them. Anyone who buys insurance has to make up the loss. There has to be another way to solve the problem.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:20:54"
+    },
+    {
+      "nodeID": "154144",
+      "text": "I can't imagine it either, but if I had to pick one type of business most capable of turning a government mandate into a profit, insurance companies would get my vote.  I'm afraid that too many people subconsiously think that conflicts between opposites like health providers (or trial lawyers) vs. insurance companies result in victory for the general public. Shandag's comments show that they both can have common interests (State mandates) that result in wins for both of them and a loss for the general public.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:20:54"
+    },
+    {
+      "nodeID": "154145",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:20:54"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193408",
+      "fromID": "154144",
+      "toID": "154145",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193409",
+      "fromID": "154145",
+      "toID": "154143",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "150905",
+      "text": "I did it again. Will an anti-gunner explain to me how I increased crime last night?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:37"
+    },
+    {
+      "nodeID": "150906",
+      "text": "There was a break in a few miles away from my house last night. Will an anti-gunner please explain me, what my contribution to the crime was last night? More guns more crime right? Then everyday I am encouraging more crime by carrying my gun? Very confused.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:37"
+    },
+    {
+      "nodeID": "150907",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:13:37"
+    },
+    {
+      "nodeID": "150908",
+      "text": "Kelvin, You've already made two seperate threads asking the almost same question. Keep it to one thread per question and don't repeat threads in search of an answer. - Moderator",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:37"
+    },
+    {
+      "nodeID": "150909",
+      "text": "My apologies. The whole point: There is NO answer.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:37"
+    },
+    {
+      "nodeID": "150910",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:13:37"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191126",
+      "fromID": "150906",
+      "toID": "150907",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191127",
+      "fromID": "150907",
+      "toID": "150905",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191128",
+      "fromID": "150909",
+      "toID": "150910",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191129",
+      "fromID": "150910",
+      "toID": "150908",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

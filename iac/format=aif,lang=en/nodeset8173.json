@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "153575",
+      "text": "frankly the idea that the repeal of the AWB had any effect at all is ludicrous. The AWB was a piece of legislative garbage that was passed as a feel good measure. No more, no less. The entire thing was idiotic. I have an extensive collection of guns. Everythign from dueling pistols to a minigun. I could not always tell what was a 'pre ban' assault weapon and a 'post ban' non assault weapon. You had to check the serial numbers to be sure, then check the manufacturers tech sheet to see where that serial number fell.  I do think that it is interesting that the Mexicans are blaming the US for their violence problem. The Fully automatic AK-47s used in the beverly hills shootout were smuggled into the country from Mexico. Apparently the mexicans are exporting full auto weaponry and importing semi auto.  The truth probably lies somewhere in between. There is no question that mexico has a SERIOUS violence problem. Most mexican cartels used automatic weapons in the 80's and 90's, then their use fell off...probably as they learned that automatic weapons were a good way to chew up all your ammo and not accomplish a damn thing. Now they are downgrading to lighter stuff, and many of those lighter weapons are supplied by the US.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:34"
+    },
+    {
+      "nodeID": "153576",
+      "text": "Yes, the flow of illegal guns may go both ways. But the article says that 90% of illegal guns seized by Mexican authorities come from the US. And these assault weapons are easily converted into machine gunsemoticon_xkill . Gadgets that accomplish such a purpose are sold at gun shows. From the previously quoted article: 'When asked if he had any of the deadlier automatics, he led a reporter to a nearby table.  'There, James Ramey of Little Rock, Ark., was selling Hellfire and Autoburst trigger activation devices, $30 gadgets that turn any assault rifle into a rat-a-tatting machine gun.'  I think much of the problem could be solved by extending the Brady background check to all gun sales. It doesn't make sense not to. It's kind of like the law requiring people to get a doctor's prescription to purchase certain kinds of drugs but then having a 'drug show' where people can purchase any kind of prescription drug without a doctor's prescription.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:34"
+    },
+    {
+      "nodeID": "153577",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:19:35"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193008",
+      "fromID": "153576",
+      "toID": "153577",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193009",
+      "fromID": "153577",
+      "toID": "153575",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140459",
+      "text": "So, we are forced, in the interest of continuing dialogue, to point out all of the flaws in there argument.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:32"
+    },
+    {
+      "nodeID": "140460",
+      "text": "So you admit there is NO scientific evidence of any theory of creation. Thanks.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:32"
+    },
+    {
+      "nodeID": "140461",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:51:32"
+    },
+    {
+      "nodeID": "140462",
+      "text": "You have beliefs not based on science, but my beliefs not based on your version of science are irrational?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:32"
+    },
+    {
+      "nodeID": "140463",
+      "text": "But you have challenged science with your beliefs. You argue against science with your beliefs, based on mythology with no evidential support. You argue against real science so that you can cling to your fairy tales.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:32"
+    },
+    {
+      "nodeID": "140464",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:51:32"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183748",
+      "fromID": "140460",
+      "toID": "140461",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183749",
+      "fromID": "140461",
+      "toID": "140459",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183750",
+      "fromID": "140463",
+      "toID": "140464",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183751",
+      "fromID": "140464",
+      "toID": "140462",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

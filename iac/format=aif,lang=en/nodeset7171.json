@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138820",
+      "text": "Communism meaning the government russia had from the 1940s to 1990. Democratic- republic: the government the US has today.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:52"
+    },
+    {
+      "nodeID": "138821",
+      "text": "Well, in that case I would go for the US government any day. Soviet russia was so far removed from the communist ideals of equality as contemporary Russia. Power, wealth and influence was concentrated in a precious elite... In fact, it`s probably the same elite that rules Russia today. I can`t think of any Soviet benefits over US-style democracy, apart from the societ educational system (but that`s not even entirely a political issue).",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:52"
+    },
+    {
+      "nodeID": "138822",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:47:52"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182582",
+      "fromID": "138821",
+      "toID": "138822",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182583",
+      "fromID": "138822",
+      "toID": "138820",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

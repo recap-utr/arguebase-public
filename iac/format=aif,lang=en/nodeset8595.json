@@ -1,0 +1,157 @@
+{
+  "nodes": [
+    {
+      "nodeID": "159706",
+      "text": "Is there a difference between secularism and atheism?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:34"
+    },
+    {
+      "nodeID": "159707",
+      "text": "Yes. The US Constitution is secularist, but it's not atheistic.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:34"
+    },
+    {
+      "nodeID": "159708",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:33:34"
+    },
+    {
+      "nodeID": "159709",
+      "text": "They are different terms and apply to different things. Secularism is not a worldview in itself, it is a policy of how to apply religious and other worldview in real life. Secularism does not exclude people with a religious worldview. One may imagine a devout christian that firmly believes in his faith, but is also convinced that faith must come from within and that forcing someone to behave in accordance with a religion simply encourages false faith, and would logically conclude that his faith should not be forced upon people (usually with the subclause of 'Let them burn in hell afterwards', or something else along those lines).",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:34"
+    },
+    {
+      "nodeID": "159710",
+      "text": "So if an atheist believes that humans are the highest form of intelligence, and a devout Christian believes God is the highest form of intelligence, the Christian should allow the atheist to force him to behave as if humans are the highest form of intelligence?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:34"
+    },
+    {
+      "nodeID": "159711",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:33:34"
+    },
+    {
+      "nodeID": "159712",
+      "text": "I hope there's a way to leave feedback for the fine folks at Dictionary.com. Atheism has nothing to instruct us in immorality.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:35"
+    },
+    {
+      "nodeID": "159713",
+      "text": "And I have left them feedback to see what happens. I noticed this particular entry was sourced from The American Heritage\u00ae Dictionary of the English Language, Fourth Edition so it is not something Dictionary.com wrote.  I can see Iuris' point but the entry is still laid out wrong if this is the case. As written, 'Godlessness; immorality', implies that immorality is synonymous with godlessness but the thesaurus entry for godlessness does not list immorality as a synonym. I think this is because some use the term 'godless', an adjective, to mean immoral but 'godlessness', a noun, to mean atheistic.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:35"
+    },
+    {
+      "nodeID": "159714",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:33:35"
+    },
+    {
+      "nodeID": "159715",
+      "text": "It does mean they are all the same, concerning mathematics.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:35"
+    },
+    {
+      "nodeID": "159716",
+      "text": "So when you're doing math, you're an atheist? Of course not. Just because there is overlap doesn't mean that the two views are identical.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:35"
+    },
+    {
+      "nodeID": "159717",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:33:35"
+    },
+    {
+      "nodeID": "159718",
+      "text": "A devoutly religious person would disagree with all the statements in the Humanist Manifesto that I highlighted. Would they believe that public policy should be based on things that they don't believe?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:35"
+    },
+    {
+      "nodeID": "159719",
+      "text": "Yes. I know of no one who agrees with all government policies, or all of the premesis that they're based on. But we do all agree (or at least almost all) that we need some method for forming those policies. Compromises must be made. A religious secularist could believe, for example, that if we allow religious beliefs to dictate policy than it's just a matter of time before general religious freedom is compromised for all but those who follow the religion of the ruling party. Rather than risk that they would think it an acceptable compromise to have some policies that they don't agree with, as long as they don't actively compromise their faith.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:35"
+    },
+    {
+      "nodeID": "159720",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:33:35"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "197368",
+      "fromID": "159707",
+      "toID": "159708",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197369",
+      "fromID": "159708",
+      "toID": "159706",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197370",
+      "fromID": "159710",
+      "toID": "159711",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197371",
+      "fromID": "159711",
+      "toID": "159709",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197372",
+      "fromID": "159713",
+      "toID": "159714",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197373",
+      "fromID": "159714",
+      "toID": "159712",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197374",
+      "fromID": "159716",
+      "toID": "159717",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197375",
+      "fromID": "159717",
+      "toID": "159715",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197376",
+      "fromID": "159719",
+      "toID": "159720",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197377",
+      "fromID": "159720",
+      "toID": "159718",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,284 @@
+{
+  "nodes": [
+    {
+      "nodeID": "212463",
+      "text": "Ipwalsh : How are you supposed to straighten out the debt mess if the only way you know how to solve your own mess is declaring bankruptcy",
+      "type": "L",
+      "timestamp": "2016-10-31 17:17:31"
+    },
+    {
+      "nodeID": "212465",
+      "text": "you can't straighten out the debt mess if the only way you know how to solve your own mess is declaring bankruptcy",
+      "type": "I",
+      "timestamp": "2016-10-31 17:17:31"
+    },
+    {
+      "nodeID": "212499",
+      "text": "Manning01 : He didn't declare bankruptcy",
+      "type": "L",
+      "timestamp": "2016-10-31 17:17:35"
+    },
+    {
+      "nodeID": "212501",
+      "text": "TRUMP didn't declare bankruptcy",
+      "type": "I",
+      "timestamp": "2016-10-31 17:17:35"
+    },
+    {
+      "nodeID": "212503",
+      "text": "Manning01 :  he used this nation's laws",
+      "type": "L",
+      "timestamp": "2016-10-31 17:17:35"
+    },
+    {
+      "nodeID": "212505",
+      "text": "TRUMP used this nation's laws",
+      "type": "I",
+      "timestamp": "2016-10-31 17:17:35"
+    },
+    {
+      "nodeID": "221420",
+      "text": "TRUMP has never gone bankrupt",
+      "type": "I",
+      "timestamp": "2016-11-01 15:06:32"
+    },
+    {
+      "nodeID": "221443",
+      "text": "TRUMP : I have never gone bankrupt, by the way",
+      "type": "L",
+      "timestamp": "2016-11-01 15:06:34"
+    },
+    {
+      "nodeID": "221519",
+      "text": "TRUMP has taken advantage of the laws",
+      "type": "I",
+      "timestamp": "2016-11-01 15:06:42"
+    },
+    {
+      "nodeID": "221520",
+      "text": "TRUMP :  I 've taken advantage of the laws",
+      "type": "L",
+      "timestamp": "2016-11-01 15:06:42"
+    },
+    {
+      "nodeID": "221631",
+      "text": "they need somebody like me to straighten out that mess",
+      "type": "I",
+      "timestamp": "2016-11-01 15:06:53"
+    },
+    {
+      "nodeID": "221637",
+      "text": "TRUMP : they need somebody like me to straighten out that mess",
+      "type": "L",
+      "timestamp": "2016-11-01 15:06:54"
+    },
+    {
+      "nodeID": "264361",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 12:24:17",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264362",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-09 12:24:18",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "264363",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-09 12:24:18",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "264364",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 12:24:19",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264365",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-09 12:24:19",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "264366",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-09 12:24:20",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "264367",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 12:24:20",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264368",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-09 12:24:21",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "264369",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-09 12:24:21",
+      "scheme": "Restating",
+      "schemeID": "101"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "319796",
+      "fromID": "221637",
+      "toID": "264361",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319797",
+      "fromID": "264361",
+      "toID": "212463",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319798",
+      "fromID": "212465",
+      "toID": "264362",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319799",
+      "fromID": "264362",
+      "toID": "221631",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319800",
+      "fromID": "264361",
+      "toID": "264363",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319801",
+      "fromID": "264363",
+      "toID": "264362",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319802",
+      "fromID": "221520",
+      "toID": "264364",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319803",
+      "fromID": "264364",
+      "toID": "212503",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319804",
+      "fromID": "212505",
+      "toID": "264365",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319805",
+      "fromID": "264365",
+      "toID": "221519",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319806",
+      "fromID": "264364",
+      "toID": "264366",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319807",
+      "fromID": "264366",
+      "toID": "264365",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319808",
+      "fromID": "221443",
+      "toID": "264367",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319809",
+      "fromID": "264367",
+      "toID": "212499",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319810",
+      "fromID": "212501",
+      "toID": "264368",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319811",
+      "fromID": "264368",
+      "toID": "221420",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319812",
+      "fromID": "264367",
+      "toID": "264369",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319813",
+      "fromID": "264369",
+      "toID": "264368",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "221443",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:08:10",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "221520",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:08:10",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "221637",
+      "personID": "2816",
+      "timestamp": "2016-11-01 15:08:10",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140841",
+      "text": "Fight back, by all means - when necessary. But if you can legally buy a gun for that purpose, it means that your attacker is that much more likely to be armed as well. That's a scenario you don't want to encounter - especially if you don't happen to be carrying your weapon at the time.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:24"
+    },
+    {
+      "nodeID": "140842",
+      "text": "The attacker is usually armed in spite of gun control laws. All they do is disarm the law abiding. Not to mention the lack of enforcement on criminals.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:24"
+    },
+    {
+      "nodeID": "140843",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:52:24"
+    },
+    {
+      "nodeID": "140844",
+      "text": "Coincidentally, see my most recent post in the 'Philippines' thread.  If you look at the proportion of (for example) murders in the UK, you will find that a piffling 7% of homicides were carried out by shooting in 07/08 (and 8% in 06/07). To say that 'most attackers are armed' is missing the mark by a factor of 7. Incidentally, over 50% of homicides were committed by gun in the US. And you can't blame it on the gans, either (although they certainly contributed). EDIT: NATO posted. I feel that this is a suitable reply to his post, too - although I'd add that the media in any country does tend to blow statistics out of proportion. Or take a single incident and imply that it is a nationwide epidemic.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:24"
+    },
+    {
+      "nodeID": "140845",
+      "text": "Armed does include knives, axes, clubs etc!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:24"
+    },
+    {
+      "nodeID": "140846",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:52:24"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184018",
+      "fromID": "140842",
+      "toID": "140843",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184019",
+      "fromID": "140843",
+      "toID": "140841",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184020",
+      "fromID": "140845",
+      "toID": "140846",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184021",
+      "fromID": "140846",
+      "toID": "140844",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

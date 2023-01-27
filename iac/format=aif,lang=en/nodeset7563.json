@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143993",
+      "text": "U.S. Supreme Court 319 U.S. 105 (1943) MURDOCK v. COMMONWEALTH OF PENNSYLVANIA and seven other cases, including JONES v. CITY OF OPELIKA, 319 U.S. 105 (1943) 'It is contended, however, that the fact that the license tax can suppress or control this activity is unimportant [319 U.S. 105, 113] if it does not do so. But that is to disregard the nature of this tax. It is a license tax ? a flat tax imposed on the exercise of a privilege granted by the Bill of Rights. A state may not impose a charge for the enjoyment of a right granted by the federal constitution.'",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:22"
+    },
+    {
+      "nodeID": "143994",
+      "text": "No more poll tax on us 'darkies' voting either~!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:22"
+    },
+    {
+      "nodeID": "143995",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:59:22"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186258",
+      "fromID": "143994",
+      "toID": "143995",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186259",
+      "fromID": "143995",
+      "toID": "143993",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

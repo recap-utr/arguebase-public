@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "150129",
+      "text": "Sometimes the law is an XXX, and juries are dumber than you might expect. In general terms, the law should encourage people finding a firearm to call the police. It's generally not a good idea to be walking the streets taking them to the police. What should have happened in this case (assuming all is as it seems) was that the case should have been dropped as a prosecution was not in the public interest, and similarly the jury should have told them where to stick it, as they have in other cases where the law as written has produced an unjust result (as it happens the law itself is not usually at fault, just that the particular situation has not been envisaged). I just hope a pardon is issued for the unfortunate victim of this.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:12:03"
+    },
+    {
+      "nodeID": "150130",
+      "text": "No what should've happened was Mr. Clarke not being arrested at all, over a matter of a technicality. With the UK always offering so many 'gun amnesties', always telling criminals that they can turn in their illegally possessed guns and there will be no move to prosecute them, you'd think the officials would extend the same courtesy to honest citizens, that they do to violent criminals.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:12:03"
+    },
+    {
+      "nodeID": "150131",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:12:03"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "190580",
+      "fromID": "150130",
+      "toID": "150131",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190581",
+      "fromID": "150131",
+      "toID": "150129",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

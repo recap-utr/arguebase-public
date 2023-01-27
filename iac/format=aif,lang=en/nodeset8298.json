@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "155373",
+      "text": "'This started out as a documentary on gun violence in America, but the largest mass murder in our history was just committed--without the use of a single gun! Not a single bullet fired! No bomb was set off, no missile was fired, no weapon (i.e., a device that was solely and specifically manufactured to kill humans) was used. A boxcutter!--I can't stop thinking about this. A thousand gun control laws would not have prevented this massacre.' - Michael Moore What does this mean? I don't speak Michael Moore, can an anti-gunner please translate?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:23:41"
+    },
+    {
+      "nodeID": "155374",
+      "text": "Unfortunately, Michael Moore is a XXXXX. While a thousand gun control laws couldn't prevent 9-11, if there weren't ANY gun control laws, 9-11 would surely have been preventable. But, Michael Moore, being a XXXXX, would never be able to draw such a logical conclusion. It isn't 'liberal' enough for his tastes. emoticon_xkill",
+      "type": "I",
+      "timestamp": "2016-03-08 20:23:41"
+    },
+    {
+      "nodeID": "155375",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:23:41"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194286",
+      "fromID": "155374",
+      "toID": "155375",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194287",
+      "fromID": "155375",
+      "toID": "155373",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

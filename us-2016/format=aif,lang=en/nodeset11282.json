@@ -1,0 +1,350 @@
+{
+  "nodes": [
+    {
+      "nodeID": "211916",
+      "text": "numerikal : Trump claiming he hasn't gone bankrupt",
+      "type": "L",
+      "timestamp": "2016-10-31 17:12:59"
+    },
+    {
+      "nodeID": "211918",
+      "text": "TRUMP has gone bankrupt",
+      "type": "I",
+      "timestamp": "2016-10-31 17:12:59"
+    },
+    {
+      "nodeID": "211921",
+      "text": "kidcrumb : technically \"he\" hasnt",
+      "type": "L",
+      "timestamp": "2016-10-31 17:12:59"
+    },
+    {
+      "nodeID": "211923",
+      "text": "technically \"TRUMP\" hasnt",
+      "type": "I",
+      "timestamp": "2016-10-31 17:12:59"
+    },
+    {
+      "nodeID": "211956",
+      "text": "tyler4693 : He hasn't",
+      "type": "L",
+      "timestamp": "2016-10-31 17:13:02"
+    },
+    {
+      "nodeID": "211958",
+      "text": "TRUMP hasn't gone bankrupt",
+      "type": "I",
+      "timestamp": "2016-10-31 17:13:03"
+    },
+    {
+      "nodeID": "211963",
+      "text": "tyler4693 : his company did",
+      "type": "L",
+      "timestamp": "2016-10-31 17:13:03"
+    },
+    {
+      "nodeID": "211965",
+      "text": "TRUMPS company did",
+      "type": "I",
+      "timestamp": "2016-10-31 17:13:03"
+    },
+    {
+      "nodeID": "221420",
+      "text": "TRUMP has never gone bankrupt",
+      "type": "I",
+      "timestamp": "2016-11-01 15:06:32"
+    },
+    {
+      "nodeID": "221423",
+      "text": "TRUMP'S companies have gone bankrupt",
+      "type": "I",
+      "timestamp": "2016-11-01 15:06:32"
+    },
+    {
+      "nodeID": "221428",
+      "text": "WALLACE : your companies have gone bankrupt",
+      "type": "L",
+      "timestamp": "2016-11-01 15:06:32"
+    },
+    {
+      "nodeID": "221441",
+      "text": "TRUMP : I have never",
+      "type": "L",
+      "timestamp": "2016-11-01 15:06:34"
+    },
+    {
+      "nodeID": "221443",
+      "text": "TRUMP : I have never gone bankrupt, by the way",
+      "type": "L",
+      "timestamp": "2016-11-01 15:06:34"
+    },
+    {
+      "nodeID": "264313",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 10:13:55",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264314",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-09 10:13:57",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "264315",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-09 10:13:58",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "264316",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 10:13:59",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264317",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-09 10:14:00",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "264318",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-09 10:14:01",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "264319",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 10:14:02",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264320",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-09 10:14:04",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "264321",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-09 10:14:05",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "264322",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 10:14:07",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264323",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-09 10:14:09",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "264324",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-09 10:14:09",
+      "scheme": "Restating",
+      "schemeID": "101"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "319716",
+      "fromID": "221443",
+      "toID": "264313",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319717",
+      "fromID": "264313",
+      "toID": "211916",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319718",
+      "fromID": "211918",
+      "toID": "264314",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319719",
+      "fromID": "264314",
+      "toID": "221420",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319720",
+      "fromID": "264313",
+      "toID": "264315",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319721",
+      "fromID": "264315",
+      "toID": "264314",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319722",
+      "fromID": "221443",
+      "toID": "264316",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319723",
+      "fromID": "264316",
+      "toID": "211921",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319724",
+      "fromID": "211923",
+      "toID": "264317",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319725",
+      "fromID": "264317",
+      "toID": "221420",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319726",
+      "fromID": "264316",
+      "toID": "264318",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319727",
+      "fromID": "264318",
+      "toID": "264317",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319728",
+      "fromID": "221441",
+      "toID": "264319",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319729",
+      "fromID": "264319",
+      "toID": "211956",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319730",
+      "fromID": "211958",
+      "toID": "264320",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319731",
+      "fromID": "264320",
+      "toID": "221420",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319732",
+      "fromID": "264319",
+      "toID": "264321",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319733",
+      "fromID": "264321",
+      "toID": "264320",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319734",
+      "fromID": "221428",
+      "toID": "264322",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319735",
+      "fromID": "264322",
+      "toID": "211963",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319736",
+      "fromID": "211965",
+      "toID": "264323",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319737",
+      "fromID": "264323",
+      "toID": "221423",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319738",
+      "fromID": "264322",
+      "toID": "264324",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319739",
+      "fromID": "264324",
+      "toID": "264323",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "221428",
+      "personID": "2816",
+      "timestamp": "2016-11-01 15:08:10",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "221441",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:08:10",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "221443",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:08:10",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

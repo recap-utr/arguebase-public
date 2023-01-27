@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "149126",
+      "text": "A person may sell a firearm to an unlicensed resident of his State, if he does not know or have reasonable cause to believe the person is prohibited from receiving or possessing firearms under Federal law. A person may loan or rent a firearm to a resident of any State for temporary use for lawful sporting purposes, if he does not know or have reasonable cause to believe the person is prohibited from receiving or possessing firearms under Federal law. A person may sell or transfer a firearm to a licensee in any State. However, a firearm other than a curio or relic may not be transferred interstate to a licensed collector. [18 U.S.C. 922(a)(3) and (5), 922(d), 27 CFR 478.29 and 478.30] A person may only acquire a firearm within the person's own State, except that he or she may purchase or otherwise acquire a rifle or shotgun, in person, at a licensee's premises in any State, provided the sale complies with State laws applicable in the State of sale and the State where the purchaser resides. A person may borrow or rent a firearm in any State for temporary use for lawful sporting purposes. [18 U.S.C. 922(a)(3) and (5), 922(b)(3), 27 CFR 478.29 and 478.30]",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:04"
+    },
+    {
+      "nodeID": "149127",
+      "text": "I think a more appropriate question would address what laws you believe would have been effective in preventing the scenario that you inquire about. Justin",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:04"
+    },
+    {
+      "nodeID": "149128",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:10:04"
+    },
+    {
+      "nodeID": "149129",
+      "text": "While I am not a huge fan of polls, one of the positions often held by those of us on the pro gun side of the debate is that those in favor of stricter firearms law, are not familiar with firearms or current firearms law. I would be interested to know what level of knowledge is possessed by both sides of the argument. Please be honest.  Justin",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:04"
+    },
+    {
+      "nodeID": "149130",
+      "text": "Just to contribute, I'm pro-gun, have had training in the proper use and laws in my area, and have owned weapons for more than 30 years.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:04"
+    },
+    {
+      "nodeID": "149131",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:10:04"
+    },
+    {
+      "nodeID": "149132",
+      "text": "I think gun registration could stop gun purchases. People would be more hesitant to purchase a gun for another if they knew the gun was legally registered in their name.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:04"
+    },
+    {
+      "nodeID": "149133",
+      "text": "Well then you'd be dead wrong! Look at California, New York, New Jersey, and all other states with gun registration, and the number of firearms-related crimes and stolen guns that they have. And just because you ticked me off with this post of yours I'm gonna prove to you that you're wrong. As it is now we already have a backdoor form of gun registration; the ATF has sales records for everybody that's ever bought a gun from a licensed dealer, so they know what serial number belongs to what name and what address. And this registration has never stopped straw purchases from taking place. Although if you stupid gun fearing liberals would stop pressing laws that would limit gun sales to one per month then maybe the ATF could use this registration system and locate potential straw purchasers through their bulk purchase records.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:04"
+    },
+    {
+      "nodeID": "149134",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:10:04"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189868",
+      "fromID": "149127",
+      "toID": "149128",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189869",
+      "fromID": "149128",
+      "toID": "149126",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189870",
+      "fromID": "149130",
+      "toID": "149131",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189871",
+      "fromID": "149131",
+      "toID": "149129",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189872",
+      "fromID": "149133",
+      "toID": "149134",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189873",
+      "fromID": "149134",
+      "toID": "149132",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

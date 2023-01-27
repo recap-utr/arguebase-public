@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "137865",
+      "text": "This discussion is kind of unrelated to abortion because a link between abortion being wrong and someone not helping another in need doesn't exist.  If you believe thief is wrong you don't have to become a police officer to show this. To answer your question...who knows, identifying the true problem is the start.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:53"
+    },
+    {
+      "nodeID": "137866",
+      "text": "No one mentioned helping or not helping people here, or even dealing with the consquences of pregnancy at all. Its more; 'If abortion were banned, what measures or research would you suggest to reduce the pressure for people to have illegal ones or unwanted pregnancies'.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:53"
+    },
+    {
+      "nodeID": "137867",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:45:53"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181898",
+      "fromID": "137866",
+      "toID": "137867",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181899",
+      "fromID": "137867",
+      "toID": "137865",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "145250",
+      "text": "Its yet another definitional issue. Pure semantics not science. No thanks, I find myself becoming anti-semantic. And whats worse your link requires one be a member to even read the darn thing. But I can guess the nature of it.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:56"
+    },
+    {
+      "nodeID": "145251",
+      "text": "** Funny how you can dismiss something as 'just a matter of semantics' when you admit you haven't even read it.  Try this link-- http://www.sciencedaily.com/releases/2007/06/070611154001.htm",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:56"
+    },
+    {
+      "nodeID": "145252",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:01:56"
+    },
+    {
+      "nodeID": "145253",
+      "text": "point\u00b7less  point\u00b7less [p\u00f3yntl&#601;ss] adj 1. without purpose or benefit: having no purpose, use, or sense, or any positive or beneficial effect",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:56"
+    },
+    {
+      "nodeID": "145254",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:01:56"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187148",
+      "fromID": "145251",
+      "toID": "145252",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187149",
+      "fromID": "145252",
+      "toID": "145250",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187150",
+      "fromID": "145253",
+      "toID": "145254",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187151",
+      "fromID": "145254",
+      "toID": "145251",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151600",
+      "text": "Violent crime rate. 1989 = 666.9 1999 = 523.0 2008 = 454.5",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:07"
+    },
+    {
+      "nodeID": "151601",
+      "text": "Oh My. That is the lowest number on the whole chart!  Murder and -- nonnegligent manslaughter rate",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:08"
+    },
+    {
+      "nodeID": "151602",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:15:08"
+    },
+    {
+      "nodeID": "151603",
+      "text": "The serious violent crimes included are rape, robbery, aggravated assault, and homicide.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:08"
+    },
+    {
+      "nodeID": "151604",
+      "text": "And the good news is that this good trend has continued. According to the latest FBI UCR.  Crime in the United States -- by Volume and Rate per 100,000 Inhabitants, 1989&#8211;2008",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:08"
+    },
+    {
+      "nodeID": "151605",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:15:08"
+    },
+    {
+      "nodeID": "151606",
+      "text": "This is no different than the discredited Kellerman study!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:08"
+    },
+    {
+      "nodeID": "151607",
+      "text": "Oh sure there is! I bet this one was printed on recycled paper. ;)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:08"
+    },
+    {
+      "nodeID": "151608",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:15:08"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191614",
+      "fromID": "151601",
+      "toID": "151602",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191615",
+      "fromID": "151602",
+      "toID": "151600",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191616",
+      "fromID": "151604",
+      "toID": "151605",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191617",
+      "fromID": "151605",
+      "toID": "151603",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191618",
+      "fromID": "151607",
+      "toID": "151608",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191619",
+      "fromID": "151608",
+      "toID": "151606",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152008",
+      "text": "and consider that nobody likes to make this decision and nobody wants to kill a human life, life just sometimes has unfortunate circumstances. We are not barbaric killers, just people who make mistakes like everybody else.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:00"
+    },
+    {
+      "nodeID": "152009",
+      "text": "I'm a little confused by this and it seems you may be confused yourself. If you have so much doubt about your decision then perhaps you aren't making the correct one. Often times people conflict with what they want and what they know to be right.  I really hate how some pro-lifers go around talking hate to people that have abortions....yes it is wrong but so is making someone feel worthless. Regardless of what a pro-lifer does, abortion is still going to be wrong...I think many people miss this point. If some pushy, arrogant, selfish, a-hole came up to me and started preaching to me how theft is wrong I would probably be turned off by him but I would still have to realize that it isn't these people that decide what is wrong....right and wrong just are what they are (an absolute if you will). Since you don't believe in a God you say you trust your heart. I can advise that you should be careful of this as some tend to make their heart believe what is right is what they want....a foolish mistake.  Anyway, it seems like we are all trying to suck to you here...I doubt you will change your mind but it seems you are confused and should probably give it another week atleast. Hope this helps...if you wanted any help that is",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:00"
+    },
+    {
+      "nodeID": "152010",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:16:00"
+    },
+    {
+      "nodeID": "152011",
+      "text": "maybe you can postpone it one more week and think about it for one more week, and talk to others that love you (your boyfriend does not count). In the event you keep your appointment on Saturday, all I can say is I'm sorry, that you have to go through this event. I hope you will be okay.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:00"
+    },
+    {
+      "nodeID": "152012",
+      "text": "This is exactly what I said in a pm to her. I also suggested that she talk to women who have had abortions, who have not, who have had adoptions, and who have been adopted. I wish there was some kind of 'place' you could go to automatically get this kind of dialogue. Not internet sites, but face to face stuff. Want to start a counseling center? :)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:00"
+    },
+    {
+      "nodeID": "152013",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:16:00"
+    },
+    {
+      "nodeID": "152014",
+      "text": "Legality does not matter. Religous implications do not matter. Other peoples moral considerations do not matter. What matters is YOU and what YOU are going to think about yourself in 5 years.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:00"
+    },
+    {
+      "nodeID": "152015",
+      "text": "Exact, to the point, & beautiful.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:00"
+    },
+    {
+      "nodeID": "152016",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:16:00"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191906",
+      "fromID": "152009",
+      "toID": "152010",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191907",
+      "fromID": "152010",
+      "toID": "152008",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191908",
+      "fromID": "152012",
+      "toID": "152013",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191909",
+      "fromID": "152013",
+      "toID": "152011",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191910",
+      "fromID": "152015",
+      "toID": "152016",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191911",
+      "fromID": "152016",
+      "toID": "152014",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

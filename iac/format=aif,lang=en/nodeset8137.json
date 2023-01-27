@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152951",
+      "text": "maybe repealing the assault weapons ban wasnt such a good idea do I hear some gun nuts saying oops",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:13"
+    },
+    {
+      "nodeID": "152952",
+      "text": "So let's see...it's already illegal for an ex-con to be in possession of any kind of a firearm, and you're saying that the banning of particular cosmetic features on a firearm would have somehow stopped this from happening? How come you haven't gotten back to me about the North Hollywood Shootout of 1997? Why haven't you confronted the fact that the AWB did nothing to stop two criminals armed with AK-47s from holding the entire California police force at bay? I don't know who's stupider, you or Galileo. What you're suggesting is like trying to stop bank robberies by banning the wearing of ski masks.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:13"
+    },
+    {
+      "nodeID": "152953",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:18:13"
+    },
+    {
+      "nodeID": "152954",
+      "text": "Actually, this guy was an ex-con. It's illegal for a convicted felon to own firearms. Galileo actually helped us more than he helped you. This proves once again that criminals will always refuse to surrender their weapons.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:13"
+    },
+    {
+      "nodeID": "152955",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:18:13"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192566",
+      "fromID": "152952",
+      "toID": "152953",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192567",
+      "fromID": "152953",
+      "toID": "152951",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192568",
+      "fromID": "152954",
+      "toID": "152955",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192569",
+      "fromID": "152955",
+      "toID": "152951",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

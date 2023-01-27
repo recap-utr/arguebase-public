@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "153578",
+      "text": "I personally am astounded at the overreaction of the government in response to a handfull of shootings in NO. Sending in the army in full force, confiscating guns and talking about an 'insurgency' just because of a couple of crackpots have been firing their guns. On an average day in New York there are 10 times as many reports of shootings, yet I don't see such a massive military response over there...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:35"
+    },
+    {
+      "nodeID": "153579",
+      "text": "Well, if they've re-established control in New Orleans(and it seems they have), then taking a gun away from someone carrying it on the street would be what the police normally do in any city. If they were taking it away from peoples' homes, and not letting them keep them, that would be over and above what they normally do. (I'm very pro-2nd Amendment, so don't get me wrong here. I'm just pointing out that taking guns away from people happens in every city every day) I also think that it's kind of disingenuous to complain about the military coming in--just a week ago everyone was criticizing the govt. for NOT sending in the military. Now people are criticizing them for doing it???",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:35"
+    },
+    {
+      "nodeID": "153580",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:19:35"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193010",
+      "fromID": "153579",
+      "toID": "153580",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193011",
+      "fromID": "153580",
+      "toID": "153578",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

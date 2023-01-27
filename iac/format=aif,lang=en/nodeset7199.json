@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139138",
+      "text": "my opinion, their banning a gun because of the way it looks they seem to think an ak47 is worse than a regular gun because it looks like a military gun the only true (assault weapon) is fully automatic i have. sereral ak47s but their semi -auto thats not an assault weapon!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:33"
+    },
+    {
+      "nodeID": "139139",
+      "text": "I think you have your image of an assault weapon slightly skewed. an assault weapon by its very name is a weapon designed to harm another human. this does not mean full auto it just means that it was never designed to be a target/hunting/self defense weapon.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:33"
+    },
+    {
+      "nodeID": "139140",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:48:33"
+    },
+    {
+      "nodeID": "139141",
+      "text": "Actually you are incorrect. The most commonly used rifles on the competition circuit are so-called 'assault weapons'. The 'assault weapon' moniker is a term just recently fashioned to describe a military looking weapon. There are several target competitions designed solely for these types of rifles.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:33"
+    },
+    {
+      "nodeID": "139142",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:48:33"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182816",
+      "fromID": "139139",
+      "toID": "139140",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182817",
+      "fromID": "139140",
+      "toID": "139138",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182818",
+      "fromID": "139141",
+      "toID": "139142",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182819",
+      "fromID": "139142",
+      "toID": "139139",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

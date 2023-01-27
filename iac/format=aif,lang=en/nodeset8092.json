@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152303",
+      "text": "or join the real world and become a free thinker. but don't try to tell us evolution is wrong or has holes. its propsterious.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:45"
+    },
+    {
+      "nodeID": "152304",
+      "text": "Actually, if you want to check, you will find that biologists themselves will point out the holes. We still have a lot to learn. Many of the holes have been closed even in my lifetime and the creationist god-of-the-gaps is being reduced to smaller and smaller gaps. But if you want a creationist to 'join the real world', you're going to have to do more than be offensive and insulting. You might present some actual facts to support your position. Of course, I presume that you will actually educate yourself before presenting the facts. Have a nice day.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:45"
+    },
+    {
+      "nodeID": "152305",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:16:45"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192110",
+      "fromID": "152304",
+      "toID": "152305",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192111",
+      "fromID": "152305",
+      "toID": "152303",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

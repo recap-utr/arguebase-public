@@ -1,0 +1,241 @@
+{
+  "nodes": [
+    {
+      "nodeID": "190700",
+      "text": "Andewz111 : Three times so far tonight he's said he's been waiting for 10 minutes",
+      "type": "L",
+      "timestamp": "2016-08-08 13:43:07"
+    },
+    {
+      "nodeID": "190702",
+      "text": "three times so far tonight Webb has said he's been waiting for 10 minutes",
+      "type": "I",
+      "timestamp": "2016-08-08 13:43:07"
+    },
+    {
+      "nodeID": "190712",
+      "text": "Andewz111 : Oh! A fourth time",
+      "type": "L",
+      "timestamp": "2016-08-08 13:43:08"
+    },
+    {
+      "nodeID": "190714",
+      "text": "fourth time has Webb said he has been waiting for 10 minutes",
+      "type": "I",
+      "timestamp": "2016-08-08 13:43:08"
+    },
+    {
+      "nodeID": "190738",
+      "text": "Calvengeance :  \"Andewz111, we've reviewed and it seems he has been waiting for a total of only 8 minutes. More after these messages.\"",
+      "type": "L",
+      "timestamp": "2016-08-08 13:43:11"
+    },
+    {
+      "nodeID": "190740",
+      "text": "\"Andewz111, we've reviewed and it seems he has been waiting for a total of only 8 minutes. More after these messages.\"",
+      "type": "I",
+      "timestamp": "2016-08-08 13:43:11"
+    },
+    {
+      "nodeID": "215184",
+      "text": "WEBB : I 've been trying to get in this conversation for about 10 minutes",
+      "type": "L",
+      "timestamp": "2016-11-01 13:10:24"
+    },
+    {
+      "nodeID": "215278",
+      "text": "WEBB : I would say this . I 've been waiting for 10 minutes . I will say this",
+      "type": "L",
+      "timestamp": "2016-11-01 13:10:33"
+    },
+    {
+      "nodeID": "215280",
+      "text": "WEBB would say this . WEBB has been waiting for 10 minutes . WEBB will say this",
+      "type": "I",
+      "timestamp": "2016-11-01 13:10:33"
+    },
+    {
+      "nodeID": "262397",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-03 17:07:29",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "262398",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2017-03-03 17:07:29",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "262399",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2017-03-03 17:07:30",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "262400",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-03 17:07:30",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "262401",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2017-03-03 17:07:31",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "262402",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2017-03-03 17:07:31",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "262403",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-03 17:07:32",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "262404",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-03 17:07:32",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "262405",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-03 17:07:33",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "316462",
+      "fromID": "215184",
+      "toID": "262397",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316463",
+      "fromID": "262397",
+      "toID": "190700",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316464",
+      "fromID": "215184",
+      "toID": "262398",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316465",
+      "fromID": "262398",
+      "toID": "190702",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316466",
+      "fromID": "262397",
+      "toID": "262399",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316467",
+      "fromID": "262399",
+      "toID": "262398",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316468",
+      "fromID": "215278",
+      "toID": "262400",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316469",
+      "fromID": "262400",
+      "toID": "190712",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316470",
+      "fromID": "215278",
+      "toID": "262401",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316471",
+      "fromID": "262401",
+      "toID": "190714",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316472",
+      "fromID": "262400",
+      "toID": "262402",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316473",
+      "fromID": "262402",
+      "toID": "262401",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316474",
+      "fromID": "215278",
+      "toID": "262403",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316475",
+      "fromID": "262403",
+      "toID": "190738",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316476",
+      "fromID": "190740",
+      "toID": "262404",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316477",
+      "fromID": "262404",
+      "toID": "215280",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316478",
+      "fromID": "262403",
+      "toID": "262405",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316479",
+      "fromID": "262405",
+      "toID": "262404",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152022",
+      "text": "CCW LAWS ARE FOR TRACKING GUN OWNERS WHO EXERCISE THIER RIGHTS!!!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:02"
+    },
+    {
+      "nodeID": "152023",
+      "text": "I agree. What is the point? Felons with firearms do not bother with CCW licenses.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:03"
+    },
+    {
+      "nodeID": "152024",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:16:03"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191916",
+      "fromID": "152023",
+      "toID": "152024",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191917",
+      "fromID": "152024",
+      "toID": "152022",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

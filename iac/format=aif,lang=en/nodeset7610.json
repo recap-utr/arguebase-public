@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "144964",
+      "text": "Maybe because your solution is government and their record in that area is abysmal. Medicare, Medicaid and VA healthcare are all broken. Perhaps if the government could fix them then they might be trusted to not screw up the total healthcare system.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:10"
+    },
+    {
+      "nodeID": "144965",
+      "text": "Really? The Republicans have just discovered that 80% of hip replacements are done through Medicare and that the waiting time is much shorter than in Canada.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:10"
+    },
+    {
+      "nodeID": "144966",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:01:10"
+    },
+    {
+      "nodeID": "144967",
+      "text": "So you are saying the US system is better?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:10"
+    },
+    {
+      "nodeID": "144968",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:01:10"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186942",
+      "fromID": "144965",
+      "toID": "144966",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186943",
+      "fromID": "144966",
+      "toID": "144964",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186944",
+      "fromID": "144967",
+      "toID": "144968",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186945",
+      "fromID": "144968",
+      "toID": "144965",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

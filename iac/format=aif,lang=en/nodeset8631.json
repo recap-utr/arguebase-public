@@ -1,0 +1,121 @@
+{
+  "nodes": [
+    {
+      "nodeID": "160517",
+      "text": "'Isn't evil the absence of good?'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:12"
+    },
+    {
+      "nodeID": "160518",
+      "text": "Someone who does evil things isn't simply not doing good things, he is specifically doing evil. Evil is not the absence of good.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:12"
+    },
+    {
+      "nodeID": "160519",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:35:12"
+    },
+    {
+      "nodeID": "160520",
+      "text": "'Professor. All previous attempts to explain how the process works have failed. Since no-one has ever observed the process of evolution at work and cannot even prove that this process is an on-going endeavor, are you not teaching your opinion, sir? Are you now not a scientist, but a priest?'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:12"
+    },
+    {
+      "nodeID": "160521",
+      "text": "The first sentence is inaccurate, as is the first part of the second sentence. Therefore the quesion of 'are you not teaching your opinion, sir?' is moot. The theory of evolution has nothing to do with opinion. It matters not whether or not anyone believes in it. Evolution has been observed. There is no known evidence to suggest that evolution does not occur.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:12"
+    },
+    {
+      "nodeID": "160522",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:35:13"
+    },
+    {
+      "nodeID": "160523",
+      "text": "Define evil. The concept of evil is very subjective. If something is truly evil, then there must be an absolute concept of evil. But you will never come to agreement with everyone else in the world as to what makes something truly evil or good. What is your standard for determining what is evil? Regarding the post above... Hmmm... Have you ever seen the planet Pluto? How about Saturn? Have you ever measured the sun with your own hands? Have you ever walked completely around the earth to show that it was a sphere (roughly)? The point is, there are many things that we accept as true because all known evidence suggests that it is true and no known evidence suggests that it is not true.  Such is the case with evolution. Yes, the process of evolution has been observed and recorded by individuals. Just because YOU (general you) haven't witnessed it personally does not mean that you must accept it on faith alone. You could set up your own experiment or set out to study it for yourself and observe firsthand how it happens. But some people choose to learn from other people's experience and accept the research of others.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:13"
+    },
+    {
+      "nodeID": "160524",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:35:13"
+    },
+    {
+      "nodeID": "160525",
+      "text": "Define evil. The concept of evil is very subjective. If something is truly evil, then there must be an absolute concept of evil. But you will never come to agreement with everyone else in the world as to what makes something truly evil or good. What is your standard for determining what is evil?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:13"
+    },
+    {
+      "nodeID": "160526",
+      "text": "Yes, it's very subjective. I was using evil as an example that was incorrectly used on the website. Even though evil is subjective, you can still be evil. (you can do evil to take away your goodness, but the only way to make yourself colder is by removing your heat, not adding 'cold')",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:13"
+    },
+    {
+      "nodeID": "160527",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:35:13"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "197944",
+      "fromID": "160518",
+      "toID": "160519",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197945",
+      "fromID": "160519",
+      "toID": "160517",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197946",
+      "fromID": "160521",
+      "toID": "160522",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197947",
+      "fromID": "160522",
+      "toID": "160520",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197948",
+      "fromID": "160523",
+      "toID": "160524",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197949",
+      "fromID": "160524",
+      "toID": "160518",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197950",
+      "fromID": "160526",
+      "toID": "160527",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197951",
+      "fromID": "160527",
+      "toID": "160525",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

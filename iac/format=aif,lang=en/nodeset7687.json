@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "146289",
+      "text": "Ugh, the stupidity. I read the first chapter, here's some good excerpts.  It's helpful if one understands evolution before one attempts to debunk it.  That's just a blatant lie. The vast majority of mutations are actually neutral.  One word: archaeopteryx.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:56"
+    },
+    {
+      "nodeID": "146290",
+      "text": "I know what you mean. You should see some of the other 'books' he has at his site as well. Well, now we know that Muslim creationists are even nuttier than Christian creationists, but both still use the same twisted ideas and concepts to justify their pseudo-science of creationism (Read: Religious beliefs). ;)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:56"
+    },
+    {
+      "nodeID": "146291",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:03:57"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187870",
+      "fromID": "146290",
+      "toID": "146291",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187871",
+      "fromID": "146291",
+      "toID": "146289",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

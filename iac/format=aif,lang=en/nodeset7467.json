@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "142886",
+      "text": "Haha. How did I know that you were going to say that?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:46"
+    },
+    {
+      "nodeID": "142887",
+      "text": "But he is right: Ray offered yet more evidence that he is at least as stupid as HUnter and you totally failed to refute that evidence. What's the current odds BTW that both Hunter and Ray will fail to address Pandion's evidence that Hitler was YEC? :)",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:46"
+    },
+    {
+      "nodeID": "142888",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:56:46"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185480",
+      "fromID": "142887",
+      "toID": "142888",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185481",
+      "fromID": "142888",
+      "toID": "142886",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

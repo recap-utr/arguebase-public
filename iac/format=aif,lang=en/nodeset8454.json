@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157548",
+      "text": "I am personally saddened that the Pope would take the words of fallible man above the Word of God for whom he serves. Is this not putting man's word (who wasn't there) above God's Word (who was there)? I am just thankful that we have ministries like AiG and ICR who stand up for God's Word - The Bible - and defend it from the very first verse.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:41"
+    },
+    {
+      "nodeID": "157549",
+      "text": "Really, well, the pope sees it differently, what do you want me to do about it? AiG and ICR defend dogma in contradiction to reality, you like that? Not surprising. -Mach",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:41"
+    },
+    {
+      "nodeID": "157550",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:28:41"
+    },
+    {
+      "nodeID": "157551",
+      "text": "Therefore, we can conclude that teaching evolution is not teaching knowledge nor science, and as such, is teaching ignorance (defined as lack of knowledge).",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:42"
+    },
+    {
+      "nodeID": "157552",
+      "text": "So, all knowledge is ignorance, and all events not in the present are ignorance. I'm not following you here. How about we leave the definitions as they are, so that we can differentate true from false? Calling everything ignorance doesn't move us forward in the debate. If we accepeted your claim, we are typing ignorance and concuding ignorance, so what would the point be?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:42"
+    },
+    {
+      "nodeID": "157553",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:28:42"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195816",
+      "fromID": "157549",
+      "toID": "157550",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195817",
+      "fromID": "157550",
+      "toID": "157548",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195818",
+      "fromID": "157552",
+      "toID": "157553",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195819",
+      "fromID": "157553",
+      "toID": "157551",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

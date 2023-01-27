@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "144458",
+      "text": "A very bad thing all around... I would like to see how this turns out.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:10"
+    },
+    {
+      "nodeID": "144459",
+      "text": "Well, the Judge made a ruling late last week that she should not be revived should her breathing stop again, backing the medical assessment of her doctors: http://news.bbc.co.uk/1/hi/health/3723656.stm And yes, very sad. Another dilemma posed by what has become possible through ever advancing medical science.....",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:10"
+    },
+    {
+      "nodeID": "144460",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:00:10"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186580",
+      "fromID": "144459",
+      "toID": "144460",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186581",
+      "fromID": "144460",
+      "toID": "144458",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

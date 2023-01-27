@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151280",
+      "text": "Murdock also wrote that 'although tradition and societal values are important, they cannot be given so much weight that they alone will justify a discriminatory statutory classification.'  Without doing any research I would think that this was the same justification given in freeing the slaves. Because, at the time, many slave owners held that this was the way it had always been and because the Bible says its okay (the same arguments todays gay marriage opponents use). Oh that slippery slope. emoticon_xangel",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:27"
+    },
+    {
+      "nodeID": "151281",
+      "text": "And it also took an amendment to give the slaves rights, not a judge.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:27"
+    },
+    {
+      "nodeID": "151282",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:14:27"
+    },
+    {
+      "nodeID": "151283",
+      "text": "And it will, I guess, take an amendment to deny rights to and make a whole segment of the population second class citizens.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:28"
+    },
+    {
+      "nodeID": "151284",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:14:28"
+    },
+    {
+      "nodeID": "151285",
+      "text": "And why is that? Because the framers of our constitution felt that all white men were equal, the rest were property. It is this kind of ignorant and narrow minded thought that will have people rubbing their heads in 200 years, wondering why gays were ever treated as second class citizens who did not deserve the same rights given to straights.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:28"
+    },
+    {
+      "nodeID": "151286",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:14:28"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191392",
+      "fromID": "151281",
+      "toID": "151282",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191393",
+      "fromID": "151282",
+      "toID": "151280",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191394",
+      "fromID": "151283",
+      "toID": "151284",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191395",
+      "fromID": "151284",
+      "toID": "151281",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191396",
+      "fromID": "151285",
+      "toID": "151286",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191397",
+      "fromID": "151286",
+      "toID": "151281",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

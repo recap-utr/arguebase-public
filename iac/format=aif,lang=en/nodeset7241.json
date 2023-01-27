@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139708",
+      "text": "I agree completely. These christians make up their mind that something is in the bible and whatever it says is what it says. It is so hard to change their opinions.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:51"
+    },
+    {
+      "nodeID": "139709",
+      "text": "you know why? because God touches our hearts like nothing you have ever felt before. it is amazing",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:51"
+    },
+    {
+      "nodeID": "139710",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:49:51"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183210",
+      "fromID": "139709",
+      "toID": "139710",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183211",
+      "fromID": "139710",
+      "toID": "139708",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

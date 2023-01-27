@@ -1,0 +1,74 @@
+{
+  "nodes": [
+    {
+      "nodeID": "212989",
+      "text": "jessigorawr : In terms of gay marriage, great answer Kasich",
+      "type": "L",
+      "timestamp": "2016-10-31 17:21:42"
+    },
+    {
+      "nodeID": "222188",
+      "text": "KASICH believes in traditional marriage",
+      "type": "I",
+      "timestamp": "2016-11-01 15:08:59"
+    },
+    {
+      "nodeID": "222191",
+      "text": "KASICH : I happen to believe in traditional marriage",
+      "type": "L",
+      "timestamp": "2016-11-01 15:08:59"
+    },
+    {
+      "nodeID": "264454",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 13:53:30",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264455",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2017-03-09 13:53:30",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "319982",
+      "fromID": "222191",
+      "toID": "264454",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319983",
+      "fromID": "264454",
+      "toID": "212989",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319984",
+      "fromID": "264454",
+      "toID": "264455",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319985",
+      "fromID": "264455",
+      "toID": "222188",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "222191",
+      "personID": "2580",
+      "timestamp": "2016-11-01 15:09:28",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

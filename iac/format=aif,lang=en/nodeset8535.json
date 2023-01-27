@@ -1,0 +1,253 @@
+{
+  "nodes": [
+    {
+      "nodeID": "158735",
+      "text": "Yep and watch an increase of sexual activity among teens.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:25"
+    },
+    {
+      "nodeID": "158736",
+      "text": "18-19 year olds anyway. It's still illegal for over the counter under the age of 18.  Wait a minute, I fail to see how it not being availible will affect teenagers doing it or not.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:25"
+    },
+    {
+      "nodeID": "158737",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:31:25"
+    },
+    {
+      "nodeID": "158738",
+      "text": "Wait a minute, I fail to see how it not being availible will affect teenagers doing it or not.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:25"
+    },
+    {
+      "nodeID": "158739",
+      "text": "Because it will encourage teens to engage in riskier behavior. Abstinence until marriage is still the best way.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:25"
+    },
+    {
+      "nodeID": "158740",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:31:25"
+    },
+    {
+      "nodeID": "158741",
+      "text": "18-19 year olds anyway. It's still illegal for over the counter under the age of 18.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:25"
+    },
+    {
+      "nodeID": "158742",
+      "text": "Try this scenario. A 15 or 16 year old girl has her 18 year old boyfriend pick up the medication.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:25"
+    },
+    {
+      "nodeID": "158743",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:31:26"
+    },
+    {
+      "nodeID": "158744",
+      "text": "It won't. I'd think any responsible parent with a teen under the age of 18 who has a sound relationship with that teen would discuss the possibility of her becoming sexually active (a normal function in spite of some puritan attitudes) and offer simple avoidance of possible pregnancy and abortion. Like vehicle insurance she may never need it, but going without either one is plain stupid.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:26"
+    },
+    {
+      "nodeID": "158745",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:31:26"
+    },
+    {
+      "nodeID": "158746",
+      "text": "Good. Better yet if they had access to and used birth control to begin with.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:26"
+    },
+    {
+      "nodeID": "158747",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:31:26"
+    },
+    {
+      "nodeID": "158748",
+      "text": "Abstinence until marriage is still the best way.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:26"
+    },
+    {
+      "nodeID": "158749",
+      "text": "Abstinence until you are old enough to handle sexual relationships responsibly should most certainly be preached along with information about and access to birth control. There are plenty of us who have no interest in the institution of marriage - your religion should not determine who amongst is a sexually active adult. Not to mention we have got to stop pushing the gotta get married have a partner to be a happy seccuesful person message - ESPECIALLY TO GIRLS - it will lead to sex, for heaven forbid they be SINGLE.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:26"
+    },
+    {
+      "nodeID": "158750",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:31:26"
+    },
+    {
+      "nodeID": "158751",
+      "text": "Because it will encourage teens to engage in riskier behavior.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:26"
+    },
+    {
+      "nodeID": "158752",
+      "text": "Bah humbug. Their hormones are all the encouragement they need.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:26"
+    },
+    {
+      "nodeID": "158753",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:31:26"
+    },
+    {
+      "nodeID": "158754",
+      "text": "Yep, suppressing natural behavior is always the way to go. We should also get them to stop pooping.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:26"
+    },
+    {
+      "nodeID": "158755",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:31:26"
+    },
+    {
+      "nodeID": "158756",
+      "text": "Its not very risky anymore...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:26"
+    },
+    {
+      "nodeID": "158757",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:31:27"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196666",
+      "fromID": "158736",
+      "toID": "158737",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196667",
+      "fromID": "158737",
+      "toID": "158735",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196668",
+      "fromID": "158739",
+      "toID": "158740",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196669",
+      "fromID": "158740",
+      "toID": "158738",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196670",
+      "fromID": "158742",
+      "toID": "158743",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196671",
+      "fromID": "158743",
+      "toID": "158741",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196672",
+      "fromID": "158744",
+      "toID": "158745",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196673",
+      "fromID": "158745",
+      "toID": "158736",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196674",
+      "fromID": "158746",
+      "toID": "158747",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196675",
+      "fromID": "158747",
+      "toID": "158739",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196676",
+      "fromID": "158749",
+      "toID": "158750",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196677",
+      "fromID": "158750",
+      "toID": "158748",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196678",
+      "fromID": "158752",
+      "toID": "158753",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196679",
+      "fromID": "158753",
+      "toID": "158751",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196680",
+      "fromID": "158754",
+      "toID": "158755",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196681",
+      "fromID": "158755",
+      "toID": "158739",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196682",
+      "fromID": "158756",
+      "toID": "158757",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196683",
+      "fromID": "158757",
+      "toID": "158739",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

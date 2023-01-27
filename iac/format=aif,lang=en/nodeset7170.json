@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138814",
+      "text": "And FYI, 'marriage' was around long before the Bible.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:51"
+    },
+    {
+      "nodeID": "138815",
+      "text": "And so wasn't the universal opinion that homosexuality is unnatural, wrong and to no benefit to Society at all.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:51"
+    },
+    {
+      "nodeID": "138816",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:47:51"
+    },
+    {
+      "nodeID": "138817",
+      "text": "*A little off subject* If gay marriage is legalized, then so should multiple partners for marriage?emoticon_zzzz",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:51"
+    },
+    {
+      "nodeID": "138818",
+      "text": "Yes absolutely remember that polygamous marriage is not only biblical but also the biblical norm. People should be free to form any type of family structure they want to.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:52"
+    },
+    {
+      "nodeID": "138819",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:47:52"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182578",
+      "fromID": "138815",
+      "toID": "138816",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182579",
+      "fromID": "138816",
+      "toID": "138814",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182580",
+      "fromID": "138818",
+      "toID": "138819",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182581",
+      "fromID": "138819",
+      "toID": "138817",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

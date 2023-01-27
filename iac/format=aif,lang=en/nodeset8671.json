@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "161132",
+      "text": "The abilty to reason comes from the abilty to ask the question, why. A hunter animal sees its prey running and runs after it, it doesnt ask itself why it runs, a grass eating animal eats grass, it doesnt ask why it grows. The first thing a human thinks is why, then tries to reason to find an answer. If you combine that with natural instincts, you get a creature that slowly evolves by using reason.  Humans maybe stubborn, they insist there is an answer to everything, and when they cant find that answer using reason and logic, they resort to 'escapism' and answer such questions in a way that hides there lack of understanding, by creating gods to explain the yet unexplainable.  Thats maybe why we pray.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:44"
+    },
+    {
+      "nodeID": "161133",
+      "text": "I think that while may be correct, it sounds too elitist to be accurate. Sane people don't create imaginary friends to explain things. Most tribal religions are very matter of fact. While exotic or fantastic they are very material (lots of talking animals), and also meant to be entertaining. They also incorporate superstitions, which often hold a few survival tips. Also 'primitive' religions revolve around hallucinations, via shamanism and drug use. I think no body asked why; they just got stoned and after they sobered up the human intellect kicks in an tries to reason if what happened was real then it must be some link to the supernatural. I know Judeo-Christian religions are anti drug use in most places, but in ancient times drugs was a very integral part of religion. I have a soft spot in my heart for that 'Jesus Raved' T-shirt.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:44"
+    },
+    {
+      "nodeID": "161134",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:36:44"
+    },
+    {
+      "nodeID": "161135",
+      "text": "That is the kind, not degree. Chimps are not a higher animal. They are different. interesting",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:44"
+    },
+    {
+      "nodeID": "161136",
+      "text": "But does not evolution say that there can be NO difference in kind, simply differences in degree? Evolution does not allow for something of another 'kind.' If chimps are of a different kind, as well as humans, then evolution still falls.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:44"
+    },
+    {
+      "nodeID": "161137",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:36:44"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198384",
+      "fromID": "161133",
+      "toID": "161134",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198385",
+      "fromID": "161134",
+      "toID": "161132",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198386",
+      "fromID": "161136",
+      "toID": "161137",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198387",
+      "fromID": "161137",
+      "toID": "161135",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

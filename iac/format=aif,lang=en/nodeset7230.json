@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139560",
+      "text": "The second amendment says, ... 'shall not be infringed.' I support no gun control. I do support VERY strong penalties for using a gun to commit a crime. That will take the criminals off the street and with them off the street there are no gun control concerns.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:26"
+    },
+    {
+      "nodeID": "139561",
+      "text": "So you support allowing a 10 y/o to buy an Uzi and carry it into a federal court house or school as long as he does not commit a crime? Wow.  And your logic about taking criminals off the street and then having no gun control concerns would be perfect...if we had a finite number of criminals. We don't. New murderers and theives and carjackers and dope dealers and bank robbers and child rapists are born every day.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:26"
+    },
+    {
+      "nodeID": "139562",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:49:26"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183108",
+      "fromID": "139561",
+      "toID": "139562",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183109",
+      "fromID": "139562",
+      "toID": "139560",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

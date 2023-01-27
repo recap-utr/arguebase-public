@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "136629",
+      "text": "might as well sue some doctors too, if they threw all the babies they delivered off cliffs those babys would never grow up to be murderers.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:26"
+    },
+    {
+      "nodeID": "136630",
+      "text": "Sorry to let you know that is the kind of reasoning that is not to far off for anti-gunners. Ideas such as 'we do not know who is a criminal so get them all' kind of rationale is typical. Just like the babies, everyone is INNOCENT, until proven guilty. You can not even begin to restrict rights, assume guilt, or perform pro-active crime prevention without some major civil rights violations.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:26"
+    },
+    {
+      "nodeID": "136631",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:43:26"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181014",
+      "fromID": "136630",
+      "toID": "136631",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181015",
+      "fromID": "136631",
+      "toID": "136629",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

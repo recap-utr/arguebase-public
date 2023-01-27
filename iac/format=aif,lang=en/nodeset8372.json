@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "156437",
+      "text": "If you've noticed, I never point out the flaws in evolution to 'make Creationism true.'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:03"
+    },
+    {
+      "nodeID": "156438",
+      "text": "But that is your goal whether you want to admit it or not. And that is your sole way of defending creationism as you have admitted you cannot argue creationism based on its own merits. Creationism is wrong independent of Evolution. Even if you somehow manage to disprove evolution (along with every science) you still have to even take a single step towards proving Creationism.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:03"
+    },
+    {
+      "nodeID": "156439",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:26:03"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195026",
+      "fromID": "156438",
+      "toID": "156439",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195027",
+      "fromID": "156439",
+      "toID": "156437",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

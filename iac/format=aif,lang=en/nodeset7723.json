@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "146940",
+      "text": "Not exactly the same news. Back in 2006 he wanted to buy up a bunch of stock and then dump it to drive down the price, in some sort of attempt to 'punish' Microsoft. Now it seems he wants Christians to buy and keep the stock, so as to sway votes at shareholders meetings. Of course, either course of action is ludicrous. There's no way these people have the money to steer the course of a corprate giant like Microsoft. I'm perfectly happy to see this church blowing its money this way, but it's a shame about the followers of the church, who may well not really have the spare cash to risk in this sort of endeavor.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:13"
+    },
+    {
+      "nodeID": "146941",
+      "text": "Well, the funny thing is... if he's so public about his plans and even if he succeeds a little, the SEC will probably come in and bankrupt he and his flock and ruin the rest of their lives. He probably would end up facing a fair amount of jail time. Stock manipulation is illegal. And a giant like Microsoft will be out for blood. His being so vocal about it is probably the dumbest thing he could do. This guy is not playing with a very bright bulb. And, yes, you'd think that he'd be pouring all his energy into feeding the poor, helping New Orleans recover from Hurricane George. Some of these christian folk have their priorities so twisted it makes me sick.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:13"
+    },
+    {
+      "nodeID": "146942",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:05:13"
+    },
+    {
+      "nodeID": "146943",
+      "text": "His being so vocal about it is probably the dumbest thing he could do.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:13"
+    },
+    {
+      "nodeID": "146944",
+      "text": "Oh ye of little faith. I'm sure he's capable of being much more stupid than that! emoticon_xgood",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:13"
+    },
+    {
+      "nodeID": "146945",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:05:13"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "188332",
+      "fromID": "146941",
+      "toID": "146942",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188333",
+      "fromID": "146942",
+      "toID": "146940",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188334",
+      "fromID": "146944",
+      "toID": "146945",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188335",
+      "fromID": "146945",
+      "toID": "146943",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

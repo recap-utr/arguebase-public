@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "150050",
+      "text": "India: Dozens of police dead after Maoist ambush - CNN.com  So let's see now. 72 officers murdered today. 900 people murdered in 2009. 721 people murdered in 2008. And India has very, very strict gun control laws. Yet mass killings of this level seem to happen on a regular basis. How can so many people be getting murdered every single year if gun control is supposed to save lives in the first place?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:55"
+    },
+    {
+      "nodeID": "150051",
+      "text": "And you condemn people for dancing in the blood of the victims? That's what you seem to be doing since enough information is not provided to draw any conclusions about the relationship between guns and crime. Weren't these police officers armed? So India should have no gun control laws to disarm dangerous communist rebels? That's you're solution?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:55"
+    },
+    {
+      "nodeID": "150052",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:11:55"
+    },
+    {
+      "nodeID": "150053",
+      "text": "And you condemn people for dancing in the blood of the victims?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:55"
+    },
+    {
+      "nodeID": "150054",
+      "text": "Yes I do. Anytime there's a mass killing, you and your ilk are holding it up as an example of how we need more gun control, how we have to reduce the rights of the people so those that die won't have died in vain.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:55"
+    },
+    {
+      "nodeID": "150055",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:11:55"
+    },
+    {
+      "nodeID": "150056",
+      "text": "Weren't these police officers armed?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:55"
+    },
+    {
+      "nodeID": "150057",
+      "text": "So were the officers on the front lines of the Mumbai massacre. But they didn't shoot back, they hid like cowards. They let people get killed for no good reason.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:55"
+    },
+    {
+      "nodeID": "150058",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:11:55"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "190526",
+      "fromID": "150051",
+      "toID": "150052",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190527",
+      "fromID": "150052",
+      "toID": "150050",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190528",
+      "fromID": "150054",
+      "toID": "150055",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190529",
+      "fromID": "150055",
+      "toID": "150053",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190530",
+      "fromID": "150057",
+      "toID": "150058",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190531",
+      "fromID": "150058",
+      "toID": "150056",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "137115",
+      "text": "It does seem that the dominoes are starting to tumble.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:27"
+    },
+    {
+      "nodeID": "137116",
+      "text": "Yes it does but I have a feeling that it will take the bulldozer of the SCOTUS to make the 11 dominoes of the old confederacy +Utah fall down.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:27"
+    },
+    {
+      "nodeID": "137117",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:44:27"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181364",
+      "fromID": "137116",
+      "toID": "137117",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181365",
+      "fromID": "137117",
+      "toID": "137115",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

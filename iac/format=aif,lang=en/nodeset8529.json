@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "158681",
+      "text": "This one line stuck out because it mentioned evolution in a future context. Something I have not heard before.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:16"
+    },
+    {
+      "nodeID": "158682",
+      "text": "I have not heard of it before either. Any information that you or other member's can gather on this subject would be of great interest. I will also keep my eyes open.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:16"
+    },
+    {
+      "nodeID": "158683",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:31:16"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196630",
+      "fromID": "158682",
+      "toID": "158683",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196631",
+      "fromID": "158683",
+      "toID": "158681",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,151 @@
+{
+  "nodes": [
+    {
+      "nodeID": "155814",
+      "text": "By the same logic many economists use, we could find any number of absurd things. For example there is a well known correlation between skyscraper construction and economic downturn, we could conclude from this that tall buildings depress economies and that recessions can be avoided if we disallow the construction of record-height buildings. The other thing economists need to realise is that economic statistics are entirely historical, they provide empirical information about a particular group at a particular time, not universal truths about mankinds' behaviour in general. Even if we run an experimental design in the realm of human action showing X causes Y, differing social and cultural norms may result in the precise opposite effect at another period of time.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:42"
+    },
+    {
+      "nodeID": "155815",
+      "text": "So, the cavaet is 'The death penalty is a deterrent in the USA TODAY!' I can live with that.emoticon_xgood",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:42"
+    },
+    {
+      "nodeID": "155816",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:24:42"
+    },
+    {
+      "nodeID": "155817",
+      "text": "Considering the avg number of capital punishments a year is around 70..... think of the 4000 babies in the womb that arent guilty of any crimes that are everyday being slaughtered through abortion.....  Just putting some things in perspective for you...... Just as many people died in the world trade center attack on September 11th, thats how many babies die from abortion everyday in America.... There have been 2000 soldiers that have died in Iraq... thats only half the number of babies that die everyday from abortion on our own soil.... What a shame for the 'land of the free' that has 'life, liberty, and the pursuit of happiness'...  THERE IS GENOCIDE HAPPENING AND NO ONE IS STANDING UP FOR THE TRUE INNOCENT AMONG US! in fact the ones against the death penalty ARE FOR ABORTION! Truly they are for the life of the innocent right.... ???? (said sarcatically)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:42"
+    },
+    {
+      "nodeID": "155818",
+      "text": "just bumping this because it seems to have been overlooked...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:42"
+    },
+    {
+      "nodeID": "155819",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:24:42"
+    },
+    {
+      "nodeID": "155820",
+      "text": "With enough of a population size, you can check the effects of dozens of variables at once.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:42"
+    },
+    {
+      "nodeID": "155821",
+      "text": "You can check the statistical relationship between dozens of variables, not the effects of them. For example if I correlated left hand strength with right hand strength across a billion individuals I would probably find a correlation of about 0.93, however this relationship is not causal, cutting off one hand will not result in a 90% strength reduction in the other. Correlational studies like this one can not determine cause and effect.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:42"
+    },
+    {
+      "nodeID": "155822",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:42"
+    },
+    {
+      "nodeID": "155823",
+      "text": "And perhaps you have overlooked the issue of abortion relating to crime. Who knows if were actually aborting future murderers? Aren't you for crime prevention?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:42"
+    },
+    {
+      "nodeID": "155824",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:42"
+    },
+    {
+      "nodeID": "155825",
+      "text": "Here is a link about people who were released prior to the death penalty due to being shown to be innocent (124 people since 1973). It also lists at least seven people who were executed despite strong doubts about their guilt. Of course, it is difficult to officially prove innocence after death since there are no criminal court proceedings for the dead. http://www.deathpenaltyinfo.org/article.php?did=412&scid=6",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:43"
+    },
+    {
+      "nodeID": "155826",
+      "text": "So again, this points to the fact that the appeals system is effective at preventing 'innocent' people from being executed? I had asked for 5 examples of innocent people who were executed. Chemist99a stated that 'we execute too many innocent people'. Someone has yet to give me 5 examples of innocents that we have executed.  And by the way: The information about the seven 'potentially innocent' people that have been executed is quite laughable in some cases.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:43"
+    },
+    {
+      "nodeID": "155827",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:43"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194594",
+      "fromID": "155815",
+      "toID": "155816",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194595",
+      "fromID": "155816",
+      "toID": "155814",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194596",
+      "fromID": "155818",
+      "toID": "155819",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194597",
+      "fromID": "155819",
+      "toID": "155817",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194598",
+      "fromID": "155821",
+      "toID": "155822",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194599",
+      "fromID": "155822",
+      "toID": "155820",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194600",
+      "fromID": "155823",
+      "toID": "155824",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194601",
+      "fromID": "155824",
+      "toID": "155818",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194602",
+      "fromID": "155826",
+      "toID": "155827",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194603",
+      "fromID": "155827",
+      "toID": "155825",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

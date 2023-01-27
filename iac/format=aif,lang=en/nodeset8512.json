@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "158371",
+      "text": "What part of school biology needs evolution to make sense? taking out evolution is not like taking out algebra and equations of curves out of mathematics and still teaching calculus.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:30:37"
+    },
+    {
+      "nodeID": "158372",
+      "text": "So then I guess you could also debate that algebra serves no purpose as well.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:30:37"
+    },
+    {
+      "nodeID": "158373",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:30:37"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196402",
+      "fromID": "158372",
+      "toID": "158373",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196403",
+      "fromID": "158373",
+      "toID": "158371",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

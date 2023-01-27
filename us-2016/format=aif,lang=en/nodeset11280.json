@@ -1,0 +1,111 @@
+{
+  "nodes": [
+    {
+      "nodeID": "211801",
+      "text": "astroGamin : yes charge them pimps",
+      "type": "L",
+      "timestamp": "2016-10-31 17:11:31"
+    },
+    {
+      "nodeID": "211803",
+      "text": "yes charge them pimps",
+      "type": "I",
+      "timestamp": "2016-10-31 17:11:31"
+    },
+    {
+      "nodeID": "221349",
+      "text": "HUCKABEE : the money paid in consumption is paid by everybody , including illegals , prostitutes , pimps , drug dealers , all the people [ timer sounds ] that are freeloading off the system now",
+      "type": "L",
+      "timestamp": "2016-11-01 15:05:17"
+    },
+    {
+      "nodeID": "221351",
+      "text": "the money paid in consumption is paid by everybody , including illegals , prostitutes , pimps , drug dealers , all the people that are freeloading off the system now",
+      "type": "I",
+      "timestamp": "2016-11-01 15:05:17"
+    },
+    {
+      "nodeID": "264309",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 10:02:48",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264310",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2017-03-09 10:02:48",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    },
+    {
+      "nodeID": "264311",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-09 10:02:49",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "264312",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-09 10:02:49",
+      "scheme": "Restating",
+      "schemeID": "101"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "319708",
+      "fromID": "221349",
+      "toID": "264309",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319709",
+      "fromID": "264309",
+      "toID": "211801",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319710",
+      "fromID": "264309",
+      "toID": "264310",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319711",
+      "fromID": "264310",
+      "toID": "221351",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319712",
+      "fromID": "211803",
+      "toID": "264311",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319713",
+      "fromID": "264311",
+      "toID": "221351",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319714",
+      "fromID": "264309",
+      "toID": "264312",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319715",
+      "fromID": "264312",
+      "toID": "264311",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

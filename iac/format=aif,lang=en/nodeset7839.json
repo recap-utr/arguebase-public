@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148640",
+      "text": "So you're saying that the modern day militia no longer utilizes privately owned weapons? In 1792 the militia made use of privately owned weapons and thus the federal government kept a record of privately owned weapons to determine its military readiness.  [/url]",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:55"
+    },
+    {
+      "nodeID": "148641",
+      "text": "No. I am saying. Privately owned guns serve the purpose of the militia, which is all citizens over 17 years of age. I am saying, a list of names and addresses do not serve any purpose of military readiness. My signature, yes it has no bearing on the Brady.org. I appologize for any confusion if anyone has interpreted as so.  Your signature is about gun registration in a gun registration thread.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:55"
+    },
+    {
+      "nodeID": "148642",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:08:56"
+    },
+    {
+      "nodeID": "148643",
+      "text": "A report on military readiness is not the same as putting my name and address of a central database. My name and address in a central database does not serve the militia to judge military readiness.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:56"
+    },
+    {
+      "nodeID": "148644",
+      "text": "So you're saying that the modern day militia no longer utilizes privately owned weapons? In 1792 the militia made use of privately owned weapons and thus the federal government kept a record of privately owned weapons to determine its military readiness.  'These categories included privately owned small arms and accountrements to be reported to the federal government. These were, in most cases, individually owned private property....There was no outrage or even concern expressed then that an inventory of privately owned weaponry and accoutrements reported to the federal government would somehow 'infringe' on the right of the people,' http://www.potomac-inc.org/milret.html 'The Militia Act was about military organization....The Militia Act of 1792 required the states to 'enroll'- that is, registered- gun owners for militia duty just as they had been registered for the King's militia. (See .../196gnd.html and Kates in .../196lrev.html). Registration of ownership and the reporting of private sales would shut down the illegal traffic in firearms and empower local jurisdictions to enforce their local rules and regulations. Registration also creates the mechanism to establish legal categories of gun ownership that could effectively disarm the lawless and the disloyal starting with the NRA's 'armed citizen guerrillas.' That is how we provide for our self-defense under law and government.' http://www.potowmack.org/398chest.html",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:56"
+    },
+    {
+      "nodeID": "148645",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:08:56"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189524",
+      "fromID": "148641",
+      "toID": "148642",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189525",
+      "fromID": "148642",
+      "toID": "148640",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189526",
+      "fromID": "148644",
+      "toID": "148645",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189527",
+      "fromID": "148645",
+      "toID": "148643",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

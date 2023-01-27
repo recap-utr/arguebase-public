@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "153617",
+      "text": "'This case is about free inquiry in education, not about a religious agenda,' said Patrick Gillen of the Thomas More Law Center in his opening statement. The center, based in Ann Arbor, Michigan, lobbies for what it sees as the religious freedom of Christians and is defending the school district.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:42"
+    },
+    {
+      "nodeID": "153618",
+      "text": "So, this statement is from a 'law center' that is dedicated to defend the religious freedom for CHristians. Yet, this isn't about 'religion'. Why do I find that hypocritical.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:42"
+    },
+    {
+      "nodeID": "153619",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:19:42"
+    },
+    {
+      "nodeID": "153620",
+      "text": "Kenneth Miller: These are all elements, as I understand them, of the creation science or the creationist or scientific creationism movement. Now the difference between this movement and intelligent design ironically is that intelligent design has withdrawn the testable scientific predictions made by scientific creationists.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:42"
+    },
+    {
+      "nodeID": "153621",
+      "text": "So Miller says that ID is less worthy, scientifically, than even Young Earth Creationism!!!!!!!!!!!!!!!!!!!!!!!!!!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:42"
+    },
+    {
+      "nodeID": "153622",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:19:42"
+    },
+    {
+      "nodeID": "153623",
+      "text": "Off course if it goes the other way American children can kiss the chance of getting a proper education in science goodbye.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:43"
+    },
+    {
+      "nodeID": "153624",
+      "text": "Well, there are books and scientific journals and what not. This XXXX shows up in my son's science class and he will be hearing each and every day from his mother how it is not science and I will get him access to real science information. Yikes.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:43"
+    },
+    {
+      "nodeID": "153625",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:19:43"
+    },
+    {
+      "nodeID": "153626",
+      "text": "i think it is because you are too logical because with people things do'nt have to make sence",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:43"
+    },
+    {
+      "nodeID": "153627",
+      "text": "No, but some intelligence should be exercised when going to a court of law. For example, the choice of the board on WHO to represent them. Do you think that the judge will be able to totally dismiss in his mind that this group mission is to push a religious agenda?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:43"
+    },
+    {
+      "nodeID": "153628",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:19:43"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193036",
+      "fromID": "153618",
+      "toID": "153619",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193037",
+      "fromID": "153619",
+      "toID": "153617",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193038",
+      "fromID": "153621",
+      "toID": "153622",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193039",
+      "fromID": "153622",
+      "toID": "153620",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193040",
+      "fromID": "153624",
+      "toID": "153625",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193041",
+      "fromID": "153625",
+      "toID": "153623",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193042",
+      "fromID": "153627",
+      "toID": "153628",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193043",
+      "fromID": "153628",
+      "toID": "153626",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

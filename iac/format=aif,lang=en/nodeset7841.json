@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148655",
+      "text": "simple: science has no materialistic origin of anything: dna, rna, brains, eyes, kidneys, potassium, sodium, any of the billions of compounds, time, space, matter, consciosness -- nothing.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:58"
+    },
+    {
+      "nodeID": "148656",
+      "text": "And special creation has no nonmaterial cause for anything either. Come to think of it special creation can only rely on nonmaterial causes.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:58"
+    },
+    {
+      "nodeID": "148657",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:08:58"
+    },
+    {
+      "nodeID": "148658",
+      "text": "If you think about it, only materialistic mechanisms could be proven (by scientific method, of course) -- prior miracles, on the other hand, certainly cannot be.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:58"
+    },
+    {
+      "nodeID": "148659",
+      "text": "You mean like Eclipses. Oh wait. That was a miracle explained by Science!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:58"
+    },
+    {
+      "nodeID": "148660",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:08:58"
+    },
+    {
+      "nodeID": "148661",
+      "text": "The Bible. God did not write the Bible, he inspired the people to write it. You are right, no logical contradiction exists.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:58"
+    },
+    {
+      "nodeID": "148662",
+      "text": "And that is different how? I told johnny to write that I'm infallible. Therefore the book that I told johnny to write proves I'm infallible. There is no difference.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:58"
+    },
+    {
+      "nodeID": "148663",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:08:58"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189534",
+      "fromID": "148656",
+      "toID": "148657",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189535",
+      "fromID": "148657",
+      "toID": "148655",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189536",
+      "fromID": "148659",
+      "toID": "148660",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189537",
+      "fromID": "148660",
+      "toID": "148658",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189538",
+      "fromID": "148662",
+      "toID": "148663",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189539",
+      "fromID": "148663",
+      "toID": "148661",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

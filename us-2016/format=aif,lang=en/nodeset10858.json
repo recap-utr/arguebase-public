@@ -1,0 +1,1869 @@
+{
+  "nodes": [
+    {
+      "nodeID": "256389",
+      "text": "M: COOPER : Governor Chafee, you and Hillary Clinton both voted for the Patriot Act which created the NSA surveillance program",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:26"
+    },
+    {
+      "nodeID": "256390",
+      "text": "COOPER : Governor Chafee, you and Hillary Clinton both voted for the Patriot Act which created the NSA surveillance program",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:26"
+    },
+    {
+      "nodeID": "256391",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:17:26",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "256392",
+      "text": "CHAFEE and CLINTON both voted for the Patriot Act which created the NSA surveillance program",
+      "type": "I",
+      "timestamp": "2016-12-22 13:17:26"
+    },
+    {
+      "nodeID": "256393",
+      "text": "COOPER : You've emphasized civil liberties, privacy during your campaign",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:26"
+    },
+    {
+      "nodeID": "256394",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:17:26",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "256395",
+      "text": "CHAFEE emphasized civil liberties and privacy during his campaign",
+      "type": "I",
+      "timestamp": "2016-12-22 13:17:26"
+    },
+    {
+      "nodeID": "256396",
+      "text": "M: COOPER : You've emphasized civil liberties, privacy during your campaign",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:26"
+    },
+    {
+      "nodeID": "256397",
+      "text": "COOPER : Aren't these two things in conflict?",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:27"
+    },
+    {
+      "nodeID": "256398",
+      "text": "Assertive Questioning",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:17:27",
+      "scheme": "AssertiveQuestioning",
+      "schemeID": "73"
+    },
+    {
+      "nodeID": "256399",
+      "text": "voting for the Patriot Act and emphasizing civil rights and privacy are in conflict",
+      "type": "I",
+      "timestamp": "2016-12-22 13:17:27"
+    },
+    {
+      "nodeID": "256400",
+      "text": "M: COOPER : Aren't these two things in conflict?",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:27"
+    },
+    {
+      "nodeID": "256401",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-12-22 13:17:27",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "256402",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 13:17:27",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "256403",
+      "text": "CHAFEE : No",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:27"
+    },
+    {
+      "nodeID": "256404",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:17:27",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "256405",
+      "text": "voting for the Patriot Act and emphasizing civil rights and privacy are not in conflict",
+      "type": "I",
+      "timestamp": "2016-12-22 13:17:27"
+    },
+    {
+      "nodeID": "256406",
+      "text": "M: CHAFEE : No",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:28"
+    },
+    {
+      "nodeID": "256407",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 13:17:28",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "256408",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-12-22 13:17:28",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "256409",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:17:28",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "256410",
+      "text": "CHAFEE : that was another 99 to one vote for the Patriot Act",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:28"
+    },
+    {
+      "nodeID": "256411",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:17:28",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "256412",
+      "text": "that was another 99 to one vote for the Patriot Act",
+      "type": "I",
+      "timestamp": "2016-12-22 13:17:28"
+    },
+    {
+      "nodeID": "256413",
+      "text": "M: CHAFEE : that was another 99 to one vote for the Patriot Act",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:28"
+    },
+    {
+      "nodeID": "256414",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-22 13:17:29",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "256415",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 13:17:29",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "256416",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:17:29",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "256417",
+      "text": "CHAFEE : it was seen as at the time modernizing our ability to do what we've always done to tap phones which always required a warrant",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:29"
+    },
+    {
+      "nodeID": "256418",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:17:29",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "256419",
+      "text": "it was seen as at the time modernizing our ability to do what we've always done to tap phones which always required a warrant",
+      "type": "I",
+      "timestamp": "2016-12-22 13:17:29"
+    },
+    {
+      "nodeID": "256420",
+      "text": "M: CHAFEE : it was seen as at the time modernizing our ability to do what we've always done to tap phones which always required a warrant",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:29"
+    },
+    {
+      "nodeID": "256421",
+      "text": "CHAFEE : I voted for that",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:29"
+    },
+    {
+      "nodeID": "256422",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:17:29",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "256423",
+      "text": "CHAFEE voted for that",
+      "type": "I",
+      "timestamp": "2016-12-22 13:17:30"
+    },
+    {
+      "nodeID": "256424",
+      "text": "M: CHAFEE : I voted for that",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:30"
+    },
+    {
+      "nodeID": "256425",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-22 13:17:30",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "256426",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 13:17:30",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "256427",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:17:30",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "256428",
+      "text": "COOPER : Do you regret that vote?",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:30"
+    },
+    {
+      "nodeID": "256429",
+      "text": "Pure Questioning",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:17:30",
+      "scheme": "PureQuestioning",
+      "schemeID": "91"
+    },
+    {
+      "nodeID": "256430",
+      "text": "CHAFEE does/does not regret that vote",
+      "type": "I",
+      "timestamp": "2016-12-22 13:17:30"
+    },
+    {
+      "nodeID": "256431",
+      "text": "M: COOPER : Do you regret that vote?",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:30"
+    },
+    {
+      "nodeID": "256432",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 13:17:31",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "256433",
+      "text": "CHAFEE : No, no",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:31"
+    },
+    {
+      "nodeID": "256434",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:17:31",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "256435",
+      "text": "CHAFEE does not regret that vote",
+      "type": "I",
+      "timestamp": "2016-12-22 13:17:31"
+    },
+    {
+      "nodeID": "256436",
+      "text": "M: CHAFEE : No, no",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:31"
+    },
+    {
+      "nodeID": "256437",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 13:17:31",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "256438",
+      "text": "CHAFEE : As long as you're getting a warrant, I believe that under the Fourth Amendment, you should be able to do surveillance",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:31"
+    },
+    {
+      "nodeID": "256439",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:17:31",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "256440",
+      "text": "as long as one is getting a warrant, CHAFEE believes that under the Fourth Amendment one should be able to do surveillance",
+      "type": "I",
+      "timestamp": "2016-12-22 13:17:32"
+    },
+    {
+      "nodeID": "256441",
+      "text": "M: CHAFEE : As long as you're getting a warrant, I believe that under the Fourth Amendment, you should be able to do surveillance",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:32"
+    },
+    {
+      "nodeID": "256442",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 13:17:32",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "256443",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-22 13:17:32",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "256444",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:17:32",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "256445",
+      "text": "CHAFEE : you need a warrant",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:32"
+    },
+    {
+      "nodeID": "256446",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:17:32",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "256447",
+      "text": "one needs a warrant",
+      "type": "I",
+      "timestamp": "2016-12-22 13:17:32"
+    },
+    {
+      "nodeID": "256448",
+      "text": "M: CHAFEE : you need a warrant",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:32"
+    },
+    {
+      "nodeID": "256449",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 13:17:33",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "256450",
+      "text": "CHAFEE : That's what the Fourth Amendment says",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:33"
+    },
+    {
+      "nodeID": "256451",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:17:33",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "256452",
+      "text": "the Fourth Amendment says that one needs a warrant",
+      "type": "I",
+      "timestamp": "2016-12-22 13:17:33"
+    },
+    {
+      "nodeID": "256453",
+      "text": "M: CHAFEE : That's what the Fourth Amendment says",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:33"
+    },
+    {
+      "nodeID": "256454",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 13:17:33",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "256455",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-22 13:17:33",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "256456",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:17:33",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "256457",
+      "text": "CHAFEE : in the Patriot Act, section 215 started to get broadened too far",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:33"
+    },
+    {
+      "nodeID": "256458",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:17:34",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "256459",
+      "text": "in the Patriot Act, section 215 started to get broadened too far",
+      "type": "I",
+      "timestamp": "2016-12-22 13:17:34"
+    },
+    {
+      "nodeID": "256460",
+      "text": "M: CHAFEE : in the Patriot Act, section 215 started to get broadened too far",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:34"
+    },
+    {
+      "nodeID": "256461",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 13:17:34",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "256462",
+      "text": "CHAFEE : I would be in favor of addressing and reforming section 215 of the Patriot Act",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:34"
+    },
+    {
+      "nodeID": "256463",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:17:34",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "256464",
+      "text": "CHAFEE would be in favor of addressing and reforming section 215 of the Patriot Act",
+      "type": "I",
+      "timestamp": "2016-12-22 13:17:34"
+    },
+    {
+      "nodeID": "256465",
+      "text": "M: CHAFEE : I would be in favor of addressing and reforming section 215 of the Patriot Act",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:34"
+    },
+    {
+      "nodeID": "256466",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-22 13:17:35",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "256467",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 13:17:35",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "256468",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:17:35",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "256469",
+      "text": "COOPER : Secretary Clinton, do you regret your vote on the Patriot Act?",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:35"
+    },
+    {
+      "nodeID": "256470",
+      "text": "Pure Questioning",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:17:35",
+      "scheme": "PureQuestioning",
+      "schemeID": "91"
+    },
+    {
+      "nodeID": "256471",
+      "text": "CLINTON does/does not regret her vote on the Patriot Act",
+      "type": "I",
+      "timestamp": "2016-12-22 13:17:35"
+    },
+    {
+      "nodeID": "256472",
+      "text": "M: COOPER : Secretary Clinton, do you regret your vote on the Patriot Act?",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:35"
+    },
+    {
+      "nodeID": "256473",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 13:17:35",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "256474",
+      "text": "No, I don't",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:35"
+    },
+    {
+      "nodeID": "256475",
+      "text": "CLINTON : it was necessary to make sure that we were able after 9/11 to put in place the security that we needed",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:36"
+    },
+    {
+      "nodeID": "256476",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:17:36",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "256477",
+      "text": "the Patriot Act was necessary to make sure that we were able after 9/11 to put in place the security that we needed",
+      "type": "I",
+      "timestamp": "2016-12-22 13:17:36"
+    },
+    {
+      "nodeID": "256478",
+      "text": "M: CLINTON : it was necessary to make sure that we were able after 9/11 to put in place the security that we needed",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:36"
+    },
+    {
+      "nodeID": "256479",
+      "text": "M: CLINTON : No, I don't",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:36"
+    },
+    {
+      "nodeID": "256480",
+      "text": "CLINTON : No, I don't",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:36"
+    },
+    {
+      "nodeID": "256481",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:17:36",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "256482",
+      "text": "CLINTON does not regret her vote on the Patriot Act",
+      "type": "I",
+      "timestamp": "2016-12-22 13:17:36"
+    },
+    {
+      "nodeID": "256483",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-22 13:17:37",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "256484",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 13:17:37",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "256485",
+      "text": "CLINTON :  it is true that it did require that there be a process",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:37"
+    },
+    {
+      "nodeID": "256486",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:17:37",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "256487",
+      "text": "it is true that the Patriot Act did require that there be a process",
+      "type": "I",
+      "timestamp": "2016-12-22 13:17:37"
+    },
+    {
+      "nodeID": "256488",
+      "text": "M: CLINTON :  it is true that it did require that there be a process",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:37"
+    },
+    {
+      "nodeID": "256489",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 13:17:37",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "256490",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:17:37",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "256491",
+      "text": "CLINTON : What happened, however, is that the Bush administration began to chip away at that process",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:37"
+    },
+    {
+      "nodeID": "256492",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:17:38",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "256493",
+      "text": "however the Bush administration began to chip away at that process",
+      "type": "I",
+      "timestamp": "2016-12-22 13:17:38"
+    },
+    {
+      "nodeID": "256494",
+      "text": "M: CLINTON : What happened, however, is that the Bush administration began to chip away at that process",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:38"
+    },
+    {
+      "nodeID": "256495",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-22 13:17:38",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "256496",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 13:17:38",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "256497",
+      "text": "CLINTON : I began to speak out about their use of warrantless surveillance and the other behavior that they engaged in",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:38"
+    },
+    {
+      "nodeID": "256498",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:17:38",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "256499",
+      "text": "CLINTON began to speak out about the Bush administration's use of warrantless surveillance and the other behavior that they engaged in",
+      "type": "I",
+      "timestamp": "2016-12-22 13:17:38"
+    },
+    {
+      "nodeID": "256500",
+      "text": "M: CLINTON : I began to speak out about their use of warrantless surveillance and the other behavior that they engaged in",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:39"
+    },
+    {
+      "nodeID": "256501",
+      "text": "CLINTON : We always have to keep the balance of civil liberties, privacy and security",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:39"
+    },
+    {
+      "nodeID": "256502",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:17:39",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "256503",
+      "text": "one always has to keep the balance of civil liberties, privacy and security",
+      "type": "I",
+      "timestamp": "2016-12-22 13:17:39"
+    },
+    {
+      "nodeID": "256504",
+      "text": "M: CLINTON : We always have to keep the balance of civil liberties, privacy and security",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:39"
+    },
+    {
+      "nodeID": "256505",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-22 13:17:39",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "256506",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 13:17:39",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "256507",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:17:39",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "256508",
+      "text": "CLINTON : It's not easy in a democracy",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:39"
+    },
+    {
+      "nodeID": "256509",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:17:40",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "256510",
+      "text": "it's not easy in a democracy to keep the balance of civil liberties, privacy and security",
+      "type": "I",
+      "timestamp": "2016-12-22 13:17:40"
+    },
+    {
+      "nodeID": "256511",
+      "text": "M: CLINTON : It's not easy in a democracy",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:40"
+    },
+    {
+      "nodeID": "256512",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 13:17:40",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "256513",
+      "text": "CLINTON : we have to keep it in mind",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:40"
+    },
+    {
+      "nodeID": "256514",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:17:40",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "256515",
+      "text": "one has to keep in mind that one should keep the balance of civil liberties, privacy and security",
+      "type": "I",
+      "timestamp": "2016-12-22 13:17:40"
+    },
+    {
+      "nodeID": "256516",
+      "text": "M: CLINTON : we have to keep it in mind",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:40"
+    },
+    {
+      "nodeID": "256517",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 13:17:41",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "256518",
+      "text": "COOPER : Senator \u2014 Senator Sanders, you're the only one on this stage who voted against the Patriot Act in 2001",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:41"
+    },
+    {
+      "nodeID": "256519",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:17:41",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "256520",
+      "text": "SANDERS is the only one on this stage who voted against the Patriot Act in 2001",
+      "type": "I",
+      "timestamp": "2016-12-22 13:17:41"
+    },
+    {
+      "nodeID": "256521",
+      "text": "M: COOPER : Senator \u2014 Senator Sanders, you're the only one on this stage who voted against the Patriot Act in 2001",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:41"
+    },
+    {
+      "nodeID": "256522",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 13:17:41",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "256523",
+      "text": "SANDERS : It was 99 to one and I was maybe the one",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:41"
+    },
+    {
+      "nodeID": "256524",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:17:41",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "256525",
+      "text": "it was 99 to one and SANDERS was maybe the one",
+      "type": "I",
+      "timestamp": "2016-12-22 13:17:41"
+    },
+    {
+      "nodeID": "256526",
+      "text": "M: SANDERS : It was 99 to one and I was maybe the one",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:42"
+    },
+    {
+      "nodeID": "256527",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 13:17:42",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "256528",
+      "text": "SANDERS : I don't know",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:42"
+    },
+    {
+      "nodeID": "256529",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:17:42",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "256530",
+      "text": "SANDERS doesn't know if he was the one who voted against the Patriot Act in 2001",
+      "type": "I",
+      "timestamp": "2016-12-22 13:17:42"
+    },
+    {
+      "nodeID": "256531",
+      "text": "M: SANDERS : I don't know",
+      "type": "L",
+      "timestamp": "2016-12-22 13:17:42"
+    },
+    {
+      "nodeID": "256532",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 13:17:42",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "256533",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-22 13:17:42",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "256534",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:17:43",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "307782",
+      "fromID": "256391",
+      "toID": "256392",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307783",
+      "fromID": "256390",
+      "toID": "256391",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307784",
+      "fromID": "256394",
+      "toID": "256395",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307785",
+      "fromID": "256393",
+      "toID": "256394",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307786",
+      "fromID": "256398",
+      "toID": "256399",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307787",
+      "fromID": "256397",
+      "toID": "256398",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307788",
+      "fromID": "256395",
+      "toID": "256401",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307789",
+      "fromID": "256401",
+      "toID": "256392",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307790",
+      "fromID": "256393",
+      "toID": "256402",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307791",
+      "fromID": "256402",
+      "toID": "256397",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307792",
+      "fromID": "256404",
+      "toID": "256405",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307793",
+      "fromID": "256403",
+      "toID": "256404",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307794",
+      "fromID": "256397",
+      "toID": "256407",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307795",
+      "fromID": "256407",
+      "toID": "256403",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307796",
+      "fromID": "256405",
+      "toID": "256408",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307797",
+      "fromID": "256408",
+      "toID": "256399",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307798",
+      "fromID": "256407",
+      "toID": "256409",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307799",
+      "fromID": "256409",
+      "toID": "256399",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307800",
+      "fromID": "256411",
+      "toID": "256412",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307801",
+      "fromID": "256410",
+      "toID": "256411",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307802",
+      "fromID": "256412",
+      "toID": "256414",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307803",
+      "fromID": "256414",
+      "toID": "256405",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307804",
+      "fromID": "256403",
+      "toID": "256415",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307805",
+      "fromID": "256415",
+      "toID": "256410",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307806",
+      "fromID": "256415",
+      "toID": "256416",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307807",
+      "fromID": "256416",
+      "toID": "256414",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307808",
+      "fromID": "256418",
+      "toID": "256419",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307809",
+      "fromID": "256417",
+      "toID": "256418",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307810",
+      "fromID": "256422",
+      "toID": "256423",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307811",
+      "fromID": "256421",
+      "toID": "256422",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307812",
+      "fromID": "256419",
+      "toID": "256414",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307813",
+      "fromID": "256415",
+      "toID": "256417",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307814",
+      "fromID": "256419",
+      "toID": "256425",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307815",
+      "fromID": "256425",
+      "toID": "256423",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307816",
+      "fromID": "256417",
+      "toID": "256426",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307817",
+      "fromID": "256426",
+      "toID": "256421",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307818",
+      "fromID": "256426",
+      "toID": "256427",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307819",
+      "fromID": "256427",
+      "toID": "256425",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307820",
+      "fromID": "256429",
+      "toID": "256430",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307821",
+      "fromID": "256428",
+      "toID": "256429",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307822",
+      "fromID": "256421",
+      "toID": "256432",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307823",
+      "fromID": "256432",
+      "toID": "256428",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307824",
+      "fromID": "256434",
+      "toID": "256435",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307825",
+      "fromID": "256433",
+      "toID": "256434",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307826",
+      "fromID": "256428",
+      "toID": "256437",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307827",
+      "fromID": "256437",
+      "toID": "256433",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307828",
+      "fromID": "256439",
+      "toID": "256440",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307829",
+      "fromID": "256438",
+      "toID": "256439",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307830",
+      "fromID": "256433",
+      "toID": "256442",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307831",
+      "fromID": "256442",
+      "toID": "256438",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307832",
+      "fromID": "256440",
+      "toID": "256443",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307833",
+      "fromID": "256443",
+      "toID": "256435",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307834",
+      "fromID": "256442",
+      "toID": "256444",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307835",
+      "fromID": "256444",
+      "toID": "256443",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307836",
+      "fromID": "256446",
+      "toID": "256447",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307837",
+      "fromID": "256445",
+      "toID": "256446",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307838",
+      "fromID": "256438",
+      "toID": "256449",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307839",
+      "fromID": "256449",
+      "toID": "256445",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307840",
+      "fromID": "256451",
+      "toID": "256452",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307841",
+      "fromID": "256450",
+      "toID": "256451",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307842",
+      "fromID": "256445",
+      "toID": "256454",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307843",
+      "fromID": "256454",
+      "toID": "256450",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307844",
+      "fromID": "256452",
+      "toID": "256455",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307845",
+      "fromID": "256455",
+      "toID": "256447",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307846",
+      "fromID": "256454",
+      "toID": "256456",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307847",
+      "fromID": "256456",
+      "toID": "256455",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307848",
+      "fromID": "256458",
+      "toID": "256459",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307849",
+      "fromID": "256457",
+      "toID": "256458",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307850",
+      "fromID": "256450",
+      "toID": "256461",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307851",
+      "fromID": "256461",
+      "toID": "256457",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307852",
+      "fromID": "256463",
+      "toID": "256464",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307853",
+      "fromID": "256462",
+      "toID": "256463",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307854",
+      "fromID": "256459",
+      "toID": "256466",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307855",
+      "fromID": "256466",
+      "toID": "256464",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307856",
+      "fromID": "256457",
+      "toID": "256467",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307857",
+      "fromID": "256467",
+      "toID": "256462",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307858",
+      "fromID": "256467",
+      "toID": "256468",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307859",
+      "fromID": "256468",
+      "toID": "256466",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307860",
+      "fromID": "256470",
+      "toID": "256471",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307861",
+      "fromID": "256469",
+      "toID": "256470",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307862",
+      "fromID": "256462",
+      "toID": "256473",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307863",
+      "fromID": "256473",
+      "toID": "256469",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307864",
+      "fromID": "256476",
+      "toID": "256477",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307865",
+      "fromID": "256475",
+      "toID": "256476",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307866",
+      "fromID": "256481",
+      "toID": "256482",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307867",
+      "fromID": "256480",
+      "toID": "256481",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307868",
+      "fromID": "256477",
+      "toID": "256483",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307869",
+      "fromID": "256483",
+      "toID": "256482",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307870",
+      "fromID": "256469",
+      "toID": "256484",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307871",
+      "fromID": "256484",
+      "toID": "256480",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307872",
+      "fromID": "256486",
+      "toID": "256487",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307873",
+      "fromID": "256485",
+      "toID": "256486",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307874",
+      "fromID": "256480",
+      "toID": "256489",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307875",
+      "fromID": "256489",
+      "toID": "256475",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307876",
+      "fromID": "256489",
+      "toID": "256490",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307877",
+      "fromID": "256490",
+      "toID": "256483",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307878",
+      "fromID": "256492",
+      "toID": "256493",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307879",
+      "fromID": "256491",
+      "toID": "256492",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307880",
+      "fromID": "256487",
+      "toID": "256495",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307881",
+      "fromID": "256495",
+      "toID": "256482",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307882",
+      "fromID": "256493",
+      "toID": "256495",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307883",
+      "fromID": "256480",
+      "toID": "256496",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307884",
+      "fromID": "256496",
+      "toID": "256485",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307885",
+      "fromID": "256496",
+      "toID": "256491",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307886",
+      "fromID": "256498",
+      "toID": "256499",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307887",
+      "fromID": "256497",
+      "toID": "256498",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307888",
+      "fromID": "256499",
+      "toID": "256495",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307889",
+      "fromID": "256496",
+      "toID": "256497",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307890",
+      "fromID": "256502",
+      "toID": "256503",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307891",
+      "fromID": "256501",
+      "toID": "256502",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307892",
+      "fromID": "256503",
+      "toID": "256505",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307893",
+      "fromID": "256505",
+      "toID": "256482",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307894",
+      "fromID": "256480",
+      "toID": "256506",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307895",
+      "fromID": "256506",
+      "toID": "256501",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307896",
+      "fromID": "256506",
+      "toID": "256507",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307897",
+      "fromID": "256507",
+      "toID": "256505",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307898",
+      "fromID": "256509",
+      "toID": "256510",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307899",
+      "fromID": "256508",
+      "toID": "256509",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307900",
+      "fromID": "256501",
+      "toID": "256512",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307901",
+      "fromID": "256512",
+      "toID": "256508",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307902",
+      "fromID": "256514",
+      "toID": "256515",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307903",
+      "fromID": "256513",
+      "toID": "256514",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307904",
+      "fromID": "256508",
+      "toID": "256517",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307905",
+      "fromID": "256517",
+      "toID": "256513",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307906",
+      "fromID": "256519",
+      "toID": "256520",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307907",
+      "fromID": "256518",
+      "toID": "256519",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307908",
+      "fromID": "256513",
+      "toID": "256522",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307909",
+      "fromID": "256522",
+      "toID": "256518",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307910",
+      "fromID": "256524",
+      "toID": "256525",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307911",
+      "fromID": "256523",
+      "toID": "256524",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307912",
+      "fromID": "256518",
+      "toID": "256527",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307913",
+      "fromID": "256527",
+      "toID": "256523",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307914",
+      "fromID": "256529",
+      "toID": "256530",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307915",
+      "fromID": "256528",
+      "toID": "256529",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307916",
+      "fromID": "256523",
+      "toID": "256532",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307917",
+      "fromID": "256532",
+      "toID": "256528",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307918",
+      "fromID": "256395",
+      "toID": "256533",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307919",
+      "fromID": "256533",
+      "toID": "256399",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307920",
+      "fromID": "256402",
+      "toID": "256534",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307921",
+      "fromID": "256534",
+      "toID": "256533",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307922",
+      "fromID": "256392",
+      "toID": "256533",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "307923",
+      "fromID": "256390",
+      "toID": "256402",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

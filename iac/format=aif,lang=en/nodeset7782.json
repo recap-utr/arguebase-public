@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "147888",
+      "text": "I don't understand why it is ok for a woman to kill her growing baby but not ok for a man to kill his growing baby.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:16"
+    },
+    {
+      "nodeID": "147889",
+      "text": "It's worth noting that all children are in a stage of growth and further development,... not just those who are still in the womb.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:16"
+    },
+    {
+      "nodeID": "147890",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:07:16"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "188994",
+      "fromID": "147889",
+      "toID": "147890",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188995",
+      "fromID": "147890",
+      "toID": "147888",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

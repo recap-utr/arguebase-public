@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141755",
+      "text": "No gun activist has been able to explain that satisfactorily. Charlton Heston couldn't do it when he was interviewed by Moore. At best they give a very vague explanation unsupported by evidence.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:30"
+    },
+    {
+      "nodeID": "141756",
+      "text": "And Moore couldn't give a reason for why Heston should apologize for the death of that one child either. How about you apologize for the deaths of everyone from Chicago, because you don't support programs that would lock away gang members and take them off the streets?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:30"
+    },
+    {
+      "nodeID": "141757",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:54:30"
+    },
+    {
+      "nodeID": "141758",
+      "text": "You'd have to explain why other developed nations with a lot less guns also have a much lower murder rate than the US.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:30"
+    },
+    {
+      "nodeID": "141759",
+      "text": "I have yet to see any conclusive evidence that this is true and undeniable. You wanna prove in an undeniable manner that developed nations around the world have fewer deaths than America? Then get cracking and gather the evidence. Start proving that the various governments around the world aren't lying about their annual death rates. The UK has been found guilty of continuously altering statistics to make themselves look safer than they really are. So do you have any proof that the annual number of deaths of a country like Germany, are the true number and not some government sponsored, people's friendly statement to make people feel less afraid?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:30"
+    },
+    {
+      "nodeID": "141760",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:54:30"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184662",
+      "fromID": "141756",
+      "toID": "141757",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184663",
+      "fromID": "141757",
+      "toID": "141755",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184664",
+      "fromID": "141759",
+      "toID": "141760",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184665",
+      "fromID": "141760",
+      "toID": "141758",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

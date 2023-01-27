@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148122",
+      "text": "Mankind succesfully creates religion and the idea of a 'god' or higher being or creator and such. Man is not a product of 'god' but rather 'god' is a product of mankind!!! the idea of god was a result of a wandering and curious mind that lacked the technology to gain information about the universe that he lives in, and nothing more. The bible the same thing, a collection of ideas and stories brought up by a wondering human mind that lacked info and the tech need to gain it!!!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:53"
+    },
+    {
+      "nodeID": "148123",
+      "text": "You mean you equate the Bible with your own theory?(which is lacking information).",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:53"
+    },
+    {
+      "nodeID": "148124",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:53"
+    },
+    {
+      "nodeID": "148125",
+      "text": "Jesus never existed in the first place, the bible is the only document that tells of a 'jesus' or the idea of somekind of saviour!!! he is just a story in a book!! if jesus was such a wonderful man then why arent there more documented accounts other than the bible!??!?!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:53"
+    },
+    {
+      "nodeID": "148126",
+      "text": "Really now. You've gone out on a limb with nonsense http://www.earlychristianwritings.com/ lists many books, only a few of which are in the Bible. Further (at http://www.earlychristianwritings.com/theories.html) it lists a whole range of theorists believing in the historical Jesus.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:53"
+    },
+    {
+      "nodeID": "148127",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:07:53"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189162",
+      "fromID": "148123",
+      "toID": "148124",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189163",
+      "fromID": "148124",
+      "toID": "148122",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189164",
+      "fromID": "148126",
+      "toID": "148127",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189165",
+      "fromID": "148127",
+      "toID": "148125",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

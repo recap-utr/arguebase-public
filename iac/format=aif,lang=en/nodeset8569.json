@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "159409",
+      "text": "Perhaps studies should be done to find out why women would disregard nature and have an abortion in the first place. It is completely abnormal for a woman to not want her child.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:50"
+    },
+    {
+      "nodeID": "159410",
+      "text": "I believe studies have already been done on that subject.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:50"
+    },
+    {
+      "nodeID": "159411",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:32:50"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "197156",
+      "fromID": "159410",
+      "toID": "159411",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197157",
+      "fromID": "159411",
+      "toID": "159409",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

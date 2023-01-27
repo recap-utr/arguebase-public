@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "136531",
+      "text": "Those who support gun control will agitate for more restrictions on availability of guns. Those who interpret the second ammendment as an obligation will argue that more guns will solve the problem. Those who see it as an issue in itself,with the firearms as a secondary factor will be ignored or belittled by the other two groups.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:12"
+    },
+    {
+      "nodeID": "136532",
+      "text": "Well said. The truth of the matter is society's desire to hang blame on obvious contributing circumstances rather than attributing anything to developments leading up to and cumulating in that circumstance. Take away guns, knifes, etc. and something will be used, perhaps a deadly spray poison with components and mixing instructions available on the Internet. People will clamor to censor the Internet but distance themselves from social ills or personality defects as the basic, underlying cause.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:12"
+    },
+    {
+      "nodeID": "136533",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:43:12"
+    },
+    {
+      "nodeID": "136534",
+      "text": "If this was on Indian property, the Federal Gun Control Laws don't apply anyway.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:12"
+    },
+    {
+      "nodeID": "136535",
+      "text": "So if the laws didn't apply here because of it being a reservation, stricter laws would not change anything (unless ammended to apply). But even so, the killer would still have gotten the guns because the person he got them from had the right and duty to have them.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:12"
+    },
+    {
+      "nodeID": "136536",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:43:12"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "180942",
+      "fromID": "136532",
+      "toID": "136533",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180943",
+      "fromID": "136533",
+      "toID": "136531",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180944",
+      "fromID": "136535",
+      "toID": "136536",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180945",
+      "fromID": "136536",
+      "toID": "136534",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

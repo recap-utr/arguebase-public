@@ -1,0 +1,157 @@
+{
+  "nodes": [
+    {
+      "nodeID": "195638",
+      "text": "Hyperdrunk : Was Bernie zoning out",
+      "type": "L",
+      "timestamp": "2016-08-22 10:13:04"
+    },
+    {
+      "nodeID": "195640",
+      "text": "Bernie Sanders was zoning out",
+      "type": "I",
+      "timestamp": "2016-08-22 10:13:04"
+    },
+    {
+      "nodeID": "195642",
+      "text": "BenDes1313 : Seriously this guy isn't fit to be president",
+      "type": "L",
+      "timestamp": "2016-08-22 10:13:04"
+    },
+    {
+      "nodeID": "195644",
+      "text": "Bernie Sanders isn't fit to be president",
+      "type": "I",
+      "timestamp": "2016-08-22 10:13:04"
+    },
+    {
+      "nodeID": "256333",
+      "text": "WEBB : Pardon me?",
+      "type": "L",
+      "timestamp": "2016-12-22 13:16:37"
+    },
+    {
+      "nodeID": "262409",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-03 17:25:16",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "262410",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2017-03-03 17:25:16",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "262411",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2017-03-03 17:25:17",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "262412",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-03 17:25:17",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "262413",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2017-03-03 17:25:18",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "262414",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2017-03-03 17:25:18",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "316486",
+      "fromID": "256333",
+      "toID": "262409",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316487",
+      "fromID": "262409",
+      "toID": "195638",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316488",
+      "fromID": "256333",
+      "toID": "262410",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316489",
+      "fromID": "262410",
+      "toID": "195640",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316490",
+      "fromID": "262409",
+      "toID": "262411",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316491",
+      "fromID": "262411",
+      "toID": "262410",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316492",
+      "fromID": "256333",
+      "toID": "262412",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316493",
+      "fromID": "262412",
+      "toID": "195642",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316494",
+      "fromID": "256333",
+      "toID": "262413",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316495",
+      "fromID": "262413",
+      "toID": "195644",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316496",
+      "fromID": "262412",
+      "toID": "262414",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316497",
+      "fromID": "262414",
+      "toID": "262413",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

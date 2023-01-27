@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "155888",
+      "text": "...Politicians had assumed tighter gun laws would cut off the supply of guns to would-be criminals and that homicide rates would fall as a result, the study said. But more than 90 per cent of firearms used to commit homicide were not registered, their users were not licensed and they had been unaffected by the firearms agreement...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:51"
+    },
+    {
+      "nodeID": "155889",
+      "text": "so how still thinks it would work better in the US? full story http://www.smh.com.au/news/national/buyback-has-no-effect-on-murder-rate/2006/10/23/1161455665717.html",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:52"
+    },
+    {
+      "nodeID": "155890",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:52"
+    },
+    {
+      "nodeID": "155891",
+      "text": "Yea, i got one about the UK. Let me find it, hold on.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:52"
+    },
+    {
+      "nodeID": "155892",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:24:52"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194644",
+      "fromID": "155889",
+      "toID": "155890",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194645",
+      "fromID": "155890",
+      "toID": "155888",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194646",
+      "fromID": "155891",
+      "toID": "155892",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194647",
+      "fromID": "155892",
+      "toID": "155889",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

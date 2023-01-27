@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "149135",
+      "text": "How does a stem cell decide what specialized identity to adopt -- or simply to remain a stem cell? A new study suggests that the conventional view, which assumes that cells are 'instructed' to progress along prescribed signaling pathways, is too simplistic. Instead, it supports the idea that cells differentiate through the collective behavior of multiple genes in a network that ultimately leads to just a few endpoints -- just as a marble on a hilltop can travel a nearly infinite number of downward paths, only to arrive in the same valley.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:05"
+    },
+    {
+      "nodeID": "149136",
+      "text": "Just like in memetic algorithms, there are many paths to an endpoint. Both memetic algorithms in development and in the docking simulation converge on similar endpoints each time it is rerun. (e.g. skin in development).",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:05"
+    },
+    {
+      "nodeID": "149137",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:10:05"
+    },
+    {
+      "nodeID": "149138",
+      "text": "The landscape analogy and collective 'decision-making' are concepts unfamiliar to biologists, who have tended to focus on single genes acting in linear pathways. This made the work initially difficult to publish, notes Huang. 'It's hard for biologists to move from thinking about single pathways to thinking about a landscape, which is the mathematical manifestation of the entirety of all the possible pathways,' he says. 'A single pathway is not a good way to understand a whole process. Our goal has been to understand the driving force behind it.'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:05"
+    },
+    {
+      "nodeID": "149139",
+      "text": "Like the docking simulation, in development there is a pre-existing fitness landscape (the womb). Both processes converge on similar endpoints each time it is run, both process are biased to a few endpoints and both processes reach local optima (e.g. skin cells) after the process id complete. http://mybroadband.co.za/vb/picture.php?albumid=180&pictureid=1857 Figure 1: Similarities between development and a docking simulation employing a memetic algorithm. There are certainly many parallels between our own designed simulated docking runs and the development of life.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:05"
+    },
+    {
+      "nodeID": "149140",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:10:05"
+    },
+    {
+      "nodeID": "149141",
+      "text": "ScienceDaily (Nov. 24, 2008) &#8212; Under stress, yeast cells can unleash a remarkable mechanism based on protein-misfolding that gives them new characteristics without requiring genetic mutations.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:06"
+    },
+    {
+      "nodeID": "149142",
+      "text": "The article continues to comment that this mechanism serves as a mechanism tailored for evolution? Irrespective of its origins, somehow, life utilizes evolution FOR evolution. B. Convergence As seen in the docking simulation, the solutions all converge on relatively similar local optima. Examples of molecular and structural convergence are abundant in nature. Also, abiogenesis spectacularly converged into a reasonably optimized genetic code (with a few derivatives) and life's memetic algorithms. Convergence in virtual simulations and in nature thus serve to point to similarities between them. C) The Biased Nature of Evolution. D) The Biased Nature of Evolution. After running the docking simulations, the software seemed to have been biased towards a few local optima even after random variation processes. The parallels between development has already been highlighted above. Parallels between development and evolution also exist. Compare the developmental program to evolution.  Evolution also seems to be biased towards a few endpoints: Peer-reviewed article: An End to Endless Forms: Epistasis, Phenotype Distribution Bias, and Nonuniform Evolution It is argued to be as a result of genetic instructions dating earlier in evolutionary time. (Preadaptations). To conclude, parallels exist between our own designed docking simulations employing memetic algorithms and the evolution of life. These include (Figure 1): 1) Memetic algoritms 2) Convergence 3) Biased to a few endpoints 4) Local optima (optimal biomolecular machines) http://mybroadband.co.za/vb/picture.php?albumid=180&pictureid=1885 Figure 1: Similarities between evolution and a docking simulation.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:06"
+    },
+    {
+      "nodeID": "149143",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:10:06"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189874",
+      "fromID": "149136",
+      "toID": "149137",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189875",
+      "fromID": "149137",
+      "toID": "149135",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189876",
+      "fromID": "149139",
+      "toID": "149140",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189877",
+      "fromID": "149140",
+      "toID": "149138",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189878",
+      "fromID": "149142",
+      "toID": "149143",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189879",
+      "fromID": "149143",
+      "toID": "149141",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

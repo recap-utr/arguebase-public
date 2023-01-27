@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151470",
+      "text": "Abortion is wrong by every standard. John Roberts and Sam Alito will overturn Roe v. Wade.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:55"
+    },
+    {
+      "nodeID": "151471",
+      "text": "It's ashame that everyone keeps looking for the judiciary to do the legislature's work. When will the people press Congress to take up abortion? It is the job of Congress after all, to address the issues desired by it's constituents.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:55"
+    },
+    {
+      "nodeID": "151472",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:14:55"
+    },
+    {
+      "nodeID": "151473",
+      "text": "I think its actually the states job...the judiciary does need to overturn Roe v. Wade to get this done though...which doesn't mean it becomes illegal.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:55"
+    },
+    {
+      "nodeID": "151474",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:14:55"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191524",
+      "fromID": "151471",
+      "toID": "151472",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191525",
+      "fromID": "151472",
+      "toID": "151470",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191526",
+      "fromID": "151473",
+      "toID": "151474",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191527",
+      "fromID": "151474",
+      "toID": "151471",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

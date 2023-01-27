@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "144972",
+      "text": "The first one is moderately valid... the rest are straw men.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:12"
+    },
+    {
+      "nodeID": "144973",
+      "text": "Well then it sounds like you don't even know what a SM is seeing as the 3rd one is the main one that people like you bring up when debating this isse.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:12"
+    },
+    {
+      "nodeID": "144974",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:01:12"
+    },
+    {
+      "nodeID": "144975",
+      "text": "The fact that freedom of speech is still valid has nothing to do with this - the constitution doesn't rise and fall as one, or the concept of 'amendments' would not exist.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:12"
+    },
+    {
+      "nodeID": "144976",
+      "text": "Oh, really?  Translation: the only amendments that rise and fall are the ones that I want to.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:12"
+    },
+    {
+      "nodeID": "144977",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:01:12"
+    },
+    {
+      "nodeID": "144978",
+      "text": "Interesting that those three are also the weakest and rarest of arguments when arguing for gun control. In fact, I have never witnessed anyone basing their entire gun control argument on the fact that 'gun owners lack the testicular fortitude to fight someone in hand-to-hand combat.'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:12"
+    },
+    {
+      "nodeID": "144979",
+      "text": "Actually, I find it near impossible to discuss the second amendment without gun control advocates bringing up the third argument. Weak? Yes. Rare? No. In my opinion, all arguments in favor of gun control are weak.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:12"
+    },
+    {
+      "nodeID": "144980",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:01:12"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186948",
+      "fromID": "144973",
+      "toID": "144974",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186949",
+      "fromID": "144974",
+      "toID": "144972",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186950",
+      "fromID": "144976",
+      "toID": "144977",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186951",
+      "fromID": "144977",
+      "toID": "144975",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186952",
+      "fromID": "144979",
+      "toID": "144980",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186953",
+      "fromID": "144980",
+      "toID": "144978",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

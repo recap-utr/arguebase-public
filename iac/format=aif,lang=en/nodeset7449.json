@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "142538",
+      "text": "Ok.. In the see saw political battle in Kanas in the board of Education, the 'Creationist' supports lost a couple of seats, and the pro-science group gained a couple.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:07"
+    },
+    {
+      "nodeID": "142539",
+      "text": "I like that term 'pro-science.':p",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:07"
+    },
+    {
+      "nodeID": "142540",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:56:07"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185228",
+      "fromID": "142539",
+      "toID": "142540",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185229",
+      "fromID": "142540",
+      "toID": "142538",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

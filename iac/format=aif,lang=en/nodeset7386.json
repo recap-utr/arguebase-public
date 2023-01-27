@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141541",
+      "text": "So in the end, the evolutinists win.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:57"
+    },
+    {
+      "nodeID": "141542",
+      "text": "Just for S&G...wouldn't it always be the creationists who win in the end? If there really is 'creative design' or 'creationism' then guess who's going to heaven. If not, and there really is no god, then there's not much of a prize... :p",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:57"
+    },
+    {
+      "nodeID": "141543",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:53:57"
+    },
+    {
+      "nodeID": "141544",
+      "text": "Huh? Did we win? When?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:57"
+    },
+    {
+      "nodeID": "141545",
+      "text": "And more importantly, where's my damn prize?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:57"
+    },
+    {
+      "nodeID": "141546",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:53:57"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184516",
+      "fromID": "141542",
+      "toID": "141543",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184517",
+      "fromID": "141543",
+      "toID": "141541",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184518",
+      "fromID": "141545",
+      "toID": "141546",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184519",
+      "fromID": "141546",
+      "toID": "141544",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

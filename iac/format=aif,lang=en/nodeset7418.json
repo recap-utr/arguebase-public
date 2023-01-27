@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141882",
+      "text": "There are allegories in the Bible.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:53"
+    },
+    {
+      "nodeID": "141883",
+      "text": "And your point is?  If you're trying to go that since there are allegories in the Bible, then science does not contridict it, then you are clearly a revisionist who is warping and distorting the bible to suit a specific agenda.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:53"
+    },
+    {
+      "nodeID": "141884",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:54:53"
+    },
+    {
+      "nodeID": "141885",
+      "text": "What is a compangian? The silly Jews I know say your wrong but they only speak the language so how would they know?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:53"
+    },
+    {
+      "nodeID": "141886",
+      "text": "I see you are being a typo nazi. I see. You shouldn't talk to the Jewish people on how to interpret their scriptures, you have to go to the southern baptists to TRULY understand what the Hebrew mythology is saying. RIGGHT.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:54"
+    },
+    {
+      "nodeID": "141887",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:54:54"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184750",
+      "fromID": "141883",
+      "toID": "141884",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184751",
+      "fromID": "141884",
+      "toID": "141882",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184752",
+      "fromID": "141886",
+      "toID": "141887",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184753",
+      "fromID": "141887",
+      "toID": "141885",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

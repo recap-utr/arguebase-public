@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143393",
+      "text": "It is to be hoped that women know enough about their own bodies and sexuality to recognize when they are pregnant.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:58"
+    },
+    {
+      "nodeID": "143394",
+      "text": "But that pregnancy should be tested in Maternal-Fetal Care Centers. A pregnancy should not be a private life matter anymore. An embryonic person should be registered.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:58"
+    },
+    {
+      "nodeID": "143395",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:57:58"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185834",
+      "fromID": "143394",
+      "toID": "143395",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185835",
+      "fromID": "143395",
+      "toID": "143393",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

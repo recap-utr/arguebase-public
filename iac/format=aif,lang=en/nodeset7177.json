@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138881",
+      "text": "It is my understanding that the number of states that have amendments banning same-sex marriage is now at 19. Even California is working on it. The number of states that have laws that ban it is 33. (Maybe more now; that number was from early 2004) I think gay 'rights' lobbyists would do well to start realizing that marriage really matters a lot to the majority of people in this country, and to realize that they are treading on an institution that is traditionally and fundamentally opposite-sex by nature and definition. The number of states not allowing gay marriage is on the rise dramatically, since gay activists began pushing things so strongly in the last few years. The more gay people push to redefine marriage, the harder they are going to make it for themselves.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:00"
+    },
+    {
+      "nodeID": "138882",
+      "text": "No, that's a myth. The less gay rights activists push for complete equality, the less they are going to get. People do justify banning civil unions as well as marriage because 'gays deserve it for pushing so hard toward marriage'. Of course, that logic is horrible, for people do not deserve to be punished because they've asked for equal rights. But regardless, if gay rights activists asked for only civil unions, then people would feel just as obligated to suggest a compromise between civil unions and no unions, then they would feel obligated in banning that too, because gay people shouldn't have been pushing for civil unions. If we do not push for complete equality, there will never be complete equality, and no matter how many states decide to ban it, things will never change if this fight does not happen.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:01"
+    },
+    {
+      "nodeID": "138883",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:48:01"
+    },
+    {
+      "nodeID": "138884",
+      "text": "I think gay 'rights' lobbyists would do well to start realizing that marriage really matters a lot to the majority of people in this country,",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:01"
+    },
+    {
+      "nodeID": "138885",
+      "text": "You know, I'd believe that more if there were people like the Shindler family who have pushed for federal courts to intervene and destroy the sanctity of marriage. There is nothing you could do or say that would convince me that Americans somehow have any respect for marriage whatsoever. What heterosexuals have done to destroy this institution from the inside out only tells me that heteros are simply spoiled children who have the attitude of: 'If we can't make it work, we aren't going to allow anyone else to come in and do marriage better.'",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:01"
+    },
+    {
+      "nodeID": "138886",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:48:01"
+    },
+    {
+      "nodeID": "138887",
+      "text": "I don't know....",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:01"
+    },
+    {
+      "nodeID": "138888",
+      "text": "You got THAT right!!!!!!!!!!!!!!!!!!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:01"
+    },
+    {
+      "nodeID": "138889",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:48:01"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182630",
+      "fromID": "138882",
+      "toID": "138883",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182631",
+      "fromID": "138883",
+      "toID": "138881",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182632",
+      "fromID": "138885",
+      "toID": "138886",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182633",
+      "fromID": "138886",
+      "toID": "138884",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182634",
+      "fromID": "138888",
+      "toID": "138889",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182635",
+      "fromID": "138889",
+      "toID": "138887",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

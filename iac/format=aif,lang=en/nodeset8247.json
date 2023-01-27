@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "154429",
+      "text": "Why does this evil women hate gay people and gay families so much? Why does want to make all gay americans second class citizens? Why does she want to hurt the children of gay families?  She is one evil women who does not support religious freedom, unless it is her own and those who believe as she does.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:40"
+    },
+    {
+      "nodeID": "154430",
+      "text": "~The Assemblies of God believes strongly that God has declared great displeasure and opposition toward homosexual conduct,' according to a church position statement on the topic.~ That's her church, and obviously the reason she's attempting to fold religion into government. Is that the same god who whispers in Bush's ear?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:40"
+    },
+    {
+      "nodeID": "154431",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:21:40"
+    },
+    {
+      "nodeID": "154432",
+      "text": "Matthew, I agree with you in this case. A constitutional amendment along these lines is a bad idea. Per George's comment though I don't see any problem with her taking a stance based on her religion--all govt. officials operate off an ideology (to varying degrees), that's the way it works. She's not instituting a religion, she's conducting govt. (or wanting to anyway) based on what she believes. Church and state isn't being breached just because a religious person takes a given stance on a legal issue that they have religious convictions about.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:40"
+    },
+    {
+      "nodeID": "154433",
+      "text": "Unless they successfully implement legislature based on religious dogma that breaches religious freedom of non-believers. Which is her stated goal.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:40"
+    },
+    {
+      "nodeID": "154434",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:21:40"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193606",
+      "fromID": "154430",
+      "toID": "154431",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193607",
+      "fromID": "154431",
+      "toID": "154429",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193608",
+      "fromID": "154433",
+      "toID": "154434",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193609",
+      "fromID": "154434",
+      "toID": "154432",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

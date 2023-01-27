@@ -1,0 +1,172 @@
+{
+  "nodes": [
+    {
+      "nodeID": "201858",
+      "text": "dr_pepper_35 : Fuck you Clinton",
+      "type": "L",
+      "timestamp": "2016-09-22 14:36:55"
+    },
+    {
+      "nodeID": "201860",
+      "text": "fuck you Clinton",
+      "type": "I",
+      "timestamp": "2016-09-22 14:36:55"
+    },
+    {
+      "nodeID": "201868",
+      "text": "dr_pepper_35 : bernie just said he did as well",
+      "type": "L",
+      "timestamp": "2016-09-22 14:36:56"
+    },
+    {
+      "nodeID": "201872",
+      "text": "Bernie : Snowden deserves jail",
+      "type": "L",
+      "timestamp": "2016-09-22 14:36:56"
+    },
+    {
+      "nodeID": "217268",
+      "text": "SANDERS : there should be a penalty to that",
+      "type": "L",
+      "timestamp": "2016-11-01 13:40:38"
+    },
+    {
+      "nodeID": "256975",
+      "text": "CLINTON : I don't think he should be brought home without facing the music",
+      "type": "L",
+      "timestamp": "2016-12-22 13:48:21"
+    },
+    {
+      "nodeID": "263992",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-08 11:08:04",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "263993",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-08 11:08:05",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "263994",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-08 11:08:05",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "263995",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-08 11:08:06",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "263996",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-08 11:08:06",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "263997",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-08 11:08:07",
+      "scheme": "Restating",
+      "schemeID": "101"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "319102",
+      "fromID": "256975",
+      "toID": "263992",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319103",
+      "fromID": "263992",
+      "toID": "201858",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319104",
+      "fromID": "201860",
+      "toID": "263993",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319105",
+      "fromID": "263993",
+      "toID": "256975",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319106",
+      "fromID": "263992",
+      "toID": "263994",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319107",
+      "fromID": "263994",
+      "toID": "263993",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319108",
+      "fromID": "217268",
+      "toID": "263995",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319109",
+      "fromID": "263995",
+      "toID": "201868",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319110",
+      "fromID": "201872",
+      "toID": "263996",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319111",
+      "fromID": "263996",
+      "toID": "217268",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319112",
+      "fromID": "263995",
+      "toID": "263997",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319113",
+      "fromID": "263997",
+      "toID": "263996",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "201872",
+      "personID": "1851",
+      "timestamp": "2016-09-22 14:37:02",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

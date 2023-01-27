@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151040",
+      "text": "Seven thousand two hundred thirty-four. If Chicago is your home, that number tells you something about your city, and police say it's not necessarily good. As CBS 2's Kristyn Hartman reports, there have been 7,234 guns recovered or confiscated by Chicago Police so far this year. When you think about it, that's about one gun for every 400 people, in a city with an ordinance that prohibits them. Chicagoan Robert Herbert hears gunshots all the time in his neighborhood. He says lots of people have them. 'All the time, every day, yesterday, the day before yesterday,' Herbert said. Police are finding some of the guns. 'So far year to date, there's been seven thousand, two hundred and thirty four firearms recovered in Chicago,' said Deputy Chicago Police Chief Nick Roti. Roti says the number, which is up, really tells the tale of two cities. One is the mean streets story. 'Guns are found in parks, under porches,' Roti said. The other is the safer streets story. 'The good news is we're recovering the guns,' he said. 'I think people are getting fed up with public violence, It's evidenced by reporting of it.' Roti says increased search warrants net guns. Buybacks, patrol stops and putting cops in the right places also net guns. Police say most of what they recover comes from south of the Stevenson Expressway, generally the South Side of Chicago, in neighborhoods like Englewood. There, gangs, drugs and firearms all seem to go together. Herbert is happy with the work, but he fears the guns are replaced as quickly as they are removed. If it were legal, he says he'd have one for protection. When asked if there is a justification for carrying a weapon, Roti said: 'Not really for me to say. It's against the law in Chicago.' National Rifle Association Legislative Liaison Todd Vandermyde said if people were allowed to have a weapon for self-defense, it would 'absolutely' deter crime. 'But Chicago has put its citizens in victimization mode, because they haven't allowed them the use of self-defense,' he said. 'The only guys carrying guns on the streets are the bad guys.' The city's 27-year-old handgun ban is under court challenge. Meanwhile, police hope to challenge street violence with a provision waiting for Gov. Pat Quinn's signature. It would mean gang members caught with guns would spend a mandatory three years behind bars. The ordinance would be named after Alex Valadez, a Chicago Police Officer who was killed.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:55"
+    },
+    {
+      "nodeID": "151041",
+      "text": "So Chicago has a total handgun ban, no exceptions for anyone except politicians with influence. Gangs are routinely armed with Chicago-illegal weaponry. The number of weapons has recovered has jumped to 7,000+ just for this year. And apparently Chicago thinks it knows better than the federal government. They're not playing ball with the mandatory five year prison sentence that armed criminals are supposed to face.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:55"
+    },
+    {
+      "nodeID": "151042",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:13:55"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191220",
+      "fromID": "151041",
+      "toID": "151042",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191221",
+      "fromID": "151042",
+      "toID": "151040",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

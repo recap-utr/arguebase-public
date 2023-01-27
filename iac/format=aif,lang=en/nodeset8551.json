@@ -1,0 +1,169 @@
+{
+  "nodes": [
+    {
+      "nodeID": "159169",
+      "text": "Well, at least they're trying to do it the right way, instead of finding some biased judges to render them some ruling. What I don't like though is the idea that civil unions can't be worked into a more doable institution. I'd love to see some sort of national full-benefits civil union system put in place for things like this.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:16"
+    },
+    {
+      "nodeID": "159170",
+      "text": "And I would agree with you as long as all marriages for all couples were called civil unions and there is no two tiered system.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:16"
+    },
+    {
+      "nodeID": "159171",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:32:16"
+    },
+    {
+      "nodeID": "159172",
+      "text": "Well, at least they're trying to do it the right way, instead of finding some biased judges to render them some ruling.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:16"
+    },
+    {
+      "nodeID": "159173",
+      "text": "Of course, since this has never happened, you really don't need to worry about it that much.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:16"
+    },
+    {
+      "nodeID": "159174",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:32:16"
+    },
+    {
+      "nodeID": "159175",
+      "text": "??? It just happened recently in Maryland",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:16"
+    },
+    {
+      "nodeID": "159176",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:32:16"
+    },
+    {
+      "nodeID": "159177",
+      "text": "You mean where the judge did the job she's paid to do by ruling on the constitutionality of a law? Or is this only a problem when it's laws that you like that are ruled unconstitutional? This is Civics 101. If the legislature writes a law that is unconstitutional, it's the job of the judicial branch to strike it down. The legislature can then rewrite the law, or get the constitution amended. I've yet to see you demonstrate this process being abused in the matter of gay marriage. All you've done is point out rulings you don't like.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:16"
+    },
+    {
+      "nodeID": "159178",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:32:16"
+    },
+    {
+      "nodeID": "159179",
+      "text": "True so true emoticon_xgood Now a true judicial activist would rule the unconstitutional the very state amendments that definds marriage between a man and a woman even though they are in the constitution. The laws such as in Mass. and other states that ruled on marriage were gender nutral. If the era http://www.now.org/issues/economic/eratext.html where in the US constitution then marriage equility could be fought in the courts on that level.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:16"
+    },
+    {
+      "nodeID": "159180",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:32:16"
+    },
+    {
+      "nodeID": "159181",
+      "text": "You mean where the judge did the job she's paid to do by ruling on the constitutionality of a law? Or is this only a problem when it's laws that you like that are ruled unconstitutional?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:16"
+    },
+    {
+      "nodeID": "159182",
+      "text": "When it's obviously a law that's not unconstitutional, then it's obvious the judge was biased in the ruling. A strict constitutionalist would never overturn a law like that, as the constitution does not define marriage.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:16"
+    },
+    {
+      "nodeID": "159183",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:32:17"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196978",
+      "fromID": "159170",
+      "toID": "159171",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196979",
+      "fromID": "159171",
+      "toID": "159169",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196980",
+      "fromID": "159173",
+      "toID": "159174",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196981",
+      "fromID": "159174",
+      "toID": "159172",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196982",
+      "fromID": "159175",
+      "toID": "159176",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196983",
+      "fromID": "159176",
+      "toID": "159173",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196984",
+      "fromID": "159177",
+      "toID": "159178",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196985",
+      "fromID": "159178",
+      "toID": "159175",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196986",
+      "fromID": "159179",
+      "toID": "159180",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196987",
+      "fromID": "159180",
+      "toID": "159177",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196988",
+      "fromID": "159182",
+      "toID": "159183",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196989",
+      "fromID": "159183",
+      "toID": "159181",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

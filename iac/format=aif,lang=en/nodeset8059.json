@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152003",
+      "text": "Try the U.S. Census records. I didn't actually look in the census records personally, but... ...these people did it for me.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:54"
+    },
+    {
+      "nodeID": "152004",
+      "text": "And you believed every word they fed you without a second thought. At least now we know whose line you're peddling. Please, cite your sources to start with in the future. It's not just a good idea, it's the rules. emoticon_xagree",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:54"
+    },
+    {
+      "nodeID": "152005",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:15:54"
+    },
+    {
+      "nodeID": "152006",
+      "text": "Actually, I had heard it several times on radio talk shows that normally do research before making claims. I then read it on several sites that cited the U.S. Census Records as their source. Since the radio shows and the websites all credited the U.S.Census, I perceived that they could not have made it up...since they all matched within acceptable tolerances. It does seem reasonable to you that such information could be gleaned from the census data...does it not? Will you agree that what they say is true?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:54"
+    },
+    {
+      "nodeID": "152007",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:15:54"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191902",
+      "fromID": "152004",
+      "toID": "152005",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191903",
+      "fromID": "152005",
+      "toID": "152003",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191904",
+      "fromID": "152006",
+      "toID": "152007",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191905",
+      "fromID": "152007",
+      "toID": "152004",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

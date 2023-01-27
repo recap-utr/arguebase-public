@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "137693",
+      "text": "They both claimed that this was result of the ban on handguns.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:28"
+    },
+    {
+      "nodeID": "137694",
+      "text": "Actually, Mega didn't make any claims. He just reposted an editorial.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:28"
+    },
+    {
+      "nodeID": "137695",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:45:28"
+    },
+    {
+      "nodeID": "137696",
+      "text": "Try to follow me for once. Mega showed high crime rates.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:28"
+    },
+    {
+      "nodeID": "137697",
+      "text": "No, Mega posted a long editorial from the guardian which was written after the police arrested the owner of a conversion factory. It's interesting that they claim the gun crimes stats have gone up, when all the sources I've seen show that violent gun crime has gone down. That's the guardian for you. It doesn't show that we have high crime rates whichever stats you accept.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:28"
+    },
+    {
+      "nodeID": "137698",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:45:29"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181780",
+      "fromID": "137694",
+      "toID": "137695",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181781",
+      "fromID": "137695",
+      "toID": "137693",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181782",
+      "fromID": "137697",
+      "toID": "137698",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181783",
+      "fromID": "137698",
+      "toID": "137696",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

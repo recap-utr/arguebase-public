@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "155639",
+      "text": "you believe God and ALL of what He says or you dont believe in any of it at all..",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:14"
+    },
+    {
+      "nodeID": "155640",
+      "text": "But first, you have to believe (on faith - no evidence) that you know what god said. And then you have to interpret that so that it is acceptable to you. Most people who use your same 'word of god' believe all of it but understand what it says differently.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:15"
+    },
+    {
+      "nodeID": "155641",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:15"
+    },
+    {
+      "nodeID": "155642",
+      "text": "and if i were on an isalnd i would ask myself how did these things get here? chance? probably not because when do two things happen exactly the same way..",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:15"
+    },
+    {
+      "nodeID": "155643",
+      "text": "Actually, we have a pretty good idea of how life populates islands. And yes, it is pretty much by chance that things get carried to islands by any of several means. Your question/statement about two things happening exactly the same way doesn't seem to make sense.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:15"
+    },
+    {
+      "nodeID": "155644",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:15"
+    },
+    {
+      "nodeID": "155645",
+      "text": "ok were supposed to believe in GOd and then believe in evolutin...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:15"
+    },
+    {
+      "nodeID": "155646",
+      "text": "Actually, no one cares if you believe in god. That is your business since it is something that you take on faith without any evidence that it is true. And no one believes in 'evolutin' [sic]. The theory of evolution is an explanation for observed facts that has been repeatedly tested. It is the best explanation that scientists have been able to formulate. It is based on evidence and not faith.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:15"
+    },
+    {
+      "nodeID": "155647",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:15"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194470",
+      "fromID": "155640",
+      "toID": "155641",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194471",
+      "fromID": "155641",
+      "toID": "155639",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194472",
+      "fromID": "155643",
+      "toID": "155644",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194473",
+      "fromID": "155644",
+      "toID": "155642",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194474",
+      "fromID": "155646",
+      "toID": "155647",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194475",
+      "fromID": "155647",
+      "toID": "155645",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

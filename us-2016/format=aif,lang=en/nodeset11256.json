@@ -1,0 +1,172 @@
+{
+  "nodes": [
+    {
+      "nodeID": "201897",
+      "text": "no info that Snowden stole fell into what wrong hands",
+      "type": "I",
+      "timestamp": "2016-09-22 15:15:12"
+    },
+    {
+      "nodeID": "201899",
+      "text": "telperiontree : Hillary, what info that Snowden stole fell into what wrong hands",
+      "type": "L",
+      "timestamp": "2016-09-22 15:15:13"
+    },
+    {
+      "nodeID": "201934",
+      "text": "grayk47 : Al-Qaeda was able to look at these papers and operations that were supposed to be redacted",
+      "type": "L",
+      "timestamp": "2016-09-22 15:15:16"
+    },
+    {
+      "nodeID": "201936",
+      "text": "Al-Qaeda was able to look at these papers and operations that were supposed to be redacted",
+      "type": "I",
+      "timestamp": "2016-09-22 15:15:16"
+    },
+    {
+      "nodeID": "256971",
+      "text": "CLINTON : in addition, he stole very important information that has unfortunately fallen into a lot of the wrong hands",
+      "type": "L",
+      "timestamp": "2016-12-22 13:48:21"
+    },
+    {
+      "nodeID": "256973",
+      "text": "in addition, Snowden stole very important information that has unfortunately fallen into a lot of the wrong hands",
+      "type": "I",
+      "timestamp": "2016-12-22 13:48:21"
+    },
+    {
+      "nodeID": "263998",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-08 11:12:43",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "263999",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-08 11:12:44",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "264000",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-08 11:12:44",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "264001",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-08 11:12:45",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264002",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2017-03-08 11:12:45",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "264003",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2017-03-08 11:12:46",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "319114",
+      "fromID": "256971",
+      "toID": "263998",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319115",
+      "fromID": "263998",
+      "toID": "201899",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319116",
+      "fromID": "201897",
+      "toID": "263999",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319117",
+      "fromID": "263999",
+      "toID": "256973",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319118",
+      "fromID": "263998",
+      "toID": "264000",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319119",
+      "fromID": "264000",
+      "toID": "263999",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319120",
+      "fromID": "256971",
+      "toID": "264001",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319121",
+      "fromID": "264001",
+      "toID": "201934",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319122",
+      "fromID": "201936",
+      "toID": "264002",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319123",
+      "fromID": "264002",
+      "toID": "256973",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319124",
+      "fromID": "264001",
+      "toID": "264003",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319125",
+      "fromID": "264003",
+      "toID": "264002",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "201899",
+      "personID": "1816",
+      "timestamp": "2016-09-22 15:15:29",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

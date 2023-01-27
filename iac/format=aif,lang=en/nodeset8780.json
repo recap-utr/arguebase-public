@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "162552",
+      "text": "Thats an easy one. The obvious and correct answer is a resounding no. It has had no effect on the criminal use of guns and no thinking person would have predicted that it would. It would be like reducing the number of scalple salesman in an effort to reduce botched surgeries.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:40:24"
+    },
+    {
+      "nodeID": "162553",
+      "text": "But wouldn't it make it more likely that a gun dealer that was involved in gun trafficking would be audited and caught by the ATF? If there are less FFLs then the ATF has more time to monitor and inspect each gun dealer.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:40:24"
+    },
+    {
+      "nodeID": "162554",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:40:24"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "199398",
+      "fromID": "162553",
+      "toID": "162554",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199399",
+      "fromID": "162554",
+      "toID": "162552",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

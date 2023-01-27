@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "161843",
+      "text": "Why do you say every medical association is against the ban?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:29"
+    },
+    {
+      "nodeID": "161844",
+      "text": "Because it was reported that every U.S. medical association was against the ban. My only source was MSNBC.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:29"
+    },
+    {
+      "nodeID": "161845",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:29"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198896",
+      "fromID": "161844",
+      "toID": "161845",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198897",
+      "fromID": "161845",
+      "toID": "161843",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "153479",
+      "text": "and why not in a university, people there are considered legal adults, after paying the money and doing the training, putting my fingerprints on record i would not be able to carry 70% of my time in public, the other time i work in a gun store, not like someone is going to rob them in daylight, seems criminals, even armed ones, avoid places saturated with guns, something to think about huh? Mathurin",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:22"
+    },
+    {
+      "nodeID": "153480",
+      "text": "Yes, the university one is quite possibly the most nonsensical. I will never understand why people seem to think that the mere presence of a weapon makes it somehow more likely that there is going to be a problem. I have lots and lots of guns, right here at my house. Last year, the murder rate at my house was 0. I think that we can most likely maintain the same this year.  What school are you at?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:22"
+    },
+    {
+      "nodeID": "153481",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:19:23"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192938",
+      "fromID": "153480",
+      "toID": "153481",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192939",
+      "fromID": "153481",
+      "toID": "153479",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "156211",
+      "text": "But this isn't really what I was talking about. Creationists always refer to 'random chemical reactions' as if there was anything random about chemical reactions. If two molecules react, the product is not random, but very determined by thermodynamics.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:36"
+    },
+    {
+      "nodeID": "156212",
+      "text": "I see now, sorry. Yes you are right: chemical reactions are not random. Simple reactions will be easy to determine precisely. More complex reactions will be more chaotic, but they still will not be random.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:36"
+    },
+    {
+      "nodeID": "156213",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:25:36"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194870",
+      "fromID": "156212",
+      "toID": "156213",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194871",
+      "fromID": "156213",
+      "toID": "156211",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

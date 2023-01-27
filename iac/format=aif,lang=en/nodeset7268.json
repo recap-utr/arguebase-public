@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140007",
+      "text": "such as how did we get here.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:33"
+    },
+    {
+      "nodeID": "140008",
+      "text": "But the Bible provides very little detail that can be reconciled with reality. Two myths don't actually answer many questions.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:33"
+    },
+    {
+      "nodeID": "140009",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:33"
+    },
+    {
+      "nodeID": "140010",
+      "text": "Only a fool would deny the validity of Geology in legitimate science. Just as only a fool would deny the bible answers our questions in spiritual matters, such as how did we get here. But to apply Geology to a false science such as evo is to corrupt it and will no doubt be proven to result in false conclussions ln many areas of its application. So much for this thread that was started in order to bait and mock rather than seek to learn or actually teach anything. emoticon_xangel emoticon_xgood",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:33"
+    },
+    {
+      "nodeID": "140011",
+      "text": "So, you accept Geology, and in turn accept the fact that the earth is around 4.56 billion years old (and not the literalist age given by fundies who worship the bible). And yet you reject all of the discoveries of geology (the fossil record, etc.) that evolution explains perfectly. And, as Pandion said before, it stands alone and shows the fact that life has existed in other forms billions of years ago, and humans only appeared recently. BTW, the 'fools' that are denying the validity of Geology as a legitimate science are your fellow creationists. As to the bible answering 'how did we get here', it is as good and trustworthy at that as any other mythology of any other civilization. The bible is mostly a collection of myths, folklore, fairy-tales, and politically influenced propoganda.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:33"
+    },
+    {
+      "nodeID": "140012",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:33"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183424",
+      "fromID": "140008",
+      "toID": "140009",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183425",
+      "fromID": "140009",
+      "toID": "140007",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183426",
+      "fromID": "140011",
+      "toID": "140012",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183427",
+      "fromID": "140012",
+      "toID": "140010",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

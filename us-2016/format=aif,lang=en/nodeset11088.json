@@ -1,0 +1,163 @@
+{
+  "nodes": [
+    {
+      "nodeID": "196706",
+      "text": "Ajwf : There wasn't anything to respond to",
+      "type": "L",
+      "timestamp": "2016-08-29 11:18:47"
+    },
+    {
+      "nodeID": "196708",
+      "text": "there wasn't anything to respond to",
+      "type": "I",
+      "timestamp": "2016-08-29 11:18:48"
+    },
+    {
+      "nodeID": "196717",
+      "text": "[deleted] : Bernie was, which is why he was like \"What the fuck was I suposed to say to that?\"",
+      "type": "L",
+      "timestamp": "2016-08-29 11:18:48"
+    },
+    {
+      "nodeID": "196719",
+      "text": "Bernie Sanders was like \"What the fuck was I supposed to say to that?\"",
+      "type": "I",
+      "timestamp": "2016-08-29 11:18:49"
+    },
+    {
+      "nodeID": "256328",
+      "text": "COOPER : Senator Sanders, I want you to be able to respond",
+      "type": "L",
+      "timestamp": "2016-12-22 13:16:37"
+    },
+    {
+      "nodeID": "256333",
+      "text": "WEBB : Pardon me?",
+      "type": "L",
+      "timestamp": "2016-12-22 13:16:37"
+    },
+    {
+      "nodeID": "262451",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-03 17:43:29",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "262452",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-03 17:43:29",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "262453",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-03 17:43:30",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "262454",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-03 17:43:30",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "262455",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-03 17:43:31",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "262456",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-03 17:43:31",
+      "scheme": "Restating",
+      "schemeID": "101"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "316570",
+      "fromID": "256328",
+      "toID": "262451",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316571",
+      "fromID": "262451",
+      "toID": "196706",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316572",
+      "fromID": "196708",
+      "toID": "262452",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316573",
+      "fromID": "262452",
+      "toID": "256328",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316574",
+      "fromID": "262451",
+      "toID": "262453",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316575",
+      "fromID": "262453",
+      "toID": "262452",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316576",
+      "fromID": "256333",
+      "toID": "262454",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316577",
+      "fromID": "262454",
+      "toID": "196717",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316578",
+      "fromID": "196719",
+      "toID": "262455",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316579",
+      "fromID": "262455",
+      "toID": "256333",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316580",
+      "fromID": "262454",
+      "toID": "262456",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316581",
+      "fromID": "262456",
+      "toID": "262455",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

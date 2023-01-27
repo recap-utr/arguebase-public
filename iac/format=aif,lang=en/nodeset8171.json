@@ -1,0 +1,175 @@
+{
+  "nodes": [
+    {
+      "nodeID": "153544",
+      "text": "'I survived an abortion attempt'  Gianna Jessen's mother was seven-and-a-half months pregnant when it was decided to abort the foetus she was carrying.  A saline solution was injected into Gianna's mother's womb, which doctors thought would kill the foetus within hours.  This time, most unusually, the procedure failed and Gianna was born alive, thanks in part to a shocked nurse.  She was so taken aback by Gianna's live delivery that she summoned an ambulance to whisk her from the abortion clinic to the hospital.  She weighed only two pounds at birth and needed to stay in hospital for nearly three months.  In an ironic twist of fate the abortionist had to sign her birth certificate.  Now American-born Gianna, aged 28, is in London to give her message against abortion.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:30"
+    },
+    {
+      "nodeID": "153545",
+      "text": "Opinions?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:30"
+    },
+    {
+      "nodeID": "153546",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:19:30"
+    },
+    {
+      "nodeID": "153547",
+      "text": "Wow. A very unusual and distressing story, and probably why saline abortions are no longer used. It is very unfortunate for her to have to live with that disability.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:31"
+    },
+    {
+      "nodeID": "153548",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:19:31"
+    },
+    {
+      "nodeID": "153549",
+      "text": "What disability? The fact that she survived a murderous attempt on her life?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:31"
+    },
+    {
+      "nodeID": "153550",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:19:31"
+    },
+    {
+      "nodeID": "153551",
+      "text": "It didn't work? Well, her mom should have just left her in the woods to die. I hear that one's pretty surefire. In all honesty, there is nothing distressing about this story. More people die in their heroic charge through the womb than from charging up every hill in historical war, combined. Even though the hill's got pill boxes and machine guns, after a few million, at least some lucky few are bound to scrape past. She just happens to be one.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:31"
+    },
+    {
+      "nodeID": "153552",
+      "text": "Correct. This is a story of survival.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:31"
+    },
+    {
+      "nodeID": "153553",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:19:31"
+    },
+    {
+      "nodeID": "153554",
+      "text": "I wonder how it is that Gianna's mother was able to obtain an abortion at 7.5 months gestation.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:31"
+    },
+    {
+      "nodeID": "153555",
+      "text": "I agree, that is one very important question the article does not address. I've not been able to Google any answer either; perhaps it is something that is undisclosed.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:31"
+    },
+    {
+      "nodeID": "153556",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:19:31"
+    },
+    {
+      "nodeID": "153557",
+      "text": "I would rather take life with a disability over death any day.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:31"
+    },
+    {
+      "nodeID": "153558",
+      "text": "As is obvious, not all would.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:31"
+    },
+    {
+      "nodeID": "153559",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:19:31"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192986",
+      "fromID": "153545",
+      "toID": "153546",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192987",
+      "fromID": "153546",
+      "toID": "153544",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192988",
+      "fromID": "153547",
+      "toID": "153548",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192989",
+      "fromID": "153548",
+      "toID": "153545",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192990",
+      "fromID": "153549",
+      "toID": "153550",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192991",
+      "fromID": "153550",
+      "toID": "153547",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192992",
+      "fromID": "153552",
+      "toID": "153553",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192993",
+      "fromID": "153553",
+      "toID": "153551",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192994",
+      "fromID": "153555",
+      "toID": "153556",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192995",
+      "fromID": "153556",
+      "toID": "153554",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192996",
+      "fromID": "153558",
+      "toID": "153559",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192997",
+      "fromID": "153559",
+      "toID": "153557",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

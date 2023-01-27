@@ -1,0 +1,145 @@
+{
+  "nodes": [
+    {
+      "nodeID": "159569",
+      "text": "A large fraction of the noncoding part of a eukaryotic genome is used to make RNA that is sufficiently stable in a cell to be detected by different technological approaches (1-4). The biological significance of this pervasive transcription is unclear and controversial. One possibility is that only very short regions of such unannotated RNA are biologically relevant (5). In-depth characterization of RNAs as to their subcellular compartmentalization, size, modifications, and genomic origins can potentially provide clues to their functions. This study reports two general observations derived from the maps of nuclear and cytosolic polyadenylated [poly(A)+] RNAs longer than 200 nucleotides (nt) (long RNAs, lRNAs) and whole-cell RNAs less than 200 nt (short RNAs, sRNAs) over the entire nonrepetitive portion of the human genome. First, the potential biological function of an appreciable portion of long unannotated transcripts is to serve as precursors for sRNAs. Second, these maps reveal three classes of RNAs that have specific genomic localization at gene boundaries. Biological relevance of these classes of RNAs is supported by strong correlation with the expression state of genes they associate with, as well as their syntenic conservation between human and mouse.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:16"
+    },
+    {
+      "nodeID": "159570",
+      "text": "Those who care enough to read the above and understand what the authors have studied will hardly jump on the bandwagon and declare that Genes are Dead.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:16"
+    },
+    {
+      "nodeID": "159571",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:33:16"
+    },
+    {
+      "nodeID": "159572",
+      "text": "Originally published in Science Express on 17 May 2007 Science 8 June 2007: Vol. 316. no. 5830, pp. 1484 - 1488 DOI: 10.1126/science.1138341 Prev | Table of Contents | Next Reports RNA Maps Reveal New RNA Classes and a Possible Function for Pervasive Transcription Philipp Kapranov,1 Jill Cheng,1 Sujit Dike,1 David A. Nix,1 Radharani Duttagupta,1 Aarron T. Willingham,1 Peter F. Stadler,2 Jana Hertel,2 J\u00f6rg Hackerm\u00fcller,3 Ivo L. Hofacker,4 Ian Bell,1 Evelyn Cheung,1 Jorg Drenkow,1 Erica Dumais,1 Sandeep Patel,1 Gregg Helt,1 Madhavan Ganesh,1 Srinka Ghosh,1 Antonio Piccolboni,1 Victor Sementchenko,1 Hari Tammana,1 Thomas R. Gingeras1* Significant fractions of eukaryotic genomes give rise to RNA, much of which is unannotated and has reduced protein-coding potential. The genomic origins and the associations of human nuclear and cytosolic polyadenylated RNAs longer than 200 nucleotides (nt) and whole-cell RNAs less than 200 nt were investigated in this genome-wide study. Subcellular addresses for nucleotides present in detected RNAs were assigned, and their potential processing into short RNAs was investigated. Taken together, these observations suggest a novel role for some unannotated RNAs as primary transcripts for the production of short RNAs. Three potentially functional classes of RNAs have been identified, two of which are syntenically conserved and correlate with the expression state of protein-coding genes. These data support a highly interleaved organization of the human transcriptome.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:16"
+    },
+    {
+      "nodeID": "159573",
+      "text": "And the introductory paragraph is interesting also.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:17"
+    },
+    {
+      "nodeID": "159574",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:33:17"
+    },
+    {
+      "nodeID": "159575",
+      "text": "Assuming the article is correct, these findings certainly constitute a revision to a broad part of genetics, but principally they are just going to give more scope for evolutionary change to cross-overs / translocations / recombination.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:17"
+    },
+    {
+      "nodeID": "159576",
+      "text": "It means life is holistic, not reductionist. Life, as is the genome, is a system -- an irreducibly complex system -- not an assortment of pieces that just happen to be fitted together over time via random genetic changes culled by nonrandom death.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:17"
+    },
+    {
+      "nodeID": "159577",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:33:17"
+    },
+    {
+      "nodeID": "159578",
+      "text": "No it means that the genome operates in a more complex way than was previously believed. It does not mean that 'life is irreducibly complex' since that term is not even sufficiently well defined to test the assertion. And given the scattering of information into many pieces I would say that more and more it looks like 'pieces that happen to be fitted together'. More and more like a complex kludge. Exactly what one might expect to find in an evolved system rather than a designed or deliberate or intentional one!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:17"
+    },
+    {
+      "nodeID": "159579",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:33:17"
+    },
+    {
+      "nodeID": "159580",
+      "text": "right...genes evolved to the point to where they can't even be defined anymore....Evolution has evolved.... Natural selection naturally selected itself out. yup.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:17"
+    },
+    {
+      "nodeID": "159581",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:33:17"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "197266",
+      "fromID": "159570",
+      "toID": "159571",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197267",
+      "fromID": "159571",
+      "toID": "159569",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197268",
+      "fromID": "159573",
+      "toID": "159574",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197269",
+      "fromID": "159574",
+      "toID": "159572",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197270",
+      "fromID": "159576",
+      "toID": "159577",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197271",
+      "fromID": "159577",
+      "toID": "159575",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197272",
+      "fromID": "159578",
+      "toID": "159579",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197273",
+      "fromID": "159579",
+      "toID": "159576",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197274",
+      "fromID": "159580",
+      "toID": "159581",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197275",
+      "fromID": "159581",
+      "toID": "159578",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

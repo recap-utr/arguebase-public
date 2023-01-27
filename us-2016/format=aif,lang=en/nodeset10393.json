@@ -1,0 +1,781 @@
+{
+  "nodes": [
+    {
+      "nodeID": "211197",
+      "text": "spritehead : who does everyone think is the biggest scumbag on stage",
+      "type": "L",
+      "timestamp": "2016-10-31 17:02:49"
+    },
+    {
+      "nodeID": "211198",
+      "text": "Pure Questioning",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:02:49",
+      "scheme": "PureQuestioning",
+      "schemeID": "91"
+    },
+    {
+      "nodeID": "211199",
+      "text": "the biggest scumbag on stage is XXX",
+      "type": "I",
+      "timestamp": "2016-10-31 17:02:50"
+    },
+    {
+      "nodeID": "211200",
+      "text": "Rory: spritehead : who does everyone think is the biggest scumbag on stage",
+      "type": "L",
+      "timestamp": "2016-10-31 17:02:50"
+    },
+    {
+      "nodeID": "211201",
+      "text": "spritehead : I'm thinking Walker has it",
+      "type": "L",
+      "timestamp": "2016-10-31 17:02:50"
+    },
+    {
+      "nodeID": "211202",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:02:50",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211203",
+      "text": "I'm thinking WALKER has it",
+      "type": "I",
+      "timestamp": "2016-10-31 17:02:50"
+    },
+    {
+      "nodeID": "211204",
+      "text": "Rory: spritehead : I'm thinking Walker has it",
+      "type": "L",
+      "timestamp": "2016-10-31 17:02:50"
+    },
+    {
+      "nodeID": "211205",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:02:50",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211206",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-10-31 17:02:50",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "211207",
+      "text": "Default Illocuting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:02:50",
+      "scheme": "Default Illocuting",
+      "schemeID": "168"
+    },
+    {
+      "nodeID": "211208",
+      "text": "spritehead : Cruz and Christie give him a run for his money",
+      "type": "L",
+      "timestamp": "2016-10-31 17:02:50"
+    },
+    {
+      "nodeID": "211209",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:02:50",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211210",
+      "text": "CRUZ and CHRISTIE give WALKER a run for WALKERs money",
+      "type": "I",
+      "timestamp": "2016-10-31 17:02:51"
+    },
+    {
+      "nodeID": "211211",
+      "text": "Rory: spritehead : Cruz and Christie give him a run for his money",
+      "type": "L",
+      "timestamp": "2016-10-31 17:02:51"
+    },
+    {
+      "nodeID": "211212",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:02:51",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211213",
+      "text": "sfoura : It's definitely Walker",
+      "type": "L",
+      "timestamp": "2016-10-31 17:02:51"
+    },
+    {
+      "nodeID": "211214",
+      "text": "Rory: sfoura : It's definitely Walker",
+      "type": "L",
+      "timestamp": "2016-10-31 17:02:51"
+    },
+    {
+      "nodeID": "211215",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:02:51",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211216",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:02:51",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    },
+    {
+      "nodeID": "211217",
+      "text": "keatonbug : Cruz and its not even close",
+      "type": "L",
+      "timestamp": "2016-10-31 17:02:51"
+    },
+    {
+      "nodeID": "211218",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:02:51",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211219",
+      "text": "CRUZ and its not even close",
+      "type": "I",
+      "timestamp": "2016-10-31 17:02:51"
+    },
+    {
+      "nodeID": "211220",
+      "text": "Rory: keatonbug : Cruz and its not even close",
+      "type": "L",
+      "timestamp": "2016-10-31 17:02:51"
+    },
+    {
+      "nodeID": "211221",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:02:52",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211222",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-10-31 17:02:52",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "211223",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:02:52",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "211224",
+      "text": "keatonbug : This is coming from a Wisconsinite too",
+      "type": "L",
+      "timestamp": "2016-10-31 17:02:52"
+    },
+    {
+      "nodeID": "211225",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:02:52",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211226",
+      "text": "This is coming from a Wisconsinite too",
+      "type": "I",
+      "timestamp": "2016-10-31 17:02:52"
+    },
+    {
+      "nodeID": "211227",
+      "text": "Rory: keatonbug : This is coming from a Wisconsinite too",
+      "type": "L",
+      "timestamp": "2016-10-31 17:02:52"
+    },
+    {
+      "nodeID": "211228",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:02:52",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211229",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 17:02:52",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "211230",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:02:52",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "211231",
+      "text": "NiceGuyNate : I was going to say Walker but then I remembered Cruz and I vomited in my mouth",
+      "type": "L",
+      "timestamp": "2016-10-31 17:02:53"
+    },
+    {
+      "nodeID": "211232",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:02:53",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211233",
+      "text": "I was going to say WALKER but then I remembered CRUZ and I vomited in my mouth",
+      "type": "I",
+      "timestamp": "2016-10-31 17:02:53"
+    },
+    {
+      "nodeID": "211234",
+      "text": "Rory: NiceGuyNate : I was going to say Walker but then I remembered Cruz and I vomited in my mouth",
+      "type": "L",
+      "timestamp": "2016-10-31 17:02:53"
+    },
+    {
+      "nodeID": "211235",
+      "text": "NiceGuyNate : probably him",
+      "type": "L",
+      "timestamp": "2016-10-31 17:02:53"
+    },
+    {
+      "nodeID": "211236",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:02:53",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211237",
+      "text": "probably CRUZ",
+      "type": "I",
+      "timestamp": "2016-10-31 17:02:53"
+    },
+    {
+      "nodeID": "211238",
+      "text": "Rory: NiceGuyNate : probably him",
+      "type": "L",
+      "timestamp": "2016-10-31 17:02:53"
+    },
+    {
+      "nodeID": "211239",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:02:53",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211240",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:02:53",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211241",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 17:02:53",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "211242",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:02:54",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "211243",
+      "text": "Rory: faerieswing : Walker",
+      "type": "L",
+      "timestamp": "2016-10-31 17:02:54"
+    },
+    {
+      "nodeID": "211244",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:02:54",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211245",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:02:54",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    },
+    {
+      "nodeID": "211246",
+      "text": "faerieswing : Walker",
+      "type": "L",
+      "timestamp": "2016-10-31 17:02:54"
+    },
+    {
+      "nodeID": "211247",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:02:54",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211248",
+      "text": "WALKER",
+      "type": "I",
+      "timestamp": "2016-10-31 17:02:54"
+    },
+    {
+      "nodeID": "211249",
+      "text": "faerieswing : I shit things that would be better suited to run this country",
+      "type": "L",
+      "timestamp": "2016-10-31 17:02:54"
+    },
+    {
+      "nodeID": "211250",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:02:54",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211251",
+      "text": "I shit things that would be better suited to run this country",
+      "type": "I",
+      "timestamp": "2016-10-31 17:02:54"
+    },
+    {
+      "nodeID": "211252",
+      "text": "Rory: faerieswing : I shit things that would be better suited to run this country",
+      "type": "L",
+      "timestamp": "2016-10-31 17:02:55"
+    },
+    {
+      "nodeID": "211253",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:02:55",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211254",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 17:02:55",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "211255",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:02:55",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "257765",
+      "fromID": "211198",
+      "toID": "211199",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257766",
+      "fromID": "211197",
+      "toID": "211198",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257767",
+      "fromID": "211202",
+      "toID": "211203",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257768",
+      "fromID": "211201",
+      "toID": "211202",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257769",
+      "fromID": "211197",
+      "toID": "211205",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257770",
+      "fromID": "211205",
+      "toID": "211201",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257771",
+      "fromID": "211203",
+      "toID": "211206",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257772",
+      "fromID": "211206",
+      "toID": "211199",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257773",
+      "fromID": "211205",
+      "toID": "211207",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257774",
+      "fromID": "211207",
+      "toID": "211206",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257775",
+      "fromID": "211209",
+      "toID": "211210",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257776",
+      "fromID": "211208",
+      "toID": "211209",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257777",
+      "fromID": "211201",
+      "toID": "211212",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257778",
+      "fromID": "211212",
+      "toID": "211208",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257779",
+      "fromID": "211201",
+      "toID": "211215",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257780",
+      "fromID": "211215",
+      "toID": "211213",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257781",
+      "fromID": "211215",
+      "toID": "211216",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257782",
+      "fromID": "211216",
+      "toID": "211203",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257783",
+      "fromID": "211218",
+      "toID": "211219",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257784",
+      "fromID": "211217",
+      "toID": "211218",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257785",
+      "fromID": "211201",
+      "toID": "211221",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257786",
+      "fromID": "211221",
+      "toID": "211217",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257787",
+      "fromID": "211219",
+      "toID": "211222",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257788",
+      "fromID": "211222",
+      "toID": "211203",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257789",
+      "fromID": "211221",
+      "toID": "211223",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257790",
+      "fromID": "211223",
+      "toID": "211222",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257791",
+      "fromID": "211225",
+      "toID": "211226",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257792",
+      "fromID": "211224",
+      "toID": "211225",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257793",
+      "fromID": "211217",
+      "toID": "211228",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257794",
+      "fromID": "211228",
+      "toID": "211224",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257795",
+      "fromID": "211226",
+      "toID": "211229",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257796",
+      "fromID": "211229",
+      "toID": "211219",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257797",
+      "fromID": "211228",
+      "toID": "211230",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257798",
+      "fromID": "211230",
+      "toID": "211229",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257799",
+      "fromID": "211232",
+      "toID": "211233",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257800",
+      "fromID": "211231",
+      "toID": "211232",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257801",
+      "fromID": "211236",
+      "toID": "211237",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257802",
+      "fromID": "211235",
+      "toID": "211236",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257803",
+      "fromID": "211208",
+      "toID": "211239",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257804",
+      "fromID": "211239",
+      "toID": "211235",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257805",
+      "fromID": "211231",
+      "toID": "211240",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257806",
+      "fromID": "211240",
+      "toID": "211235",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257807",
+      "fromID": "211233",
+      "toID": "211241",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257808",
+      "fromID": "211241",
+      "toID": "211237",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257809",
+      "fromID": "211240",
+      "toID": "211242",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257810",
+      "fromID": "211242",
+      "toID": "211241",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257811",
+      "fromID": "211201",
+      "toID": "211244",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257812",
+      "fromID": "211244",
+      "toID": "211245",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257813",
+      "fromID": "211245",
+      "toID": "211203",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257814",
+      "fromID": "211247",
+      "toID": "211248",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257815",
+      "fromID": "211246",
+      "toID": "211247",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257816",
+      "fromID": "211244",
+      "toID": "211246",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257817",
+      "fromID": "211250",
+      "toID": "211251",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257818",
+      "fromID": "211249",
+      "toID": "211250",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257819",
+      "fromID": "211246",
+      "toID": "211253",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257820",
+      "fromID": "211253",
+      "toID": "211249",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257821",
+      "fromID": "211251",
+      "toID": "211254",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257822",
+      "fromID": "211254",
+      "toID": "211248",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257823",
+      "fromID": "211253",
+      "toID": "211255",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257824",
+      "fromID": "211255",
+      "toID": "211254",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

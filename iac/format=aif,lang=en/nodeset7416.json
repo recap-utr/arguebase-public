@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141876",
+      "text": "Hope you like this one. I really think it's funny. http://www.workingforchange.com/comic.cfm?itemid=19521",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:51"
+    },
+    {
+      "nodeID": "141877",
+      "text": "Heh, half the science with twice the religion, nice emoticon_xangel",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:51"
+    },
+    {
+      "nodeID": "141878",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:54:51"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184746",
+      "fromID": "141877",
+      "toID": "141878",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184747",
+      "fromID": "141878",
+      "toID": "141876",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "137939",
+      "text": "It is legal for a woman to abort a fetus in the first trimester, and further along if there are complications. No repercussions, no trials for murder, just kill the baby, it isn't viable yet... But on the other hand, a pregnant woman is attacked in her first trimester and her baby dies. Her attacker is charged with murder of an unborn child, or intentional/unintentional conduct against a pregnancy. A pregnant woman is attacked and murdered. Now her attacker faces double homicide. My question is why is it ok for a woman to kill her baby and it is perfectly legal, but if someone else does it, why are they charged with murder, or manslaughter?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:06"
+    },
+    {
+      "nodeID": "137940",
+      "text": "Because when someone attacks the pregnant woman, she doesn't have a choice whether the fetus dies. When she has an abortion, it is her choice. A woman should be able to choose whether or not she remains pregnant.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:06"
+    },
+    {
+      "nodeID": "137941",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:46:06"
+    },
+    {
+      "nodeID": "137942",
+      "text": "But, as far as I can tell, the pro-choice side of things isn't just about the woman's choice, it is about whether or not the fetus is a person. The fetus is a person or it is not. It has legal status or it does not. It can be murdered or it cannot.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:06"
+    },
+    {
+      "nodeID": "137943",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:46:06"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181954",
+      "fromID": "137940",
+      "toID": "137941",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181955",
+      "fromID": "137941",
+      "toID": "137939",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181956",
+      "fromID": "137942",
+      "toID": "137943",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181957",
+      "fromID": "137943",
+      "toID": "137940",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

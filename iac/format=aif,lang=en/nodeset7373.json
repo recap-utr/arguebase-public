@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141404",
+      "text": "Everyone? By 'everyone' do you also mean criminals that're currently out and about on the streets, either because they're on probation, parole, or legal technicalities?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:37"
+    },
+    {
+      "nodeID": "141405",
+      "text": "I think it depends on what they were charged with. Rapist-no child molester-no Basically most or all crimes of violence-no Possession of pot-o.k. your basic chicken ####stuff.emoticon_xkill",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:37"
+    },
+    {
+      "nodeID": "141406",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:53:37"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184420",
+      "fromID": "141405",
+      "toID": "141406",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184421",
+      "fromID": "141406",
+      "toID": "141404",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

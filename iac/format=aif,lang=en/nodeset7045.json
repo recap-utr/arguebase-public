@@ -1,0 +1,151 @@
+{
+  "nodes": [
+    {
+      "nodeID": "136802",
+      "text": "Federal judges tentatively ruled on Monday that California must reduce the number of inmates in its overcrowded prison system by up to 40 percent to stop a constitutional violation of prisoners' rights. Implementing the court's ruling would result in up to 58,000 prisoners being released, Cate said, describing it as a threat to public safety.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:50"
+    },
+    {
+      "nodeID": "136803",
+      "text": "So how can THIS end up good? How do we fix this?  What? More gun control? emoticon_smile",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:50"
+    },
+    {
+      "nodeID": "136804",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:43:50"
+    },
+    {
+      "nodeID": "136805",
+      "text": "California may have to cut prison population by 40 percent So how can THIS end up good? How do we fix this?  What? More gun control? emoticon_smile",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:50"
+    },
+    {
+      "nodeID": "136806",
+      "text": "Probably part of the dems' voter registration drive. Their new plan is to let convicted felons 'restore lost voting rights'. They probably have a conflict of interest on restoring all civil rights, just the one that helps them get elected and re-elected since that is a major portion of dems anyway...",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:50"
+    },
+    {
+      "nodeID": "136807",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:43:50"
+    },
+    {
+      "nodeID": "136808",
+      "text": "Sounds like primarily drug offenses. Nothing about guns.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:50"
+    },
+    {
+      "nodeID": "136809",
+      "text": "I'd find it interesting to discover how many of those 58,000 were looking at very long and serious sentences, but were given a plea deal for reduced charges.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:50"
+    },
+    {
+      "nodeID": "136810",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:43:50"
+    },
+    {
+      "nodeID": "136811",
+      "text": "'He said the ruling would affect those in jail for three or four months because of parole violations, those getting early release dates, and those who might qualify for early release for taking part in rehabilitation programs.' sinjin - Sounds like primarily drug offenses. Nothing about guns.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:50"
+    },
+    {
+      "nodeID": "136812",
+      "text": "IOW, you don't have a clue. The usual nothing just a WAG. I am surprised NATO bit on a line like that? Perhaps he thought you actually knew something emoticon_xgood",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:51"
+    },
+    {
+      "nodeID": "136813",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:43:51"
+    },
+    {
+      "nodeID": "136814",
+      "text": "Get back to us on that.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:51"
+    },
+    {
+      "nodeID": "136815",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:43:51"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181132",
+      "fromID": "136803",
+      "toID": "136804",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181133",
+      "fromID": "136804",
+      "toID": "136802",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181134",
+      "fromID": "136806",
+      "toID": "136807",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181135",
+      "fromID": "136807",
+      "toID": "136805",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181136",
+      "fromID": "136809",
+      "toID": "136810",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181137",
+      "fromID": "136810",
+      "toID": "136808",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181138",
+      "fromID": "136812",
+      "toID": "136813",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181139",
+      "fromID": "136813",
+      "toID": "136811",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181140",
+      "fromID": "136814",
+      "toID": "136815",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181141",
+      "fromID": "136815",
+      "toID": "136809",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

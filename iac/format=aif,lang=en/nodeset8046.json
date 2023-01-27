@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151712",
+      "text": "I have no problem what it is called, marriage, civil unions, or Fred. As long as there are the same benefits (and drawbacks) legally as marraeg.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:21"
+    },
+    {
+      "nodeID": "151713",
+      "text": "So we agree..... What I want to know is why the vocal homosexual 'lobby' insists on the term 'marriage?' emclean, the sanctity of marriage would not be the only thing about marriage to be (harmed?) changed. The whole definition of marriage would change, too.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:21"
+    },
+    {
+      "nodeID": "151714",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:15:21"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191690",
+      "fromID": "151713",
+      "toID": "151714",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191691",
+      "fromID": "151714",
+      "toID": "151712",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

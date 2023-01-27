@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139146",
+      "text": "as far as evolution itself, teaching the fact and effect of evolution is a good thing, since it does fall under science. the other theories, thats another matter...",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:34"
+    },
+    {
+      "nodeID": "139147",
+      "text": "Actually, it's not. The big bang theory is also science. What exactly do you think the big bang theory is? What evidence do you think supports it? What evidence is there against it? why do you disagree? What is your education in cosmology - in other words, why is your disagreement rational?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:34"
+    },
+    {
+      "nodeID": "139148",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:48:35"
+    },
+    {
+      "nodeID": "139149",
+      "text": "you see, the thing is that not everybody agrees with some of the theories that usually accompany evolution (including Big Bang, abiogenesis, etc) that try to answer the question 'how come existence'.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:35"
+    },
+    {
+      "nodeID": "139150",
+      "text": "But I think that is the point. What if you didn't agree with the germ theory of disease? Does that mean that it shouldn't be taught in health classes in our schools? Should it be replaced by the bad humors of night air theory? But not everyone agrees with that theory either.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:35"
+    },
+    {
+      "nodeID": "139151",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:48:35"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182822",
+      "fromID": "139147",
+      "toID": "139148",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182823",
+      "fromID": "139148",
+      "toID": "139146",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182824",
+      "fromID": "139150",
+      "toID": "139151",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182825",
+      "fromID": "139151",
+      "toID": "139149",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

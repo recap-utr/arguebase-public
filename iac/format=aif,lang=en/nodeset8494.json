@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "158119",
+      "text": "Look to this site, which does not credit Keynes with the above, for other statements by Keynes: John Maynard Keynes - Wikiquote",
+      "type": "I",
+      "timestamp": "2016-03-08 20:30:01"
+    },
+    {
+      "nodeID": "158120",
+      "text": "And your point is...?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:30:01"
+    },
+    {
+      "nodeID": "158121",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:30:02"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196226",
+      "fromID": "158120",
+      "toID": "158121",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196227",
+      "fromID": "158121",
+      "toID": "158119",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

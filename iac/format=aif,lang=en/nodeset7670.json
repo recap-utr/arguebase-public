@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "146064",
+      "text": "It the religious nut cases that are against abortion, and think it was judical activism to award abortion rights with ROE then why don't they just put the question of abortion on the ballot? They believe in putting other civil rights issues on the ballot. Why not abortion?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:27"
+    },
+    {
+      "nodeID": "146065",
+      "text": "Because you cannot reverse an incorrect United States Supreme Court decision with a ballot. Simple as that. Additionally, prior to 1973, abortion was already settled democratically in most states. And, regardless of whether 99.9% of the people in the US approve of the court's decision in Roe, that decision would still be judicial activism, and as such, would still merit reversal by the Supreme Court.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:27"
+    },
+    {
+      "nodeID": "146066",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:03:28"
+    },
+    {
+      "nodeID": "146067",
+      "text": "Please correct me if I am wrong, but does it not take a number of signatures to even get it on the ballot?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:28"
+    },
+    {
+      "nodeID": "146068",
+      "text": "Yes it does. They have the church organizations. In michigan in 2004 they had petition signing sundays in churches, a state wide organization to put marriage on the ballot. So why not do the same with abortion? If these nutcases feel so strongly that abortion should be banned and they have made the case, as in the marriage initiatives, that the will of the people should be heard then why not get their butts in gear and put it to a popular vote? All I have heard from these christianists is that the people should get to vote and that the courts should not over ride the will of the people. If they turly believe that then why not put it on the ballot and let the people be heard? Could it be that, unlike marriage, the majority of people support a womans right to choose?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:28"
+    },
+    {
+      "nodeID": "146069",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:03:28"
+    },
+    {
+      "nodeID": "146070",
+      "text": "And, regardless of whether 99.9% of the people in the US approve of the court's decision in Roe, that decision would still be judicial activism, and as such, would still merit reversal by the Supreme Court.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:28"
+    },
+    {
+      "nodeID": "146071",
+      "text": "No more so than the Scalia/Uncle Clarence Thomas cabal opining that the words NO LAW mean something other than what they do when they rule in a First Amendment case.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:28"
+    },
+    {
+      "nodeID": "146072",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:03:28"
+    },
+    {
+      "nodeID": "146073",
+      "text": "Regardless, any decision that holds that something is in the Constitution, when in fact it really is not, is wrong and merits reversal no matter which judges perpetrate the wrong decision.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:28"
+    },
+    {
+      "nodeID": "146074",
+      "text": "So then, are we to presume that you would favor the sale and distribution of, to take the worst possible example, kiddie porn with no restrictions? After all, the First Amendment says 'Congress shall make NO LAW abridging freedom of the press. BTW, re. Texas v. Johnson: Is a flag burning speech, and where in the Constitution does it say so?emoticon_frazzled  I agree with the decision, which simply goes to prove that even a blind Antonin can find a peanut now and then.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:28"
+    },
+    {
+      "nodeID": "146075",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:03:28"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187708",
+      "fromID": "146065",
+      "toID": "146066",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187709",
+      "fromID": "146066",
+      "toID": "146064",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187710",
+      "fromID": "146068",
+      "toID": "146069",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187711",
+      "fromID": "146069",
+      "toID": "146067",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187712",
+      "fromID": "146071",
+      "toID": "146072",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187713",
+      "fromID": "146072",
+      "toID": "146070",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187714",
+      "fromID": "146074",
+      "toID": "146075",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187715",
+      "fromID": "146075",
+      "toID": "146073",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

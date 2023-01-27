@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "188139",
+      "text": "chillbroswagginzz : Unfortunately the crowd blew up for Hillary's insane ideas (suing gun companies for the end users actions?) and were silent on Sanders",
+      "type": "L",
+      "timestamp": "2016-08-03 10:39:11"
+    },
+    {
+      "nodeID": "188141",
+      "text": "the crowd blew up for Hillary's insane ideas (suing gun companies for the end users actions?) and were silent on Sanders",
+      "type": "I",
+      "timestamp": "2016-08-03 10:39:11"
+    },
+    {
+      "nodeID": "241068",
+      "text": "CLINTON : Everybody else has to be accountable, but not the gun manufacturers",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:45"
+    },
+    {
+      "nodeID": "241070",
+      "text": "Everybody else has to be accountable, but not the gun manufacturers",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:45"
+    },
+    {
+      "nodeID": "262277",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-03 15:27:29",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "262278",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-03 15:27:29",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "262279",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-03 15:27:30",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "316296",
+      "fromID": "241068",
+      "toID": "262277",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316297",
+      "fromID": "262277",
+      "toID": "188139",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316298",
+      "fromID": "188141",
+      "toID": "262278",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316299",
+      "fromID": "262278",
+      "toID": "241070",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316300",
+      "fromID": "262277",
+      "toID": "262279",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316301",
+      "fromID": "262279",
+      "toID": "262278",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

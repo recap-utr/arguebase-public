@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "144969",
+      "text": "'[...] the right to health, to home, to work, to family, to culture -- is false and illusory if the right to life, the most basic and fundamental right and the condition for all other personal rights, is not defended with maximum determination.'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:11"
+    },
+    {
+      "nodeID": "144970",
+      "text": "This is why arguments like 'well, our population is out of control' never convince ANY Pro-Life advocate that abortion is okay. I think it is amusing when pro-choice people use such arguments... Pro-Lifers have a priority list, and Life makes it to the top. For Pro-Lifers, it's a little like saying 'Well, Big Macs taste good, so you should never, ever eat filet mignon since burgers taste good!' I mean, sure, burgers taste good, but filet mignon is so much better.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:11"
+    },
+    {
+      "nodeID": "144971",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:01:11"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186946",
+      "fromID": "144970",
+      "toID": "144971",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186947",
+      "fromID": "144971",
+      "toID": "144969",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

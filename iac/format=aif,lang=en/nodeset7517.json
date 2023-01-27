@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143444",
+      "text": "http://www.imagequest3d.com/cgi-bin/ImageFolio4/imageFolio.cgi?action=view&link=aquatic/chordata/osteichthyes&image=PJH00095.jpg&img=0&search=Deep%20Sea%20Angler%20Fish&cat=aquatic&tt=&bool=and How did the anglerfishes evolve their rods and lures?...and why do they need such big teeth?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:08"
+    },
+    {
+      "nodeID": "143445",
+      "text": "I'll address the later question. They may not 'need' teeth that big, I couldn't say. Just because a creature has a feature doesn't mean its necessary or useful. While evolution does select for useful traits and against harmful traits, that doesn't mean that a trait won't develop that is simply odd. As long as it isn't particularly negative there's no reason to assume it will go away, and so sometimes you get traits that aren't 'useful', they're simply not harmful. Those teeth could be such a case.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:08"
+    },
+    {
+      "nodeID": "143446",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:58:08"
+    },
+    {
+      "nodeID": "143447",
+      "text": ". . . How did the anglerfishes evolve their rods and lures?... . . .",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:08"
+    },
+    {
+      "nodeID": "143448",
+      "text": "Can I tidy up this leftover part...? Fractionally.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:08"
+    },
+    {
+      "nodeID": "143449",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:58:08"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185868",
+      "fromID": "143445",
+      "toID": "143446",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185869",
+      "fromID": "143446",
+      "toID": "143444",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185870",
+      "fromID": "143448",
+      "toID": "143449",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185871",
+      "fromID": "143449",
+      "toID": "143447",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

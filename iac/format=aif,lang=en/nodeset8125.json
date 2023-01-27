@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152774",
+      "text": "A few cherry picked facts about California don't prove anything.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:44"
+    },
+    {
+      "nodeID": "152775",
+      "text": "So says the master of cherry picking.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:44"
+    },
+    {
+      "nodeID": "152776",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:17:44"
+    },
+    {
+      "nodeID": "152777",
+      "text": "I said the Brady Campaign and other gun control groups made the statement of California being safe. Their message is that gun control makes people safer. They gave California an A rating for their high levels of gun control. Putting those two facts together they're endorsing California as being a safe state.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:44"
+    },
+    {
+      "nodeID": "152778",
+      "text": "Actually, you said:",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:44"
+    },
+    {
+      "nodeID": "152779",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:17:45"
+    },
+    {
+      "nodeID": "152780",
+      "text": "Of course they're not the same thing, but you're dodging the point- the mere fact that bad things happen does not disprove the ineffectiveness of laws that are intended to prevent those bad things from happening.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:45"
+    },
+    {
+      "nodeID": "152781",
+      "text": "Actually it does. Gangbangers and other criminals aren't allowed to possess firearms. Having an unregistered firearm is illegal in California. You need a license to own a handgun in California. Transporting an uncased, loaded firearm in California is a crime. Carrying a concealed weapon without a nearly impossible to get permit is a crime. Open carry of a loaded weapon is a crime. If the governor doesn't show some backbone then soon the open carry of an unloaded firearm will also be a crime. All of these acts are crimes. Plenty for the police to arrest the people doing the drive by shootings, plenty of offenses to file charges on. The police have all the tools they'd need for keeping the people of California safe, and yet California still has the highest number of drive by shootings in the entire nation. Wise up. Gun control laws are doing nothing to protect anyone. And if they were helping take 'guns off the streets' and 'out of the hands of the bad guys' then this high number wouldn't have happened.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:45"
+    },
+    {
+      "nodeID": "152782",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:17:45"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192438",
+      "fromID": "152775",
+      "toID": "152776",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192439",
+      "fromID": "152776",
+      "toID": "152774",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192440",
+      "fromID": "152778",
+      "toID": "152779",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192441",
+      "fromID": "152779",
+      "toID": "152777",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192442",
+      "fromID": "152781",
+      "toID": "152782",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192443",
+      "fromID": "152782",
+      "toID": "152780",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "136244",
+      "text": "I maintain that anyone who disagrees with this point of view is a depraved monster, a moral leper who is unworthy to be called a true human being.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:42:42"
+    },
+    {
+      "nodeID": "136245",
+      "text": "And I maintain that your belief is dangerous to America and people like you should be deported to less civilized countries so you can truly appreciate what you had.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:42:42"
+    },
+    {
+      "nodeID": "136246",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:42:42"
+    },
+    {
+      "nodeID": "136247",
+      "text": "Well (surprise! surprise!), most of the people who responded to my original posting managed (deliberately?) to misunderstand my point. I made an analogy between alcoholism and gun-use, and posed an hypothetical:",
+      "type": "I",
+      "timestamp": "2016-03-08 19:42:42"
+    },
+    {
+      "nodeID": "136248",
+      "text": "And you did a quite poor job at it too.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:42:42"
+    },
+    {
+      "nodeID": "136249",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:42:42"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "180738",
+      "fromID": "136245",
+      "toID": "136246",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180739",
+      "fromID": "136246",
+      "toID": "136244",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180740",
+      "fromID": "136248",
+      "toID": "136249",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180741",
+      "fromID": "136249",
+      "toID": "136247",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,157 @@
+{
+  "nodes": [
+    {
+      "nodeID": "160760",
+      "text": "In the discussion of abortion, the subject of sexual intercourse naturally occurs. There is debate about sex for procreative and non-procreative purposes, among other topics. I would propose that if you have never had sex, it really is impossible to make thoughtful comments along these lines and should be precluded from discussing sexual behavior in this forum.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:55"
+    },
+    {
+      "nodeID": "160761",
+      "text": "Have you ever had an abortion?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:55"
+    },
+    {
+      "nodeID": "160762",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:35:56"
+    },
+    {
+      "nodeID": "160763",
+      "text": "And while were at it, let's limit education to just high school students, Gay Rights to just gay people, Religion to Roman Catholics, Gun Control to people who own a gun, Sports to Jocks and Fun debates is now limited to people who are not boring.   Wow, I'm not going be able to do too much. I should shut-up while I'm behind. :p",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:56"
+    },
+    {
+      "nodeID": "160764",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:35:56"
+    },
+    {
+      "nodeID": "160765",
+      "text": "Good point. Touche. Though lots of folks have not had abortions. Certainly most men have not.  I was just growing tired of a certain little poster's uninformed opinions of sexual activity. My post was intended to be a little playful. If it missed the mark, mea culpa.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:56"
+    },
+    {
+      "nodeID": "160766",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:35:56"
+    },
+    {
+      "nodeID": "160767",
+      "text": "I know. I just don't want to be accused of only spitting in one direction. Carry on.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:56"
+    },
+    {
+      "nodeID": "160768",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:35:56"
+    },
+    {
+      "nodeID": "160769",
+      "text": "haha...I'll remember this next time I think of accusing you of spitting in one direction :p",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:56"
+    },
+    {
+      "nodeID": "160770",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:35:56"
+    },
+    {
+      "nodeID": "160771",
+      "text": "OK, OK. This was not a very well thought out thread. Your points are extremely well taken. At the risk of quitting without putting up a even a little fight, I don't see much valid argument behind my premise, so I concede.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:56"
+    },
+    {
+      "nodeID": "160772",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:35:56"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198114",
+      "fromID": "160761",
+      "toID": "160762",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198115",
+      "fromID": "160762",
+      "toID": "160760",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198116",
+      "fromID": "160763",
+      "toID": "160764",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198117",
+      "fromID": "160764",
+      "toID": "160760",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198118",
+      "fromID": "160765",
+      "toID": "160766",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198119",
+      "fromID": "160766",
+      "toID": "160761",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198120",
+      "fromID": "160767",
+      "toID": "160768",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198121",
+      "fromID": "160768",
+      "toID": "160765",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198122",
+      "fromID": "160769",
+      "toID": "160770",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198123",
+      "fromID": "160770",
+      "toID": "160767",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198124",
+      "fromID": "160771",
+      "toID": "160772",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198125",
+      "fromID": "160772",
+      "toID": "160763",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

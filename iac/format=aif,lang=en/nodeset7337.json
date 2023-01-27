@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140904",
+      "text": "Since you disagree with the way the poll was run (dividing a pregnancy into trimesters), how would YOU have run that poll? Specifically, how would you phrase a poll to determine people's views about the stage of pregnancy or fetal development they think is morally critical enough to outlaw abortion?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:32"
+    },
+    {
+      "nodeID": "140905",
+      "text": "Well, we should both agree that first off the generally public doesn't exactly know what it thinks a lot of the time.  To be honest, this poll question worked perfectly. It shows people just don't really know the subject very well. You are right in being confused about second trimester abortions...I mean if you are worried about it being a valued creature then what changed? You could probably ask why and give some possible answers and then after that follow up with exemptions and then follow up with certain examples to see where they would come out on. I think what you would find would be a public that doesn't think anything through and works on a gut feeling of what they would want. For example, if you asked 'would you allow abortions in the 2nd trimester even if the woman was struggling in college' then you'd probably get 60% of people to say they would allow it. If you asked it 'would you allow abortions in the 2nd trimester as a form of birth control' then you'd probably get 60% saying no or more. The question is...why is the value placed on the unborn different based on the situation of another? Seems crazy to me. The only two positions on abortion that make any sense and are even remotely consistent are your opinion and mine. These exceptions for rape, health, etc etc are just weird and inconsistent with itself.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:32"
+    },
+    {
+      "nodeID": "140906",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:52:32"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184064",
+      "fromID": "140905",
+      "toID": "140906",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184065",
+      "fromID": "140906",
+      "toID": "140904",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152389",
+      "text": "Should we argue that young, black males need special attention?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:57"
+    },
+    {
+      "nodeID": "152390",
+      "text": "I think we should argue that these young individuals need to face the full impact of their crimes and not be treated special or given a plea deal.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:57"
+    },
+    {
+      "nodeID": "152391",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:16:57"
+    },
+    {
+      "nodeID": "152392",
+      "text": "What should we argue for as a result of these senseless killings? Where should our anger be directed, if at anything?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:57"
+    },
+    {
+      "nodeID": "152393",
+      "text": "I think we should argue that it's time to stop making people easy targets. The reason so many people are getting killed and victimized is because there are too many laws against self-defense, giving too much power to those that are fully intent on doing harm in an illegal manner.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:57"
+    },
+    {
+      "nodeID": "152394",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:16:57"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192170",
+      "fromID": "152390",
+      "toID": "152391",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192171",
+      "fromID": "152391",
+      "toID": "152389",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192172",
+      "fromID": "152393",
+      "toID": "152394",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192173",
+      "fromID": "152394",
+      "toID": "152392",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

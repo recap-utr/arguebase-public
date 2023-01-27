@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "150165",
+      "text": "... And you say that national geographic isn't biased towards evolutionism? ROTFLOL! That is the most stupidest thing I have ever heard.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:12:08"
+    },
+    {
+      "nodeID": "150166",
+      "text": "Actually National Geographic is more accepting of the truth than biased for the argument.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:12:08"
+    },
+    {
+      "nodeID": "150167",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:12:08"
+    },
+    {
+      "nodeID": "150168",
+      "text": "I stand corrected on the temperature of space. 2.78 Kelvin translates into -454 F. And I suppose it's possible that something could survive (but not likely). No matter what, entropy on earth would increase. Glad you like the link. Check out 'Things creationists hate'. It's excellent.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:12:08"
+    },
+    {
+      "nodeID": "150169",
+      "text": "I like. I have always liked this line of evidence too, but I always forget about it in the fog of war: http://members.aol.com/darrwin/vestigial.htm#babies",
+      "type": "I",
+      "timestamp": "2016-03-08 20:12:08"
+    },
+    {
+      "nodeID": "150170",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:12:08"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "190604",
+      "fromID": "150166",
+      "toID": "150167",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190605",
+      "fromID": "150167",
+      "toID": "150165",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190606",
+      "fromID": "150169",
+      "toID": "150170",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190607",
+      "fromID": "150170",
+      "toID": "150168",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

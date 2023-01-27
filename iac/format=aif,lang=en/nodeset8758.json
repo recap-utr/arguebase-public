@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "162246",
+      "text": "don't know since I don't believe in evolism or creationism.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:32"
+    },
+    {
+      "nodeID": "162247",
+      "text": "so whats your belief of how life/the universe began lurch? (if any)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:32"
+    },
+    {
+      "nodeID": "162248",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:39:32"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "199180",
+      "fromID": "162247",
+      "toID": "162248",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199181",
+      "fromID": "162248",
+      "toID": "162246",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

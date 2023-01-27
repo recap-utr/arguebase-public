@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "162024",
+      "text": "Only one God does exist when it comes to politics in the western world.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:59"
+    },
+    {
+      "nodeID": "162025",
+      "text": "So I gotta ask, how does that prove that evolution is allegedly atheistic when there are many other Gods out there?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:59"
+    },
+    {
+      "nodeID": "162026",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:59"
+    },
+    {
+      "nodeID": "162027",
+      "text": "There are many other perceived gods out there, that is true. But in reality, there is only one TRUE GOD in all of Time and Space. All others are either man made counterfeits, or demonic in nature, but they have no power to stand against the living God.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:59"
+    },
+    {
+      "nodeID": "162028",
+      "text": "Really? Let's see you show that the God that you believe in is that God.. and that this God even exists outside the imaginations of the mind?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:59"
+    },
+    {
+      "nodeID": "162029",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:59"
+    },
+    {
+      "nodeID": "162030",
+      "text": "Ah, the same God that founded the Muslim Faith, then",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:59"
+    },
+    {
+      "nodeID": "162031",
+      "text": "So you're claiming as a christian that your God is the same God of the moslem Faith? Is that what you're saying brother Dane?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:59"
+    },
+    {
+      "nodeID": "162032",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:59"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "199024",
+      "fromID": "162025",
+      "toID": "162026",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199025",
+      "fromID": "162026",
+      "toID": "162024",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199026",
+      "fromID": "162028",
+      "toID": "162029",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199027",
+      "fromID": "162029",
+      "toID": "162027",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199028",
+      "fromID": "162031",
+      "toID": "162032",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199029",
+      "fromID": "162032",
+      "toID": "162030",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

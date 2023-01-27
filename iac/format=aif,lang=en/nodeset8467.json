@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157794",
+      "text": "LOL! And 'basically'.. banning firearms (as often proposed by many democRATS) is 'reasonable'? Get bent!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:11"
+    },
+    {
+      "nodeID": "157795",
+      "text": "Well, 'reasonable' is clearly subjective... So the authors of the letter are practicly saying that any gun laws not interfering with the state militia would be permited according to the second amendment. But that gun laws obviously should be reasonable. But what reasonable is, is best left to the democratic will of the people. Or am I reading it wrong?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:12"
+    },
+    {
+      "nodeID": "157796",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:29:12"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195986",
+      "fromID": "157795",
+      "toID": "157796",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195987",
+      "fromID": "157796",
+      "toID": "157794",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,1812 @@
+{
+  "nodes": [
+    {
+      "nodeID": "220876",
+      "text": "WALLACE : Governor Walker , when you ran for governor of Wisconsin back in 2010 , you promised that you would create 250,000 jobs in your first term , first four years",
+      "type": "L",
+      "timestamp": "2016-11-01 15:03:59"
+    },
+    {
+      "nodeID": "220877",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:03:59",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220878",
+      "text": "when WALKER ran for governor of Wisconsin back in 2010 , WALKER promised that WALKER would create 250,000 jobs in WALKER's first term , first four years",
+      "type": "I",
+      "timestamp": "2016-11-01 15:03:59"
+    },
+    {
+      "nodeID": "220879",
+      "text": "Jacky: WALLACE : Governor Walker , when you ran for governor of Wisconsin back in 2010 , you promised that you would create 250,000 jobs in your first term , first four years",
+      "type": "L",
+      "timestamp": "2016-11-01 15:03:59"
+    },
+    {
+      "nodeID": "220880",
+      "text": "WALLACE : In fact , Wisconsin added barely half that and ranked 35th in the country in job growth",
+      "type": "L",
+      "timestamp": "2016-11-01 15:03:59"
+    },
+    {
+      "nodeID": "220881",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:04:00",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220882",
+      "text": "In fact , Wisconsin added barely half that and ranked 35th in the country in job growth",
+      "type": "I",
+      "timestamp": "2016-11-01 15:04:00"
+    },
+    {
+      "nodeID": "220883",
+      "text": "Jacky: WALLACE : In fact , Wisconsin added barely half that and ranked 35th in the country in job growth",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:00"
+    },
+    {
+      "nodeID": "220884",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-11-01 15:04:00",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "220885",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:04:00",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220886",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:04:00",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "220887",
+      "text": "WALLACE : Now you 're running for president , and you 're promising an economic plan in which everyone will earn a piece of the American dream",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:00"
+    },
+    {
+      "nodeID": "220888",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:04:00",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220889",
+      "text": "Now WALKER's running for president , and WALKER's promising an economic plan in which everyone will earn a piece of the American dream",
+      "type": "I",
+      "timestamp": "2016-11-01 15:04:00"
+    },
+    {
+      "nodeID": "220890",
+      "text": "Jacky: WALLACE : Now you 're running for president , and you 're promising an economic plan in which everyone will earn a piece of the American dream",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:00"
+    },
+    {
+      "nodeID": "220891",
+      "text": "WALLACE : Given your record in Wisconsin , why should voters believe you",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:01"
+    },
+    {
+      "nodeID": "220892",
+      "text": "Assertive Challenging",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:04:01",
+      "scheme": "AssertiveChallenging",
+      "schemeID": "87"
+    },
+    {
+      "nodeID": "220893",
+      "text": "Given WALKER's record in Wisconsin , voters should not believe WALKER",
+      "type": "I",
+      "timestamp": "2016-11-01 15:04:01"
+    },
+    {
+      "nodeID": "220894",
+      "text": "Jacky: WALLACE : Given your record in Wisconsin , why should voters believe you",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:01"
+    },
+    {
+      "nodeID": "220895",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-01 15:04:01",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "220896",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:04:01",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220897",
+      "text": "WALKER : the voters in Wisconsin elected me last year for the third time",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:01"
+    },
+    {
+      "nodeID": "220898",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:04:01",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220899",
+      "text": "the voters in Wisconsin elected WALKER last year for the third time",
+      "type": "I",
+      "timestamp": "2016-11-01 15:04:01"
+    },
+    {
+      "nodeID": "220900",
+      "text": "Jacky: WALKER : the voters in Wisconsin elected me last year for the third time",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:01"
+    },
+    {
+      "nodeID": "220901",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-11-01 15:04:02",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "220902",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:04:02",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220903",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:04:02",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "220904",
+      "text": "WALKER : they wanted someone who aimed high , not aimed low",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:02"
+    },
+    {
+      "nodeID": "220905",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:04:02",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220906",
+      "text": "they wanted someone who aimed high , not aimed low",
+      "type": "I",
+      "timestamp": "2016-11-01 15:04:02"
+    },
+    {
+      "nodeID": "220907",
+      "text": "Jacky: WALKER : they wanted someone who aimed high , not aimed low",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:02"
+    },
+    {
+      "nodeID": "220908",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-01 15:04:02",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "220909",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:04:02",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220910",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:04:02",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "220911",
+      "text": "Jacky: WALKER : Before I came in , the unemployment rate was over eight percent",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:03"
+    },
+    {
+      "nodeID": "220912",
+      "text": "Jacky: WALKER : It 's now down to 4.6 percent",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:03"
+    },
+    {
+      "nodeID": "220913",
+      "text": "WALKER : We 've more than made up for the jobs that were lost during the recession",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:03"
+    },
+    {
+      "nodeID": "220914",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:04:03",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220915",
+      "text": "We 've more than made up for the jobs that were lost during the recession",
+      "type": "I",
+      "timestamp": "2016-11-01 15:04:03"
+    },
+    {
+      "nodeID": "220916",
+      "text": "Jacky: WALKER : We 've more than made up for the jobs that were lost during the recession",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:03"
+    },
+    {
+      "nodeID": "220917",
+      "text": "WALKER : And the rate in which people are working is almost five points higher than it is nationally",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:03"
+    },
+    {
+      "nodeID": "220918",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:04:03",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220919",
+      "text": "And the rate in which people are working is almost five points higher than it is nationally",
+      "type": "I",
+      "timestamp": "2016-11-01 15:04:03"
+    },
+    {
+      "nodeID": "220920",
+      "text": "Jacky: WALKER : And the rate in which people are working is almost five points higher than it is nationally",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:03"
+    },
+    {
+      "nodeID": "220921",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-11-01 15:04:04",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "220922",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:04:04",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220923",
+      "text": "Contradicting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:04:04",
+      "scheme": "Contradicting",
+      "schemeID": "67"
+    },
+    {
+      "nodeID": "220924",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:04:04",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220925",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-11-01 15:04:04",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "220926",
+      "text": "Contradicting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:04:04",
+      "scheme": "Contradicting",
+      "schemeID": "67"
+    },
+    {
+      "nodeID": "220927",
+      "text": "Jacky: WALKER : Before I came in , the unemployment rate was over eight percent . It 's now down to 4.6 percent",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:04"
+    },
+    {
+      "nodeID": "220928",
+      "text": "WALKER : Before I came in , the unemployment rate was over eight percent . It 's now down to 4.6 percent",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:04"
+    },
+    {
+      "nodeID": "220929",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:04:04",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220930",
+      "text": "Before WALKER came in , the unemployment rate was over eight percent . It 's now down to 4.6 percent",
+      "type": "I",
+      "timestamp": "2016-11-01 15:04:04"
+    },
+    {
+      "nodeID": "220931",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-11-01 15:04:05",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "220932",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:04:05",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220933",
+      "text": "Contradicting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:04:05",
+      "scheme": "Contradicting",
+      "schemeID": "67"
+    },
+    {
+      "nodeID": "220934",
+      "text": "WALKER : people like Hillary Clinton think you grow the economy by growing Washington",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:05"
+    },
+    {
+      "nodeID": "220935",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:04:05",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220936",
+      "text": "people like Hillary Clinton think you grow the economy by growing Washington",
+      "type": "I",
+      "timestamp": "2016-11-01 15:04:05"
+    },
+    {
+      "nodeID": "220937",
+      "text": "Jacky: WALKER : people like Hillary Clinton think you grow the economy by growing Washington",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:05"
+    },
+    {
+      "nodeID": "220938",
+      "text": "WALKER : One report last year showed that six of the top 10 wealthiest counties in America were in or around Washington , D.C.",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:05"
+    },
+    {
+      "nodeID": "220939",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:04:05",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220940",
+      "text": "One report last year showed that six of the top 10 wealthiest counties in America were in or around Washington , D.C.",
+      "type": "I",
+      "timestamp": "2016-11-01 15:04:06"
+    },
+    {
+      "nodeID": "220941",
+      "text": "Jacky: WALKER : One report last year showed that six of the top 10 wealthiest counties in America were in or around Washington , D.C.",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:06"
+    },
+    {
+      "nodeID": "220942",
+      "text": "WALKER : I think most of us in America understand that people , not the government creates jobs",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:06"
+    },
+    {
+      "nodeID": "220943",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:04:06",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220944",
+      "text": "most of us in America understand that people , not the government creates jobs",
+      "type": "I",
+      "timestamp": "2016-11-01 15:04:06"
+    },
+    {
+      "nodeID": "220945",
+      "text": "Jacky: WALKER : I think most of us in America understand that people , not the government creates jobs",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:06"
+    },
+    {
+      "nodeID": "220946",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-11-01 15:04:06",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "220947",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:04:06",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220948",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:04:06",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "220949",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-01 15:04:06",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "220950",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:04:07",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220951",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:04:07",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "220952",
+      "text": "WALKER : one of the best things we can do is get the government out of the way",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:07"
+    },
+    {
+      "nodeID": "220953",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:04:07",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220954",
+      "text": "one of the best things we can do is get the government out of the way",
+      "type": "I",
+      "timestamp": "2016-11-01 15:04:07"
+    },
+    {
+      "nodeID": "220955",
+      "text": "Jacky: WALKER : one of the best things we can do is get the government out of the way",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:07"
+    },
+    {
+      "nodeID": "220956",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-01 15:04:07",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "220957",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:04:07",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220958",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:04:07",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "220959",
+      "text": "WALKER : repeal Obamacare",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:07"
+    },
+    {
+      "nodeID": "220960",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:04:08",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220961",
+      "text": "repeal Obamacare",
+      "type": "I",
+      "timestamp": "2016-11-01 15:04:08"
+    },
+    {
+      "nodeID": "220962",
+      "text": "Jacky: WALKER : repeal Obamacare",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:08"
+    },
+    {
+      "nodeID": "220963",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:04:08",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220964",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-01 15:04:08",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "220965",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:04:08",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "220966",
+      "text": "WALKER : reign in all the out of control regulations",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:08"
+    },
+    {
+      "nodeID": "220967",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:04:08",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220968",
+      "text": "reign in all the out of control regulations",
+      "type": "I",
+      "timestamp": "2016-11-01 15:04:08"
+    },
+    {
+      "nodeID": "220969",
+      "text": "Jacky: WALKER : reign in all the out of control regulations",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:08"
+    },
+    {
+      "nodeID": "220970",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:04:09",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220971",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-01 15:04:09",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "220972",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:04:09",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "220973",
+      "text": "WALKER : put in place an all of the above energy policy",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:09"
+    },
+    {
+      "nodeID": "220974",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:04:09",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220975",
+      "text": "put in place an all of the above energy policy",
+      "type": "I",
+      "timestamp": "2016-11-01 15:04:09"
+    },
+    {
+      "nodeID": "220976",
+      "text": "Jacky: WALKER : put in place an all of the above energy policy",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:09"
+    },
+    {
+      "nodeID": "220977",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-01 15:04:09",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "220978",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:04:09",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220979",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:04:09",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "220980",
+      "text": "WALKER : give people the education , the skills that the need to succeed",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:10"
+    },
+    {
+      "nodeID": "220981",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:04:10",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220982",
+      "text": "give people the education , the skills that the need to succeed",
+      "type": "I",
+      "timestamp": "2016-11-01 15:04:10"
+    },
+    {
+      "nodeID": "220983",
+      "text": "Jacky: WALKER : give people the education , the skills that the need to succeed",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:10"
+    },
+    {
+      "nodeID": "220984",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-01 15:04:10",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "220985",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:04:10",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220986",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:04:10",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "220987",
+      "text": "Jacky: WALKER : lower the tax rate",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:10"
+    },
+    {
+      "nodeID": "220988",
+      "text": "Jacky: WALKER : reform the tax code",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:10"
+    },
+    {
+      "nodeID": "220989",
+      "text": "WALKER : lower the tax rate and reform the tax code",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:10"
+    },
+    {
+      "nodeID": "220990",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:04:11",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220991",
+      "text": "lower the tax rate and reform the tax code",
+      "type": "I",
+      "timestamp": "2016-11-01 15:04:11"
+    },
+    {
+      "nodeID": "220992",
+      "text": "Jacky: WALKER : lower the tax rate and reform the tax code",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:11"
+    },
+    {
+      "nodeID": "220993",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:04:11",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "220994",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-01 15:04:11",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "220995",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:04:11",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "220996",
+      "text": "WALKER : That 's what I 'll do as president",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:11"
+    },
+    {
+      "nodeID": "220997",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:04:11",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "220998",
+      "text": "That 's what WALKER 'll do as president",
+      "type": "I",
+      "timestamp": "2016-11-01 15:04:11"
+    },
+    {
+      "nodeID": "220999",
+      "text": "Jacky: WALKER : That 's what I 'll do as president",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:11"
+    },
+    {
+      "nodeID": "221000",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-01 15:04:12",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "221001",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:04:12",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "221002",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:04:12",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "221003",
+      "text": "WALKER : just like I did in Wisconsin",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:12"
+    },
+    {
+      "nodeID": "221004",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:04:12",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "221005",
+      "text": "just like WALKER did in Wisconsin",
+      "type": "I",
+      "timestamp": "2016-11-01 15:04:12"
+    },
+    {
+      "nodeID": "221006",
+      "text": "Jacky: WALKER : just like I did in Wisconsin",
+      "type": "L",
+      "timestamp": "2016-11-01 15:04:12"
+    },
+    {
+      "nodeID": "221007",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-01 15:04:12",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "221008",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-01 15:04:12",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "221009",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-01 15:04:13",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "268090",
+      "fromID": "220877",
+      "toID": "220878",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268091",
+      "fromID": "220876",
+      "toID": "220877",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268092",
+      "fromID": "220881",
+      "toID": "220882",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268093",
+      "fromID": "220880",
+      "toID": "220881",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268094",
+      "fromID": "220882",
+      "toID": "220884",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268095",
+      "fromID": "220884",
+      "toID": "220878",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268096",
+      "fromID": "220876",
+      "toID": "220885",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268097",
+      "fromID": "220885",
+      "toID": "220880",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268098",
+      "fromID": "220885",
+      "toID": "220886",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268099",
+      "fromID": "220886",
+      "toID": "220884",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268100",
+      "fromID": "220888",
+      "toID": "220889",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268101",
+      "fromID": "220887",
+      "toID": "220888",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268102",
+      "fromID": "220892",
+      "toID": "220893",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268103",
+      "fromID": "220891",
+      "toID": "220892",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268104",
+      "fromID": "220889",
+      "toID": "220895",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268105",
+      "fromID": "220895",
+      "toID": "220893",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268106",
+      "fromID": "220882",
+      "toID": "220895",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268107",
+      "fromID": "220887",
+      "toID": "220896",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268108",
+      "fromID": "220896",
+      "toID": "220891",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268109",
+      "fromID": "220880",
+      "toID": "220896",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268110",
+      "fromID": "220898",
+      "toID": "220899",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268111",
+      "fromID": "220897",
+      "toID": "220898",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268112",
+      "fromID": "220899",
+      "toID": "220901",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268113",
+      "fromID": "220901",
+      "toID": "220893",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268114",
+      "fromID": "220891",
+      "toID": "220902",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268115",
+      "fromID": "220902",
+      "toID": "220897",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268116",
+      "fromID": "220902",
+      "toID": "220903",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268117",
+      "fromID": "220903",
+      "toID": "220901",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268118",
+      "fromID": "220905",
+      "toID": "220906",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268119",
+      "fromID": "220904",
+      "toID": "220905",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268120",
+      "fromID": "220906",
+      "toID": "220908",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268121",
+      "fromID": "220908",
+      "toID": "220899",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268122",
+      "fromID": "220897",
+      "toID": "220909",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268123",
+      "fromID": "220909",
+      "toID": "220904",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268124",
+      "fromID": "220909",
+      "toID": "220910",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268125",
+      "fromID": "220910",
+      "toID": "220908",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268126",
+      "fromID": "220914",
+      "toID": "220915",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268127",
+      "fromID": "220913",
+      "toID": "220914",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268128",
+      "fromID": "220918",
+      "toID": "220919",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268129",
+      "fromID": "220917",
+      "toID": "220918",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268130",
+      "fromID": "220919",
+      "toID": "220921",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268131",
+      "fromID": "220921",
+      "toID": "220882",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268132",
+      "fromID": "220880",
+      "toID": "220922",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268133",
+      "fromID": "220922",
+      "toID": "220917",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268134",
+      "fromID": "220922",
+      "toID": "220923",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268135",
+      "fromID": "220923",
+      "toID": "220921",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268136",
+      "fromID": "220880",
+      "toID": "220924",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268137",
+      "fromID": "220924",
+      "toID": "220913",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268138",
+      "fromID": "220915",
+      "toID": "220925",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268139",
+      "fromID": "220925",
+      "toID": "220882",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268140",
+      "fromID": "220924",
+      "toID": "220926",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268141",
+      "fromID": "220926",
+      "toID": "220925",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268142",
+      "fromID": "220929",
+      "toID": "220930",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268143",
+      "fromID": "220928",
+      "toID": "220929",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268144",
+      "fromID": "220930",
+      "toID": "220931",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268145",
+      "fromID": "220931",
+      "toID": "220882",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268146",
+      "fromID": "220880",
+      "toID": "220932",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268147",
+      "fromID": "220932",
+      "toID": "220928",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268148",
+      "fromID": "220932",
+      "toID": "220933",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268149",
+      "fromID": "220933",
+      "toID": "220931",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268150",
+      "fromID": "220935",
+      "toID": "220936",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268151",
+      "fromID": "220934",
+      "toID": "220935",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268152",
+      "fromID": "220939",
+      "toID": "220940",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268153",
+      "fromID": "220938",
+      "toID": "220939",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268154",
+      "fromID": "220943",
+      "toID": "220944",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268155",
+      "fromID": "220942",
+      "toID": "220943",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268156",
+      "fromID": "220944",
+      "toID": "220946",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268157",
+      "fromID": "220946",
+      "toID": "220936",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268158",
+      "fromID": "220934",
+      "toID": "220947",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268159",
+      "fromID": "220947",
+      "toID": "220942",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268160",
+      "fromID": "220947",
+      "toID": "220948",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268161",
+      "fromID": "220948",
+      "toID": "220946",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268162",
+      "fromID": "220940",
+      "toID": "220949",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268163",
+      "fromID": "220949",
+      "toID": "220936",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268164",
+      "fromID": "220934",
+      "toID": "220950",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268165",
+      "fromID": "220950",
+      "toID": "220938",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268166",
+      "fromID": "220950",
+      "toID": "220951",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268167",
+      "fromID": "220951",
+      "toID": "220949",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268168",
+      "fromID": "220953",
+      "toID": "220954",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268169",
+      "fromID": "220952",
+      "toID": "220953",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268170",
+      "fromID": "220944",
+      "toID": "220956",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268171",
+      "fromID": "220956",
+      "toID": "220954",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268172",
+      "fromID": "220942",
+      "toID": "220957",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268173",
+      "fromID": "220957",
+      "toID": "220952",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268174",
+      "fromID": "220957",
+      "toID": "220958",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268175",
+      "fromID": "220958",
+      "toID": "220956",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268176",
+      "fromID": "220960",
+      "toID": "220961",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268177",
+      "fromID": "220959",
+      "toID": "220960",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268178",
+      "fromID": "220952",
+      "toID": "220963",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268179",
+      "fromID": "220963",
+      "toID": "220959",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268180",
+      "fromID": "220954",
+      "toID": "220964",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268181",
+      "fromID": "220964",
+      "toID": "220961",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268182",
+      "fromID": "220963",
+      "toID": "220965",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268183",
+      "fromID": "220965",
+      "toID": "220964",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268184",
+      "fromID": "220967",
+      "toID": "220968",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268185",
+      "fromID": "220966",
+      "toID": "220967",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268186",
+      "fromID": "220952",
+      "toID": "220970",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268187",
+      "fromID": "220970",
+      "toID": "220966",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268188",
+      "fromID": "220954",
+      "toID": "220971",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268189",
+      "fromID": "220971",
+      "toID": "220968",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268190",
+      "fromID": "220970",
+      "toID": "220972",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268191",
+      "fromID": "220972",
+      "toID": "220971",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268192",
+      "fromID": "220974",
+      "toID": "220975",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268193",
+      "fromID": "220973",
+      "toID": "220974",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268194",
+      "fromID": "220954",
+      "toID": "220977",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268195",
+      "fromID": "220977",
+      "toID": "220975",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268196",
+      "fromID": "220952",
+      "toID": "220978",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268197",
+      "fromID": "220978",
+      "toID": "220973",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268198",
+      "fromID": "220978",
+      "toID": "220979",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268199",
+      "fromID": "220979",
+      "toID": "220977",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268200",
+      "fromID": "220981",
+      "toID": "220982",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268201",
+      "fromID": "220980",
+      "toID": "220981",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268202",
+      "fromID": "220954",
+      "toID": "220984",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268203",
+      "fromID": "220984",
+      "toID": "220982",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268204",
+      "fromID": "220952",
+      "toID": "220985",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268205",
+      "fromID": "220985",
+      "toID": "220980",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268206",
+      "fromID": "220985",
+      "toID": "220986",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268207",
+      "fromID": "220986",
+      "toID": "220984",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268208",
+      "fromID": "220990",
+      "toID": "220991",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268209",
+      "fromID": "220989",
+      "toID": "220990",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268210",
+      "fromID": "220952",
+      "toID": "220993",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268211",
+      "fromID": "220993",
+      "toID": "220989",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268212",
+      "fromID": "220954",
+      "toID": "220994",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268213",
+      "fromID": "220994",
+      "toID": "220991",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268214",
+      "fromID": "220993",
+      "toID": "220995",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268215",
+      "fromID": "220995",
+      "toID": "220994",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268216",
+      "fromID": "220997",
+      "toID": "220998",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268217",
+      "fromID": "220996",
+      "toID": "220997",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268218",
+      "fromID": "220954",
+      "toID": "221000",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268219",
+      "fromID": "221000",
+      "toID": "220998",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268220",
+      "fromID": "220952",
+      "toID": "221001",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268221",
+      "fromID": "221001",
+      "toID": "220996",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268222",
+      "fromID": "221001",
+      "toID": "221002",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268223",
+      "fromID": "221002",
+      "toID": "221000",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268224",
+      "fromID": "221004",
+      "toID": "221005",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268225",
+      "fromID": "221003",
+      "toID": "221004",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268226",
+      "fromID": "221005",
+      "toID": "221007",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268227",
+      "fromID": "221007",
+      "toID": "220998",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268228",
+      "fromID": "220996",
+      "toID": "221008",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268229",
+      "fromID": "221008",
+      "toID": "221003",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268230",
+      "fromID": "221008",
+      "toID": "221009",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "268231",
+      "fromID": "221009",
+      "toID": "221007",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "220897",
+      "personID": "2412",
+      "timestamp": "2017-01-09 11:49:39",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

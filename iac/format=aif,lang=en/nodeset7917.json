@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "149869",
+      "text": "Originally posted by DarKnight 'in for a penny, in for a pound' mentality would mean gun rampages would be worse because instead of using their .38 'weekend fun' pistols they'll switch to automatic assault weapons (which, imported illegally from the middle east/asia, kalashnikov rifles are CHEAPER then domestic US pistols).",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:33"
+    },
+    {
+      "nodeID": "149870",
+      "text": "Oh! Did you mean something like this in gun free France: http://www.guardian.co.uk/international/story/0,3604,912880,00.html?79%3A+International+news+-+guardian Those weapons were cheap and from an eastern block country. Machine guns are for sissy American felons. Real felons in gun free France use anti-tank weapons.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:33"
+    },
+    {
+      "nodeID": "149871",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:11:33"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "190396",
+      "fromID": "149870",
+      "toID": "149871",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190397",
+      "fromID": "149871",
+      "toID": "149869",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

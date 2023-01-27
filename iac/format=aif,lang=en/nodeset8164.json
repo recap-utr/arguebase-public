@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "153446",
+      "text": "It 's 911, your aboard one of the doomed planes, you know your going to die. Do you want a gun?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:17"
+    },
+    {
+      "nodeID": "153447",
+      "text": "Well, if my plane is already doomed as you say then what difference would it make? Don't you think this poll is leading? It's designed to give the answer that you want.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:17"
+    },
+    {
+      "nodeID": "153448",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:19:17"
+    },
+    {
+      "nodeID": "153449",
+      "text": "But your way has been tried ZERO times, thank god... and the current way (not allowing passengers to bring guns onboard) has been tried way more times than four... try millions of times",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:17"
+    },
+    {
+      "nodeID": "153450",
+      "text": "just re-emphasizing",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:17"
+    },
+    {
+      "nodeID": "153451",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:19:17"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192916",
+      "fromID": "153447",
+      "toID": "153448",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192917",
+      "fromID": "153448",
+      "toID": "153446",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192918",
+      "fromID": "153450",
+      "toID": "153451",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192919",
+      "fromID": "153451",
+      "toID": "153449",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

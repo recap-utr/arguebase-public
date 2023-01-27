@@ -1,0 +1,121 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148867",
+      "text": "FINALLY!!!!! excellent news. one state at a time!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:28"
+    },
+    {
+      "nodeID": "148868",
+      "text": "This is bigger then your realize. Prop 8 goes down on equal protection grounds then all state constitutional amendments go down.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:28"
+    },
+    {
+      "nodeID": "148869",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:09:28"
+    },
+    {
+      "nodeID": "148870",
+      "text": "emoticon_xbouncer yahooooooo!!!!!!!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:28"
+    },
+    {
+      "nodeID": "148871",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:09:28"
+    },
+    {
+      "nodeID": "148872",
+      "text": "Frankly, it just means it will go to the supreme court, which everybody pretty much expected already. They aren't even allowing gay marriages to happen in the meantime, because he also issued a stay. Of course in the long run this doesn't play well to liberals because with the SCOTUS they won't have their usual strategic luxury of a single individual sharing their ideology wielding such far-reaching power.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:28"
+    },
+    {
+      "nodeID": "148873",
+      "text": "Actually the injunction is in place until the 9th Circuit Court of Appeals decides. After that point, and if they decide the ruling was correct, then the injunction is done with (unless the 9th circuit issues its own similar injunction). It's not going to go straight to the Supreme Court. And, unless I'm mistaken, I believe that if the 9th circuit agrees such a law is unconstitutional, the areas they preside over that have similar laws will have those made null by that decision. IIRC that's how it works.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:28"
+    },
+    {
+      "nodeID": "148874",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:09:28"
+    },
+    {
+      "nodeID": "148875",
+      "text": "Have you read the decision?  http://msnbcmedia.msn.com/i//MSNBC/Sections/NEWS/A_U.S.%20news/Life/gaymarriage.pdf I can not even see a homophobe like Scalia striking down this decision. Both defense witness contradicted themselves and both where found to be non credible.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:28"
+    },
+    {
+      "nodeID": "148876",
+      "text": "Under the illogical view of the 14th amendment that currently occupies our court system there is nothing more about it than convincing 5 judges that it isn't immoral. Let's not pretend this is anything related to what the amendment actually says because we both know it isn't.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:29"
+    },
+    {
+      "nodeID": "148877",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:09:29"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189686",
+      "fromID": "148868",
+      "toID": "148869",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189687",
+      "fromID": "148869",
+      "toID": "148867",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189688",
+      "fromID": "148870",
+      "toID": "148871",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189689",
+      "fromID": "148871",
+      "toID": "148868",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189690",
+      "fromID": "148873",
+      "toID": "148874",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189691",
+      "fromID": "148874",
+      "toID": "148872",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189692",
+      "fromID": "148876",
+      "toID": "148877",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189693",
+      "fromID": "148877",
+      "toID": "148875",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

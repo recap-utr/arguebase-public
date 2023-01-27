@@ -1,0 +1,157 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138034",
+      "text": "Not really.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:12"
+    },
+    {
+      "nodeID": "155590",
+      "text": "Every minute of every day, somewhere in the world, most often in a developing nation, a woman dies from complications related to pregnancy or childbirth.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:08"
+    },
+    {
+      "nodeID": "155591",
+      "text": "http://www.thelizlibrary.org/liz/004.htm Normal, frequent or expectable temporary side effects of pregnancy: * exhaustion (weariness common from first weeks) * altered appetite and senses of taste and smell * nausea and vomiting (50% of women, first trimester) * heartburn and indigestion * constipation * weight gain =snip=",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:08"
+    },
+    {
+      "nodeID": "155592",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:08"
+    },
+    {
+      "nodeID": "155593",
+      "text": "Most women do not feel this way about their abortions--unless they have been programmed to do so.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:08"
+    },
+    {
+      "nodeID": "155594",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:08"
+    },
+    {
+      "nodeID": "155595",
+      "text": "The only question would be is it harmful or exploitive to the one being manipulated? If so, how can we tell?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:08"
+    },
+    {
+      "nodeID": "155596",
+      "text": "It isn't possible to tell. What is called the 'scientific' approach is to analyse social statistics to derive probabilities, a methodology which assumes that the present is the same as the past, all well and good for the physical sciences, where the way particles behave does not change, but inappropriate in application to complex systems like people, that may react in ways totally unanticipated. Not only is unpredictability inherent in such systems, but the more ways you try to manipulate them, the more uncertain the reaction to any particular intervention becomes. So what do you do then, just take this method anyway, even given you can't predict the results, just take your best shot? When it fails, just say 'oops, well, we had good intentions, we can't be blamed'. If that's all we have to work with, we are truly screwed. There are however, alternative ways of deciding whether you should do something to trying to predict its outcome.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:08"
+    },
+    {
+      "nodeID": "155597",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:24:08"
+    },
+    {
+      "nodeID": "155598",
+      "text": "Simone, brain washing and programming works multiple ways. Everyone does it to some form or another. The only question would be is it harmful or exploitive to the one being manipulated? If so, how can we tell?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:08"
+    },
+    {
+      "nodeID": "155599",
+      "text": "But, of course, religion is a mere matter of brainwashing and programming. Some people, very obviously, need this sort of intrusion into their lives because they can't figure it out for themselves. And, there are some very profound and meaningful religious teachings. However, if one is not permitted to question the tenets of a particular belief system, I find that dangerous. Like in your sect. You do expect complete obedience, do you not? No questioning of your authority?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:08"
+    },
+    {
+      "nodeID": "155600",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:24:08"
+    },
+    {
+      "nodeID": "155601",
+      "text": "Like in your sect. You do expect complete obedience, do you not? No questioning of your authority?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:08"
+    },
+    {
+      "nodeID": "155602",
+      "text": "Never had to think of it as my followers are universally incapable of independant thought to begin with. 'Cause I's a smart god to make them that way... Or I simply recruit from the GOP.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:08"
+    },
+    {
+      "nodeID": "155603",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:08"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194436",
+      "fromID": "155591",
+      "toID": "155592",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194437",
+      "fromID": "155592",
+      "toID": "155590",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194438",
+      "fromID": "138034",
+      "toID": "155594",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194439",
+      "fromID": "155594",
+      "toID": "155593",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194440",
+      "fromID": "155596",
+      "toID": "155597",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194441",
+      "fromID": "155597",
+      "toID": "155595",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194442",
+      "fromID": "155599",
+      "toID": "155600",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194443",
+      "fromID": "155600",
+      "toID": "155598",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194444",
+      "fromID": "155602",
+      "toID": "155603",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194445",
+      "fromID": "155603",
+      "toID": "155601",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

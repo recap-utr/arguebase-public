@@ -1,0 +1,145 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140708",
+      "text": "How is this not reversing a judicial decesion?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:02"
+    },
+    {
+      "nodeID": "140709",
+      "text": "Reversing a decision would occur at what you might call the 'law' level. Amending the Constitution is at a different level, and so doesn't count as a reversal.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:02"
+    },
+    {
+      "nodeID": "140710",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:52:02"
+    },
+    {
+      "nodeID": "140711",
+      "text": "Mass. lawmakers delay vote on gay-marriage ban  http://news.yahoo.com/s/nm/20060713/pl_nm/rights_gays_dc_1 The anti-gay family groups (mass resistance, etc.) are are not happy about this move. Time is on our side, as more time passes more and more people are in support of full marriage equality.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:02"
+    },
+    {
+      "nodeID": "140712",
+      "text": "I'm a little surprised by this. The polls I've seen show that Mass voters favor gay marriage. I would have thought that getting those who oppose it to put their opposition on the record before the elections would be beneficial. Then again, seeing as how the lies and fear mongering have already started, I can see how they might want to avoid having the elections muddied with the inevitable dirty fighting that would be thrown at them. Not the most couragous stance, but perhaps safer in the long run. You are right that the longer society fails to collapse the more inane the doomsayers seem.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:02"
+    },
+    {
+      "nodeID": "140713",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:52:02"
+    },
+    {
+      "nodeID": "140714",
+      "text": "I wonder how far this is going to go seeing how the polls show that a majority in Mass. is in support of same sex marriage. The anti-gay side feels confident that they have the 50 votes to approve this.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:02"
+    },
+    {
+      "nodeID": "140715",
+      "text": "They only need 1/4 of the legislature, so they'll probably get that. But if it actually gets to the polls? The conservatives took a big hit when they ran around screaming 'If gays get married society will collapse and we'll all be doomed!!!11!1!!' and then nothing happened. And of course the most organized group in Mass. opposing gay marriage is the Mass. Catholic church, and people aren't going to take kindly to a bunch of child rapers telling them what's right and wrong. The anti-gay side really doesn't have much to work with; it'll largely be a contest of good will and common sense vs. scare tactics, and the scare tactics have already been proven wrong.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:03"
+    },
+    {
+      "nodeID": "140716",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:52:03"
+    },
+    {
+      "nodeID": "140717",
+      "text": "This will be interesting. I'm Keeping my fingers crossed.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:03"
+    },
+    {
+      "nodeID": "140718",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:52:03"
+    },
+    {
+      "nodeID": "140719",
+      "text": "It will either be killed after the election or it will be voted up then killed at the next ConCon in 2007.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:03"
+    },
+    {
+      "nodeID": "140720",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:52:03"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183922",
+      "fromID": "140709",
+      "toID": "140710",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183923",
+      "fromID": "140710",
+      "toID": "140708",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183924",
+      "fromID": "140712",
+      "toID": "140713",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183925",
+      "fromID": "140713",
+      "toID": "140711",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183926",
+      "fromID": "140715",
+      "toID": "140716",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183927",
+      "fromID": "140716",
+      "toID": "140714",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183928",
+      "fromID": "140717",
+      "toID": "140718",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183929",
+      "fromID": "140718",
+      "toID": "140709",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183930",
+      "fromID": "140719",
+      "toID": "140720",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183931",
+      "fromID": "140720",
+      "toID": "140712",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

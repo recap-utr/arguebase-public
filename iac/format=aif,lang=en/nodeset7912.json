@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "149813",
+      "text": "I don't know what exactly to think of it only I think it saves us the cost of prisons!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:26"
+    },
+    {
+      "nodeID": "149814",
+      "text": "No it doesn't! It cost way more money in appeals than it does to excute someone. WE the taxpayers pay for legal represenatation for them and us, plus the cost of keeping them in jail. The appelas process alone costs the tax payers millions. It is far more expensive to kill them than to leave them in jail with no chance of parole.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:26"
+    },
+    {
+      "nodeID": "149815",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:11:26"
+    },
+    {
+      "nodeID": "149816",
+      "text": "I would favor capital punishment IF our system was always fair and equal, it is not ..... would O.J. have walked if he had been a poor man? I would support capital punishment if we only convicted guilty men ... that is not the case. The list of men on death row who were found to be innocent and released is long and growing, and we can only guess how many innocents have been put to death. To me the harshest punishment would be to wake up knowing that this day would be like yesterday and tomorrow will be like today - for the rest of my life. Anyone who has had surgery can tell you that being put to sleep with chemicals is absolutely painless. Deterrent? Do states with the death penalty have a lower murder per capita than those that do? From a fiscal standpoint, it is cheaper to keep the convicted in prison for life than it is to execute them, and a whole lot easier to correct an error. Will we continue to have state sanctioned revenge? Probably. Dono",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:26"
+    },
+    {
+      "nodeID": "149817",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:11:26"
+    },
+    {
+      "nodeID": "149818",
+      "text": "I don't agree with capital punishment because I believe all people have a right to life but I have to agree that the greater punishment for criminals is to keep them alive. Death is quick and easy, a life forced to live with what you have done is far greater punishment. Let them rot in a cage for the rest of their natural lives.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:26"
+    },
+    {
+      "nodeID": "149819",
+      "text": "But if a loved one were murdered for simply protecting his/her family, what would life in prison do for justice? For you? For the low-life - but maybe get him paroled for some pacified, gutless reason/excuse?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:26"
+    },
+    {
+      "nodeID": "149820",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:11:26"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "190358",
+      "fromID": "149814",
+      "toID": "149815",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190359",
+      "fromID": "149815",
+      "toID": "149813",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190360",
+      "fromID": "149816",
+      "toID": "149817",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190361",
+      "fromID": "149817",
+      "toID": "149813",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190362",
+      "fromID": "149819",
+      "toID": "149820",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190363",
+      "fromID": "149820",
+      "toID": "149818",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,157 @@
+{
+  "nodes": [
+    {
+      "nodeID": "159671",
+      "text": "simone Why would you want to prove your belief system to be true?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:28"
+    },
+    {
+      "nodeID": "159672",
+      "text": "Well, it happens in virtually every thread. Some disagreements are between individuals of essentially the same basic system [Protestant Christian vs Protestant Christian], [atheist rationalist vs atheist rationalist].  Many disagreements are between individual of differing belief systems. In such cases the individuals often use the same word to mean two different things. What is 'evidence'? Well, that will depend on your core belief system. Sacred writings may be excellent evidence for your belief system, but when you say the Qu'ran proves an issue, the Christian says 'That's not evidence!'. One side tries to convince the other side that their core beliefs are incorrect, so they really have no evidence for their position.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:28"
+    },
+    {
+      "nodeID": "159673",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:33:28"
+    },
+    {
+      "nodeID": "159674",
+      "text": "I cannot prove that my belief in my specific God is true any more then I can prove that leprechauns, unicorns, the flying spaghetti monster, magical space monkeys and living care bears exists. That doesn't mean I don't believe in God however.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:28"
+    },
+    {
+      "nodeID": "159675",
+      "text": "actually, it can be proven whether leprechauns, unicorns, the flying spaghetti monster, magical space monkeys and livining care baers, and even god, exists or not. the question of proving a belief seems kinda self-contradictory to me. if something is a fact that can be proven, then your belief about it is irrelevant. likewise, if you believe something, whether there are facts to support it or not, its still your belief. there are people who believe things inn the absence of supporting facts, and sometimes even in the face of opposing facts. the term for that is faith faith is the belief of something in the absence of evidence. if you have faith in something, proof is irrelevant, or at least it should be",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:28"
+    },
+    {
+      "nodeID": "159676",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:33:28"
+    },
+    {
+      "nodeID": "159677",
+      "text": "'What I find most interesting' is to consider a humanity purged of the chronic scourge of rabid religion. How much more pleasant, and saner would the world be. And how many Indigenous peoples around the planet would have continued to survive and thrive unmolested by what i consider the evilest of all manmade plagues, religion.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:28"
+    },
+    {
+      "nodeID": "159678",
+      "text": "But the question is Can you prove your belief system is true? And all you've done is spew hate for religion but haven't even tried to actually answer the question. And ask yourself this. If the idea of God is such a man made plague, then God doesn't even exist right ? So if God doesn't exist then what has He done to you to make you so venomous and angry at him ? Why would you be so angry at a non existent being ? I challenge you to come up with a rational answer.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:28"
+    },
+    {
+      "nodeID": "159679",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:33:28"
+    },
+    {
+      "nodeID": "159680",
+      "text": "Belief is belief. Sometimes persons believe hard, solid facts, most times they do not.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:28"
+    },
+    {
+      "nodeID": "159681",
+      "text": "Well, I would say they simply disagree with how 'facts' are determined. You will be hard pressed to find someone who says 'I ignore the hard, solid facts'. Everyone believes hard, solid facts. But everyone disagrees about what constitutes hard, solid facts.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:29"
+    },
+    {
+      "nodeID": "159682",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:33:29"
+    },
+    {
+      "nodeID": "159683",
+      "text": "How could you prove it?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:29"
+    },
+    {
+      "nodeID": "159684",
+      "text": "Well, the point is, you can't. Absent such provability, it is up to both sides to try to decide where they have common ground, or to end the discussion.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:29"
+    },
+    {
+      "nodeID": "159685",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:33:29"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "197344",
+      "fromID": "159672",
+      "toID": "159673",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197345",
+      "fromID": "159673",
+      "toID": "159671",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197346",
+      "fromID": "159675",
+      "toID": "159676",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197347",
+      "fromID": "159676",
+      "toID": "159674",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197348",
+      "fromID": "159678",
+      "toID": "159679",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197349",
+      "fromID": "159679",
+      "toID": "159677",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197350",
+      "fromID": "159681",
+      "toID": "159682",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197351",
+      "fromID": "159682",
+      "toID": "159680",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197352",
+      "fromID": "159684",
+      "toID": "159685",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197353",
+      "fromID": "159685",
+      "toID": "159683",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

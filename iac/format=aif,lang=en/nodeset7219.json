@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139493",
+      "text": "Eugenics alive and well: http://news.yahoo.com/s/ap/20070112/ap_on_re_us/embryo_bank",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:12"
+    },
+    {
+      "nodeID": "139494",
+      "text": "Oh for dumb. It's almost more ludicrous than anything else. What they are trying to sell can never be guaranteed. Stupid stupid people.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:12"
+    },
+    {
+      "nodeID": "139495",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:49:12"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183062",
+      "fromID": "139494",
+      "toID": "139495",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183063",
+      "fromID": "139495",
+      "toID": "139493",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

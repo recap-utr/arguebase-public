@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138843",
+      "text": "I am a person 15 years of age and I want my gun, yet I can't get one. Why not?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:55"
+    },
+    {
+      "nodeID": "138844",
+      "text": "Actually, you can. You can get a cap and ball revolver via mail order LEGALLY.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:55"
+    },
+    {
+      "nodeID": "138845",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:47:55"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182600",
+      "fromID": "138844",
+      "toID": "138845",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182601",
+      "fromID": "138845",
+      "toID": "138843",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

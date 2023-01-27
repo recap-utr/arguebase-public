@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138520",
+      "text": "I am curious as to why you specifically exclude self defense as a valid reason for owning a gun. Data from the FBI shows that victims who resist an aggressor by use of a gun are less likely to be injured than when they use other weapons for defense. I would think that this alone would validate the ownership of a gun for defensive use. On a related note, as was recently confirmed by the SCOTUS, owning a firearm is an individual right. I am not aware of any other right that you are required to to demonstrate a reason prior to exercising.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:14"
+    },
+    {
+      "nodeID": "138521",
+      "text": "Because self-defence, unlike most other 'reasons', automatically allows all citizens firearm access, and in most cases allows firearm acess without mandatory training/evaluation. When this occurs, you are much more likely to get misuse of firearms. If you read around you'll see that I consider all rights as needing justification. This comes both from my stance as a relativist and as a UK citizen, where there is no formalised Constitution. Ask yourself this - if a right cannot be justified, why should it be treated as a 'right'?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:14"
+    },
+    {
+      "nodeID": "138522",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:47:14"
+    },
+    {
+      "nodeID": "138523",
+      "text": "When this occurs, you are much more likely to get misuse of firearms.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:14"
+    },
+    {
+      "nodeID": "138524",
+      "text": "And how often has this actually occurred? Maybe there are examples of this actually taking place to warrant it being a problem that needs addressing? Or is this just your own personal belief?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:14"
+    },
+    {
+      "nodeID": "138525",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:47:14"
+    },
+    {
+      "nodeID": "138526",
+      "text": "Because self-defence, unlike most other 'reasons', automatically allows all citizens firearm access, and in most cases allows firearm acess without mandatory training/evaluation.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:14"
+    },
+    {
+      "nodeID": "138527",
+      "text": "And what's so wrong about that?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:14"
+    },
+    {
+      "nodeID": "138528",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:47:14"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182366",
+      "fromID": "138521",
+      "toID": "138522",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182367",
+      "fromID": "138522",
+      "toID": "138520",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182368",
+      "fromID": "138524",
+      "toID": "138525",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182369",
+      "fromID": "138525",
+      "toID": "138523",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182370",
+      "fromID": "138527",
+      "toID": "138528",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182371",
+      "fromID": "138528",
+      "toID": "138526",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

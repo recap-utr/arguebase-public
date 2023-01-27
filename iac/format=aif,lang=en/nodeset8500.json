@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "158196",
+      "text": "only if the woman wanted the baby.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:30:13"
+    },
+    {
+      "nodeID": "158197",
+      "text": "And how do we know that she would have wanted it. What if the Petersons got into a fight because Laci found out Scott had been cheating on her and that was the reason why he killed her? What if they would otherwise have gotten a divorce and then she would have gotten an abortion because she no longer wanted the baby?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:30:13"
+    },
+    {
+      "nodeID": "158198",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:30:13"
+    },
+    {
+      "nodeID": "158199",
+      "text": "i'm saying, 'according to the dictionary' may not mean that much. the dictionary is too, what is the word, standard to describe certain things. it says 'killing of a human', but what about the vegans? they believe that killing an animal is murder. words and the meaning of words change over time.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:30:13"
+    },
+    {
+      "nodeID": "158200",
+      "text": "But the government can't work with connotative meanings. It has to go by what is written. In this case, the definition of murder by every source I have read states that murder is the killing of another human.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:30:13"
+    },
+    {
+      "nodeID": "158201",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:30:13"
+    },
+    {
+      "nodeID": "158202",
+      "text": "Do you think she was the same person she was when in a coma as she is when coherent?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:30:13"
+    },
+    {
+      "nodeID": "158203",
+      "text": "Well, not completely, but yes, quite the same. However, this is irrelivent- she wasn't a person, because she was in a coma. Does that give me the right to kill her? Of course not! What about fetuses born in comas? Can we kill them? What about people in vegetative states? After all, they arn't perfect, so let's kill them!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:30:13"
+    },
+    {
+      "nodeID": "158204",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:30:13"
+    },
+    {
+      "nodeID": "158205",
+      "text": "Laci Peterson's pregnancy was far past the point of viability, so she would not have been able to get an abortion unless her health was in danger.  Also, an abortion is a legal medical procedure, while cutting a fetus out of a woman with a knife is not. If I ran up to you and knocked you out and then performed some pseudo medical procedure on you, I'd be arrested, regardless of whether or not you could get a legitimate version of that procedure on your own.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:30:13"
+    },
+    {
+      "nodeID": "158206",
+      "text": "But if the fetus isn't a human, then it's not murder.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:30:13"
+    },
+    {
+      "nodeID": "158207",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:30:13"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196280",
+      "fromID": "158197",
+      "toID": "158198",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196281",
+      "fromID": "158198",
+      "toID": "158196",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196282",
+      "fromID": "158200",
+      "toID": "158201",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196283",
+      "fromID": "158201",
+      "toID": "158199",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196284",
+      "fromID": "158203",
+      "toID": "158204",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196285",
+      "fromID": "158204",
+      "toID": "158202",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196286",
+      "fromID": "158206",
+      "toID": "158207",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196287",
+      "fromID": "158207",
+      "toID": "158205",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

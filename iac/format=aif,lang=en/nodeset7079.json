@@ -1,0 +1,157 @@
+{
+  "nodes": [
+    {
+      "nodeID": "137646",
+      "text": "Originally posted by Parcum Your proposal makes no sense. Are you speaking human being as in when it is an individual human being? Well then, this is a seperate issue. Let's discuss this.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:22"
+    },
+    {
+      "nodeID": "137647",
+      "text": "No I am saying a human being. Human is VERY diffent from human being. The hair that is in the drain of my shower is 'human.' It has the DNA charicteristics that make me and it human. My arm is human. It also has human characteristics. The question is, is it a 'human being' with rights and interests, that was my point.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:22"
+    },
+    {
+      "nodeID": "137648",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:45:22"
+    },
+    {
+      "nodeID": "137649",
+      "text": "Everything is made up of cells!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:22"
+    },
+    {
+      "nodeID": "137650",
+      "text": "Yes, every living thing is made up of cells.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:22"
+    },
+    {
+      "nodeID": "137651",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:45:22"
+    },
+    {
+      "nodeID": "137652",
+      "text": "It's kind of silly that you call it a 'clump of cells', as we are all clumps of cells!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:22"
+    },
+    {
+      "nodeID": "137653",
+      "text": "Yes, but our cells, are functional. It's cells are not yet functional beyond dividing.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:22"
+    },
+    {
+      "nodeID": "137654",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:45:23"
+    },
+    {
+      "nodeID": "137655",
+      "text": "Yes, I was a fetus, and at that point in time I was NOT technically a human being. I had the potential to become a human being but I wasn't not one. I was human cells dividing.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:23"
+    },
+    {
+      "nodeID": "137656",
+      "text": "So you're claiming that you 'transformed' from part of your mother to a human. So you're claiming that you were once almost your mom's arm or leg? lol! Biologically, this is simply a farce statement.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:23"
+    },
+    {
+      "nodeID": "137657",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:45:23"
+    },
+    {
+      "nodeID": "137658",
+      "text": "Roe v. Wade and another case should be overturned on the basis of false testimonies anyway. See recent issue of 'Focus on the Family, Thirty Years of Lies'. 'Roe' has said that she lied in court along with someone in another case relating to this matter.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:23"
+    },
+    {
+      "nodeID": "137659",
+      "text": "Yes, and she's prolife now, but the basis of the ruling is still the same, and even if it were overturned it wouldn't be too long before another case went to court. The question is would it get the same ruling? Probably yes, there had been a change of opinion due to change in justices than they would have found reasons to overturn it already, since they haven't they most likely agree.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:23"
+    },
+    {
+      "nodeID": "137660",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:45:23"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181748",
+      "fromID": "137647",
+      "toID": "137648",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181749",
+      "fromID": "137648",
+      "toID": "137646",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181750",
+      "fromID": "137650",
+      "toID": "137651",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181751",
+      "fromID": "137651",
+      "toID": "137649",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181752",
+      "fromID": "137653",
+      "toID": "137654",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181753",
+      "fromID": "137654",
+      "toID": "137652",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181754",
+      "fromID": "137656",
+      "toID": "137657",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181755",
+      "fromID": "137657",
+      "toID": "137655",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181756",
+      "fromID": "137659",
+      "toID": "137660",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181757",
+      "fromID": "137660",
+      "toID": "137658",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

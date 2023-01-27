@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151287",
+      "text": "Yes... because black people are Neanderthals emoticon_confused",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:28"
+    },
+    {
+      "nodeID": "151288",
+      "text": "I believe white supremacists hate all non-whites, not just blacks.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:29"
+    },
+    {
+      "nodeID": "151289",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:14:29"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191398",
+      "fromID": "151288",
+      "toID": "151289",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191399",
+      "fromID": "151289",
+      "toID": "151287",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

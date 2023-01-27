@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "145544",
+      "text": "This entire issue was dealt with on this threat here, starting at post 250.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:33"
+    },
+    {
+      "nodeID": "145545",
+      "text": "You either did not read my post thoroughly, or are intentional misrepresenting me. Post 250 (which I had actually read before starting this thread) is nothing but DamEtel rambling about homologies between vertebrae embryos. That has absolutely nothing to do with the unexplained homologies that the Denton talks about. Evolution simply cannot, reasonably speaking, account for the homology between your arm and leg, among other examples.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:33"
+    },
+    {
+      "nodeID": "145546",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:02:33"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187348",
+      "fromID": "145545",
+      "toID": "145546",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187349",
+      "fromID": "145546",
+      "toID": "145544",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

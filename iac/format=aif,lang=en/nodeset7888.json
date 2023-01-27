@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "149202",
+      "text": "Care to comment?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:19"
+    },
+    {
+      "nodeID": "149203",
+      "text": "So does this mean they have to get tougher on gun control or softer before the results go their way? That is the real question. My guess is that we are caught in the unhappy medium where going in either direction will be more successful than where we are now.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:19"
+    },
+    {
+      "nodeID": "149204",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:10:19"
+    },
+    {
+      "nodeID": "149205",
+      "text": "So then will you go the way on liberty (repeal stoopid laws) or tyranny (enact more unconstitutional laws)?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:20"
+    },
+    {
+      "nodeID": "149206",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:10:20"
+    },
+    {
+      "nodeID": "149207",
+      "text": "Your link has nothing about Isreal or the Swiss in it.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:20"
+    },
+    {
+      "nodeID": "149208",
+      "text": "Yes, it does. Read it all. Also go to this link where an Israeli citizen talks about guns and gun-control in Israel. http://www.counsel.net/chatboards/2nd-amendment/topic38/10.31.02.02.36.24.html Sounds like Israel has strict gun-control laws but also lots of guns. Gun-control has not led to gun confiscation in that nation.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:20"
+    },
+    {
+      "nodeID": "149209",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:10:20"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189920",
+      "fromID": "149203",
+      "toID": "149204",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189921",
+      "fromID": "149204",
+      "toID": "149202",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189922",
+      "fromID": "149205",
+      "toID": "149206",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189923",
+      "fromID": "149206",
+      "toID": "149203",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189924",
+      "fromID": "149208",
+      "toID": "149209",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189925",
+      "fromID": "149209",
+      "toID": "149207",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

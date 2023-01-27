@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141369",
+      "text": "Basically, the idea that intelligent involvement in life can be inferred strictly on the basis of scientific evidence, as opposed to particular interpretations of scripture.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:30"
+    },
+    {
+      "nodeID": "141370",
+      "text": "Well, that would seem pretty obvious under that definition that it did not arise because of a single court case.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:30"
+    },
+    {
+      "nodeID": "141371",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:53:30"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184396",
+      "fromID": "141370",
+      "toID": "141371",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184397",
+      "fromID": "141371",
+      "toID": "141369",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140365",
+      "text": "A federal judge has blocked the implementation of a new Arizona law that would strip same-sex domestic partners who are state employees of family health care benefits. The judge ruled that the new law violates the equal protection clause of the 14th amendment to the U.S. constitution. Check out the story in the Arizona Republic:  Judge blocks Arizona law on domestic-partner benefits",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:16"
+    },
+    {
+      "nodeID": "140366",
+      "text": "Good news. It seems as time goes on Arizona attempts to become more and more intolerant and bigoted. Thankfully he put an end to this one (too bad not the immigration one).",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:16"
+    },
+    {
+      "nodeID": "140367",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:51:16"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183682",
+      "fromID": "140366",
+      "toID": "140367",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183683",
+      "fromID": "140367",
+      "toID": "140365",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

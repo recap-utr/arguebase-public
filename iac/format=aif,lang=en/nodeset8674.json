@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "161144",
+      "text": "Second, as Behe pointed out (and as Miller ignored), the parts that were used to replace the B- galactosidase function were already in the system. They simply were activated by the mutations.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:47"
+    },
+    {
+      "nodeID": "161145",
+      "text": "And, as miller pointed out, that is how evolution works. Small changes from preexisting parts providing new function. In this case, the function was to beable to digest lactose.. a function that was not there before.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:47"
+    },
+    {
+      "nodeID": "161146",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:36:47"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198392",
+      "fromID": "161145",
+      "toID": "161146",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198393",
+      "fromID": "161146",
+      "toID": "161144",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

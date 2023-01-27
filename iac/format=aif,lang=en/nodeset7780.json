@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "147882",
+      "text": "Same response as the last question... Straw man! Self-defence includes threatening behaviour - as you would have learnt if you had the patience to wait for my response rather than run to the 'new thread' button...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:14"
+    },
+    {
+      "nodeID": "147883",
+      "text": "So... you're saying that you'd rather have a law-abiding citizen victimized than a criminal threatened? emoticon_wow",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:14"
+    },
+    {
+      "nodeID": "147884",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:14"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "188990",
+      "fromID": "147883",
+      "toID": "147884",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188991",
+      "fromID": "147884",
+      "toID": "147882",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

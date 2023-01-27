@@ -1,0 +1,145 @@
+{
+  "nodes": [
+    {
+      "nodeID": "142971",
+      "text": "One drug, Lapatinib, can halve the speed of growth of breast cancer in one in five women with an aggressive form of the disease.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:01"
+    },
+    {
+      "nodeID": "142972",
+      "text": "So, you are talking an incredibly expensive drug that MAY work 20% of the time when it is used.  Are they just letting these people die....giving them morphine for the pain and letting them waste away? No",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:01"
+    },
+    {
+      "nodeID": "142973",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:57:01"
+    },
+    {
+      "nodeID": "142974",
+      "text": "Dr Gillian Leng, Nice deputy chief executive, said 'The committee concluded that Lapatinib is not a cost-effective use of NHS resources when compared with current treatment.'",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:01"
+    },
+    {
+      "nodeID": "142975",
+      "text": "So, what is the current treatment and how effective is it? Obviously it is more COST effective. We dont know what the current treatment is, or how effective it is, because what you posted here is a one sided opinion piece masquerading as a news article, and you ate it up.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:01"
+    },
+    {
+      "nodeID": "142976",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:57:01"
+    },
+    {
+      "nodeID": "142977",
+      "text": "Any time you have a benefits plan, you are going to have to have limits on it.  Try actually READING your article and THINKING as you do. So, you are talking an incredibly expensive drug that MAY work 20% of the time when it is used.  Are they just letting these people die....giving them morphine for the pain and letting them waste away? No So, what is the current treatment and how effective is it? Obviously it is more COST effective. We dont know what the current treatment is, or how effective it is, because what you posted here is a one sided opinion piece masquerading as a news article, and you ate it up.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:01"
+    },
+    {
+      "nodeID": "142978",
+      "text": "Agreed. You might also ask whether you treat 1 cancer patient with this new expensiveand unreliable drug, or many patients with a different drug, or a different condition. The money has to stop somewhere.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:01"
+    },
+    {
+      "nodeID": "142979",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:57:01"
+    },
+    {
+      "nodeID": "142980",
+      "text": "Current 'treatment' includes: Use of a placebo Laying on of hands Prayer Tossing salt over thy shoulder Planting 3 kernels of rice in the ground under your home Saying the Pledge of Allegience And thanking the Obamasiah for a bountiful crop of beets. Oh, and if you can locate the witch, have her confess to the crime of making you ill...and punished for doing so...you stand a better chance of living longer with said cancers.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:01"
+    },
+    {
+      "nodeID": "142981",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:57:01"
+    },
+    {
+      "nodeID": "142982",
+      "text": "If this is what passes for American healthcare, then your need for change is even more desperate. None of these 'treatments' is available on the NHS.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:01"
+    },
+    {
+      "nodeID": "142983",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:57:01"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185538",
+      "fromID": "142972",
+      "toID": "142973",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185539",
+      "fromID": "142973",
+      "toID": "142971",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185540",
+      "fromID": "142975",
+      "toID": "142976",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185541",
+      "fromID": "142976",
+      "toID": "142974",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185542",
+      "fromID": "142978",
+      "toID": "142979",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185543",
+      "fromID": "142979",
+      "toID": "142977",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185544",
+      "fromID": "142980",
+      "toID": "142981",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185545",
+      "fromID": "142981",
+      "toID": "142972",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185546",
+      "fromID": "142982",
+      "toID": "142983",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185547",
+      "fromID": "142983",
+      "toID": "142980",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

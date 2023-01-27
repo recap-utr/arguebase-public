@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157584",
+      "text": "4. A child is a child regardless of the circumstances of their conception, and there are in fact people walking around today who are the products of the example you gave here.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:48"
+    },
+    {
+      "nodeID": "157585",
+      "text": "But stress a child, it would be wrong to judge a child by the circumstances of its birth but as a developing embryo I do not think it can be treated the same way. Adoption may be preferable if possible but if someone is causing harm, albeit even unintentionally they are still responsible. The whole idea of manslaughter is based around this, without even going on to criminals being a product of their environment - they may have had apparently little choice in their crimes. This does not exempt them from punishment though - they serve to prevent future crimes or to stop the contining harm being caused.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:48"
+    },
+    {
+      "nodeID": "157586",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:28:48"
+    },
+    {
+      "nodeID": "157587",
+      "text": "Abortion is not currently a crime. However, because abortion takes the life of an innocent human being for the convenience of another, it is morally wrong - unless the mother's life is at stake.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:48"
+    },
+    {
+      "nodeID": "157588",
+      "text": "Well, 'convenience' is a debatable word here - its convenient for you to let a great number of people in Africa die because you want a TV, or electricity or a holiday, whilst its far less convenient for someone to have to carry a child. They will actually phsyically suffer whilst you just don't get the latest in modern western luxuries. Abortion as a means of birth control is just not a good idea though.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:48"
+    },
+    {
+      "nodeID": "157589",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:28:48"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195840",
+      "fromID": "157585",
+      "toID": "157586",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195841",
+      "fromID": "157586",
+      "toID": "157584",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195842",
+      "fromID": "157588",
+      "toID": "157589",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195843",
+      "fromID": "157589",
+      "toID": "157587",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

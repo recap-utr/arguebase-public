@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148086",
+      "text": "Obviously. The fact you would desire such a thing disturbs me.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:45"
+    },
+    {
+      "nodeID": "148087",
+      "text": "Just where did the word desire appear? Read the black part only.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:45"
+    },
+    {
+      "nodeID": "148088",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:45"
+    },
+    {
+      "nodeID": "148089",
+      "text": "Talkin' out your XXX again I see.  What happens if I do not vote? Initially the Australian Electoral Commission will write to all apparent non-voters requesting that they either provide a reason for their failure to vote or pay a $20 penalty. If, within 21 days, the apparent non-voter fails to reply, cannot provide a valid and sufficient reason or declines to pay the penalty, then prosecution proceedings may be instigated. If the matter is dealt with in court and the person is found guilty, he or she may be fined up to $50 plus court costs. Voting Australia",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:45"
+    },
+    {
+      "nodeID": "148090",
+      "text": "So you get fined for not voting, i said you get fined for not voting yet i am talking out the back of my arse. How did you figure that? I provided accurate information and get abused by a gun hater, i can live with that as gun haters are well known for hating facts NATO I could not agree with you more!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:45"
+    },
+    {
+      "nodeID": "148091",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:45"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189138",
+      "fromID": "148087",
+      "toID": "148088",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189139",
+      "fromID": "148088",
+      "toID": "148086",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189140",
+      "fromID": "148090",
+      "toID": "148091",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189141",
+      "fromID": "148091",
+      "toID": "148089",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "158621",
+      "text": "The 2010 US Census will now include married gay couples. The Census Bureau have announced that married gay and lesbian couples would be counted in the 2010 national tally, previously barred in several states by the 1996 law DOMA, which defines marriage as a heterosexual union for federal agencies. 'They will be counted, and they ought to report the way they see themselves,' says Steve Jots, spokesman for the Census Bureau. 'In the normal process of reports coming out after the census of 2010, I think the country will have a good data set on which to discuss this phenomenon that is evolving in this country.' 'This is about folks' identity,' Jost added. 'We are experienced in dealing with changing social phenomena and how to measure and report it, and we want to get it right.'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:08"
+    },
+    {
+      "nodeID": "158622",
+      "text": "Gay Blog - QueerSighted This is long overdue. Marginalizing gay couples by failing to acknowledge our existence is ending.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:08"
+    },
+    {
+      "nodeID": "158623",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:31:08"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196590",
+      "fromID": "158622",
+      "toID": "158623",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196591",
+      "fromID": "158623",
+      "toID": "158621",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

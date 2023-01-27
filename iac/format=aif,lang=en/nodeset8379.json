@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "144243",
+      "text": "So?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:48"
+    },
+    {
+      "nodeID": "156554",
+      "text": "but then there are plenty of alternatives where guns take lives unnecessarily,",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:23"
+    },
+    {
+      "nodeID": "156555",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:26:23"
+    },
+    {
+      "nodeID": "156556",
+      "text": "It's easy to come up with scenarios where you think a gun is the only escape, but then there are plenty of alternatives where guns take lives unnecessarily, be they because children get hold of them, or nutcases, or someone who's just had a bad day. The advantage of being confronted by a knife wielding maniac (as opposed to a gun wielding maniac) is that he/she has to come within arm's reach. Smiley",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:23"
+    },
+    {
+      "nodeID": "156557",
+      "text": "So, everyone who dies in a stabbing/beating/shooting is just, stupid? Maybe they wanted to die? Trust me, if there were alternatives to getting killed I don't think many people would die of crime.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:23"
+    },
+    {
+      "nodeID": "156558",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:26:23"
+    },
+    {
+      "nodeID": "156559",
+      "text": "Guns do make killing a relatively impersonal matter, don't they?emoticon_xhoho",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:23"
+    },
+    {
+      "nodeID": "156560",
+      "text": "So what? Whether killing is a personal or impersonal matter, the bottom line is that somebody IS going to be killed and that's all there is to it. I highly doubt somebody's BEING killed is of less importance than HOW they were killed.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:23"
+    },
+    {
+      "nodeID": "156561",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:26:23"
+    },
+    {
+      "nodeID": "156562",
+      "text": "Really? Do you know how many people get shot in the UK? Handgun violence has gone up.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:23"
+    },
+    {
+      "nodeID": "156563",
+      "text": "But your own link says that the rise in crime was partially explained by the new system the UK police were using for recording crime and that the British Crime Survey showed a decrease in crime since 1997.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:24"
+    },
+    {
+      "nodeID": "156564",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:26:24"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195110",
+      "fromID": "144243",
+      "toID": "156555",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195111",
+      "fromID": "156555",
+      "toID": "156554",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195112",
+      "fromID": "156557",
+      "toID": "156558",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195113",
+      "fromID": "156558",
+      "toID": "156556",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195114",
+      "fromID": "156560",
+      "toID": "156561",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195115",
+      "fromID": "156561",
+      "toID": "156559",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195116",
+      "fromID": "156563",
+      "toID": "156564",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195117",
+      "fromID": "156564",
+      "toID": "156562",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

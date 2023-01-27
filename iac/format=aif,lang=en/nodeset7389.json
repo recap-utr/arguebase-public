@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141590",
+      "text": "You can't sue your government? Seriously? The NHS in the UK has been sued in cases of malpractice, but usually suitable compensation is sorted long before it gets anywhere near a court. Of course payouts are lower in the UK because the NHS will already be providing any subsequently required treatment.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:03"
+    },
+    {
+      "nodeID": "141591",
+      "text": "Well at least in the US you can't. Also in the US if a law suit is brought it is normaly not about getting treatment it's about pain a suffering compensation. In the US if you bring a law suit there is virtualy no risk of having to pay the defendants legal fees if they win so there is no risk to the person or law firm in bringing a suit. This is why frivilous law suits are rampent in the US. Most insurance companies will settle a suit than take it to trial since it costs less to settle.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:03"
+    },
+    {
+      "nodeID": "141592",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:54:03"
+    },
+    {
+      "nodeID": "141593",
+      "text": "US big business happened to it. Next question? :)",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:03"
+    },
+    {
+      "nodeID": "141594",
+      "text": "And here is what you get when the Government gets a hold of it. Premature baby 'left to die' by doctors after mother gives birth just two days before 22-week care limit | Mail Online",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:03"
+    },
+    {
+      "nodeID": "141595",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:54:03"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184550",
+      "fromID": "141591",
+      "toID": "141592",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184551",
+      "fromID": "141592",
+      "toID": "141590",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184552",
+      "fromID": "141594",
+      "toID": "141595",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184553",
+      "fromID": "141595",
+      "toID": "141593",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

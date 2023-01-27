@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148012",
+      "text": "'I do feel threatened. I do feel harmed,' said Assemblyman Brian Kolb (R-Canandaigua). 'It's a direct challenge to me and how I was brought up.'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:34"
+    },
+    {
+      "nodeID": "148013",
+      "text": "So it seems that gay people and our families are to remain 2nd class citizens to preserve this evil mans heterosexual privledge. How is it that 'the way he was brought up' is more important then protecting gay people?  What of they way gay people were brought up? What about the threat to our freedom that Brian Kolb and his evil religion and political party represents? I was brought up by my father, taught in school that all people are equal. His refusal to extend marriage to gay people is a threat to me and I do feel harmed and it is a challenge to the way I was brought up.  I do live in Michigan and not in New York but his evil statements and attitude are the same here if not worse. I was shocked to find out the Romney was the son of a former Michigan governor and that he is from Michigan. Does figure with all the anti gay religious nut cases that are swarming in the woods here in Michigan.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:34"
+    },
+    {
+      "nodeID": "148014",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:34"
+    },
+    {
+      "nodeID": "148015",
+      "text": "Once again this only confirms my belief that republicans are evil and celebrate gay oppression. http://www.365gay.com/Newscon07/06/062007yorkmar.htm We even have one quote.  So it seems that gay people and our families are to remain 2nd class citizens to preserve this evil mans heterosexual privledge. How is it that 'the way he was brought up' is more important then protecting gay people?  What of they way gay people were brought up? What about the threat to our freedom that Brian Kolb and his evil religion and political party represents? I was brought up by my father, taught in school that all people are equal. His refusal to extend marriage to gay people is a threat to me and I do feel harmed and it is a challenge to the way I was brought up.  I do live in Michigan and not in New York but his evil statements and attitude are the same here if not worse. I was shocked to find out the Romney was the son of a former Michigan governor and that he is from Michigan. Does figure with all the anti gay religious nut cases that are swarming in the woods here in Michigan.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:35"
+    },
+    {
+      "nodeID": "148016",
+      "text": "Very sad news.  I'm gonna have to say that if I was talking to the assemblyman that they quoted said that to my face, I'd tell the little bigot that his filthy viewpoint sounds exactly like the arguments used against interracial marriage, against civil rights for blacks, women, and various minorities, and also against ending slavery.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:35"
+    },
+    {
+      "nodeID": "148017",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:07:35"
+    },
+    {
+      "nodeID": "148018",
+      "text": "NY Assembly Passes Marriage Equality Bill The New York State Assembly just voted to pass the marriage bill by a vote of 85 to 61. The vote comes a bit over a month after Gov. Spitzer introduced the bill into the Legislature and a bit under a year since the NYS Court of Appeals ruled that it&#8217;s the Legislature&#8217;s job to decide on the issue of same-sex marriage. It's not likely the GOP senate will pass it, of course, but who knows? Maybe miracles do happen... :)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:35"
+    },
+    {
+      "nodeID": "148019",
+      "text": "Don't count on it. Republicans do not believe in equality, individual freedom, or human rights. They only kowtow to their religious right masters. If Republicans trully belived in individual freedom, equality, and human rights the would wholeheartedly support this legislation.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:35"
+    },
+    {
+      "nodeID": "148020",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:07:35"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189086",
+      "fromID": "148013",
+      "toID": "148014",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189087",
+      "fromID": "148014",
+      "toID": "148012",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189088",
+      "fromID": "148016",
+      "toID": "148017",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189089",
+      "fromID": "148017",
+      "toID": "148015",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189090",
+      "fromID": "148019",
+      "toID": "148020",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189091",
+      "fromID": "148020",
+      "toID": "148018",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

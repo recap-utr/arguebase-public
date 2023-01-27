@@ -1,0 +1,235 @@
+{
+  "nodes": [
+    {
+      "nodeID": "200599",
+      "text": "MuffinsAndBiscuits : in the Syria section, did O'Malley say \"Assad's invasion of Syria will be seen as a blunder\"",
+      "type": "L",
+      "timestamp": "2016-09-21 08:58:00"
+    },
+    {
+      "nodeID": "200601",
+      "text": "in the Syria section O'Malley said \"Assad's invasion of Syria will be seen as a blunder\"",
+      "type": "I",
+      "timestamp": "2016-09-21 08:58:00"
+    },
+    {
+      "nodeID": "200619",
+      "text": "[deleted] : People misspeak",
+      "type": "L",
+      "timestamp": "2016-09-21 08:58:02"
+    },
+    {
+      "nodeID": "200621",
+      "text": "people misspeak",
+      "type": "I",
+      "timestamp": "2016-09-21 08:58:02"
+    },
+    {
+      "nodeID": "200635",
+      "text": "MuffinsAndBiscuits : I just thought I was crazy for a second and it did sent me into a wikipedia hunt to figure out what   Assad's dad did",
+      "type": "L",
+      "timestamp": "2016-09-21 08:58:03"
+    },
+    {
+      "nodeID": "200637",
+      "text": "I just thought I was crazy for a second and it did sent me into a wikipedia hunt to figure out what   Assad's dad did",
+      "type": "I",
+      "timestamp": "2016-09-21 08:58:03"
+    },
+    {
+      "nodeID": "215012",
+      "text": "O'MALLEY : Assad 's invasion of Syria will be seen as a blunder",
+      "type": "L",
+      "timestamp": "2016-11-01 13:10:08"
+    },
+    {
+      "nodeID": "215014",
+      "text": "Assad 's invasion of Syria will be seen as a blunder",
+      "type": "I",
+      "timestamp": "2016-11-01 13:10:08"
+    },
+    {
+      "nodeID": "263852",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-07 20:41:10",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "263853",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-07 20:41:11",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "263854",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-07 20:41:11",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "263855",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-07 20:41:12",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "263856",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-07 20:41:12",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "263857",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-07 20:41:13",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "263858",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-07 20:41:13",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "263859",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2017-03-07 20:41:14",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "263860",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2017-03-07 20:41:14",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "318888",
+      "fromID": "215012",
+      "toID": "263852",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318889",
+      "fromID": "263852",
+      "toID": "200599",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318890",
+      "fromID": "200601",
+      "toID": "263853",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318891",
+      "fromID": "263853",
+      "toID": "215012",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318892",
+      "fromID": "263852",
+      "toID": "263854",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318893",
+      "fromID": "263854",
+      "toID": "263853",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318894",
+      "fromID": "215012",
+      "toID": "263855",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318895",
+      "fromID": "263855",
+      "toID": "200619",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318896",
+      "fromID": "200621",
+      "toID": "263856",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318897",
+      "fromID": "263856",
+      "toID": "215014",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318898",
+      "fromID": "263855",
+      "toID": "263857",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318899",
+      "fromID": "263857",
+      "toID": "263856",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318900",
+      "fromID": "215012",
+      "toID": "263858",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318901",
+      "fromID": "263858",
+      "toID": "200635",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318902",
+      "fromID": "215014",
+      "toID": "263859",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318903",
+      "fromID": "263859",
+      "toID": "200637",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318904",
+      "fromID": "263858",
+      "toID": "263860",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318905",
+      "fromID": "263860",
+      "toID": "263859",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

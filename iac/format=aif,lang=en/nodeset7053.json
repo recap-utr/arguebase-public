@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "136914",
+      "text": "Can not have a debate without a presupposition...hello...",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:03"
+    },
+    {
+      "nodeID": "136915",
+      "text": "Care to define presupposition? Clive asked me to debate him a while ago, and I told him I would pick and study a topic. I have done that, and, here we are.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:03"
+    },
+    {
+      "nodeID": "136916",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:44:04"
+    },
+    {
+      "nodeID": "136917",
+      "text": "In a proper debate the parties make belief statements with support. In the secound part you both ask examining questions of each others belief. In the thrid part you both address those questions. In the final part you conclude your debate with a closing statement. Now on the count of three you guys go...one...two...three...",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:04"
+    },
+    {
+      "nodeID": "136918",
+      "text": "Sounds like a good plan to me...",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:04"
+    },
+    {
+      "nodeID": "136919",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:44:04"
+    },
+    {
+      "nodeID": "136920",
+      "text": "Presumably you will want to select a few people to judge your debate before you begin.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:04"
+    },
+    {
+      "nodeID": "136921",
+      "text": "The Skeptic has requested no judges. This actually suits me as there are too many of you that I'd have to pick from and I therefore avoid slighting anyone by not picking them ;)",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:04"
+    },
+    {
+      "nodeID": "136922",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:44:04"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181210",
+      "fromID": "136915",
+      "toID": "136916",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181211",
+      "fromID": "136916",
+      "toID": "136914",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181212",
+      "fromID": "136918",
+      "toID": "136919",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181213",
+      "fromID": "136919",
+      "toID": "136917",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181214",
+      "fromID": "136921",
+      "toID": "136922",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181215",
+      "fromID": "136922",
+      "toID": "136920",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

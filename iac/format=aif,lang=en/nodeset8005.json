@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151138",
+      "text": "California: 552 Illinois: 543 Massachusetts: 458 New Jersey: 356 New York: 441 District of Columbia: 1,371 I know it's not a state. not much gun control: Alaska: 635 open carry w/o a permit. Oregon: 298 Can carry in schools! Vermont 112 Virtually no state gun control laws! Virgina: 276 carry w/o a permit. Montana: 294 Open carry w/o a permit. South Dakota: 171.5 Open carry w/o a permit. Out of these states here is the breakdown of violent crime from most to least: 1.GC DC* I know it's not a state. 2.GR AK 3.GC CA* 4.GC IL* 5.GC MA* 6.GC NY* 7.GC NJ* 8.GR OR 9.GR MO 10.GR VA 11. GR SD 12.GR VT GC= Gun Control GR= Gun Rights WHERE WOULD YOU FEEL SAFER?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:10"
+    },
+    {
+      "nodeID": "151139",
+      "text": "Well, being a gun owner myself, I agree with much that you've posted. I do disagree somewhat with your conclusions in regard to these statistics however. For example, most of the states listed with high gun crime, and gun control laws, have cities that alone rival the population of the states with low gun crime, and less gun restrictions. And that may be part of the problem. Population density may well have some consideration here. It may be a lot easier, for example, for someone to commit multiple armed robberies in a given period of time in say someplace like NYC, than it would be in a rural state like Vermont or Montana. this in turn, would more naturally increase the chances of someone being shot, because of not giving up their wallet, or attempting to resist in saome other manner.  Bear in mind, I'm not saying that this is the case. I'm saying that it may be a factor. With just the numbers you've given us, I don't think there's necessarily proof of corellation between lack of crime and relative freedom from restrictive gun laws. The likely-hood is that it certainly helps, and in fact may be one of the major reasons. I just don't think you can say it's the only, or even the main reason.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:10"
+    },
+    {
+      "nodeID": "151140",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:14:10"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191288",
+      "fromID": "151139",
+      "toID": "151140",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191289",
+      "fromID": "151140",
+      "toID": "151138",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

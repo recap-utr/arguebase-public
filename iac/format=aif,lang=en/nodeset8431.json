@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157373",
+      "text": "may there never be a 34th! emoticon_xhoho",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:11"
+    },
+    {
+      "nodeID": "157374",
+      "text": "Agreed! emoticon_xhoho",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:11"
+    },
+    {
+      "nodeID": "157375",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:28:11"
+    },
+    {
+      "nodeID": "157376",
+      "text": "The funny thing is that you'll know there'll be a 34th. Hahaha! Legal abortion rocks my socks. emoticon_xagree",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:11"
+    },
+    {
+      "nodeID": "157377",
+      "text": "I dunno, we have 365 days to find out...there won't be a 66 I know that :)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:11"
+    },
+    {
+      "nodeID": "157378",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:28:11"
+    },
+    {
+      "nodeID": "157379",
+      "text": "...there won't be a 66 I know that :)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:11"
+    },
+    {
+      "nodeID": "157380",
+      "text": "I'll give you that one...only because I think by then women will be able to place their fertilized ovums in banks. But then again they said the same thing about robot servants and flying cars too!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:11"
+    },
+    {
+      "nodeID": "157381",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:28:11"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195690",
+      "fromID": "157374",
+      "toID": "157375",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195691",
+      "fromID": "157375",
+      "toID": "157373",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195692",
+      "fromID": "157377",
+      "toID": "157378",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195693",
+      "fromID": "157378",
+      "toID": "157376",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195694",
+      "fromID": "157380",
+      "toID": "157381",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195695",
+      "fromID": "157381",
+      "toID": "157379",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

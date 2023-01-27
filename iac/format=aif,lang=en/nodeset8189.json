@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "153714",
+      "text": "If morality is relative and not absolute then nobody can say Hitler was wrong for the things he did.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:57"
+    },
+    {
+      "nodeID": "153715",
+      "text": "And yet that is not the case. There are those who believe, on moral grounds, that what Hitler did was the right thing to do. An absolute morality requires absolute consensus, and there isn't any.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:58"
+    },
+    {
+      "nodeID": "153716",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:19:58"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193104",
+      "fromID": "153715",
+      "toID": "153716",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193105",
+      "fromID": "153716",
+      "toID": "153714",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

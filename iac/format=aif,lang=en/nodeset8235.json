@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "154325",
+      "text": "If I get the government to steal your pig, give it to me, and then I throw pig droppings at you all year and then keep all the pork, that is fascist economic theory.  See the difference???",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:22"
+    },
+    {
+      "nodeID": "154326",
+      "text": "I see the difference, but that's not what Obama is trying to do. He got us to buy the pig at a firesale and is hoping to make money selling it back to the original farmer or give it to the fieldhands.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:22"
+    },
+    {
+      "nodeID": "154327",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:21:22"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193536",
+      "fromID": "154326",
+      "toID": "154327",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193537",
+      "fromID": "154327",
+      "toID": "154325",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

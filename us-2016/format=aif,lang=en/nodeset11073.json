@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "nodeID": "189787",
+      "text": "El_Frijol : bewp bewp. Must say buzzwords. Must pay lip service to voters. bewp bewp. DANGER DANGER Iraq War Attack incoming! Scanning credentials Mention Obama & Secretary of State job bewp bewp. phew phew Crisis adverted processes stabilizing",
+      "type": "L",
+      "timestamp": "2016-08-05 11:22:47"
+    },
+    {
+      "nodeID": "189789",
+      "text": "bewp bewp. Must say buzzwords. Must pay lip service to voters. bewp bewp. DANGER DANGER Iraq War Attack incoming! Scanning credentials Mention Obama & Secretary of State job bewp bewp. phew phew Crisis adverted processes stabilizing",
+      "type": "I",
+      "timestamp": "2016-08-05 11:22:47"
+    },
+    {
+      "nodeID": "214688",
+      "text": "CLINTON :  I spent a lot of time with him in the Situation Room , going over some very difficult issues",
+      "type": "L",
+      "timestamp": "2016-11-01 13:09:37"
+    },
+    {
+      "nodeID": "262286",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-03 16:03:16",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "262287",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-03 16:03:17",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "262288",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-03 16:03:17",
+      "scheme": "Restating",
+      "schemeID": "101"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "316314",
+      "fromID": "214688",
+      "toID": "262286",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316315",
+      "fromID": "262286",
+      "toID": "189787",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316316",
+      "fromID": "189789",
+      "toID": "262287",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316317",
+      "fromID": "262287",
+      "toID": "214688",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316318",
+      "fromID": "262286",
+      "toID": "262288",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316319",
+      "fromID": "262288",
+      "toID": "262287",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

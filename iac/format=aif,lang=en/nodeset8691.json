@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "161300",
+      "text": "Every gun that is made, every warship launched, every rocket fired signifies, in the final sense, a theft from those who hunger and are not fed, those who are cold and not clothed.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:17"
+    },
+    {
+      "nodeID": "161301",
+      "text": "But if we take into account what guns imply then we have:",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:17"
+    },
+    {
+      "nodeID": "161302",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:37:18"
+    },
+    {
+      "nodeID": "161303",
+      "text": "The enemies of freedom do not argue; they shout and they shoot.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:18"
+    },
+    {
+      "nodeID": "161304",
+      "text": "And Eisenhower:",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:18"
+    },
+    {
+      "nodeID": "161305",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:37:18"
+    },
+    {
+      "nodeID": "161306",
+      "text": "Why would you expect this?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:18"
+    },
+    {
+      "nodeID": "161307",
+      "text": "Because the usual source of anti-gun statements on the 18th and 19th century tended to come from those who sought to keep indians and blacks unarmed and 'in their place' by depriving them of arms.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:18"
+    },
+    {
+      "nodeID": "161308",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:37:18"
+    },
+    {
+      "nodeID": "161309",
+      "text": "You did not ask for a quote which says 'we should ban guns' and you posed the question TO 'anti-gunners' you did not ask for anti-gun comments.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:18"
+    },
+    {
+      "nodeID": "161310",
+      "text": "So if you quoted Ted Kennedy when he said to his wife in an event that wasn't even publicized 'Good morning, sweetie', that would be an answer?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:18"
+    },
+    {
+      "nodeID": "161311",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:37:18"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198504",
+      "fromID": "161301",
+      "toID": "161302",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198505",
+      "fromID": "161302",
+      "toID": "161300",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198506",
+      "fromID": "161304",
+      "toID": "161305",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198507",
+      "fromID": "161305",
+      "toID": "161303",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198508",
+      "fromID": "161307",
+      "toID": "161308",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198509",
+      "fromID": "161308",
+      "toID": "161306",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198510",
+      "fromID": "161310",
+      "toID": "161311",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198511",
+      "fromID": "161311",
+      "toID": "161309",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

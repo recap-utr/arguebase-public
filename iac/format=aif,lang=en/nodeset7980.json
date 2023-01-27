@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "150911",
+      "text": "Perhaps it's because people from England are more violent but criminals are less likely to have guns.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:38"
+    },
+    {
+      "nodeID": "150912",
+      "text": "So what? The fact remains that Britain is still four times as dangerous as America in terms in crime rates. Or are you arguing that their crime level is acceptable and that you're alright with so many more people being a helpless victim unable to do anything?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:38"
+    },
+    {
+      "nodeID": "150913",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:13:38"
+    },
+    {
+      "nodeID": "150914",
+      "text": "If Britain has four times the violent crime rate of the US then why do a lot less murdered bodies per 100,000 turn up there?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:38"
+    },
+    {
+      "nodeID": "150915",
+      "text": "Because of massive cultural differences. You might as well be asking 'if both Americans and British people speak basic english, why do British people refer to apartments as flats?'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:38"
+    },
+    {
+      "nodeID": "150916",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:13:38"
+    },
+    {
+      "nodeID": "150917",
+      "text": "Our Inner City youth in the U.S. tend to believe that you cannot allow anyone to insult you, or you are a punk.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:38"
+    },
+    {
+      "nodeID": "150918",
+      "text": "And this stems back to drug prohibition. Since drug dealers can't go to the police or any other security agency for protection from their customers or competitors, they are forced to rely on their reputation for violence. Remove drug prohibition and you'd solve most of America's problem with murder. Within a year, there'd be no street drug trade. Sure, there'd still be drug addiction, but it would be a health and safety problem, like nicotine or alcohol addiction, not a murder problem.  Adding gun prohibition on top of drug prohibition is only likely to compound it.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:38"
+    },
+    {
+      "nodeID": "150919",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:13:38"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191130",
+      "fromID": "150912",
+      "toID": "150913",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191131",
+      "fromID": "150913",
+      "toID": "150911",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191132",
+      "fromID": "150915",
+      "toID": "150916",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191133",
+      "fromID": "150916",
+      "toID": "150914",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191134",
+      "fromID": "150918",
+      "toID": "150919",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191135",
+      "fromID": "150919",
+      "toID": "150917",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

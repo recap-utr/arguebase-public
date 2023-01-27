@@ -1,0 +1,172 @@
+{
+  "nodes": [
+    {
+      "nodeID": "190375",
+      "text": "Punchee 524 : That was a weird moment in American debate history. \"Yo check my website. Shit's on there.\"",
+      "type": "L",
+      "timestamp": "2016-08-08 11:04:46"
+    },
+    {
+      "nodeID": "190377",
+      "text": "that was a weird moment in American debate history. \"Yo check my website. Shit's on there.\"",
+      "type": "I",
+      "timestamp": "2016-08-08 11:04:47"
+    },
+    {
+      "nodeID": "190409",
+      "text": "ThePolemicist : Candidates say things like, \"You can see my full platform on my website, soandso dot com.\" Or, \"I laid out a step-by-step plan for the economy that you can find on my website...\"",
+      "type": "L",
+      "timestamp": "2016-08-08 11:04:50"
+    },
+    {
+      "nodeID": "190411",
+      "text": "candidates say things like, \"You can see my full platform on my website, soandso dot com.\" Or, \"I laid out a step-by-step plan for the economy that you can find on my website...\"",
+      "type": "I",
+      "timestamp": "2016-08-08 11:04:50"
+    },
+    {
+      "nodeID": "214808",
+      "text": "I would urge people to go to berniesanders.com , hear what I said in 2002",
+      "type": "I",
+      "timestamp": "2016-11-01 13:09:48"
+    },
+    {
+      "nodeID": "214811",
+      "text": "SANDERS : I would urge people to go to berniesanders.com , hear what I said in 2002",
+      "type": "L",
+      "timestamp": "2016-11-01 13:09:49"
+    },
+    {
+      "nodeID": "262310",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-03 16:27:39",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "262311",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-03 16:27:40",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "262312",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-03 16:27:40",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "262313",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-03 16:27:41",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "262314",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-03 16:27:41",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "262315",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-03 16:27:42",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "316362",
+      "fromID": "214811",
+      "toID": "262310",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316363",
+      "fromID": "262310",
+      "toID": "190409",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316364",
+      "fromID": "190411",
+      "toID": "262311",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316365",
+      "fromID": "262311",
+      "toID": "214808",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316366",
+      "fromID": "262310",
+      "toID": "262312",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316367",
+      "fromID": "262312",
+      "toID": "262311",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316368",
+      "fromID": "214811",
+      "toID": "262313",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316369",
+      "fromID": "262313",
+      "toID": "190375",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316370",
+      "fromID": "190377",
+      "toID": "262314",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316371",
+      "fromID": "262314",
+      "toID": "214811",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316372",
+      "fromID": "262313",
+      "toID": "262315",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316373",
+      "fromID": "262315",
+      "toID": "262314",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "214811",
+      "personID": "2802",
+      "timestamp": "2016-11-01 13:11:15",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

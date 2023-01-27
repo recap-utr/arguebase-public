@@ -1,0 +1,172 @@
+{
+  "nodes": [
+    {
+      "nodeID": "210745",
+      "text": "Sp1ffy : Everybody up here loves hating teachers",
+      "type": "L",
+      "timestamp": "2016-10-31 13:16:31"
+    },
+    {
+      "nodeID": "210747",
+      "text": "everybody up here loves hating teachers",
+      "type": "I",
+      "timestamp": "2016-10-31 13:16:32"
+    },
+    {
+      "nodeID": "210775",
+      "text": "Sp1ffy : they all hate unions",
+      "type": "L",
+      "timestamp": "2016-10-31 13:16:34"
+    },
+    {
+      "nodeID": "210777",
+      "text": "the Republican candidates all hate unions",
+      "type": "I",
+      "timestamp": "2016-10-31 13:16:34"
+    },
+    {
+      "nodeID": "220635",
+      "text": "challenging the teachers union",
+      "type": "I",
+      "timestamp": "2016-11-01 15:02:21"
+    },
+    {
+      "nodeID": "220661",
+      "text": "BUSH : challenging the teachers union",
+      "type": "L",
+      "timestamp": "2016-11-01 15:02:24"
+    },
+    {
+      "nodeID": "264249",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-08 18:22:36",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264250",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2017-03-08 18:22:36",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "264251",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2017-03-08 18:22:37",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "264252",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-08 18:22:37",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264253",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2017-03-08 18:22:38",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "264254",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2017-03-08 18:22:38",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "319588",
+      "fromID": "220661",
+      "toID": "264249",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319589",
+      "fromID": "264249",
+      "toID": "210745",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319590",
+      "fromID": "220635",
+      "toID": "264250",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319591",
+      "fromID": "264250",
+      "toID": "210747",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319592",
+      "fromID": "264249",
+      "toID": "264251",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319593",
+      "fromID": "264251",
+      "toID": "264250",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319594",
+      "fromID": "220661",
+      "toID": "264252",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319595",
+      "fromID": "264252",
+      "toID": "210775",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319596",
+      "fromID": "220635",
+      "toID": "264253",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319597",
+      "fromID": "264253",
+      "toID": "210777",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319598",
+      "fromID": "264252",
+      "toID": "264254",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319599",
+      "fromID": "264254",
+      "toID": "264253",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "220661",
+      "personID": "2423",
+      "timestamp": "2016-11-01 15:03:06",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

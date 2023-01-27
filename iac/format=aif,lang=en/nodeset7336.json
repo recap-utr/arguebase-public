@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140895",
+      "text": ". . . .The irony is that we all fall somewhere on the line of pregnancy from no abortions at all to minutes before birth. . . .",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:31"
+    },
+    {
+      "nodeID": "140896",
+      "text": "You know, this little phrase, 'minutes before birth,' keeps popping up in reference to abortion. Could someone please explain to me the point of having an abortion 'minutes before birth'? What is the point? How many, if any, of this sort of abortion is performed? Could I get a really honest answer to that? Please, no lies. How many? Can anyone tell me?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:31"
+    },
+    {
+      "nodeID": "140897",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:52:31"
+    },
+    {
+      "nodeID": "140898",
+      "text": "The irony is that we all fall somewhere on the line of pregnancy from no abortions at all to minutes before birth.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:31"
+    },
+    {
+      "nodeID": "140899",
+      "text": "I believe he was talking about the two ends of the spectrum of opinions on abortion. With that in mind, 'minutes before birth' would refer to those people in the far corner who think that abortions should be allowed even minutes before birth. Obviously, that idea is a little too radical for most people and from my knowledge, it's illegal right now anyway. Of course, this is just my interpretation, if you don't like it, then suck it up and wait for chaoticgnome to come back.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:31"
+    },
+    {
+      "nodeID": "140900",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:52:31"
+    },
+    {
+      "nodeID": "140901",
+      "text": "I can't judge women who decide their fetus is not a person at the time of abortion. I do know that first trimester is a 'no-brainer' for me as far as the legality for abortion. Second trimester is probably okay and the third is not in my view. However, the third trimester should not be a deterent if the health of the mother is at issue. She's most important or the rest of the family will not survive.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:31"
+    },
+    {
+      "nodeID": "140902",
+      "text": "I know I have told you this before but a trimester has no science meaning in it at all. It is simply just a term to say '3 months'. I'm not sure how a man-made time split can be used to determine who is an isnt' a person...but maybe you can explain this.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:31"
+    },
+    {
+      "nodeID": "140903",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:52:31"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184058",
+      "fromID": "140896",
+      "toID": "140897",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184059",
+      "fromID": "140897",
+      "toID": "140895",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184060",
+      "fromID": "140899",
+      "toID": "140900",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184061",
+      "fromID": "140900",
+      "toID": "140898",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184062",
+      "fromID": "140902",
+      "toID": "140903",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184063",
+      "fromID": "140903",
+      "toID": "140901",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

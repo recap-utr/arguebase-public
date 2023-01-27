@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "142907",
+      "text": "The NRA promotes a lethal product. Guns kill alot more people than the KKK does so the NRA is alot worse and its an insult to the KKK to be compared to them.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:50"
+    },
+    {
+      "nodeID": "142908",
+      "text": "So then you're alright with an organization that actively hung people from trees and committed murder for the sake of intimidating those that wanted to be able to vote, ride up front on buses, have decent facilities, etc. Nice to know where you stand. White supremacists support gun control.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:50"
+    },
+    {
+      "nodeID": "142909",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:56:50"
+    },
+    {
+      "nodeID": "142910",
+      "text": "Former Supreme Court chief justice Warren Burger complained about the NRA having too much influence in government and misleading the American people:",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:50"
+    },
+    {
+      "nodeID": "142911",
+      "text": "And Sotomayor argued that the American people have absolutely no right to defend themselves. What's your point?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:50"
+    },
+    {
+      "nodeID": "142912",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:56:50"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185494",
+      "fromID": "142908",
+      "toID": "142909",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185495",
+      "fromID": "142909",
+      "toID": "142907",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185496",
+      "fromID": "142911",
+      "toID": "142912",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185497",
+      "fromID": "142912",
+      "toID": "142910",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

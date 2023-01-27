@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "161141",
+      "text": "no, too expansave, do you realy want to pay for there room and bourd for the rest of there lives? lets just send them to aferica, one of those nice places that has already outlawed gun ownership.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:46"
+    },
+    {
+      "nodeID": "161142",
+      "text": "Oh but you forgot the rest of my secret plan. Just like Hitler, first you take the guns, then you send them to 'jail'. A jail with 'showers' and 'ovens'. The most important part of the plan is make sure anti-gunners don't have guns. Which ofcourse is not a problem.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:46"
+    },
+    {
+      "nodeID": "161143",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:36:47"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198390",
+      "fromID": "161142",
+      "toID": "161143",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198391",
+      "fromID": "161143",
+      "toID": "161141",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

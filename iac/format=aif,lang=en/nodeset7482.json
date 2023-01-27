@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143019",
+      "text": "Should you only be allowed to buy one gun a month ?  http://www.youdebate.com/DEBATES/one_gun_a_month.HTM",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:06"
+    },
+    {
+      "nodeID": "143020",
+      "text": "you should be allowed to buy as many as you want to",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:06"
+    },
+    {
+      "nodeID": "143021",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:57:06"
+    },
+    {
+      "nodeID": "143022",
+      "text": "Should you only be allowed to buy one gun a month ?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:06"
+    },
+    {
+      "nodeID": "143023",
+      "text": "I think it is worthy of consideration that the first state to enact OGAM legislation 30+ years ago, (South Carolina) rescinded the law in 2004 because no positive benefit was being realized.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:06"
+    },
+    {
+      "nodeID": "143024",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:57:07"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185574",
+      "fromID": "143020",
+      "toID": "143021",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185575",
+      "fromID": "143021",
+      "toID": "143019",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185576",
+      "fromID": "143023",
+      "toID": "143024",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185577",
+      "fromID": "143024",
+      "toID": "143022",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

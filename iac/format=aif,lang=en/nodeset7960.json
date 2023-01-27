@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "150666",
+      "text": "Fair enough.  I'm sorry for making such a newbie mistake. If there's a way to delete this thread, I'll be pursuing it. Thanks!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:05"
+    },
+    {
+      "nodeID": "150667",
+      "text": "You can't...only admin can...and there's no need to be sorry.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:05"
+    },
+    {
+      "nodeID": "150668",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:13:05"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "190952",
+      "fromID": "150667",
+      "toID": "150668",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190953",
+      "fromID": "150668",
+      "toID": "150666",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

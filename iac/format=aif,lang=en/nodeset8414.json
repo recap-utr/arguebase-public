@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157154",
+      "text": "Is there anyone here who is pro choice and does not subscribe to moral relativism (ie:the idea that there is no such thing as absolute right or wrong? If so, for what reasons are you pro-choice? I am curious.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:40"
+    },
+    {
+      "nodeID": "157155",
+      "text": "because all children should have parents who want them dearly. btw, 'moral relativism' is absurd. a phase people pass through as they discover diversity and is bewildered by it, thinking all are equally valid. it is a stance of both immature/superficial reasoning and moral depravity.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:40"
+    },
+    {
+      "nodeID": "157156",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:27:40"
+    },
+    {
+      "nodeID": "157157",
+      "text": "Truth and morality are not relative to any given situation.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:40"
+    },
+    {
+      "nodeID": "157158",
+      "text": "Actually both are relative in every situation. Especially 'The Truth' as espoused by religious fundamentalists such as yourself, as there are as many different versions of the truth as there religious fundamentalists.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:40"
+    },
+    {
+      "nodeID": "157159",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:27:40"
+    },
+    {
+      "nodeID": "157160",
+      "text": "If you truly believe this, you are not a relativist, but a moral skepticist. This is a far more reasonable position to take.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:40"
+    },
+    {
+      "nodeID": "157161",
+      "text": "Oh dear, you are one of those people: a 'twit absolutist' as you might say. Please keep your silly 'ism' labels to yourself. 'Moral relativist' is like 'rectangular square': it's a tautology.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:40"
+    },
+    {
+      "nodeID": "157162",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:27:41"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195536",
+      "fromID": "157155",
+      "toID": "157156",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195537",
+      "fromID": "157156",
+      "toID": "157154",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195538",
+      "fromID": "157158",
+      "toID": "157159",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195539",
+      "fromID": "157159",
+      "toID": "157157",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195540",
+      "fromID": "157161",
+      "toID": "157162",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195541",
+      "fromID": "157162",
+      "toID": "157160",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

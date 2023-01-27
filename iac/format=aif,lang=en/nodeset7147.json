@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138529",
+      "text": "But, when the religious 'fund raising' has been clearly demonstrated on the anti-gay side, one would think that a demonstration of proof would be pertinent before any definitive statement can be made... Otherwise, your claim of 'just isn't true' lacks substance...",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:15"
+    },
+    {
+      "nodeID": "138530",
+      "text": "See simplified version of what I already posted above.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:15"
+    },
+    {
+      "nodeID": "138531",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:47:15"
+    },
+    {
+      "nodeID": "138532",
+      "text": "And of course my point was to show that not only do they contribute to political activism but they do it through cover organizations.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:15"
+    },
+    {
+      "nodeID": "138533",
+      "text": "I know what your 'point' was. I also know what you ACTUALLY ASKED originally. You asked: 'Hey hypocrite, have you asked yourself how many millions of dollars every single pro-gay church spends each year promoting homosexual causes, including gay marriage and lobbying federal and State Governments directly in support of homosexual causes? I think we're still waiting on an answer...",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:15"
+    },
+    {
+      "nodeID": "138534",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:47:16"
+    },
+    {
+      "nodeID": "138535",
+      "text": "That's a pretty inane interpretation. By that logic, if we have a multi-billion dollar church, it could conceivably spend millions on political activism. But if a church only took in about twice of that same 'millions', the other church would be declared as violating?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:16"
+    },
+    {
+      "nodeID": "138536",
+      "text": "Actually its a pretty accurate interpretation. Take for instance the money spent by the catholic church promoting abortion restrictions, yet their tax exempt status has never seriously been called into question, that I know of. The fact of the matter is a couple hundred G's is a drop in the bucket for an organization the size of the LDS church, so proving that it is a substantial portion of their activities under section 501 would be difficult at best.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:16"
+    },
+    {
+      "nodeID": "138537",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:47:16"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182372",
+      "fromID": "138530",
+      "toID": "138531",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182373",
+      "fromID": "138531",
+      "toID": "138529",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182374",
+      "fromID": "138533",
+      "toID": "138534",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182375",
+      "fromID": "138534",
+      "toID": "138532",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182376",
+      "fromID": "138536",
+      "toID": "138537",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182377",
+      "fromID": "138537",
+      "toID": "138535",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

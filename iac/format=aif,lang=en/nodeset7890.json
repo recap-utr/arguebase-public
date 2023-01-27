@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "149213",
+      "text": "Yes but Paul said sin makes people love bad and seek evil. People love others to do good, but hate to do good unless they see a reward. Catholics had to steal hellfire to scare all the converts from not caring if they went to heaven. Take away hell and heavenly bliss what do most people see as a reason for worshiping god?  People hate totalitarian governments yet God advocates one. Except for the middle east nobody is preaching the virtues of a church state anymore. The only reason really to worship god may be for social change. If enought people convert to a single denomination they can live the way they think is best with out being humiliated or worse.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:22"
+    },
+    {
+      "nodeID": "149214",
+      "text": "I take it as read then that you're not Catholic. Why don't you believe in hell?  We are supposed to worship God because He is good, and it is right to praise goodness.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:22"
+    },
+    {
+      "nodeID": "149215",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:10:22"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189928",
+      "fromID": "149214",
+      "toID": "149215",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189929",
+      "fromID": "149215",
+      "toID": "149213",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

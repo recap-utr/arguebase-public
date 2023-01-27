@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "159261",
+      "text": "What makes a rape and incest baby any less precious then a regular baby and why it is okay to abort them but not the later?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:31"
+    },
+    {
+      "nodeID": "159262",
+      "text": "No baby is more precious than another as far as my personal beliefs go it is no more alright to terminate a baby concieved through rape/incest than it is to terminate a baby classed as a mistake/inconvenience.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:31"
+    },
+    {
+      "nodeID": "159263",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:32:31"
+    },
+    {
+      "nodeID": "159264",
+      "text": "I really don't think the big pro-life vs pro-choice argument is about where life begins or whether or not life is precious. It's more a debate over 1 - whether the rights of mother or the child take precedence, 2 - how much accountability can we hold a pregnanct woman to",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:32"
+    },
+    {
+      "nodeID": "159265",
+      "text": "I think this is where the pro-life and pro-choice people really get things messed up...Pro-choices views it as you do Jitobear...whether a mothers rights supercedes the childs rights as opposed to a pro-lifer who believes that everyone has the same rights and the question becomes what rights are 'on the top' so to speak. In more detail I guess you could say 'is it a right or a want and what would be a right and do we have finite rights'. Pesonally, the right to life is kind of the start of every other 'right' or 'want' or anything for that matter...so above all you got that one. I never see it as choosing women over child or whatever because I don't see a difference in the two (as people).",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:32"
+    },
+    {
+      "nodeID": "159266",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:32:32"
+    },
+    {
+      "nodeID": "159267",
+      "text": "The difference is where you feel you can demand accountability. I think pro-life people who accept an exception in the case of incest and rape don't view the child as less precious, they simply don't feel the mother has the same accountability as she did not consent to the pregnancy. (Granted, there are misogynistic lifers those who want to hold women as slaves to any and all pregnancies that come along...) I really don't think the big pro-life vs pro-choice argument is about where life begins or whether or not life is precious. It's more a debate over 1 - whether the rights of mother or the child take precedence, 2 - how much accountability can we hold a pregnanct woman to.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:32"
+    },
+    {
+      "nodeID": "159268",
+      "text": "I believe this is a clear and concise way of putting it. Regarding number 2, pro-life people believe there is a moral responsibility and, if the woman does not believe the same, wish to make it into a legal responsibility. I think Duo's question was directed mostly at Voice of Reason ;) The same question has been posed to him time and time again and he weasels out of it. ETA, Jitobear, I just noticed you and I joined in the same month :P",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:32"
+    },
+    {
+      "nodeID": "159269",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:32:32"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "197046",
+      "fromID": "159262",
+      "toID": "159263",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197047",
+      "fromID": "159263",
+      "toID": "159261",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197048",
+      "fromID": "159265",
+      "toID": "159266",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197049",
+      "fromID": "159266",
+      "toID": "159264",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197050",
+      "fromID": "159268",
+      "toID": "159269",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197051",
+      "fromID": "159269",
+      "toID": "159267",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

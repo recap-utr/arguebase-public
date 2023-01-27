@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "159692",
+      "text": "Your notion of 'proper' behavior comes from a book written 2,000 years ago by ignorant people. You only perpetuate their ignorance.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:31"
+    },
+    {
+      "nodeID": "159693",
+      "text": "And where, pray tell, does your un-'ignorant' system of proper behaviour come from?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:33:31"
+    },
+    {
+      "nodeID": "159694",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:33:31"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "197358",
+      "fromID": "159693",
+      "toID": "159694",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197359",
+      "fromID": "159694",
+      "toID": "159692",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

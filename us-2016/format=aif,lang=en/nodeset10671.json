@@ -1,0 +1,5502 @@
+{
+  "nodes": [
+    {
+      "nodeID": "240808",
+      "text": "COOPER : Thank you, Governor",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:17"
+    },
+    {
+      "nodeID": "240809",
+      "text": "Maria: COOPER : hank you, Governor",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:17"
+    },
+    {
+      "nodeID": "240810",
+      "text": "O'MALLEY : Thank you",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:17"
+    },
+    {
+      "nodeID": "240811",
+      "text": "Maria: O'MALLEY : Thank you",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:17"
+    },
+    {
+      "nodeID": "240812",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:17",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "240813",
+      "text": "Senator Webb, in 2006, you called affirmative action ``state-sponsored racism.''",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:17"
+    },
+    {
+      "nodeID": "240814",
+      "text": "COOPER :  Senator Webb, in 2006, you called affirmative action ``state-sponsored racism.''",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:18"
+    },
+    {
+      "nodeID": "240815",
+      "text": "Maria: COOPER :  Senator Webb, in 2006, you called affirmative action ``state-sponsored racism.''",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:18"
+    },
+    {
+      "nodeID": "240816",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:18",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "240817",
+      "text": "affirmative action is ``state-sponsored racism.''",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:18"
+    },
+    {
+      "nodeID": "240818",
+      "text": "Default Illocuting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:18",
+      "scheme": "Default Illocuting",
+      "schemeID": "168"
+    },
+    {
+      "nodeID": "240819",
+      "text": "WEBB : affirmative action ``state-sponsored racism.''",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:18"
+    },
+    {
+      "nodeID": "240820",
+      "text": "Maria: O'MALLEY : affirmative action ``state-sponsored racism.''",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:18"
+    },
+    {
+      "nodeID": "240821",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:18",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "240822",
+      "text": "COOPER : In 2010, you wrote an op/ed saying it discriminates against whites.",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:18"
+    },
+    {
+      "nodeID": "240823",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:18",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "240824",
+      "text": "in 2010, WEBB wrote an op/ed saying affirmative action discriminates against whites",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:19"
+    },
+    {
+      "nodeID": "240825",
+      "text": "Maria: COOPER : In 2010, you wrote an op/ed saying it discriminates against whites.",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:19"
+    },
+    {
+      "nodeID": "240826",
+      "text": "COOPER : nearly half the Democratic Party is non-white",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:19"
+    },
+    {
+      "nodeID": "240827",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:19",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "240828",
+      "text": "nearly half the Democratic Party is non-white",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:19"
+    },
+    {
+      "nodeID": "240829",
+      "text": "Maria: COOPER : nearly half the Democratic Party is non-white",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:19"
+    },
+    {
+      "nodeID": "240830",
+      "text": "COOPER : aren't you out of step with where the Democratic Party is now?",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:19"
+    },
+    {
+      "nodeID": "240831",
+      "text": "Assertive Questioning",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:19",
+      "scheme": "AssertiveQuestioning",
+      "schemeID": "73"
+    },
+    {
+      "nodeID": "240832",
+      "text": "you are out of step with where the Democratic Party is now",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:19"
+    },
+    {
+      "nodeID": "240833",
+      "text": "Maria: COOPER : aren't you out of step with where the Democratic Party is now?",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:19"
+    },
+    {
+      "nodeID": "240834",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-10 19:14:20",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "240835",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-10 19:14:20",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "240836",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:20",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "240837",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:20",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "240838",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:20",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "240839",
+      "text": "Maria: WEBB : No",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:20"
+    },
+    {
+      "nodeID": "240840",
+      "text": "WEBB : No",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:20"
+    },
+    {
+      "nodeID": "240841",
+      "text": "WEBB is not out of step with where the Democratic Party is now",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:20"
+    },
+    {
+      "nodeID": "240842",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-11-10 19:14:21",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "240843",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:21",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "240844",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:21",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "240845",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:21",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "240846",
+      "text": "WEBB : I believe that I am where the Democratic Party traditionally has been",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:21"
+    },
+    {
+      "nodeID": "240847",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:21",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "240848",
+      "text": "WEBB believes that he is where the Democratic Party traditionally has been",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:21"
+    },
+    {
+      "nodeID": "240849",
+      "text": "Maria: WEBB : I believe that I am where the Democratic Party traditionally has been",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:21"
+    },
+    {
+      "nodeID": "240850",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:21",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "240851",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-10 19:14:22",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "240852",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:22",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "240853",
+      "text": "WEBB : The Democratic Party has been the party that gives people who otherwise have no voice in the corridors of power a voice",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:22"
+    },
+    {
+      "nodeID": "240854",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:22",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "240855",
+      "text": "The Democratic Party has been the party that gives people who otherwise have no voice in the corridors of power a voice",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:22"
+    },
+    {
+      "nodeID": "240856",
+      "text": "Maria: WEBB : The Democratic Party, and the reason I've decided to run as a Democrat, has been the party that gives people who otherwise have no voice in the corridors of power a voice",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:22"
+    },
+    {
+      "nodeID": "240857",
+      "text": "Maria: WEBB : that is not determined by race",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:22"
+    },
+    {
+      "nodeID": "240858",
+      "text": "And that is not determined by race.",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:22"
+    },
+    {
+      "nodeID": "240859",
+      "text": "WEBB : the reason I've decided to run as a Democrat has been the party that gives people who otherwise have no voice in the corridors of power a voice",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:22"
+    },
+    {
+      "nodeID": "240860",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:23",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "240861",
+      "text": "the reason WEBB decided to run as a Democrat has been that the Democratic party is the party that gives people who otherwise have no voice in the corridors of power a voice",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:23"
+    },
+    {
+      "nodeID": "240862",
+      "text": "Maria: WEBB : And",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:23"
+    },
+    {
+      "nodeID": "240863",
+      "text": "WEBB : that is not determined by race",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:23"
+    },
+    {
+      "nodeID": "240864",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:23",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "240865",
+      "text": "that is not determined by race",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:23"
+    },
+    {
+      "nodeID": "240866",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-10 19:14:23",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "240867",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:23",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "240868",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:24",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "240869",
+      "text": "WEBB : as a clarification, I have always supported affirmative action for African Americans",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:24"
+    },
+    {
+      "nodeID": "240870",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:24",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "240871",
+      "text": "as a clarification, WEBB has always supported affirmative action for African Americans",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:24"
+    },
+    {
+      "nodeID": "240872",
+      "text": "Maria: WEBB : s a clarification, I have always supported affirmative action for African Americans",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:24"
+    },
+    {
+      "nodeID": "240873",
+      "text": "WEBB : That's the way the program was originally designed because of their unique history in this country, with slavery and the Jim Crow laws that followed",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:24"
+    },
+    {
+      "nodeID": "240874",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:24",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "240875",
+      "text": "that's the way the program was originally designed because of their unique history in this country, with slavery and the Jim Crow laws that followed",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:24"
+    },
+    {
+      "nodeID": "240876",
+      "text": "Maria: WEBB : That's the way the program was originally designed because of their unique history in this country, with slavery and the Jim Crow laws that followed",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:24"
+    },
+    {
+      "nodeID": "240877",
+      "text": "WEBB :  I have discussed a number of times is the idea that when we create diversity programs that include everyone, quote, ``of color,'' other than whites, struggling whites like the families in the Appalachian mountains, we're not being true to the Democratic Party principle of elevating the level of consciousness among our people about the hardships that a lot of people who happen to be have - by culture, by the way",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:24"
+    },
+    {
+      "nodeID": "240878",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:25",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "240879",
+      "text": "WEBB has discussed a number of times the idea that when we create diversity programs that include everyone, quote, ``of color,'' other than whites, struggling whites like the families in the Appalachian mountains, we're not being true to the Democratic Party principle of elevating the level of consciousness among our people about the hardships that a lot of people who happen to be have - by culture, by the way",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:25"
+    },
+    {
+      "nodeID": "240880",
+      "text": "Maria: WEBB :  I have discussed a number of times is the idea that when we create diversity programs that include everyone, quote, ``of color,'' other than whites, struggling whites like the families in the Appalachian mountains, we're not being true to the Democratic Party principle of elevating the level of consciousness among our people about the hardships that a lot of people who happen to be have - by culture, by the way",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:25"
+    },
+    {
+      "nodeID": "240881",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-10 19:14:25",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "240882",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-10 19:14:25",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "240883",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-10 19:14:25",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "240884",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:25",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "240885",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:25",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "240886",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:25",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "240887",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:26",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "240888",
+      "text": "COOPER : Senator Webb, thank you very much",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:26"
+    },
+    {
+      "nodeID": "240889",
+      "text": "Maria: COOPER : Senator Webb, thank you very much",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:26"
+    },
+    {
+      "nodeID": "240890",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:26",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "240891",
+      "text": "COOPER : Let's move on to some of the most pressing issues facing our country right now, some of the biggest issues right now in the headlines today",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:26"
+    },
+    {
+      "nodeID": "240892",
+      "text": "Maria: COOPER : Let's move on to some of the most pressing issues facing our country right now, some of the biggest issues right now in the headlines today",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:26"
+    },
+    {
+      "nodeID": "240893",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:26",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "240894",
+      "text": "COOPER : We're going to start with guns",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:26"
+    },
+    {
+      "nodeID": "240895",
+      "text": "Maria: COOPER : We're going to start with guns",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:26"
+    },
+    {
+      "nodeID": "240896",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:27",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "240897",
+      "text": "COOPER : The shooting in Oregon earlier this month, once again it brought the issue of guns into the national conversation. Over the last week, guns have been the most discussed political topic on Facebook by two to one.",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:27"
+    },
+    {
+      "nodeID": "240898",
+      "text": "Maria: COOPER : The shooting in Oregon earlier this month, once again it brought the issue of guns into the national conversation. Over the last week, guns have been the most discussed political topic on Facebook by two to one.",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:27"
+    },
+    {
+      "nodeID": "240899",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:27",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "240900",
+      "text": "COOPER : Senator Sanders, you voted against the Brady bill that mandated background checks and a waiting period",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:27"
+    },
+    {
+      "nodeID": "240901",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:27",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "240902",
+      "text": "Senator SANDERS voted against the Brady bill that mandated background checks and a waiting period",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:27"
+    },
+    {
+      "nodeID": "240903",
+      "text": "Maria: COOPER : Senator Sanders, you voted against the Brady bill that mandated background checks and a waiting period",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:27"
+    },
+    {
+      "nodeID": "240904",
+      "text": "COOPER : You also supported allowing riders to bring guns in checked bags on Amtrak trains",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:27"
+    },
+    {
+      "nodeID": "240905",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:27",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "240906",
+      "text": "SANDERS also supported allowing riders to bring guns in checked bags on Amtrak trains",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:28"
+    },
+    {
+      "nodeID": "240907",
+      "text": "Maria: COOPER : You also supported allowing riders to bring guns in checked bags on Amtrak trains",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:28"
+    },
+    {
+      "nodeID": "240908",
+      "text": "COOPER : For a decade, you said that holding gun manufacturers legally responsible for mass shootings is a bad idea",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:28"
+    },
+    {
+      "nodeID": "240909",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:28",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "240910",
+      "text": "For a decade, SANDERS said that holding gun manufacturers legally responsible for mass shootings is a bad idea",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:28"
+    },
+    {
+      "nodeID": "240911",
+      "text": "Maria: COOPER : For a decade, you said that holding gun manufacturers legally responsible for mass shootings is a bad idea",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:28"
+    },
+    {
+      "nodeID": "240912",
+      "text": "COOPER : Now, you say you're reconsidering that",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:28"
+    },
+    {
+      "nodeID": "240913",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:28",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "240914",
+      "text": "Now, SANDERS says he's reconsidering that",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:28"
+    },
+    {
+      "nodeID": "240915",
+      "text": "Maria: COOPER : Now, you say you're reconsidering that",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:29"
+    },
+    {
+      "nodeID": "240916",
+      "text": "COOPER : shield the gun companies from lawsuits or not?",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:29"
+    },
+    {
+      "nodeID": "240917",
+      "text": "Pure Questioning",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:29",
+      "scheme": "PureQuestioning",
+      "schemeID": "91"
+    },
+    {
+      "nodeID": "240918",
+      "text": "shield/not shield the gun companies from lawsuits",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:29"
+    },
+    {
+      "nodeID": "240919",
+      "text": "Maria: COOPER : shield the gun companies from lawsuits or not?",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:29"
+    },
+    {
+      "nodeID": "240920",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:29",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "240921",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:29",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "240922",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:29",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "240923",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:29",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "240924",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:30",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "240925",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-10 19:14:30",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "240926",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-10 19:14:30",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "240927",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-10 19:14:30",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "240928",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:30",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "240929",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:30",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "240930",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:30",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "240931",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-10 19:14:30",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "240932",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:30",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "240933",
+      "text": "SANDERS :  Bernie Sanders has a D-minus voting rating (ph) from the NRA",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:31"
+    },
+    {
+      "nodeID": "240934",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:31",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "240935",
+      "text": "Bernie Sanders has a D-minus voting rating (ph) from the NRA",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:31"
+    },
+    {
+      "nodeID": "240936",
+      "text": "Maria: SANDERS :  Bernie Sanders has a D-minus voting rating (ph) from the NRA",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:31"
+    },
+    {
+      "nodeID": "240937",
+      "text": "Maria: SANDERS : back in 1988 when I first ran for the United States Congress, way back then, I told the gun owners of the state of Vermont and I told the people of the state of Vermont, a state which has virtually no gun control, that I supported a ban on assault weapons",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:31"
+    },
+    {
+      "nodeID": "240938",
+      "text": "SANDERS : back in 1988 when I first ran for the United States Congress, way back then, I told the gun owners of the state of Vermont and I told the people of the state of Vermont, a state which has virtually no gun control, that I supported a ban on assault weapons",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:31"
+    },
+    {
+      "nodeID": "240939",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:31",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "240940",
+      "text": "back in 1988 when SANDERS first ran for the United States Congress, way back then, he told the gun owners of the state of Vermont and he told the people of the state of Vermont, a state which has virtually no gun control, that he supported a ban on assault weapons",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:31"
+    },
+    {
+      "nodeID": "240941",
+      "text": "SANDERS : over the years, I have strongly avoided instant background checks, doing away with this terrible gun show loophole",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:31"
+    },
+    {
+      "nodeID": "240942",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:32",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "240943",
+      "text": "over the years, SANDERS has strongly avoided instant background checks, doing away with this terrible gun show loophole",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:32"
+    },
+    {
+      "nodeID": "240944",
+      "text": "Maria: SANDERS : over the years, I have strongly avoided instant background checks, doing away with this terrible gun show loophole",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:32"
+    },
+    {
+      "nodeID": "240945",
+      "text": "SANDERS : I think we've got to move aggressively at the federal level in dealing with the straw man purchasers",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:32"
+    },
+    {
+      "nodeID": "240946",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:32",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "240947",
+      "text": "SANDERS thinks we've got to move aggressively at the federal level in dealing with the straw man purchasers",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:32"
+    },
+    {
+      "nodeID": "240948",
+      "text": "Maria: SANDERS : I think we've got to move aggressively at the federal level in dealing with the straw man purchasers",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:32"
+    },
+    {
+      "nodeID": "240949",
+      "text": "SANDERS : I believe, and I've fought for, to understand that there are thousands of people in this country today who are suicidal, who are homicidal, but can't get the healthcare that they need, the mental healthcare, because they don't have insurance or they're too poor",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:32"
+    },
+    {
+      "nodeID": "240950",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:32",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "240951",
+      "text": "SANDERS believes, and he has fought for, to understand that there are thousands of people in this country today who are suicidal, who are homicidal, but can't get the healthcare that they need, the mental healthcare, because they don't have insurance or they're too poor",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:33"
+    },
+    {
+      "nodeID": "240952",
+      "text": "Maria: SANDERS : I believe, and I've fought for, to understand that there are thousands of people in this country today who are suicidal, who are homicidal, but can't get the healthcare that they need, the mental healthcare, because they don't have insurance or they're too poor",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:33"
+    },
+    {
+      "nodeID": "240953",
+      "text": "SANDERS : I believe that everybody in this country who has a mental crisis has got to get mental health counseling immediately",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:33"
+    },
+    {
+      "nodeID": "240954",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:33",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "240955",
+      "text": "SANDERS believes that everybody in this country who has a mental crisis has got to get mental health counseling immediately",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:33"
+    },
+    {
+      "nodeID": "240956",
+      "text": "Maria: SANDERS : I believe that everybody in this country who has a mental crisis has got to get mental health counseling immediately",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:33"
+    },
+    {
+      "nodeID": "240957",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-10 19:14:33",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "240958",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-10 19:14:33",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "240959",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-10 19:14:33",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "240960",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:34",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "240961",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:34",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "240962",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:34",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "240963",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:34",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "240964",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:34",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "240965",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:34",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "240966",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-10 19:14:34",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "240967",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-10 19:14:34",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "240968",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:34",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "240969",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:35",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "240970",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:35",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "240971",
+      "text": "COOPER : Do you want to shield gun companies from lawsuits?",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:35"
+    },
+    {
+      "nodeID": "240972",
+      "text": "Pure Questioning",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:35",
+      "scheme": "PureQuestioning",
+      "schemeID": "91"
+    },
+    {
+      "nodeID": "240973",
+      "text": "SANDERS does/doesn't want to shield gun companies from lawsuits",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:35"
+    },
+    {
+      "nodeID": "240974",
+      "text": "Maria: COOPER : Do you want to shield gun companies from lawsuits?",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:35"
+    },
+    {
+      "nodeID": "240975",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-11-10 19:14:35",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "240976",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:35",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "240977",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:35",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "240978",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:36",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "240979",
+      "text": "SANDERS : Of course not",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:36"
+    },
+    {
+      "nodeID": "240980",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:36",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "240981",
+      "text": "SANDERS doesn't want to shield gun companies from lawsuits",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:36"
+    },
+    {
+      "nodeID": "240982",
+      "text": "Maria: SANDERS : Of course not",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:36"
+    },
+    {
+      "nodeID": "240983",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-11-10 19:14:36",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "240984",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:36",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "240985",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:36",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "240986",
+      "text": "This was a large and complicated bill. There were provisions in it that I think made sense",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:36"
+    },
+    {
+      "nodeID": "240987",
+      "text": "Maria: O'MALLEY :  This was a large and complicated bill. There were provisions in it that I think made sense. For example, do I think that a gun shop in the state of Vermont that sells legally a gun to somebody, and that somebody goes out and does some",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:36"
+    },
+    {
+      "nodeID": "240988",
+      "text": "SANDERS : This was a large and complicated bill",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:37"
+    },
+    {
+      "nodeID": "240989",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:37",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "240990",
+      "text": "This was a large and complicated bill",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:37"
+    },
+    {
+      "nodeID": "240991",
+      "text": "Maria: SANDERS : This was a large and complicated bill",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:37"
+    },
+    {
+      "nodeID": "240992",
+      "text": "SANDERS : There were provisions in it that I think made sense",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:37"
+    },
+    {
+      "nodeID": "240993",
+      "text": "There were provisions in it that SANDERS thinks made sense",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:37"
+    },
+    {
+      "nodeID": "240994",
+      "text": "Maria: SANDERS : There were provisions in it that I think made sense",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:37"
+    },
+    {
+      "nodeID": "240995",
+      "text": "SANDERS : For example, do I think that a gun shop in the state of Vermont that sells legally a gun to somebody, and that somebody goes out and does something crazy, that that gun shop owner should be held responsible? I don't",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:37"
+    },
+    {
+      "nodeID": "240996",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:37",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "240997",
+      "text": "For example, does SANDERS think that a gun shop in the state of Vermont that sells legally a gun to somebody, and that somebody goes out and does something crazy, that that gun shop owner should be held responsible? SANDERS doesn't",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:38"
+    },
+    {
+      "nodeID": "240998",
+      "text": "Maria: SANDERS : For example, do I think that a gun shop in the state of Vermont that sells legally a gun to somebody, and that somebody goes out and does something crazy, that that gun shop owner should be held responsible? I don't",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:38"
+    },
+    {
+      "nodeID": "240999",
+      "text": "SANDERS : On the other hand, where you have manufacturers and where you have gun shops knowingly giving guns to criminals or aiding and abetting that, of course we should take action",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:38"
+    },
+    {
+      "nodeID": "241000",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:38",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "241001",
+      "text": "On the other hand, where you have manufacturers and where you have gun shops knowingly giving guns to criminals or aiding and abetting that, of course we should take action",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:38"
+    },
+    {
+      "nodeID": "241002",
+      "text": "Maria: SANDERS : On the other hand, where you have manufacturers and where you have gun shops knowingly giving guns to criminals or aiding and abetting that, of course we should take action",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:38"
+    },
+    {
+      "nodeID": "241003",
+      "text": "COOPER : Secretary Clinton, is Bernie Sanders tough enough on guns?",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:38"
+    },
+    {
+      "nodeID": "241004",
+      "text": "Assertive Questioning",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:38",
+      "scheme": "AssertiveQuestioning",
+      "schemeID": "73"
+    },
+    {
+      "nodeID": "241005",
+      "text": "Bernie Sanders is tough enough on guns",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:38"
+    },
+    {
+      "nodeID": "241006",
+      "text": "Maria: COOPER : Secretary Clinton, is Bernie Sanders tough enough on guns?",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:38"
+    },
+    {
+      "nodeID": "241007",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:39",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "241008",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-10 19:14:39",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "241009",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:39",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "241010",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:39",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "241011",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-10 19:14:39",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "241012",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-10 19:14:39",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "241013",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:39",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "241014",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:39",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "241015",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:39",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "241016",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:40",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "241017",
+      "text": "CLINTON : No, not at all",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:40"
+    },
+    {
+      "nodeID": "241018",
+      "text": "Bernie Sanders is not tough enough on guns",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:40"
+    },
+    {
+      "nodeID": "241019",
+      "text": "Maria: CLINTON : No, not at all",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:40"
+    },
+    {
+      "nodeID": "241020",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:40",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "241021",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:40",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "241022",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-11-10 19:14:40",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "241023",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:40",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "241024",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:40",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "241025",
+      "text": "CLINTON : we have to look at the fact that we lose 90 people a day from gun violence",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:41"
+    },
+    {
+      "nodeID": "241026",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:41",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "241027",
+      "text": "we have to look at the fact that we lose 90 people a day from gun violence",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:41"
+    },
+    {
+      "nodeID": "241028",
+      "text": "Maria: CLINTON : we have to look at the fact that we lose 90 people a day from gun violence",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:41"
+    },
+    {
+      "nodeID": "241029",
+      "text": "CLINTON : This has gone on too long and it 's time the entire country stood up against the NRA",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:41"
+    },
+    {
+      "nodeID": "241030",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:41",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "241031",
+      "text": "This has gone on too long and it 's time the entire country stood up against the NRA",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:41"
+    },
+    {
+      "nodeID": "241032",
+      "text": "Maria: CLINTON : This has gone on too long and it 's time the entire country stood up against the NRA",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:41"
+    },
+    {
+      "nodeID": "241033",
+      "text": "CLINTON : The majority of our country ... [ applause ] ... supports background checks, and even the majority of gun owners do",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:41"
+    },
+    {
+      "nodeID": "241034",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:42",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "241035",
+      "text": "The majority of our country supports background checks, and even the majority of gun owners do",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:42"
+    },
+    {
+      "nodeID": "241036",
+      "text": "Maria: CLINTON : The majority of our country ... [ applause ] ... supports background checks, and even the majority of gun owners do",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:42"
+    },
+    {
+      "nodeID": "241037",
+      "text": "CLINTON : Senator Sanders did vote five times against the Brady bill",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:42"
+    },
+    {
+      "nodeID": "241038",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:42",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "241039",
+      "text": "Senator Sanders did vote five times against the Brady bill",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:42"
+    },
+    {
+      "nodeID": "241040",
+      "text": "Maria: CLINTON : Senator Sanders did vote five times against the Brady bill",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:42"
+    },
+    {
+      "nodeID": "241041",
+      "text": "CLINTON : Since it was passed, more than 2 million prohibited purchases have been prevented",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:42"
+    },
+    {
+      "nodeID": "241042",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:42",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "241043",
+      "text": "Since the Brady Bill was passed, more than 2 million prohibited purchases have been prevented",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:43"
+    },
+    {
+      "nodeID": "241044",
+      "text": "Maria: CLINTON : Since it was passed, more than 2 million prohibited purchases have been prevented",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:43"
+    },
+    {
+      "nodeID": "241045",
+      "text": "CLINTON :  He also did vote, as he said, for this immunity provision",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:43"
+    },
+    {
+      "nodeID": "241046",
+      "text": "SANDERS also did vote for this immunity provision",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:43"
+    },
+    {
+      "nodeID": "241047",
+      "text": "Maria: CLINTON :  He also did vote, as he said, for this immunity provision",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:43"
+    },
+    {
+      "nodeID": "241048",
+      "text": "CLINTON : I voted against it",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:43"
+    },
+    {
+      "nodeID": "241049",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:43",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "241050",
+      "text": "CLINTON voted against this immunity provision",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:43"
+    },
+    {
+      "nodeID": "241051",
+      "text": "Maria: CLINTON : I voted against it",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:43"
+    },
+    {
+      "nodeID": "241052",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:44",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "241053",
+      "text": "SANDERS : SANDERS also did vote for this immunity provision",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:44"
+    },
+    {
+      "nodeID": "241054",
+      "text": "Maria: SANDERS : SANDERS also did vote for this immunity provision",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:44"
+    },
+    {
+      "nodeID": "241055",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:44",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "241056",
+      "text": "CLINTON : I was in the Senate at the same time",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:44"
+    },
+    {
+      "nodeID": "241057",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:44",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "241058",
+      "text": "CLINTON was in the Senate at the same time",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:44"
+    },
+    {
+      "nodeID": "241059",
+      "text": "Maria: CLINTON : I was in the Senate at the same time",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:44"
+    },
+    {
+      "nodeID": "241060",
+      "text": "CLINTON : It wasn't that complicated to me",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:44"
+    },
+    {
+      "nodeID": "241061",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:45",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "241062",
+      "text": "It wasn't that complicated to CLINTON",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:45"
+    },
+    {
+      "nodeID": "241063",
+      "text": "Maria: CLINTON : It wasn't that complicated to me",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:45"
+    },
+    {
+      "nodeID": "241064",
+      "text": "CLINTON : It was pretty straightforward to me that he was going to give immunity to the only industry in America",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:45"
+    },
+    {
+      "nodeID": "241065",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:45",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "241066",
+      "text": "It was pretty straightforward to CLINTON that SANDERS was going to give immunity to the only industry in America",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:45"
+    },
+    {
+      "nodeID": "241067",
+      "text": "Maria: CLINTON : It was pretty straightforward to me that he was going to give immunity to the only industry in America",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:45"
+    },
+    {
+      "nodeID": "241068",
+      "text": "CLINTON : Everybody else has to be accountable, but not the gun manufacturers",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:45"
+    },
+    {
+      "nodeID": "241069",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:45",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "241070",
+      "text": "Everybody else has to be accountable, but not the gun manufacturers",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:45"
+    },
+    {
+      "nodeID": "241071",
+      "text": "Maria: CLINTON : Everybody else has to be accountable, but not the gun manufacturers",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:46"
+    },
+    {
+      "nodeID": "241072",
+      "text": "CLINTON :  we need to stand up and say: Enough of that. We 're not going to let it continue.",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:46"
+    },
+    {
+      "nodeID": "241073",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:46",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "241074",
+      "text": "we need to stand up and say: Enough of that. We 're not going to let it continue.",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:46"
+    },
+    {
+      "nodeID": "241075",
+      "text": "Maria: CLINTON :  we need to stand up and say: Enough of that. We 're not going to let it continue.",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:46"
+    },
+    {
+      "nodeID": "241076",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-10 19:14:46",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "241077",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:46",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "241078",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:46",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "241079",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-10 19:14:46",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "241080",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:47",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "241081",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:47",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "241082",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-10 19:14:47",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "241083",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:47",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "241084",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:47",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "241085",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-10 19:14:47",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "241086",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-10 19:14:47",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "241087",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:47",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "241088",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:48",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "241089",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:48",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "241090",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:48",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "241091",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-10 19:14:48",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "241092",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:48",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "241093",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:48",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "241094",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-10 19:14:48",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "241095",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:48",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "241096",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:48",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "241097",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-10 19:14:49",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "241098",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:49",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "241099",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:49",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "241100",
+      "text": "COOPER : We're going to bring you all in on this. But, Senator Sanders, you have to give a response",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:49"
+    },
+    {
+      "nodeID": "241101",
+      "text": "Maria: COOPER : We're going to bring you all in on this. But, Senator Sanders, you have to give a response",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:49"
+    },
+    {
+      "nodeID": "241102",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:49",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "241103",
+      "text": "SANDERS : As a senator from a rural state, what I can tell Secretary Clinton, that all the shouting in the world is not going to do what I would hope all of us want, and that is keep guns out of the hands of people who should not have those guns and end this horrible violence that we are seeing",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:49"
+    },
+    {
+      "nodeID": "241104",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:49",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "241105",
+      "text": "As a senator from a rural state, SANDERS tells that all the shouting in the world is not going to keep guns out of the hands of people who should not have those guns and end this horrible violence that we are seeing",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:49"
+    },
+    {
+      "nodeID": "241106",
+      "text": "Maria: SANDERS : As a senator from a rural state, what I can tell Secretary Clinton, that all the shouting in the world is not going to do what I would hope all of us want, and that is keep guns out of the hands of people who should not have those guns and end this horrible violence that we are seeing",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:50"
+    },
+    {
+      "nodeID": "241107",
+      "text": "SANDERS : there is a consensus in this country",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:50"
+    },
+    {
+      "nodeID": "241108",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:50",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "241109",
+      "text": "there is a consensus in this country",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:50"
+    },
+    {
+      "nodeID": "241110",
+      "text": "Maria: SANDERS : there is a consensus in this country",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:50"
+    },
+    {
+      "nodeID": "241111",
+      "text": "SANDERS : A consensus has said we need to strengthen and expand instant background checks, do away with this gun show loophole, that we have to address the issue of mental health, that we have to deal with the strawman purchasing issue",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:50"
+    },
+    {
+      "nodeID": "241112",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:50",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "241113",
+      "text": "A consensus has said we need to strengthen and expand instant background checks, do away with this gun show loophole, that we have to address the issue of mental health, that we have to deal with the strawman purchasing issue",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:50"
+    },
+    {
+      "nodeID": "241114",
+      "text": "Maria: SANDERS : A consensus has said we need to strengthen and expand instant background checks, do away with this gun show loophole, that we have to address the issue of mental health, that we have to deal with the strawman purchasing issue",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:50"
+    },
+    {
+      "nodeID": "241115",
+      "text": "SANDERS :  when we develop that consensus, we can finally, finally do something to address this issue",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:50"
+    },
+    {
+      "nodeID": "241116",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:51",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "241117",
+      "text": "when we develop that consensus, we can finally, finally do something to address this issue",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:51"
+    },
+    {
+      "nodeID": "241118",
+      "text": "Maria: SANDERS :  when we develop that consensus, we can finally, finally do something to address this issue",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:51"
+    },
+    {
+      "nodeID": "241119",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-10 19:14:51",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "241120",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:51",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "241121",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:51",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "241122",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-10 19:14:51",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "241123",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:51",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "241124",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:51",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "241125",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-10 19:14:52",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "241126",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:52",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "241127",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:52",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "241128",
+      "text": "COOPER : Governor O'Malley, you passed gun legislation as governor of Maryland, but you had a Democratic-controlled legislature",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:52"
+    },
+    {
+      "nodeID": "241129",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:52",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "241130",
+      "text": "Governor O'Malley passed gun legislation as governor of Maryland, but he had a Democratic-controlled legislature",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:52"
+    },
+    {
+      "nodeID": "241131",
+      "text": "Maria: COOPER : Governor O'Malley, you passed gun legislation as governor of Maryland, but you had a Democratic-controlled legislature",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:52"
+    },
+    {
+      "nodeID": "241132",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:52",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "241133",
+      "text": "COOPER : President Obama couldn't convince Congress to pass gun legislation after the massacres in Aurora, in Newtown, and Charleston",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:52"
+    },
+    {
+      "nodeID": "241134",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:53",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "241135",
+      "text": "President Obama couldn't convince Congress to pass gun legislation after the massacres in Aurora, in Newtown, and Charleston",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:53"
+    },
+    {
+      "nodeID": "241136",
+      "text": "Maria: COOPER : President Obama couldn't convince Congress to pass gun legislation after the massacres in Aurora, in Newtown, and Charleston",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:53"
+    },
+    {
+      "nodeID": "241137",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:53",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "241138",
+      "text": "COOPER : How can you?",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:53"
+    },
+    {
+      "nodeID": "241139",
+      "text": "Pure Questioning",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:53",
+      "scheme": "PureQuestioning",
+      "schemeID": "91"
+    },
+    {
+      "nodeID": "241140",
+      "text": "O'MALLEY can convince Congress to pass gun legislation by X",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:53"
+    },
+    {
+      "nodeID": "241141",
+      "text": "Maria: COOPER : How can you?",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:53"
+    },
+    {
+      "nodeID": "241142",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:53",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "241143",
+      "text": "O'MALLEY : I also had to overcome a lot of opposition in the leadership of my own party to get this done",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:54"
+    },
+    {
+      "nodeID": "241144",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:54",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "241145",
+      "text": "O'MALLEY also had to overcome a lot of opposition in the leadership of his own party to get this done",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:54"
+    },
+    {
+      "nodeID": "241146",
+      "text": "Maria: O'MALLEY : I also had to overcome a lot of opposition in the leadership of my own party to get this done",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:54"
+    },
+    {
+      "nodeID": "241147",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-11-10 19:14:54",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "241148",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:54",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "241149",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:54",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "241150",
+      "text": "O'MALLEY : I've actually done them",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:54"
+    },
+    {
+      "nodeID": "241151",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:54",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "241152",
+      "text": "O'MALLEY actually did these things",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:55"
+    },
+    {
+      "nodeID": "241153",
+      "text": "Maria: O'MALLEY : I've actually done them",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:55"
+    },
+    {
+      "nodeID": "241154",
+      "text": "O'MALLEY :  We passed comprehensive gun safety legislation, not by looking at the pollings or looking at what the polls said",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:55"
+    },
+    {
+      "nodeID": "241155",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:55",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "241156",
+      "text": "We passed comprehensive gun safety legislation, not by looking at the pollings or looking at what the polls said",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:55"
+    },
+    {
+      "nodeID": "241157",
+      "text": "Maria: O'MALLEY :  We passed comprehensive gun safety legislation, not by looking at the pollings or looking at what the polls said",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:55"
+    },
+    {
+      "nodeID": "241158",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-10 19:14:55",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "241159",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:55",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "241160",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:55",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "241161",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-10 19:14:56",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "241162",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:56",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "241163",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:56",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "241164",
+      "text": "O'MALLEY : We actually did it",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:56"
+    },
+    {
+      "nodeID": "241165",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:56",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "241166",
+      "text": "We actually did it",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:56"
+    },
+    {
+      "nodeID": "241167",
+      "text": "Maria: O'MALLEY : We actually did it",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:56"
+    },
+    {
+      "nodeID": "241168",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-11-10 19:14:56",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "241169",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:56",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "241170",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:56",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "241171",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:57",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "241172",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-10 19:14:57",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "241173",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:57",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "241174",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:14:57",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "241175",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-10 19:14:57",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "241176",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:57",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "241177",
+      "text": "O'MALLEY : here tonight in our audience are two people that make this issue very, very real",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:57"
+    },
+    {
+      "nodeID": "241178",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:57",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "241179",
+      "text": "here tonight in our audience are two people that make this issue very, very real",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:57"
+    },
+    {
+      "nodeID": "241180",
+      "text": "Rory: O'MALLEY : here tonight in our audience are two people that make this issue very, very real",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:58"
+    },
+    {
+      "nodeID": "241181",
+      "text": "O'MALLEY : Sandy and Lonnie Phillips are here from Colorado. And their daughter, Jessie, was one of those who lost their lives in that awful mass shooting in Aurora",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:58"
+    },
+    {
+      "nodeID": "241182",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:58",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "241183",
+      "text": "Sandy and Lonnie Phillips are here from Colorado. And their daughter, Jessie, was one of those who lost their lives in that awful mass shooting in Aurora",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:58"
+    },
+    {
+      "nodeID": "241184",
+      "text": "Rory: O'MALLEY : Sandy and Lonnie Phillips are here from Colorado. And their daughter, Jessie, was one of those who lost their lives in that awful mass shooting in Aurora",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:58"
+    },
+    {
+      "nodeID": "241185",
+      "text": "O'MALLEY : to try to transform their grief, they went to court, where sometimes progress does happen when you file in court, but in this case, you want to talk about a - a rigged game, Senator? The game was rigged",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:58"
+    },
+    {
+      "nodeID": "241186",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:58",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "241187",
+      "text": "to try to transform their grief, they went to court, where sometimes progress does happen when you file in court, but in this case, you want to talk about a - a rigged game, Senator? The game was rigged",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:58"
+    },
+    {
+      "nodeID": "241188",
+      "text": "Rory: O'MALLEY : to try to transform their grief, they went to court, where sometimes progress does happen when you file in court, but in this case, you want to talk about a - a rigged game, Senator? The game was rigged",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:58"
+    },
+    {
+      "nodeID": "241189",
+      "text": "O'MALLEY :  A man had sold 4,000 rounds of military ammunition to this - this person that killed their daughter, riddled her body with five bullets, and he didn't even ask where it was going",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:59"
+    },
+    {
+      "nodeID": "241190",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:59",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "241191",
+      "text": "A man had sold 4,000 rounds of military ammunition to this - this person that killed their daughter, riddled her body with five bullets, and he didn't even ask where it was going",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:59"
+    },
+    {
+      "nodeID": "241192",
+      "text": "Rory: O'MALLEY :  A man had sold 4,000 rounds of military ammunition to this - this person that killed their daughter, riddled her body with five bullets, and he didn't even ask where it was going",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:59"
+    },
+    {
+      "nodeID": "241193",
+      "text": "O'MALLEY :  not only did their case get thrown out of court, they were slapped with $200,000 in court fees",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:59"
+    },
+    {
+      "nodeID": "241194",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:14:59",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "241195",
+      "text": "not only did their case get thrown out of court, they were slapped with $200,000 in court fees",
+      "type": "I",
+      "timestamp": "2016-11-10 19:14:59"
+    },
+    {
+      "nodeID": "241196",
+      "text": "Rory: O'MALLEY :  not only did their case get thrown out of court, they were slapped with $200,000 in court fees",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:59"
+    },
+    {
+      "nodeID": "241197",
+      "text": "O'MALLEY : because of the way that the NRA gets its way in our Congress and we take a backseat",
+      "type": "L",
+      "timestamp": "2016-11-10 19:14:59"
+    },
+    {
+      "nodeID": "241198",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:15:00",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "241199",
+      "text": "because of the way that the NRA gets its way in our Congress and we take a backseat",
+      "type": "I",
+      "timestamp": "2016-11-10 19:15:00"
+    },
+    {
+      "nodeID": "241200",
+      "text": "Rory: O'MALLEY : because of the way that the NRA gets its way in our Congress and we take a backseat",
+      "type": "L",
+      "timestamp": "2016-11-10 19:15:00"
+    },
+    {
+      "nodeID": "241201",
+      "text": "O'MALLEY : It's time to stand up and pass comprehensive gun safety legislation as a nation",
+      "type": "L",
+      "timestamp": "2016-11-10 19:15:00"
+    },
+    {
+      "nodeID": "241202",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:15:00",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "241203",
+      "text": "It's time to stand up and pass comprehensive gun safety legislation as a nation",
+      "type": "I",
+      "timestamp": "2016-11-10 19:15:00"
+    },
+    {
+      "nodeID": "241204",
+      "text": "Rory: O'MALLEY : It's time to stand up and pass comprehensive gun safety legislation as a nation",
+      "type": "L",
+      "timestamp": "2016-11-10 19:15:00"
+    },
+    {
+      "nodeID": "241205",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:15:00",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "241206",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-10 19:15:00",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "241207",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:15:01",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "241208",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:15:01",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "241209",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-10 19:15:01",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "241210",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:15:01",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "241211",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:15:01",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "241212",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-11-10 19:15:01",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "241213",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:15:01",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "241214",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:15:01",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "241215",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-11-10 19:15:01",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "241216",
+      "text": "Example",
+      "type": "RA",
+      "timestamp": "2016-11-10 19:15:02",
+      "scheme": "Example",
+      "schemeID": "14"
+    },
+    {
+      "nodeID": "241217",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-11-10 19:15:02",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "290173",
+      "fromID": "240808",
+      "toID": "240812",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290174",
+      "fromID": "240812",
+      "toID": "240810",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290175",
+      "fromID": "240810",
+      "toID": "240816",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290176",
+      "fromID": "240816",
+      "toID": "240814",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290177",
+      "fromID": "240818",
+      "toID": "240817",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290178",
+      "fromID": "240819",
+      "toID": "240818",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290179",
+      "fromID": "240814",
+      "toID": "240821",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290180",
+      "fromID": "240821",
+      "toID": "240819",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290181",
+      "fromID": "240823",
+      "toID": "240824",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290182",
+      "fromID": "240822",
+      "toID": "240823",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290183",
+      "fromID": "240827",
+      "toID": "240828",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290184",
+      "fromID": "240826",
+      "toID": "240827",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290185",
+      "fromID": "240831",
+      "toID": "240832",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290186",
+      "fromID": "240830",
+      "toID": "240831",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290187",
+      "fromID": "240828",
+      "toID": "240834",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290188",
+      "fromID": "240834",
+      "toID": "240832",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290189",
+      "fromID": "240824",
+      "toID": "240835",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290190",
+      "fromID": "240835",
+      "toID": "240832",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290191",
+      "fromID": "240817",
+      "toID": "240835",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290192",
+      "fromID": "240826",
+      "toID": "240836",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290193",
+      "fromID": "240836",
+      "toID": "240830",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290194",
+      "fromID": "240814",
+      "toID": "240837",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290195",
+      "fromID": "240837",
+      "toID": "240830",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290196",
+      "fromID": "240822",
+      "toID": "240837",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290197",
+      "fromID": "240837",
+      "toID": "240838",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290198",
+      "fromID": "240838",
+      "toID": "240835",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290199",
+      "fromID": "240841",
+      "toID": "240842",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290200",
+      "fromID": "240842",
+      "toID": "240832",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290201",
+      "fromID": "240830",
+      "toID": "240843",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290202",
+      "fromID": "240843",
+      "toID": "240840",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290203",
+      "fromID": "240843",
+      "toID": "240844",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290204",
+      "fromID": "240844",
+      "toID": "240842",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290205",
+      "fromID": "240843",
+      "toID": "240845",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290206",
+      "fromID": "240845",
+      "toID": "240841",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290207",
+      "fromID": "240847",
+      "toID": "240848",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290208",
+      "fromID": "240846",
+      "toID": "240847",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290209",
+      "fromID": "240840",
+      "toID": "240850",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290210",
+      "fromID": "240850",
+      "toID": "240846",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290211",
+      "fromID": "240848",
+      "toID": "240851",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290212",
+      "fromID": "240851",
+      "toID": "240841",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290213",
+      "fromID": "240850",
+      "toID": "240852",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290214",
+      "fromID": "240852",
+      "toID": "240851",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290215",
+      "fromID": "240854",
+      "toID": "240855",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290216",
+      "fromID": "240853",
+      "toID": "240854",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290217",
+      "fromID": "240860",
+      "toID": "240861",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290218",
+      "fromID": "240859",
+      "toID": "240860",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290219",
+      "fromID": "240864",
+      "toID": "240865",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290220",
+      "fromID": "240863",
+      "toID": "240864",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290221",
+      "fromID": "240865",
+      "toID": "240866",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290222",
+      "fromID": "240866",
+      "toID": "240855",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290223",
+      "fromID": "240853",
+      "toID": "240867",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290224",
+      "fromID": "240867",
+      "toID": "240863",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290225",
+      "fromID": "240867",
+      "toID": "240868",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290226",
+      "fromID": "240868",
+      "toID": "240866",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290227",
+      "fromID": "240870",
+      "toID": "240871",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290228",
+      "fromID": "240869",
+      "toID": "240870",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290229",
+      "fromID": "240874",
+      "toID": "240875",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290230",
+      "fromID": "240873",
+      "toID": "240874",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290231",
+      "fromID": "240878",
+      "toID": "240879",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290232",
+      "fromID": "240877",
+      "toID": "240878",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290233",
+      "fromID": "240875",
+      "toID": "240881",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290234",
+      "fromID": "240881",
+      "toID": "240871",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290235",
+      "fromID": "240861",
+      "toID": "240882",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290236",
+      "fromID": "240882",
+      "toID": "240879",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290237",
+      "fromID": "240871",
+      "toID": "240883",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290238",
+      "fromID": "240883",
+      "toID": "240879",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290239",
+      "fromID": "240859",
+      "toID": "240884",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290240",
+      "fromID": "240884",
+      "toID": "240877",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290241",
+      "fromID": "240884",
+      "toID": "240885",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290242",
+      "fromID": "240885",
+      "toID": "240882",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290243",
+      "fromID": "240869",
+      "toID": "240886",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290244",
+      "fromID": "240886",
+      "toID": "240877",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290245",
+      "fromID": "240886",
+      "toID": "240887",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290246",
+      "fromID": "240887",
+      "toID": "240883",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290247",
+      "fromID": "240877",
+      "toID": "240890",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290248",
+      "fromID": "240890",
+      "toID": "240888",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290249",
+      "fromID": "240888",
+      "toID": "240893",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290250",
+      "fromID": "240893",
+      "toID": "240891",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290251",
+      "fromID": "240891",
+      "toID": "240896",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290252",
+      "fromID": "240896",
+      "toID": "240894",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290253",
+      "fromID": "240894",
+      "toID": "240899",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290254",
+      "fromID": "240899",
+      "toID": "240897",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290255",
+      "fromID": "240901",
+      "toID": "240902",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290256",
+      "fromID": "240900",
+      "toID": "240901",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290257",
+      "fromID": "240905",
+      "toID": "240906",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290258",
+      "fromID": "240904",
+      "toID": "240905",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290259",
+      "fromID": "240909",
+      "toID": "240910",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290260",
+      "fromID": "240908",
+      "toID": "240909",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290261",
+      "fromID": "240913",
+      "toID": "240914",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290262",
+      "fromID": "240912",
+      "toID": "240913",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290263",
+      "fromID": "240917",
+      "toID": "240918",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290264",
+      "fromID": "240916",
+      "toID": "240917",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290265",
+      "fromID": "240897",
+      "toID": "240920",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290266",
+      "fromID": "240920",
+      "toID": "240900",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290267",
+      "fromID": "240912",
+      "toID": "240921",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290268",
+      "fromID": "240921",
+      "toID": "240916",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290269",
+      "fromID": "240908",
+      "toID": "240922",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290270",
+      "fromID": "240922",
+      "toID": "240912",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290271",
+      "fromID": "240904",
+      "toID": "240923",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290272",
+      "fromID": "240923",
+      "toID": "240912",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290273",
+      "fromID": "240900",
+      "toID": "240924",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290274",
+      "fromID": "240924",
+      "toID": "240912",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290275",
+      "fromID": "240902",
+      "toID": "240925",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290276",
+      "fromID": "240925",
+      "toID": "240914",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290277",
+      "fromID": "240906",
+      "toID": "240926",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290278",
+      "fromID": "240926",
+      "toID": "240914",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290279",
+      "fromID": "240910",
+      "toID": "240927",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290280",
+      "fromID": "240927",
+      "toID": "240914",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290281",
+      "fromID": "240924",
+      "toID": "240928",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290282",
+      "fromID": "240928",
+      "toID": "240925",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290283",
+      "fromID": "240923",
+      "toID": "240929",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290284",
+      "fromID": "240929",
+      "toID": "240926",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290285",
+      "fromID": "240922",
+      "toID": "240930",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290286",
+      "fromID": "240930",
+      "toID": "240927",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290287",
+      "fromID": "240914",
+      "toID": "240931",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290288",
+      "fromID": "240931",
+      "toID": "240918",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290289",
+      "fromID": "240921",
+      "toID": "240932",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290290",
+      "fromID": "240932",
+      "toID": "240931",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290291",
+      "fromID": "240934",
+      "toID": "240935",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290292",
+      "fromID": "240933",
+      "toID": "240934",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290293",
+      "fromID": "240939",
+      "toID": "240940",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290294",
+      "fromID": "240938",
+      "toID": "240939",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290295",
+      "fromID": "240942",
+      "toID": "240943",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290296",
+      "fromID": "240941",
+      "toID": "240942",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290297",
+      "fromID": "240946",
+      "toID": "240947",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290298",
+      "fromID": "240945",
+      "toID": "240946",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290299",
+      "fromID": "240950",
+      "toID": "240951",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290300",
+      "fromID": "240949",
+      "toID": "240950",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290301",
+      "fromID": "240954",
+      "toID": "240955",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290302",
+      "fromID": "240953",
+      "toID": "240954",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290303",
+      "fromID": "240943",
+      "toID": "240957",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290304",
+      "fromID": "240957",
+      "toID": "240947",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290305",
+      "fromID": "240940",
+      "toID": "240958",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290306",
+      "fromID": "240958",
+      "toID": "240947",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290307",
+      "fromID": "240935",
+      "toID": "240959",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290308",
+      "fromID": "240959",
+      "toID": "240947",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290309",
+      "fromID": "240933",
+      "toID": "240960",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290310",
+      "fromID": "240960",
+      "toID": "240945",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290311",
+      "fromID": "240960",
+      "toID": "240961",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290312",
+      "fromID": "240961",
+      "toID": "240959",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290313",
+      "fromID": "240938",
+      "toID": "240962",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290314",
+      "fromID": "240962",
+      "toID": "240945",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290315",
+      "fromID": "240962",
+      "toID": "240963",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290316",
+      "fromID": "240963",
+      "toID": "240958",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290317",
+      "fromID": "240941",
+      "toID": "240964",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290318",
+      "fromID": "240964",
+      "toID": "240945",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290319",
+      "fromID": "240964",
+      "toID": "240965",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290320",
+      "fromID": "240965",
+      "toID": "240957",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290321",
+      "fromID": "240955",
+      "toID": "240966",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290322",
+      "fromID": "240966",
+      "toID": "240951",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290323",
+      "fromID": "240951",
+      "toID": "240967",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290324",
+      "fromID": "240967",
+      "toID": "240947",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290325",
+      "fromID": "240949",
+      "toID": "240968",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290326",
+      "fromID": "240968",
+      "toID": "240953",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290327",
+      "fromID": "240945",
+      "toID": "240969",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290328",
+      "fromID": "240969",
+      "toID": "240949",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290329",
+      "fromID": "240969",
+      "toID": "240970",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290330",
+      "fromID": "240970",
+      "toID": "240967",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290331",
+      "fromID": "240972",
+      "toID": "240973",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290332",
+      "fromID": "240971",
+      "toID": "240972",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290333",
+      "fromID": "240973",
+      "toID": "240975",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290334",
+      "fromID": "240975",
+      "toID": "240918",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290335",
+      "fromID": "240916",
+      "toID": "240976",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290336",
+      "fromID": "240976",
+      "toID": "240971",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290337",
+      "fromID": "240968",
+      "toID": "240977",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290338",
+      "fromID": "240977",
+      "toID": "240966",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290339",
+      "fromID": "240976",
+      "toID": "240978",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290340",
+      "fromID": "240978",
+      "toID": "240975",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290341",
+      "fromID": "240980",
+      "toID": "240981",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290342",
+      "fromID": "240979",
+      "toID": "240980",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290343",
+      "fromID": "240981",
+      "toID": "240983",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290344",
+      "fromID": "240983",
+      "toID": "240973",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290345",
+      "fromID": "240971",
+      "toID": "240984",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290346",
+      "fromID": "240984",
+      "toID": "240979",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290347",
+      "fromID": "240984",
+      "toID": "240985",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290348",
+      "fromID": "240985",
+      "toID": "240983",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290349",
+      "fromID": "240989",
+      "toID": "240990",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290350",
+      "fromID": "240988",
+      "toID": "240989",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290351",
+      "fromID": "240996",
+      "toID": "240997",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290352",
+      "fromID": "240995",
+      "toID": "240996",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290353",
+      "fromID": "241000",
+      "toID": "241001",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290354",
+      "fromID": "240999",
+      "toID": "241000",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290355",
+      "fromID": "241004",
+      "toID": "241005",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290356",
+      "fromID": "241003",
+      "toID": "241004",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290357",
+      "fromID": "240992",
+      "toID": "241007",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290358",
+      "fromID": "241007",
+      "toID": "240993",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290359",
+      "fromID": "240997",
+      "toID": "241008",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290360",
+      "fromID": "241008",
+      "toID": "240993",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290361",
+      "fromID": "240992",
+      "toID": "241009",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290362",
+      "fromID": "241009",
+      "toID": "240995",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290363",
+      "fromID": "241009",
+      "toID": "241010",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290364",
+      "fromID": "241010",
+      "toID": "241008",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290365",
+      "fromID": "241001",
+      "toID": "241008",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290366",
+      "fromID": "241009",
+      "toID": "240999",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290367",
+      "fromID": "240993",
+      "toID": "241011",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290368",
+      "fromID": "241011",
+      "toID": "240990",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290369",
+      "fromID": "240990",
+      "toID": "241012",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290370",
+      "fromID": "241012",
+      "toID": "240981",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290371",
+      "fromID": "241013",
+      "toID": "240988",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290372",
+      "fromID": "240979",
+      "toID": "241013",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290373",
+      "fromID": "240988",
+      "toID": "241014",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290374",
+      "fromID": "241014",
+      "toID": "240992",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290375",
+      "fromID": "241013",
+      "toID": "241015",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290376",
+      "fromID": "241015",
+      "toID": "241012",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290377",
+      "fromID": "241014",
+      "toID": "241016",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290378",
+      "fromID": "241016",
+      "toID": "241011",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290379",
+      "fromID": "240999",
+      "toID": "241020",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290380",
+      "fromID": "241020",
+      "toID": "241003",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290381",
+      "fromID": "241003",
+      "toID": "241021",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290382",
+      "fromID": "241021",
+      "toID": "241017",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290383",
+      "fromID": "241018",
+      "toID": "241022",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290384",
+      "fromID": "241022",
+      "toID": "241005",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290385",
+      "fromID": "241021",
+      "toID": "241023",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290386",
+      "fromID": "241023",
+      "toID": "241022",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290387",
+      "fromID": "241021",
+      "toID": "241024",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290388",
+      "fromID": "241024",
+      "toID": "241018",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290389",
+      "fromID": "241026",
+      "toID": "241027",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290390",
+      "fromID": "241025",
+      "toID": "241026",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290391",
+      "fromID": "241030",
+      "toID": "241031",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290392",
+      "fromID": "241029",
+      "toID": "241030",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290393",
+      "fromID": "241034",
+      "toID": "241035",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290394",
+      "fromID": "241033",
+      "toID": "241034",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290395",
+      "fromID": "241038",
+      "toID": "241039",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290396",
+      "fromID": "241037",
+      "toID": "241038",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290397",
+      "fromID": "241042",
+      "toID": "241043",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290398",
+      "fromID": "241041",
+      "toID": "241042",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290399",
+      "fromID": "241049",
+      "toID": "241050",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290400",
+      "fromID": "241048",
+      "toID": "241049",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290401",
+      "fromID": "241052",
+      "toID": "241046",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290402",
+      "fromID": "241053",
+      "toID": "241052",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290403",
+      "fromID": "241045",
+      "toID": "241055",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290404",
+      "fromID": "241055",
+      "toID": "241053",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290405",
+      "fromID": "241057",
+      "toID": "241058",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290406",
+      "fromID": "241056",
+      "toID": "241057",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290407",
+      "fromID": "241061",
+      "toID": "241062",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290408",
+      "fromID": "241060",
+      "toID": "241061",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290409",
+      "fromID": "241065",
+      "toID": "241066",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290410",
+      "fromID": "241064",
+      "toID": "241065",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290411",
+      "fromID": "241069",
+      "toID": "241070",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290412",
+      "fromID": "241068",
+      "toID": "241069",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290413",
+      "fromID": "241073",
+      "toID": "241074",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290414",
+      "fromID": "241072",
+      "toID": "241073",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290415",
+      "fromID": "241027",
+      "toID": "241076",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290416",
+      "fromID": "241076",
+      "toID": "241031",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290417",
+      "fromID": "241025",
+      "toID": "241077",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290418",
+      "fromID": "241077",
+      "toID": "241029",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290419",
+      "fromID": "241077",
+      "toID": "241078",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290420",
+      "fromID": "241078",
+      "toID": "241076",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290421",
+      "fromID": "241035",
+      "toID": "241079",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290422",
+      "fromID": "241079",
+      "toID": "241018",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290423",
+      "fromID": "241017",
+      "toID": "241080",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290424",
+      "fromID": "241080",
+      "toID": "241033",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290425",
+      "fromID": "241080",
+      "toID": "241081",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290426",
+      "fromID": "241081",
+      "toID": "241079",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290427",
+      "fromID": "241039",
+      "toID": "241082",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290428",
+      "fromID": "241082",
+      "toID": "241018",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290429",
+      "fromID": "241043",
+      "toID": "241082",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290430",
+      "fromID": "241017",
+      "toID": "241083",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290431",
+      "fromID": "241083",
+      "toID": "241037",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290432",
+      "fromID": "241083",
+      "toID": "241084",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290433",
+      "fromID": "241084",
+      "toID": "241082",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290434",
+      "fromID": "241083",
+      "toID": "241041",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290435",
+      "fromID": "241046",
+      "toID": "241085",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290436",
+      "fromID": "241085",
+      "toID": "241043",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290437",
+      "fromID": "241050",
+      "toID": "241086",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290438",
+      "fromID": "241086",
+      "toID": "241043",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290439",
+      "fromID": "241041",
+      "toID": "241087",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290440",
+      "fromID": "241087",
+      "toID": "241045",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290441",
+      "fromID": "241041",
+      "toID": "241088",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290442",
+      "fromID": "241088",
+      "toID": "241048",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290443",
+      "fromID": "241088",
+      "toID": "241089",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290444",
+      "fromID": "241089",
+      "toID": "241086",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290445",
+      "fromID": "241087",
+      "toID": "241090",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290446",
+      "fromID": "241090",
+      "toID": "241085",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290447",
+      "fromID": "241058",
+      "toID": "241086",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290448",
+      "fromID": "241062",
+      "toID": "241086",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290449",
+      "fromID": "241088",
+      "toID": "241056",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290450",
+      "fromID": "241088",
+      "toID": "241060",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290451",
+      "fromID": "241046",
+      "toID": "241091",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290452",
+      "fromID": "241091",
+      "toID": "241066",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290453",
+      "fromID": "241045",
+      "toID": "241092",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290454",
+      "fromID": "241092",
+      "toID": "241064",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290455",
+      "fromID": "241092",
+      "toID": "241093",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290456",
+      "fromID": "241093",
+      "toID": "241091",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290457",
+      "fromID": "241070",
+      "toID": "241094",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290458",
+      "fromID": "241094",
+      "toID": "241066",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290459",
+      "fromID": "241064",
+      "toID": "241095",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290460",
+      "fromID": "241095",
+      "toID": "241068",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290461",
+      "fromID": "241095",
+      "toID": "241096",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290462",
+      "fromID": "241096",
+      "toID": "241094",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290463",
+      "fromID": "241066",
+      "toID": "241097",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290464",
+      "fromID": "241097",
+      "toID": "241074",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290465",
+      "fromID": "241064",
+      "toID": "241098",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290466",
+      "fromID": "241098",
+      "toID": "241072",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290467",
+      "fromID": "241098",
+      "toID": "241099",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290468",
+      "fromID": "241099",
+      "toID": "241097",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290469",
+      "fromID": "241072",
+      "toID": "241102",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290470",
+      "fromID": "241102",
+      "toID": "241100",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290471",
+      "fromID": "241104",
+      "toID": "241105",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290472",
+      "fromID": "241103",
+      "toID": "241104",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290473",
+      "fromID": "241108",
+      "toID": "241109",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290474",
+      "fromID": "241107",
+      "toID": "241108",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290475",
+      "fromID": "241112",
+      "toID": "241113",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290476",
+      "fromID": "241111",
+      "toID": "241112",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290477",
+      "fromID": "241116",
+      "toID": "241117",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290478",
+      "fromID": "241115",
+      "toID": "241116",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290479",
+      "fromID": "241105",
+      "toID": "241119",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290480",
+      "fromID": "241119",
+      "toID": "241074",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290481",
+      "fromID": "241072",
+      "toID": "241120",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290482",
+      "fromID": "241120",
+      "toID": "241103",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290483",
+      "fromID": "241120",
+      "toID": "241121",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290484",
+      "fromID": "241121",
+      "toID": "241119",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290485",
+      "fromID": "241113",
+      "toID": "241112",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290486",
+      "fromID": "241109",
+      "toID": "241122",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290487",
+      "fromID": "241122",
+      "toID": "241105",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290488",
+      "fromID": "241117",
+      "toID": "241122",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290489",
+      "fromID": "241103",
+      "toID": "241123",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290490",
+      "fromID": "241123",
+      "toID": "241107",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290491",
+      "fromID": "241123",
+      "toID": "241115",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290492",
+      "fromID": "241123",
+      "toID": "241124",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290493",
+      "fromID": "241124",
+      "toID": "241122",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290494",
+      "fromID": "241113",
+      "toID": "241125",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290495",
+      "fromID": "241125",
+      "toID": "241109",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290496",
+      "fromID": "241107",
+      "toID": "241126",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290497",
+      "fromID": "241126",
+      "toID": "241111",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290498",
+      "fromID": "241126",
+      "toID": "241127",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290499",
+      "fromID": "241127",
+      "toID": "241125",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290500",
+      "fromID": "241129",
+      "toID": "241130",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290501",
+      "fromID": "241128",
+      "toID": "241129",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290502",
+      "fromID": "241115",
+      "toID": "241132",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290503",
+      "fromID": "241132",
+      "toID": "241128",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290504",
+      "fromID": "241134",
+      "toID": "241135",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290505",
+      "fromID": "241133",
+      "toID": "241134",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290506",
+      "fromID": "241128",
+      "toID": "241137",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290507",
+      "fromID": "241137",
+      "toID": "241133",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290508",
+      "fromID": "241139",
+      "toID": "241140",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290509",
+      "fromID": "241138",
+      "toID": "241139",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290510",
+      "fromID": "241133",
+      "toID": "241142",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290511",
+      "fromID": "241142",
+      "toID": "241138",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290512",
+      "fromID": "241144",
+      "toID": "241145",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290513",
+      "fromID": "241143",
+      "toID": "241144",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290514",
+      "fromID": "241145",
+      "toID": "241147",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290515",
+      "fromID": "241147",
+      "toID": "241130",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290516",
+      "fromID": "241128",
+      "toID": "241148",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290517",
+      "fromID": "241148",
+      "toID": "241143",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290518",
+      "fromID": "241148",
+      "toID": "241149",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290519",
+      "fromID": "241149",
+      "toID": "241147",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290520",
+      "fromID": "241151",
+      "toID": "241152",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290521",
+      "fromID": "241150",
+      "toID": "241151",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290522",
+      "fromID": "241155",
+      "toID": "241156",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290523",
+      "fromID": "241154",
+      "toID": "241155",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290524",
+      "fromID": "241152",
+      "toID": "241158",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290525",
+      "fromID": "241158",
+      "toID": "241145",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290526",
+      "fromID": "241143",
+      "toID": "241159",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290527",
+      "fromID": "241159",
+      "toID": "241150",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290528",
+      "fromID": "241159",
+      "toID": "241160",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290529",
+      "fromID": "241160",
+      "toID": "241158",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290530",
+      "fromID": "241156",
+      "toID": "241161",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290531",
+      "fromID": "241161",
+      "toID": "241152",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290532",
+      "fromID": "241150",
+      "toID": "241162",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290533",
+      "fromID": "241162",
+      "toID": "241154",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290534",
+      "fromID": "241162",
+      "toID": "241163",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290535",
+      "fromID": "241163",
+      "toID": "241161",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290536",
+      "fromID": "241165",
+      "toID": "241166",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290537",
+      "fromID": "241164",
+      "toID": "241165",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290538",
+      "fromID": "241166",
+      "toID": "241168",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290539",
+      "fromID": "241168",
+      "toID": "241152",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290540",
+      "fromID": "241150",
+      "toID": "241169",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290541",
+      "fromID": "241169",
+      "toID": "241164",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290542",
+      "fromID": "241169",
+      "toID": "241170",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290543",
+      "fromID": "241170",
+      "toID": "241168",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290544",
+      "fromID": "240846",
+      "toID": "241171",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290545",
+      "fromID": "241171",
+      "toID": "240853",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290546",
+      "fromID": "241171",
+      "toID": "240858",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290547",
+      "fromID": "241171",
+      "toID": "240859",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290548",
+      "fromID": "240855",
+      "toID": "241172",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290549",
+      "fromID": "241172",
+      "toID": "240848",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290550",
+      "fromID": "240861",
+      "toID": "241172",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290551",
+      "fromID": "241171",
+      "toID": "241173",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290552",
+      "fromID": "241173",
+      "toID": "241172",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290553",
+      "fromID": "241017",
+      "toID": "241174",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290554",
+      "fromID": "241174",
+      "toID": "241029",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290555",
+      "fromID": "241031",
+      "toID": "241175",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290556",
+      "fromID": "241175",
+      "toID": "241018",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290557",
+      "fromID": "241174",
+      "toID": "241176",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290558",
+      "fromID": "241176",
+      "toID": "241175",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290559",
+      "fromID": "241178",
+      "toID": "241179",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290560",
+      "fromID": "241177",
+      "toID": "241178",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290561",
+      "fromID": "241182",
+      "toID": "241183",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290562",
+      "fromID": "241181",
+      "toID": "241182",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290563",
+      "fromID": "241186",
+      "toID": "241187",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290564",
+      "fromID": "241185",
+      "toID": "241186",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290565",
+      "fromID": "241190",
+      "toID": "241191",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290566",
+      "fromID": "241189",
+      "toID": "241190",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290567",
+      "fromID": "241194",
+      "toID": "241195",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290568",
+      "fromID": "241193",
+      "toID": "241194",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290569",
+      "fromID": "241198",
+      "toID": "241199",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290570",
+      "fromID": "241197",
+      "toID": "241198",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290571",
+      "fromID": "241202",
+      "toID": "241203",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290572",
+      "fromID": "241201",
+      "toID": "241202",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290573",
+      "fromID": "241185",
+      "toID": "241205",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290574",
+      "fromID": "241205",
+      "toID": "241189",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290575",
+      "fromID": "241191",
+      "toID": "241206",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290576",
+      "fromID": "241206",
+      "toID": "241187",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290577",
+      "fromID": "241205",
+      "toID": "241207",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290578",
+      "fromID": "241207",
+      "toID": "241206",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290579",
+      "fromID": "241205",
+      "toID": "241193",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290580",
+      "fromID": "241195",
+      "toID": "241206",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290581",
+      "fromID": "241193",
+      "toID": "241208",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290582",
+      "fromID": "241208",
+      "toID": "241197",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290583",
+      "fromID": "241199",
+      "toID": "241209",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290584",
+      "fromID": "241209",
+      "toID": "241195",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290585",
+      "fromID": "241208",
+      "toID": "241210",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290586",
+      "fromID": "241210",
+      "toID": "241209",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290587",
+      "fromID": "241197",
+      "toID": "241211",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290588",
+      "fromID": "241211",
+      "toID": "241201",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290589",
+      "fromID": "241199",
+      "toID": "241212",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290590",
+      "fromID": "241212",
+      "toID": "241203",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290591",
+      "fromID": "241211",
+      "toID": "241213",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290592",
+      "fromID": "241213",
+      "toID": "241212",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290593",
+      "fromID": "241164",
+      "toID": "241214",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290594",
+      "fromID": "241214",
+      "toID": "241177",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290595",
+      "fromID": "241177",
+      "toID": "241215",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290596",
+      "fromID": "241215",
+      "toID": "241201",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290597",
+      "fromID": "241179",
+      "toID": "241216",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290598",
+      "fromID": "241216",
+      "toID": "241203",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290599",
+      "fromID": "241181",
+      "toID": "241215",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290600",
+      "fromID": "241185",
+      "toID": "241215",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290601",
+      "fromID": "241183",
+      "toID": "241216",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290602",
+      "fromID": "241187",
+      "toID": "241216",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290603",
+      "fromID": "241215",
+      "toID": "241217",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "290604",
+      "fromID": "241217",
+      "toID": "241216",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "240808",
+      "personID": "1852",
+      "timestamp": "2016-11-10 19:15:21",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "240810",
+      "personID": "1850",
+      "timestamp": "2016-11-10 19:15:21",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "240819",
+      "personID": "1850",
+      "timestamp": "2016-11-10 19:15:21",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "241053",
+      "personID": "1853",
+      "timestamp": "2016-11-10 19:15:21",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

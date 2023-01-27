@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "144553",
+      "text": "Chicago could limit handgun ownership, require registration - chicagotribune.com  Now I know we didn't expect Daley to just roll over and take his losses like a real man. But to suggest that people be allowed to own only one single handgun is quite a step even for him. Even DC didn't try that one. I don't see how such a proposal would ever pass a legal challenge. You'd never get away with telling people they could only buy one book in their lifetime. And what exactly are you supposed to do if the gun you buy turns out to be something you don't like for whatever reason? Or what if it breaks and can't be repaired? Are you going to be allowed to replace it or are you gonna be SOL? And how about all those collectors out there?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:25"
+    },
+    {
+      "nodeID": "144554",
+      "text": "Just like a mayor, steal more chain than he could swim with...:) Or: 'The State, there is no power but the State' - (who said this?)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:25"
+    },
+    {
+      "nodeID": "144555",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:00:25"
+    },
+    {
+      "nodeID": "144556",
+      "text": "Now I know we didn't expect Daley to just roll over and take his losses like a real man. But to suggest that people be allowed to own only one single handgun is quite a step even for him. Even DC didn't try that one.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:25"
+    },
+    {
+      "nodeID": "144557",
+      "text": "Well it's a step in the right direction,and if you have 2 or 3 people per household, it would make him squirm good.lol.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:25"
+    },
+    {
+      "nodeID": "144558",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:00:25"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186646",
+      "fromID": "144554",
+      "toID": "144555",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186647",
+      "fromID": "144555",
+      "toID": "144553",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186648",
+      "fromID": "144557",
+      "toID": "144558",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186649",
+      "fromID": "144558",
+      "toID": "144556",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

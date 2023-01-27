@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157388",
+      "text": "One of the fundamental purpose of the union of a man and a woman is to create progeny.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:14"
+    },
+    {
+      "nodeID": "157389",
+      "text": "How does this have anything to do with marriage? Reproduction occurs outside of marriage and has done so long before man became civilized.  Permitting only gay marriages won't decrease numbers. Increased family planning and birth control will.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:14"
+    },
+    {
+      "nodeID": "157390",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:28:14"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195700",
+      "fromID": "157389",
+      "toID": "157390",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195701",
+      "fromID": "157390",
+      "toID": "157388",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

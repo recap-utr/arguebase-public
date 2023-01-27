@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143932",
+      "text": "In several of my other post I have stated that I do not seek legislation concerning abortion. It is rather my goal to convince people to consider the possibilities of their actions so as not to put themselves in the position of needing to decide on life and death issues. I will join you in an appropriate thread to continue this so as to accomodate Dr. No.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:12"
+    },
+    {
+      "nodeID": "143933",
+      "text": "And so, your goal is not to reduce abortions? Your goal is to educate people on sexual activity and pregnancy?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:12"
+    },
+    {
+      "nodeID": "143934",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:59:12"
+    },
+    {
+      "nodeID": "143935",
+      "text": "Abortion is allowed by law due to judicial action. If it were taken to a referendum, I would vote to oppose it. Especially for it to ever be paid for by tax money. But, it will not. If people in debate and in their every day lives would demand responsible sexual activity and continually express the possibilities involved with sex and frown upon people becoming pregnant when they in fact do not desire children versus defending their right to eliminate the result, abortions might become less attractive as an answer. The slaughter could wane.  In a sentence, if people would consider the effects of their actions, they would not place themselves in the position to make life and death decisions on the innocent.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:12"
+    },
+    {
+      "nodeID": "143936",
+      "text": "So, you would vote to legislate against it? Ok, now that thats cleared up, why do you consider sex to be so bad? Sex is a healthy part of a relationship or marrige, and i would not go to these lengths to minimize it. Sex has a small risk of ending in pregnancy, and an even smaller risk if using a condom, and even smaller than that if the woman uses a contraceptive. Then, if EVERYTHING fails, there would be abortion in the extreme circumstances that it does result in a pregnancy. I doubt that criminalized abortion will reduce sex. It will only cause suffering and fear for women. I thought we were out of the dark ages already.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:12"
+    },
+    {
+      "nodeID": "143937",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:59:13"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186216",
+      "fromID": "143933",
+      "toID": "143934",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186217",
+      "fromID": "143934",
+      "toID": "143932",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186218",
+      "fromID": "143936",
+      "toID": "143937",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186219",
+      "fromID": "143937",
+      "toID": "143935",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140674",
+      "text": "'It's not helping. The guns these people have, they don't register, they don't care, they're probably stolen, they're probably obtained illegally, in many cases they're prohibited,' commented Chief Hanson. sinjin - What's with the probably(s)? Have they attempted to trace handguns recovered from criminals? Wonder how many trace right back to the US?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:56"
+    },
+    {
+      "nodeID": "140675",
+      "text": "Oh, I would wager about like Mexico, about 80% fewer than guestimated. Funny you would ask that when the puts the finger squarely on gangs. How is that drug war working out in Mexico or Canada for that matter. Think the gangs are for smuggling dope or guns? What causes the problems? Dope but they also have guns. I wonder how a national dope registry would work emoticon_rolleyes",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:56"
+    },
+    {
+      "nodeID": "140676",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:51:57"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183898",
+      "fromID": "140675",
+      "toID": "140676",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183899",
+      "fromID": "140676",
+      "toID": "140674",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "209247",
+      "text": "T-nawtical : Chris Christie freaking hugged Obama after a horrible natural disaster ravaged his home state you fucking tool",
+      "type": "L",
+      "timestamp": "2016-10-28 13:08:22"
+    },
+    {
+      "nodeID": "209249",
+      "text": "CHRISTIE freaking hugged Obama after a horrible natural disaster ravaged his home state",
+      "type": "I",
+      "timestamp": "2016-10-28 13:08:23"
+    },
+    {
+      "nodeID": "219921",
+      "text": "PAUL : if you want to give him a big hug again , go right ahead",
+      "type": "L",
+      "timestamp": "2016-11-01 14:58:46"
+    },
+    {
+      "nodeID": "219923",
+      "text": "if CHRISTIE wants to give OBAMA a big hug again , go right ahead",
+      "type": "I",
+      "timestamp": "2016-11-01 14:58:47"
+    },
+    {
+      "nodeID": "264583",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-09 16:34:30",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "264584",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 16:34:31",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264585",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-09 16:34:31",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "320240",
+      "fromID": "209249",
+      "toID": "264583",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320241",
+      "fromID": "264583",
+      "toID": "219923",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320242",
+      "fromID": "219921",
+      "toID": "264584",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320243",
+      "fromID": "264584",
+      "toID": "209247",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320244",
+      "fromID": "264584",
+      "toID": "264585",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320245",
+      "fromID": "264585",
+      "toID": "264583",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

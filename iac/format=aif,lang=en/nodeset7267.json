@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139995",
+      "text": "I don't think so.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:31"
+    },
+    {
+      "nodeID": "139996",
+      "text": "Well, I still do think so. Never did I receive any scientifically reasonable answer to that. ( I've asked many 'authorities')",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:31"
+    },
+    {
+      "nodeID": "139997",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:31"
+    },
+    {
+      "nodeID": "139998",
+      "text": "But the question is pretty irrelevant to science",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:31"
+    },
+    {
+      "nodeID": "139999",
+      "text": "Really? Then why do they experiment on 'antigravity' devices or the theoretical possibility of 'time-travel'?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:31"
+    },
+    {
+      "nodeID": "140000",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:31"
+    },
+    {
+      "nodeID": "140001",
+      "text": "There is no evidence either way.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:31"
+    },
+    {
+      "nodeID": "140002",
+      "text": "No evidence of what?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:31"
+    },
+    {
+      "nodeID": "140003",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:32"
+    },
+    {
+      "nodeID": "140004",
+      "text": "There are hypothesises concerning the fundamental nature of existance. But these concepts are very complex and very few people in the world can even begin to understand them.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:32"
+    },
+    {
+      "nodeID": "140005",
+      "text": "And they are the 'adept' ones who agree they understand it are not they? How do you know they have truly got the thing? You must accept it by faith since you are not amongst the 'precious few' who are inspired to understand it. It is strange that Newton's formulas can be understood without being accepted into the secret society of evolutionary magicians.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:32"
+    },
+    {
+      "nodeID": "140006",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:32"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183416",
+      "fromID": "139996",
+      "toID": "139997",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183417",
+      "fromID": "139997",
+      "toID": "139995",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183418",
+      "fromID": "139999",
+      "toID": "140000",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183419",
+      "fromID": "140000",
+      "toID": "139998",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183420",
+      "fromID": "140002",
+      "toID": "140003",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183421",
+      "fromID": "140003",
+      "toID": "140001",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183422",
+      "fromID": "140005",
+      "toID": "140006",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183423",
+      "fromID": "140006",
+      "toID": "140004",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

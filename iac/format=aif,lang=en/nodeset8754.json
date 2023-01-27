@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "162221",
+      "text": "This is not true.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:27"
+    },
+    {
+      "nodeID": "162222",
+      "text": "Yes it is, police aren't obligated by the US Constitution to protect individual citizens. If they were, lawsuits could be filed every time a crime is committed, and the police would go bankrupt really quick.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:27"
+    },
+    {
+      "nodeID": "162223",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:39:27"
+    },
+    {
+      "nodeID": "162224",
+      "text": "Nowhere does it say, that she kept a gun in the bathroom emoticon_xkill",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:27"
+    },
+    {
+      "nodeID": "162225",
+      "text": "And nowhere does it say she went to her bedroom and retrieved a gun.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:27"
+    },
+    {
+      "nodeID": "162226",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:39:27"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "199162",
+      "fromID": "162222",
+      "toID": "162223",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199163",
+      "fromID": "162223",
+      "toID": "162221",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199164",
+      "fromID": "162225",
+      "toID": "162226",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199165",
+      "fromID": "162226",
+      "toID": "162224",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

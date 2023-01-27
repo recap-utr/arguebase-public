@@ -1,0 +1,326 @@
+{
+  "nodes": [
+    {
+      "nodeID": "208867",
+      "text": "KELLY looks so good tonight",
+      "type": "I",
+      "timestamp": "2016-10-25 11:45:00"
+    },
+    {
+      "nodeID": "209685",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-30 18:32:46",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "209686",
+      "text": "parduscat : Megan Kelly looks so good tonight",
+      "type": "L",
+      "timestamp": "2016-10-30 18:32:46"
+    },
+    {
+      "nodeID": "209687",
+      "text": "Barbara: parduscat : Megan Kelly looks so good tonight",
+      "type": "L",
+      "timestamp": "2016-10-30 18:32:46"
+    },
+    {
+      "nodeID": "209688",
+      "text": "[deleted] : 10/10",
+      "type": "L",
+      "timestamp": "2016-10-30 18:32:46"
+    },
+    {
+      "nodeID": "209689",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-30 18:32:46",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "209690",
+      "text": "KELLY looks 10/10",
+      "type": "I",
+      "timestamp": "2016-10-30 18:32:47"
+    },
+    {
+      "nodeID": "209691",
+      "text": "Barbara: [deleted] : 10/10",
+      "type": "L",
+      "timestamp": "2016-10-30 18:32:47"
+    },
+    {
+      "nodeID": "209692",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-10-30 18:32:47",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "209693",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-30 18:32:47",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "209694",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2016-10-30 18:32:47",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "209695",
+      "text": "[deleted] : It's a shame she's a morally-corrupt talking head",
+      "type": "L",
+      "timestamp": "2016-10-30 18:32:47"
+    },
+    {
+      "nodeID": "209696",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-30 18:32:47",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "209697",
+      "text": "it's a shame KELLY is a morally-corrupt talking head",
+      "type": "I",
+      "timestamp": "2016-10-30 18:32:47"
+    },
+    {
+      "nodeID": "209698",
+      "text": "Barbara: [deleted] : It's a shame she's a morally-corrupt talking head",
+      "type": "L",
+      "timestamp": "2016-10-30 18:32:47"
+    },
+    {
+      "nodeID": "209699",
+      "text": "[deleted] : Like you wouldn't smash anyway",
+      "type": "L",
+      "timestamp": "2016-10-30 18:32:47"
+    },
+    {
+      "nodeID": "209700",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-30 18:32:47",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "209701",
+      "text": "like you wouldn't smash KELLY anyway",
+      "type": "I",
+      "timestamp": "2016-10-30 18:32:48"
+    },
+    {
+      "nodeID": "209702",
+      "text": "Barbara: [deleted] : Like you wouldn't smash anyway",
+      "type": "L",
+      "timestamp": "2016-10-30 18:32:48"
+    },
+    {
+      "nodeID": "209703",
+      "text": "[deleted] : In a millisecond",
+      "type": "L",
+      "timestamp": "2016-10-30 18:32:48"
+    },
+    {
+      "nodeID": "209704",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-30 18:32:48",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "209705",
+      "text": "in a millisecond",
+      "type": "I",
+      "timestamp": "2016-10-30 18:32:48"
+    },
+    {
+      "nodeID": "209706",
+      "text": "Barbara: [deleted] : In a millisecond",
+      "type": "L",
+      "timestamp": "2016-10-30 18:32:48"
+    },
+    {
+      "nodeID": "209707",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-30 18:32:48",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "209708",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-30 18:32:48",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "209709",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-30 18:32:48",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "256027",
+      "fromID": "209685",
+      "toID": "208867",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256028",
+      "fromID": "209686",
+      "toID": "209685",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256029",
+      "fromID": "209689",
+      "toID": "209690",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256030",
+      "fromID": "209688",
+      "toID": "209689",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256031",
+      "fromID": "209690",
+      "toID": "209692",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256032",
+      "fromID": "209692",
+      "toID": "208867",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256033",
+      "fromID": "209686",
+      "toID": "209693",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256034",
+      "fromID": "209693",
+      "toID": "209688",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256035",
+      "fromID": "209693",
+      "toID": "209694",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256036",
+      "fromID": "209694",
+      "toID": "209692",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256037",
+      "fromID": "209696",
+      "toID": "209697",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256038",
+      "fromID": "209695",
+      "toID": "209696",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256039",
+      "fromID": "209700",
+      "toID": "209701",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256040",
+      "fromID": "209699",
+      "toID": "209700",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256041",
+      "fromID": "209704",
+      "toID": "209705",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256042",
+      "fromID": "209703",
+      "toID": "209704",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256043",
+      "fromID": "209688",
+      "toID": "209707",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256044",
+      "fromID": "209707",
+      "toID": "209695",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256045",
+      "fromID": "209695",
+      "toID": "209708",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256046",
+      "fromID": "209708",
+      "toID": "209699",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256047",
+      "fromID": "209699",
+      "toID": "209709",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "256048",
+      "fromID": "209709",
+      "toID": "209703",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "209686",
+      "personID": "2531",
+      "timestamp": "2016-10-30 18:32:49",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

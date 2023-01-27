@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "136656",
+      "text": "All of those quotes are from leading evolutionist. Of course you are more informed than they aren't you?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:32"
+    },
+    {
+      "nodeID": "136657",
+      "text": "You were asked to give us your explanation of evolution. So far you've just regurgitated creationist arguments against it, without showing that you actually understand what you're arguing against. But instead of trying to answer the question that was asked of you, you just spat out some more quotes. The least you could have done was to use quotes that explained evolution as you percieve it, but they're not even on topic, going on about morality and atheism! You continue to confirm your ignorance for us.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:32"
+    },
+    {
+      "nodeID": "136658",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:43:32"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181032",
+      "fromID": "136657",
+      "toID": "136658",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181033",
+      "fromID": "136658",
+      "toID": "136656",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

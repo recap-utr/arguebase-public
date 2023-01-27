@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "153720",
+      "text": "But, then again, there are still 'snake handlers' who claim that the poison will not affect them - mistakenly relating it to scripture. (Acts 28:3)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:59"
+    },
+    {
+      "nodeID": "153721",
+      "text": "And certain versions of Mark: 15He said to them, 'Go into all the world and preach the good news to all creation. 16Whoever believes and is baptized will be saved, but whoever does not believe will be condemned. 17And these signs will accompany those who believe: In my name they will drive out demons; they will speak in new tongues; 18they will pick up snakes with their hands; and when they drink deadly poison, it will not hurt them at all; they will place their hands on sick people, and they will get well.' Are they mistakenly reading this?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:59"
+    },
+    {
+      "nodeID": "153722",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:19:59"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193108",
+      "fromID": "153721",
+      "toID": "153722",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193109",
+      "fromID": "153722",
+      "toID": "153720",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

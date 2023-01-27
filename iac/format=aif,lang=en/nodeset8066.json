@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152058",
+      "text": "That Department of Justice study doesn't support your opinion since it doesn't examine crime statistics after the UK gun ban.  Sounds like the UK crime rate has been going down to me. Alfaholic is jumping to conclusions.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:07"
+    },
+    {
+      "nodeID": "152059",
+      "text": "I guess you failed to look at these two.  http://reason.com/0211/fe.jm.gun.shtml http://www.foxnews.com/story/0,2933,59866,00.html Here's a little question.... If you were a criminal.... would you rather rob from a house where you knew the owner didn't have a gun or would you rob someone you knew had a gun?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:07"
+    },
+    {
+      "nodeID": "152060",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:16:07"
+    },
+    {
+      "nodeID": "152061",
+      "text": "With no effort and a credit card: Home Depot: Metal Pipe closed at one end $10 Drill to make hole touch hole in pipe $40 Charcoal from the supper market $4 Sulphur and potasium Nitrate from the internet $20 A clothes pin and rubber band for a lock, $2 In five minutes I have a soothbore musket, priceless. The Colt 45 Automatic was first developed in 1903. The metal shop in a high school has tools more advanced that the first gun smiths who built the first Colt 45 Automatic in 1903.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:07"
+    },
+    {
+      "nodeID": "152062",
+      "text": "I know this is an old posting, but I thought I would add to it. I have built several 1911 clones. Press forge the frame (and slide, sometimes), then mill the parts. I use a CNC mill (about $750,000). A lot fo guys, though, use a $300 minimill from harbor freight. A setup for press forging the parts (press forging is the better modern alternative to drop forging) will set you back less than $200, if you are a good scrounger. Gun building is probably a more common hobby than you might think. It is hard to tell exactly how many people are doing it, because a homebuilt gun requires no registration, permit to build, or any of that other XXXX (unless you are building an NFA firearm, which is a machine gun). There is even a yahoo group about building your own gun. Fro the faint of heart (those who don't want to forge or cast theri own reciver/frame) there are a bunch of places that will sell you an 80% finished reciever, which doesn't count as a firearm from a legal viewpoint.  I always buy my barrels since it is too much work to do the rifling. In a pinch, it could be done, it just wouldn't be a competition grade barrel. Of course, most firearms you buy don't come with a stock competition grade barrel.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:07"
+    },
+    {
+      "nodeID": "152063",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:16:07"
+    },
+    {
+      "nodeID": "152064",
+      "text": "The capital of our nation has set a good example for the rest of our nation.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:07"
+    },
+    {
+      "nodeID": "152065",
+      "text": "Yes, with a crime rate larger than New York City, Chicago, Philadelphia, San Francisco, Los Angeles, Indianapolis, and Las Vegas, they're a wonderful example to follow, aren't they?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:08"
+    },
+    {
+      "nodeID": "152066",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:16:08"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191940",
+      "fromID": "152059",
+      "toID": "152060",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191941",
+      "fromID": "152060",
+      "toID": "152058",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191942",
+      "fromID": "152062",
+      "toID": "152063",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191943",
+      "fromID": "152063",
+      "toID": "152061",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191944",
+      "fromID": "152065",
+      "toID": "152066",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191945",
+      "fromID": "152066",
+      "toID": "152064",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

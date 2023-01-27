@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151065",
+      "text": "Hey, on a thread like this its fair game. Insulting each other appears to actually be on topic in this case.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:01"
+    },
+    {
+      "nodeID": "151066",
+      "text": "well...you gotta point there. emoticon_xhoho",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:01"
+    },
+    {
+      "nodeID": "151067",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:14:01"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191238",
+      "fromID": "151066",
+      "toID": "151067",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191239",
+      "fromID": "151067",
+      "toID": "151065",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

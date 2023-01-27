@@ -1,0 +1,139 @@
+{
+  "nodes": [
+    {
+      "nodeID": "155940",
+      "text": "Do you really think the paper tape is really the fundamental reason why violence is not an issue in Switzerland?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:58"
+    },
+    {
+      "nodeID": "155941",
+      "text": "Obviously.  Somebody who is planning to shoot up a schoolyard, or murder their neiborgh, is obviously NOT going to be willing to face the penalty for breaking the seal on an ammo can.  You have to wonder, though, why they even bother sealing the can, since swiss military ammo is so cheap. I suppose it it so, in the event that somebody ever is killed with a GI weapon, they can say 'It wasn't government ammo that they were shot with'. With some degree of certainty.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:58"
+    },
+    {
+      "nodeID": "155942",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:58"
+    },
+    {
+      "nodeID": "155943",
+      "text": "Oh, it certainly is an issue. Martin Killias, a Swiss criminologist, did find a link between gun ownership and homicide in Switzerland. However, my point was to ask you if you would be willing to abide by such regulations. The law in Switzerland requires that military weapons kept in the home be unloaded and stored under lock and key. I don't think Switzerland is a gun-nut utopia.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:58"
+    },
+    {
+      "nodeID": "155944",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:58"
+    },
+    {
+      "nodeID": "155945",
+      "text": "Yes it can, because they can/do own firearms besides those issued by the government. Plus, once they are retired from the military, they get to keep their rifles or pistols. Every round of the military's ammo is acounted for, because they don't want them waisting their money... They can shoot as much of their private stock as they want. Also, they have very stringent guidelines on cleaning your weapons. :)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:58"
+    },
+    {
+      "nodeID": "155946",
+      "text": "Hey that would be great. The law would FORCE all anti-gunners of military service age and ability to own a fully automatic rifle. The law would FORCE all anti-gunners to train with the weapon. The law would FORCE VOR to keep his rifle clean. Hey VOR how about it? Keep your rifle clean or go to jail. I'm not talking about my rifle, I'll be glad to keep my free government rifle clean. How about you?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:58"
+    },
+    {
+      "nodeID": "155947",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:58"
+    },
+    {
+      "nodeID": "155948",
+      "text": "Sure. Bring on the free machineguns to every male of military service and the paper tape. BTW are YOU going to clean your machinegun? You are going to have to own a machinegun in your home you know. Your going to be forced to keep your machinegun clean. Your going to be forced to learn to place head shots at 300 yards. Your going to be forced to keep ammo sealed by paper tape. Sure I do all that right now. I'd be happy to do that with a free machinegun and free ammo. Is that what YOU want? The government handing out free machineguns? Just checking if you want that. I want it. Give me a free machinegun. Give my friends who shoot at the range and shoot rifle matches, give them all free machineguns and free ammo. Bring it on.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:58"
+    },
+    {
+      "nodeID": "155949",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:58"
+    },
+    {
+      "nodeID": "155950",
+      "text": "Count me in for a couple of MP5s. I'd even take American made M4s if they're running short on the HKs. I'll keep the paper sealed ammo tins intact and buy my own ammo. Quality 9mm has gotten so inexpensive I can't afford to reload it. 5.56 has always been that way. I like that idea.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:58"
+    },
+    {
+      "nodeID": "155951",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:58"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194680",
+      "fromID": "155941",
+      "toID": "155942",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194681",
+      "fromID": "155942",
+      "toID": "155940",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194682",
+      "fromID": "155943",
+      "toID": "155944",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194683",
+      "fromID": "155944",
+      "toID": "155940",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194684",
+      "fromID": "155946",
+      "toID": "155947",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194685",
+      "fromID": "155947",
+      "toID": "155945",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194686",
+      "fromID": "155948",
+      "toID": "155949",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194687",
+      "fromID": "155949",
+      "toID": "155943",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194688",
+      "fromID": "155950",
+      "toID": "155951",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194689",
+      "fromID": "155951",
+      "toID": "155948",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

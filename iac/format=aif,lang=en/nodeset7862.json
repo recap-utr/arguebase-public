@@ -1,0 +1,157 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148918",
+      "text": "From www.georgewbush.com This is nothing but a government giveaway of dynamic proportions. It's not only going to low-income uninsured - it's going to people who are currently employed and actually HAVE insurance. How much money are we talking here? What's comes after TTTTTrillions. Gazillions?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:34"
+    },
+    {
+      "nodeID": "148919",
+      "text": "So you think Bush's plan will involve increased government of dynamic proportions, and Kerry's plan will not? And you ask if I'M watching the news? :)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:34"
+    },
+    {
+      "nodeID": "148920",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:09:34"
+    },
+    {
+      "nodeID": "148921",
+      "text": "So, by having a national 'group', healthcare costs are kept lower.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:34"
+    },
+    {
+      "nodeID": "148922",
+      "text": "And what's more, the huge numbers of uninsured are getting their health care for free - at least what they get. An uninsured person brought in to an emergency room with a heart attack is a total loss to the hospital and the doctor. Maybe it would have been cheaper to get that poor soul high blood pressure pills. Where do you think the money comes from for his hospital stay? Our pockets too in the form of higher costs to those who can pay. There's no free ride for any of us.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:34"
+    },
+    {
+      "nodeID": "148923",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:09:34"
+    },
+    {
+      "nodeID": "148924",
+      "text": "Seems like you criticize him for allowing the government to 'give' something, then criticize because it's not enough.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:34"
+    },
+    {
+      "nodeID": "148925",
+      "text": "So what's the deal when GWB 'gives' $3,000 but the insurance premiums cost $6,000, the family can't make up the difference and the $3,000 goes unspent. All we've accomplished is to transfer $ out of the U.S. Treasury. You think it's a good idea to just give money away and not get anything for it? You're thinking of the Clinton years when there was a surplus.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:34"
+    },
+    {
+      "nodeID": "148926",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:09:34"
+    },
+    {
+      "nodeID": "148927",
+      "text": "Maybe you are having trouble with the concept of 'low premium, high deductible'.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:34"
+    },
+    {
+      "nodeID": "148928",
+      "text": "Actually, no I'm not having trouble with that concept. That could be a wise choice in certain situations. I'm having trouble with GWB making that choice FOR EVERYONE.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:34"
+    },
+    {
+      "nodeID": "148929",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:09:34"
+    },
+    {
+      "nodeID": "148930",
+      "text": "It simply suggests that our church or charitable institutions should have the option of offering health care for its members. We have a huge number of charitable organisations in this country whcih controll billions of dollars.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:34"
+    },
+    {
+      "nodeID": "148931",
+      "text": "So what's your point? What does a charity's balance sheet have to do with health care? It's charity.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:34"
+    },
+    {
+      "nodeID": "148932",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:09:34"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189724",
+      "fromID": "148919",
+      "toID": "148920",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189725",
+      "fromID": "148920",
+      "toID": "148918",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189726",
+      "fromID": "148922",
+      "toID": "148923",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189727",
+      "fromID": "148923",
+      "toID": "148921",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189728",
+      "fromID": "148925",
+      "toID": "148926",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189729",
+      "fromID": "148926",
+      "toID": "148924",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189730",
+      "fromID": "148928",
+      "toID": "148929",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189731",
+      "fromID": "148929",
+      "toID": "148927",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189732",
+      "fromID": "148931",
+      "toID": "148932",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189733",
+      "fromID": "148932",
+      "toID": "148930",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

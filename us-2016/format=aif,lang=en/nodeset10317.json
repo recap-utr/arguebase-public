@@ -1,0 +1,984 @@
+{
+  "nodes": [
+    {
+      "nodeID": "206558",
+      "text": "Mr. TRUMP, I'm giving you 30 seconds to answer my question",
+      "type": "I",
+      "timestamp": "2016-10-17 10:17:55"
+    },
+    {
+      "nodeID": "206559",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-17 10:17:55",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "206560",
+      "text": "WALLACE : Mr. Trump, I'm giving you 30 seconds to answer my question",
+      "type": "L",
+      "timestamp": "2016-10-17 10:17:55"
+    },
+    {
+      "nodeID": "206561",
+      "text": "Barbara: WALLACE : Mr. Trump, I'm giving you 30 seconds to answer my question",
+      "type": "L",
+      "timestamp": "2016-10-17 10:17:55"
+    },
+    {
+      "nodeID": "206562",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-17 10:17:55",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "206563",
+      "text": "parduscat : WALLACE : Mr. Trump, I'm giving you 30 seconds to answer my question",
+      "type": "L",
+      "timestamp": "2016-10-17 10:17:56"
+    },
+    {
+      "nodeID": "206564",
+      "text": "Barbara: parduscat : WALLACE : Mr. Trump, I'm giving you 30 seconds to answer my question",
+      "type": "L",
+      "timestamp": "2016-10-17 10:17:56"
+    },
+    {
+      "nodeID": "206565",
+      "text": "Fox News is out for TRUMP's blood",
+      "type": "I",
+      "timestamp": "2016-10-17 10:17:56"
+    },
+    {
+      "nodeID": "206566",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-17 10:17:56",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "206567",
+      "text": "parduscat : Fox News is out for Trump's blood",
+      "type": "L",
+      "timestamp": "2016-10-17 10:17:56"
+    },
+    {
+      "nodeID": "206568",
+      "text": "Barbara: parduscat : Fox News is out for Trump's blood.",
+      "type": "L",
+      "timestamp": "2016-10-17 10:17:56"
+    },
+    {
+      "nodeID": "206569",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-17 10:17:56",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "206570",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-17 10:17:56",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "206571",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-17 10:17:56",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "206572",
+      "text": "dirtyfries : Yep",
+      "type": "L",
+      "timestamp": "2016-10-17 10:17:56"
+    },
+    {
+      "nodeID": "206573",
+      "text": "Barbara: dirtyfries : Yep",
+      "type": "L",
+      "timestamp": "2016-10-17 10:17:56"
+    },
+    {
+      "nodeID": "206574",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-17 10:17:57",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "206575",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2016-10-17 10:17:57",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    },
+    {
+      "nodeID": "206576",
+      "text": "dirtyfries : I hate the guy",
+      "type": "L",
+      "timestamp": "2016-10-17 10:17:57"
+    },
+    {
+      "nodeID": "206577",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-17 10:17:57",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "206578",
+      "text": "I hate the guy",
+      "type": "I",
+      "timestamp": "2016-10-17 10:17:57"
+    },
+    {
+      "nodeID": "206579",
+      "text": "Barbara: dirtyfries : I hate the guy",
+      "type": "L",
+      "timestamp": "2016-10-17 10:17:57"
+    },
+    {
+      "nodeID": "206580",
+      "text": "dirtyfries : it's clear this whole thing is about picking winners and losers",
+      "type": "L",
+      "timestamp": "2016-10-17 10:17:57"
+    },
+    {
+      "nodeID": "206581",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-17 10:17:57",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "206582",
+      "text": "this whole thing is about picking winners and losers",
+      "type": "I",
+      "timestamp": "2016-10-17 10:17:57"
+    },
+    {
+      "nodeID": "206583",
+      "text": "Barbara: dirtyfries : it's clear this whole thing is about picking winners and losers",
+      "type": "L",
+      "timestamp": "2016-10-17 10:17:57"
+    },
+    {
+      "nodeID": "206584",
+      "text": "dirtyfries : They want him gone",
+      "type": "L",
+      "timestamp": "2016-10-17 10:17:57"
+    },
+    {
+      "nodeID": "206585",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-17 10:17:58",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "206586",
+      "text": "Fox News wants TRUMP gone",
+      "type": "I",
+      "timestamp": "2016-10-17 10:17:58"
+    },
+    {
+      "nodeID": "206587",
+      "text": "Barbara: dirtyfries : They want him gone",
+      "type": "L",
+      "timestamp": "2016-10-17 10:17:58"
+    },
+    {
+      "nodeID": "206588",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-17 10:17:58",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "206589",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-17 10:17:58",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "206590",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-17 10:17:58",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "206591",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-17 10:17:58",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "206592",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-17 10:17:58",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "206593",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-10-17 10:17:58",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "206594",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-17 10:17:58",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "206595",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2016-10-17 10:17:59",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "206596",
+      "text": "lolamp33 : no one can accuse fox news of playing soft ball",
+      "type": "L",
+      "timestamp": "2016-10-17 10:17:59"
+    },
+    {
+      "nodeID": "206597",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-17 10:17:59",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "206598",
+      "text": "no one can accuse fox news of playing soft ball",
+      "type": "I",
+      "timestamp": "2016-10-17 10:17:59"
+    },
+    {
+      "nodeID": "206599",
+      "text": "Barbara: lolamp33 : no one can accuse fox news of playing soft ball",
+      "type": "L",
+      "timestamp": "2016-10-17 10:17:59"
+    },
+    {
+      "nodeID": "206600",
+      "text": "lolamp33 : I dont think hillary is going to get the same treatment in the dem debates",
+      "type": "L",
+      "timestamp": "2016-10-17 10:17:59"
+    },
+    {
+      "nodeID": "206601",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-17 10:17:59",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "206602",
+      "text": "I don't think CLINTON is going to get the same treatment in the democratic debates",
+      "type": "I",
+      "timestamp": "2016-10-17 10:17:59"
+    },
+    {
+      "nodeID": "206603",
+      "text": "Barbara: lolamp33 : I dont think hillary is going to get the same treatment in the dem debates",
+      "type": "L",
+      "timestamp": "2016-10-17 10:17:59"
+    },
+    {
+      "nodeID": "206604",
+      "text": "lolamp33 : shes the queen",
+      "type": "L",
+      "timestamp": "2016-10-17 10:17:59"
+    },
+    {
+      "nodeID": "206605",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-17 10:18:00",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "206606",
+      "text": "CLINTON is the queen",
+      "type": "I",
+      "timestamp": "2016-10-17 10:18:00"
+    },
+    {
+      "nodeID": "206607",
+      "text": "Barbara: lolamp33 : shes the queen",
+      "type": "L",
+      "timestamp": "2016-10-17 10:18:00"
+    },
+    {
+      "nodeID": "206608",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-17 10:18:00",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "206609",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-17 10:18:00",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "206610",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-17 10:18:00",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "206611",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-17 10:18:00",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "206612",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-17 10:18:00",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "206613",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-17 10:18:00",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "206614",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-17 10:18:00",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "206615",
+      "text": "liamliam1234liam : I really hope they pull no punches",
+      "type": "L",
+      "timestamp": "2016-10-17 10:18:00"
+    },
+    {
+      "nodeID": "206616",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-17 10:18:01",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "206617",
+      "text": "I really hope they pull no punches",
+      "type": "I",
+      "timestamp": "2016-10-17 10:18:01"
+    },
+    {
+      "nodeID": "206618",
+      "text": "Barbara: liamliam1234liam : I really hope they pull no punches",
+      "type": "L",
+      "timestamp": "2016-10-17 10:18:01"
+    },
+    {
+      "nodeID": "206619",
+      "text": "liamliam1234liam :  the only way Bernie has a chance is if the Democrats give him a chance",
+      "type": "L",
+      "timestamp": "2016-10-17 10:18:01"
+    },
+    {
+      "nodeID": "206620",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-17 10:18:01",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "206621",
+      "text": "the only way SANDERS has a chance is if the Democrats give him a chance",
+      "type": "I",
+      "timestamp": "2016-10-17 10:18:01"
+    },
+    {
+      "nodeID": "206622",
+      "text": "Barbara: liamliam1234liam :  the only way Bernie has a chance is if the Democrats give him a chance",
+      "type": "L",
+      "timestamp": "2016-10-17 10:18:01"
+    },
+    {
+      "nodeID": "206623",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-17 10:18:01",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "206624",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-17 10:18:01",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "206625",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-17 10:18:01",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "206626",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-10-17 10:18:02",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "206627",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-17 10:18:02",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "206628",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-10-17 10:18:02",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "251883",
+      "fromID": "206559",
+      "toID": "206558",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251884",
+      "fromID": "206560",
+      "toID": "206559",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251885",
+      "fromID": "206562",
+      "toID": "206560",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251886",
+      "fromID": "206563",
+      "toID": "206562",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251887",
+      "fromID": "206566",
+      "toID": "206565",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251888",
+      "fromID": "206567",
+      "toID": "206566",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251889",
+      "fromID": "206560",
+      "toID": "206569",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251890",
+      "fromID": "206569",
+      "toID": "206565",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251891",
+      "fromID": "206563",
+      "toID": "206570",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251892",
+      "fromID": "206570",
+      "toID": "206567",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251893",
+      "fromID": "206570",
+      "toID": "206571",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251894",
+      "fromID": "206571",
+      "toID": "206569",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251895",
+      "fromID": "206567",
+      "toID": "206574",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251896",
+      "fromID": "206574",
+      "toID": "206572",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251897",
+      "fromID": "206574",
+      "toID": "206575",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251898",
+      "fromID": "206575",
+      "toID": "206565",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251899",
+      "fromID": "206577",
+      "toID": "206578",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251900",
+      "fromID": "206576",
+      "toID": "206577",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251901",
+      "fromID": "206581",
+      "toID": "206582",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251902",
+      "fromID": "206580",
+      "toID": "206581",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251903",
+      "fromID": "206585",
+      "toID": "206586",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251904",
+      "fromID": "206584",
+      "toID": "206585",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251905",
+      "fromID": "206572",
+      "toID": "206588",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251906",
+      "fromID": "206588",
+      "toID": "206576",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251907",
+      "fromID": "206576",
+      "toID": "206589",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251908",
+      "fromID": "206589",
+      "toID": "206580",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251909",
+      "fromID": "206582",
+      "toID": "206590",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251910",
+      "fromID": "206590",
+      "toID": "206586",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251911",
+      "fromID": "206580",
+      "toID": "206591",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251912",
+      "fromID": "206591",
+      "toID": "206584",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251913",
+      "fromID": "206591",
+      "toID": "206592",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251914",
+      "fromID": "206592",
+      "toID": "206590",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251915",
+      "fromID": "206586",
+      "toID": "206593",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251916",
+      "fromID": "206593",
+      "toID": "206565",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251917",
+      "fromID": "206567",
+      "toID": "206594",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251918",
+      "fromID": "206594",
+      "toID": "206584",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251919",
+      "fromID": "206594",
+      "toID": "206595",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251920",
+      "fromID": "206595",
+      "toID": "206593",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251921",
+      "fromID": "206597",
+      "toID": "206598",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251922",
+      "fromID": "206596",
+      "toID": "206597",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251923",
+      "fromID": "206601",
+      "toID": "206602",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251924",
+      "fromID": "206600",
+      "toID": "206601",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251925",
+      "fromID": "206605",
+      "toID": "206606",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251926",
+      "fromID": "206604",
+      "toID": "206605",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251927",
+      "fromID": "206606",
+      "toID": "206608",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251928",
+      "fromID": "206608",
+      "toID": "206602",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251929",
+      "fromID": "206600",
+      "toID": "206609",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251930",
+      "fromID": "206609",
+      "toID": "206604",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251931",
+      "fromID": "206609",
+      "toID": "206610",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251932",
+      "fromID": "206610",
+      "toID": "206608",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251933",
+      "fromID": "206598",
+      "toID": "206611",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251934",
+      "fromID": "206611",
+      "toID": "206586",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251935",
+      "fromID": "206584",
+      "toID": "206612",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251936",
+      "fromID": "206612",
+      "toID": "206596",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251937",
+      "fromID": "206612",
+      "toID": "206613",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251938",
+      "fromID": "206613",
+      "toID": "206611",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251939",
+      "fromID": "206596",
+      "toID": "206614",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251940",
+      "fromID": "206614",
+      "toID": "206600",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251941",
+      "fromID": "206616",
+      "toID": "206617",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251942",
+      "fromID": "206615",
+      "toID": "206616",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251943",
+      "fromID": "206620",
+      "toID": "206621",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251944",
+      "fromID": "206619",
+      "toID": "206620",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251945",
+      "fromID": "206621",
+      "toID": "206623",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251946",
+      "fromID": "206623",
+      "toID": "206617",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251947",
+      "fromID": "206615",
+      "toID": "206624",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251948",
+      "fromID": "206624",
+      "toID": "206619",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251949",
+      "fromID": "206624",
+      "toID": "206625",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251950",
+      "fromID": "206625",
+      "toID": "206623",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251951",
+      "fromID": "206617",
+      "toID": "206626",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251952",
+      "fromID": "206626",
+      "toID": "206602",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251953",
+      "fromID": "206600",
+      "toID": "206627",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251954",
+      "fromID": "206627",
+      "toID": "206615",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251955",
+      "fromID": "206627",
+      "toID": "206628",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "251956",
+      "fromID": "206628",
+      "toID": "206626",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "206560",
+      "personID": "2410",
+      "timestamp": "2016-10-17 10:18:05",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "206563",
+      "personID": "2531",
+      "timestamp": "2016-10-17 10:18:05",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "206567",
+      "personID": "2531",
+      "timestamp": "2016-10-17 10:18:05",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "206572",
+      "personID": "2526",
+      "timestamp": "2016-10-17 10:18:05",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

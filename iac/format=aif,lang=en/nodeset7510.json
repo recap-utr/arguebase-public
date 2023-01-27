@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143405",
+      "text": "The only thing the 'church in Laodicea' applies to are the 'mega-churches' and other similar ones.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:00"
+    },
+    {
+      "nodeID": "143406",
+      "text": "Oh I agree, but at the same time, and much more important, are those churches adhering to the whole counsel of G-d?? Because if they are, then the 'mega church' has the greater responsibility to the community. If they aren't then you have accurately described what Jesus rebukes.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:00"
+    },
+    {
+      "nodeID": "143407",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:58:00"
+    },
+    {
+      "nodeID": "143408",
+      "text": "Wrong as usual. Whenever a church strays from the entire word of G-d, then His blessings are removed and the church becomes noting more than another social club.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:00"
+    },
+    {
+      "nodeID": "143409",
+      "text": "So the entire Catholic Church is nothing more then a social club?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:00"
+    },
+    {
+      "nodeID": "143410",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:58:00"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185842",
+      "fromID": "143406",
+      "toID": "143407",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185843",
+      "fromID": "143407",
+      "toID": "143405",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185844",
+      "fromID": "143409",
+      "toID": "143410",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185845",
+      "fromID": "143410",
+      "toID": "143408",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

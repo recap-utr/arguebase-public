@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "146187",
+      "text": "Africa is not universally hot and arid. Surely you aren't ignorant of that... The Pygmies are found in Rainforest which is characteristicly hot and humid. Hutus are not a race unto themselves, they are part of the Bantu group which is found chiefly across the Eastern side of the continent which is drier and less forested. This group emerged relatively recently but has been successful in displacing older groups such as the Pygmies and Bush men into less hospitable areas when they came into contact.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:41"
+    },
+    {
+      "nodeID": "146188",
+      "text": "I know the Pygmies live in Rain Forests now but these evolutions took place, according to you more than a hundred thousand years ago at the very least when the Weather patterns were completely different in Africa and everywhere for that matter. In addition, the OP states 5 genetic clusters based on 5 geographical Continents, that allows one for Africa, yet from that single cluster we get the shortest people on Earth and some of the tallest. Doesn't that cause you to question the reasonableness of this so called theory at all ? Or do you just blindly accept it because it comes to you in the guise of science ? And if it's science then it must be right, right ? emoticon_rolleyes",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:41"
+    },
+    {
+      "nodeID": "146189",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:03:41"
+    },
+    {
+      "nodeID": "146190",
+      "text": "Pity you know so little about biology. The difference between pygmy and taller races is probably just a handful of control genes or DNA sequences relating to the control of growth of body parts. Even in non-African populations, you can get dwarves and giants based on differences in single proteins.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:41"
+    },
+    {
+      "nodeID": "146191",
+      "text": "No, it's a pity that you have no consistency in either your science or your arguments. Your argument about dwarves and giants determined by a single protein works on an individual level fine but in determining a whole Race within the same genome group, not so fine.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:41"
+    },
+    {
+      "nodeID": "146192",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:03:41"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187796",
+      "fromID": "146188",
+      "toID": "146189",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187797",
+      "fromID": "146189",
+      "toID": "146187",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187798",
+      "fromID": "146191",
+      "toID": "146192",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187799",
+      "fromID": "146192",
+      "toID": "146190",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

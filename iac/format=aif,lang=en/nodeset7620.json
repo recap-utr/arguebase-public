@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "145051",
+      "text": "I said it. It's true. Scrap the damn thing, start over and WORK with Republicans to actually make this work before more people die due to bitter party line politics...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:30"
+    },
+    {
+      "nodeID": "145052",
+      "text": "I think the Obama administration has been working with Republicans, and much too much. That's why the bill is what it is. Although I think it was Feingold who said that Obama has gotten the bill he intended to, from the beginning.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:30"
+    },
+    {
+      "nodeID": "145053",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:01:30"
+    },
+    {
+      "nodeID": "145054",
+      "text": "I think the Obama administration has been working with Republicans, and much too much. That's why the bill is what it is. Although I think it was Feingold who said that Obama has gotten the bill he intended to, from the beginning.  Even worse, as this is not a compromise since there is no public option, for starters.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:30"
+    },
+    {
+      "nodeID": "145055",
+      "text": "Yea right, the chosen one told the pugnicans to sit down and shut up I won. More funny cake lady! You are right the dems got the bill they wanted. 2000+ pages that no one knows whats in it. Robs Medicare to partly pay for it and who knows what other unpleasant nasty suprises are in it.  Wise up no one wants your public option.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:30"
+    },
+    {
+      "nodeID": "145056",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:01:30"
+    },
+    {
+      "nodeID": "145057",
+      "text": "Your figures aren't substantiated by any cites, but nevertheless, one can infer on the basis of what people have said they do want, i.e. a public option and/or single payer, that the dissatisfaction with the bill is mostly for reasons quite unlike your own.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:30"
+    },
+    {
+      "nodeID": "145058",
+      "text": "No need to infer diddly. They asked people what they wanted and socialized medicine wasn't it. :p",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:31"
+    },
+    {
+      "nodeID": "145059",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:01:31"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187004",
+      "fromID": "145052",
+      "toID": "145053",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187005",
+      "fromID": "145053",
+      "toID": "145051",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187006",
+      "fromID": "145055",
+      "toID": "145056",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187007",
+      "fromID": "145056",
+      "toID": "145054",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187008",
+      "fromID": "145058",
+      "toID": "145059",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187009",
+      "fromID": "145059",
+      "toID": "145057",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

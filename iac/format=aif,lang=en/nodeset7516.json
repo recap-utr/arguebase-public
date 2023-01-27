@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143441",
+      "text": "You can only prove some thing in relation to the laws of physics,...",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:07"
+    },
+    {
+      "nodeID": "143442",
+      "text": "Actually not true. Science, physics or otherwise, doesn't prove anything. Science explains with tested theories. That's what scientific theories are; explanations that account for all (hopefully) the known facts. Uncover more facts and perhaps the theory (your proof) will have to be changed to account for them.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:07"
+    },
+    {
+      "nodeID": "143443",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:58:07"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185866",
+      "fromID": "143442",
+      "toID": "143443",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185867",
+      "fromID": "143443",
+      "toID": "143441",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

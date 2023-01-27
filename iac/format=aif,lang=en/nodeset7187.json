@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139000",
+      "text": "I thank my lucky stars every day that I got out of Joizey 25 years ago.emoticon_xbouncer",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:15"
+    },
+    {
+      "nodeID": "139001",
+      "text": "Peoples Republic of Kalifornia East it looks like to me.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:16"
+    },
+    {
+      "nodeID": "139002",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:48:16"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182718",
+      "fromID": "139001",
+      "toID": "139002",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182719",
+      "fromID": "139002",
+      "toID": "139000",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

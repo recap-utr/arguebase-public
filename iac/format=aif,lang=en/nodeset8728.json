@@ -1,0 +1,121 @@
+{
+  "nodes": [
+    {
+      "nodeID": "161925",
+      "text": "Besides that, genes are not generators of morphology, they are modifiers of morphology.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:40"
+    },
+    {
+      "nodeID": "161926",
+      "text": "So what generates morphology?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:40"
+    },
+    {
+      "nodeID": "161927",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:40"
+    },
+    {
+      "nodeID": "161928",
+      "text": "Genes and their expressions are under control of the cell,",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:40"
+    },
+    {
+      "nodeID": "161929",
+      "text": "And what dictates the cells activities?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:40"
+    },
+    {
+      "nodeID": "161930",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:40"
+    },
+    {
+      "nodeID": "161931",
+      "text": "yea I didn't get an answer there, and I probably won't get one here either.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:40"
+    },
+    {
+      "nodeID": "161932",
+      "text": "Well, answering you seems to be a waste of time. You ignore/reject any attempts at explaining the things you clearly do not understand, and youlater bring up the exact same things that you have had explained to you as if the subject was never broached before. You are incorrigible and uneducable.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:40"
+    },
+    {
+      "nodeID": "161933",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:40"
+    },
+    {
+      "nodeID": "161934",
+      "text": "well if I don't get an answer here I'll just spread it around the whole internet. Fine with me.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:40"
+    },
+    {
+      "nodeID": "161935",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:40"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198956",
+      "fromID": "161926",
+      "toID": "161927",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198957",
+      "fromID": "161927",
+      "toID": "161925",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198958",
+      "fromID": "161929",
+      "toID": "161930",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198959",
+      "fromID": "161930",
+      "toID": "161928",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198960",
+      "fromID": "161932",
+      "toID": "161933",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198961",
+      "fromID": "161933",
+      "toID": "161931",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198962",
+      "fromID": "161934",
+      "toID": "161935",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198963",
+      "fromID": "161935",
+      "toID": "161932",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

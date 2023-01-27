@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "142097",
+      "text": "exactly. they're like the swiss, just can't seem to make up their minds I think i'll sway this way today, wait maybe that way. emoticon_confused",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:18"
+    },
+    {
+      "nodeID": "142098",
+      "text": "Just liike Stalinemoticon_wow",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:18"
+    },
+    {
+      "nodeID": "142099",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:55:18"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184908",
+      "fromID": "142098",
+      "toID": "142099",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184909",
+      "fromID": "142099",
+      "toID": "142097",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

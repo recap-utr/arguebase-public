@@ -1,0 +1,115 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140698",
+      "text": "One question I would like to get answered is should the US have an amendment against adultery? I think this dose a lot more harm to the 'sanctity and value of marriage' Just had to put in my $.02, and would you all let me know if there is ever a good answer?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:01"
+    },
+    {
+      "nodeID": "140699",
+      "text": "Question is what sort of punishment would you have for adultery if there was an amendment? Financial, already their in divorce. Are you going to lock adulterer up?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:01"
+    },
+    {
+      "nodeID": "140700",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:52:01"
+    },
+    {
+      "nodeID": "140701",
+      "text": "Nobody I know sanctions adultery. There are already serious consequences built in against it. As far a same sex marriage, I know of nobody that is suggesting legal penalties for it unless one considers the refusal to legally recognize it a legal penalty. Certainly nobody has been jailed or fined for attempting such marriages. Privately performed ceremonies as such are not punished.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:01"
+    },
+    {
+      "nodeID": "140702",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:52:01"
+    },
+    {
+      "nodeID": "140703",
+      "text": "Is it possible that the 'rigidity' of many evangelical churches and what they expect of their members drives couples to divorce when one partner isn't as 'on board' as the other? Many people have only joined these churches of late and were already married when they did. Just thinkin'.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:01"
+    },
+    {
+      "nodeID": "140704",
+      "text": "I think you nailed it! I also think that if you are willing to give up your relationship over religion you could be on the border of addiction not faith. (not you personally, but rhetorically)",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:01"
+    },
+    {
+      "nodeID": "140705",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:52:01"
+    },
+    {
+      "nodeID": "140706",
+      "text": "You're thinking is right on, sinjin. Although it's kinda hush-hush, it has been determined (especially in the more charismatic churches) that when one 'goes further' in religion the other feels alienated and problems/troubles that probably would have never risen in their relationship oozes out. A new circle of friends emerge which make the one that is &#8220;left behind&#8221; feel closed out and closed off. Arguments then seem to erupt daily and most of it over who is doing the &#8220;right thing&#8221; according to that religion, followed all too often by divorce.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:01"
+    },
+    {
+      "nodeID": "140707",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:52:01"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183914",
+      "fromID": "140699",
+      "toID": "140700",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183915",
+      "fromID": "140700",
+      "toID": "140698",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183916",
+      "fromID": "140701",
+      "toID": "140702",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183917",
+      "fromID": "140702",
+      "toID": "140698",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183918",
+      "fromID": "140704",
+      "toID": "140705",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183919",
+      "fromID": "140705",
+      "toID": "140703",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183920",
+      "fromID": "140706",
+      "toID": "140707",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183921",
+      "fromID": "140707",
+      "toID": "140703",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

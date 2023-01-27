@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "160745",
+      "text": "Here's a cartoon: http://images.yuku.com/image/pjpeg/3b0264712b44dd5da0c3de472d985cd214ee23f7.pjpg",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:53"
+    },
+    {
+      "nodeID": "160746",
+      "text": "So you're saying that it's better to just let the criminals stay armed and the good people should remain unarmed? That's advocating to allow the wolf to kill as many sheep as it wants in hopes that it'll stop on its own and leave the rest alone.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:53"
+    },
+    {
+      "nodeID": "160747",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:35:53"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198102",
+      "fromID": "160746",
+      "toID": "160747",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198103",
+      "fromID": "160747",
+      "toID": "160745",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

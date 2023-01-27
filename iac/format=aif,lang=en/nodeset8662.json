@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "161002",
+      "text": "Guilty of the rapes I'm not disputing (don't know anything about those cases), but why does that automatically make him guilty of the rape and murder for which he was executed?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:24"
+    },
+    {
+      "nodeID": "161003",
+      "text": "Because he was found guilty of murdering a minor rather than an adult. Any crime committed by an adult against a child is more heinous in nature.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:24"
+    },
+    {
+      "nodeID": "161004",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:36:24"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198290",
+      "fromID": "161003",
+      "toID": "161004",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198291",
+      "fromID": "161004",
+      "toID": "161002",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

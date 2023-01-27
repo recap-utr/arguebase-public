@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "136647",
+      "text": "http://www.catholiceducation.org/articles/abortion/ab0102.html I actually haven't read all of this article yet, but it looks interesting.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:31"
+    },
+    {
+      "nodeID": "136648",
+      "text": "I think I posted that awhile ago. Its huge BS. Thats like saying 'Civil rights hurt blacks'. Even though abortion may have some unwated side affects, its no where near the emotional and physical pain and suffering for the rest of your life than a forced pregnancy. Just goes to show that the pro-life movement is desperate.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:31"
+    },
+    {
+      "nodeID": "136649",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:43:31"
+    },
+    {
+      "nodeID": "136650",
+      "text": "As it happens, both my mother and my father both wanted me and planned for me.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:31"
+    },
+    {
+      "nodeID": "136651",
+      "text": "So, if they hadn't planned for and wanted you, you would be perfectly fine with being dead right now?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:31"
+    },
+    {
+      "nodeID": "136652",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:43:31"
+    },
+    {
+      "nodeID": "136653",
+      "text": "Have you ever heard of 'Project Rachel' <http://www.hopeafterabortion.com/<",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:31"
+    },
+    {
+      "nodeID": "136654",
+      "text": "I think I'm going to start a 'Hope After Propoganda' site after reading that. But really where the agony comes is when women go through with an unwanted pregnancy. Abortions usually solve a lot of women's problems, and most women never regret it.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:31"
+    },
+    {
+      "nodeID": "136655",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:43:31"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181026",
+      "fromID": "136648",
+      "toID": "136649",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181027",
+      "fromID": "136649",
+      "toID": "136647",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181028",
+      "fromID": "136651",
+      "toID": "136652",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181029",
+      "fromID": "136652",
+      "toID": "136650",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181030",
+      "fromID": "136654",
+      "toID": "136655",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181031",
+      "fromID": "136655",
+      "toID": "136653",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

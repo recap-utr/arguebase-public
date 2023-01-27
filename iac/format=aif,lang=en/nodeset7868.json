@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "149028",
+      "text": "Look you baboon, I don't want nonsense I want answers. What makes those here in favor of gun control and gun bans believe that by outlawing guns they'll make things better for everyone?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:47"
+    },
+    {
+      "nodeID": "149029",
+      "text": "Well that was a good start. Are you planning on insulting everyone who replies to your post? Of course it would be more difficult for criminals to get hold of guns if there were fewer of them around. It would also make it more difficult for children to get hold of them, or feuding neighbours who, on the spur of the moment, think that waving a gun around might bring about a solution to their problems. If you don't think you're going to like the answers to your question, then don't ask the question. Smiley",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:47"
+    },
+    {
+      "nodeID": "149030",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:09:47"
+    },
+    {
+      "nodeID": "149031",
+      "text": "The 'black market' doesn't deal in homemade weapons. They're stolen for the most part too.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:47"
+    },
+    {
+      "nodeID": "149032",
+      "text": "And if they're stolen that means that they're illegally possessed by a currently illegal supplier. And since they're illegally possessed by an illegal supplier, that means that they're obviously not bothered by the current laws cocnerning firearms possession by criminals, meaning that banning gun ownership won't even make them blink.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:47"
+    },
+    {
+      "nodeID": "149033",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:09:47"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189800",
+      "fromID": "149029",
+      "toID": "149030",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189801",
+      "fromID": "149030",
+      "toID": "149028",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189802",
+      "fromID": "149032",
+      "toID": "149033",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189803",
+      "fromID": "149033",
+      "toID": "149031",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

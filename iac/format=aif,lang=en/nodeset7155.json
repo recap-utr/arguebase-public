@@ -1,0 +1,115 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138612",
+      "text": "Clearly this John Raven just wants a bigger budget and so he's made up yet more stuff about the problems of CO2 pollution emoticon_rolleyes",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:27"
+    },
+    {
+      "nodeID": "138613",
+      "text": "Why is this clear?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:27"
+    },
+    {
+      "nodeID": "138614",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:47:27"
+    },
+    {
+      "nodeID": "138615",
+      "text": "You'll have to ask gnojek that. It appears he thinks that any pronouncement by a scientist suggesting CO2 production is a problem is a conspiracy theory by scientists to get bigger budgets: 'As scientists we will tell you that there is a major problem that can only be solved through science , which can only be done with money. We're scientists and we really like grant money to do research. Wouldn't it be great if we had a global initiative to fund this research indefinitely, or until the global warming problem is solved...' It's the YEC movement all over again: there's no proof, the evidence could be interpreted either way, it's a scientific conspiracy theory, the Devil is behind it: it's un-Christian to cut back on fossil fuel burning etc emoticon_xclown",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:27"
+    },
+    {
+      "nodeID": "138616",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:47:27"
+    },
+    {
+      "nodeID": "138617",
+      "text": "Ocean acidity is old news...",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:27"
+    },
+    {
+      "nodeID": "138618",
+      "text": "What, you mean like this story (http://news.bbc.co.uk/1/hi/sci/tech/3136266.stm) of scientists warning about ocian acidity levels from 2003? Global warming is old news too: it doesn't seem to have reached the more remote parts of the world though, like North America for example.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:27"
+    },
+    {
+      "nodeID": "138619",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:47:27"
+    },
+    {
+      "nodeID": "138620",
+      "text": "Ah, my bad... :p",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:27"
+    },
+    {
+      "nodeID": "138621",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:47:27"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182430",
+      "fromID": "138613",
+      "toID": "138614",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182431",
+      "fromID": "138614",
+      "toID": "138612",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182432",
+      "fromID": "138615",
+      "toID": "138616",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182433",
+      "fromID": "138616",
+      "toID": "138613",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182434",
+      "fromID": "138618",
+      "toID": "138619",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182435",
+      "fromID": "138619",
+      "toID": "138617",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182436",
+      "fromID": "138620",
+      "toID": "138621",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182437",
+      "fromID": "138621",
+      "toID": "138615",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

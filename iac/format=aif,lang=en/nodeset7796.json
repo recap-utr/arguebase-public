@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148021",
+      "text": "there are many who are against the theory of evolution and state there are many problems with the theory of evolution.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:36"
+    },
+    {
+      "nodeID": "148022",
+      "text": "No biggie, right? Typical creationist 'teach the controversy' stuff. But wait! The 'encyclopedia' follows this up with it's damning evidence to show the many holes in the ToE! Read on evolutionists, and despair!!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:36"
+    },
+    {
+      "nodeID": "148023",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:36"
+    },
+    {
+      "nodeID": "148024",
+      "text": "'Yes, that is unfortunate because the rapid-field-change hypothesis offers no basis for any of their stuff. Insofar as there is any evidence for the duration of the Steens polarity transition, from estimates of rates of SV, it is several thousand years. The question we examine is whether the systematic streaking of directions of samples as a function of height in a single flow could have been caused by an EPISODE of rapid movement of field direction while that flow was cooling through its blocking temperatures. We state as much in everything we have written, but they ignore that.'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:36"
+    },
+    {
+      "nodeID": "148025",
+      "text": "So what we have here is a lie, based on a distortion, which is itself a fallback position from a fallback position from a fallback position from an evidence-free made-up graph about the magnetic age of the earth. And creationists say the truth is constant... ;)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:36"
+    },
+    {
+      "nodeID": "148026",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:36"
+    },
+    {
+      "nodeID": "148027",
+      "text": "a. 'An application of the present results to the [Milky Way] Galaxy yields one supernova per 26 (\u00b1 10 estimated error) years in very good agreement with the evidence from historical supernovae.' G. A. Tammann, 'On the Frequency of Supernovae as a Function of the Integral Properties of Intermediate and Late Type Spiral Galaxies,' Astronomy and Astrophysics, Vol. 8, October 1970, p. 458.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:36"
+    },
+    {
+      "nodeID": "148028",
+      "text": "Actually, this data point is perfectly meaningless. NONE of the other information (or the conclusions) presented in this talk require '26'. If we made it 260, does it change ANY of the other conclusions? No. A failure to recognize non-sequitur data tidbits is usually indicative of an argument that includes other errors.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:36"
+    },
+    {
+      "nodeID": "148029",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:36"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189092",
+      "fromID": "148022",
+      "toID": "148023",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189093",
+      "fromID": "148023",
+      "toID": "148021",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189094",
+      "fromID": "148025",
+      "toID": "148026",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189095",
+      "fromID": "148026",
+      "toID": "148024",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189096",
+      "fromID": "148028",
+      "toID": "148029",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189097",
+      "fromID": "148029",
+      "toID": "148027",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

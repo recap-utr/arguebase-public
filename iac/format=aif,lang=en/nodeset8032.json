@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151434",
+      "text": "I go further, and affirm that bills of rights, in the sense and in the extent in which they are contended for, are not only unnecessary in the proposed constitution, but would even be dangerous. They would contain various exceptions to powers which are not granted; and on this very account, would afford a colourable pretext to claim more than were granted. For why declare that things shall not be done which there is no power to do? Why for instance, should it be said, that the liberty of the press shall not be restrained, when no power is given by which restrictions may be imposed? I will not contend that such a provision would confer a regulating power; but it is evident that it would furnish, to men disposed to usurp, a plausible pretence for claiming that power.'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:50"
+    },
+    {
+      "nodeID": "151435",
+      "text": "and here in the  Preamble Bill of Rights",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:50"
+    },
+    {
+      "nodeID": "151436",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:14:50"
+    },
+    {
+      "nodeID": "151437",
+      "text": "If they regulated guns that much back then I don't think the founding fathers would disapprove of gun control now especially since modern guns are more powerful.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:50"
+    },
+    {
+      "nodeID": "151438",
+      "text": "I think this is why people like Paul Helmke think that Supreme Court rulings on the constitutionality of gun control laws are win/win situations for his side. He realizes that an individual rights interpretation or a ruling that the states are bound by the Second Amendment could still leave the door open for plenty of gun control.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:50"
+    },
+    {
+      "nodeID": "151439",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:14:50"
+    },
+    {
+      "nodeID": "151440",
+      "text": "More to the point. They are gun haters. They have an agenda, and that agenda is to persecute, I mean rewrite history about the 2nd Amendment.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:50"
+    },
+    {
+      "nodeID": "151441",
+      "text": "Actually, the majority of my first post in this thread came from Robert H. Churchill's article who is an advocate of the individual rights interpretation.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:50"
+    },
+    {
+      "nodeID": "151442",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:14:51"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191498",
+      "fromID": "151435",
+      "toID": "151436",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191499",
+      "fromID": "151436",
+      "toID": "151434",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191500",
+      "fromID": "151438",
+      "toID": "151439",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191501",
+      "fromID": "151439",
+      "toID": "151437",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191502",
+      "fromID": "151441",
+      "toID": "151442",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191503",
+      "fromID": "151442",
+      "toID": "151440",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

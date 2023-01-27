@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "150185",
+      "text": "science carries along with it an invisible affirmation of uncertainty. Crick can claim this as fact, but it should be interpreted as 'so far the evidence supports this, and nothing more'. science only wants to describe observable, natural things.  if you think there is more than what we can observe, why do you have to change science? why can't you just start a new school of thought?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:12:11"
+    },
+    {
+      "nodeID": "150186",
+      "text": "See above with regards to changing science. As for Crick, he's one of your 'strays' ie. someone who strayed into commenting on religion. And, he's not the only one. Dawkins is probably the most prominent.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:12:11"
+    },
+    {
+      "nodeID": "150187",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:12:11"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "190618",
+      "fromID": "150186",
+      "toID": "150187",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190619",
+      "fromID": "150187",
+      "toID": "150185",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

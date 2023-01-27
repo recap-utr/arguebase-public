@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138641",
+      "text": "I agree. These laws limiting magazine capacity are based on stupid assumptions that are based on Hollywood (think drive by Hollywood). The average shooting involves less than 5 rounds fired. So limiting the capacity has no affect on crime.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:30"
+    },
+    {
+      "nodeID": "138642",
+      "text": "Well, I have heard people on the pro-gun side say that most defensive gun uses don't involve firing even one round. So limiting the capacity would probably have less of an effect on the ability to defend yourself than on crime. So why are people from the gun lobby always whining about restrictions like this? When semi-automatic rifles were banned in Australia, hunters welcomed the law. They saw it as a challenge because it takes greater skill to shoot an animal with a bolt action rifle. Not so in America where some gun owners like to use guns that could take down planes to shoot small animals.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:30"
+    },
+    {
+      "nodeID": "138643",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:47:31"
+    },
+    {
+      "nodeID": "138644",
+      "text": "So why are people from the gun lobby always whining about restrictions like this?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:31"
+    },
+    {
+      "nodeID": "138645",
+      "text": "Because you people keep wanting one restriction after another after another after another. Nothing is ever good enough for you, you always want more than ever. Well we don't want to abide by your wishes, gun ownership is a recognized right, and your hatred of rights won't be tolerated. We're not going to just stand by and be painted as the bad guys because you have the mentally disabled belief that banning gun ownership will reduce crime, and anybody who disagrees with you want to see people killed.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:31"
+    },
+    {
+      "nodeID": "138646",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:47:31"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182452",
+      "fromID": "138642",
+      "toID": "138643",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182453",
+      "fromID": "138643",
+      "toID": "138641",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182454",
+      "fromID": "138645",
+      "toID": "138646",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182455",
+      "fromID": "138646",
+      "toID": "138644",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "161162",
+      "text": "Yes, with firearms mostly provided by the French. Praised be the French!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:56"
+    },
+    {
+      "nodeID": "161163",
+      "text": "So what? A lot of guns we own today come from various countries. And don't forget, a lot of the early gun makers in America were German. They gave us the first ever American rifles, capable of killing a redcoat out to 300 yards; three times the effective distance of the Brown Bess musket.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:57"
+    },
+    {
+      "nodeID": "161164",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:36:57"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198404",
+      "fromID": "161163",
+      "toID": "161164",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198405",
+      "fromID": "161164",
+      "toID": "161162",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

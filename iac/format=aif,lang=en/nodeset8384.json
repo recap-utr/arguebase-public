@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "156638",
+      "text": "It's a lot easier to kill someone with a gun than a cigarette or a beer.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:34"
+    },
+    {
+      "nodeID": "156639",
+      "text": "And it's a lot easier to kill people in a crowd when using a car or a truck than with a gun. The entire 'Easier to kill' argument is rather irrelevant, because there's always something that makes it easier to kill somebody with when compared to something else. You've also failed to show why your statement is justification for attempting to ban a legal product. So how about you explain that.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:34"
+    },
+    {
+      "nodeID": "156640",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:26:34"
+    },
+    {
+      "nodeID": "156641",
+      "text": "Some people do also get a pleasureable effect from shooting guns and using them for such purposes as hunting and target practice.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:34"
+    },
+    {
+      "nodeID": "156642",
+      "text": "But the fact remains that guns are, by design, weapons.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:34"
+    },
+    {
+      "nodeID": "156643",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:26:34"
+    },
+    {
+      "nodeID": "156644",
+      "text": "Some people do also get a pleasureable effect from shooting guns and using them for such purposes as hunting and target practice. Of course, that doesn't mean that we can't have gun control laws to minimize the threat that firearms pose to public safety.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:34"
+    },
+    {
+      "nodeID": "156645",
+      "text": "And of course, that doesn't mean that you should be allowed to legislate our right into the ground purely on the excuse of 'public safety'. There's a lot of threats to public safety, but they're fully allowed because they're deemed as vital or necessary. So don't go using the argument in support of gun control and gun bans, because it won't hold water.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:34"
+    },
+    {
+      "nodeID": "156646",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:26:34"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195174",
+      "fromID": "156639",
+      "toID": "156640",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195175",
+      "fromID": "156640",
+      "toID": "156638",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195176",
+      "fromID": "156642",
+      "toID": "156643",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195177",
+      "fromID": "156643",
+      "toID": "156641",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195178",
+      "fromID": "156645",
+      "toID": "156646",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195179",
+      "fromID": "156646",
+      "toID": "156644",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "156784",
+      "text": "While I agree with the law, I don't agree with your reason. By your logic we should just dump all laws as someone is always willing to break them. The reason to me is the great number of people who do it. The society itself has changed. The laws should be changed to reflect that.  Up here in VT, something like 55% of all residents admit to smoking marijuana on a regular basis. It still illegal, but people don't report marijuana usage and cops don't arrest people for it unless they a near a school or have enough to charge them with intent to distribute.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:53"
+    },
+    {
+      "nodeID": "156785",
+      "text": "I think the reason for the law would be that there's no reeason to have the ban in the first place (ok, no GOOD reason).",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:53"
+    },
+    {
+      "nodeID": "156786",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:26:53"
+    },
+    {
+      "nodeID": "156787",
+      "text": "Its not only that people break the law, its that there will be no change in usage when its legal. Therefore making the law useless.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:53"
+    },
+    {
+      "nodeID": "156788",
+      "text": "Oh, I'm betting the usage will go up, if only temporarily when it's legalized. I know several people who would be smoking now if it wasn't illegal.  Employers would likely counter this with more testing of employees and applicants.  Users would probably smoke more often and in more places than they now do. I would become a chain-smoker! LOL",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:53"
+    },
+    {
+      "nodeID": "156789",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:26:53"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195274",
+      "fromID": "156785",
+      "toID": "156786",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195275",
+      "fromID": "156786",
+      "toID": "156784",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195276",
+      "fromID": "156788",
+      "toID": "156789",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195277",
+      "fromID": "156789",
+      "toID": "156787",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

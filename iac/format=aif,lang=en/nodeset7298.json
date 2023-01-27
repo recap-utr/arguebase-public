@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140447",
+      "text": "I've shown this to be true with guppies, mice, lizards, Cichlids, tadpoles, moths, butterflies and salamanders.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:30"
+    },
+    {
+      "nodeID": "140448",
+      "text": "You have 'shown' no such thing to be true. You have asserted, without evidence and without study.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:30"
+    },
+    {
+      "nodeID": "140449",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:51:30"
+    },
+    {
+      "nodeID": "140450",
+      "text": "Biologists now know that individual animals in a population are able to develop specific traits while still in the egg or womb.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:30"
+    },
+    {
+      "nodeID": "140451",
+      "text": "Actually, qualified biologists know no such thing. In fact, I've never known one who would agree with that assertion. Can you give us some peer reviewed references to support your assertion?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:30"
+    },
+    {
+      "nodeID": "140452",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:51:30"
+    },
+    {
+      "nodeID": "140453",
+      "text": "What organsims inherit is not simply genes, but a complex organization called the living state that is capable of generating (reproduction) and regeneration because of intrinsic properties ascribed...to field behavior...What is reproduced in each generation is an entitiy with a potential set of forms out of which emerges a specific morphology as a result of external and internal particulars, among which are included are genes.  The molecular composition of something is not, in general, sufficient to determine its form.  The morphology of organisms cannot be explained by the action of their genes.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:30"
+    },
+    {
+      "nodeID": "140454",
+      "text": "I think this is pointing out that an organism doesn't start as naked DNA, its within a cell that has split off from another organism (possibly developing inside it even) which is being exposed to triggers from the environment. So far this is fitting with your view of evolution. The bit where you seem to get confused is to then think what are the triggers acting on? Is the information that encodes the changes in the environment or within the genes - clearly if you put various organisms into an environment they do not all change the same way. The fish that get larger in the absence of predators are clearly going to react in the opposite way to the predators themselves. The key to the idea here is that they are triggers - things which then cause other things to create the effect we see. Genes are turned on, off or have the amount of expression altered by external effects, Bacteria have whole sets of genes that are generally switched off until the situation triggers them. Does this mean the bacteria have suddenly learned how to produce some essential amino acid, due to the innate property of an amino acid lacking environment, or that the environment has triggered a change in the expression of genes and causing something to happen that wasn't happening before?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:30"
+    },
+    {
+      "nodeID": "140455",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:51:31"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183740",
+      "fromID": "140448",
+      "toID": "140449",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183741",
+      "fromID": "140449",
+      "toID": "140447",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183742",
+      "fromID": "140451",
+      "toID": "140452",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183743",
+      "fromID": "140452",
+      "toID": "140450",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183744",
+      "fromID": "140454",
+      "toID": "140455",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183745",
+      "fromID": "140455",
+      "toID": "140453",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

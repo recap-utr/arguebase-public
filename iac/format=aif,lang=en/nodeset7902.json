@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "149383",
+      "text": "You have to get to square one before square 2. Society needs to come to grips with how it is going to view homosexuality before the law, absent from the philosophical issue is debated. You are getting the cart before the horse, so to speak. In essense, the so-called legal issue needs to be debated at least in the context of many of the above-mentioned things (HIV, health, etc.), better yet after society decides how it will view homosexuality.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:44"
+    },
+    {
+      "nodeID": "149384",
+      "text": "Just like we waited until after society decided how it would view civil rights for blacks? No one is forcing you to debate the constitutional issues. If you don't wish to, fine; don't. I seriously doubt if anyone would miss your input.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:44"
+    },
+    {
+      "nodeID": "149385",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:10:44"
+    },
+    {
+      "nodeID": "149386",
+      "text": "The fact that much of society views this issue differently than the issue of black people only underscores my point. There are lots of people who would and do give full support to civil rights, but not to issues of homosexuality.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:44"
+    },
+    {
+      "nodeID": "149387",
+      "text": "So please, feel free to leave this thread to those who DO wish to discuss the issue. No one is forcing you to discuss the topic of this or any other thread. I notice you evidently are not interested in 'Understanding 'Sexual Prejudice'' That is absolutely fine with me. Or are you now opposed to 'Freedom of Speech' also?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:44"
+    },
+    {
+      "nodeID": "149388",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:10:44"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "190052",
+      "fromID": "149384",
+      "toID": "149385",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190053",
+      "fromID": "149385",
+      "toID": "149383",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190054",
+      "fromID": "149387",
+      "toID": "149388",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190055",
+      "fromID": "149388",
+      "toID": "149386",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

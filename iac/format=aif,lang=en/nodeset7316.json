@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140692",
+      "text": "Isn't a dead person also still human?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:00"
+    },
+    {
+      "nodeID": "140693",
+      "text": "I think the definition of human, in context, would be a person that is alive. Dead does not make them human in this context.  Scientifically, human may mean Homo Sapiens, but there are other methods of defining humans. One of them is their capacity to love and to worship. Worship is not seen in another animal. Some will argue whether or not animals actually love or if it is just a conditioned response to someone providing what is needed. Either way, loving and worship are behaviors and as my psychology prof used to say.......'Dead people don't behave.'",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:00"
+    },
+    {
+      "nodeID": "140694",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:52:00"
+    },
+    {
+      "nodeID": "140695",
+      "text": "Scientifically, human may mean Homo Sapiens, but there are other methods of defining humans. One of them is their capacity to love and to worship. Worship is not seen in another animal. Some will argue whether or not animals actually love or if it is just a conditioned response to someone providing what is needed.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:00"
+    },
+    {
+      "nodeID": "140696",
+      "text": "I believe you have even debated that it is conditioned into humans to be religious and therefore it validates religions. So why is there a need to debate whether animals love if they are acting on a conditioned response?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:00"
+    },
+    {
+      "nodeID": "140697",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:52:00"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183910",
+      "fromID": "140693",
+      "toID": "140694",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183911",
+      "fromID": "140694",
+      "toID": "140692",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183912",
+      "fromID": "140696",
+      "toID": "140697",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183913",
+      "fromID": "140697",
+      "toID": "140695",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

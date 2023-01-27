@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "159427",
+      "text": "When an animal stays with it's parent, it has the distinct advantage of being able to copy it's parents behaviour. When this happens the animal for the first time doesn't need all the information and tools to survive in its genes. It can learn from it's parent. Now for an animal to learn from it's parent it needs not to be scared. It needs to be able to trust and vice versa for the parent... So the offspring that stay with their parent longer learn more, survive better, have more offspring. Now an inevitable consequence of learning from the parent is that the offspring will live with the parent for longer and longer, until at some point the offspring outlive their parent...Hence the birth of religion, appease themselves.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:54"
+    },
+    {
+      "nodeID": "159428",
+      "text": "And when are we to expect the birth of the religion of dogs? and of dolphins? of whales and lions?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:54"
+    },
+    {
+      "nodeID": "159429",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:32:54"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "197168",
+      "fromID": "159428",
+      "toID": "159429",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197169",
+      "fromID": "159429",
+      "toID": "159427",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

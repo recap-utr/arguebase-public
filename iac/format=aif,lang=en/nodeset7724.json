@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "146946",
+      "text": "In fact, the 'Scientific Method' originated from the idea that the Physical Universe operates on rational physical laws because the Creator did it in logical fashion. What did we have b4 that? 'Dragons eating the moon during an eclipse'? Angry gods causing volcanoes to erupt? Apollo racing his fiery chariot across the sky every day?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:14"
+    },
+    {
+      "nodeID": "146947",
+      "text": "And yet now we have returned to a faith-based view of the universe that relies on a Creator acting illogically (read: deliberately fabricating a false version of reality, with (for example) light from the stars sped up in order to reach earth in time) in order to work. I can't help but feel that some of us have moved backwards.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:14"
+    },
+    {
+      "nodeID": "146948",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:05:14"
+    },
+    {
+      "nodeID": "146949",
+      "text": "Creating a people that have 'free will' is a messy business, IMO. We don't do, the things we do to each other, because we were created to do so. We rip babies apart in the womb, for example, because we have to free will to make that choice to do so. I certainly do not blame God for the abortion mills across the USA. God hates the shedding of innocent blood. The problem is not with Him it is with us. Most of us don't even care about what evil happens to others, in fact we just voted for killing babies after they are born. God is long suffering and merciful, but He is also just. So we can expect that judgement will come to our land at some point, can't we.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:14"
+    },
+    {
+      "nodeID": "146950",
+      "text": "Well, I am a philosophical naturalist and materialist. I don't believe the notion of free will. I think it's all a matter of physics and chemistry. Be that as it may, whether I am right or wrong about the notion of free will, the consequences of evolution go beyond free will. They go well beyond what humans call good and evil, however we define those. How about disease, predation, parasitism? Are they the product of an omnibenevolent god? That thought gave Darwin pause. Pain and suffering through natural causes yet through no fault of one's own? How is that a product of a just god? There are aspects to real life -- some call them the problem of evil -- that are hard for Christians to explain, so many try to explain them away by creating the notion of 'the Fall'. Everything was perfect before 'the Fall', and terrible afterwards. But that wasn't the way it was. The lion was never an herbivore. The lamb was never fearless of lions. Pain, suffering and death have always been an integral part of life, and they always will be.Such benevolence. Such justice! And so potent is this toxic religious belief we feel we have to blame outselves for our trials! Or at least, religious believers feel they have to blame themselves. As an atheist, I see the contradiction between reality and Christian faith. That is why I stopped being a Christian. My learning of evolution and these biological facts of life was a major ingredient in that. I accept that there are Christians who also accept evolution as an historical fact. I question whether they have thought either their faith or their science through.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:15"
+    },
+    {
+      "nodeID": "146951",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:05:15"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "188336",
+      "fromID": "146947",
+      "toID": "146948",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188337",
+      "fromID": "146948",
+      "toID": "146946",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188338",
+      "fromID": "146950",
+      "toID": "146951",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188339",
+      "fromID": "146951",
+      "toID": "146949",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

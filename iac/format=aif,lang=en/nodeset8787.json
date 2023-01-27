@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "162617",
+      "text": "An apology would be nice. Also an admission that they were wrong about the blood running through the streets.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:40:35"
+    },
+    {
+      "nodeID": "162618",
+      "text": "Just wait until the CIA starts shipping crack again instead of smack, then the streets will regain their crimson splendor.  Does this mean I can buy DU rounds now?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:40:35"
+    },
+    {
+      "nodeID": "162619",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:40:35"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "199448",
+      "fromID": "162618",
+      "toID": "162619",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199449",
+      "fromID": "162619",
+      "toID": "162617",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151141",
+      "text": "I personally like this one: 'A species are organisms that live together and can breed together, and whose offspring can also breed together.'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:11"
+    },
+    {
+      "nodeID": "151142",
+      "text": "so why do they call polar bears and brown bears different 'species' when they can breed and produce fertile offspring together? Same with different varieties of finches. It seems to me that evos don't at all go on the ability to breed or produce viable offspring, but instead just on mere looks....otherwise, why would they have made such obvious mistakes with the bears and finches, not to mention countless others? I wonder if Big Science would consider black people different 'species' than say Asian people or white people -- they look different, which is their main criteria....so why not? As a creationist, I can very comfortably say that all humans are of the same kind.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:11"
+    },
+    {
+      "nodeID": "151143",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:14:11"
+    },
+    {
+      "nodeID": "151144",
+      "text": "so why do they call polar bears and brown bears different 'species' when they can breed and produce fertile offspring together?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:11"
+    },
+    {
+      "nodeID": "151145",
+      "text": "Because, when each is in its natural habitat, they are reproductively isolated.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:11"
+    },
+    {
+      "nodeID": "151146",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:14:11"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191290",
+      "fromID": "151142",
+      "toID": "151143",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191291",
+      "fromID": "151143",
+      "toID": "151141",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191292",
+      "fromID": "151145",
+      "toID": "151146",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191293",
+      "fromID": "151146",
+      "toID": "151144",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

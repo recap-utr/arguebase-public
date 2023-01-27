@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141515",
+      "text": "Will the real issues in this campaign please stand up? Instead of these contrived, made-up issues put out by a rightwing magazine.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:51"
+    },
+    {
+      "nodeID": "141516",
+      "text": "If he lies about being pro-life, what else will he be willing to lie about in order to be elected? That is a legitimate, not-made-up issue that is relevant to elections.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:51"
+    },
+    {
+      "nodeID": "141517",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:53:51"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184498",
+      "fromID": "141516",
+      "toID": "141517",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184499",
+      "fromID": "141517",
+      "toID": "141515",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

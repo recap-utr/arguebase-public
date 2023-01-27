@@ -1,0 +1,163 @@
+{
+  "nodes": [
+    {
+      "nodeID": "200873",
+      "text": "Theingloriousak2 : 10 hours a week can pay for a college tuition",
+      "type": "L",
+      "timestamp": "2016-09-21 11:57:05"
+    },
+    {
+      "nodeID": "200875",
+      "text": "10 hours a week cannot pay for a college tuition",
+      "type": "I",
+      "timestamp": "2016-09-21 11:57:05"
+    },
+    {
+      "nodeID": "200898",
+      "text": "HeilHilter : she is so removed from reality",
+      "type": "L",
+      "timestamp": "2016-09-21 11:57:07"
+    },
+    {
+      "nodeID": "200900",
+      "text": "Clinton is so removed from reality",
+      "type": "I",
+      "timestamp": "2016-09-21 11:57:07"
+    },
+    {
+      "nodeID": "249339",
+      "text": "CLINTON : yes, I would like students to work 10 hours a week",
+      "type": "L",
+      "timestamp": "2016-12-21 14:48:25"
+    },
+    {
+      "nodeID": "249341",
+      "text": "CLINTON would like students to work 10 hours a week",
+      "type": "I",
+      "timestamp": "2016-12-21 14:48:25"
+    },
+    {
+      "nodeID": "263861",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-07 20:45:32",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "263862",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-07 20:45:33",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "263863",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-07 20:45:33",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "263864",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-07 20:45:34",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "263865",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-07 20:45:34",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "263866",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-07 20:45:35",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "318906",
+      "fromID": "249339",
+      "toID": "263861",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318907",
+      "fromID": "263861",
+      "toID": "200873",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318908",
+      "fromID": "200875",
+      "toID": "263862",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318909",
+      "fromID": "263862",
+      "toID": "249341",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318910",
+      "fromID": "263861",
+      "toID": "263863",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318911",
+      "fromID": "263863",
+      "toID": "263862",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318912",
+      "fromID": "249339",
+      "toID": "263864",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318913",
+      "fromID": "263864",
+      "toID": "200898",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318914",
+      "fromID": "200900",
+      "toID": "263865",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318915",
+      "fromID": "263865",
+      "toID": "249341",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318916",
+      "fromID": "263864",
+      "toID": "263866",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318917",
+      "fromID": "263866",
+      "toID": "263865",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

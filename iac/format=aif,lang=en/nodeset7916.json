@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "149860",
+      "text": "if there is no evidence that adam and eve or eden ever existed, did man really ever commit a sin that caused all of mankind to be fallen?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:32"
+    },
+    {
+      "nodeID": "149861",
+      "text": "Yes. The better question is, did it happen just like in Genises? I don't think so.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:32"
+    },
+    {
+      "nodeID": "149862",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:11:32"
+    },
+    {
+      "nodeID": "149863",
+      "text": "carefully think about this statement. christianity is based upon the essential beliefs that: 1. God is all-powerful 2. man is fallen and in need of redemption",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:32"
+    },
+    {
+      "nodeID": "149864",
+      "text": "Well, there is a little more to it than that, but agreed.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:32"
+    },
+    {
+      "nodeID": "149865",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:11:32"
+    },
+    {
+      "nodeID": "149866",
+      "text": "I appreciate that you said that because you are one of the few Creationits who realize that nothing the bible says is completely proven and a fact... it's not the infallible word of God... it's a book my humans and that IS a fact... And the examples you gave (Tower, Noah) only state that... I really like your opinion and really appreciate that...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:32"
+    },
+    {
+      "nodeID": "149867",
+      "text": "i think shortej is not a creationist. he/she never said so, and started off by saying he/she accepts evolution and maintains her catholic beliefs. (i have a hunch its 'she')",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:32"
+    },
+    {
+      "nodeID": "149868",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:11:32"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "190390",
+      "fromID": "149861",
+      "toID": "149862",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190391",
+      "fromID": "149862",
+      "toID": "149860",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190392",
+      "fromID": "149864",
+      "toID": "149865",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190393",
+      "fromID": "149865",
+      "toID": "149863",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190394",
+      "fromID": "149867",
+      "toID": "149868",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190395",
+      "fromID": "149868",
+      "toID": "149866",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

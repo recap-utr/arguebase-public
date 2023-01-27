@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143973",
+      "text": "On the subject of analogies for genetic information, would 'computer language' (code) be a better analogy? Indeed mutation and evolution *could* be shown with computer viruses. Of course this would require some familiarity with computer code. http://en.wikipedia.org/wiki/Programming_language",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:18"
+    },
+    {
+      "nodeID": "143974",
+      "text": "It would be 'an' analogy, but like the language analogy, it has its limitations. It is interesting to note that creationist computer software developers/programmers cannot seem to agree on the implications of 'mutations' when using such analogies - one such person, C.K. Lester, declared that computer programs can accumulate up to 30% 'random change', just like DNA (hypothetically) can, therefore, the computer analogy is a good one. But programmer R. David Pogge declares that even a single altered bit in a line of computer code a million bits in length would destroy it.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:18"
+    },
+    {
+      "nodeID": "143975",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:59:18"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186244",
+      "fromID": "143974",
+      "toID": "143975",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186245",
+      "fromID": "143975",
+      "toID": "143973",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

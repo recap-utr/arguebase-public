@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "161479",
+      "text": "Have you ever read Darwin?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:40"
+    },
+    {
+      "nodeID": "161480",
+      "text": "Yes, have you?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:40"
+    },
+    {
+      "nodeID": "161481",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:37:41"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198636",
+      "fromID": "161480",
+      "toID": "161481",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198637",
+      "fromID": "161481",
+      "toID": "161479",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

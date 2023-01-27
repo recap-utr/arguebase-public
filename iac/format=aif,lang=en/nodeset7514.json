@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143432",
+      "text": "Also, in what way would measuring a decline in field strength over 150 years have to do with its presence for billions of years? Anyone care to explain it to me?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:05"
+    },
+    {
+      "nodeID": "143433",
+      "text": "I could imagine someone plotting the data, making a straight line fit, then extrapolating back 5000 and 4 billion years, then waving their hands significantly, as if the graph proved something.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:05"
+    },
+    {
+      "nodeID": "143434",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:58:05"
+    },
+    {
+      "nodeID": "143435",
+      "text": "I laughed so hard when I read that Kronus. Unfortunately, its funny because its true.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:05"
+    },
+    {
+      "nodeID": "143436",
+      "text": "Oh boy, you said it! Is the Earth's Magnetic Field Young?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:05"
+    },
+    {
+      "nodeID": "143437",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:58:05"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185860",
+      "fromID": "143433",
+      "toID": "143434",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185861",
+      "fromID": "143434",
+      "toID": "143432",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185862",
+      "fromID": "143436",
+      "toID": "143437",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185863",
+      "fromID": "143437",
+      "toID": "143435",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

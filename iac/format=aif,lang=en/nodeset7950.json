@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "150401",
+      "text": "I got a copy of this in my inbox (a opy of the brief that was filed) and it really is bizzare. The brief literally makes an individualist, strict scrutiny argument (which means it is a fundamental right since only fundamental rights are subject to the strict scrutiny doctrine) then immediatly turns around and basically says 'Except in cases where the government wants to do somethign, then we apply intermediate scrutiny and it is not fundamental'. Bizzare.  Good to see you back, JP. I jsut saw a post from George. Are we all getting a little bored????",
+      "type": "I",
+      "timestamp": "2016-03-08 20:12:36"
+    },
+    {
+      "nodeID": "150402",
+      "text": "Actually, I've been posting more than ever...just not here. This place has become gay central and it bored me. I posted the above because I knew it was a topic near and dear to both of our hearts. emoticon_xkill emoticon_xgood",
+      "type": "I",
+      "timestamp": "2016-03-08 20:12:36"
+    },
+    {
+      "nodeID": "150403",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:12:36"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "190770",
+      "fromID": "150402",
+      "toID": "150403",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190771",
+      "fromID": "150403",
+      "toID": "150401",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

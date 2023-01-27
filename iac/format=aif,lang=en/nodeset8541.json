@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "158904",
+      "text": "Erm.... You're saying that people don't try to harm one another over those things? I suggest you surf youtube for a bit. Rememeber however, that kids are more emotionally unstable than adults. Hormones and guns aren't a good combination.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:45"
+    },
+    {
+      "nodeID": "158905",
+      "text": "So you're saying that the ones who're eligible to carry a gun, those who're 21 or older, never been convicted of a crime, undergo fingerprinting, pay hundreds of dollars, attend an eight hour course held by the police, pass a firearms safety class, and weight three months to finally get their permit, would intentionally use it as an excuse to murder a teacher over a trivial matter like an unfavorable grade? Wouldn't it just be easier, as well as more likely, for an emotionally disturbed student to just illegally bring a gun to school and kill their teacher, rather than waiting for a legal alternative to commit murder and go to prison anyway?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:45"
+    },
+    {
+      "nodeID": "158906",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:31:45"
+    },
+    {
+      "nodeID": "158907",
+      "text": "So you're saying that the ones who're eligible to carry a gun, those who're 21 or older, never been convicted of a crime, undergo fingerprinting, pay hundreds of dollars, attend an eight hour course held by the police, pass a firearms safety class, and weight three months to finally get their permit, would intentionally use it as an excuse to murder a teacher over a trivial matter like an unfavorable grade?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:45"
+    },
+    {
+      "nodeID": "158908",
+      "text": "No. I never mentioned grades. You brought that one up. I'm saying that having guns on school campus isn't a good plan due to the high level of emotions in the area.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:45"
+    },
+    {
+      "nodeID": "158909",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:31:45"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196790",
+      "fromID": "158905",
+      "toID": "158906",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196791",
+      "fromID": "158906",
+      "toID": "158904",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196792",
+      "fromID": "158908",
+      "toID": "158909",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196793",
+      "fromID": "158909",
+      "toID": "158907",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

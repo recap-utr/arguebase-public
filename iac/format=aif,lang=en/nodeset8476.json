@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157902",
+      "text": "He is clueless: CLUELESS: THE MISUSE OF BATF FIREARMS TRACING DATA",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:27"
+    },
+    {
+      "nodeID": "157903",
+      "text": "Well I guess Nato basically::p summed it up:Stupid is as stupid doe's.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:27"
+    },
+    {
+      "nodeID": "157904",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:29:27"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196066",
+      "fromID": "157903",
+      "toID": "157904",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196067",
+      "fromID": "157904",
+      "toID": "157902",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "145506",
+      "text": "We have coyotes just outside the yard almost every night. Solo to packs of 10 or more. The males go about 40lbs or thereabouts. The females are used as bait to lure dogs.  Dangerous predators? For dogs and cats maybe. The dingo ate my baby?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:27"
+    },
+    {
+      "nodeID": "145507",
+      "text": "No need to read any farther, the expert has spoken from his small shell of ignorance: coyote attacks in california - Google Search He doesn't mind if they eat kids and their pets or someone else. He can outrun almost any child.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:27"
+    },
+    {
+      "nodeID": "145508",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:02:27"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187322",
+      "fromID": "145507",
+      "toID": "145508",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187323",
+      "fromID": "145508",
+      "toID": "145506",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

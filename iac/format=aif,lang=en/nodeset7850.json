@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148709",
+      "text": "is it hard to imagine similar eyes, but are less complex on a more basic level?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:08"
+    },
+    {
+      "nodeID": "148710",
+      "text": "Yes, if the intermediate stages don't work.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:08"
+    },
+    {
+      "nodeID": "148711",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:09:08"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189570",
+      "fromID": "148710",
+      "toID": "148711",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189571",
+      "fromID": "148711",
+      "toID": "148709",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

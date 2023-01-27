@@ -1,0 +1,244 @@
+{
+  "nodes": [
+    {
+      "nodeID": "212795",
+      "text": "roberttylerlee : Consistently, he talks about \"repeal and replace.\" The last two words are often left out",
+      "type": "L",
+      "timestamp": "2016-10-31 17:19:45"
+    },
+    {
+      "nodeID": "212797",
+      "text": "Consistently, RUBIO talks about \"repeal and replace.\" The last two words are often left out",
+      "type": "I",
+      "timestamp": "2016-10-31 17:19:45"
+    },
+    {
+      "nodeID": "212834",
+      "text": "orionus : I'd be absolutely fine with hearing that argument if we ever get concrete ideas about what \"replacing\" would look like",
+      "type": "L",
+      "timestamp": "2016-10-31 17:19:49"
+    },
+    {
+      "nodeID": "212836",
+      "text": "I'd be absolutely fine with hearing that argument if we ever get concrete ideas about what \"replacing\" would look like",
+      "type": "I",
+      "timestamp": "2016-10-31 17:19:49"
+    },
+    {
+      "nodeID": "212848",
+      "text": "nomdebombe : Conservatives also never have a good answer for what that 'replace' is",
+      "type": "L",
+      "timestamp": "2016-10-31 17:19:50"
+    },
+    {
+      "nodeID": "212850",
+      "text": "Conservatives also never have a good answer for what that 'replace' is",
+      "type": "I",
+      "timestamp": "2016-10-31 17:19:50"
+    },
+    {
+      "nodeID": "221690",
+      "text": "we need to repeal and replace Obamacare",
+      "type": "I",
+      "timestamp": "2016-11-01 15:06:59"
+    },
+    {
+      "nodeID": "221693",
+      "text": "RUBIO : We need to repeal and replace Obamacare",
+      "type": "L",
+      "timestamp": "2016-11-01 15:06:59"
+    },
+    {
+      "nodeID": "264384",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 12:47:08",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264385",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-09 12:47:09",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "264386",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-09 12:47:09",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "264387",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 12:47:10",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264388",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-09 12:47:10",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "264389",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-09 12:47:11",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "264390",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 12:47:11",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264391",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-09 12:47:12",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "264392",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-09 12:47:12",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "319842",
+      "fromID": "221693",
+      "toID": "264384",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319843",
+      "fromID": "264384",
+      "toID": "212795",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319844",
+      "fromID": "212797",
+      "toID": "264385",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319845",
+      "fromID": "264385",
+      "toID": "221690",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319846",
+      "fromID": "264384",
+      "toID": "264386",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319847",
+      "fromID": "264386",
+      "toID": "264385",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319848",
+      "fromID": "221693",
+      "toID": "264387",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319849",
+      "fromID": "264387",
+      "toID": "212834",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319850",
+      "fromID": "212836",
+      "toID": "264388",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319851",
+      "fromID": "264388",
+      "toID": "221690",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319852",
+      "fromID": "264387",
+      "toID": "264389",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319853",
+      "fromID": "264389",
+      "toID": "264388",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319854",
+      "fromID": "221693",
+      "toID": "264390",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319855",
+      "fromID": "264390",
+      "toID": "212848",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319856",
+      "fromID": "212850",
+      "toID": "264391",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319857",
+      "fromID": "264391",
+      "toID": "221690",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319858",
+      "fromID": "264390",
+      "toID": "264392",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319859",
+      "fromID": "264392",
+      "toID": "264391",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "221693",
+      "personID": "2411",
+      "timestamp": "2016-11-01 15:08:10",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

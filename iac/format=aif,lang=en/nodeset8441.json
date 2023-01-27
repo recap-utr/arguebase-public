@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157432",
+      "text": "Dont know if I really buy into this or not, but it makes for some interesting reading:  the origins of gun control http://www.lizmichael.com/racistgc.htm the racist root of gun control http://www.law.ukans.edu/jrnl/cramer.htm",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:22"
+    },
+    {
+      "nodeID": "157433",
+      "text": "Well, there's also the theory that the second amendment has racist origins. According to the VPC, the second amendment was written because they felt that an armed militia was an important protection against the possibility of a slave revolt. http://www.vpc.org/fact_sht/hidhist.htm",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:23"
+    },
+    {
+      "nodeID": "157434",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:28:23"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195732",
+      "fromID": "157433",
+      "toID": "157434",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195733",
+      "fromID": "157434",
+      "toID": "157432",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

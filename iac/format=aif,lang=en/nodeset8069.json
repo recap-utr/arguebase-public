@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152088",
+      "text": "Hi, I'm new here, and I'd like to know a few educated opinions of people on this board. Regarding the Child Custody Protection Act, I'd like to just ask...'Why would someone actually oppose this?' Many in the opposition have said that it infringes on Women's Rights, yet isn't it a mother's right to know what their daughter is doing? Furthermore, Parents are generally in charge of their children until they reach the age of 18, so would someone mind telling me why the opposition is disrespecting parental authority? .....I have suddenly found pro-choice as highly irrational.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:11"
+    },
+    {
+      "nodeID": "152089",
+      "text": "well, it is irrational if you believe that human life is a good thing. Some people tend to think that it is ok to degrade people because it 1) makes economic sense 2) cuts down on the population 3) makes THEIR life easier. However, when you degrade people you make society worse off...so I really don't see a point. :) Nice to see you here by the way.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:11"
+    },
+    {
+      "nodeID": "152090",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:16:11"
+    },
+    {
+      "nodeID": "152091",
+      "text": "Thanks, though I got my information off Newsbank (a very reliable source), The direct bill was much better :)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:11"
+    },
+    {
+      "nodeID": "152092",
+      "text": "Yes they are. Original source documents are much better for debating the bill then secondary sources, but it requires more effort and alot more energy. Personally, I haven't a clue as to what the bill is, but the more original documents the better.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:11"
+    },
+    {
+      "nodeID": "152093",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:16:12"
+    },
+    {
+      "nodeID": "152094",
+      "text": "Basically what Sigma said.  The devil is always in the details and the Child Custody Protection Act seems to assume that all parents are good parents when unfortunately there are plently of ****-poor parents out there. It fallaciously assumes homogeneity in the use of parental authority.  The problem is letting the good parents get on with raising their children while preventing the bad parents from further screwing up their childrens' lives. Protecting both parental authority for those capable of handling it and the children who may be victims of its abuse is not something that the CCPA seems to do well enough.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:12"
+    },
+    {
+      "nodeID": "152095",
+      "text": "And there you have hit the nail on the head; there are both good and P-poor parents out there. Each case should be taken on its own merits; it's dam tough to make one rule fit all. Impossible, actually.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:12"
+    },
+    {
+      "nodeID": "152096",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:16:12"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191960",
+      "fromID": "152089",
+      "toID": "152090",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191961",
+      "fromID": "152090",
+      "toID": "152088",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191962",
+      "fromID": "152092",
+      "toID": "152093",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191963",
+      "fromID": "152093",
+      "toID": "152091",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191964",
+      "fromID": "152095",
+      "toID": "152096",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191965",
+      "fromID": "152096",
+      "toID": "152094",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

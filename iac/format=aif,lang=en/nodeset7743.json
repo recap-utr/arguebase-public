@@ -1,0 +1,187 @@
+{
+  "nodes": [
+    {
+      "nodeID": "147232",
+      "text": "If a particular animal had a beneficial mutation, it may not necessarily be able to breed to pass that on... it might have the ability to digest a new type of food, but it may be too small to compete against a larger male.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:50"
+    },
+    {
+      "nodeID": "147233",
+      "text": "I see. You are claiming that this is the case with every single beneficial mutation in every species through all time? If that is not what you are saying, then what is your point? Suppose what you say is true half the time. Then the gene gets passed on half the time. And what if the mutation occurs in the larger male?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:50"
+    },
+    {
+      "nodeID": "147234",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:05:50"
+    },
+    {
+      "nodeID": "147235",
+      "text": "It seemed logical to me once, the idea of macro-evolution. Let us suppose we have a species called 'X'. If over a period of time the population became split by distance, we could call them 'X-1' and 'X-2'. Again, over a period of time, changes may have happened in one group, through mutations, so that 'X-1' may have changed so much that if the two populations were ever re-united, they'd be unable to inter-breed... thus they'd be two distinct species. Evolutionaries call this Sympatric Speciation.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:50"
+    },
+    {
+      "nodeID": "147236",
+      "text": "Actually, mutations accumulate in both populations.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:50"
+    },
+    {
+      "nodeID": "147237",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:05:50"
+    },
+    {
+      "nodeID": "147238",
+      "text": "If you have two large male deer butting heads against each other, you might think... the strongest will win, and pass on his genes. However, sometimes the deer's horns inter-lock and if they can't separate they die. So, a cowardly weak deer that stood by on the side-lines would be able to mate. Survival of the cowardly and weak comes into play.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:50"
+    },
+    {
+      "nodeID": "147239",
+      "text": "Well, since you used the word 'sometimes' I assume you realize that this isn't the case all the time. Sometimes the stronger deer actually does win. So what is your point?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:50"
+    },
+    {
+      "nodeID": "147240",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:05:50"
+    },
+    {
+      "nodeID": "147241",
+      "text": "Of those that are beneficial, the chance of actually being passed on is minimal considering the animal bearing that mutation has to actually be the biggest strongest animal to pass on its genes - unless it is lucky.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:50"
+    },
+    {
+      "nodeID": "147242",
+      "text": "No it doesn't. That's why Darwin objected to the use of that phrase in reference to his theory. Those who don't bother to learn the theory tend to misunderstand. Fittness is not a reference to big and strong. It makes it too easy to misrepresent evolutionary theory. I'll state it again since you seem to have missed or ignored it the first time. Natural selection is differential reproductive success. Those organisms that are well adapted to their environment tend to survive to reproduce in greater numbers, and therefore they tend to leave more offspring, than those organisms that are less well adapted. You've got to be a pretty shallow thinker to equate an environmental advantage with big and strong.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:50"
+    },
+    {
+      "nodeID": "147243",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:05:50"
+    },
+    {
+      "nodeID": "147244",
+      "text": "I've seen some debate over the rate of mutations and it seems difficult on that basis alone for there to be enough beneficial mutations to arise. This makes the chances of passing on any benefit almost impossible.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:50"
+    },
+    {
+      "nodeID": "147245",
+      "text": "No it doesn't. Because you limit beneficial mutations to a single individual who must, in your eyes, be the biggest and strongest or it won't be passed on. Wouldn't it be better to actually learn what you are talking about? Still waiting for your support of creationism. I just know you have examined the evidence for your position with at least as much intensity. I'm beginning to think that you don't have evidence and you don't have a theory.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:50"
+    },
+    {
+      "nodeID": "147246",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:05:50"
+    },
+    {
+      "nodeID": "147247",
+      "text": "No one has tried to factor these things into any calculations.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:50"
+    },
+    {
+      "nodeID": "147248",
+      "text": "Really? Have you ever heard of population genetics? Do you know what Hardy-Weinberg equilibrium is? Do you actually think that you are so bright that you have insight that generations of biologists and mathematicians don't. Population genetics is exactly the calculations of how mutatiions spread through populations.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:51"
+    },
+    {
+      "nodeID": "147249",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:05:51"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "188536",
+      "fromID": "147233",
+      "toID": "147234",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188537",
+      "fromID": "147234",
+      "toID": "147232",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188538",
+      "fromID": "147236",
+      "toID": "147237",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188539",
+      "fromID": "147237",
+      "toID": "147235",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188540",
+      "fromID": "147239",
+      "toID": "147240",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188541",
+      "fromID": "147240",
+      "toID": "147238",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188542",
+      "fromID": "147242",
+      "toID": "147243",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188543",
+      "fromID": "147243",
+      "toID": "147241",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188544",
+      "fromID": "147245",
+      "toID": "147246",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188545",
+      "fromID": "147246",
+      "toID": "147244",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188546",
+      "fromID": "147248",
+      "toID": "147249",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188547",
+      "fromID": "147249",
+      "toID": "147247",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "154244",
+      "text": "'The language approved by Congress explicitly states that law enforcement officials are to be given full access to firearm trace data.'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:09"
+    },
+    {
+      "nodeID": "154245",
+      "text": "So it is claimed.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:09"
+    },
+    {
+      "nodeID": "154246",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:21:09"
+    },
+    {
+      "nodeID": "154247",
+      "text": "And rightfully so. I'll prove it with the exact legislation.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:09"
+    },
+    {
+      "nodeID": "154248",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:21:09"
+    },
+    {
+      "nodeID": "154249",
+      "text": "LOL, you mean it honors the privacy rights of gun traffickers and those with illegally obtained firearms.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:09"
+    },
+    {
+      "nodeID": "154250",
+      "text": "Well then this is what you need to do, Galileo. Your task is to prove beyond any shadow of doubt, that the firearms trace data is related exclusively to criminal transactions, and has nothing to do with legal transactions between legal parties.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:10"
+    },
+    {
+      "nodeID": "154251",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:21:10"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193478",
+      "fromID": "154245",
+      "toID": "154246",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193479",
+      "fromID": "154246",
+      "toID": "154244",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193480",
+      "fromID": "154247",
+      "toID": "154248",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193481",
+      "fromID": "154248",
+      "toID": "154245",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193482",
+      "fromID": "154250",
+      "toID": "154251",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193483",
+      "fromID": "154251",
+      "toID": "154249",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

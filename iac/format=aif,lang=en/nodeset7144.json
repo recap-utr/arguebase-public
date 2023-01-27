@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138500",
+      "text": "The mentally disabled are not able to drive. They depend on level-headed, indiscriminate folks like you and I to do that...and most everything else for that matter. Don't forget who depends on whom. I wonder what that wonder was? Hmmm...",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:11"
+    },
+    {
+      "nodeID": "138501",
+      "text": "Well, it depends on your definition of retarded I guess. The standards to get a drivers license are really not that high. Think of how dumb the average person is, and realize that 50% of people are dumber than that. Kinda makes you cringe.  And you wonder what has prevented me from being in an accident? Well, perhaps the fact that I am a concientious, defensive, and skilled driver who excercises caution while on the road. Maybe next time someone pulls out in front of me, I should just throw my hands in the air and scream 'take the wheel jesus!' I am sure some magical being will fly down from heaven and save me from crashing. Yeah...sure.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:11"
+    },
+    {
+      "nodeID": "138502",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:47:11"
+    },
+    {
+      "nodeID": "138503",
+      "text": "In reality, those who are 'retarded' can do nothing 'normal', including drive, eat, use the restroom, etc., without assistance. To call someone 'retarded', that's not, is common, but shows lack of character. You evidently have no loved ones that are mentally disabled. It's a low blow, IMO. I know there's an explanation for everything, that's why God isn't praised as much as He should be. I tend to thank Him for all things. It's a habit of mine. I just thought that I'd throw in my 2 cents worth. No harm intended.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:11"
+    },
+    {
+      "nodeID": "138504",
+      "text": "Oh, ok, I can be politically correct if it makes you feel better. How about I refer to them as 'intelligence deficient'. And I was really not referring to bona fide 'retarded' individuals (those with true pathology). I agree that there is nothing funny about that. How about I refer to them as people who drive like XXXXXX...Is that better?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:11"
+    },
+    {
+      "nodeID": "138505",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:47:11"
+    },
+    {
+      "nodeID": "138506",
+      "text": "Curtis Sliwa will tell you he is the chief Guardian Angel. I've been in quite a number of situations where I believe a guardian angel or the hand of God kept me from serious harm. Maybe He has a plan for me and I haven't gotten there yet.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:11"
+    },
+    {
+      "nodeID": "138507",
+      "text": "Well you better hurry up. Aren't you like 113 years old or something? :)",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:11"
+    },
+    {
+      "nodeID": "138508",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:47:11"
+    },
+    {
+      "nodeID": "138509",
+      "text": "And you wonder what has prevented me from being in an accident? Well, perhaps the fact that I am a concientious, defensive, and skilled driver who excercises caution while on the road. Maybe next time someone pulls out in front of me, I should just throw my hands in the air and scream 'take the wheel jesus!' I am sure some magical being will fly down from heaven and save me from crashing. Yeah...sure.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:12"
+    },
+    {
+      "nodeID": "138510",
+      "text": "I know there&#8217;s an explanation for everything, that&#8217;s why God isn&#8217;t praised as much as He should be. I tend to thank Him for all things. It&#8217;s a habit of mine. I just thought that I&#8217;d throw in my 2 cents worth. No harm intended.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:12"
+    },
+    {
+      "nodeID": "138511",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:47:12"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182352",
+      "fromID": "138501",
+      "toID": "138502",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182353",
+      "fromID": "138502",
+      "toID": "138500",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182354",
+      "fromID": "138504",
+      "toID": "138505",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182355",
+      "fromID": "138505",
+      "toID": "138503",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182356",
+      "fromID": "138507",
+      "toID": "138508",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182357",
+      "fromID": "138508",
+      "toID": "138506",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182358",
+      "fromID": "138510",
+      "toID": "138511",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182359",
+      "fromID": "138511",
+      "toID": "138509",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

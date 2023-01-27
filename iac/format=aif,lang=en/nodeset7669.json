@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "146058",
+      "text": "The argument that child labour is necessary in some economies is a strawman, it was used when the unions here forced the changes in working conditions through.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:26"
+    },
+    {
+      "nodeID": "146059",
+      "text": "Unions fought to keep children out of work for the same reason they fought to keep blacks and women out of work - they want a monopoly on employment.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:26"
+    },
+    {
+      "nodeID": "146060",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:03:26"
+    },
+    {
+      "nodeID": "146061",
+      "text": "I wouldn't like to credit an economy-wide change with benevolence. Were it a sacrifice avoid employing children, children-employers would have a competitive advantage. Yet they virtually died out in every developed market before any law was passed.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:26"
+    },
+    {
+      "nodeID": "146062",
+      "text": "Source? Children were regularly employed in the UK well into the 19th Century, and laws restricting child labour were passed as early as 1802.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:27"
+    },
+    {
+      "nodeID": "146063",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:03:27"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187704",
+      "fromID": "146059",
+      "toID": "146060",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187705",
+      "fromID": "146060",
+      "toID": "146058",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187706",
+      "fromID": "146062",
+      "toID": "146063",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187707",
+      "fromID": "146063",
+      "toID": "146061",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

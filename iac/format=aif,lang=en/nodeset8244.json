@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "154420",
+      "text": "Did they finish up the feeder?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:37"
+    },
+    {
+      "nodeID": "154421",
+      "text": "Yes. If this feeder is full, it lasts about a day and 1/2. I've gone through about 6 qts of hummingbird food since Aug 10.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:37"
+    },
+    {
+      "nodeID": "154422",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:21:37"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193600",
+      "fromID": "154421",
+      "toID": "154422",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193601",
+      "fromID": "154422",
+      "toID": "154420",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "144989",
+      "text": "I do not see any problem with the Jehova's or any other's idea of a scriptural account. Once the debate has begun, I will not make another post until the end. One week sounds reasonable - you might want to post within a shorter gap later on, but that will be up to the person posting. You should both be able to post in your own time. A week is sufficient, I should think. I recommend that no limit be placed on posts, but that it is recommended that posts stay generally smaller. It's far more challenging to be succint than to write gallons. One more tip: it's a good idea to, in your first posts, include definition so that terms might be clarified, and it avoids later, unecessary hassle.  If we just wait for Hank's clarification on those few points, then we can then begin!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:15"
+    },
+    {
+      "nodeID": "144990",
+      "text": "I know this would be somewhat of a drain on your time but I think it would be helpful if you would make a short post at the end of each post stating how much time the next poster has, what post number this is, how many are left, any comments concerning going outside the rules, etc.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:15"
+    },
+    {
+      "nodeID": "144991",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:01:15"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186960",
+      "fromID": "144990",
+      "toID": "144991",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186961",
+      "fromID": "144991",
+      "toID": "144989",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

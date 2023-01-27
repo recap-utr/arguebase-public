@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "156103",
+      "text": "You telling me that one day I could have claws come out of my hands?........SWEET!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:19"
+    },
+    {
+      "nodeID": "156104",
+      "text": "Just so we're all clear...Wolverine's mutant power was the ability to regenerate. The claws had nothing to do with his power but because of his power, he could automatically heal after retracting the claws.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:19"
+    },
+    {
+      "nodeID": "156105",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:25:19"
+    },
+    {
+      "nodeID": "156106",
+      "text": "Well, thanks for clearing that up King of the Geeks ;)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:19"
+    },
+    {
+      "nodeID": "156107",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:25:19"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194796",
+      "fromID": "156104",
+      "toID": "156105",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194797",
+      "fromID": "156105",
+      "toID": "156103",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194798",
+      "fromID": "156106",
+      "toID": "156107",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194799",
+      "fromID": "156107",
+      "toID": "156104",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

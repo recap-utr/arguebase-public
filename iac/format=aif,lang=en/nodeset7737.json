@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "147172",
+      "text": "One item that shoud be mentioned is that this expidition set out in this area specifically to find the transitional form between land and water creatures. They went looking in this area because that had the right geology, with the rocks the right age. They found what they had predicted they would find.. and what they specificlaly were looking for.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:41"
+    },
+    {
+      "nodeID": "147173",
+      "text": "I think that is the most interesting part. This wasn't just a lucky find. This demonstrate the power of theory, that it is predictive. Based on a prior theoretically understanding, they hypothesized that the creature would be where it was. As the hypothesis proved correct, this further adds to the validity of the original theory.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:41"
+    },
+    {
+      "nodeID": "147174",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:05:41"
+    },
+    {
+      "nodeID": "147175",
+      "text": "Walking-fish: What I'd like to know is where this specimen fits in with the following lineage: Eusthenopteron -< Panderichthyes -< Acanthostega -< Ichthyostega. Can anyone elaborate on this?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:41"
+    },
+    {
+      "nodeID": "147176",
+      "text": "Well, here is the article from the BBC yesterday. That article puts it here. Eusthenopteron -< Panderichthyes -< Tiktaalik -< Acanthostega -< Ichthyostega There are other examples of transitionals in the gap where they have placed Tiktaalik. From the age (383 million years), it would have fit in to the sequence like this. Panderichthyes -< Tiktaalik -< Elginerpeton -< Ventastega -< Metaxygnathus -< Acanthostega -< Ichthyostega Of course I do not mean to imply that any of these is ancestral to any other. Venastega, for example, is more primative in form that Acanthostega, and something like Venastega would be expected in the transitional sequence. However, it was almost contemproaneous with Acanthostega. And I'm not sure where to put Pederpes finneyae. It is apparently not as old as Tiktaalik. It would also date to the same period between Panderichthys and Acanthostega known as Romer's Gap. Per Ahlberg posted a 'hint' about Tiktaalik on the IIDB evolution board on March 30. Two articles and a News & Views piece by Per and Jenny Clack were published in Nature today. NEWS There are pictures in Nature",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:41"
+    },
+    {
+      "nodeID": "147177",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:05:41"
+    },
+    {
+      "nodeID": "147178",
+      "text": "I'm going to play devil's advocate for a moment. Suppose this expedition had set out and hadn't found the transitional fossil. Would we accept this as falsification of the hypothesis on which the prediction was based? I suspect not, as we know that fossilisation (in the first instance) and the uncovering of said fossils (in the second) are contingent, not necessary, events. By Popperian criteria, if we would not accept a nil result as falsification, we cannot trumpet a positive result as validation.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:41"
+    },
+    {
+      "nodeID": "147179",
+      "text": "I think reason why the 'hypothesis validated' card has been played here is because: 1. The time window for the expected transitional form is about ~20 ma, a narrow window by geological timeframes. Given this the researchers examined the stratigraphic column to select locatities where the rocks were of the corresponding age and selected sites accordingly. 2. Tiktaalik was expected to live in a certain type of environment, and this expectation was used to further narrow the localities that would be explored as potential deposits for containing the expected 'transitional' form. 3. Having selected the locality, expeditions were mounted and successfully recovered remains of the anticipated beastie. Upon analysis it was found to lie in terms of evolutionary development between the most derived/advanced fish and most primitive tetrapods that had been previously known. Given the huge expanse of the Earth's surface 1 and 2 helped the researchers select comparitively tiny areas to examine and the fact they found what they (roughly) expected to find says their hypothesis (we will find remains of transitional form x at locality y) was borne out. If no remains had been found then further expeditions might have been successful and the hypothesis could of been validiated at a later date. If they had found, lets say a more primitive form than the previously most advanced fish or a more advanced tetrapod than the previously most primitive form then I think that might amount to a falsifiaction. Having said all that I think that to claim a hypothesis was validated in this instance is slightly confusing as palaeontology is like archeology- you can never be 100% sure everthing has been found and one small discovery can force a rethink of what that had been established up to that point. Also, IIRC, none of the three articles in nature make any reference to a hypothesis being validated ;) I'd describe it more as being an expectation being fufilled.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:41"
+    },
+    {
+      "nodeID": "147180",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:05:41"
+    },
+    {
+      "nodeID": "147181",
+      "text": "I just was impressed that the fossil was not found by happenstance.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:41"
+    },
+    {
+      "nodeID": "147182",
+      "text": "So was I. I did say I was playing devil's advocate. As far as I'm concerned, Tiktaalik is a triumph of scientific deduction.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:41"
+    },
+    {
+      "nodeID": "147183",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:05:42"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "188494",
+      "fromID": "147173",
+      "toID": "147174",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188495",
+      "fromID": "147174",
+      "toID": "147172",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188496",
+      "fromID": "147176",
+      "toID": "147177",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188497",
+      "fromID": "147177",
+      "toID": "147175",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188498",
+      "fromID": "147179",
+      "toID": "147180",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188499",
+      "fromID": "147180",
+      "toID": "147178",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188500",
+      "fromID": "147182",
+      "toID": "147183",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188501",
+      "fromID": "147183",
+      "toID": "147181",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

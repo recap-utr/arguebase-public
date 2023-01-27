@@ -1,0 +1,181 @@
+{
+  "nodes": [
+    {
+      "nodeID": "162768",
+      "text": "Im so sorry to hear about this little guy, such a horrific accident. My thoughts go out to his family.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:40:56"
+    },
+    {
+      "nodeID": "162769",
+      "text": "Well I'm not trying to play it off as something it's not, I'm trying to keep people like Galileo from making stupid and untrue points.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:40:56"
+    },
+    {
+      "nodeID": "162770",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:40:56"
+    },
+    {
+      "nodeID": "162771",
+      "text": "The father deserves nothing but scorn and derision. He is a murderous cretin whose stupidity killed his child.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:40:56"
+    },
+    {
+      "nodeID": "162772",
+      "text": "Well that's a stupid statement. Stupid enough that I can't even wrap my head around it and make a proper comparison.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:40:56"
+    },
+    {
+      "nodeID": "162773",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:40:56"
+    },
+    {
+      "nodeID": "162774",
+      "text": "Im shuddering thinking about all the accidental deaths related to children.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:40:56"
+    },
+    {
+      "nodeID": "162775",
+      "text": "I believe the large majority of such deaths occur among inner city kids who don't know anything about guns except for what they see on TV and movies.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:40:56"
+    },
+    {
+      "nodeID": "162776",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:40:57"
+    },
+    {
+      "nodeID": "162777",
+      "text": "How is standing back and taking pictures supervision? He wasn't being supervised that is the problem. The father failed in assisting the child holding the gun.  'I have a difficult time understanding why gun rights organizations would support and sponsor events where children can fire automatic weapons especially since people in such organizations always try to portray themselves as responsible individuals who don't endanger others with their guns. I know this post will probably receive a lot of hostile responses from gun activists on this board but it needs to be said and I'm not going to back down.' It's called individual responsibility. The father failed at it and the result was tragic. He completely ignored all the gun safety rules. The gun rights organizations did nothing wrong and neither did the sponsors or even the guy who rented them the MG. It was completely the fault of the person supervising the child; his father. The fact is all gun rights organizations stress safety first, it's not their fault some XXXXX failed to follow procedures.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:40:57"
+    },
+    {
+      "nodeID": "162778",
+      "text": "So he failed to follow procedure? So was one of the procedures to assist the child in holding the gun while the gun was being fired and to not stand at a distance? If that's the case then the instructor at the firing range was also partially at fault because it was also his responsibility to supervise the child. And I just found this: 'SPRINGFIELD, Mass. - Authorities in Massachusetts are considering whether criminal charges should be filed in the death of an eight-year-old boy who accidentally shot himself with an Uzi submachine-gun at a gun show.  'Hampden County District Attorney William Bennett says he hasn't been able to find any law that would authorize a child to possess or fire a machine-gun.' Criminal charges possible in boy's Uzi death, Massachusetts authorities say - Yahoo! Canada News  So not only is allowing children to fire machines guns irresponsible it may also be illegal.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:40:57"
+    },
+    {
+      "nodeID": "162779",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:40:57"
+    },
+    {
+      "nodeID": "162780",
+      "text": ".... The gun rights organizations did nothing wrong and neither did the sponsors or even the guy who rented them the MG. It was completely the fault of the person supervising the child; his father. The fact is all gun rights organizations stress safety first, it's not their fault some XXXXX failed to follow procedures.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:40:57"
+    },
+    {
+      "nodeID": "162781",
+      "text": "So suddenly, being supervised by not one, but two law-abiding qualified (in one case an instructor!) adults is not safe? Who administered the training and qualifications of the instructor? Who drew up the regulations which allowed this to happen? Who pays lip service to 'safety' in the use of their deadly toys? We constantly hear that only criminals with guns are a threat, and the law-abiding gun owner is a paragon of rational safe behaviour. This is all too obviously not so.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:40:57"
+    },
+    {
+      "nodeID": "162782",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:40:57"
+    },
+    {
+      "nodeID": "162783",
+      "text": "So now anytime you don't like something, you're going to whine and bemoan it until there's a law passed that makes it illegal, so it can't possibly ever happen again? Where does a mentality like that stop? Are you going to push for it to be illegal for a parent to let their child go out and play without first applying sunscreen so they don't get burned?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:40:57"
+    },
+    {
+      "nodeID": "162784",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:40:57"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "199556",
+      "fromID": "162769",
+      "toID": "162770",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199557",
+      "fromID": "162770",
+      "toID": "162768",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199558",
+      "fromID": "162772",
+      "toID": "162773",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199559",
+      "fromID": "162773",
+      "toID": "162771",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199560",
+      "fromID": "162775",
+      "toID": "162776",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199561",
+      "fromID": "162776",
+      "toID": "162774",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199562",
+      "fromID": "162778",
+      "toID": "162779",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199563",
+      "fromID": "162779",
+      "toID": "162777",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199564",
+      "fromID": "162781",
+      "toID": "162782",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199565",
+      "fromID": "162782",
+      "toID": "162780",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199566",
+      "fromID": "162783",
+      "toID": "162784",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199567",
+      "fromID": "162784",
+      "toID": "162781",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

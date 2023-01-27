@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "147481",
+      "text": "Life at every level -- from humans down to bacteria -- exhibit intelligence and very often cooperation. Darwinists got it all wrong.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:06:16"
+    },
+    {
+      "nodeID": "147482",
+      "text": "And what, exactly is 'it' that 'Darwinists' got wrong?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:06:16"
+    },
+    {
+      "nodeID": "147483",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:06:16"
+    },
+    {
+      "nodeID": "147484",
+      "text": "Oh, and I found this from here: http://www.jci.org/cgi/content/full/112/9/1291 'The discovery of species-specific as well as universal intercellular signaling molecules reveals that bacteria interact with one another using surprisingly sophisticated mechanisms of communication. In nature, bacteria are rarely found in isolation, and evolution appears to have provided a mechanism that allows them to detect when they are in heterogeneous communities, to assess the proportions of self and other in mixed-species environments, and to respond to this information by appropriately modulating gene expression.' It appears biologists haven't gotten it wrong, evolution is the explaination for bacterial signaling. And the bacteria still isn't exhibiting any intelligence. The only one getting anything wrong here is you.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:06:16"
+    },
+    {
+      "nodeID": "147485",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:06:16"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "188708",
+      "fromID": "147482",
+      "toID": "147483",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188709",
+      "fromID": "147483",
+      "toID": "147481",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188710",
+      "fromID": "147484",
+      "toID": "147485",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188711",
+      "fromID": "147485",
+      "toID": "147481",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,157 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157187",
+      "text": "Evolution looks to explain itself by the succesive iterations of morpholgoy and functionality. Or so it seems.  1) what am I missing in the statement above?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:44"
+    },
+    {
+      "nodeID": "157188",
+      "text": "You are missing the fact that the theory of evolution is the explanation for the observations. Evolution does not explain itself. The theory of evolution explains things from the single genetic code for all living organisms, to the observed nested hierarchy, to the progression of life apparent in the fossil record, to why organisms seem designed for their environment. I'll say it again, because it's important and might clear up some of your profound confusion. The theory of evolution does not explain itself. The observations of living organisms lead to the theory of evolution. The theory of evolution is not a goal of science but a conclusion.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:44"
+    },
+    {
+      "nodeID": "157189",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:27:44"
+    },
+    {
+      "nodeID": "157190",
+      "text": "2) Just because something has changed from one age to the next, this does not necessarily mean that one begat the other.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:44"
+    },
+    {
+      "nodeID": "157191",
+      "text": "Well, that was badly stated. But we've been over this before and you still don't seem to grasp. No one claims that any particular living animal is descended from any particular fossil. However, given the nature of life that we do observe, where we can see many species of equus, 36 species of cat, 28 species of canid, 8 or 10 species of bear (with as many more extinct species), 850,000 species of beetle, and on and on, we conclude that life was similar in the past. And while we can look at a fossil species of theropod dinosaur and find many avian characteristics, we do not conclude that this fossil was ancestral to birds. But we know that there were probably many species of theropods that had avian characteristics, just like there are many animals with cat-like features. Recent discoveries are bearing out that conclusion. So we don't say that this fossil is ancestral to that fossil or to this living organism. But we do say that this fossil shows characteristics that we would expect in an ancestral form. Thus, Archaeopteryx is not claimed to be ancestral to birds - in fact, is is believed to have eventually gone extinct (in all three known species). What we do say is that Archaeopteryx shows characteristics of both theropod dinosaurs and birds. Is in one of a broad lineage of many species with such characteristics, at least one of which is ancestral to modern birds (but we can't determine which one or ones that might be). And we haven't even gotten into the question of derived morphology. Why don't we assume that dogs are descended from some very dog-like artiodactyl? In fact, why do we conclude that these dog-like animals are, in fact, artiodactyls?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:44"
+    },
+    {
+      "nodeID": "157192",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:27:44"
+    },
+    {
+      "nodeID": "157193",
+      "text": "I accept that the theory of evolution explains the observations both gentically represented and those of the fossil record.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:45"
+    },
+    {
+      "nodeID": "157194",
+      "text": "And it explains observations about morphology and physiology, about successions of flora and fauna. It explains coloration. It even explains why pandemic diseases arise and why they fade. It explains why an apparently harmful allele for a particular gene can increase in a population. In short, the theory of evolution explains biology.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:45"
+    },
+    {
+      "nodeID": "157195",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:27:45"
+    },
+    {
+      "nodeID": "157196",
+      "text": "While I do not appreciate your rude comments given that I began with none,",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:45"
+    },
+    {
+      "nodeID": "157197",
+      "text": "But I have dealt with you before and you reap what you have sown. Suddenly I am to believe that you have changed?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:45"
+    },
+    {
+      "nodeID": "157198",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:27:45"
+    },
+    {
+      "nodeID": "157199",
+      "text": "We have certainly had our run ins. I had thought I had apologized on the last one. I do not recall having a problem with you since the last run in on my review of one of the orignal papers that was terribly misunderstood by lay people as well as the scientific community. I cannot even remember it at this time. You seemed to understand my misunderstanding. Let me take the time to formally apologize for any rudeness to you in the past. I do have a hot head at times. I think we both have impatience for folks who do not understand some concepts.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:45"
+    },
+    {
+      "nodeID": "157200",
+      "text": "I accept your apology with appreciation. I am sorry if I jumped the gun. Perhaps I am too suspicious. I will adjust my attitude.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:45"
+    },
+    {
+      "nodeID": "157201",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:27:45"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195558",
+      "fromID": "157188",
+      "toID": "157189",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195559",
+      "fromID": "157189",
+      "toID": "157187",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195560",
+      "fromID": "157191",
+      "toID": "157192",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195561",
+      "fromID": "157192",
+      "toID": "157190",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195562",
+      "fromID": "157194",
+      "toID": "157195",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195563",
+      "fromID": "157195",
+      "toID": "157193",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195564",
+      "fromID": "157197",
+      "toID": "157198",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195565",
+      "fromID": "157198",
+      "toID": "157196",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195566",
+      "fromID": "157200",
+      "toID": "157201",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195567",
+      "fromID": "157201",
+      "toID": "157199",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "154871",
+      "text": "It has been addressed several times on this forum and the best evidence available shows that effect B is greater than C.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:22:35"
+    },
+    {
+      "nodeID": "154872",
+      "text": "Really, with C being between 1/2 and 2 million defensive gun uses per year. Or perhaps the hundreds of millions of legal, non-defense related, gun uses per year. When you compare the number times a guns are used legally to the number of times they are used illegally, B becomes pretty insignificant.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:22:35"
+    },
+    {
+      "nodeID": "154873",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:22:35"
+    },
+    {
+      "nodeID": "154874",
+      "text": "Who's ignoring effect C?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:22:35"
+    },
+    {
+      "nodeID": "154875",
+      "text": "Well, Kellerman for one.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:22:35"
+    },
+    {
+      "nodeID": "154876",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:22:35"
+    },
+    {
+      "nodeID": "154877",
+      "text": "I wonder how many are exaggerated.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:22:35"
+    },
+    {
+      "nodeID": "154878",
+      "text": "Oh, probably about as many as there are killed by bayonet lugs, pistol grips, heat shields, detachable magazines, and folding stocks.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:22:35"
+    },
+    {
+      "nodeID": "154879",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:22:35"
+    },
+    {
+      "nodeID": "154880",
+      "text": "More children die swimming or riding bikes? That's probably because children spend a lot more time doing those things than shooting firearms. That doesn't show which is more dangerous per minute of use.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:22:35"
+    },
+    {
+      "nodeID": "154881",
+      "text": "Well if they're not spending much time shooting firearms in the first place, then what are you worried about?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:22:35"
+    },
+    {
+      "nodeID": "154882",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:22:36"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193924",
+      "fromID": "154872",
+      "toID": "154873",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193925",
+      "fromID": "154873",
+      "toID": "154871",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193926",
+      "fromID": "154875",
+      "toID": "154876",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193927",
+      "fromID": "154876",
+      "toID": "154874",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193928",
+      "fromID": "154878",
+      "toID": "154879",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193929",
+      "fromID": "154879",
+      "toID": "154877",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193930",
+      "fromID": "154881",
+      "toID": "154882",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193931",
+      "fromID": "154882",
+      "toID": "154880",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

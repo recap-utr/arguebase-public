@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148417",
+      "text": "http://www.foxnews.com/story/0,2933,282655,00.html So if he was mentally disabled he probably didnt feel the pain... So this wasnt a murder... since the guys brain wasnt there like a fetus in the womb...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:27"
+    },
+    {
+      "nodeID": "148418",
+      "text": "Oh, his brain wasn't there, huh? Musta just been involuntary reflexes that allowed him walk from a store to the 'home' that he stayed at. emoticon_rolleyes Oh, and please show me some cases of foetuses walking to the store like this man did when he was attacked, and then we can start comparing. emoticon_rolleyes  Looks like VT is back with his usual strawmen and sensationalism. :xbanghead :xbanghead :xbanghead :xbanghead",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:27"
+    },
+    {
+      "nodeID": "148419",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:08:27"
+    },
+    {
+      "nodeID": "148420",
+      "text": "Im sorry you guys are oblivious to sarcasm.. i was merely making a statement about existence... that guy was just as much existing as an embryo in the womb...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:27"
+    },
+    {
+      "nodeID": "148421",
+      "text": "Actually, if you read the friggin article (*GASP* HERESY!!!), you'd see that this guy was attacked while WALKING FROM THE STORE. If you can't see the difference between his mental existence (quite enough to allow him to move about and do relatively ordinary chores like going to the store), and a foetus that does not have mental existence, there is no hope for you.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:27"
+    },
+    {
+      "nodeID": "148422",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:08:27"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189368",
+      "fromID": "148418",
+      "toID": "148419",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189369",
+      "fromID": "148419",
+      "toID": "148417",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189370",
+      "fromID": "148421",
+      "toID": "148422",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189371",
+      "fromID": "148422",
+      "toID": "148420",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

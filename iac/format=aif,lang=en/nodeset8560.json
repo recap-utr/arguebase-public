@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "159253",
+      "text": "Brace yourself, howard......a new poll released today in the NY Times says most americans favor teaching creationism in the schools......",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:29"
+    },
+    {
+      "nodeID": "159254",
+      "text": "And why not? After all, Grimm's Fairy Tales is a wonderful read and who can deny the happiness Santa brings to 2nd graders? What's a bit more fantasy gonna hurt?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:29"
+    },
+    {
+      "nodeID": "159255",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:32:29"
+    },
+    {
+      "nodeID": "159256",
+      "text": "I was referring to being foolish enough to engage in an actual debate supporting the teaching of creationism in science class. We did get one taker though.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:30"
+    },
+    {
+      "nodeID": "159257",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:32:30"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "197040",
+      "fromID": "159254",
+      "toID": "159255",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197041",
+      "fromID": "159255",
+      "toID": "159253",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197042",
+      "fromID": "159256",
+      "toID": "159257",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197043",
+      "fromID": "159257",
+      "toID": "159253",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

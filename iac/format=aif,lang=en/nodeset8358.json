@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "156196",
+      "text": "Where is the evidence for an American-style 'culture of fear' in India? An op-ed from a Detroit-based member of a rightwing thinktank shouting that they need guns, just doesn't cut it.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:33"
+    },
+    {
+      "nodeID": "156197",
+      "text": "So are you saying that the people of India aren't upset about what happened and how the police chose to hide instead of engage the enemy and thus let hundreds of people be violently murdered? Are you saying that the people of India aren't seeking changes so they can arm themselves accordingly so if something like this happens again they'll be better prepared to handle it?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:33"
+    },
+    {
+      "nodeID": "156198",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:25:33"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194860",
+      "fromID": "156197",
+      "toID": "156198",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194861",
+      "fromID": "156198",
+      "toID": "156196",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "136776",
+      "text": "http://www.jpfo.org/docs/atf_1979.txt after reading hundreds of horror stories about these type of incidents it is not hard to see that ATF hasn't changed it's focus and goals any. Slim doesn't want you nor anyone else to read Enemies Foreign and Domesticby Matthew Bracken who has a website by the same url and you can read excerps.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:46"
+    },
+    {
+      "nodeID": "136777",
+      "text": "Well with thinking challenged individuals like slimjim floating around it is no wonder we have a rogue agency with no oversight attacking the honest citizens. See Ruby Ridge and Waco for examples.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:46"
+    },
+    {
+      "nodeID": "136778",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:43:46"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181114",
+      "fromID": "136777",
+      "toID": "136778",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181115",
+      "fromID": "136778",
+      "toID": "136776",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

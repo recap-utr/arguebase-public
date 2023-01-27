@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148098",
+      "text": "I think England is a lost cause to be honest. Whenever someone injures an intruder who intends to do them harm, on their own property, and gets sentenced to several years in prision while the criminal gets off free, something is seriously wrong with your society.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:48"
+    },
+    {
+      "nodeID": "148099",
+      "text": "Just because it doesn't make it into press doesn't mean that normal self-defense doesn't occur and is illegal.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:48"
+    },
+    {
+      "nodeID": "148100",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:48"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189146",
+      "fromID": "148099",
+      "toID": "148100",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189147",
+      "fromID": "148100",
+      "toID": "148098",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

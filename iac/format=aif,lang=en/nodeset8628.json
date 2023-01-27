@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "160495",
+      "text": "I'm pro-humanity. I didn't look at that clip, I can't see yet another human being slaughtered.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:08"
+    },
+    {
+      "nodeID": "160496",
+      "text": "You are like, so totally noble and sensitive! I really admire your pro-humanity stance. That is going out on limb.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:08"
+    },
+    {
+      "nodeID": "160497",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:35:08"
+    },
+    {
+      "nodeID": "160498",
+      "text": "I was under the impression that he was referencing the video...since he always interchanges the words embryo and fetus I just rolled with it.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:08"
+    },
+    {
+      "nodeID": "160499",
+      "text": "So you're both wrong.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:09"
+    },
+    {
+      "nodeID": "160500",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:35:09"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "197928",
+      "fromID": "160496",
+      "toID": "160497",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197929",
+      "fromID": "160497",
+      "toID": "160495",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197930",
+      "fromID": "160499",
+      "toID": "160500",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197931",
+      "fromID": "160500",
+      "toID": "160498",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

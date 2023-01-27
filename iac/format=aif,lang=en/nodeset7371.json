@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141395",
+      "text": "This is correct. However, these rights not found in the Constitution are able to be restricted. 'And, seeing how you agree that the right to abortion is not in the Constitution, then it follows that the right to abortion can be restricted.'",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:35"
+    },
+    {
+      "nodeID": "141396",
+      "text": "Just because it isn't verbally found in the Constitution doesn't mean I feel that it is constitutionally irrelevant. I feel that it is. Here is my question to you...do you understand why abortion is constitutional?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:35"
+    },
+    {
+      "nodeID": "141397",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:53:35"
+    },
+    {
+      "nodeID": "141398",
+      "text": "Abortion is a right constructed in the chambers of the minds of seven judges.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:35"
+    },
+    {
+      "nodeID": "141399",
+      "text": "But not just any seven judges, seven judges who's job is to define the constitution.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:35"
+    },
+    {
+      "nodeID": "141400",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:53:35"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184414",
+      "fromID": "141396",
+      "toID": "141397",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184415",
+      "fromID": "141397",
+      "toID": "141395",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184416",
+      "fromID": "141399",
+      "toID": "141400",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184417",
+      "fromID": "141400",
+      "toID": "141398",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

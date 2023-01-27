@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "147561",
+      "text": "emoticon_xkillemoticon_xkillemoticon_xkillemoticon_xkillemoticon_xkillemoticon_xkillemoticon_xkill Say goodbye to roe v wade and hello to rights for the unborn, the most innocent among us..  YES... ALL MEN ARE CREATED EQUAL. 'We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:06:26"
+    },
+    {
+      "nodeID": "147562",
+      "text": "Oh no! Here comes Palin, run for cover. Because I really fear ignorant and hypocritical conservatives. As to your argument, while were out calling fertilized eggs 'men', lets call plant life 'men' as well.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:06:26"
+    },
+    {
+      "nodeID": "147563",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:06:26"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "188766",
+      "fromID": "147562",
+      "toID": "147563",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188767",
+      "fromID": "147563",
+      "toID": "147561",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

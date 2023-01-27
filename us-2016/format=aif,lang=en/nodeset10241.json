@@ -1,0 +1,717 @@
+{
+  "nodes": [
+    {
+      "nodeID": "200910",
+      "text": "Barbara: helloboots : Bothers me",
+      "type": "L",
+      "timestamp": "2016-09-21 12:21:55"
+    },
+    {
+      "nodeID": "200911",
+      "text": "helloboots : Bothers me that CNN calls it \"Obamacare\" and not \"Affordable Care Act\"",
+      "type": "L",
+      "timestamp": "2016-09-21 12:21:55"
+    },
+    {
+      "nodeID": "200912",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-21 12:21:55",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200913",
+      "text": "bothers me that CNN calls it \"Obamacare\" and not \"Affordable Care Act\"",
+      "type": "I",
+      "timestamp": "2016-09-21 12:21:55"
+    },
+    {
+      "nodeID": "200914",
+      "text": "Barbara: helloboots : Bothers me that CNN calls it \"Obamacare\" and not \"Affordable Care Act\"",
+      "type": "L",
+      "timestamp": "2016-09-21 12:21:55"
+    },
+    {
+      "nodeID": "200915",
+      "text": "Barbara: helloboots :  Obamacare has been used by the administration themselves",
+      "type": "L",
+      "timestamp": "2016-09-21 12:21:55"
+    },
+    {
+      "nodeID": "200916",
+      "text": "Barbara: helloboots : t works",
+      "type": "L",
+      "timestamp": "2016-09-21 12:21:55"
+    },
+    {
+      "nodeID": "200917",
+      "text": "Barbara: helloboots : Even Obama calls it Obamacare these days",
+      "type": "L",
+      "timestamp": "2016-09-21 12:21:55"
+    },
+    {
+      "nodeID": "200918",
+      "text": "Obama likes \"Obamacare\"",
+      "type": "L",
+      "timestamp": "2016-09-21 12:21:55"
+    },
+    {
+      "nodeID": "200919",
+      "text": "Dinowhaleball : Obamacare has been used by the administration themselves",
+      "type": "L",
+      "timestamp": "2016-09-21 12:21:55"
+    },
+    {
+      "nodeID": "200920",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-21 12:21:56",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200921",
+      "text": "Obamacare has been used by the administration themselves",
+      "type": "I",
+      "timestamp": "2016-09-21 12:21:56"
+    },
+    {
+      "nodeID": "200922",
+      "text": "Barbara: Dinowhaleball : Obamacare has been used by the administration themselves",
+      "type": "L",
+      "timestamp": "2016-09-21 12:21:56"
+    },
+    {
+      "nodeID": "200923",
+      "text": "Dinowhaleball :  it works",
+      "type": "L",
+      "timestamp": "2016-09-21 12:21:56"
+    },
+    {
+      "nodeID": "200924",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-21 12:21:56",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200925",
+      "text": "it works",
+      "type": "I",
+      "timestamp": "2016-09-21 12:21:56"
+    },
+    {
+      "nodeID": "200926",
+      "text": "Barbara: Dinowhaleball :  it works",
+      "type": "L",
+      "timestamp": "2016-09-21 12:21:56"
+    },
+    {
+      "nodeID": "200927",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-09-21 12:21:56",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "200928",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-21 12:21:56",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200929",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-09-21 12:21:56",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "200930",
+      "text": "LeMayMayPoster : Even Obama calls it Obamacare these days",
+      "type": "L",
+      "timestamp": "2016-09-21 12:21:57"
+    },
+    {
+      "nodeID": "200931",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-21 12:21:57",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200932",
+      "text": "even Obama calls it Obamacare these days",
+      "type": "I",
+      "timestamp": "2016-09-21 12:21:57"
+    },
+    {
+      "nodeID": "200933",
+      "text": "Barbara: LeMayMayPoster : Even Obama calls it Obamacare these days",
+      "type": "L",
+      "timestamp": "2016-09-21 12:21:57"
+    },
+    {
+      "nodeID": "200934",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-09-21 12:21:57",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "200935",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-21 12:21:57",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200936",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-09-21 12:21:57",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "200937",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-09-21 12:21:57",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "200938",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-21 12:21:57",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200939",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-09-21 12:21:57",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "200940",
+      "text": "elainegeorge : Obama likes \"Obamacare\"",
+      "type": "L",
+      "timestamp": "2016-09-21 12:21:57"
+    },
+    {
+      "nodeID": "200941",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-21 12:21:58",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200942",
+      "text": "Barbara: elainegeorge : elainegeorge",
+      "type": "L",
+      "timestamp": "2016-09-21 12:21:58"
+    },
+    {
+      "nodeID": "200943",
+      "text": "elainegeorge : he does care",
+      "type": "L",
+      "timestamp": "2016-09-21 12:21:58"
+    },
+    {
+      "nodeID": "200944",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-21 12:21:58",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200945",
+      "text": "Obama does care",
+      "type": "I",
+      "timestamp": "2016-09-21 12:21:58"
+    },
+    {
+      "nodeID": "200946",
+      "text": "Barbara: elainegeorge : he does care",
+      "type": "L",
+      "timestamp": "2016-09-21 12:21:58"
+    },
+    {
+      "nodeID": "200947",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-09-21 12:21:58",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "200948",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-21 12:21:58",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200949",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-09-21 12:21:58",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "200950",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-21 12:21:58",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200951",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-09-21 12:21:59",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "200952",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-09-21 12:21:59",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "200953",
+      "text": "Duderino732 : President Obama likes the term",
+      "type": "L",
+      "timestamp": "2016-09-21 12:21:59"
+    },
+    {
+      "nodeID": "200954",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-21 12:21:59",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200955",
+      "text": "president Obama likes the term",
+      "type": "I",
+      "timestamp": "2016-09-21 12:21:59"
+    },
+    {
+      "nodeID": "200956",
+      "text": "Barbara: Duderino732 : President Obama likes the term",
+      "type": "L",
+      "timestamp": "2016-09-21 12:21:59"
+    },
+    {
+      "nodeID": "200957",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-09-21 12:21:59",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "200958",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-21 12:21:59",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200959",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-09-21 12:21:59",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "200960",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-09-21 12:21:59",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "200961",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-21 12:21:59",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200962",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2016-09-21 12:22:00",
+      "scheme": "Restating",
+      "schemeID": "101"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "245541",
+      "fromID": "200912",
+      "toID": "200913",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245542",
+      "fromID": "200911",
+      "toID": "200912",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245543",
+      "fromID": "200920",
+      "toID": "200921",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245544",
+      "fromID": "200919",
+      "toID": "200920",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245545",
+      "fromID": "200924",
+      "toID": "200925",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245546",
+      "fromID": "200923",
+      "toID": "200924",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245547",
+      "fromID": "200921",
+      "toID": "200927",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245548",
+      "fromID": "200927",
+      "toID": "200925",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245549",
+      "fromID": "200919",
+      "toID": "200928",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245550",
+      "fromID": "200928",
+      "toID": "200923",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245551",
+      "fromID": "200928",
+      "toID": "200929",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245552",
+      "fromID": "200929",
+      "toID": "200927",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245553",
+      "fromID": "200931",
+      "toID": "200932",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245554",
+      "fromID": "200930",
+      "toID": "200931",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245555",
+      "fromID": "200925",
+      "toID": "200934",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245556",
+      "fromID": "200934",
+      "toID": "200913",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245557",
+      "fromID": "200911",
+      "toID": "200935",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245558",
+      "fromID": "200935",
+      "toID": "200923",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245559",
+      "fromID": "200935",
+      "toID": "200936",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245560",
+      "fromID": "200936",
+      "toID": "200934",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245561",
+      "fromID": "200932",
+      "toID": "200937",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245562",
+      "fromID": "200937",
+      "toID": "200913",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245563",
+      "fromID": "200911",
+      "toID": "200938",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245564",
+      "fromID": "200938",
+      "toID": "200930",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245565",
+      "fromID": "200938",
+      "toID": "200939",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245566",
+      "fromID": "200939",
+      "toID": "200937",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245567",
+      "fromID": "200941",
+      "toID": "200918",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245568",
+      "fromID": "200940",
+      "toID": "200941",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245569",
+      "fromID": "200944",
+      "toID": "200945",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245570",
+      "fromID": "200943",
+      "toID": "200944",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245571",
+      "fromID": "200945",
+      "toID": "200947",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245572",
+      "fromID": "200947",
+      "toID": "200918",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245573",
+      "fromID": "200940",
+      "toID": "200948",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245574",
+      "fromID": "200948",
+      "toID": "200943",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245575",
+      "fromID": "200948",
+      "toID": "200949",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245576",
+      "fromID": "200949",
+      "toID": "200947",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245577",
+      "fromID": "200940",
+      "toID": "200950",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245578",
+      "fromID": "200950",
+      "toID": "200911",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245579",
+      "fromID": "200918",
+      "toID": "200951",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245580",
+      "fromID": "200951",
+      "toID": "200913",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245581",
+      "fromID": "200950",
+      "toID": "200952",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245582",
+      "fromID": "200952",
+      "toID": "200951",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245583",
+      "fromID": "200954",
+      "toID": "200955",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245584",
+      "fromID": "200953",
+      "toID": "200954",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245585",
+      "fromID": "200955",
+      "toID": "200957",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245586",
+      "fromID": "200957",
+      "toID": "200913",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245587",
+      "fromID": "200911",
+      "toID": "200958",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245588",
+      "fromID": "200958",
+      "toID": "200953",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245589",
+      "fromID": "200958",
+      "toID": "200959",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245590",
+      "fromID": "200959",
+      "toID": "200957",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245591",
+      "fromID": "200955",
+      "toID": "200960",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245592",
+      "fromID": "200960",
+      "toID": "200918",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245593",
+      "fromID": "200940",
+      "toID": "200961",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245594",
+      "fromID": "200961",
+      "toID": "200953",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245595",
+      "fromID": "200961",
+      "toID": "200962",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "245596",
+      "fromID": "200962",
+      "toID": "200960",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

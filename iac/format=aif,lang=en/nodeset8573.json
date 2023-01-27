@@ -1,0 +1,121 @@
+{
+  "nodes": [
+    {
+      "nodeID": "159430",
+      "text": "personaly against... Like to have my mind changed thoughemoticon_xgood",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:55"
+    },
+    {
+      "nodeID": "159431",
+      "text": "Really? Do all your views depend on somebody else changing them for you?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:55"
+    },
+    {
+      "nodeID": "159432",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:32:55"
+    },
+    {
+      "nodeID": "159433",
+      "text": "As for Germany, gun ownership was legalized five years before Hitler came to power, which doesn't exactly support the argument that gun ownership is a defense against tyranny.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:55"
+    },
+    {
+      "nodeID": "159434",
+      "text": "Actually it was a gun registration that occurred five years before Hitler came to power. Only why would you need gun registration if guns were illegal? The public was armed just no one knew who. What the registration did was allow the Nazis to know who was armed and allowed them disarm those who were not in the party.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:55"
+    },
+    {
+      "nodeID": "159435",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:32:55"
+    },
+    {
+      "nodeID": "159436",
+      "text": "Then they do things like lobby Congress to reduce the budget of the ATF according to Bob Ricker, a former lawyer of the NRA who turned against the organization.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:55"
+    },
+    {
+      "nodeID": "159437",
+      "text": "Actually the defending of ATF wouldn't do much with regular guns since they have little to do with them. ATFs function is with NFA guns, which you probably know little, or nothing about.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:55"
+    },
+    {
+      "nodeID": "159438",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:32:55"
+    },
+    {
+      "nodeID": "159439",
+      "text": "Actually, I have fired an NFA gun before.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:55"
+    },
+    {
+      "nodeID": "159440",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:32:55"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "197170",
+      "fromID": "159431",
+      "toID": "159432",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197171",
+      "fromID": "159432",
+      "toID": "159430",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197172",
+      "fromID": "159434",
+      "toID": "159435",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197173",
+      "fromID": "159435",
+      "toID": "159433",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197174",
+      "fromID": "159437",
+      "toID": "159438",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197175",
+      "fromID": "159438",
+      "toID": "159436",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197176",
+      "fromID": "159439",
+      "toID": "159440",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197177",
+      "fromID": "159440",
+      "toID": "159434",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141696",
+      "text": "EDIT: with regards to specifically Nazism - the Nazis passed two relevant laws in 1938. One loosened gun control on the general populace, the other banned Jews from weapon ownership.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:18"
+    },
+    {
+      "nodeID": "141697",
+      "text": "And the Jews were the ones who got killed off in large numbers.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:18"
+    },
+    {
+      "nodeID": "141698",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:54:18"
+    },
+    {
+      "nodeID": "141699",
+      "text": "Firstly, there are plenty of non-dictatorial countries with gun ownership in place. It's this that you'd have to look at, rather than look at features of already existing dictatorships - I bet all dictatorships banned murder, as well. Secondly, gun ownership would not prevent a dictatorship, just make it harder. If 'guns don't kill people, people do', then surely 'gun control doesn't cause dictatorships, people cause dictatorships'?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:18"
+    },
+    {
+      "nodeID": "141700",
+      "text": "Oh, no, young Skywalker. It is you who are wrong. About a great, many, things. The title above what you are reading says 'Which is more likely to become a dictatorship', not 'It's impossible to turn a country with loose gun laws into a dictatorship.'",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:18"
+    },
+    {
+      "nodeID": "141701",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:54:18"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184622",
+      "fromID": "141697",
+      "toID": "141698",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184623",
+      "fromID": "141698",
+      "toID": "141696",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184624",
+      "fromID": "141700",
+      "toID": "141701",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184625",
+      "fromID": "141701",
+      "toID": "141699",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

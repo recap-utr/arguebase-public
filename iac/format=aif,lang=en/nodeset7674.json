@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "146138",
+      "text": "So far the only proof of God's existence by lucaspa is: 'trust me, I 'experienced' God therefore God exists' There is incrdible suffering and pain in this world, and I can not conceive a God who is the embodyment of goodnes, compassion, love etc, to turn a blind eye to all the suffering going on on Earth. All this nonsense about 'free will' and God testing us, is just nonsensical attempts to reconcile the imaginary existence of God with the sad realities of our existence",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:36"
+    },
+    {
+      "nodeID": "146139",
+      "text": "Well, as the Christain Zealots say, 'Eve ate the apple' :xbanghead.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:36"
+    },
+    {
+      "nodeID": "146140",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:03:36"
+    },
+    {
+      "nodeID": "146141",
+      "text": "Oh, yes: they often say that sin and evil should exist because of free will, but they also condemn Eve for eating the apple. So, did Eve do the right thing? Of course, I don't believe that there was an Eden as described in the bible, but that won't stop me from showing that it is inconsistant.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:36"
+    },
+    {
+      "nodeID": "146142",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:03:36"
+    },
+    {
+      "nodeID": "146143",
+      "text": "If a god allowed people to make choices that could hurt them, he might be called benevolent if those choices taught the people a lesson. If a god were to cause pain and suffering, that would be different.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:36"
+    },
+    {
+      "nodeID": "146144",
+      "text": "So you actually know enough, you can see the beginning and end of time, you know what is inside each and every individual on the planet so much so that you can say God is wrong to do any given act? How is this possible oh great and mighty oz?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:36"
+    },
+    {
+      "nodeID": "146145",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:03:36"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187760",
+      "fromID": "146139",
+      "toID": "146140",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187761",
+      "fromID": "146140",
+      "toID": "146138",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187762",
+      "fromID": "146141",
+      "toID": "146142",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187763",
+      "fromID": "146142",
+      "toID": "146139",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187764",
+      "fromID": "146144",
+      "toID": "146145",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187765",
+      "fromID": "146145",
+      "toID": "146143",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "162385",
+      "text": "Despite your bull in a china shop rampage through the fields of bioogy, cosmology and paleo, you have not yet given any evidence of a 6000 year old earth, god made in 6 days. How about you provide some?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:40:03"
+    },
+    {
+      "nodeID": "162386",
+      "text": "He wasn't trying to. Shooterandproud may be an unreasonable gun nut, but he accepts evolution.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:40:03"
+    },
+    {
+      "nodeID": "162387",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:40:03"
+    },
+    {
+      "nodeID": "162388",
+      "text": "I just read an article in Discovery magazine about smashing two protons together, going near the speed of light, inside of a huge, two mile ring. The proton breaks into Quarks and Gluans. This experiment is being used to understand what happened when the big bang went bang. I think they're trying to understand how the protons formed the matter in the big bang. I didn't read the whole article, but let me try to find it. It would be interesting to see what happens. I've always been fascinated with the big bang, and we may finally start to understand much more about it and how it happened. Thoughts?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:40:03"
+    },
+    {
+      "nodeID": "162389",
+      "text": "This should be in the science section, not the CvE section. Don't give SS any more reason to believe that the big bang is part of biology.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:40:03"
+    },
+    {
+      "nodeID": "162390",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:40:03"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "199276",
+      "fromID": "162386",
+      "toID": "162387",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199277",
+      "fromID": "162387",
+      "toID": "162385",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199278",
+      "fromID": "162389",
+      "toID": "162390",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199279",
+      "fromID": "162390",
+      "toID": "162388",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

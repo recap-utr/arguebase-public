@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "156234",
+      "text": "Define intelligence.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:40"
+    },
+    {
+      "nodeID": "156235",
+      "text": "I think the OP said it pretty well. If an organism or cell can process information and then make decisions based on that information, that's intelligence.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:40"
+    },
+    {
+      "nodeID": "156236",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:25:40"
+    },
+    {
+      "nodeID": "156237",
+      "text": "How does the 8 ball know to move away when then cue ball strikes it? Intelligence, of course.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:40"
+    },
+    {
+      "nodeID": "156238",
+      "text": "Well, obviously. It possesses some form of intelligence that it is up to the Darwinists to identify, lest their theory will be further destroyed.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:40"
+    },
+    {
+      "nodeID": "156239",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:25:40"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194886",
+      "fromID": "156235",
+      "toID": "156236",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194887",
+      "fromID": "156236",
+      "toID": "156234",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194888",
+      "fromID": "156238",
+      "toID": "156239",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194889",
+      "fromID": "156239",
+      "toID": "156237",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

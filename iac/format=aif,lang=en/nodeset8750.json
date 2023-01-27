@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "162204",
+      "text": "Well, next to my keyboard currently is a rather fine bar of Ecuadorian milk chocolate, 39% cocoa solids, make with organic, fairly traded cocoa and raw cane sugar, manufactured in Italy. I also still have the packet for a similar 35% cocoa solids Dominican bar, made in Germany. Have to say that on balance I prefer the Ecuadorian bar, much deeper flavour. Hershey's is repulsive, and snickers is bland and greasy.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:22"
+    },
+    {
+      "nodeID": "162205",
+      "text": "Well, it is probably a different taste from what you are used to. I personally love Hershey's but that's probably because I grew up on it. European chocolate is supposed to be better but I don't have the taste buds for it...but I still like it. Plus Hershey Park was fun as a kid.  Now can we please stay on topic and talk about candy?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:22"
+    },
+    {
+      "nodeID": "162206",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:39:23"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "199150",
+      "fromID": "162205",
+      "toID": "162206",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199151",
+      "fromID": "162206",
+      "toID": "162204",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

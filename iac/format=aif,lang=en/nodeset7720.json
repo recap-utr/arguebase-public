@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "146920",
+      "text": "I understand how elvolution works and all but how can they teach it like a fact in schools when its really just the 'Theory'of 'evolution? its just like electritity noone can see it but they teach it in all the schools just cause some scientist believes in it. i think thats just plane dumb, if you ask me, more peeple believe in Jesus and a few have even seen him so right there its more believable then evolution which was invented a couple hundred years ago by some elitist sientist. so why not teach about jessus in the schools since we know more about him, and have actual facts that were written down by people who knew him eg. 'The Bible!' plus correct me if im wrong but i think theirs some stuff in there about how man's kind came to exsist.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:10"
+    },
+    {
+      "nodeID": "146921",
+      "text": "JUST a theory? Gravity is a theory. You don't think electricity exists? Wow. The person before answered your questions clear enough, I just wanted to point that out.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:10"
+    },
+    {
+      "nodeID": "146922",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:05:10"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "188318",
+      "fromID": "146921",
+      "toID": "146922",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188319",
+      "fromID": "146922",
+      "toID": "146920",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

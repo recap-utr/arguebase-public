@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151952",
+      "text": "The thing that breaks my heart even more is knowing that the babies are being mercilessly hurt in the process. People don't want to believe this, but it's true! Planned Parenthood actually states the following on their website: 'We know for sure that the embryo or fetus cannot perceive pain in the nearly 99 percent of all abortions that occur before the 20th week of pregnancy. It is even possible that a fetus is unable to perceive pain at any time during pregnancy.'  Are you kidding me?!!! Where's your research to back that one up?! That sounds more like a wild guess to me! So what about the other 1 percent? Why is it that 'nearly 99 percent' you are sure can't perceive pain? And then to actually say it is possible they can't perceive it any time during pregnancy?! Yes because you know, the nervous system doesn't actually develop until AFTER birth!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:48"
+    },
+    {
+      "nodeID": "151953",
+      "text": "No, but it does develop very late on, and most abortions are carried out early. Over 99% is pretty high, considering abortions carried out very late tend to be because of problems medically with the mother or the foetus where an abortion is the best option.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:48"
+    },
+    {
+      "nodeID": "151954",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:15:48"
+    },
+    {
+      "nodeID": "151955",
+      "text": "Why don't we just ASK women who've had abotions...that's all the proof you need! I have been reading stories of women who in their own words talked about their abortion experiences....even the ones who claim to be pro choice and still are after the abortion make statements of lingering feeling guilt and regret over having it done as well as nightmares about it. If it's really no big deal, then why would they feel that way?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:48"
+    },
+    {
+      "nodeID": "151956",
+      "text": "So if I go out and buy a Brand X car and then regret it a year later, does that mean that nobody should be allowed to go out and buy a Brand X car? Am I entitled to have an opinion and share it with others...sure. However, could others purchase a Brand X car and never regret it...absolutely. Should my negative experience be used to prevent others from engaging in something that they might consider positive? Sounds kinda fascist to me.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:48"
+    },
+    {
+      "nodeID": "151957",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:15:48"
+    },
+    {
+      "nodeID": "151958",
+      "text": "You're kidding me! You are actually comparing a buying a car to an abotion? That's hardly equal! If someone regrets killing their child, then yeah why should they deny that to someone else when it could be positive for them?! Give me a break!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:48"
+    },
+    {
+      "nodeID": "151959",
+      "text": "But that's the argument you were presenting. The use of 'car' is really irrelevant. You can substitute 'buying a car' with any activity that one might engage in where they could later view it as positive or negative. The point is, you are attempting to use someones negative emotional view to argue aganist something that can be a positive experience for others. I was attempting to point out that yes, while you are entitled to have an opinion and share that opinion with everyone, this does not give you the right to determine what is right for others. If you find abortion to be that objectionable, great...don't ever have one. But do not try to use 1 persons negative viewpoint of abortion to tell others what they may or may not do. I am willing to bet that for every person you find who regrets their abortion that you would be able to find one person who found their abortion to be the right choice for them.  Oh, and in case you missed my request...could you please give the number of the Planned Parenthood clinic that you called so the rest of us could listen to it?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:48"
+    },
+    {
+      "nodeID": "151960",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:15:48"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191866",
+      "fromID": "151953",
+      "toID": "151954",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191867",
+      "fromID": "151954",
+      "toID": "151952",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191868",
+      "fromID": "151956",
+      "toID": "151957",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191869",
+      "fromID": "151957",
+      "toID": "151955",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191870",
+      "fromID": "151959",
+      "toID": "151960",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191871",
+      "fromID": "151960",
+      "toID": "151958",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

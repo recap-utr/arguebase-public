@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143423",
+      "text": "Next time you walk into your doctor's office, please notice that there's no literature about how to control inflammation naturally....instead, his walls, magazine racks and end tables are littered with advertisements for expensive drugs. It's all about the money.....and it's money that fuels corruption.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:03"
+    },
+    {
+      "nodeID": "143424",
+      "text": "just isn't the case in countries with nationalised health care, yet those countries also have a large number of pharmaceutical companies that are based there.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:03"
+    },
+    {
+      "nodeID": "143425",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:58:03"
+    },
+    {
+      "nodeID": "143426",
+      "text": "Right, that does it. So far, I considered there crusaders harmless, but this... No more sugar, and inflammation goes away?!? I see that these guys can be downright dangerous..",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:03"
+    },
+    {
+      "nodeID": "143427",
+      "text": "Well it's a bit more than that....there's the issue of bad fats too...ie omega 6 fats. Ever notice how the Omega 3s in Salmon and flaxseed oil are pushed? ....you know why? Because Omega 3 oils, among other things, have an anti-inflammatory effect in the body. Why is it so hard to believe that if a diet that's high in sugar leads to inflammatory diseases, that a reduction or elimination of sugar would eliminate or drastically reduce those symptoms? I'm actually speaking from experience. I didn't dream this stuff up. I've lived it. I used to have a condition called chronic prostatitis...which is an inflammation of the prostate that often happens in young men. This is not a medically curable condition. Doctors often throw antibiotics at it, but most men don't respond to that. As a result there are thousands of men around the country who live in constant, chronic debilitating pain. I used to be one of them. But no longer. I learned the secret, which is to eliminate junk foods and sugars. After just a couple weeks of doing this my constant pain just seemed to evaporate. I have never looked back.  Have you ever noticed how some people seem to always be hot, while some are cold? Some people are just hot natured. Many times older people are cold natured. Do you know why? It's from caloric intake. The more calories one consumes, the hotter the oven gets in your body. Calories are just measurements of heat. heat corresponds with inflammation...inflammation is the source of the problem.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:03"
+    },
+    {
+      "nodeID": "143428",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:58:03"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185854",
+      "fromID": "143424",
+      "toID": "143425",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185855",
+      "fromID": "143425",
+      "toID": "143423",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185856",
+      "fromID": "143427",
+      "toID": "143428",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185857",
+      "fromID": "143428",
+      "toID": "143426",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

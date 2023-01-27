@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148646",
+      "text": "Most evolutionists believe that matter and time were created by a 'Big Bang.'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:57"
+    },
+    {
+      "nodeID": "148647",
+      "text": "But recognition of the big bang as a very good explanation of cosmology isn't limited to evolutionsits. In fact, most other scientists also believe so, most especially cosmologists and astrophysicists, who are directly concerned with the early universe. Evolutionists, even though the origin of matter and time are irrelevant to the study of evolution, are also educated in science and probably accept the work done by these other scientists.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:57"
+    },
+    {
+      "nodeID": "148648",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:08:57"
+    },
+    {
+      "nodeID": "148649",
+      "text": "Now, these evolutionists also believe that the matter, which should have been evenly distributed all over the universe in complete disorder, formed into incredibly complex solar systems, and, what most people find hardest to comprehend, earth. The planet earth is incredibly complex.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:57"
+    },
+    {
+      "nodeID": "148650",
+      "text": "I think that you should check with cosmologists, astrophysicists, astronomers and the like to see why most scientists accept the findings of those sciences, even evolutionists. I suggest you read some books. The Whole Shebang: A State-of-the-Universe(s) Report by Timothy Ferris, emeritus professsor at UC Berkeley. A really good writer, Ferris has taught courses in journalism and science writing, as well as english, philosophy, and astronomy - a total of 5 diciplines at 4 universities. Other books that may help you to understand the topic are: Wrinkles in Time by George Smoot and Keay Davidson. The book is a report on the COBE experiments that verified the predicted unevenness of the background radiation. A good explanation of cosmology in general. The Elegant Universe and The Fabric of the Cosmos by Brian Greene. These books require some scientific savy, so they may be a bit too difficult for you.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:57"
+    },
+    {
+      "nodeID": "148651",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:08:57"
+    },
+    {
+      "nodeID": "148652",
+      "text": "it will be neccesary to temporarily drop the thermodynamics argument",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:57"
+    },
+    {
+      "nodeID": "148653",
+      "text": "You would do yourself a favour to drop it permanently. Nobody who understands the second law of thermodynamics believes it precludes the possibility of complexity increasing at a given place.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:57"
+    },
+    {
+      "nodeID": "148654",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:08:57"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189528",
+      "fromID": "148647",
+      "toID": "148648",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189529",
+      "fromID": "148648",
+      "toID": "148646",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189530",
+      "fromID": "148650",
+      "toID": "148651",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189531",
+      "fromID": "148651",
+      "toID": "148649",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189532",
+      "fromID": "148653",
+      "toID": "148654",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189533",
+      "fromID": "148654",
+      "toID": "148652",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "161327",
+      "text": "That's what bothers me so much about the pro-choice position on personhood regarding a fetus: there is an obvious double-standard. They seem to have no problem with the idea of it being a person when a murderer is convicted of two murders in case of killing a pregnant woman, but they refuse to allow for personhood with the fetus when it comes to the abortion issue. At least they could be consistent.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:22"
+    },
+    {
+      "nodeID": "161328",
+      "text": "Actually, we do. These inconsistant laws are a product of pro-life people trying to create a stepping stone to a national ban. Crimes against pregnant women should warrant a more serious offense, not an entirely new offense.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:22"
+    },
+    {
+      "nodeID": "161329",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:37:22"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198522",
+      "fromID": "161328",
+      "toID": "161329",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198523",
+      "fromID": "161329",
+      "toID": "161327",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

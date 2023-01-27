@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "142965",
+      "text": "Discussing information in a mathematical sense if fine but has nothing to do with this subject.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:59"
+    },
+    {
+      "nodeID": "142966",
+      "text": "Oh yes it does. It is the subject.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:00"
+    },
+    {
+      "nodeID": "142967",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:57:00"
+    },
+    {
+      "nodeID": "142968",
+      "text": "...",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:00"
+    },
+    {
+      "nodeID": "142969",
+      "text": "You have done it again. emoticon_rolleyes",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:00"
+    },
+    {
+      "nodeID": "142970",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:57:00"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185534",
+      "fromID": "142966",
+      "toID": "142967",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185535",
+      "fromID": "142967",
+      "toID": "142965",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185536",
+      "fromID": "142969",
+      "toID": "142970",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185537",
+      "fromID": "142970",
+      "toID": "142968",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

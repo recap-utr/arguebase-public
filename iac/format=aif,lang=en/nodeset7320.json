@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140728",
+      "text": "One other point. The beauty of science is that it's based on repeatable evidence. If I do a nifty experiment I can describe it to you, and you can do it yourself. If you don't get the same results then my conclusions are suspect. One of the defining characteristics of the supernatural is that it doesn't work on demand. So while convincing evidence might appear once, it's unlikely to appear again. This doesn't automatically mean that the supernatural isn't real, or that the original evidence is bogus. It does mean that scientific methods aren't necessarily the right tools to use to judge the supernatural. Science deals with laws, with constants. The supernatural is by definition a bit more flaky.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:05"
+    },
+    {
+      "nodeID": "140729",
+      "text": "One cannot have a controled experiment, as one can in the hard sciences. Psychology, anthropology and other disciplines also do not allow for controlled experiments. However, as with these other fields, one can do a detailed analysis of events that do occur to see if there is a common trend. For example, if people claim to see a supernatural event, take them aside separately to question them about the details. If one can be sure that they didn't get a chance to coordinate the details ahead of time and, nevertheless, the details match, then that would be evidence supporting the supernatural. If this happens consistently, then it would start giving strong support to the existence of a supernatural. Unfortunately, though there are occasional events that remain unexplained, we all know that the great majority of events have not resulted in any conclusive evidence of a supernatural and often they are shown to be simply fraudulent or due to psychological misinterpretation. Since so many of these claims about the supernatural have proven to be dead ends, it is understandable that people should automatically be wary of anyone's claim toward supernatural proof, which has led to the very subject being essentially taboo in intellectual circles. That is unfortunate. If there actually was a supernatural and did manifest itself, then it might never be discovered because any genuine evidence presented would be automatically ignored because of the taboo. The main challenge is to have the patience to weed through the thousands of bogus claims in the hope of finding something genuine - whether or not that hope ever gets fulfilled.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:05"
+    },
+    {
+      "nodeID": "140730",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:52:05"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183938",
+      "fromID": "140729",
+      "toID": "140730",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183939",
+      "fromID": "140730",
+      "toID": "140728",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

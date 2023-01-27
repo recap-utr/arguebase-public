@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "159139",
+      "text": "Ok, so there's about 2 per person. But how does natural selection work against these? Don't they just build up over time, causing degeneration?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:11"
+    },
+    {
+      "nodeID": "159140",
+      "text": "Not if they are so bad that the person doesn't live long enough to reproduce. Evolution is a very wasteful process and self-correcting to a certain extent. Plus, not all bad mutations are life threatening.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:12"
+    },
+    {
+      "nodeID": "159141",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:32:12"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196956",
+      "fromID": "159140",
+      "toID": "159141",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196957",
+      "fromID": "159141",
+      "toID": "159139",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

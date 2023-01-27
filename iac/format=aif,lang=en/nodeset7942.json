@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "150248",
+      "text": "Are you suggesting that belief in a devine being, whether real or not, who holds us accountable for our actions is a problem?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:12:18"
+    },
+    {
+      "nodeID": "150249",
+      "text": "I think if Islamic fundamentalism shows us nothing else it's that...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:12:18"
+    },
+    {
+      "nodeID": "150250",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:12:18"
+    },
+    {
+      "nodeID": "150251",
+      "text": "Have you read any of Sam Harris' work?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:12:18"
+    },
+    {
+      "nodeID": "150252",
+      "text": "No, but I agree with him that we should all be able to find our own spirituality without the religious hound dogs tracking us down. I don't think he would agree with how you and others approach the religious posts in this forum either. Even though I don't agree with everything I read of him, which is not much, I do think he's on the right track. I hope he can find the answers he's looking for. Who knows, he may even be able to find a cure for stupid.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:12:18"
+    },
+    {
+      "nodeID": "150253",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:12:19"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "190660",
+      "fromID": "150249",
+      "toID": "150250",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190661",
+      "fromID": "150250",
+      "toID": "150248",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190662",
+      "fromID": "150252",
+      "toID": "150253",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190663",
+      "fromID": "150253",
+      "toID": "150251",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

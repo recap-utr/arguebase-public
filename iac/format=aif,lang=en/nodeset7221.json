@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139499",
+      "text": "I am not saying what the criminals did was right, but neither was what Mr. Martin did. I have no problem with him killing them both.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:14"
+    },
+    {
+      "nodeID": "139500",
+      "text": "You do have a problem with this person defending himself or you would not be attacking him. Fear made him do this. The fear was created in him by the buglers.  You want unarmed passengers to attack armed terrorists on airplanes, but you have a problem with a home owner killing buglers.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:14"
+    },
+    {
+      "nodeID": "139501",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:49:14"
+    },
+    {
+      "nodeID": "139502",
+      "text": "Did YOU not read... He had no idea how many there were, he has been threatened with reataliation etc. etc.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:14"
+    },
+    {
+      "nodeID": "139503",
+      "text": "So after he was safe at the hotel, locked in his room, he did not call the police for so many hours because...?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:14"
+    },
+    {
+      "nodeID": "139504",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:49:14"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183066",
+      "fromID": "139500",
+      "toID": "139501",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183067",
+      "fromID": "139501",
+      "toID": "139499",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183068",
+      "fromID": "139503",
+      "toID": "139504",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183069",
+      "fromID": "139504",
+      "toID": "139502",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

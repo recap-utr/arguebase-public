@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "147152",
+      "text": "Basically this thread will talk about the following:[*]Human rights and how they come to exist [*]Reasons for human rights [*]How human rights relate to abortion [*]How morality deals with the issues of abortion [*]What makes someone deserving of human rights",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:38"
+    },
+    {
+      "nodeID": "147153",
+      "text": "So, are you both still interesting in debating these topics?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:38"
+    },
+    {
+      "nodeID": "147154",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:05:38"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "188480",
+      "fromID": "147153",
+      "toID": "147154",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188481",
+      "fromID": "147154",
+      "toID": "147152",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143516",
+      "text": "For example, we would be able to see partially formed eyes that would not fully function.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:19"
+    },
+    {
+      "nodeID": "143517",
+      "text": "And we do. In some phyla, most of the partially-formed examples still exist. You can find them in mollusks, for example. http://www.pnas.org/content/vol104/suppl_1/images/large/zpq0120756920001.jpeg",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:19"
+    },
+    {
+      "nodeID": "143518",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:58:19"
+    },
+    {
+      "nodeID": "143519",
+      "text": "An irreducibly complex system cannot be produced gradually by slight, successive modifications of a precursor system, since any precursor to an irreducibly complex system is by definition nonfunctional.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:19"
+    },
+    {
+      "nodeID": "143520",
+      "text": "Actually, if you had paid attention, you would know that every example of IR given by Behe has been debunked. Immune system? Sorry. Debunked. There are examples of organisms with intermediate steps. Blood cloting cascade? Sorry. There are example of animals that accomplish clotting without all of the 'necessary' factors. Bacerial flagellum? Sorry. Type III secretion systems appears to be a simplified sub-set of the bacterial flagellum's components. If only you took the time to actually educate yourself rather than trying to pass off mythology as reality.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:19"
+    },
+    {
+      "nodeID": "143521",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:58:19"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185916",
+      "fromID": "143517",
+      "toID": "143518",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185917",
+      "fromID": "143518",
+      "toID": "143516",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185918",
+      "fromID": "143520",
+      "toID": "143521",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185919",
+      "fromID": "143521",
+      "toID": "143519",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

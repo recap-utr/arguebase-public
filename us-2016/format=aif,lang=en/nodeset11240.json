@@ -1,0 +1,253 @@
+{
+  "nodes": [
+    {
+      "nodeID": "200650",
+      "text": "MisplacedUsername : Chafee just fucked himself",
+      "type": "L",
+      "timestamp": "2016-09-21 10:58:31"
+    },
+    {
+      "nodeID": "200652",
+      "text": "Chafee just fucked himself",
+      "type": "I",
+      "timestamp": "2016-09-21 10:58:31"
+    },
+    {
+      "nodeID": "200663",
+      "text": "MisplacedUsername : Cooper keeps saying \"you agreed to the rules\" to him",
+      "type": "L",
+      "timestamp": "2016-09-21 10:58:33"
+    },
+    {
+      "nodeID": "200665",
+      "text": "Cooper keeps saying \"you agreed to the rules\" to Webb",
+      "type": "I",
+      "timestamp": "2016-09-21 10:58:33"
+    },
+    {
+      "nodeID": "200682",
+      "text": "raika11182 : crying \"foul\" in a debate is bad form and shows weakness",
+      "type": "L",
+      "timestamp": "2016-09-21 10:58:36"
+    },
+    {
+      "nodeID": "200684",
+      "text": "crying \"foul\" in a debate is bad form and shows weakness",
+      "type": "I",
+      "timestamp": "2016-09-21 10:58:36"
+    },
+    {
+      "nodeID": "248950",
+      "text": "COOPER : You agreed to these rules",
+      "type": "L",
+      "timestamp": "2016-12-21 14:46:32"
+    },
+    {
+      "nodeID": "248972",
+      "text": "WEBB :  This hasn't been equal time",
+      "type": "L",
+      "timestamp": "2016-12-21 14:46:34"
+    },
+    {
+      "nodeID": "248974",
+      "text": "This hasn't been equal time",
+      "type": "I",
+      "timestamp": "2016-12-21 14:46:34"
+    },
+    {
+      "nodeID": "249018",
+      "text": "CHAFEE : The Glass-Steagall was my very first vote",
+      "type": "L",
+      "timestamp": "2016-12-21 14:46:39"
+    },
+    {
+      "nodeID": "249038",
+      "text": "CHAFEE : it was my very first vote",
+      "type": "L",
+      "timestamp": "2016-12-21 14:46:42"
+    },
+    {
+      "nodeID": "263867",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-07 20:54:48",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "263868",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-07 20:54:49",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "263869",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-07 20:54:49",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "263870",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-07 20:54:50",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "263871",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2017-03-07 20:54:51",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "263872",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2017-03-07 20:54:51",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "263873",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-07 20:54:52",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "263874",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-07 20:54:52",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "263875",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-07 20:54:53",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "318918",
+      "fromID": "248950",
+      "toID": "263867",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318919",
+      "fromID": "263867",
+      "toID": "200663",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318920",
+      "fromID": "200665",
+      "toID": "263868",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318921",
+      "fromID": "263868",
+      "toID": "248950",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318922",
+      "fromID": "263867",
+      "toID": "263869",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318923",
+      "fromID": "263869",
+      "toID": "263868",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318924",
+      "fromID": "249018",
+      "toID": "263870",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318925",
+      "fromID": "263870",
+      "toID": "200650",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318926",
+      "fromID": "249038",
+      "toID": "263871",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318927",
+      "fromID": "263871",
+      "toID": "200652",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318928",
+      "fromID": "263870",
+      "toID": "263872",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318929",
+      "fromID": "263872",
+      "toID": "263871",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318930",
+      "fromID": "248972",
+      "toID": "263873",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318931",
+      "fromID": "263873",
+      "toID": "200682",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318932",
+      "fromID": "200684",
+      "toID": "263874",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318933",
+      "fromID": "263874",
+      "toID": "248974",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318934",
+      "fromID": "263873",
+      "toID": "263875",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318935",
+      "fromID": "263875",
+      "toID": "263874",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

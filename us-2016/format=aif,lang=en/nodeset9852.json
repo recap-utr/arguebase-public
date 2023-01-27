@@ -1,0 +1,599 @@
+{
+  "nodes": [
+    {
+      "nodeID": "190596",
+      "text": "Powerments : Sorry Dems, you're not winning",
+      "type": "L",
+      "timestamp": "2016-08-08 12:10:09"
+    },
+    {
+      "nodeID": "190597",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-08 12:10:09",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "190598",
+      "text": "Dems are not winning",
+      "type": "I",
+      "timestamp": "2016-08-08 12:10:09"
+    },
+    {
+      "nodeID": "190599",
+      "text": "Barbara: Powerments : Sorry Dems, you're not winning",
+      "type": "L",
+      "timestamp": "2016-08-08 12:10:09"
+    },
+    {
+      "nodeID": "190600",
+      "text": "Limitin : I think Dems will win",
+      "type": "L",
+      "timestamp": "2016-08-08 12:10:09"
+    },
+    {
+      "nodeID": "190601",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-08 12:10:09",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "190602",
+      "text": "Dems will win",
+      "type": "I",
+      "timestamp": "2016-08-08 12:10:09"
+    },
+    {
+      "nodeID": "190603",
+      "text": "Barbara: Limitin : I think Dems will win",
+      "type": "L",
+      "timestamp": "2016-08-08 12:10:09"
+    },
+    {
+      "nodeID": "190604",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-08 12:10:10",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "190605",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-08-08 12:10:10",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "190606",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-08-08 12:10:10",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "190607",
+      "text": "Limitin : The republican side this year is nuts...",
+      "type": "L",
+      "timestamp": "2016-08-08 12:10:10"
+    },
+    {
+      "nodeID": "190608",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-08 12:10:10",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "190609",
+      "text": "the Republican side this year is nuts",
+      "type": "I",
+      "timestamp": "2016-08-08 12:10:10"
+    },
+    {
+      "nodeID": "190610",
+      "text": "Barbara: Limitin : The republican side this year is nuts...",
+      "type": "L",
+      "timestamp": "2016-08-08 12:10:10"
+    },
+    {
+      "nodeID": "190611",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-08-08 12:10:10",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "190612",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-08 12:10:10",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "190613",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-08-08 12:10:10",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "190614",
+      "text": "mjj1492 : Ahahahaha and Trump and Carson are? Lol",
+      "type": "L",
+      "timestamp": "2016-08-08 12:10:10"
+    },
+    {
+      "nodeID": "190615",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-08 12:10:11",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "190616",
+      "text": "Trump and Carson are not winning",
+      "type": "I",
+      "timestamp": "2016-08-08 12:10:11"
+    },
+    {
+      "nodeID": "190617",
+      "text": "Barbara: mjj1492 : Ahahahaha and Trump and Carson are? Lol",
+      "type": "L",
+      "timestamp": "2016-08-08 12:10:11"
+    },
+    {
+      "nodeID": "190618",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-08-08 12:10:11",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "190619",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-08 12:10:11",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "190620",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-08-08 12:10:11",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "190621",
+      "text": "jcw4455 : Trump2016? Amirite?",
+      "type": "L",
+      "timestamp": "2016-08-08 12:10:11"
+    },
+    {
+      "nodeID": "190622",
+      "text": "Rhetorical Questioning",
+      "type": "YA",
+      "timestamp": "2016-08-08 12:10:11",
+      "scheme": "RhetoricalQuestioning",
+      "schemeID": "85"
+    },
+    {
+      "nodeID": "190623",
+      "text": "Trump2016, am I right",
+      "type": "I",
+      "timestamp": "2016-08-08 12:10:11"
+    },
+    {
+      "nodeID": "190624",
+      "text": "Barbara: jcw4455 : Trump2016? Amirite?",
+      "type": "L",
+      "timestamp": "2016-08-08 12:10:12"
+    },
+    {
+      "nodeID": "190625",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-08 12:10:12",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "190626",
+      "text": "Barbara: imsowitty21 : This rationale is",
+      "type": "L",
+      "timestamp": "2016-08-08 12:10:12"
+    },
+    {
+      "nodeID": "190627",
+      "text": "imsowitty21 : This rationale is a reason why government is all fucked",
+      "type": "L",
+      "timestamp": "2016-08-08 12:10:12"
+    },
+    {
+      "nodeID": "190628",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-08 12:10:12",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "190629",
+      "text": "this rationale is a reason why government is all fucked",
+      "type": "I",
+      "timestamp": "2016-08-08 12:10:12"
+    },
+    {
+      "nodeID": "190630",
+      "text": "Barbara: imsowitty21 : This rationale is a reason why government is all fucked",
+      "type": "L",
+      "timestamp": "2016-08-08 12:10:12"
+    },
+    {
+      "nodeID": "190631",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-08-08 12:10:12",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "190632",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-08 12:10:12",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "190633",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-08-08 12:10:12",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "190634",
+      "text": "imsowitty21 : You aren't supporting a sports team",
+      "type": "L",
+      "timestamp": "2016-08-08 12:10:12"
+    },
+    {
+      "nodeID": "190635",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-08 12:10:13",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "190636",
+      "text": "you aren't supporting a sports team",
+      "type": "I",
+      "timestamp": "2016-08-08 12:10:13"
+    },
+    {
+      "nodeID": "190637",
+      "text": "Barbara: imsowitty21 : You aren't supporting a sports team",
+      "type": "L",
+      "timestamp": "2016-08-08 12:10:13"
+    },
+    {
+      "nodeID": "190638",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-08-08 12:10:13",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "190639",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-08 12:10:13",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "190640",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-08-08 12:10:13",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "233541",
+      "fromID": "190597",
+      "toID": "190598",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233542",
+      "fromID": "190596",
+      "toID": "190597",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233543",
+      "fromID": "190601",
+      "toID": "190602",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233544",
+      "fromID": "190600",
+      "toID": "190601",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233545",
+      "fromID": "190596",
+      "toID": "190604",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233546",
+      "fromID": "190604",
+      "toID": "190600",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233547",
+      "fromID": "190602",
+      "toID": "190605",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233548",
+      "fromID": "190605",
+      "toID": "190598",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233549",
+      "fromID": "190604",
+      "toID": "190606",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233550",
+      "fromID": "190606",
+      "toID": "190605",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233551",
+      "fromID": "190608",
+      "toID": "190609",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233552",
+      "fromID": "190607",
+      "toID": "190608",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233553",
+      "fromID": "190609",
+      "toID": "190611",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233554",
+      "fromID": "190611",
+      "toID": "190602",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233555",
+      "fromID": "190600",
+      "toID": "190612",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233556",
+      "fromID": "190612",
+      "toID": "190607",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233557",
+      "fromID": "190612",
+      "toID": "190613",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233558",
+      "fromID": "190613",
+      "toID": "190611",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233559",
+      "fromID": "190615",
+      "toID": "190616",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233560",
+      "fromID": "190614",
+      "toID": "190615",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233561",
+      "fromID": "190616",
+      "toID": "190618",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233562",
+      "fromID": "190618",
+      "toID": "190598",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233563",
+      "fromID": "190596",
+      "toID": "190619",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233564",
+      "fromID": "190619",
+      "toID": "190614",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233565",
+      "fromID": "190619",
+      "toID": "190620",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233566",
+      "fromID": "190620",
+      "toID": "190618",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233567",
+      "fromID": "190622",
+      "toID": "190623",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233568",
+      "fromID": "190621",
+      "toID": "190622",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233569",
+      "fromID": "190596",
+      "toID": "190625",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233570",
+      "fromID": "190625",
+      "toID": "190621",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233571",
+      "fromID": "190628",
+      "toID": "190629",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233572",
+      "fromID": "190627",
+      "toID": "190628",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233573",
+      "fromID": "190629",
+      "toID": "190631",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233574",
+      "fromID": "190631",
+      "toID": "190598",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233575",
+      "fromID": "190596",
+      "toID": "190632",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233576",
+      "fromID": "190632",
+      "toID": "190627",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233577",
+      "fromID": "190632",
+      "toID": "190633",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233578",
+      "fromID": "190633",
+      "toID": "190631",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233579",
+      "fromID": "190635",
+      "toID": "190636",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233580",
+      "fromID": "190634",
+      "toID": "190635",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233581",
+      "fromID": "190636",
+      "toID": "190638",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233582",
+      "fromID": "190638",
+      "toID": "190629",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233583",
+      "fromID": "190627",
+      "toID": "190639",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233584",
+      "fromID": "190639",
+      "toID": "190634",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233585",
+      "fromID": "190639",
+      "toID": "190640",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233586",
+      "fromID": "190640",
+      "toID": "190638",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

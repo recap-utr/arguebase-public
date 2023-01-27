@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139726",
+      "text": "I have to ride to the defense of us chemists.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:55"
+    },
+    {
+      "nodeID": "139727",
+      "text": "I can see why you might ;) My apologies to chemists everywhere.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:55"
+    },
+    {
+      "nodeID": "139728",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:49:55"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183222",
+      "fromID": "139727",
+      "toID": "139728",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183223",
+      "fromID": "139728",
+      "toID": "139726",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

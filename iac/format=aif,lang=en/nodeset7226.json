@@ -1,0 +1,121 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139528",
+      "text": "Some animals do not fall neatly into the categories of being warm or cold-blooded. Bats, for example, are mammals who cannot maintain a constant body temperature and cool off when they are not active. Echidnas maintain a range of body temperatures which usually lies between 77 and 98.6 degrees Fahrenheit and have difficulty cooling down. Mole Rats are another group of mammals who are unable to regulate their body temperature, however, since they live underground, the temperature of their environment does not change much. Some warm-blooded animals, such as bears, groundhogs, gophers and bats hibernate during the cold winter. During hibernation these animals live off of stored body fat and can drop their body temperatures by as much as 50 degrees Fahrenheit. The Hawk Moth is an insect which can raise its body temperature well above the temperature of its surroundings when it is flying because of its huge wing muscles which generate heat when in use. Bees are another example of insects that can raise their body temperatures above that of their environment by moving their wings rapidly to generate heat.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:20"
+    },
+    {
+      "nodeID": "139529",
+      "text": "More discussion: http://www.enchantedlearning.com/subjects/dinosaurs/anatomy/Blood.shtml",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:20"
+    },
+    {
+      "nodeID": "139530",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:49:20"
+    },
+    {
+      "nodeID": "139531",
+      "text": "The fact that these newly found feathered species are predecessors to T. rex implies that a lot of theropods had feathers so the evolution of the feather must have begun even before then.  Who can say if T. rex had any feathers at all. It's said that they lived in a pretty warm climate so they wouldn't really need feathers.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:20"
+    },
+    {
+      "nodeID": "139532",
+      "text": "This is an interesting area which has fascinated me for some time. It seems it would be quite a challenge to establish the direct lineage between the Tyrannosaurs and their coeluosaur ancestors given the limited numbers of fossils and the huge separation in time bwtween the animals. I suppose one important point is whether feathers were a characteristic feature of all Coelurosauria at the time when the chinese specimens date from or if they were limited to those group that were directly ancestral to the birds. If they were a diverse trait, then its more likely that feathers featured in T. Rex's ancestry. However, even if this were the case it would instantly mean that T. Rex was feathered itself- there is a great period of time over which such a trait could have been modified or lost entirely. Maybe T-Rex could have been like modern large mammals that do not have insulating hair- it might have retained a few specialised feathers for other specific purposes.  P.S. Hope you have a speedy recovery pandion emoticon_xgood",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:20"
+    },
+    {
+      "nodeID": "139533",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:49:20"
+    },
+    {
+      "nodeID": "139534",
+      "text": "Who can say if T. rex had any feathers at all. It's said that they lived in a pretty warm climate so they wouldn't really need feathers. .",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:20"
+    },
+    {
+      "nodeID": "139535",
+      "text": "Perhaps this throws light on the question of whether T.rex was warm-bloodied or cold-bloodied. The possibility (if confirmed) of a feathered T.rex seems to indicate that they were warm-bloodied creatures that required insulation in a cool climate ???",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:20"
+    },
+    {
+      "nodeID": "139536",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:49:21"
+    },
+    {
+      "nodeID": "139537",
+      "text": "Oh, yeah, the show went into this. They didn't really talk about T. rex that much at all. But they were pretty sure that the feathered dinosaurs must have been 'warm-blooded' or somewhere toward truly warm blooded. There are still some animals today that aren't all the way (but dinos, or some dinos, could have been all the way, who knows?) http://coolcosmos.ipac.caltech.edu/image_galleries/ir_zoo/coldwarm.html",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:21"
+    },
+    {
+      "nodeID": "139538",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:49:21"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183086",
+      "fromID": "139529",
+      "toID": "139530",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183087",
+      "fromID": "139530",
+      "toID": "139528",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183088",
+      "fromID": "139532",
+      "toID": "139533",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183089",
+      "fromID": "139533",
+      "toID": "139531",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183090",
+      "fromID": "139535",
+      "toID": "139536",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183091",
+      "fromID": "139536",
+      "toID": "139534",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183092",
+      "fromID": "139537",
+      "toID": "139538",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183093",
+      "fromID": "139538",
+      "toID": "139535",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

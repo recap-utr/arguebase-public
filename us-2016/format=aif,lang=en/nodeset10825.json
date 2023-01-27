@@ -1,0 +1,803 @@
+{
+  "nodes": [
+    {
+      "nodeID": "250270",
+      "text": "SANDERS : This is a great country",
+      "type": "L",
+      "timestamp": "2016-12-21 17:29:23"
+    },
+    {
+      "nodeID": "250271",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:29:23",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "250272",
+      "text": "this is a great country",
+      "type": "I",
+      "timestamp": "2016-12-21 17:29:23"
+    },
+    {
+      "nodeID": "250273",
+      "text": "Barbara: SANDERS : This is a great country",
+      "type": "L",
+      "timestamp": "2016-12-21 17:29:24"
+    },
+    {
+      "nodeID": "250274",
+      "text": "SANDERS : we have many, many serious problems",
+      "type": "L",
+      "timestamp": "2016-12-21 17:29:24"
+    },
+    {
+      "nodeID": "250275",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:29:24",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "250276",
+      "text": "we have many, many serious problems",
+      "type": "I",
+      "timestamp": "2016-12-21 17:29:24"
+    },
+    {
+      "nodeID": "250277",
+      "text": "Barbara: SANDERS : we have many, many serious problems",
+      "type": "L",
+      "timestamp": "2016-12-21 17:29:24"
+    },
+    {
+      "nodeID": "250278",
+      "text": "SANDERS : We should not be the country that has the highest rate of childhood poverty of any major country and more wealth and income inequality than any other country",
+      "type": "L",
+      "timestamp": "2016-12-21 17:29:24"
+    },
+    {
+      "nodeID": "250279",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:29:24",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "250280",
+      "text": "we should not be the country that has the highest rate of childhood poverty of any major country and more wealth and income inequality than any other country",
+      "type": "I",
+      "timestamp": "2016-12-21 17:29:24"
+    },
+    {
+      "nodeID": "250281",
+      "text": "Barbara: SANDERS : We should not be the country that has the highest rate of childhood poverty of any major country and more wealth and income inequality than any other country",
+      "type": "L",
+      "timestamp": "2016-12-21 17:29:24"
+    },
+    {
+      "nodeID": "250282",
+      "text": "SANDERS : We should not be the only major country on Earth that does not guarantee health care to all of our people as a right of citizenship",
+      "type": "L",
+      "timestamp": "2016-12-21 17:29:25"
+    },
+    {
+      "nodeID": "250283",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:29:25",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "250284",
+      "text": "we should not be the only major country on Earth that does not guarantee health care to all of our people as a right of citizenship",
+      "type": "I",
+      "timestamp": "2016-12-21 17:29:25"
+    },
+    {
+      "nodeID": "250285",
+      "text": "Barbara: SANDERS : We should not be the only major country on Earth that does not guarantee health care to all of our people as a right of citizenship",
+      "type": "L",
+      "timestamp": "2016-12-21 17:29:25"
+    },
+    {
+      "nodeID": "250286",
+      "text": "SANDERS : we should not be the only major country that does not provide medical and \u2014 and parental leave \u2014 family and parental leave to all of our families",
+      "type": "L",
+      "timestamp": "2016-12-21 17:29:25"
+    },
+    {
+      "nodeID": "250287",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:29:25",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "250288",
+      "text": "we should not be the only major country that does not provide medical and family and parental leave to all of our families",
+      "type": "I",
+      "timestamp": "2016-12-21 17:29:25"
+    },
+    {
+      "nodeID": "250289",
+      "text": "Barbara: SANDERS : we should not be the only major country that does not provide medical and \u2014 and parental leave \u2014 family and parental leave to all of our families",
+      "type": "L",
+      "timestamp": "2016-12-21 17:29:25"
+    },
+    {
+      "nodeID": "250290",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:29:26",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "250291",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:29:26",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "250292",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:29:26",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "250293",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:29:26",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "250294",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:29:26",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "250295",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:29:26",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "250296",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:29:26",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "250297",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:29:26",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "250298",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:29:27",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "250299",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:29:27",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "250300",
+      "text": "SANDERS : at the end of our day, here is the truth that very few candidates will say, is that nobody up here, certainly no Republican, can address",
+      "type": "L",
+      "timestamp": "2016-12-21 17:29:27"
+    },
+    {
+      "nodeID": "250301",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:29:27",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "250302",
+      "text": "at the end of our day, here is the truth that very few candidates will say, is that nobody up here, certainly no Republican, can address",
+      "type": "I",
+      "timestamp": "2016-12-21 17:29:27"
+    },
+    {
+      "nodeID": "250303",
+      "text": "Barbara: SANDERS : at the end of our day, here is the truth that very few candidates will say, is that nobody up here, certainly no Republican, can address",
+      "type": "L",
+      "timestamp": "2016-12-21 17:29:27"
+    },
+    {
+      "nodeID": "250304",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:29:27",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "250305",
+      "text": "SANDERS : the major crises facing our country unless millions of people begin to stand up to the billionaire class that has so much power over our economy and our political life",
+      "type": "L",
+      "timestamp": "2016-12-21 17:29:27"
+    },
+    {
+      "nodeID": "250306",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:29:28",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "250307",
+      "text": "the major crises facing our country unless millions of people begin to stand up to the billionaire class that has so much power over our economy and our political life",
+      "type": "I",
+      "timestamp": "2016-12-21 17:29:28"
+    },
+    {
+      "nodeID": "250308",
+      "text": "Barbara: SANDERS : the major crises facing our country unless millions of people begin to stand up to the billionaire class that has so much power over our economy and our political life",
+      "type": "L",
+      "timestamp": "2016-12-21 17:29:28"
+    },
+    {
+      "nodeID": "250309",
+      "text": "SANDERS : Jim Webb is right: Money is pouring in to this campaign through super PACs",
+      "type": "L",
+      "timestamp": "2016-12-21 17:29:28"
+    },
+    {
+      "nodeID": "250310",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:29:28",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "250311",
+      "text": "WEBB is right: Money is pouring in to this campaign through super PACs",
+      "type": "I",
+      "timestamp": "2016-12-21 17:29:28"
+    },
+    {
+      "nodeID": "250312",
+      "text": "Barbara: SANDERS : Jim Webb is right: Money is pouring in to this campaign through super PACs",
+      "type": "L",
+      "timestamp": "2016-12-21 17:29:28"
+    },
+    {
+      "nodeID": "250313",
+      "text": "SANDERS : We are doing it the old-fashioned way: 650,000 individual contributions",
+      "type": "L",
+      "timestamp": "2016-12-21 17:29:28"
+    },
+    {
+      "nodeID": "250314",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:29:28",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "250315",
+      "text": "we are doing it the old-fashioned way: 650,000 individual contributions",
+      "type": "I",
+      "timestamp": "2016-12-21 17:29:29"
+    },
+    {
+      "nodeID": "250316",
+      "text": "Barbara: SANDERS : We are doing it the old-fashioned way: 650,000 individual contributions",
+      "type": "L",
+      "timestamp": "2016-12-21 17:29:29"
+    },
+    {
+      "nodeID": "250317",
+      "text": "SANDERS : And if people want to help us out, BernieSanders.com",
+      "type": "L",
+      "timestamp": "2016-12-21 17:29:29"
+    },
+    {
+      "nodeID": "250318",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:29:29",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "250319",
+      "text": "if people want to help us out, BernieSanders.com",
+      "type": "I",
+      "timestamp": "2016-12-21 17:29:29"
+    },
+    {
+      "nodeID": "250320",
+      "text": "Barbara: SANDERS : And if people want to help us out, BernieSanders.com",
+      "type": "L",
+      "timestamp": "2016-12-21 17:29:29"
+    },
+    {
+      "nodeID": "250321",
+      "text": "SANDERS : We are averaging $30 bucks apiece",
+      "type": "L",
+      "timestamp": "2016-12-21 17:29:29"
+    },
+    {
+      "nodeID": "250322",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:29:29",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "250323",
+      "text": "we are averaging $30 bucks apiece",
+      "type": "I",
+      "timestamp": "2016-12-21 17:29:29"
+    },
+    {
+      "nodeID": "250324",
+      "text": "Barbara: SANDERS : We are averaging $30 bucks apiece",
+      "type": "L",
+      "timestamp": "2016-12-21 17:29:30"
+    },
+    {
+      "nodeID": "250325",
+      "text": "SANDERS : We would appreciate your help",
+      "type": "L",
+      "timestamp": "2016-12-21 17:29:30"
+    },
+    {
+      "nodeID": "250326",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:29:30",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "250327",
+      "text": "we would appreciate your help",
+      "type": "I",
+      "timestamp": "2016-12-21 17:29:30"
+    },
+    {
+      "nodeID": "250328",
+      "text": "Barbara: SANDERS : We would appreciate your help",
+      "type": "L",
+      "timestamp": "2016-12-21 17:29:30"
+    },
+    {
+      "nodeID": "250329",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:29:30",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "250330",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:29:30",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "250331",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:29:30",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "250332",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:29:30",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "250333",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:29:31",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "250334",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:29:31",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "301749",
+      "fromID": "250271",
+      "toID": "250272",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301750",
+      "fromID": "250270",
+      "toID": "250271",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301751",
+      "fromID": "250275",
+      "toID": "250276",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301752",
+      "fromID": "250274",
+      "toID": "250275",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301753",
+      "fromID": "250279",
+      "toID": "250280",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301754",
+      "fromID": "250278",
+      "toID": "250279",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301755",
+      "fromID": "250283",
+      "toID": "250284",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301756",
+      "fromID": "250282",
+      "toID": "250283",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301757",
+      "fromID": "250287",
+      "toID": "250288",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301758",
+      "fromID": "250286",
+      "toID": "250287",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301759",
+      "fromID": "250288",
+      "toID": "250290",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301760",
+      "fromID": "250290",
+      "toID": "250276",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301761",
+      "fromID": "250284",
+      "toID": "250291",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301762",
+      "fromID": "250291",
+      "toID": "250276",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301763",
+      "fromID": "250280",
+      "toID": "250292",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301764",
+      "fromID": "250292",
+      "toID": "250276",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301765",
+      "fromID": "250274",
+      "toID": "250293",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301766",
+      "fromID": "250293",
+      "toID": "250286",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301767",
+      "fromID": "250293",
+      "toID": "250294",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301768",
+      "fromID": "250294",
+      "toID": "250290",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301769",
+      "fromID": "250274",
+      "toID": "250295",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301770",
+      "fromID": "250295",
+      "toID": "250282",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301771",
+      "fromID": "250295",
+      "toID": "250296",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301772",
+      "fromID": "250296",
+      "toID": "250291",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301773",
+      "fromID": "250274",
+      "toID": "250297",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301774",
+      "fromID": "250297",
+      "toID": "250278",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301775",
+      "fromID": "250297",
+      "toID": "250298",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301776",
+      "fromID": "250298",
+      "toID": "250292",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301777",
+      "fromID": "250270",
+      "toID": "250299",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301778",
+      "fromID": "250299",
+      "toID": "250274",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301779",
+      "fromID": "250301",
+      "toID": "250302",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301780",
+      "fromID": "250300",
+      "toID": "250301",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301781",
+      "fromID": "250286",
+      "toID": "250304",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301782",
+      "fromID": "250304",
+      "toID": "250300",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301783",
+      "fromID": "250306",
+      "toID": "250307",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301784",
+      "fromID": "250305",
+      "toID": "250306",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301785",
+      "fromID": "250310",
+      "toID": "250311",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301786",
+      "fromID": "250309",
+      "toID": "250310",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301787",
+      "fromID": "250314",
+      "toID": "250315",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301788",
+      "fromID": "250313",
+      "toID": "250314",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301789",
+      "fromID": "250318",
+      "toID": "250319",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301790",
+      "fromID": "250317",
+      "toID": "250318",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301791",
+      "fromID": "250322",
+      "toID": "250323",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301792",
+      "fromID": "250321",
+      "toID": "250322",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301793",
+      "fromID": "250326",
+      "toID": "250327",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301794",
+      "fromID": "250325",
+      "toID": "250326",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301795",
+      "fromID": "250309",
+      "toID": "250329",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301796",
+      "fromID": "250329",
+      "toID": "250313",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301797",
+      "fromID": "250313",
+      "toID": "250330",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301798",
+      "fromID": "250330",
+      "toID": "250317",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301799",
+      "fromID": "250317",
+      "toID": "250331",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301800",
+      "fromID": "250331",
+      "toID": "250321",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301801",
+      "fromID": "250321",
+      "toID": "250332",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301802",
+      "fromID": "250332",
+      "toID": "250325",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301803",
+      "fromID": "250300",
+      "toID": "250333",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301804",
+      "fromID": "250333",
+      "toID": "250305",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301805",
+      "fromID": "250305",
+      "toID": "250334",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301806",
+      "fromID": "250334",
+      "toID": "250309",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

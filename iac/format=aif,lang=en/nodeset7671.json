@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "146076",
+      "text": "The reason the dems wimp out is because the gun nuts votes are likely to be swayed by a candidate's position on gun control, whereas non gun nuts, while having an opinion, are most likely concerned about other issues. It is the same reason people don't tend to come out loudly pro-choice, even though the majority of the US population are pro-choice.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:29"
+    },
+    {
+      "nodeID": "146077",
+      "text": "Well said. Most Americans favor more gun control, but unfortunately this majority of Americans tends not to vote based on the issue of gun control while a very vocal minority composed of gun activists definitely does vote based on the issue. This is something politicians have realized since 1994 so they have been more hesitant to support gun control. There probably will be more gun control supporters in office in the coming years but I'm not sure how much this will change things.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:29"
+    },
+    {
+      "nodeID": "146078",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:03:29"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187716",
+      "fromID": "146077",
+      "toID": "146078",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187717",
+      "fromID": "146078",
+      "toID": "146076",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

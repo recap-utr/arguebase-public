@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140160",
+      "text": "I wish that Roman Catholic Mexico valued the lives of women as much as it does the existence of fetuses. Then, perhaps, they would track down the villains who prey upon and murder Mexican women wholesale, instead of forcing Mexican women to become pregnant in order to die in a different way.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:50"
+    },
+    {
+      "nodeID": "140161",
+      "text": "It does, it treats them equally, it is you that discriminates.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:50"
+    },
+    {
+      "nodeID": "140162",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:50"
+    },
+    {
+      "nodeID": "140163",
+      "text": "Thats really funny to me. Women most assuredly are not treated equally by most of Mexico - Roman Catholic or not.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:50"
+    },
+    {
+      "nodeID": "140164",
+      "text": "Substantiate this claim.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:50"
+    },
+    {
+      "nodeID": "140165",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:50:50"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183534",
+      "fromID": "140161",
+      "toID": "140162",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183535",
+      "fromID": "140162",
+      "toID": "140160",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183536",
+      "fromID": "140164",
+      "toID": "140165",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183537",
+      "fromID": "140165",
+      "toID": "140163",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

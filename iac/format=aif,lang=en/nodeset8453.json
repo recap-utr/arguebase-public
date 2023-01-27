@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157542",
+      "text": "lol, no one has given a good answer about where this 'right' comes from either. The constitution fails you, the belief of society fails you, God fails you (as in this right is not given), so where does it comes from???",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:40"
+    },
+    {
+      "nodeID": "157543",
+      "text": "Well, then we get into the sticky area of 'what exactly is a right' and 'where do they come from'. Personally, I believe that a right is simply a type of behaviour that is socially permissable. It doesn't have to be encouraged or enjoyed, it just has to be tolerated. Now, there is a difference between what rights people actually have, and what rights you think people should have. They don't have to come from some outdated and irrelevant constitution, and certainly aren't granted by any mythical god.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:40"
+    },
+    {
+      "nodeID": "157544",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:28:40"
+    },
+    {
+      "nodeID": "157545",
+      "text": "I still would argue against there even being this right though. Even if it did exist the right would end when it effects someone else.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:40"
+    },
+    {
+      "nodeID": "157546",
+      "text": "Well, when we talk about rights as allowable behaviour, then yes we do have this right. And it doesn't end when it affects someone else. GALTON:",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:40"
+    },
+    {
+      "nodeID": "157547",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:28:40"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195812",
+      "fromID": "157543",
+      "toID": "157544",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195813",
+      "fromID": "157544",
+      "toID": "157542",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195814",
+      "fromID": "157546",
+      "toID": "157547",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195815",
+      "fromID": "157547",
+      "toID": "157545",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

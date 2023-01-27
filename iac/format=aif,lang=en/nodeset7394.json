@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141639",
+      "text": "Actually this is something that this choicer has been well aware of. I have long had addressing poverty issues and domestic violence on my lists of ways that could reduce abortion. The bit about 'seeking out an abusive mate because they secretly feel they deserve it' is a bit hard to swallow though. Usually an abuser reveals himself as such after the woman is in love, committed, etc. I do believe that there is a cycle to it, though. If abuse is what you know, what you grew up with, than you are more likely to have it in your adult life - but I don't buy that women purposely seek it out.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:10"
+    },
+    {
+      "nodeID": "141640",
+      "text": "Yeah, it normally isn't that a woman seeks out someone to abuse them but an abused woman is more likely to end up with someone that will abuse them as that is what they know and that an abusing can have qualities that make the abused feel comfortable.  This is true for anyone though...often you are attracted to certain things.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:10"
+    },
+    {
+      "nodeID": "141641",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:54:10"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184584",
+      "fromID": "141640",
+      "toID": "141641",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184585",
+      "fromID": "141641",
+      "toID": "141639",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

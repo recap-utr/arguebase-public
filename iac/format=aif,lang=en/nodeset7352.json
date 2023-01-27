@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141169",
+      "text": "...is that they think that ...they aren't loved...",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:04"
+    },
+    {
+      "nodeID": "141170",
+      "text": "Might be something to be said for that. Are there any studies that show possible causes of suicide?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:04"
+    },
+    {
+      "nodeID": "141171",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:53:04"
+    },
+    {
+      "nodeID": "141172",
+      "text": "...and...that they are just 'rearranged pondscum'.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:04"
+    },
+    {
+      "nodeID": "141173",
+      "text": "Really? And how do you come to this conclusion? Are there a lot of teen-age suicide notes that complain of being rearranged pondscum? And what does 'rearranged pondscum' have to do with evolution, anyway?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:04"
+    },
+    {
+      "nodeID": "141174",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:53:04"
+    },
+    {
+      "nodeID": "141175",
+      "text": "I am a Christian, so I believe that the meaning of life is to be re-acquainted with God and to live your life in according to his Word. Which, in my opinion is a far better life than: 'I'm born of chance, I didn't ask to be here, I serve no purpose, so I might as well live egocentrically for the next 78.4 years until my life ends.'",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:04"
+    },
+    {
+      "nodeID": "141176",
+      "text": "78.4 years? Well excuse me but I intend to live much longer than that. I was thinking about 112.7 years. Yeah. That's about right.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:04"
+    },
+    {
+      "nodeID": "141177",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:53:05"
+    },
+    {
+      "nodeID": "141178",
+      "text": "I believe that the reason why we have so many youth susicides in Australia and else where...",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:05"
+    },
+    {
+      "nodeID": "141179",
+      "text": "Is the suicide rate in Australia higher than other places?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:05"
+    },
+    {
+      "nodeID": "141180",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:53:05"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184250",
+      "fromID": "141170",
+      "toID": "141171",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184251",
+      "fromID": "141171",
+      "toID": "141169",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184252",
+      "fromID": "141173",
+      "toID": "141174",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184253",
+      "fromID": "141174",
+      "toID": "141172",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184254",
+      "fromID": "141176",
+      "toID": "141177",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184255",
+      "fromID": "141177",
+      "toID": "141175",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184256",
+      "fromID": "141179",
+      "toID": "141180",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184257",
+      "fromID": "141180",
+      "toID": "141178",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

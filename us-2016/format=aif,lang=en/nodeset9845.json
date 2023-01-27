@@ -1,0 +1,643 @@
+{
+  "nodes": [
+    {
+      "nodeID": "190160",
+      "text": "jikls : Sanders please answer the questions",
+      "type": "L",
+      "timestamp": "2016-08-05 15:43:40"
+    },
+    {
+      "nodeID": "190161",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-05 15:43:40",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "190162",
+      "text": "Bernie Sanders should answer the questions",
+      "type": "I",
+      "timestamp": "2016-08-05 15:43:40"
+    },
+    {
+      "nodeID": "190163",
+      "text": "Barbara: jikls : Sanders please answer the questions",
+      "type": "L",
+      "timestamp": "2016-08-05 15:43:40"
+    },
+    {
+      "nodeID": "190164",
+      "text": "Barbara: 152515 : What has he not answered?",
+      "type": "L",
+      "timestamp": "2016-08-05 15:43:40"
+    },
+    {
+      "nodeID": "190165",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-05 15:43:41",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "190166",
+      "text": "152515 : What has he not answered",
+      "type": "L",
+      "timestamp": "2016-08-05 15:43:41"
+    },
+    {
+      "nodeID": "190167",
+      "text": "Assertive Challenging",
+      "type": "YA",
+      "timestamp": "2016-08-05 15:43:41",
+      "scheme": "AssertiveChallenging",
+      "schemeID": "87"
+    },
+    {
+      "nodeID": "190168",
+      "text": "he has answered questions",
+      "type": "I",
+      "timestamp": "2016-08-05 15:43:41"
+    },
+    {
+      "nodeID": "190169",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-08-05 15:43:41",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "190170",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-08-05 15:43:41",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "190171",
+      "text": "ikls : This is coming from a Sanders supporter: pretty much every question so far",
+      "type": "L",
+      "timestamp": "2016-08-05 15:43:41"
+    },
+    {
+      "nodeID": "190172",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-05 15:43:41",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "190173",
+      "text": "Bernie Sanders has not answered to pretty much every question so far",
+      "type": "I",
+      "timestamp": "2016-08-05 15:43:41"
+    },
+    {
+      "nodeID": "190174",
+      "text": "Barbara: ikls : This is coming from a Sanders supporter: pretty much every question so far.",
+      "type": "L",
+      "timestamp": "2016-08-05 15:43:41"
+    },
+    {
+      "nodeID": "190175",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-08-05 15:43:42",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "190176",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-05 15:43:42",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "190177",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-08-05 15:43:42",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "190178",
+      "text": "152515 : I think the opposite is true",
+      "type": "L",
+      "timestamp": "2016-08-05 15:43:42"
+    },
+    {
+      "nodeID": "190179",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-05 15:43:42",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "190180",
+      "text": "Bernie Sanders has answered to pretty much every question so far",
+      "type": "I",
+      "timestamp": "2016-08-05 15:43:42"
+    },
+    {
+      "nodeID": "190181",
+      "text": "Barbara: 152515 : I think the opposite is true",
+      "type": "L",
+      "timestamp": "2016-08-05 15:43:42"
+    },
+    {
+      "nodeID": "190182",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-08-05 15:43:42",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "190183",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-05 15:43:42",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "190184",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-08-05 15:43:42",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "190185",
+      "text": "152515 : Any specific examples?",
+      "type": "L",
+      "timestamp": "2016-08-05 15:43:42"
+    },
+    {
+      "nodeID": "190186",
+      "text": "Directive Questioning",
+      "type": "YA",
+      "timestamp": "2016-08-05 15:43:43",
+      "scheme": "Directive Questioning",
+      "schemeID": "147"
+    },
+    {
+      "nodeID": "190187",
+      "text": "provide any specific examples",
+      "type": "I",
+      "timestamp": "2016-08-05 15:43:43"
+    },
+    {
+      "nodeID": "190188",
+      "text": "Barbara: 152515 : Any specific examples?",
+      "type": "L",
+      "timestamp": "2016-08-05 15:43:43"
+    },
+    {
+      "nodeID": "190189",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-05 15:43:43",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "190190",
+      "text": "spendthatmoney : He can't",
+      "type": "L",
+      "timestamp": "2016-08-05 15:43:43"
+    },
+    {
+      "nodeID": "190191",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-05 15:43:43",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "190192",
+      "text": "Bernie Sanders can't answer the questions",
+      "type": "I",
+      "timestamp": "2016-08-05 15:43:43"
+    },
+    {
+      "nodeID": "190193",
+      "text": "Barbara: spendthatmoney : He can't",
+      "type": "L",
+      "timestamp": "2016-08-05 15:43:43"
+    },
+    {
+      "nodeID": "190194",
+      "text": "spendthatmoney : he doesn't have answers",
+      "type": "L",
+      "timestamp": "2016-08-05 15:43:43"
+    },
+    {
+      "nodeID": "190195",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-05 15:43:43",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "190196",
+      "text": "Bernie Sanders doesn't have answers",
+      "type": "I",
+      "timestamp": "2016-08-05 15:43:43"
+    },
+    {
+      "nodeID": "190197",
+      "text": "Barbara: spendthatmoney : he doesn't have answers",
+      "type": "L",
+      "timestamp": "2016-08-05 15:43:43"
+    },
+    {
+      "nodeID": "190198",
+      "text": "spendthatmoney : All he knows how to do is blame other people",
+      "type": "L",
+      "timestamp": "2016-08-05 15:43:44"
+    },
+    {
+      "nodeID": "190199",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-05 15:43:44",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "190200",
+      "text": "all Bernie Sanders knows how to do is blame other people",
+      "type": "I",
+      "timestamp": "2016-08-05 15:43:44"
+    },
+    {
+      "nodeID": "190201",
+      "text": "Barbara: spendthatmoney : All he knows how to do is blame other people",
+      "type": "L",
+      "timestamp": "2016-08-05 15:43:44"
+    },
+    {
+      "nodeID": "190202",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-08-05 15:43:44",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "190203",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-05 15:43:44",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "190204",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-08-05 15:43:44",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "190205",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-08-05 15:43:44",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "190206",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-05 15:43:44",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "190207",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-08-05 15:43:44",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "233101",
+      "fromID": "190161",
+      "toID": "190162",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233102",
+      "fromID": "190160",
+      "toID": "190161",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233103",
+      "fromID": "190160",
+      "toID": "190165",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233104",
+      "fromID": "190167",
+      "toID": "190168",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233105",
+      "fromID": "190166",
+      "toID": "190167",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233106",
+      "fromID": "190168",
+      "toID": "190169",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233107",
+      "fromID": "190169",
+      "toID": "190162",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233108",
+      "fromID": "190165",
+      "toID": "190166",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233109",
+      "fromID": "190165",
+      "toID": "190170",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233110",
+      "fromID": "190170",
+      "toID": "190169",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233111",
+      "fromID": "190172",
+      "toID": "190173",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233112",
+      "fromID": "190171",
+      "toID": "190172",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233113",
+      "fromID": "190173",
+      "toID": "190175",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233114",
+      "fromID": "190175",
+      "toID": "190168",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233115",
+      "fromID": "190166",
+      "toID": "190176",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233116",
+      "fromID": "190176",
+      "toID": "190171",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233117",
+      "fromID": "190176",
+      "toID": "190177",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233118",
+      "fromID": "190177",
+      "toID": "190175",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233119",
+      "fromID": "190179",
+      "toID": "190180",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233120",
+      "fromID": "190178",
+      "toID": "190179",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233121",
+      "fromID": "190180",
+      "toID": "190182",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233122",
+      "fromID": "190182",
+      "toID": "190173",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233123",
+      "fromID": "190171",
+      "toID": "190183",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233124",
+      "fromID": "190183",
+      "toID": "190178",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233125",
+      "fromID": "190183",
+      "toID": "190184",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233126",
+      "fromID": "190184",
+      "toID": "190182",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233127",
+      "fromID": "190186",
+      "toID": "190187",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233128",
+      "fromID": "190185",
+      "toID": "190186",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233129",
+      "fromID": "190171",
+      "toID": "190189",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233130",
+      "fromID": "190189",
+      "toID": "190185",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233131",
+      "fromID": "190191",
+      "toID": "190192",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233132",
+      "fromID": "190190",
+      "toID": "190191",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233133",
+      "fromID": "190195",
+      "toID": "190196",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233134",
+      "fromID": "190194",
+      "toID": "190195",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233135",
+      "fromID": "190199",
+      "toID": "190200",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233136",
+      "fromID": "190198",
+      "toID": "190199",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233137",
+      "fromID": "190200",
+      "toID": "190202",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233138",
+      "fromID": "190202",
+      "toID": "190192",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233139",
+      "fromID": "190196",
+      "toID": "190202",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233140",
+      "fromID": "190190",
+      "toID": "190203",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233141",
+      "fromID": "190203",
+      "toID": "190198",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233142",
+      "fromID": "190203",
+      "toID": "190194",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233143",
+      "fromID": "190203",
+      "toID": "190204",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233144",
+      "fromID": "190204",
+      "toID": "190202",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233145",
+      "fromID": "190192",
+      "toID": "190205",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233146",
+      "fromID": "190205",
+      "toID": "190162",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233147",
+      "fromID": "190160",
+      "toID": "190206",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233148",
+      "fromID": "190206",
+      "toID": "190190",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233149",
+      "fromID": "190206",
+      "toID": "190207",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233150",
+      "fromID": "190207",
+      "toID": "190205",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,569 @@
+{
+  "nodes": [
+    {
+      "nodeID": "201355",
+      "text": "fauxromanou : I like Hilary's \"fuck the republicans\" stance",
+      "type": "L",
+      "timestamp": "2016-09-22 09:57:39"
+    },
+    {
+      "nodeID": "201356",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-22 09:57:39",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "201357",
+      "text": "I like Hilary Clinton's \"fuck the republicans\" stance",
+      "type": "I",
+      "timestamp": "2016-09-22 09:57:39"
+    },
+    {
+      "nodeID": "201358",
+      "text": "Barbara: fauxromanou : I like Hilary's \"fuck the republicans\" stance",
+      "type": "L",
+      "timestamp": "2016-09-22 09:57:39"
+    },
+    {
+      "nodeID": "201359",
+      "text": "Barbara: GeeBeeH : which is cool and but i dont care",
+      "type": "L",
+      "timestamp": "2016-09-22 09:57:39"
+    },
+    {
+      "nodeID": "201360",
+      "text": "GeeBeeH : which is cool",
+      "type": "L",
+      "timestamp": "2016-09-22 09:57:39"
+    },
+    {
+      "nodeID": "201361",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-22 09:57:39",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "201362",
+      "text": "Hillary Clinton's stance is cool",
+      "type": "I",
+      "timestamp": "2016-09-22 09:57:39"
+    },
+    {
+      "nodeID": "201363",
+      "text": "Barbara: GeeBeeH : which is cool",
+      "type": "L",
+      "timestamp": "2016-09-22 09:57:40"
+    },
+    {
+      "nodeID": "201364",
+      "text": "GeeBeeH :  i dont care",
+      "type": "L",
+      "timestamp": "2016-09-22 09:57:40"
+    },
+    {
+      "nodeID": "201365",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-22 09:57:40",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "201366",
+      "text": "i dont care",
+      "type": "I",
+      "timestamp": "2016-09-22 09:57:40"
+    },
+    {
+      "nodeID": "201367",
+      "text": "Barbara: GeeBeeH :  i dont care",
+      "type": "L",
+      "timestamp": "2016-09-22 09:57:40"
+    },
+    {
+      "nodeID": "201368",
+      "text": "GeeBeeH : We want to keep hearing about how much they suck",
+      "type": "L",
+      "timestamp": "2016-09-22 09:57:40"
+    },
+    {
+      "nodeID": "201369",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-22 09:57:40",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "201370",
+      "text": "we want to keep hearing about how much they suck",
+      "type": "I",
+      "timestamp": "2016-09-22 09:57:40"
+    },
+    {
+      "nodeID": "201371",
+      "text": "Barbara: GeeBeeH : We want to keep hearing about how much they suck",
+      "type": "L",
+      "timestamp": "2016-09-22 09:57:40"
+    },
+    {
+      "nodeID": "201372",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-22 09:57:40",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "201373",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-22 09:57:40",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "201374",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-22 09:57:41",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "201375",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-09-22 09:57:41",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "201376",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-09-22 09:57:41",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "201377",
+      "text": "GetBorn800 : Do you think that arguing \"the other side is bad\" is actually helpful for our political system",
+      "type": "L",
+      "timestamp": "2016-09-22 09:57:41"
+    },
+    {
+      "nodeID": "201378",
+      "text": "Assertive Questioning",
+      "type": "YA",
+      "timestamp": "2016-09-22 09:57:41",
+      "scheme": "AssertiveQuestioning",
+      "schemeID": "73"
+    },
+    {
+      "nodeID": "201379",
+      "text": "arguing \"the other side is bad\" is actually not helpful for our political system",
+      "type": "I",
+      "timestamp": "2016-09-22 09:57:41"
+    },
+    {
+      "nodeID": "201380",
+      "text": "Barbara: GetBorn800 : Do you think that arguing \"the other side is bad\" is actually helpful for our political system",
+      "type": "L",
+      "timestamp": "2016-09-22 09:57:41"
+    },
+    {
+      "nodeID": "201381",
+      "text": "fauxromanou : it's helpful to reiterate that even if we differ on whether we support Sanders, Clinton, or 'other' that they're all more   cohesive and reasonable than the other side",
+      "type": "L",
+      "timestamp": "2016-09-22 09:57:41"
+    },
+    {
+      "nodeID": "201382",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-22 09:57:41",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "201383",
+      "text": "it's helpful to reiterate that even if we differ on whether we support Sanders, Clinton, or 'other' that they're all more   cohesive and reasonable than the other side",
+      "type": "I",
+      "timestamp": "2016-09-22 09:57:42"
+    },
+    {
+      "nodeID": "201384",
+      "text": "Barbara: fauxromanou : it's helpful to reiterate that even if we differ on whether we support Sanders, Clinton, or 'other' that they're all more   cohesive and reasonable than the other side",
+      "type": "L",
+      "timestamp": "2016-09-22 09:57:42"
+    },
+    {
+      "nodeID": "201385",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-09-22 09:57:42",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "201386",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-22 09:57:42",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "201387",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-09-22 09:57:42",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "201388",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-22 09:57:42",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "201389",
+      "text": "fauxromanou : Evidenced by this debate being mostly about policy (whether they tip toe around some issues or not)",
+      "type": "L",
+      "timestamp": "2016-09-22 09:57:42"
+    },
+    {
+      "nodeID": "201390",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-22 09:57:42",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "201391",
+      "text": "this debate being mostly about policy (whether they tip toe around some issues or not)",
+      "type": "I",
+      "timestamp": "2016-09-22 09:57:42"
+    },
+    {
+      "nodeID": "201392",
+      "text": "Barbara: fauxromanou : Evidenced by this debate being mostly about policy (whether they tip toe around some issues or not)",
+      "type": "L",
+      "timestamp": "2016-09-22 09:57:42"
+    },
+    {
+      "nodeID": "201393",
+      "text": "fauxromanou : the absolutely brilliant move to disregard the email scandal by Sanders",
+      "type": "L",
+      "timestamp": "2016-09-22 09:57:42"
+    },
+    {
+      "nodeID": "201394",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-22 09:57:43",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "201395",
+      "text": "the absolutely brilliant move to disregard the email scandal by Sanders",
+      "type": "I",
+      "timestamp": "2016-09-22 09:57:43"
+    },
+    {
+      "nodeID": "201396",
+      "text": "Barbara: fauxromanou : the absolutely brilliant move to disregard the email scandal by Sanders",
+      "type": "L",
+      "timestamp": "2016-09-22 09:57:43"
+    },
+    {
+      "nodeID": "201397",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-09-22 09:57:43",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "201398",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-22 09:57:43",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "201399",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-09-22 09:57:43",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "246083",
+      "fromID": "201356",
+      "toID": "201357",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246084",
+      "fromID": "201355",
+      "toID": "201356",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246085",
+      "fromID": "201361",
+      "toID": "201362",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246086",
+      "fromID": "201360",
+      "toID": "201361",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246087",
+      "fromID": "201365",
+      "toID": "201366",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246088",
+      "fromID": "201364",
+      "toID": "201365",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246089",
+      "fromID": "201369",
+      "toID": "201370",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246090",
+      "fromID": "201368",
+      "toID": "201369",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246091",
+      "fromID": "201355",
+      "toID": "201372",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246092",
+      "fromID": "201372",
+      "toID": "201360",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246093",
+      "fromID": "201360",
+      "toID": "201373",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246094",
+      "fromID": "201373",
+      "toID": "201364",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246095",
+      "fromID": "201364",
+      "toID": "201374",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246096",
+      "fromID": "201374",
+      "toID": "201368",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246097",
+      "fromID": "201370",
+      "toID": "201375",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246098",
+      "fromID": "201375",
+      "toID": "201366",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246099",
+      "fromID": "201374",
+      "toID": "201376",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246100",
+      "fromID": "201376",
+      "toID": "201375",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246101",
+      "fromID": "201378",
+      "toID": "201379",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246102",
+      "fromID": "201377",
+      "toID": "201378",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246103",
+      "fromID": "201382",
+      "toID": "201383",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246104",
+      "fromID": "201381",
+      "toID": "201382",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246105",
+      "fromID": "201383",
+      "toID": "201385",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246106",
+      "fromID": "201385",
+      "toID": "201379",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246107",
+      "fromID": "201377",
+      "toID": "201386",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246108",
+      "fromID": "201386",
+      "toID": "201381",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246109",
+      "fromID": "201386",
+      "toID": "201387",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246110",
+      "fromID": "201387",
+      "toID": "201385",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246111",
+      "fromID": "201368",
+      "toID": "201388",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246112",
+      "fromID": "201388",
+      "toID": "201377",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246113",
+      "fromID": "201390",
+      "toID": "201391",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246114",
+      "fromID": "201389",
+      "toID": "201390",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246115",
+      "fromID": "201394",
+      "toID": "201395",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246116",
+      "fromID": "201393",
+      "toID": "201394",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246117",
+      "fromID": "201395",
+      "toID": "201397",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246118",
+      "fromID": "201397",
+      "toID": "201383",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246119",
+      "fromID": "201391",
+      "toID": "201397",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246120",
+      "fromID": "201381",
+      "toID": "201398",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246121",
+      "fromID": "201398",
+      "toID": "201393",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246122",
+      "fromID": "201398",
+      "toID": "201389",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246123",
+      "fromID": "201398",
+      "toID": "201399",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246124",
+      "fromID": "201399",
+      "toID": "201397",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "150669",
+      "text": "The bottom line is that we should be free to believe as we believe while others should be afforded that same right. Thank you.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:06"
+    },
+    {
+      "nodeID": "150670",
+      "text": "And how have I deprived you of your right to teach your religion to your children in your home and in your church. How does an objection against the imposition of your religion by force of the government deprive you of your rights. I can certainly see how the imposition of your religion would deprive me of my right to the free exercise of my own religion, but why do you feel that you have a right to impose your religion on me?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:06"
+    },
+    {
+      "nodeID": "150671",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:13:06"
+    },
+    {
+      "nodeID": "150672",
+      "text": "As a responsible adult (which all of our children will hopefully grow up to be) I do this all the time with one decision or another.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:06"
+    },
+    {
+      "nodeID": "150673",
+      "text": "But you seem to have failed to grasp what science is and how it works. Before you can make the decision, you would need to actually understand why religion isn't science. It doesn't seem that you do.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:06"
+    },
+    {
+      "nodeID": "150674",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:13:06"
+    },
+    {
+      "nodeID": "150675",
+      "text": "That's true, as long as ones pursuit of science is really science. In the case of 'creation science,' there is no science involved. As trebor has said, 'creation science' is an attempt to find scientific sounding reasons that can be used to justify the conclusions that have already been reached and that are not subject to change. That's how 'creation science' works. Begin with the conclusion and then search for scientific sounding justification. Real science is a process and a way of learning.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:06"
+    },
+    {
+      "nodeID": "150676",
+      "text": "I think an open mind is the best thing to have when it comes to theories. I think there is some truth in everything.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:06"
+    },
+    {
+      "nodeID": "150677",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:13:07"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "190954",
+      "fromID": "150670",
+      "toID": "150671",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190955",
+      "fromID": "150671",
+      "toID": "150669",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190956",
+      "fromID": "150673",
+      "toID": "150674",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190957",
+      "fromID": "150674",
+      "toID": "150672",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190958",
+      "fromID": "150676",
+      "toID": "150677",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190959",
+      "fromID": "150677",
+      "toID": "150675",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141318",
+      "text": "It seems to me with all the shootings that occur in the United States because of all the gun happy nuts running around",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:24"
+    },
+    {
+      "nodeID": "141319",
+      "text": "Actually, shootings happen because a person points a firearm at someone and pulls the trigger. This is illegal. You can't make it more illegal than it already is.  Shootings do not happen because of gun happy nuts running around. Nobody has ever been injured anywhere by any gun happy nut running around. Many have been injured by criminals who disobey the law. As far as puncture wounds, do stabbings count? Or, as it appears, are you only concerned with those caused by firearms?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:24"
+    },
+    {
+      "nodeID": "141320",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:53:24"
+    },
+    {
+      "nodeID": "141321",
+      "text": "What's the scoop here?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:24"
+    },
+    {
+      "nodeID": "141322",
+      "text": "I dunno. What is the scoop here? You complain about the responses we give, and yet you keep coming back for more. Even people with down syndrome learn enough to only stick their hands in the open flame once.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:24"
+    },
+    {
+      "nodeID": "141323",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:53:24"
+    },
+    {
+      "nodeID": "141324",
+      "text": "I understand bullet wounds are kind of nasty because they're deep.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:24"
+    },
+    {
+      "nodeID": "141325",
+      "text": "Actually depth has nothing to do with it. You can be shot through and through and suffer no serious injuries. What matters is what's hit in the middle. Of course knife wounds are far worse. You've got a small hole versus a deep gash that'll cut arteries and organs in its path.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:24"
+    },
+    {
+      "nodeID": "141326",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:53:24"
+    },
+    {
+      "nodeID": "141327",
+      "text": "What's the scoop here? It seems to me with all the shootings that occur in the United States because of all the gun happy nuts running around, everyone would know how to do first aid at the site of a shooting. Good idea simone, when do you start your training. I understand bullet wounds are kind of nasty because they're deep. There's also the massive loss of blood; To be sure, the massive bleeding would wash out nasty debris but a body can't stand to lose a bunch of blood.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:24"
+    },
+    {
+      "nodeID": "141328",
+      "text": "Well so is falling out of a building onto a piece of rebar. Or getting mashed in a car crash. There are a lot more of those than shootings but you don't seem to care. Why is that? Is it because you love to dance in blood?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:24"
+    },
+    {
+      "nodeID": "141329",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:53:24"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184360",
+      "fromID": "141319",
+      "toID": "141320",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184361",
+      "fromID": "141320",
+      "toID": "141318",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184362",
+      "fromID": "141322",
+      "toID": "141323",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184363",
+      "fromID": "141323",
+      "toID": "141321",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184364",
+      "fromID": "141325",
+      "toID": "141326",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184365",
+      "fromID": "141326",
+      "toID": "141324",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184366",
+      "fromID": "141328",
+      "toID": "141329",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184367",
+      "fromID": "141329",
+      "toID": "141327",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,157 @@
+{
+  "nodes": [
+    {
+      "nodeID": "162352",
+      "text": "Bacteria, it turns out share their most valuable assets with each other: genes encoding resistance. Nature is not a story of death and competition, it's a story of beautiful cooperation...and it confirms that life is not a thing, it's a process,",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:57"
+    },
+    {
+      "nodeID": "162353",
+      "text": "I think you and WW should discuss definitions of life. It might be interesting to watch. In the meantime, would you mind outlining the 'process' of life?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:57"
+    },
+    {
+      "nodeID": "162354",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:39:57"
+    },
+    {
+      "nodeID": "162355",
+      "text": "http://www.sciencedaily.com/releases/2001/02/010220072315.htm Scientists have long believed that bacteria in the intestines, known as Bacteroides, could exchange genetic information. Under certain conditions bacteria might copy and pass specific genes on to other bacteria which incorporate them into their genetic makeup, a process known as conjugation or horizontal gene transfer.  Biologists, despite the evidence, have refused to acknowledge that we are all wholes - they see us only as an accumulation of parts.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:57"
+    },
+    {
+      "nodeID": "162356",
+      "text": "Just like mathematicians refuse to accept that .5+.5 = 1 and is not just two halves...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:57"
+    },
+    {
+      "nodeID": "162357",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:39:57"
+    },
+    {
+      "nodeID": "162358",
+      "text": "And the thing is, Darwinists have long known about horizontal gene transfer - decades even. But see science is not interested in promoting it because it's not friendly towards their mechanistic, materialist theory.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:58"
+    },
+    {
+      "nodeID": "162359",
+      "text": "And yet there are plenty of websites written by scientists with the details:",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:58"
+    },
+    {
+      "nodeID": "162360",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:39:58"
+    },
+    {
+      "nodeID": "162361",
+      "text": "Not true- there is more than one species of bacteria. In fact, there is more than one genus of bacteria, and so on. Just so you know, there is plenty of competition between bacteria within one species and even more above the species level.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:58"
+    },
+    {
+      "nodeID": "162362",
+      "text": "yea, above the species level at least sounds plausible.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:58"
+    },
+    {
+      "nodeID": "162363",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:39:58"
+    },
+    {
+      "nodeID": "162364",
+      "text": "Which is why it is futile to experiment on individual genes, right?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:58"
+    },
+    {
+      "nodeID": "162365",
+      "text": "Well considering heredity does not lie reside in our genes, but in the way our genome reacts with the environment, (including induced thoughts, beliefs, feelings, sensations, cultural traditions, internal and external contexts, etc) then it pretty much is when it comes to heredity.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:58"
+    },
+    {
+      "nodeID": "162366",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:39:58"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "199254",
+      "fromID": "162353",
+      "toID": "162354",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199255",
+      "fromID": "162354",
+      "toID": "162352",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199256",
+      "fromID": "162356",
+      "toID": "162357",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199257",
+      "fromID": "162357",
+      "toID": "162355",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199258",
+      "fromID": "162359",
+      "toID": "162360",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199259",
+      "fromID": "162360",
+      "toID": "162358",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199260",
+      "fromID": "162362",
+      "toID": "162363",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199261",
+      "fromID": "162363",
+      "toID": "162361",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199262",
+      "fromID": "162365",
+      "toID": "162366",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199263",
+      "fromID": "162366",
+      "toID": "162364",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

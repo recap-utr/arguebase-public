@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "161726",
+      "text": "Quote: So it would make sense that a mold (which is a type of fungus) shares the same common ancestor that other fungi share, and would have a lot of biochemical similarities with them which it would not share with bacteria.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:10"
+    },
+    {
+      "nodeID": "161727",
+      "text": "But wouldn't the biochemical similarities speak for themselves? That is, does one have to believe that the two specimens (which share biochemical similarities) evolved in order to infer that they will respond similarly to antibiotics? The observable facts of the similarities would seem sufficient (and more scientific?).",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:10"
+    },
+    {
+      "nodeID": "161728",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:11"
+    },
+    {
+      "nodeID": "161729",
+      "text": "... you need not talk about micro and macro evolution, and confuse the issue.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:11"
+    },
+    {
+      "nodeID": "161730",
+      "text": "Really? Intra-species evolution and inter-species evolution are one and the same? *edit* I was reading on micro-evolution in wikipedia, here is what they had to say...is this incorrect? 'Typically, observable instances of evolution are examples of microevolution; for example, bacterial strains that have become resistant to antibiotics. Because microevolution can be observed directly, both pro-evolution and some anti-evolution groups agree that it is a fact of life.'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:11"
+    },
+    {
+      "nodeID": "161731",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:11"
+    },
+    {
+      "nodeID": "161732",
+      "text": "It may be perfectly legitimate to make these inferences, but the point of the statement from wikipedia was that micro-evolution is directly and (more importantly) currently observable. This seems to be a huge difference between macro and micro evolution, especially when one remembers the defintion of the scientific method.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:11"
+    },
+    {
+      "nodeID": "161733",
+      "text": "No, not really. All that is different is the number of steps. What is YOUR definition of 'macro-evoution'? Is it speciation? Or is it a brand new genus? We have observed speciation, where new species happened.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:11"
+    },
+    {
+      "nodeID": "161734",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:11"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198814",
+      "fromID": "161727",
+      "toID": "161728",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198815",
+      "fromID": "161728",
+      "toID": "161726",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198816",
+      "fromID": "161730",
+      "toID": "161731",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198817",
+      "fromID": "161731",
+      "toID": "161729",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198818",
+      "fromID": "161733",
+      "toID": "161734",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198819",
+      "fromID": "161734",
+      "toID": "161732",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

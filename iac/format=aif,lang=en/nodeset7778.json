@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "147870",
+      "text": "Ok, I will admit that I have not been reading your posts that do not involve me. I think you said something about not answering questions directed at others, right? Are you now saying, 'read all of my posts, anyway'?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:12"
+    },
+    {
+      "nodeID": "147871",
+      "text": "Well, I'll forgive you. emoticon_xangel But if you're going to make comments about my willingness to post in another thread, shouldn't you read that thread first? Shouldn't you read my posts in that case? It did involve you because you referred to it.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:12"
+    },
+    {
+      "nodeID": "147872",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:12"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "188982",
+      "fromID": "147871",
+      "toID": "147872",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188983",
+      "fromID": "147872",
+      "toID": "147870",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

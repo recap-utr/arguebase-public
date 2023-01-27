@@ -1,0 +1,154 @@
+{
+  "nodes": [
+    {
+      "nodeID": "202332",
+      "text": "chormin : \"Being the first woman president would be quite a change\"",
+      "type": "L",
+      "timestamp": "2016-09-26 11:25:28"
+    },
+    {
+      "nodeID": "202337",
+      "text": "Hillary : being the first woman president would be quite a change",
+      "type": "L",
+      "timestamp": "2016-09-26 11:25:29"
+    },
+    {
+      "nodeID": "202369",
+      "text": "[deleted] : incredible",
+      "type": "L",
+      "timestamp": "2016-09-26 11:25:33"
+    },
+    {
+      "nodeID": "217451",
+      "text": "being the first woman president would be quite a change from the presidents we 've had up until this point, including OBAMA",
+      "type": "I",
+      "timestamp": "2016-11-01 13:49:55"
+    },
+    {
+      "nodeID": "217453",
+      "text": "CLINTON : being the first woman president would be quite a change from the presidents we 've had up until this point , including President Obama",
+      "type": "L",
+      "timestamp": "2016-11-01 13:49:55"
+    },
+    {
+      "nodeID": "264031",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-08 14:09:49",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264032",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-08 14:09:50",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "264033",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-08 14:09:50",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "264034",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-08 14:09:51",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264035",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-08 14:09:51",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "319180",
+      "fromID": "217453",
+      "toID": "264031",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319181",
+      "fromID": "264031",
+      "toID": "202332",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319182",
+      "fromID": "202337",
+      "toID": "264032",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319183",
+      "fromID": "264032",
+      "toID": "217453",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319184",
+      "fromID": "264031",
+      "toID": "264033",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319185",
+      "fromID": "264033",
+      "toID": "264032",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319186",
+      "fromID": "217453",
+      "toID": "264034",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319187",
+      "fromID": "264034",
+      "toID": "202369",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319188",
+      "fromID": "264034",
+      "toID": "264035",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319189",
+      "fromID": "264035",
+      "toID": "217451",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "202337",
+      "personID": "1850",
+      "timestamp": "2016-09-26 11:25:36",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "217453",
+      "personID": "1850",
+      "timestamp": "2016-11-01 13:50:20",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

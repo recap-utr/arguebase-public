@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157244",
+      "text": "Sadly policy needs no law for justifucation. The VA is a law unto themselves as anyone who has delt with them finds out.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:51"
+    },
+    {
+      "nodeID": "157245",
+      "text": "Well then there's grounds for a lawsuit. Find a group of veterans and get them to sue the VA, funded by the NRA, and take the whole organization to court on charges of violating federal standards.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:51"
+    },
+    {
+      "nodeID": "157246",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:27:51"
+    },
+    {
+      "nodeID": "157247",
+      "text": "Question No. 3 is very different than No. 1. You suggested an affirmative to any of the three would result in the loss of one's CCW. I don't buy that.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:51"
+    },
+    {
+      "nodeID": "157248",
+      "text": "I suggested nothing. You are reading into this some thing that is absent.  'The nurse then informed me, if I had answered yes to any of the questions, I would have lost my concealed carry permit as it would have gone into my medical records and the VA would have reported it to Homeland Security. Looks like they are going after us vets.'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:51"
+    },
+    {
+      "nodeID": "157249",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:27:51"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195598",
+      "fromID": "157245",
+      "toID": "157246",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195599",
+      "fromID": "157246",
+      "toID": "157244",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195600",
+      "fromID": "157248",
+      "toID": "157249",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195601",
+      "fromID": "157249",
+      "toID": "157247",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

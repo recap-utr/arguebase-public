@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "154226",
+      "text": "What would be the legal precedent to stop non-Indians from performing or receiving abortions on sovereign lands?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:05"
+    },
+    {
+      "nodeID": "154227",
+      "text": "I suppose the fact that Indian law only applies to its people. Who qualifies as an Indian is another matter. Many people who have as little as one-tenth Indian blood qualify for liberal hunting privileges here in Minnesota.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:05"
+    },
+    {
+      "nodeID": "154228",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:21:05"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193466",
+      "fromID": "154227",
+      "toID": "154228",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193467",
+      "fromID": "154228",
+      "toID": "154226",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

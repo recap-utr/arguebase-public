@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152756",
+      "text": "such are the lying, two faced, deceitful, and sneaky ways of the NRA and gun nuts..",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:40"
+    },
+    {
+      "nodeID": "152757",
+      "text": "So joining the Brady Campaign is deceitful?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:40"
+    },
+    {
+      "nodeID": "152758",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:17:40"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192426",
+      "fromID": "152757",
+      "toID": "152758",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192427",
+      "fromID": "152758",
+      "toID": "152756",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

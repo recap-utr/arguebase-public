@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "161147",
+      "text": "Scientists have turned to chickens to help them understand why some people are struck down by severe allergies.  The birds have a 'fossilised' version of the key molecule responsible for severe allergic reactions in humans.  King's College London researchers say their findings, published in the Journal of Biological Chemistry, could guide the hunt for future treatments.  Experts said the work offered 'exciting new avenues' for research into preventing allergies developing.  The molecule in birds, called IgY, appears to be an ancient forerunner of a similar human molecule called IgE - one of the culprits when the immune system goes into overdrive during asthma attacks or anaphylactic shock.  The King's team are trying to find out why IgE causes a problem, while IgY does not.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:48"
+    },
+    {
+      "nodeID": "161148",
+      "text": "Although I'm not keen on them describing things as living fossils (the term is misleading) the possibilities and implications of this are fascinating. I'd be interested to see the paper if anyone has a PDF. It would seem to suggest that the origins of this particular molecule go back to the Ordovician at least, prior to the reptile/mammal split. Anyway, thought people might be interested :)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:48"
+    },
+    {
+      "nodeID": "161149",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:36:48"
+    },
+    {
+      "nodeID": "161150",
+      "text": "This link is to the free summary of the JBC article... http://www.jbc.org/cgi/content/abstract/283/24/16384",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:48"
+    },
+    {
+      "nodeID": "161151",
+      "text": "Heh. On the one hand, science articles written for the general public are generally useless and often outright wrong. On the other hand, I don't have an advanced degree in bio-chem or the like, so the summary didn't really tell me much. Hrumph. :)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:48"
+    },
+    {
+      "nodeID": "161152",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:36:49"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198394",
+      "fromID": "161148",
+      "toID": "161149",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198395",
+      "fromID": "161149",
+      "toID": "161147",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198396",
+      "fromID": "161151",
+      "toID": "161152",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198397",
+      "fromID": "161152",
+      "toID": "161150",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

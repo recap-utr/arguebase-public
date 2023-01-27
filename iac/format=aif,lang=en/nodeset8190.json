@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "153717",
+      "text": "A man,a state,a church,a religian that can not change can not grow.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:58"
+    },
+    {
+      "nodeID": "153718",
+      "text": "But of course. Growth is a kind of change. But I suspect that certain religious attitudes are that change is bad. They prefer to hold the status quo as it was somewhere around 1600.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:58"
+    },
+    {
+      "nodeID": "153719",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:19:58"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193106",
+      "fromID": "153718",
+      "toID": "153719",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193107",
+      "fromID": "153719",
+      "toID": "153717",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,157 @@
+{
+  "nodes": [
+    {
+      "nodeID": "149872",
+      "text": "Are you asking for the text book answer on what I know to be true about God or are you asking what my behavior tells me that I actually believe about God?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:34"
+    },
+    {
+      "nodeID": "149873",
+      "text": "I still haven't heard an answer to this yet?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:34"
+    },
+    {
+      "nodeID": "149874",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:11:34"
+    },
+    {
+      "nodeID": "149875",
+      "text": "It is all relative to our perspective Matt, so from the perspective of the Age of Grace, the Age of the Law seemed harsh. But don't forget that the same God who gave us the Age of the Law, also gave us the Age of Grace which we currently reside in. And you can thank what Jesus did for this Age.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:34"
+    },
+    {
+      "nodeID": "149876",
+      "text": "So in other words, you're saying that somewhere along the lines, God changed his mind.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:34"
+    },
+    {
+      "nodeID": "149877",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:11:34"
+    },
+    {
+      "nodeID": "149878",
+      "text": "Then by your own admission the OT is irrelevant to todays standards?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:34"
+    },
+    {
+      "nodeID": "149879",
+      "text": "No Matt, that's not what I'm saying at all. The truths and principles in the OT still stand up today and always will. Some of the customs and traditions of that period no longer apply but the OT never promoted those customs and traditions as eternal standards to live by.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:34"
+    },
+    {
+      "nodeID": "149880",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:11:34"
+    },
+    {
+      "nodeID": "149881",
+      "text": "But why did you fear them, JP? Because they would discipline you? That's my case...and, so far, I guess I'm the only one that voted that way about God. Some folks see God as a smiling idiot, skipping around throwing little flowers all about while we make wrong choices, sink deeper in sin, and try to cover ourselves in a blanket of self-righteousness.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:34"
+    },
+    {
+      "nodeID": "149882",
+      "text": "I voted 'other'. I feared disappointing them more than getting spanked. I was almost never spanked past the age of 5 of so.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:34"
+    },
+    {
+      "nodeID": "149883",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:11:34"
+    },
+    {
+      "nodeID": "149884",
+      "text": "BTW - I don't think hell is a place, either. For the lack of a better word, I believe it is a direction that eventually leads to spiritual death.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:34"
+    },
+    {
+      "nodeID": "149885",
+      "text": "I don't believe Hell is a place either (or even if I believe in hell to begin with), but tell me more about what you mean by this. It sounds interesting.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:34"
+    },
+    {
+      "nodeID": "149886",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:11:35"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "190398",
+      "fromID": "149873",
+      "toID": "149874",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190399",
+      "fromID": "149874",
+      "toID": "149872",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190400",
+      "fromID": "149876",
+      "toID": "149877",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190401",
+      "fromID": "149877",
+      "toID": "149875",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190402",
+      "fromID": "149879",
+      "toID": "149880",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190403",
+      "fromID": "149880",
+      "toID": "149878",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190404",
+      "fromID": "149882",
+      "toID": "149883",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190405",
+      "fromID": "149883",
+      "toID": "149881",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190406",
+      "fromID": "149885",
+      "toID": "149886",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190407",
+      "fromID": "149886",
+      "toID": "149884",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

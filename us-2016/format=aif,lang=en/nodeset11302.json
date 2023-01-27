@@ -1,0 +1,100 @@
+{
+  "nodes": [
+    {
+      "nodeID": "206953",
+      "text": "TRUMP did take credit for making immigration an issue",
+      "type": "I",
+      "timestamp": "2016-10-17 19:27:21"
+    },
+    {
+      "nodeID": "206955",
+      "text": "haunthorror : Did Trump take credit for making immigration an issue",
+      "type": "L",
+      "timestamp": "2016-10-17 19:27:22"
+    },
+    {
+      "nodeID": "251114",
+      "text": "TRUMP : if it weren't for me, you wouldn't even be talking about illegal immigration, Chris",
+      "type": "L",
+      "timestamp": "2016-12-21 17:37:00"
+    },
+    {
+      "nodeID": "251116",
+      "text": "if it weren't for TRUMP, WALLACE wouldn't even be talking about illegal immigration",
+      "type": "I",
+      "timestamp": "2016-12-21 17:37:00"
+    },
+    {
+      "nodeID": "264525",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-09 15:56:32",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "264526",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 15:56:32",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264527",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-09 15:56:33",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "320124",
+      "fromID": "206953",
+      "toID": "264525",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320125",
+      "fromID": "264525",
+      "toID": "251116",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320126",
+      "fromID": "251114",
+      "toID": "264526",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320127",
+      "fromID": "264526",
+      "toID": "206955",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320128",
+      "fromID": "264526",
+      "toID": "264527",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320129",
+      "fromID": "264527",
+      "toID": "264525",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "206955",
+      "personID": "2549",
+      "timestamp": "2016-10-17 19:27:56",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

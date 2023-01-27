@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "136615",
+      "text": "If god made human from dirt, how come there are still dirt around?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:24"
+    },
+    {
+      "nodeID": "136616",
+      "text": "I gotta admit, I got a real chuckle out of this one. :p Waxy",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:24"
+    },
+    {
+      "nodeID": "136617",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:43:24"
+    },
+    {
+      "nodeID": "136618",
+      "text": "Perhaps it was an allegorical/metaphorical reference to abiogenesis that creationists just haven't understood.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:24"
+    },
+    {
+      "nodeID": "136619",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:43:24"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181004",
+      "fromID": "136616",
+      "toID": "136617",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181005",
+      "fromID": "136617",
+      "toID": "136615",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181006",
+      "fromID": "136618",
+      "toID": "136619",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181007",
+      "fromID": "136619",
+      "toID": "136615",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "162207",
+      "text": "The only five possibilities for ultimate meaning and values are: atheism - (no God) humanism - (man as God) polytheism - (many gods) pantheism - (one immanent God) theism - (one transcendent God - Genesis 1)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:23"
+    },
+    {
+      "nodeID": "162208",
+      "text": "But you have dodged the question? My specific question that I would like you to answer is why don't you believe in the Buddhist god, Buddha? And guess what, meaning and values have nothing to do with a god or not, my values are based on what I think is right. I don't see that there.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:23"
+    },
+    {
+      "nodeID": "162209",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:39:23"
+    },
+    {
+      "nodeID": "162210",
+      "text": "You forgot agnosticism - (God? maybe/maybe not)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:24"
+    },
+    {
+      "nodeID": "162211",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:39:24"
+    },
+    {
+      "nodeID": "162212",
+      "text": "But you have dodged the question? My specific question that I would like you to answer is why don't you believe in the Buddhist god, Buddha?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:24"
+    },
+    {
+      "nodeID": "162213",
+      "text": "I know these statements are a bit hostile, but arrogant ignorance just ticks me off. What makes you think you have the knowledge to post on a thread like this if you didn't know that the Buddha never even claimed to be God?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:24"
+    },
+    {
+      "nodeID": "162214",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:39:24"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "199152",
+      "fromID": "162208",
+      "toID": "162209",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199153",
+      "fromID": "162209",
+      "toID": "162207",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199154",
+      "fromID": "162210",
+      "toID": "162211",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199155",
+      "fromID": "162211",
+      "toID": "162207",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199156",
+      "fromID": "162213",
+      "toID": "162214",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199157",
+      "fromID": "162214",
+      "toID": "162212",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "158141",
+      "text": "I've touched on this before... Does America have the world's worst politicians? You must have if you need so many guns to stop them robbing you. Heaps of other democratic nations aren't as fearful of their own government as you are. Therefore I'd conclude you have the guns because you need the guns.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:30:05"
+    },
+    {
+      "nodeID": "158142",
+      "text": "Yes we need guns. Heaps of other democratic nations still have royality. They still follow royality like sheep.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:30:05"
+    },
+    {
+      "nodeID": "158143",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:30:05"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196242",
+      "fromID": "158142",
+      "toID": "158143",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196243",
+      "fromID": "158143",
+      "toID": "158141",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

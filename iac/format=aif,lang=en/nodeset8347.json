@@ -1,0 +1,151 @@
+{
+  "nodes": [
+    {
+      "nodeID": "156019",
+      "text": "The bizarre creature appears to sit halfway between nippy carnivores and later, lumbering plant-eating therizinosaurs, although scientists cannot be entirely sure what it ate itself.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:10"
+    },
+    {
+      "nodeID": "156020",
+      "text": "But don't you see?  They aren't sure. They don't know.  They didn't 'prove' anything!! ;)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:10"
+    },
+    {
+      "nodeID": "156021",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:25:10"
+    },
+    {
+      "nodeID": "156022",
+      "text": "They didn't 'prove' anything!! ;)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:10"
+    },
+    {
+      "nodeID": "156023",
+      "text": "Yes they did: '...it ate itself.' No wonder they're extinct... emoticon_rolleyes",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:10"
+    },
+    {
+      "nodeID": "156024",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:25:10"
+    },
+    {
+      "nodeID": "156025",
+      "text": "I dont get it. This must only make sense to you, Peddler eight eleventy one",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:10"
+    },
+    {
+      "nodeID": "156026",
+      "text": "Often that screen name is taken-Peddler-out of habit I attach a number to it.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:11"
+    },
+    {
+      "nodeID": "156027",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:25:11"
+    },
+    {
+      "nodeID": "156028",
+      "text": "Well, there is one thing that isn't mentioned here:  All species are transitional!!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:11"
+    },
+    {
+      "nodeID": "156029",
+      "text": "Even the ones that are destined to go extinct without producing any 'daughter' species? Apeart from that quibble though, you are right. But don't tell the creationsts; it'll only confuse them ;)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:11"
+    },
+    {
+      "nodeID": "156030",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:25:11"
+    },
+    {
+      "nodeID": "156031",
+      "text": "Well, ok. You're right.  Now that I think about it, 'missing links' and 'transitional fossils' aren't really the same thing. All species are potentially transitional, in that if the line continues it will change eventually, maybe even split. But missing links are something different. It's just a fossil that shows some relationship between other fossils and that's really all.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:11"
+    },
+    {
+      "nodeID": "156032",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:25:11"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194738",
+      "fromID": "156020",
+      "toID": "156021",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194739",
+      "fromID": "156021",
+      "toID": "156019",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194740",
+      "fromID": "156023",
+      "toID": "156024",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194741",
+      "fromID": "156024",
+      "toID": "156022",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194742",
+      "fromID": "156026",
+      "toID": "156027",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194743",
+      "fromID": "156027",
+      "toID": "156025",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194744",
+      "fromID": "156029",
+      "toID": "156030",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194745",
+      "fromID": "156030",
+      "toID": "156028",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194746",
+      "fromID": "156031",
+      "toID": "156032",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194747",
+      "fromID": "156032",
+      "toID": "156029",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "158726",
+      "text": "http://www.reuters.com/printerFriendlyPopup.jhtml?type=worldNews&storyID=8709268 ''Today's various forms of dissolution of marriage, free unions, trial marriages as well as the pseudo-matrimonies between people of the same sex are instead expressions of anarchic freedom which falsely tries to pass itself off as the true liberation of man,' he said.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:24"
+    },
+    {
+      "nodeID": "158727",
+      "text": "Just can't satisify 'them thar' Moralizers.' I remember the election of 1960, and how many were worried about JFK taking his 'orders from Rome.' Maybe that is why we are a land of laws, not of men.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:24"
+    },
+    {
+      "nodeID": "158728",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:31:24"
+    },
+    {
+      "nodeID": "158729",
+      "text": "One of the dictionary definitions for anarchy is clearly negative: 'Political disorder and confusion.'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:24"
+    },
+    {
+      "nodeID": "158730",
+      "text": "And the other two...?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:24"
+    },
+    {
+      "nodeID": "158731",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:31:24"
+    },
+    {
+      "nodeID": "158732",
+      "text": "Or possibly your Holy Fathe has resorted to XXXXX-bashing. It's all perspective. Frankly, I don't think that the views on this message board will fuel discrimination and hatred of Popes everywhere around the world, so I think they have less to answer for.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:24"
+    },
+    {
+      "nodeID": "158733",
+      "text": "I don't think VoR realizes that we see him gay-bash without a second thought that we recognize his socalled 'coy' tricks. 'You can fool some of the people some of the time, but............'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:24"
+    },
+    {
+      "nodeID": "158734",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:31:24"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196660",
+      "fromID": "158727",
+      "toID": "158728",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196661",
+      "fromID": "158728",
+      "toID": "158726",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196662",
+      "fromID": "158730",
+      "toID": "158731",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196663",
+      "fromID": "158731",
+      "toID": "158729",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196664",
+      "fromID": "158733",
+      "toID": "158734",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196665",
+      "fromID": "158734",
+      "toID": "158732",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "150920",
+      "text": "It seems to me that the non-physical, spiritual entity otherwise known as 'you' or 'me' was created somewhere near the moment when our parents' sperm and egg made a connection....both of which are physical entities, but could certainly have a spiritual component to them, thus creating a new spiritual entity.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:39"
+    },
+    {
+      "nodeID": "150921",
+      "text": "I hardly see why you feel called upon to explain how a hypthetical entity that does not in fact exist requires an explanation at all! There is no evidence of any sprititual entity or spiritual component to any physical entity.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:39"
+    },
+    {
+      "nodeID": "150922",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:13:39"
+    },
+    {
+      "nodeID": "150923",
+      "text": "my contention is that there is a 'you' or 'me' on the inside (some call it a ghost in the machine) who's in charge of creating and manipulating the physical machinery. Of course this is unprovable, but fits in nicely with the idea that 'I' am a reality. If 'I' was merely a result of a combination of electrical connections in my brain, then 'I' wouldn't really exist....'I' would just be an illusion.  You are entitled to you opinion. However there are no facts to back you up - that of course is your usual failing in constructing an argument . You are engaging in the Brain-Room fallacy illustrated in the movie All You Wanted To Know About Sex etc. There is no you in charge up there, just the body and the brain. Its all physical and chemical. No spirit no 'operator' no holy ghost in the machine. Indeed there is some evidence that 'you' are a creation of the brain for purposes of rationalization rather than 'you' actually making the decisions of everyday life. Look up the work of Libet.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:39"
+    },
+    {
+      "nodeID": "150924",
+      "text": "so hypothetically, if there was a ghost in the machine, what type of signs or signals would have to exist to convince you that it was there? Is it not enough that thoughts and sensations can lead to physical changes and even to turning genes On or Off? Just to clarify though, I think the non-physical and the physical are one in the same....this explains the above phenomenon of thoughts and sensations corresponding to physical changes. Like this: http://www.harvardmagazine.com/on-line/0103109.html",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:39"
+    },
+    {
+      "nodeID": "150925",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:13:39"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191136",
+      "fromID": "150921",
+      "toID": "150922",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191137",
+      "fromID": "150922",
+      "toID": "150920",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191138",
+      "fromID": "150924",
+      "toID": "150925",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191139",
+      "fromID": "150925",
+      "toID": "150923",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

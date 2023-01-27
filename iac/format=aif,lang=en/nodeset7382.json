@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141526",
+      "text": "But in all reality.. a baby is no more different at 2 months old than an embryo...",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:53"
+    },
+    {
+      "nodeID": "141527",
+      "text": "But in all reality an embryo is inside a uterus, living solely through a placenta and a two month old baby is not. That is a significant difference. One may argue how significant, but it is silly to say the only difference is time.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:53"
+    },
+    {
+      "nodeID": "141528",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:53:53"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184506",
+      "fromID": "141527",
+      "toID": "141528",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184507",
+      "fromID": "141528",
+      "toID": "141526",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

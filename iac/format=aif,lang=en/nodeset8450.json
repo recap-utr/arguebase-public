@@ -1,0 +1,145 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157490",
+      "text": "From memory we spent one or two classes on it. We talked about black moths became more common after pollution and how Larmack was dismissed because there is no way for say a giraffe parent to pass on the fact it was always stretching its neck to its offspring. This was hardly contraversial and the television teachs me far more anyway. How was evolution presented at your school.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:34"
+    },
+    {
+      "nodeID": "157491",
+      "text": "My recollection is similar to yours. I encountered it in an AP biology class in high school, we spent about 1/2 the extra-long class in labs (I think that was the primary difference). The giraffe example was an 'aha' moment for me personally, I suspected life changed, but the specifics I had never thought about. I recall a disclaimer at the start of the section, but I don't recall the exact wording. -Mach",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:34"
+    },
+    {
+      "nodeID": "157492",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:28:34"
+    },
+    {
+      "nodeID": "157493",
+      "text": "You know, I cannot even remember if we covered it in middle school or high school biology. I do remember learning about Mendel and his genetics, but I swear I can't remember if we even mentioned Darwin's name. If we spent any time on it at all, it was very little.  Our biology classes were mostly devoted to taxonomy, anatomy/physiology, and cellular machinery.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:34"
+    },
+    {
+      "nodeID": "157494",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:28:34"
+    },
+    {
+      "nodeID": "157495",
+      "text": "It's easy to see why Montalban flunked.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:34"
+    },
+    {
+      "nodeID": "157496",
+      "text": "Actually you don't know what circumstances went on. However, it would be better if you stuck to the topic. Unless you feel compelled by genes to perform ad hominem at every opportunity.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:34"
+    },
+    {
+      "nodeID": "157497",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:28:34"
+    },
+    {
+      "nodeID": "157498",
+      "text": "I recall learning about genetics and Mendel at secondary school, but not specifically Darwinism. I learnt more through my own readings when I was young. Most of my academic study on it wasn't until University, although I did do some paleontology in my A levels as well as more on genetics.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:34"
+    },
+    {
+      "nodeID": "157499",
+      "text": "What are 'a levels'? Is that at university, or school?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:34"
+    },
+    {
+      "nodeID": "157500",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:28:34"
+    },
+    {
+      "nodeID": "157501",
+      "text": "College. They are normally studied for two years between the ages of 16 and 18 before going to uni.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:34"
+    },
+    {
+      "nodeID": "157502",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:28:34"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195774",
+      "fromID": "157491",
+      "toID": "157492",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195775",
+      "fromID": "157492",
+      "toID": "157490",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195776",
+      "fromID": "157493",
+      "toID": "157494",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195777",
+      "fromID": "157494",
+      "toID": "157490",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195778",
+      "fromID": "157496",
+      "toID": "157497",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195779",
+      "fromID": "157497",
+      "toID": "157495",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195780",
+      "fromID": "157499",
+      "toID": "157500",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195781",
+      "fromID": "157500",
+      "toID": "157498",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195782",
+      "fromID": "157501",
+      "toID": "157502",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195783",
+      "fromID": "157502",
+      "toID": "157499",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

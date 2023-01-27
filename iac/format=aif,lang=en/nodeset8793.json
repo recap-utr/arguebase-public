@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "162759",
+      "text": "Rocks tell the truth to those who interrogate them throughly and with an open mind. To others the rocks say whatever their interrogator chooses them to do.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:40:52"
+    },
+    {
+      "nodeID": "162760",
+      "text": "emoticon_rolleyes And you say I'm crazy?! This guy interrogates rocks! emoticon_rolleyes",
+      "type": "I",
+      "timestamp": "2016-03-08 20:40:53"
+    },
+    {
+      "nodeID": "162761",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:40:53"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "199550",
+      "fromID": "162760",
+      "toID": "162761",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199551",
+      "fromID": "162761",
+      "toID": "162759",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

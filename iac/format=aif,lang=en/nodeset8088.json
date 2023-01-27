@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152268",
+      "text": "Troooooooooooooooll",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:38"
+    },
+    {
+      "nodeID": "152269",
+      "text": "You nailed that one!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:38"
+    },
+    {
+      "nodeID": "152270",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:16:38"
+    },
+    {
+      "nodeID": "152271",
+      "text": "It's easy to understand why the insurance and drug companies would want to avoid Health Care Reform at most any cost.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:38"
+    },
+    {
+      "nodeID": "152272",
+      "text": "Actually insurance and drug companies love fascist 'reforms', because they eliminate the need for competition. Insurance and drug companies utterly support forcing people to buy insurance.  Spare us the tired michael moore government vs corporations rhetoric, it's obvious they're both on the same side. And if you didn't realise that after the bank bailouts, the only healthcare you're in need of is a lobotomy.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:38"
+    },
+    {
+      "nodeID": "152273",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:16:38"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192086",
+      "fromID": "152269",
+      "toID": "152270",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192087",
+      "fromID": "152270",
+      "toID": "152268",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192088",
+      "fromID": "152272",
+      "toID": "152273",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192089",
+      "fromID": "152273",
+      "toID": "152271",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "145559",
+      "text": "who has the responsibility to protect you, and your property?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:36"
+    },
+    {
+      "nodeID": "145560",
+      "text": "In the split second something happens, we must protect ourselves.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:36"
+    },
+    {
+      "nodeID": "145561",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:02:36"
+    },
+    {
+      "nodeID": "145562",
+      "text": "First and formost....me.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:36"
+    },
+    {
+      "nodeID": "145563",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:02:36"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187358",
+      "fromID": "145560",
+      "toID": "145561",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187359",
+      "fromID": "145561",
+      "toID": "145559",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187360",
+      "fromID": "145562",
+      "toID": "145563",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187361",
+      "fromID": "145563",
+      "toID": "145559",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "161294",
+      "text": "In Australia we don't need guns we have a Police force to protect us.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:16"
+    },
+    {
+      "nodeID": "161295",
+      "text": "So the police can be there instantly if you have an intruder? They can respond before you even call them? Wow, you have some fast-responding police! That's fine if that's what you want. But I'd prefer take personal responsibility for myself and my family, thank you, rather than trust the police who may or may not be reliable, trustworthy, and likely won't be there fast enough to stop an attack before it happens. :)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:16"
+    },
+    {
+      "nodeID": "161296",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:37:16"
+    },
+    {
+      "nodeID": "161297",
+      "text": "We only get involved in your warmongering to protect our interests i.e. to get something in return from the USA such as favourable trade deals. America has no real friends just friends of convenience.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:16"
+    },
+    {
+      "nodeID": "161298",
+      "text": "Well, if that's how you feel, you don't have to get involved in our 'war-mongering'. :)  Odd that you should say that when the majority of people in the US have already forgotten 9-11,",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:17"
+    },
+    {
+      "nodeID": "161299",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:37:17"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198500",
+      "fromID": "161295",
+      "toID": "161296",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198501",
+      "fromID": "161296",
+      "toID": "161294",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198502",
+      "fromID": "161298",
+      "toID": "161299",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198503",
+      "fromID": "161299",
+      "toID": "161297",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

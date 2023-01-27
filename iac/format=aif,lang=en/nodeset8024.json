@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151386",
+      "text": "Mass public shootings are non-existent to rare events around the globe, with the glaring exception of one dystopic society.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:42"
+    },
+    {
+      "nodeID": "151387",
+      "text": "Well if mass public shootings are so rare and so unlikely to happen in the rest of the world, how do you explain the school shootings in Germany? Furthermore, if public shootings are so damn rare, why did Germany make their already extremely strict gun control laws even stricter than ever?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:42"
+    },
+    {
+      "nodeID": "151388",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:14:42"
+    },
+    {
+      "nodeID": "151389",
+      "text": "'Although we do not undertake an exhaustive historical analysis today of the full scope of the Second Amendment , nothing in our opinion should be taken to cast doubt on longstanding prohibitions on the possession of firearms by felons and the mentally ill, or laws forbidding the carrying of firearms in sensitive places such as schools and government buildings, or laws imposing conditions and qualifications on the commercial sale of arms.' -US Supreme Court in D.C. v. Heller So the US Supreme court recognizes that some restrictions are reasonable such as not allowing felons to own guns or prohibiting people from carrying guns in school areas.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:42"
+    },
+    {
+      "nodeID": "151390",
+      "text": "So how are those gun free zones working out for you?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:42"
+    },
+    {
+      "nodeID": "151391",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:14:42"
+    },
+    {
+      "nodeID": "151392",
+      "text": "So the US Supreme court recognizes that some restrictions are reasonable such as not allowing felons to own guns or prohibiting people from carrying guns in school areas.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:42"
+    },
+    {
+      "nodeID": "151393",
+      "text": "Because none of these issues were raised in the Heller case! What's the matter with people like you! Your statement is like claiming that the Supreme Court obviously thinks abortion is alright because they didn't address the issue during the Heller case.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:42"
+    },
+    {
+      "nodeID": "151394",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:14:42"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191466",
+      "fromID": "151387",
+      "toID": "151388",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191467",
+      "fromID": "151388",
+      "toID": "151386",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191468",
+      "fromID": "151390",
+      "toID": "151391",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191469",
+      "fromID": "151391",
+      "toID": "151389",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191470",
+      "fromID": "151393",
+      "toID": "151394",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191471",
+      "fromID": "151394",
+      "toID": "151392",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

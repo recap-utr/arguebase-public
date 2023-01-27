@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157358",
+      "text": "And for decades, evolutionist fools proclaimed they had decoded the Book of Life....they said that individual genes controlled individual traits. Well all that came to a crashing halt when the Human Genome Project showed that the one-gene/one-phenotype concept was indeed a fairytale. Instead, to the shock and dismay of teary-eyed evolutionists, they found that the human genome only has about 25,000 genes - over 100,000 short of their estimate. This meant their theory about how they thought life worked had to be scrapped.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:08"
+    },
+    {
+      "nodeID": "157359",
+      "text": "So a theory was revised... does that mean that it was wrong afterwards?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:08"
+    },
+    {
+      "nodeID": "157360",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:28:08"
+    },
+    {
+      "nodeID": "157361",
+      "text": "Darwinism says that there is no such cooperation....that organisms' traits must arise randomly - only to be later selected according to how well they fit into a given enviornment.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:08"
+    },
+    {
+      "nodeID": "157362",
+      "text": "Actually, selection occurs by differential reproductive rates. What this means is that organisms which reproduce more will have more offspring than the others (obviously). Therefore, traits that help organisms reproduce will become more prevailant.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:08"
+    },
+    {
+      "nodeID": "157363",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:28:08"
+    },
+    {
+      "nodeID": "157364",
+      "text": "Like the beaks of finches growing a few centimeters?...like the color patterns on moths changing in just a few years?....like size/color of fish changing accomodate their surroundings? There is no proof of anything but the small stuff. There are no intermediates linking higher classes of animals.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:09"
+    },
+    {
+      "nodeID": "157365",
+      "text": "so we are making progress. It seems that SS is now admitting that evolution by natural selection really does happen. He admits that his examples are not what he claims they are. We also see that he objects for religious rather than scientific reasons and is aware of it. Good for you SS. Sadly, he seems to be falling back on that old creationist saw about 'where are the intermediates.'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:09"
+    },
+    {
+      "nodeID": "157366",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:28:09"
+    },
+    {
+      "nodeID": "157367",
+      "text": "what evidence? like the beaks of finches growing a few centimeters?...like the color patterns on moths changing in just a few years?....like size/color of fish changing accomodate their surroundings? There is no proof of anything but the small stuff. There are no intermediates linking higher classes of animals.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:09"
+    },
+    {
+      "nodeID": "157368",
+      "text": "I wouls also add that humans have been able to make CHIHUAHUAs and Irish wolf hounds from wolves.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:09"
+    },
+    {
+      "nodeID": "157369",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:28:09"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195680",
+      "fromID": "157359",
+      "toID": "157360",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195681",
+      "fromID": "157360",
+      "toID": "157358",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195682",
+      "fromID": "157362",
+      "toID": "157363",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195683",
+      "fromID": "157363",
+      "toID": "157361",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195684",
+      "fromID": "157365",
+      "toID": "157366",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195685",
+      "fromID": "157366",
+      "toID": "157364",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195686",
+      "fromID": "157368",
+      "toID": "157369",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195687",
+      "fromID": "157369",
+      "toID": "157367",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

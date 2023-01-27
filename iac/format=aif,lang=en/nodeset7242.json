@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139711",
+      "text": "Scarily, both of those are prohibited weapons in Australia.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:52"
+    },
+    {
+      "nodeID": "139712",
+      "text": "But isn't the price of giving up your rights worth eventually becoming a socialist state where every aspect of your life is controlled by the government? :)",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:52"
+    },
+    {
+      "nodeID": "139713",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:49:52"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183212",
+      "fromID": "139712",
+      "toID": "139713",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183213",
+      "fromID": "139713",
+      "toID": "139711",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,893 @@
+{
+  "nodes": [
+    {
+      "nodeID": "202266",
+      "text": "beach-bum : Lincoln Chafee just isn't presidential material",
+      "type": "L",
+      "timestamp": "2016-09-26 11:11:10"
+    },
+    {
+      "nodeID": "202267",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-26 11:11:11",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "202268",
+      "text": "Lincoln Chafee just isn't presidential material",
+      "type": "I",
+      "timestamp": "2016-09-26 11:11:11"
+    },
+    {
+      "nodeID": "202269",
+      "text": "Barbara: beach-bum : Lincoln Chafee just isn't presidential material",
+      "type": "L",
+      "timestamp": "2016-09-26 11:11:11"
+    },
+    {
+      "nodeID": "202270",
+      "text": "beach-bum : He seems more like a cool   college professor",
+      "type": "L",
+      "timestamp": "2016-09-26 11:11:11"
+    },
+    {
+      "nodeID": "202271",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-26 11:11:11",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "202272",
+      "text": "Chafee seems more like a cool   college professor",
+      "type": "I",
+      "timestamp": "2016-09-26 11:11:11"
+    },
+    {
+      "nodeID": "202273",
+      "text": "Barbara: beach-bum : He seems more like a cool   college professor",
+      "type": "L",
+      "timestamp": "2016-09-26 11:11:11"
+    },
+    {
+      "nodeID": "202274",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-09-26 11:11:11",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "202275",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-26 11:11:11",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "202276",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-09-26 11:11:11",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "202277",
+      "text": "antihexe : he's president material",
+      "type": "L",
+      "timestamp": "2016-09-26 11:11:11"
+    },
+    {
+      "nodeID": "202278",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-26 11:11:12",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "202279",
+      "text": "Chafee is president material",
+      "type": "I",
+      "timestamp": "2016-09-26 11:11:12"
+    },
+    {
+      "nodeID": "202280",
+      "text": "Barbara: antihexe : he's president material",
+      "type": "L",
+      "timestamp": "2016-09-26 11:11:12"
+    },
+    {
+      "nodeID": "202281",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-09-26 11:11:12",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "202282",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-26 11:11:12",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "202283",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-09-26 11:11:12",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "202284",
+      "text": "antihexe : he's just not figurehead material",
+      "type": "L",
+      "timestamp": "2016-09-26 11:11:12"
+    },
+    {
+      "nodeID": "202285",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-26 11:11:12",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "202286",
+      "text": "Chafee is just not figurehead material",
+      "type": "I",
+      "timestamp": "2016-09-26 11:11:12"
+    },
+    {
+      "nodeID": "202287",
+      "text": "Barbara: antihexe : he's just not figurehead material",
+      "type": "L",
+      "timestamp": "2016-09-26 11:11:12"
+    },
+    {
+      "nodeID": "202288",
+      "text": "antihexe : If elections weren't just popularity contests he'd probably do just fine",
+      "type": "L",
+      "timestamp": "2016-09-26 11:11:12"
+    },
+    {
+      "nodeID": "202289",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-26 11:11:13",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "202290",
+      "text": "if elections weren't just popularity contests Chafee would probably do just fine",
+      "type": "I",
+      "timestamp": "2016-09-26 11:11:13"
+    },
+    {
+      "nodeID": "202291",
+      "text": "Barbara: antihexe : If elections weren't just popularity contests he'd probably do just fine",
+      "type": "L",
+      "timestamp": "2016-09-26 11:11:13"
+    },
+    {
+      "nodeID": "202292",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-09-26 11:11:13",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "202293",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-26 11:11:13",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "202294",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-09-26 11:11:13",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "202295",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-09-26 11:11:13",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "202296",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-26 11:11:13",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "202297",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-09-26 11:11:14",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "202298",
+      "text": "beach-bum : I get your point",
+      "type": "L",
+      "timestamp": "2016-09-26 11:11:14"
+    },
+    {
+      "nodeID": "202299",
+      "text": "Barbara: beach-bum : I get your point",
+      "type": "L",
+      "timestamp": "2016-09-26 11:11:14"
+    },
+    {
+      "nodeID": "202300",
+      "text": "beach-bum : he does have good positions",
+      "type": "L",
+      "timestamp": "2016-09-26 11:11:14"
+    },
+    {
+      "nodeID": "202301",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-26 11:11:14",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "202302",
+      "text": "Chafee does have good positions",
+      "type": "I",
+      "timestamp": "2016-09-26 11:11:14"
+    },
+    {
+      "nodeID": "202303",
+      "text": "Barbara: beach-bum : he does have good positions,",
+      "type": "L",
+      "timestamp": "2016-09-26 11:11:14"
+    },
+    {
+      "nodeID": "202304",
+      "text": "beach-bum : I was speaking more of his presentation",
+      "type": "L",
+      "timestamp": "2016-09-26 11:11:14"
+    },
+    {
+      "nodeID": "202305",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-26 11:11:14",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "202306",
+      "text": "I was speaking more of Chafee's presentation",
+      "type": "I",
+      "timestamp": "2016-09-26 11:11:14"
+    },
+    {
+      "nodeID": "202307",
+      "text": "Barbara: beach-bum : I was speaking more of his presentation",
+      "type": "L",
+      "timestamp": "2016-09-26 11:11:14"
+    },
+    {
+      "nodeID": "202308",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-26 11:11:15",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "202309",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2016-09-26 11:11:15",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    },
+    {
+      "nodeID": "202310",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-09-26 11:11:15",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "202311",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-26 11:11:15",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "202312",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-09-26 11:11:15",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "202313",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-09-26 11:11:15",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "202314",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-26 11:11:15",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "202315",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2016-09-26 11:11:15",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "202316",
+      "text": "Calvengeance : \"Extra credit if you write 420 blaze 4 dayz on your paper.\"",
+      "type": "L",
+      "timestamp": "2016-09-26 11:11:15"
+    },
+    {
+      "nodeID": "202317",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-26 11:11:15",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "202318",
+      "text": "\"Extra credit if you write 420 blaze 4 dayz on your paper.\"",
+      "type": "I",
+      "timestamp": "2016-09-26 11:11:15"
+    },
+    {
+      "nodeID": "202319",
+      "text": "Barbara: Calvengeance : \"Extra credit if you write 420 blaze 4 dayz on your paper.\"",
+      "type": "L",
+      "timestamp": "2016-09-26 11:11:16"
+    },
+    {
+      "nodeID": "202320",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-26 11:11:16",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "202321",
+      "text": "AndrewWS100 : he is very charasmatic",
+      "type": "L",
+      "timestamp": "2016-09-26 11:11:16"
+    },
+    {
+      "nodeID": "202322",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-26 11:11:16",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "202323",
+      "text": "Chafee is very charasmatic",
+      "type": "I",
+      "timestamp": "2016-09-26 11:11:16"
+    },
+    {
+      "nodeID": "202324",
+      "text": "Barbara: AndrewWS100 : he is very charasmatic",
+      "type": "L",
+      "timestamp": "2016-09-26 11:11:16"
+    },
+    {
+      "nodeID": "202325",
+      "text": "AndrewWS100 : i see what you're saying",
+      "type": "L",
+      "timestamp": "2016-09-26 11:11:16"
+    },
+    {
+      "nodeID": "202326",
+      "text": "Barbara: AndrewWS100 : i see what you're saying",
+      "type": "L",
+      "timestamp": "2016-09-26 11:11:16"
+    },
+    {
+      "nodeID": "202327",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-26 11:11:16",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "202328",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-09-26 11:11:16",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "202329",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-26 11:11:16",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "202330",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-09-26 11:11:17",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "202331",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2016-09-26 11:11:17",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "247185",
+      "fromID": "202267",
+      "toID": "202268",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247186",
+      "fromID": "202266",
+      "toID": "202267",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247187",
+      "fromID": "202271",
+      "toID": "202272",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247188",
+      "fromID": "202270",
+      "toID": "202271",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247189",
+      "fromID": "202272",
+      "toID": "202274",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247190",
+      "fromID": "202274",
+      "toID": "202268",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247191",
+      "fromID": "202266",
+      "toID": "202275",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247192",
+      "fromID": "202275",
+      "toID": "202270",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247193",
+      "fromID": "202275",
+      "toID": "202276",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247194",
+      "fromID": "202276",
+      "toID": "202274",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247195",
+      "fromID": "202278",
+      "toID": "202279",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247196",
+      "fromID": "202277",
+      "toID": "202278",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247197",
+      "fromID": "202279",
+      "toID": "202281",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247198",
+      "fromID": "202281",
+      "toID": "202268",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247199",
+      "fromID": "202266",
+      "toID": "202282",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247200",
+      "fromID": "202282",
+      "toID": "202277",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247201",
+      "fromID": "202282",
+      "toID": "202283",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247202",
+      "fromID": "202283",
+      "toID": "202281",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247203",
+      "fromID": "202285",
+      "toID": "202286",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247204",
+      "fromID": "202284",
+      "toID": "202285",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247205",
+      "fromID": "202289",
+      "toID": "202290",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247206",
+      "fromID": "202288",
+      "toID": "202289",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247207",
+      "fromID": "202286",
+      "toID": "202292",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247208",
+      "fromID": "202292",
+      "toID": "202290",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247209",
+      "fromID": "202284",
+      "toID": "202293",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247210",
+      "fromID": "202293",
+      "toID": "202288",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247211",
+      "fromID": "202293",
+      "toID": "202294",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247212",
+      "fromID": "202294",
+      "toID": "202292",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247213",
+      "fromID": "202290",
+      "toID": "202295",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247214",
+      "fromID": "202295",
+      "toID": "202279",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247215",
+      "fromID": "202277",
+      "toID": "202296",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247216",
+      "fromID": "202296",
+      "toID": "202288",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247217",
+      "fromID": "202296",
+      "toID": "202297",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247218",
+      "fromID": "202297",
+      "toID": "202295",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247219",
+      "fromID": "202301",
+      "toID": "202302",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247220",
+      "fromID": "202300",
+      "toID": "202301",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247221",
+      "fromID": "202305",
+      "toID": "202306",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247222",
+      "fromID": "202304",
+      "toID": "202305",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247223",
+      "fromID": "202288",
+      "toID": "202308",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247224",
+      "fromID": "202308",
+      "toID": "202298",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247225",
+      "fromID": "202308",
+      "toID": "202309",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247226",
+      "fromID": "202309",
+      "toID": "202290",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247227",
+      "fromID": "202302",
+      "toID": "202310",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247228",
+      "fromID": "202310",
+      "toID": "202290",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247229",
+      "fromID": "202288",
+      "toID": "202311",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247230",
+      "fromID": "202311",
+      "toID": "202300",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247231",
+      "fromID": "202311",
+      "toID": "202312",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247232",
+      "fromID": "202312",
+      "toID": "202310",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247233",
+      "fromID": "202306",
+      "toID": "202313",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247234",
+      "fromID": "202313",
+      "toID": "202272",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247235",
+      "fromID": "202270",
+      "toID": "202314",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247236",
+      "fromID": "202314",
+      "toID": "202304",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247237",
+      "fromID": "202314",
+      "toID": "202315",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247238",
+      "fromID": "202315",
+      "toID": "202313",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247239",
+      "fromID": "202317",
+      "toID": "202318",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247240",
+      "fromID": "202316",
+      "toID": "202317",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247241",
+      "fromID": "202270",
+      "toID": "202320",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247242",
+      "fromID": "202320",
+      "toID": "202316",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247243",
+      "fromID": "202322",
+      "toID": "202323",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247244",
+      "fromID": "202321",
+      "toID": "202322",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247245",
+      "fromID": "202270",
+      "toID": "202327",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247246",
+      "fromID": "202327",
+      "toID": "202325",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247247",
+      "fromID": "202323",
+      "toID": "202328",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247248",
+      "fromID": "202328",
+      "toID": "202272",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247249",
+      "fromID": "202270",
+      "toID": "202329",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247250",
+      "fromID": "202329",
+      "toID": "202321",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247251",
+      "fromID": "202329",
+      "toID": "202330",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247252",
+      "fromID": "202330",
+      "toID": "202328",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247253",
+      "fromID": "202327",
+      "toID": "202331",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247254",
+      "fromID": "202331",
+      "toID": "202272",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

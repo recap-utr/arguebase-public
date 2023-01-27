@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "162816",
+      "text": "I am primarily interested in seeing how the creationists wriggle around this one.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:41:03"
+    },
+    {
+      "nodeID": "162817",
+      "text": "Well, let's see. 1 This is a skull from a modern human, the differences representing pathological deformities. 2 The dating is based on disputed methodology. Creation scientists have proved that radioisotope dating is unreliable. 3 The two pieces are only assumed to be from the same individual. 4 Where's the conclusive DNA evidence? (A nod to easyrider on the Religion board.) 5 These claims are made by scientists, and all science is an atheistic conspiracy against religion (thank you marc9000). 6 So where's the missing link between the new fossil and us? Huh? Huh? Sadly, past experience suggests that creationists can wriggle on indefinitely.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:41:03"
+    },
+    {
+      "nodeID": "162818",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:41:03"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "199590",
+      "fromID": "162817",
+      "toID": "162818",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199591",
+      "fromID": "162818",
+      "toID": "162816",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

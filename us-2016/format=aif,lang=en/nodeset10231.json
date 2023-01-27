@@ -1,0 +1,1414 @@
+{
+  "nodes": [
+    {
+      "nodeID": "200082",
+      "text": "Chekkmate : O'Malley knows the correct term: ISIL. With an L",
+      "type": "L",
+      "timestamp": "2016-09-19 10:07:01"
+    },
+    {
+      "nodeID": "200083",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-19 10:07:01",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200084",
+      "text": "O'Malley knows the correct term: ISIL. With an L",
+      "type": "I",
+      "timestamp": "2016-09-19 10:07:01"
+    },
+    {
+      "nodeID": "200085",
+      "text": "Barbara: Chekkmate : O'Malley knows the correct term: ISIL. With an L",
+      "type": "L",
+      "timestamp": "2016-09-19 10:07:01"
+    },
+    {
+      "nodeID": "200086",
+      "text": "reaper527 : \"correct\" is all relevant",
+      "type": "L",
+      "timestamp": "2016-09-19 10:07:02"
+    },
+    {
+      "nodeID": "200087",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-19 10:07:02",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200088",
+      "text": "\"correct\" is all relevant",
+      "type": "I",
+      "timestamp": "2016-09-19 10:07:02"
+    },
+    {
+      "nodeID": "200089",
+      "text": "Barbara: reaper527 : \"correct\" is all relevant",
+      "type": "L",
+      "timestamp": "2016-09-19 10:07:02"
+    },
+    {
+      "nodeID": "200090",
+      "text": "reaper527 : the 'L' is shitting all over israel by declaring their land part of the islamic state",
+      "type": "L",
+      "timestamp": "2016-09-19 10:07:02"
+    },
+    {
+      "nodeID": "200091",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-19 10:07:02",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200092",
+      "text": "the 'L' is shitting all over israel by declaring their land part of the islamic state",
+      "type": "I",
+      "timestamp": "2016-09-19 10:07:02"
+    },
+    {
+      "nodeID": "200093",
+      "text": "Barbara: reaper527 : the 'L' is shitting all over israel by declaring their land part of the islamic state",
+      "type": "L",
+      "timestamp": "2016-09-19 10:07:02"
+    },
+    {
+      "nodeID": "200094",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-09-19 10:07:03",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "200095",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-19 10:07:03",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200096",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-09-19 10:07:03",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "200097",
+      "text": "reaper527 : if by \"correct\" you mean giving isis exactly what they want, then sure",
+      "type": "L",
+      "timestamp": "2016-09-19 10:07:03"
+    },
+    {
+      "nodeID": "200098",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-19 10:07:03",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200099",
+      "text": "if by \"correct\" you mean giving isis exactly what they want, then sure",
+      "type": "I",
+      "timestamp": "2016-09-19 10:07:03"
+    },
+    {
+      "nodeID": "200100",
+      "text": "Barbara: reaper527 : if by \"correct\" you mean giving isis exactly what they want, then sure",
+      "type": "L",
+      "timestamp": "2016-09-19 10:07:03"
+    },
+    {
+      "nodeID": "200101",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-09-19 10:07:04",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "200102",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-19 10:07:04",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200103",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-09-19 10:07:04",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "200104",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-09-19 10:07:04",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "200105",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-19 10:07:04",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200106",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-09-19 10:07:04",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "200107",
+      "text": "Barbara: Chekkmate : It's not that I want to shit on Israel or give ISIL what they want",
+      "type": "L",
+      "timestamp": "2016-09-19 10:07:04"
+    },
+    {
+      "nodeID": "200108",
+      "text": "It's not that I want to shit on Israel",
+      "type": "I",
+      "timestamp": "2016-09-19 10:07:04"
+    },
+    {
+      "nodeID": "200109",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-09-19 10:07:05",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "200110",
+      "text": "Chekkmate : It's not that I want to shit on Israel",
+      "type": "L",
+      "timestamp": "2016-09-19 10:07:05"
+    },
+    {
+      "nodeID": "200111",
+      "text": "Barbara: Chekkmate : It's not that I want to shit on Israel",
+      "type": "L",
+      "timestamp": "2016-09-19 10:07:05"
+    },
+    {
+      "nodeID": "200112",
+      "text": "Chekkmate : give ISIL what they want",
+      "type": "L",
+      "timestamp": "2016-09-19 10:07:05"
+    },
+    {
+      "nodeID": "200113",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-19 10:07:05",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200114",
+      "text": "it is not that I want to give ISIL what they want",
+      "type": "I",
+      "timestamp": "2016-09-19 10:07:05"
+    },
+    {
+      "nodeID": "200115",
+      "text": "Barbara: Chekkmate : give ISIL what they want",
+      "type": "L",
+      "timestamp": "2016-09-19 10:07:05"
+    },
+    {
+      "nodeID": "200116",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-09-19 10:07:05",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "200117",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-19 10:07:05",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200118",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-09-19 10:07:05",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "200119",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-09-19 10:07:05",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "200120",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-19 10:07:06",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200121",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-09-19 10:07:06",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "200122",
+      "text": "Chekkmate : It's that the region they occupy is not merely Syria, but part of the Levant",
+      "type": "L",
+      "timestamp": "2016-09-19 10:07:06"
+    },
+    {
+      "nodeID": "200123",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-19 10:07:06",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200124",
+      "text": "the region IS occupies is not merely Syria, but part of the Levant",
+      "type": "I",
+      "timestamp": "2016-09-19 10:07:06"
+    },
+    {
+      "nodeID": "200125",
+      "text": "Barbara: Chekkmate : It's that the region they occupy is not merely Syria, but part of the Levant",
+      "type": "L",
+      "timestamp": "2016-09-19 10:07:06"
+    },
+    {
+      "nodeID": "200126",
+      "text": "Chekkmate : It's more of a semantic issue",
+      "type": "L",
+      "timestamp": "2016-09-19 10:07:06"
+    },
+    {
+      "nodeID": "200127",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-19 10:07:06",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200128",
+      "text": "it's more of a semantic issue",
+      "type": "I",
+      "timestamp": "2016-09-19 10:07:07"
+    },
+    {
+      "nodeID": "200129",
+      "text": "Barbara: Chekkmate : It's more of a semantic issue",
+      "type": "L",
+      "timestamp": "2016-09-19 10:07:07"
+    },
+    {
+      "nodeID": "200130",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-09-19 10:07:07",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "200131",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-19 10:07:07",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200132",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-09-19 10:07:07",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "200133",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-19 10:07:07",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200134",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-09-19 10:07:07",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "200135",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-09-19 10:07:07",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "200136",
+      "text": "reaper527 : that's what you're doing though",
+      "type": "L",
+      "timestamp": "2016-09-19 10:07:07"
+    },
+    {
+      "nodeID": "200137",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-19 10:07:07",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200138",
+      "text": "that's what you're doing though",
+      "type": "I",
+      "timestamp": "2016-09-19 10:07:07"
+    },
+    {
+      "nodeID": "200139",
+      "text": "Barbara: reaper527 : that's what you're doing though",
+      "type": "L",
+      "timestamp": "2016-09-19 10:07:08"
+    },
+    {
+      "nodeID": "200140",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-09-19 10:07:08",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "200141",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-19 10:07:08",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200142",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-09-19 10:07:08",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "200143",
+      "text": "reaper527 : \"the levant\" includes israel",
+      "type": "L",
+      "timestamp": "2016-09-19 10:07:08"
+    },
+    {
+      "nodeID": "200144",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-19 10:07:08",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200145",
+      "text": "\"the levant\" includes israel",
+      "type": "I",
+      "timestamp": "2016-09-19 10:07:08"
+    },
+    {
+      "nodeID": "200146",
+      "text": "Barbara: reaper527 : \"the levant\" includes israel",
+      "type": "L",
+      "timestamp": "2016-09-19 10:07:08"
+    },
+    {
+      "nodeID": "200147",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-09-19 10:07:09",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "200148",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-19 10:07:09",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200149",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-09-19 10:07:09",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "200150",
+      "text": "reaper527 : if you want to come up with a better name than isis that more accurately represents the territory they cover, great",
+      "type": "L",
+      "timestamp": "2016-09-19 10:07:09"
+    },
+    {
+      "nodeID": "200151",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-19 10:07:09",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200152",
+      "text": "if you want to come up with a better name than isis that more accurately represents the territory they cover, great",
+      "type": "I",
+      "timestamp": "2016-09-19 10:07:09"
+    },
+    {
+      "nodeID": "200153",
+      "text": "Barbara: reaper527 : if you want to come up with a better name than isis that more accurately represents the territory they cover, great",
+      "type": "L",
+      "timestamp": "2016-09-19 10:07:09"
+    },
+    {
+      "nodeID": "200154",
+      "text": "reaper527 : that doesn't mean that ISIL is a good name",
+      "type": "L",
+      "timestamp": "2016-09-19 10:07:09"
+    },
+    {
+      "nodeID": "200155",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-19 10:07:10",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200156",
+      "text": "that doesn't mean that ISIL is a good name",
+      "type": "I",
+      "timestamp": "2016-09-19 10:07:10"
+    },
+    {
+      "nodeID": "200157",
+      "text": "Barbara: reaper527 : that doesn't mean that ISIL is a good name",
+      "type": "L",
+      "timestamp": "2016-09-19 10:07:10"
+    },
+    {
+      "nodeID": "200158",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-19 10:07:10",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200159",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-19 10:07:10",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200160",
+      "text": "Chekkmate : Yes",
+      "type": "L",
+      "timestamp": "2016-09-19 10:07:10"
+    },
+    {
+      "nodeID": "200161",
+      "text": "Barbara: Chekkmate : Yes",
+      "type": "L",
+      "timestamp": "2016-09-19 10:07:10"
+    },
+    {
+      "nodeID": "200162",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-19 10:07:10",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200163",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2016-09-19 10:07:10",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    },
+    {
+      "nodeID": "200164",
+      "text": "Chekkmate : the Levant includes Israel, as well as Syria, Lebanon, Iraq, Jordan, part of Egypt, etc.",
+      "type": "L",
+      "timestamp": "2016-09-19 10:07:11"
+    },
+    {
+      "nodeID": "200165",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-19 10:07:11",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200166",
+      "text": "the Levant includes Israel, as well as Syria, Lebanon, Iraq, Jordan, part of Egypt, etc.",
+      "type": "I",
+      "timestamp": "2016-09-19 10:07:11"
+    },
+    {
+      "nodeID": "200167",
+      "text": "Barbara: Chekkmate : the Levant includes Israel, as well as Syria, Lebanon, Iraq, Jordan, part of Egypt, etc.",
+      "type": "L",
+      "timestamp": "2016-09-19 10:07:11"
+    },
+    {
+      "nodeID": "200168",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-09-19 10:07:11",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "200169",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-19 10:07:11",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200170",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2016-09-19 10:07:11",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "200171",
+      "text": "Chekkmate :  they obviously don't occupy ALL of it, as they don't occupy ALL of Syria",
+      "type": "L",
+      "timestamp": "2016-09-19 10:07:11"
+    },
+    {
+      "nodeID": "200172",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-19 10:07:11",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200173",
+      "text": "they obviously don't occupy ALL of it, as they don't occupy ALL of Syria",
+      "type": "I",
+      "timestamp": "2016-09-19 10:07:11"
+    },
+    {
+      "nodeID": "200174",
+      "text": "Barbara: Chekkmate :  they obviously don't occupy ALL of it, as they don't occupy ALL of Syria",
+      "type": "L",
+      "timestamp": "2016-09-19 10:07:11"
+    },
+    {
+      "nodeID": "200175",
+      "text": "Chekkmate :  if you want to make it the countries in which they have territory, then it should be ISISI or ISIIS (Islamic State of Syria and Iraq, or Iraq and Syria)",
+      "type": "L",
+      "timestamp": "2016-09-19 10:07:12"
+    },
+    {
+      "nodeID": "200176",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-19 10:07:12",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200177",
+      "text": "if you want to make it the countries in which they have territory, then it should be ISISI or ISIIS (Islamic State of Syria and Iraq, or Iraq and Syria)",
+      "type": "I",
+      "timestamp": "2016-09-19 10:07:12"
+    },
+    {
+      "nodeID": "200178",
+      "text": "Barbara: Chekkmate :  if you want to make it the countries in which they have territory, then it should be ISISI or ISIIS (Islamic State of Syria and Iraq, or Iraq and Syria)",
+      "type": "L",
+      "timestamp": "2016-09-19 10:07:12"
+    },
+    {
+      "nodeID": "200179",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-19 10:07:12",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200180",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-09-19 10:07:12",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "200181",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-09-19 10:07:12",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "200182",
+      "text": "Chekkmate : a bit of a superfluous my long and maybe hard to pronounce title",
+      "type": "L",
+      "timestamp": "2016-09-19 10:07:12"
+    },
+    {
+      "nodeID": "200183",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-19 10:07:13",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200184",
+      "text": "a bit of a superfluous my long and maybe hard to pronounce title",
+      "type": "I",
+      "timestamp": "2016-09-19 10:07:13"
+    },
+    {
+      "nodeID": "200185",
+      "text": "Barbara: Chekkmate : a bit of a superfluous my long and maybe hard to pronounce title",
+      "type": "L",
+      "timestamp": "2016-09-19 10:07:13"
+    },
+    {
+      "nodeID": "200186",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-19 10:07:13",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "244710",
+      "fromID": "200083",
+      "toID": "200084",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244711",
+      "fromID": "200082",
+      "toID": "200083",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244712",
+      "fromID": "200087",
+      "toID": "200088",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244713",
+      "fromID": "200086",
+      "toID": "200087",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244714",
+      "fromID": "200091",
+      "toID": "200092",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244715",
+      "fromID": "200090",
+      "toID": "200091",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244716",
+      "fromID": "200092",
+      "toID": "200094",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244717",
+      "fromID": "200094",
+      "toID": "200088",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244718",
+      "fromID": "200086",
+      "toID": "200095",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244719",
+      "fromID": "200095",
+      "toID": "200090",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244720",
+      "fromID": "200095",
+      "toID": "200096",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244721",
+      "fromID": "200096",
+      "toID": "200094",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244722",
+      "fromID": "200098",
+      "toID": "200099",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244723",
+      "fromID": "200097",
+      "toID": "200098",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244724",
+      "fromID": "200088",
+      "toID": "200101",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244725",
+      "fromID": "200101",
+      "toID": "200099",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244726",
+      "fromID": "200086",
+      "toID": "200102",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244727",
+      "fromID": "200102",
+      "toID": "200097",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244728",
+      "fromID": "200102",
+      "toID": "200103",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244729",
+      "fromID": "200103",
+      "toID": "200101",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244730",
+      "fromID": "200099",
+      "toID": "200104",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244731",
+      "fromID": "200104",
+      "toID": "200084",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244732",
+      "fromID": "200082",
+      "toID": "200105",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244733",
+      "fromID": "200105",
+      "toID": "200097",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244734",
+      "fromID": "200105",
+      "toID": "200106",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244735",
+      "fromID": "200106",
+      "toID": "200104",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244736",
+      "fromID": "200109",
+      "toID": "200108",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244737",
+      "fromID": "200110",
+      "toID": "200109",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244738",
+      "fromID": "200113",
+      "toID": "200114",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244739",
+      "fromID": "200112",
+      "toID": "200113",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244740",
+      "fromID": "200108",
+      "toID": "200116",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244741",
+      "fromID": "200116",
+      "toID": "200092",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244742",
+      "fromID": "200090",
+      "toID": "200117",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244743",
+      "fromID": "200117",
+      "toID": "200110",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244744",
+      "fromID": "200117",
+      "toID": "200118",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244745",
+      "fromID": "200118",
+      "toID": "200116",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244746",
+      "fromID": "200114",
+      "toID": "200119",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244747",
+      "fromID": "200119",
+      "toID": "200099",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244748",
+      "fromID": "200097",
+      "toID": "200120",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244749",
+      "fromID": "200120",
+      "toID": "200112",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244750",
+      "fromID": "200120",
+      "toID": "200121",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244751",
+      "fromID": "200121",
+      "toID": "200119",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244752",
+      "fromID": "200123",
+      "toID": "200124",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244753",
+      "fromID": "200122",
+      "toID": "200123",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244754",
+      "fromID": "200127",
+      "toID": "200128",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244755",
+      "fromID": "200126",
+      "toID": "200127",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244756",
+      "fromID": "200128",
+      "toID": "200130",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244757",
+      "fromID": "200130",
+      "toID": "200084",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244758",
+      "fromID": "200082",
+      "toID": "200131",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244759",
+      "fromID": "200131",
+      "toID": "200126",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244760",
+      "fromID": "200131",
+      "toID": "200132",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244761",
+      "fromID": "200132",
+      "toID": "200130",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244762",
+      "fromID": "200126",
+      "toID": "200133",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244763",
+      "fromID": "200133",
+      "toID": "200122",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244764",
+      "fromID": "200124",
+      "toID": "200134",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244765",
+      "fromID": "200134",
+      "toID": "200128",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244766",
+      "fromID": "200133",
+      "toID": "200135",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244767",
+      "fromID": "200135",
+      "toID": "200134",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244768",
+      "fromID": "200137",
+      "toID": "200138",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244769",
+      "fromID": "200136",
+      "toID": "200137",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244770",
+      "fromID": "200138",
+      "toID": "200140",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244771",
+      "fromID": "200140",
+      "toID": "200108",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244772",
+      "fromID": "200110",
+      "toID": "200141",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244773",
+      "fromID": "200141",
+      "toID": "200136",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244774",
+      "fromID": "200141",
+      "toID": "200142",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244775",
+      "fromID": "200142",
+      "toID": "200140",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244776",
+      "fromID": "200144",
+      "toID": "200145",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244777",
+      "fromID": "200143",
+      "toID": "200144",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244778",
+      "fromID": "200145",
+      "toID": "200147",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244779",
+      "fromID": "200147",
+      "toID": "200138",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244780",
+      "fromID": "200136",
+      "toID": "200148",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244781",
+      "fromID": "200148",
+      "toID": "200143",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244782",
+      "fromID": "200148",
+      "toID": "200149",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244783",
+      "fromID": "200149",
+      "toID": "200147",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244784",
+      "fromID": "200151",
+      "toID": "200152",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244785",
+      "fromID": "200150",
+      "toID": "200151",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244786",
+      "fromID": "200155",
+      "toID": "200156",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244787",
+      "fromID": "200154",
+      "toID": "200155",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244788",
+      "fromID": "200143",
+      "toID": "200158",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244789",
+      "fromID": "200158",
+      "toID": "200150",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244790",
+      "fromID": "200150",
+      "toID": "200159",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244791",
+      "fromID": "200159",
+      "toID": "200154",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244792",
+      "fromID": "200143",
+      "toID": "200162",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244793",
+      "fromID": "200162",
+      "toID": "200160",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244794",
+      "fromID": "200162",
+      "toID": "200163",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244795",
+      "fromID": "200163",
+      "toID": "200145",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244796",
+      "fromID": "200165",
+      "toID": "200166",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244797",
+      "fromID": "200164",
+      "toID": "200165",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244798",
+      "fromID": "200166",
+      "toID": "200168",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244799",
+      "fromID": "200168",
+      "toID": "200145",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244800",
+      "fromID": "200143",
+      "toID": "200169",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244801",
+      "fromID": "200169",
+      "toID": "200164",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244802",
+      "fromID": "200169",
+      "toID": "200170",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244803",
+      "fromID": "200170",
+      "toID": "200168",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244804",
+      "fromID": "200172",
+      "toID": "200173",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244805",
+      "fromID": "200171",
+      "toID": "200172",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244806",
+      "fromID": "200176",
+      "toID": "200177",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244807",
+      "fromID": "200175",
+      "toID": "200176",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244808",
+      "fromID": "200171",
+      "toID": "200179",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244809",
+      "fromID": "200179",
+      "toID": "200175",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244810",
+      "fromID": "200173",
+      "toID": "200180",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244811",
+      "fromID": "200180",
+      "toID": "200177",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244812",
+      "fromID": "200179",
+      "toID": "200181",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244813",
+      "fromID": "200181",
+      "toID": "200180",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244814",
+      "fromID": "200183",
+      "toID": "200184",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244815",
+      "fromID": "200182",
+      "toID": "200183",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244816",
+      "fromID": "200175",
+      "toID": "200186",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244817",
+      "fromID": "200186",
+      "toID": "200182",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244818",
+      "fromID": "200166",
+      "toID": "200180",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244819",
+      "fromID": "200164",
+      "toID": "200179",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "200110",
+      "personID": "2281",
+      "timestamp": "2016-09-19 10:07:19",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

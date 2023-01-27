@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "144981",
+      "text": "Will this be used to support gun control? If he hadn't had a gun they might all be alive today...or he might have drowned the children,strangled his wife and jumped off a bridge. I say the gun made little difference in the final outcome.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:14"
+    },
+    {
+      "nodeID": "144982",
+      "text": "But a gun makes things so much easier, doesn't it? We'll never know if he'd been up to it without one. Guns make for capable cowards.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:14"
+    },
+    {
+      "nodeID": "144983",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:01:14"
+    },
+    {
+      "nodeID": "144984",
+      "text": "Oh I'm so sure that's the case. 'Well the economy's at the worst I've ever seen and I don't have a job and can't possibly provide a living for my family and we're in danger of losing our house and living on the streets, but I don't think I'll save us all a lot of pain and agony because I don't have a gun meaning that it'll just be too much work to kill ourselves.' Yeah right, like a lack of having a gun would've kept this family from dying in this instance. Your comments cheapen the value of life.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:14"
+    },
+    {
+      "nodeID": "144985",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:01:14"
+    },
+    {
+      "nodeID": "144986",
+      "text": "All the more reason to relax concealed carry laws on school grounds, so teachers and other adults there can at least stop somebody like that. It's not like laws that say you can't bring a gun on school property is going to stop a mad man determined to do it.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:14"
+    },
+    {
+      "nodeID": "144987",
+      "text": "And when the President speaks in public we could hand out guns to the audience so that they could respond to any assassination attempt.emoticon_xgood",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:14"
+    },
+    {
+      "nodeID": "144988",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:01:14"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186954",
+      "fromID": "144982",
+      "toID": "144983",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186955",
+      "fromID": "144983",
+      "toID": "144981",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186956",
+      "fromID": "144984",
+      "toID": "144985",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186957",
+      "fromID": "144985",
+      "toID": "144982",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186958",
+      "fromID": "144987",
+      "toID": "144988",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186959",
+      "fromID": "144988",
+      "toID": "144986",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141927",
+      "text": "Both you or your invader have a better chance outrunning a baseball bat than a bullet.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:00"
+    },
+    {
+      "nodeID": "141928",
+      "text": "and my wife is also a lot more likely to be overpowered if she has to close to with in a couple of feet of an invader, than if she can stay 15 or 20 feet back.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:00"
+    },
+    {
+      "nodeID": "141929",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:55:00"
+    },
+    {
+      "nodeID": "141930",
+      "text": "The prohibition of illegal guns is about as effective as the prohibition of dealing in pot...And Guns are a drug dealers best friend",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:00"
+    },
+    {
+      "nodeID": "141931",
+      "text": "and both can and are inported illegaly.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:01"
+    },
+    {
+      "nodeID": "141932",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:55:01"
+    },
+    {
+      "nodeID": "141933",
+      "text": "If people get drunk and aggressive and decide to kill someone, they'll do it. Since homicide rates do not rise in countries with more guns, one can only conclude that people kill people with whatever is to hand.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:01"
+    },
+    {
+      "nodeID": "141934",
+      "text": "I think your theory too simple. Guns make it easier to kill people. Do you think you have a greater chance of escaping with your life from a criminal that is armed with a knife or a gun? 'From Dr. Roth's study: The overall fatality rate in gun robberies is an estimated 4 per 1,000--about 3 times the rate for knife robberies, 10 times the rate for robberies with other weapons, and 20 times the rate for robberies by unarmed offenders. (Cook, Philip J., 'Robbery Violence,' Journal of Criminal Law and Criminology, 78-2, (1987):357-376.) For assaults, a crime which includes threats, the most widely cited estimate of the fatality rate is derived from a 1968 analysis of assaults and homicides committed in Chicago. The study, prepared for the National Commission on the Causes and Prevention of Violence, reported that gun attacks kill 12.2 percent of their intended victims. This is about 5 times as often as in attacks with knives, the second most deadly weapon used in violent crimes.' http://www.asahi-net.or.jp/~zj5j-gttl/guns.htm",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:01"
+    },
+    {
+      "nodeID": "141935",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:55:01"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184782",
+      "fromID": "141928",
+      "toID": "141929",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184783",
+      "fromID": "141929",
+      "toID": "141927",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184784",
+      "fromID": "141931",
+      "toID": "141932",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184785",
+      "fromID": "141932",
+      "toID": "141930",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184786",
+      "fromID": "141934",
+      "toID": "141935",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184787",
+      "fromID": "141935",
+      "toID": "141933",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

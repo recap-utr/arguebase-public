@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157566",
+      "text": "Originally posted by voiceofreason Thousands of innocent people are killed by guns each year in the US. Do you just expect me to ignore that?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:45"
+    },
+    {
+      "nodeID": "157567",
+      "text": "so you are all for ignoring all the people killed by cars, cigarettes, knives, AIDS, heavy objects, falling accidents, construction accidents, pneumonia, fires, and heart diesease. Heart diesease is the number 1 killer in the US, so why arent you pushing for people to eat better, to exercise more, and stop being so fat? so ill ask again why guns?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:45"
+    },
+    {
+      "nodeID": "157568",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:28:45"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195828",
+      "fromID": "157567",
+      "toID": "157568",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195829",
+      "fromID": "157568",
+      "toID": "157566",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

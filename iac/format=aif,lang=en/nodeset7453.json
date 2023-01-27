@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "142598",
+      "text": "I used to go to church but now a days it has gotten phony like the Republicans",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:14"
+    },
+    {
+      "nodeID": "142599",
+      "text": "Well that proves his point doesn't it? If you can put up with the phony-ness of the church you can put up with the phony-ness of the republicans. :) edit edit: I am too, btw emoticon_rolleyes",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:14"
+    },
+    {
+      "nodeID": "142600",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:56:14"
+    },
+    {
+      "nodeID": "142601",
+      "text": "For your info just a many Democrat go to church as well so whats that suppose to mean too. Come on Satin get with the real world. emoticon_rolleyes",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:14"
+    },
+    {
+      "nodeID": "142602",
+      "text": "Actually, I reported the real results of a study. Regular church attendees are twice as likely to vote Republican...etc., the conclusion was, however, meant to be a joke. Most got it, you didn't. emoticon_rolleyes",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:15"
+    },
+    {
+      "nodeID": "142603",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:56:15"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185268",
+      "fromID": "142599",
+      "toID": "142600",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185269",
+      "fromID": "142600",
+      "toID": "142598",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185270",
+      "fromID": "142602",
+      "toID": "142603",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185271",
+      "fromID": "142603",
+      "toID": "142601",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139115",
+      "text": "But can evil exist in the context of a purely materialistic atheism/agnosticism?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:29"
+    },
+    {
+      "nodeID": "139116",
+      "text": "Yes. But if you rephrased the question as 'Does evil exist independent of an observer with a cohesive values system?', I'd say 'no'. That an event is regarded as evil requires a values system, but not necessarily theism.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:29"
+    },
+    {
+      "nodeID": "139117",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:48:29"
+    },
+    {
+      "nodeID": "139118",
+      "text": "I think it is only logical as an atheist to say that evil is a relative term and thus does not truly exist.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:29"
+    },
+    {
+      "nodeID": "139119",
+      "text": "But did you consider it relative when you posted this on another thread?:",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:29"
+    },
+    {
+      "nodeID": "139120",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:48:29"
+    },
+    {
+      "nodeID": "139121",
+      "text": "Ah good question but there is a difference in topic: The thread you referred to asks: Why does such an all loving and good God create a world with evil? *But first you must realize it is not myself that claims for God to be good or for the rapists to be evil but rather I am posing the question to those who do claim that God is good and there is evil* This thread asks a similar but not quite the same question. Let me affirm: I do not have a beleif in 'God'. I do not beleive in good or evil.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:29"
+    },
+    {
+      "nodeID": "139122",
+      "text": "So what is it that you believe 'we' think is evil?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:29"
+    },
+    {
+      "nodeID": "139123",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:48:29"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182800",
+      "fromID": "139116",
+      "toID": "139117",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182801",
+      "fromID": "139117",
+      "toID": "139115",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182802",
+      "fromID": "139119",
+      "toID": "139120",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182803",
+      "fromID": "139120",
+      "toID": "139118",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182804",
+      "fromID": "139122",
+      "toID": "139123",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182805",
+      "fromID": "139123",
+      "toID": "139121",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

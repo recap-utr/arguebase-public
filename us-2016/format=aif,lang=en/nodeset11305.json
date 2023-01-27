@@ -1,0 +1,163 @@
+{
+  "nodes": [
+    {
+      "nodeID": "208117",
+      "text": "WineAndWhiskey : CHRISTIE IS USING IT FOR POLITICAL GAIN",
+      "type": "L",
+      "timestamp": "2016-10-21 13:59:08"
+    },
+    {
+      "nodeID": "208119",
+      "text": "CHRISTIE IS USING 9/11 FOR POLITICAL GAIN",
+      "type": "I",
+      "timestamp": "2016-10-21 13:59:08"
+    },
+    {
+      "nodeID": "208140",
+      "text": "ApolloX-2 : That fat shit who uses the deaths on 9/11 for leverage on a debate",
+      "type": "L",
+      "timestamp": "2016-10-21 13:59:10"
+    },
+    {
+      "nodeID": "208142",
+      "text": "CHRISTIE is a  fat shit who uses the deaths on 9/11 for leverage on a debate",
+      "type": "I",
+      "timestamp": "2016-10-21 13:59:10"
+    },
+    {
+      "nodeID": "219668",
+      "text": "CHRISTIE : who has prosecuted and investigated and jailed terrorists in this country after September 11th",
+      "type": "L",
+      "timestamp": "2016-11-01 14:58:21"
+    },
+    {
+      "nodeID": "219670",
+      "text": "who has prosecuted and investigated and jailed terrorists in this country after September 11th",
+      "type": "I",
+      "timestamp": "2016-11-01 14:58:21"
+    },
+    {
+      "nodeID": "264543",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-09 16:09:38",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "264544",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 16:09:38",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264545",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-09 16:09:39",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "264546",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-09 16:09:39",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "264547",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 16:09:40",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264548",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-09 16:09:40",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "320160",
+      "fromID": "208142",
+      "toID": "264543",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320161",
+      "fromID": "264543",
+      "toID": "219670",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320162",
+      "fromID": "219668",
+      "toID": "264544",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320163",
+      "fromID": "264544",
+      "toID": "208140",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320164",
+      "fromID": "264544",
+      "toID": "264545",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320165",
+      "fromID": "264545",
+      "toID": "264543",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320166",
+      "fromID": "208119",
+      "toID": "264546",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320167",
+      "fromID": "264546",
+      "toID": "219668",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320168",
+      "fromID": "219668",
+      "toID": "264547",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320169",
+      "fromID": "264547",
+      "toID": "208117",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320170",
+      "fromID": "264547",
+      "toID": "264548",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320171",
+      "fromID": "264548",
+      "toID": "264546",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

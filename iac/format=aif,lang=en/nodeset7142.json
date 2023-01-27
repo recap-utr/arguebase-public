@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138494",
+      "text": "I think you'll find that Byzantine (http://www.byzcath.org/), or Greek Catholic, are Catholic. Like the Maronite Church they practice Eastern Rites as Orthodox do, but they acknowledge the Pope as the head of the Church.* They even say the original 'Nicene Creed' as we do.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:09"
+    },
+    {
+      "nodeID": "138495",
+      "text": "Yes, the Byzantines are a Catholic Rite. The Catholic Church is divided into rites- there are seven I believe, the Roman, of course, being the largest. The Byzantine Catholics are an Eastern Catholic Rite, and as you said are almost identicle to the Orthodox Churches except that they acknowledge the Pope as the head of the Church. East to West, a website regarding all the churches of the Catholic Church, especially those of the east. Real quick, the Orthodox acknowledge the Pope as the successor of Peter, but not as the head of the Church. Am I correct?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:09"
+    },
+    {
+      "nodeID": "138496",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:47:09"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182348",
+      "fromID": "138495",
+      "toID": "138496",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182349",
+      "fromID": "138496",
+      "toID": "138494",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

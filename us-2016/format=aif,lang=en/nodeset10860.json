@@ -1,0 +1,143 @@
+{
+  "nodes": [
+    {
+      "nodeID": "256902",
+      "text": "SANDERS : largest banks in America \u2014 are much bigger than they were when we bailed them out for being too big to fail",
+      "type": "L",
+      "timestamp": "2016-12-22 13:30:26"
+    },
+    {
+      "nodeID": "256903",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:30:26",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "256904",
+      "text": "largest banks in America \u2014 are much bigger than they were when we bailed them out for being too big to fail",
+      "type": "I",
+      "timestamp": "2016-12-22 13:30:26"
+    },
+    {
+      "nodeID": "256905",
+      "text": "Jacky: SANDERS : largest banks in America \u2014 are much bigger than they were when we bailed them out for being too big to fail",
+      "type": "L",
+      "timestamp": "2016-12-22 13:30:27"
+    },
+    {
+      "nodeID": "256906",
+      "text": "SANDERS : we have got to break them up",
+      "type": "L",
+      "timestamp": "2016-12-22 13:30:27"
+    },
+    {
+      "nodeID": "256907",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:30:27",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "256908",
+      "text": "we have got to break them up",
+      "type": "I",
+      "timestamp": "2016-12-22 13:30:27"
+    },
+    {
+      "nodeID": "256909",
+      "text": "Jacky: SANDERS : we have got to break them up",
+      "type": "L",
+      "timestamp": "2016-12-22 13:30:27"
+    },
+    {
+      "nodeID": "256910",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 13:30:27",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "256911",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-22 13:30:27",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "256912",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-22 13:30:27",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "308290",
+      "fromID": "256903",
+      "toID": "256904",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308291",
+      "fromID": "256902",
+      "toID": "256903",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308292",
+      "fromID": "256907",
+      "toID": "256908",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308293",
+      "fromID": "256906",
+      "toID": "256907",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308294",
+      "fromID": "256902",
+      "toID": "256910",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308295",
+      "fromID": "256910",
+      "toID": "256906",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308296",
+      "fromID": "256908",
+      "toID": "256911",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308297",
+      "fromID": "256911",
+      "toID": "256904",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308298",
+      "fromID": "256910",
+      "toID": "256912",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "308299",
+      "fromID": "256912",
+      "toID": "256911",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

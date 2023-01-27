@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "155828",
+      "text": "To abort because of an identified significant malformation is perfectly reasonable to me. My wife and I discussed this early in her pregnancy since we we're told that our chances of a serious genetic abnormality was 1 in 74. Long odds on a horse but seemed a real possibility at the time. We were in complete agreement to abort in the worst case scenario.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:44"
+    },
+    {
+      "nodeID": "155829",
+      "text": "Because of course,... people with genetic malady's have no right to their lives anyway. Right?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:44"
+    },
+    {
+      "nodeID": "155830",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:44"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194604",
+      "fromID": "155829",
+      "toID": "155830",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194605",
+      "fromID": "155830",
+      "toID": "155828",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

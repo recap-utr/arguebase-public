@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "162218",
+      "text": "These 3 video's are part of a very very bold program that laid the whole gun control issue on the line.  Absolutly remarkable! Should be required viewing because no matter which side you are one: it makes you think.  Please watch all 3 before commenting.  Enjoy! Part 1 http://www.youtube.com/watch?v=kWeTEXSV7ts&mode=related&search= Part 2 http://www.youtube.com/watch?v=Po8ywLD3f-k&mode=related&search= Part 3 http://www.youtube.com/watch?v=psEjU550xmw",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:26"
+    },
+    {
+      "nodeID": "162219",
+      "text": "What do you find so remarkable about them? Do you just like hearing the 'f' word?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:26"
+    },
+    {
+      "nodeID": "162220",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:39:26"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "199160",
+      "fromID": "162219",
+      "toID": "162220",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199161",
+      "fromID": "162220",
+      "toID": "162218",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

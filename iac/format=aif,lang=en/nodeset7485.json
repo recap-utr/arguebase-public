@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143061",
+      "text": "The same hypocrisy can be said about the gay marriage movement in that it's now turning to voting and popular appeal (legislative solutions) when it's always bemoaned majority views deciding anything. These are just examples of conflicting movements using whatever means are available to them.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:11"
+    },
+    {
+      "nodeID": "143062",
+      "text": "So are you defending thier actions then?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:11"
+    },
+    {
+      "nodeID": "143063",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:57:12"
+    },
+    {
+      "nodeID": "143064",
+      "text": "Legislative solutions and popular appeal are not the same thing. The legislature is hired to do what's right, not what's popular.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:12"
+    },
+    {
+      "nodeID": "143065",
+      "text": "Well, you ignored the part where I said 'voting'. But IMO legislative solutions ARE part and parcel to popular appeal because legislators are voted in on that basis. ANY legislator claims to 'do what's right.' So elections tend to be popularity contests. And legislators tend to want to keep their constituents happy. Oh and just to make sure you understand this Kronos so as not to get off in the wrong direction, this is my opinion, just like everything else I've said. It is not a lie.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:12"
+    },
+    {
+      "nodeID": "143066",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:57:12"
+    },
+    {
+      "nodeID": "143067",
+      "text": "Here's a specific question to you Jyoshu. Has it not been explained to you before that our SPECIFIC complaint is that the simple majority SHOULD NOT be able to decide the rights of the minority?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:12"
+    },
+    {
+      "nodeID": "143068",
+      "text": "And that's what I'm talking about. It doesn't have to have been 'explained' to me. I already know that's your view.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:12"
+    },
+    {
+      "nodeID": "143069",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:57:12"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185602",
+      "fromID": "143062",
+      "toID": "143063",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185603",
+      "fromID": "143063",
+      "toID": "143061",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185604",
+      "fromID": "143065",
+      "toID": "143066",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185605",
+      "fromID": "143066",
+      "toID": "143064",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185606",
+      "fromID": "143068",
+      "toID": "143069",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185607",
+      "fromID": "143069",
+      "toID": "143067",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148864",
+      "text": "How does the law define gun? What if I could throw bullets from my hand at 500 MPH? Would my arm count as a gun or could I just continue to go around with something more dangerous than most guns? Just wondering.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:27"
+    },
+    {
+      "nodeID": "148865",
+      "text": "It is the lower receiver with the serial number. Everything else on the weapon are 'parts'.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:27"
+    },
+    {
+      "nodeID": "148866",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:09:27"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189684",
+      "fromID": "148865",
+      "toID": "148866",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189685",
+      "fromID": "148866",
+      "toID": "148864",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

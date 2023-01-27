@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151398",
+      "text": "No, you're spreading false information. People interested in the truth try to avoid this. Those given to emotional rhetoric don't mind one bit if it suits their agenda.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:44"
+    },
+    {
+      "nodeID": "151399",
+      "text": "Just like the Brady Campaign. Often when trying to paint concealed carry holders as dangerous individuals, most instances they cite either never had a concealed carry permit to begin with, or the matters of the case were instances that lacked mens-rea and weren't crimes to begin with.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:44"
+    },
+    {
+      "nodeID": "151400",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:14:44"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191474",
+      "fromID": "151399",
+      "toID": "151400",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191475",
+      "fromID": "151400",
+      "toID": "151398",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

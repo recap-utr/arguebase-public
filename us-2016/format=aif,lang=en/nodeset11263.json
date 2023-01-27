@@ -1,0 +1,172 @@
+{
+  "nodes": [
+    {
+      "nodeID": "202473",
+      "text": "Quidfacis : Hillary : As someone who menstruates, I would differ from President Obama in that I menstruate",
+      "type": "L",
+      "timestamp": "2016-09-26 12:23:57"
+    },
+    {
+      "nodeID": "202474",
+      "text": "as someone who menstruates, Hillary Clinton would differ from President Obama in that Hillary Clinton menstruates",
+      "type": "I",
+      "timestamp": "2016-09-26 12:23:57"
+    },
+    {
+      "nodeID": "202481",
+      "text": "Isiwjee : /r/asablackman",
+      "type": "L",
+      "timestamp": "2016-09-26 12:23:58"
+    },
+    {
+      "nodeID": "202483",
+      "text": "Hillary Clinton saying as a woman is similar to people saying as a black man /r/asablackman",
+      "type": "I",
+      "timestamp": "2016-09-26 12:23:58"
+    },
+    {
+      "nodeID": "217451",
+      "text": "being the first woman president would be quite a change from the presidents we 've had up until this point, including OBAMA",
+      "type": "I",
+      "timestamp": "2016-11-01 13:49:55"
+    },
+    {
+      "nodeID": "217453",
+      "text": "CLINTON : being the first woman president would be quite a change from the presidents we 've had up until this point , including President Obama",
+      "type": "L",
+      "timestamp": "2016-11-01 13:49:55"
+    },
+    {
+      "nodeID": "264054",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-08 14:20:04",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264055",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-08 14:20:05",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "264056",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-08 14:20:05",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "264057",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-08 14:20:06",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264058",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-08 14:20:06",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "264059",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-08 14:20:07",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "319226",
+      "fromID": "217453",
+      "toID": "264054",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319227",
+      "fromID": "264054",
+      "toID": "202473",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319228",
+      "fromID": "202474",
+      "toID": "264055",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319229",
+      "fromID": "264055",
+      "toID": "217451",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319230",
+      "fromID": "264054",
+      "toID": "264056",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319231",
+      "fromID": "264056",
+      "toID": "264055",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319232",
+      "fromID": "217453",
+      "toID": "264057",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319233",
+      "fromID": "264057",
+      "toID": "202481",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319234",
+      "fromID": "202483",
+      "toID": "264058",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319235",
+      "fromID": "264058",
+      "toID": "217451",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319236",
+      "fromID": "264057",
+      "toID": "264059",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319237",
+      "fromID": "264059",
+      "toID": "264058",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "217453",
+      "personID": "1850",
+      "timestamp": "2016-11-01 13:50:20",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

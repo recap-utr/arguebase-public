@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "142916",
+      "text": "In spite of this, opponents of a marriage amendment acted as if defeating Bush would spell the death of such a proposal. Apparently, it's easier to identify a single scapegoat or hold up an unworthy strawman for condemnation than it is to recognize that there is an overriding public sentiment against alternative lifestyles being officially sanctioned.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:52"
+    },
+    {
+      "nodeID": "142917",
+      "text": "I can't help but wonder if current majority public sentiment against alternative lifestyles, and other change, isn't a portion of widespread fear as that public experiences declines in standards of living, an ongoing threat of Islamic extremist attacks and other social changes that further threaten their status quo. Change is not something eagerly embraced by a majority of the general public under normal circumstances, actually quite the opposite, and these trying times would increase their desire to hold established values representing better times in a higher light than if times were prosperous and stable. Most arguments against alternative lifestyles that I've read are mythological belief system based and present more of a position against the unknown, adherence to parameters established by that belief system, than any disruption of society. Sort of a 'no atheists in foxholes' wartime crowd mentality as versus live and let live if a change presents no threat to the individual (believer) in better times.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:52"
+    },
+    {
+      "nodeID": "142918",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:56:52"
+    },
+    {
+      "nodeID": "142919",
+      "text": "It becomes somewhat irritating to deal with people who's ignorance is matched only by their arrogance. Election day saw a sweeping repudiation of legally sanctioned same sex marriage in 11 different states, including relatively progressive Oregon. This follows similiar votes for amendments defining marriage in California and Missouri. What does this all mean? Well, for starters, it indicates that a federal marriage amendment has a fighting chance. It should remind us that sanctioning gay nuptials hasn't one thing to do with the oval office occupant. It is well known, or should be known, that the process for amending the constitution does not involve the President. The Amendment Process There are essentially two ways spelled out in the Constitution for how it can be amended. One has never been used. The first method is for a bill to pass both halves of the legislature, by a two-thirds majority in each. Once the bill has passed both houses, it goes on to the states. This is the route taken by all current amendments. Because of some long outstanding amendments, such as the 27th, Congress will normally put a time limit (typically seven years) for the bill to be approved as an amendment (for example, see the 21st and 22nd). The second method prescribed is for a Constitutional Convention to be called by two-thirds of the legislatures of the States, and for that Convention to propose one or more amendments. These amendments are then sent to the states to be approved by three-fourths of the legislatures or conventions. This route has never been taken, and there is discussion in political science circles about just how such a convention would be convened, and what kind of changes it would bring about. Regardless of which of the two proposal routes is taken, the amendment must be approved by three-fourths of states. The amendment as passed may specify whether the bill must be passed by the state legislatures or by a state convention. See the Ratification Convention Page for a discussion of the make up of a convention. Amendments are sent to the legislatures of the states by default. Only one amendment, the 21st, specified a convention. In any case, passage by the legislature or convention is by simple majority. It is interesting to note that at no point does the President have a role in the formal amendment process (though he would be free to make his opinion known). He cannot veto an amendment proposal, nor a ratification. In spite of this, opponents of a marriage amendment acted as if defeating Bush would spell the death of such a proposal. Apparently, it's easier to identify a single scapegoat or hold up an unworthy strawman for condemnation than it is to recognize that there is an overriding public sentiment against alternative lifestyles being officially sanctioned.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:52"
+    },
+    {
+      "nodeID": "142920",
+      "text": "I've seen people (on TV:)) who would actually know about such things say that the fact that these things passed in these states pretty much spels doom for any possible constitutional ammendment. Don't ask me how they figure this. It's just what they were saying.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:52"
+    },
+    {
+      "nodeID": "142921",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:56:52"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185500",
+      "fromID": "142917",
+      "toID": "142918",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185501",
+      "fromID": "142918",
+      "toID": "142916",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185502",
+      "fromID": "142920",
+      "toID": "142921",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185503",
+      "fromID": "142921",
+      "toID": "142919",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

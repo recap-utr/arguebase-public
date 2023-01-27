@@ -1,0 +1,169 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139911",
+      "text": "What you (Creationists) don't seem to know is that many Anthropologists are Christians. I know quite a few.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:20"
+    },
+    {
+      "nodeID": "139912",
+      "text": "But they can't be true christians if they accept evolution.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:20"
+    },
+    {
+      "nodeID": "139913",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:20"
+    },
+    {
+      "nodeID": "139914",
+      "text": "That's your opinion. Why can't they be true Christians? Does everyone have to fall under the same guidelines? Don't you think people are intelligent enough to come to their own conclusions based on fact?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:20"
+    },
+    {
+      "nodeID": "139915",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:20"
+    },
+    {
+      "nodeID": "139916",
+      "text": "They can if they're Catholics since Evolution is accepted doctrine now in the Church.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:20"
+    },
+    {
+      "nodeID": "139917",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:20"
+    },
+    {
+      "nodeID": "139918",
+      "text": "However, it is true that creationists (not necessary to capitalize the word since it is not a proper noun), for the most part believe that evolutionists cannot be Christian. If you point out an evolutionary biologist that is a Christian, the answer is almost always that he is a true Christian.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:20"
+    },
+    {
+      "nodeID": "139919",
+      "text": "It is difficult to reconcile evolution with Christianity - as far as I see. Evolution excludes God.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:20"
+    },
+    {
+      "nodeID": "139920",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:21"
+    },
+    {
+      "nodeID": "139921",
+      "text": "Scott, You missed Monty's point. Catholics ARE Christians. I've heard that there are more than 1000 different sects that claim to be Christian, including Orthodox Christians and various and sundry Protestant sects. It would have been more correct for you to state that basically everyone you know is Christian.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:21"
+    },
+    {
+      "nodeID": "139922",
+      "text": "This is correct. It is almost insulting to regard people as either a) Christian OR Catholic - as this also implies that Orthodox are neither",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:21"
+    },
+    {
+      "nodeID": "139923",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:50:21"
+    },
+    {
+      "nodeID": "139924",
+      "text": "What a load of horse-hockey. Only those that are arrogant enough to believe they have a monopoly on the truth believe that. Evolution in no way excludes God. And I don&#8217;t see where Christianity excludes God. I know lots of Christians that believe in evolution. What are you going to do, call them liars because they don&#8217;t believe like you do? You want to talk about being insulting and you turn right around and do the exact same thing.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:21"
+    },
+    {
+      "nodeID": "139925",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:21"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183354",
+      "fromID": "139912",
+      "toID": "139913",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183355",
+      "fromID": "139913",
+      "toID": "139911",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183356",
+      "fromID": "139914",
+      "toID": "139915",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183357",
+      "fromID": "139915",
+      "toID": "139912",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183358",
+      "fromID": "139916",
+      "toID": "139917",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183359",
+      "fromID": "139917",
+      "toID": "139912",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183360",
+      "fromID": "139919",
+      "toID": "139920",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183361",
+      "fromID": "139920",
+      "toID": "139918",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183362",
+      "fromID": "139922",
+      "toID": "139923",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183363",
+      "fromID": "139923",
+      "toID": "139921",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183364",
+      "fromID": "139924",
+      "toID": "139925",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183365",
+      "fromID": "139925",
+      "toID": "139919",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

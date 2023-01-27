@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152279",
+      "text": "Many think third trimester is ok.  The trimester thing doesn't mean anything to me anyway...it has no medicial backing....just means 3 periods of 3 months each. As for the labels, I don't care either way...you want to call me 'anti-choice' so be it. I am anti-choice. I don't think you should have to choice to kill someone else. The ones that bug be are 'anti-woman' or something like that. I don't understand how saying everyone is worthy of living degrades someone...the only way this is possible is if you assume woman were above everyone else to begin with...in that case, I do agree you should degrade.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:40"
+    },
+    {
+      "nodeID": "152280",
+      "text": "Well, it worked. I was hoping the debate could be raised above spouting platitudes and you stepped up and met the challenge with maturity and and openness.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:40"
+    },
+    {
+      "nodeID": "152281",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:16:40"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192094",
+      "fromID": "152280",
+      "toID": "152281",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192095",
+      "fromID": "152281",
+      "toID": "152279",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

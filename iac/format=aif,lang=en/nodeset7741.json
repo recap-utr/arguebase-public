@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "147205",
+      "text": "I have to show you. If you that the holocaust happened then I can show you how creationist style tactics demand you mention alternatives to the idea tha the holocaust happened in the name of truth.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:46"
+    },
+    {
+      "nodeID": "147206",
+      "text": "But they aren't comparable.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:46"
+    },
+    {
+      "nodeID": "147207",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:05:46"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "188516",
+      "fromID": "147206",
+      "toID": "147207",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188517",
+      "fromID": "147207",
+      "toID": "147205",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

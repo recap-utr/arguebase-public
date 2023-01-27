@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "158974",
+      "text": "If abortion is, once again, made illegal, then the states need to establish penalties. For non-medically needed partial birth abortions, I'd throw the woman and doctor in jail without a second thought. NEXT!!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:53"
+    },
+    {
+      "nodeID": "158975",
+      "text": "And the man who impregnated the woman should walk away totally free of all responsibility! Spoken just like an total misogynist!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:53"
+    },
+    {
+      "nodeID": "158976",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:31:53"
+    },
+    {
+      "nodeID": "158977",
+      "text": "How about a slap on the wrist and a suspended three day jail term?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:53"
+    },
+    {
+      "nodeID": "158978",
+      "text": "Oh, sorry, I didn't think that was a serious answer. Thanks.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:53"
+    },
+    {
+      "nodeID": "158979",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:31:53"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196840",
+      "fromID": "158975",
+      "toID": "158976",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196841",
+      "fromID": "158976",
+      "toID": "158974",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196842",
+      "fromID": "158978",
+      "toID": "158979",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196843",
+      "fromID": "158979",
+      "toID": "158977",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

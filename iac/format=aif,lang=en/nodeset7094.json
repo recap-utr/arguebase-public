@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "137806",
+      "text": "here is something for all you dumb atheists One day a 6 year old girl was sitting in a classroom. The teacher was going to explain evolution to the children. The teacher asked a little boy: Tommy do you see the tree outside? TOMMY: Yes. TEACHER: Tommy, do you see the grass outside? TOMMY: Yes. TEACHER: Go outside and look up and see if you can see the sky. TOMMY: Okay. (He returned a few minutes later) Yes, I saw the sky. TEACHER: Did you see God? TOMMY: No. TEACHER: That is my point. We can not see God because he is not there. He does not exist. A little girl spoke up and wanted to ask the boy some questions. The teacher agreed and the little girl asked the boy: Tommy, do you see the tree outside? TOMMY: Yes. LITTLE GIRL: Tommy do you see the grass outside? TOMMY: Yessssss (getting tired of the questions by this time). LITTLE GIRL: Did you see the sky? TOMMY: Yessssss LITTLE GIRL: Tommy, do you see the teacher? TOMMY: Yes LITTLE GIRL: Do you see her brain? TOMMY: No LITTLE GIRL: Then according to what we were taught today in school, she must not have one!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:45"
+    },
+    {
+      "nodeID": "137807",
+      "text": "Just because someone believes in Evolution, it doesn't make them an atheist. Maybe you should realize that both forms of thinking could be correct. Some of us are smart enough to form our own opinions and not follow everyone else.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:45"
+    },
+    {
+      "nodeID": "137808",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:45:45"
+    },
+    {
+      "nodeID": "137809",
+      "text": "here is something for all you dumb atheistsOne day a 6 year old girl was sitting in a classroom. The teacher was going to explain evolution to the children.The teacher asked a little boy: Tommy do you see the tree outside?TOMMY: Yes.TEACHER: Tommy, do you see the grass outside?TOMMY: Yes.TEACHER: Go outside and look up and see if you can see the sky.TOMMY: Okay. (He returned a few minutes later) Yes, I saw the sky.TEACHER: Did you see God?TOMMY: No.TEACHER: That is my point.We can not see God because he is not there.He does not exist.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:45"
+    },
+    {
+      "nodeID": "137810",
+      "text": "So funny... Like others have pointed out, this dialogue has nothing to do with evolution. It's a ridiculous story otherwise as well...1. How many secular teachers talk about God in class? I've never had a teacher in any of the secular schools I went to say anything about God, for fear of the controversy it would create. Teachers live in fear of controversy, they don't want to get fired. I think this idea that non-Christian teachers try to convince students that God doesn't exist is a fundamentalist paranoid fantasy.2. How many atheists use the 'you can't see it so it doesn't exist' argument? very few. They will use the 'there is no evidence so I don't believe you' argument, but that has nothing to do with whether Timmy can see teacher's brain.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:45"
+    },
+    {
+      "nodeID": "137811",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:45:45"
+    },
+    {
+      "nodeID": "137812",
+      "text": "Mr. Jack I contend that religion is based on faith. Since it is impossible to know whether there is no God, atheism is also based on faith.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:45"
+    },
+    {
+      "nodeID": "137813",
+      "text": "But faith is not religion. Religion is the expression of belief in a god or higher being or power of the supernatural. As an agnositc I think that both theists and atheists are wrong since it is impossible to know for sure wheither a god exists or not while one is still alive.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:45"
+    },
+    {
+      "nodeID": "137814",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:45:45"
+    },
+    {
+      "nodeID": "137815",
+      "text": "I'm developing a theory about communication... the form of communication requiring the least thinking (for yourself?) is insult. What do you guys think?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:45"
+    },
+    {
+      "nodeID": "137816",
+      "text": "I disagree, it depends on the nature of insult. 'You suck! What kind of a dumb name is 'Robbie' anyway?' Hardly requires a stretching of the old grey matter. But the snappy one-liner and the witty retort, or just a carefully crafted insult all require a fair amount of intelligence and insight. Flat out denial requires least thought. I.e. 'you're wrong!', 'you're wrong 'cos God says so!' 'You're wrong 'cos Dawkins says so!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:46"
+    },
+    {
+      "nodeID": "137817",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:45:46"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181858",
+      "fromID": "137807",
+      "toID": "137808",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181859",
+      "fromID": "137808",
+      "toID": "137806",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181860",
+      "fromID": "137810",
+      "toID": "137811",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181861",
+      "fromID": "137811",
+      "toID": "137809",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181862",
+      "fromID": "137813",
+      "toID": "137814",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181863",
+      "fromID": "137814",
+      "toID": "137812",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181864",
+      "fromID": "137816",
+      "toID": "137817",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181865",
+      "fromID": "137817",
+      "toID": "137815",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

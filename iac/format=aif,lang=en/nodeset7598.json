@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "144682",
+      "text": "I've seen some claims that the dems are going to get trashed at the midterms, and to a certain extent they deserve it given how half-arsed and bloodless the healthcare bill is, but is there anyone who voted democratic in November 08 who will now be voting republican in November 10? It seems to me that the people who are opposed to the healthcare bill are those who opposed Obama in the first place. I'm not convinced it's going to make that much difference on its own.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:39"
+    },
+    {
+      "nodeID": "144683",
+      "text": "I didn't vote for a republican or a democrat in 2008 and in 2010 it doesn't matter because my rep is not challenged.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:39"
+    },
+    {
+      "nodeID": "144684",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:00:39"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186746",
+      "fromID": "144683",
+      "toID": "144684",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186747",
+      "fromID": "144684",
+      "toID": "144682",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

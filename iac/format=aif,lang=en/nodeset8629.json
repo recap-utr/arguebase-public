@@ -1,0 +1,115 @@
+{
+  "nodes": [
+    {
+      "nodeID": "160501",
+      "text": "sinjin - No comment.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:09"
+    },
+    {
+      "nodeID": "160502",
+      "text": "Good, this isn't the time for either side to be making politically motivated comments, even if the case is over a week old.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:10"
+    },
+    {
+      "nodeID": "160503",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:35:10"
+    },
+    {
+      "nodeID": "160504",
+      "text": "'Soccer mom Meleanie Hain was shot to death by her husband, Scott Hain, while she chatted with another man on a computer webcam, police announced Friday.' 'Meleanie became notorious a year ago when she openly carried a loaded pistol to her daughter's soccer game.' A cult of guns leads to deadly results | PoconoRecord.com  'Meleanie Hain was not armed when she was shot. A handgun registered to her was found fully-loaded in a backpack hanging on a hook on the back of the house's front door...' '...the couple's children, 2- and 6-year-old girls and a 10-year-old boy, were in the house at the time of the shootings.' Lebanon soccer mom shot by husband while chatting on webcam - Lebanon Daily News  sinjin - No comment.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:10"
+    },
+    {
+      "nodeID": "160505",
+      "text": "Looks like dancing in the blood of innocents to me.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:10"
+    },
+    {
+      "nodeID": "160506",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:35:10"
+    },
+    {
+      "nodeID": "160507",
+      "text": "Only one innocent bled in this case.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:10"
+    },
+    {
+      "nodeID": "160508",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:35:10"
+    },
+    {
+      "nodeID": "160509",
+      "text": "The point is you dancing in the blood, of at least one innocent. Why else post this? Especially with no comment?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:10"
+    },
+    {
+      "nodeID": "160510",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:35:10"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "197932",
+      "fromID": "160502",
+      "toID": "160503",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197933",
+      "fromID": "160503",
+      "toID": "160501",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197934",
+      "fromID": "160505",
+      "toID": "160506",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197935",
+      "fromID": "160506",
+      "toID": "160504",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197936",
+      "fromID": "160507",
+      "toID": "160508",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197937",
+      "fromID": "160508",
+      "toID": "160505",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197938",
+      "fromID": "160509",
+      "toID": "160510",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197939",
+      "fromID": "160510",
+      "toID": "160507",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

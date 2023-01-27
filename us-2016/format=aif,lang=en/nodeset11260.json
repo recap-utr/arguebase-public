@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "nodeID": "202150",
+      "text": "HeilHilter : probably just so that isn't used to attack him",
+      "type": "L",
+      "timestamp": "2016-09-24 10:48:37"
+    },
+    {
+      "nodeID": "202152",
+      "text": "not wanting penalties for Snowden could be used to attack Bernie Sanders",
+      "type": "I",
+      "timestamp": "2016-09-24 10:48:38"
+    },
+    {
+      "nodeID": "217268",
+      "text": "SANDERS : there should be a penalty to that",
+      "type": "L",
+      "timestamp": "2016-11-01 13:40:38"
+    },
+    {
+      "nodeID": "264028",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-08 14:01:04",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264029",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2017-03-08 14:01:05",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "264030",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2017-03-08 14:01:05",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "319174",
+      "fromID": "217268",
+      "toID": "264028",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319175",
+      "fromID": "264028",
+      "toID": "202150",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319176",
+      "fromID": "202152",
+      "toID": "264029",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319177",
+      "fromID": "264029",
+      "toID": "217268",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319178",
+      "fromID": "264028",
+      "toID": "264030",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319179",
+      "fromID": "264030",
+      "toID": "264029",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

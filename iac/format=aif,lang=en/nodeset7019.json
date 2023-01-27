@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "136537",
+      "text": "From here: Any move towards ending this absurd storm-in-a-teacup has to be welcome.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:13"
+    },
+    {
+      "nodeID": "136538",
+      "text": "Well of course. This spiritually dead church which exists to serve Man, but not God, must compromise biblical principles in order to attempt to preserve membership in an ever expanding secular humanist society. Just remember that no matter how many churches abandon the spiritual truths outlined in Gods Word in these last days, it does nothing to diminish or nullify that truth. emoticon_xgood",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:13"
+    },
+    {
+      "nodeID": "136539",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:43:13"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "180946",
+      "fromID": "136538",
+      "toID": "136539",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180947",
+      "fromID": "136539",
+      "toID": "136537",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

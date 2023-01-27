@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "147873",
+      "text": "Be sure to give your guns a big fat kiss tonight before you go to bed tonight 'cuz guns did really good today.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:12"
+    },
+    {
+      "nodeID": "147874",
+      "text": "Actually, they didn't. The whole tragedy was caused by gun control. If even one student was packing when that occured, 33 lives could have been saved. But no, more victims of botched laws and corrupt politicians.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:13"
+    },
+    {
+      "nodeID": "147875",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:13"
+    },
+    {
+      "nodeID": "147876",
+      "text": "Shooter, so a cop is reporting to the scene and there you are packing a gun. How is the cop to know you're not the shooter?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:13"
+    },
+    {
+      "nodeID": "147877",
+      "text": "Because hopefully you're going to shoot the guy, drop your gun, and put your hands out, not run around in circles waving it like a maniac for a a couple of minutes.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:13"
+    },
+    {
+      "nodeID": "147878",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:13"
+    },
+    {
+      "nodeID": "147879",
+      "text": "no guns, no shootings!! Does it get any simpler? emoticon_xkill",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:13"
+    },
+    {
+      "nodeID": "147880",
+      "text": "Actually your posts are providing increasing evidence for just how simple folks can get.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:13"
+    },
+    {
+      "nodeID": "147881",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:13"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "188984",
+      "fromID": "147874",
+      "toID": "147875",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188985",
+      "fromID": "147875",
+      "toID": "147873",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188986",
+      "fromID": "147877",
+      "toID": "147878",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188987",
+      "fromID": "147878",
+      "toID": "147876",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188988",
+      "fromID": "147880",
+      "toID": "147881",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188989",
+      "fromID": "147881",
+      "toID": "147879",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

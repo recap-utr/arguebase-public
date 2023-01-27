@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139855",
+      "text": "I'm confused. What exactly is the difference between a civil union and a marriage. From what I have found, they are identical with the exception of one is religious and the other secular. Is there a larger legal difference?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:12"
+    },
+    {
+      "nodeID": "139856",
+      "text": "There is a pretty huge difference. Civil unions aren't nationally recognized, for one thing, since not every state has them. If you travel to a state that does not offer civil unions, then your union is not valid there. I think there's a problem with dissolving those unions as well. The big difference, though, are the rights that these unions provide. There are over 1,000 legal protections and rights that marriage provides that civil unions don't. I'll try and find a list of differences.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:12"
+    },
+    {
+      "nodeID": "139857",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:13"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183316",
+      "fromID": "139856",
+      "toID": "139857",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183317",
+      "fromID": "139857",
+      "toID": "139855",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

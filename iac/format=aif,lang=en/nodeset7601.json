@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "144709",
+      "text": "I have tons of pics of my 'wedding' in September and I look like a dork in everyone one of them. Every single shot, I have some dumb goofy expression on my face..... I have deep sympathy for anyone who has to look at pics of their own ceremony if they hate the pics of themself",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:43"
+    },
+    {
+      "nodeID": "144710",
+      "text": "I know what you mean, my Girlfriend says I always put on a goofy grin every time I get my photo take or if I don't do that I seem to close my eyes just as the picture is taken.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:43"
+    },
+    {
+      "nodeID": "144711",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:00:43"
+    },
+    {
+      "nodeID": "144712",
+      "text": "OHHHHH I do send me please :) :) I love to see men in kilts the hairier the better :)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:43"
+    },
+    {
+      "nodeID": "144713",
+      "text": "Oh you little tramp!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:43"
+    },
+    {
+      "nodeID": "144714",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:00:43"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186764",
+      "fromID": "144710",
+      "toID": "144711",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186765",
+      "fromID": "144711",
+      "toID": "144709",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186766",
+      "fromID": "144713",
+      "toID": "144714",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186767",
+      "fromID": "144714",
+      "toID": "144712",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "162240",
+      "text": "Two thirds of America supports a single payer system. There are many people devoted to this cause.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:31"
+    },
+    {
+      "nodeID": "162241",
+      "text": "Well, we can't question your loyalty...that's for sure. I can question your 'facts' which are wrong and I suspect it is because you get them from a biased website. You'd think people would stop paying attention to biased websites after they never provide a good argument but whatever. In any event, single-payer has roughly a 40% level of support from the last poll I've found on pollingreport.com. Now continue your mantra.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:31"
+    },
+    {
+      "nodeID": "162242",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:39:31"
+    },
+    {
+      "nodeID": "162243",
+      "text": "What a politically naive statement. Those Democrats are likely set for long and fruitful careers in Congress as a number of them have already had. You obviously have not been paying attention at all. But not surprising given your other written contributions.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:31"
+    },
+    {
+      "nodeID": "162244",
+      "text": "I believe it's you that hasn't been paying attention. This Democratic Congress had a recent approval rating of 9%, IIRC.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:31"
+    },
+    {
+      "nodeID": "162245",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:39:31"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "199176",
+      "fromID": "162241",
+      "toID": "162242",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199177",
+      "fromID": "162242",
+      "toID": "162240",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199178",
+      "fromID": "162244",
+      "toID": "162245",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199179",
+      "fromID": "162245",
+      "toID": "162243",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

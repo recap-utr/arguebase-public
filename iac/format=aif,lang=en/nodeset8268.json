@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "154838",
+      "text": "Most Christian Conservatives haven't read the Bible.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:22:30"
+    },
+    {
+      "nodeID": "154839",
+      "text": "Actually, they have. But only Leviticus and Numbers.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:22:30"
+    },
+    {
+      "nodeID": "154840",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:22:30"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193902",
+      "fromID": "154839",
+      "toID": "154840",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193903",
+      "fromID": "154840",
+      "toID": "154838",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

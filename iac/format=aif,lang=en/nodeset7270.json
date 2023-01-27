@@ -1,0 +1,121 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140034",
+      "text": "They are human bodies, but not beings. Beings are alive, corpses aren&#8217;t. So, the fetus is a human being, a dead person is a human corpse.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:36"
+    },
+    {
+      "nodeID": "140035",
+      "text": "You seem to be arguing that a corpse is a human.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:36"
+    },
+    {
+      "nodeID": "140036",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:36"
+    },
+    {
+      "nodeID": "140037",
+      "text": "I doubt that he would say &#8220;And he caste me into the womb (I was human by the way)&#8221;. That&#8217;s ridiculous. The mere fact that the author mentions himself in the womb means that God knew him in the womb, which is a different quote.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:36"
+    },
+    {
+      "nodeID": "140038",
+      "text": "I know that also. But it still doesn&#8217;t say when a fetus becomes a human being. If God knew him two weeks before he was born, he would have known him in the womb. But for 8 1/2 months he wouldn&#8217;t have know him.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:36"
+    },
+    {
+      "nodeID": "140039",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:36"
+    },
+    {
+      "nodeID": "140040",
+      "text": "The problem with this claim was that in Jewish law, the wife and the children generally were considered property of the father.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:36"
+    },
+    {
+      "nodeID": "140041",
+      "text": "I know that. And it does not say when a fetus becomes a human being.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:36"
+    },
+    {
+      "nodeID": "140042",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:37"
+    },
+    {
+      "nodeID": "140043",
+      "text": "Yes, it is human, biologically. However, it isn't a human being as it isn't alive.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:37"
+    },
+    {
+      "nodeID": "140044",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:37"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183442",
+      "fromID": "140035",
+      "toID": "140036",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183443",
+      "fromID": "140036",
+      "toID": "140034",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183444",
+      "fromID": "140038",
+      "toID": "140039",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183445",
+      "fromID": "140039",
+      "toID": "140037",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183446",
+      "fromID": "140041",
+      "toID": "140042",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183447",
+      "fromID": "140042",
+      "toID": "140040",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183448",
+      "fromID": "140043",
+      "toID": "140044",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183449",
+      "fromID": "140044",
+      "toID": "140035",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

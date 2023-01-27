@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "145386",
+      "text": "As if we didn't already have enough 'missing links', along comes another: http://news.bbc.co.uk/1/hi/sci/tech/4498049.stm Of course the creationist XXXXXX will claim it isn't a missing link, but what are we to expect from XXXXXX anyway? emoticon_rolleyes",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:11"
+    },
+    {
+      "nodeID": "145387",
+      "text": "Well, you just don't understand. Now, instead of one long stretch of missing links, we now have two shorter missing links, one on each end.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:11"
+    },
+    {
+      "nodeID": "145388",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:02:11"
+    },
+    {
+      "nodeID": "145389",
+      "text": "How do you get from 'chance' to 'mistake'?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:11"
+    },
+    {
+      "nodeID": "145390",
+      "text": "Either way it is a series of events that happened at random being explained by the results of those events.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:11"
+    },
+    {
+      "nodeID": "145391",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:02:11"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187242",
+      "fromID": "145387",
+      "toID": "145388",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187243",
+      "fromID": "145388",
+      "toID": "145386",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187244",
+      "fromID": "145390",
+      "toID": "145391",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187245",
+      "fromID": "145391",
+      "toID": "145389",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

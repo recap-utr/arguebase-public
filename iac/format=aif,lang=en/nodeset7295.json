@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140404",
+      "text": "BANKRUPTCY Medical Bankruptcy: Myth Versus Fact David Dranove and Michael L. Millenson Abstract  David Himmelstein and colleagues recently contended that medical problems contribute to 54.5 percent of personal bankruptcies and threaten the solvency of solidly middle-class Americans. They propose comprehensive national health insurance as a solution. A reexamination of their data suggests that medical bills are a contributing factor in just 17 percent of personal bankruptcies and that those affected tend to have incomes closer to poverty level than to middle class. Moreover, for national health insurance to have an impact, it would have to define 'medical' expenses in a much broader way than is now typical of either private or government-funded plans.   -------------------------------------------------------------------------------- The great enemy of the truth is very often not the lie-deliberate, contrived and dishonest-but the myth: persistent, persuasive and unrealistic. -President John F. Kennedy, Commencement Address at Yale University, 11 June 1962. Medical Bankruptcy: Myth Versus Fact -- Dranove and Millenson 25 (2): w74 -- Health Affairs",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:25"
+    },
+    {
+      "nodeID": "140405",
+      "text": "and for you MIT stat loving freaks: http://web.mit.edu/~noto/Public/bk_v8.pdf",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:25"
+    },
+    {
+      "nodeID": "140406",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:51:25"
+    },
+    {
+      "nodeID": "140407",
+      "text": "Now why are Americans fat, there's a good question.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:25"
+    },
+    {
+      "nodeID": "140408",
+      "text": "And one for another topic. I'm curious as to how people on here can claim that the American health care system is the cheapest, most efficient, economical model (and overall 'best' option) given the stats presented above.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:25"
+    },
+    {
+      "nodeID": "140409",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:51:25"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183710",
+      "fromID": "140405",
+      "toID": "140406",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183711",
+      "fromID": "140406",
+      "toID": "140404",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183712",
+      "fromID": "140408",
+      "toID": "140409",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183713",
+      "fromID": "140409",
+      "toID": "140407",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

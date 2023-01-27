@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "154797",
+      "text": "A study published this month in the journal Pediatrics claimed children do better when their same-sex parents are allowed to marry or enter a civil union. According to marriage and family experts, such reporting fails to recognize myriad reports that show kids do better in a home with a biological mother and father.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:22:25"
+    },
+    {
+      "nodeID": "154798",
+      "text": "I don't know how this can be true. Thank God that I didn't grow up with my biological father. I'm not really interested in being a jerk.:xbanghead",
+      "type": "I",
+      "timestamp": "2016-03-08 20:22:25"
+    },
+    {
+      "nodeID": "154799",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:22:25"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193874",
+      "fromID": "154798",
+      "toID": "154799",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193875",
+      "fromID": "154799",
+      "toID": "154797",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "149801",
+      "text": "God is often the answer for the things we can't explain. Since we are not gods, we cannot know everything. Alot, yes. Everything, no.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:24"
+    },
+    {
+      "nodeID": "149802",
+      "text": "But I think that Gods originally came about to explain why a large yellow thing goes up and down everyday. To a caveman the most logical explanation is there is a God. Now we know better. Just because there are still things we can't explain does not mean they must be from God.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:24"
+    },
+    {
+      "nodeID": "149803",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:11:24"
+    },
+    {
+      "nodeID": "149804",
+      "text": "What's wrong with God being the explanation for the unexplanable, comfort for those affraid of death, and the meaning for life?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:24"
+    },
+    {
+      "nodeID": "149805",
+      "text": "Well nothing, other than the fact that I don't believe it to be true!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:24"
+    },
+    {
+      "nodeID": "149806",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:11:24"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "190350",
+      "fromID": "149802",
+      "toID": "149803",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190351",
+      "fromID": "149803",
+      "toID": "149801",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190352",
+      "fromID": "149805",
+      "toID": "149806",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190353",
+      "fromID": "149806",
+      "toID": "149804",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

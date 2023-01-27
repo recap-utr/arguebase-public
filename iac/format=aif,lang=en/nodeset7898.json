@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "149335",
+      "text": "Yes I believe in strict government regulation of business. I see the agenda behind the question.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:37"
+    },
+    {
+      "nodeID": "149336",
+      "text": "So you for strict regulation of business but not people? Interesting...do you know who runs businesses? Yeah, people.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:37"
+    },
+    {
+      "nodeID": "149337",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:10:37"
+    },
+    {
+      "nodeID": "149338",
+      "text": "Agreed, that would be a good reason. The question Cone asked was: should the government be able to make such a policy?. You and I agree that having a body that can make such decisions has a good reason to exist.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:38"
+    },
+    {
+      "nodeID": "149339",
+      "text": "I think there is a difference in saying what you must have and saying what you can't have.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:38"
+    },
+    {
+      "nodeID": "149340",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:10:38"
+    },
+    {
+      "nodeID": "149341",
+      "text": "A free society works by saying 'you can't do this stuff but everything else is up to you guys'. If you go around saying 'you must do it this way' then you really aren't a free society but you have the government controlling instead.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:38"
+    },
+    {
+      "nodeID": "149342",
+      "text": "I think a free society works better by saying 'You have to have at least a certain variety to give your customers a choice in products'. Businesses should have the restrictions, not private citizens.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:38"
+    },
+    {
+      "nodeID": "149343",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:10:38"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "190018",
+      "fromID": "149336",
+      "toID": "149337",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190019",
+      "fromID": "149337",
+      "toID": "149335",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190020",
+      "fromID": "149339",
+      "toID": "149340",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190021",
+      "fromID": "149340",
+      "toID": "149338",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190022",
+      "fromID": "149342",
+      "toID": "149343",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190023",
+      "fromID": "149343",
+      "toID": "149341",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

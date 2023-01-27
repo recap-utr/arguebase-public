@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "158048",
+      "text": "Does anybody who thinks animals don't evolve care to explain any of this?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:52"
+    },
+    {
+      "nodeID": "158049",
+      "text": "The correct answer to this question is no. They also have yet to take up electrolyte's challenge to explain the human plantaris muscle or, for that matter, most any vestigial structure. Actually, WW probably wouldn't have too much trouble with them- he appears to support common descent. SS and AA, on the other hand, can't do much about it.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:52"
+    },
+    {
+      "nodeID": "158050",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:29:52"
+    },
+    {
+      "nodeID": "158051",
+      "text": "There's also a species of Nematode worm that lives only in damp beer mats. One of the Post-Grads at my old Uni did his doctorate on them, I've tried looking for a link to the research a few times but so far haven't come across it.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:52"
+    },
+    {
+      "nodeID": "158052",
+      "text": "Yep life is sometimes incredibly fine tuned. Create and maintain an oddball environment and some existing species will move in or if there is no existing species which can use the environment something may well eventually evolve to do so. Microbes are incredibly efficient at this because of their short generation times. So are things like nematodes etc.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:52"
+    },
+    {
+      "nodeID": "158053",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:29:52"
+    },
+    {
+      "nodeID": "158054",
+      "text": "And tapeworms to an extent, they like in stomachs.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:52"
+    },
+    {
+      "nodeID": "158055",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:29:52"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196172",
+      "fromID": "158049",
+      "toID": "158050",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196173",
+      "fromID": "158050",
+      "toID": "158048",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196174",
+      "fromID": "158052",
+      "toID": "158053",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196175",
+      "fromID": "158053",
+      "toID": "158051",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196176",
+      "fromID": "158054",
+      "toID": "158055",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196177",
+      "fromID": "158055",
+      "toID": "158052",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151609",
+      "text": "I'm sure that if you could assure folks with children having Downs Syndrome that you would extend loving care to their children in the event these children's parents died prematurely or the children survived the parents and take care of these children for the rest of your lives or ensure their care for as long as they lived, the parents might very well choose not to abort.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:09"
+    },
+    {
+      "nodeID": "151610",
+      "text": "Because parents of children without Downs never die prematurely. C'mon Simone.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:09"
+    },
+    {
+      "nodeID": "151611",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:15:09"
+    },
+    {
+      "nodeID": "151612",
+      "text": "As my Aunt and Uncle helped to provide a loving and safe atmosphere for my mongoloid cousin until he died, so too would I provide love and security for the downs or mongoloid produced by any of my children. It's called a 'family unit'. Yes, I am willing to do that.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:09"
+    },
+    {
+      "nodeID": "151613",
+      "text": "Mongoloid? Is this 1937?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:09"
+    },
+    {
+      "nodeID": "151614",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:15:09"
+    },
+    {
+      "nodeID": "151615",
+      "text": "I shuddered at same but didn't want to say anything lest I be dubbed PC.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:09"
+    },
+    {
+      "nodeID": "151616",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:15:09"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191620",
+      "fromID": "151610",
+      "toID": "151611",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191621",
+      "fromID": "151611",
+      "toID": "151609",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191622",
+      "fromID": "151613",
+      "toID": "151614",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191623",
+      "fromID": "151614",
+      "toID": "151612",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191624",
+      "fromID": "151615",
+      "toID": "151616",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191625",
+      "fromID": "151616",
+      "toID": "151613",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

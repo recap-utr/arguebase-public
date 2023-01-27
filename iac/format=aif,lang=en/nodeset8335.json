@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "155876",
+      "text": "I've never understood this need to call babies he or she, rather than 'it'. I refered to my own daughter using 'it' for the first month after she was born. It was only because my own mother objected to me doing so that I stopped. Babies look like babies, not like boys or girls. It makes sense to refer to them as 'it'. It also saves strangers getting embarrased when they guess the gender wrongly. Refer to babies as 'it': it isn't disrespectful and it's sensible.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:49"
+    },
+    {
+      "nodeID": "155877",
+      "text": "Well i know it wouldn't be sensible for anyone to call my child an it that is just disrespectfull to both your partener and child.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:49"
+    },
+    {
+      "nodeID": "155878",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:49"
+    },
+    {
+      "nodeID": "155879",
+      "text": "So Let me understand, are you against abortion in the second and third trimester?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:49"
+    },
+    {
+      "nodeID": "155880",
+      "text": "No, but the first trimester makes my point stronger, and given that 95-98% of abortions happen then it is a valid distinction.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:49"
+    },
+    {
+      "nodeID": "155881",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:49"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194636",
+      "fromID": "155877",
+      "toID": "155878",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194637",
+      "fromID": "155878",
+      "toID": "155876",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194638",
+      "fromID": "155880",
+      "toID": "155881",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194639",
+      "fromID": "155881",
+      "toID": "155879",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

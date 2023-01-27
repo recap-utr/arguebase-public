@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "142150",
+      "text": "What say you now, Sinjin?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:26"
+    },
+    {
+      "nodeID": "142151",
+      "text": "I believe I am on record as not supporting registration of either handguns or long guns as long as NICS checks are conducted for all sales and transfers of ownership records are recoverable from FFL's with a warrant.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:26"
+    },
+    {
+      "nodeID": "142152",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:55:26"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184946",
+      "fromID": "142151",
+      "toID": "142152",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184947",
+      "fromID": "142152",
+      "toID": "142150",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

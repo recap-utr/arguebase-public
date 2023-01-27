@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143790",
+      "text": "ONE EXTREME EXAMPLE!?!?!? This is the VPC they claim to be for 'moderate gun control laws' They used to be HCI. This is one of the largest anti-civil rights groups operating in the US",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:53"
+    },
+    {
+      "nodeID": "143791",
+      "text": "Oh? And what do you consider yourself when it comes to gun rights? Are you moderate or fanatical? Would you actually declare yourself a fanatic or would you like to be known as a moderate? I don't think any organization who wants to be taken seriously will declare themselves fanatical about their cause because that would take away from their credibility.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:53"
+    },
+    {
+      "nodeID": "143792",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:58:53"
+    },
+    {
+      "nodeID": "143793",
+      "text": "The VPC did not used to be HCI. The Brady Campaign to Prevent Gun Violence used to be HCI. It's true that the VPC is somewhat extremist, but the Brady Campaign to Prevent Gun Violence is much more moderate on the issue.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:53"
+    },
+    {
+      "nodeID": "143794",
+      "text": "Oh they are? Thats strange... I could not find where exactly they stand on any of thier numerous websites, just more restrictions... And the old HCI was not 'moderate'",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:53"
+    },
+    {
+      "nodeID": "143795",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:58:53"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186116",
+      "fromID": "143791",
+      "toID": "143792",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186117",
+      "fromID": "143792",
+      "toID": "143790",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186118",
+      "fromID": "143794",
+      "toID": "143795",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186119",
+      "fromID": "143795",
+      "toID": "143793",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

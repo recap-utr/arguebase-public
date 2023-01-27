@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152197",
+      "text": "(Los Angeles, California) California Democrats have wrapped up their annual convention with a resolution supporting same-sex marriage.  'The California Democratic Party is now a leading partner in statewide efforts to ensure that all California families enjoy the legal protections that they deserve,' said Eric Stern, National Stonewall Democrats Executive Director who addressed the convention.  The resolution calls for civil marriage to be extended to same-sex couples. It passed unanimously and as the vote was being taken many delegates displayed signs that read 'AB 19' in support of an assembly bill that would extend civil marriage to same-sex couples. The legislation was recently introduced by Assemblyman Mark Leno, an openly-gay Democrat from San Francisco. The vote makes California the fourth state Democratic party to officially call for marriage equality. The Democratic parties of Massachusetts, New York and Washington State have all expressed support for marriage equality, either by resolution or through a state party platform. The Religious Freedom and Civil Marriage Protection Act, authored by Leno, is expected to pass through the Assembly Judiciary Committee on April 26. The legislation would allow gays and lesbians to marry while protecting the rights of churches opposed to same-sex marriage to refuse to perform the weddings. It also has the support of the NAACP",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:26"
+    },
+    {
+      "nodeID": "152198",
+      "text": "But of course, according to one singularly deranged poster here, it's the Republicans who are truly pro-gay (they just can't show it, doncha know), while the Democrats are just paying phony-baloney lip service to us...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:26"
+    },
+    {
+      "nodeID": "152199",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:16:26"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192036",
+      "fromID": "152198",
+      "toID": "152199",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192037",
+      "fromID": "152199",
+      "toID": "152197",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

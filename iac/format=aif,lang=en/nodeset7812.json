@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148131",
+      "text": "How did Poplawski gun down three armed police officers so easily with a weapon that according to the gun lobby only differed from other firearms in its scary looks?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:55"
+    },
+    {
+      "nodeID": "148132",
+      "text": "Because all guns are lethal in nature, all of them are capable of being used to kill someone if used improperly. Or are you now claiming that if Poplawski had been limited to bolt-action rifles, those police officers would still be alive because a bolt-action rifle is incapable of killing?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:55"
+    },
+    {
+      "nodeID": "148133",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:55"
+    },
+    {
+      "nodeID": "148134",
+      "text": "'Even semiautomatic assault weapons can be fired with extraordinary speed. When San Jose, California, police test-fired an Uzi, a 30-round magazine was emptied in slightly less than two seconds on full automatic, while the same magazine was emptied in just five seconds on semiautomatic.' Brady Campaign to Prevent Gun Violence",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:55"
+    },
+    {
+      "nodeID": "148135",
+      "text": "So what? That means in a firefight with police, the criminal will run out of ammunition in a matter of seconds and be ripe for the picking.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:55"
+    },
+    {
+      "nodeID": "148136",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:55"
+    },
+    {
+      "nodeID": "148137",
+      "text": "Even a semiautomatic version of an assault rifle can be fired at an amazingly rapid rate.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:55"
+    },
+    {
+      "nodeID": "148138",
+      "text": "So who cares? Last time I checked there was no law against guns with a high cycling rate.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:56"
+    },
+    {
+      "nodeID": "148139",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:56"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189168",
+      "fromID": "148132",
+      "toID": "148133",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189169",
+      "fromID": "148133",
+      "toID": "148131",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189170",
+      "fromID": "148135",
+      "toID": "148136",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189171",
+      "fromID": "148136",
+      "toID": "148134",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189172",
+      "fromID": "148138",
+      "toID": "148139",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189173",
+      "fromID": "148139",
+      "toID": "148137",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

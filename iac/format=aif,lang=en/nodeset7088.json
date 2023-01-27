@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "137711",
+      "text": "No, I am not in the least saying that people born into poverty, or impoverished people, should be sent to a gas chamber.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:33"
+    },
+    {
+      "nodeID": "137712",
+      "text": "Really, fetal persons are born. Science has demostrated that birth really occurs into the womb, not when one leaves it.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:33"
+    },
+    {
+      "nodeID": "137713",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:45:33"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181792",
+      "fromID": "137712",
+      "toID": "137713",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181793",
+      "fromID": "137713",
+      "toID": "137711",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

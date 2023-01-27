@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "147732",
+      "text": "While certainly the reasons people use drugs should and must be addressed, I think it disingenuous to suggest that easy access to drugs is not part of the problem. Cutting off the supply is a justifiable goal.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:06:54"
+    },
+    {
+      "nodeID": "147733",
+      "text": "And after 40 years of the war on drugs and drug control, just how close are we to that? You must remove the demand for illegal drugs because as long as there is a demand there will be someone there to smuggle it, make it, or grow it and supply it.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:06:54"
+    },
+    {
+      "nodeID": "147734",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:06:54"
+    },
+    {
+      "nodeID": "147735",
+      "text": "If drugs were more accessable we would likly have far less crime and far more drug adicts.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:06:54"
+    },
+    {
+      "nodeID": "147736",
+      "text": "I think you might want to check your logic here... As far as I am aware, drug addicts cause a great deal of crime to support their habit. As you are, I am not terribly fond of policing someone's personal habits, but when drugs are the motivating force behind burglaries, assaults and muggings and addicts carry diseases such AIDS and tuberculosis then means of curtailing this should be explored. This may include policing or controlling the supply of drugs to an area to cut down and the amount of drugs sold, and thus less crime to support fewer habits. Easy access to drugs is, logically, part of the problem.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:06:54"
+    },
+    {
+      "nodeID": "147737",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:06:54"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "188890",
+      "fromID": "147733",
+      "toID": "147734",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188891",
+      "fromID": "147734",
+      "toID": "147732",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188892",
+      "fromID": "147736",
+      "toID": "147737",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188893",
+      "fromID": "147737",
+      "toID": "147735",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

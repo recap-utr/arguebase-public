@@ -1,0 +1,559 @@
+{
+  "nodes": [
+    {
+      "nodeID": "211154",
+      "text": "brent0935 : How to destroy a state, Scott Walker edition",
+      "type": "L",
+      "timestamp": "2016-10-31 17:02:02"
+    },
+    {
+      "nodeID": "211155",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:02:02",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211156",
+      "text": "How to destroy a state, Scott Walker edition",
+      "type": "I",
+      "timestamp": "2016-10-31 17:02:02"
+    },
+    {
+      "nodeID": "211157",
+      "text": "Rory: brent0935 : How to destroy a state, Scott Walker edition",
+      "type": "L",
+      "timestamp": "2016-10-31 17:02:02"
+    },
+    {
+      "nodeID": "211158",
+      "text": "jaerickson : Edition",
+      "type": "L",
+      "timestamp": "2016-10-31 17:02:02"
+    },
+    {
+      "nodeID": "211159",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:02:02",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211160",
+      "text": "Edition",
+      "type": "I",
+      "timestamp": "2016-10-31 17:02:02"
+    },
+    {
+      "nodeID": "211161",
+      "text": "Rory: jaerickson : Edition",
+      "type": "L",
+      "timestamp": "2016-10-31 17:02:02"
+    },
+    {
+      "nodeID": "211162",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:02:02",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211163",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-10-31 17:02:02",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "211164",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:02:03",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "211165",
+      "text": "brent0935 : I edited it",
+      "type": "L",
+      "timestamp": "2016-10-31 17:02:03"
+    },
+    {
+      "nodeID": "211166",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:02:03",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211167",
+      "text": "I edited it",
+      "type": "I",
+      "timestamp": "2016-10-31 17:02:03"
+    },
+    {
+      "nodeID": "211168",
+      "text": "Rory: brent0935 : I edited it",
+      "type": "L",
+      "timestamp": "2016-10-31 17:02:03"
+    },
+    {
+      "nodeID": "211169",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:02:03",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211170",
+      "text": "brent0935 : Is it showing up",
+      "type": "L",
+      "timestamp": "2016-10-31 17:02:03"
+    },
+    {
+      "nodeID": "211171",
+      "text": "Assertive Questioning",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:02:03",
+      "scheme": "AssertiveQuestioning",
+      "schemeID": "73"
+    },
+    {
+      "nodeID": "211172",
+      "text": "Its not showing up",
+      "type": "I",
+      "timestamp": "2016-10-31 17:02:03"
+    },
+    {
+      "nodeID": "211173",
+      "text": "Rory: brent0935 : Is it showing up",
+      "type": "L",
+      "timestamp": "2016-10-31 17:02:03"
+    },
+    {
+      "nodeID": "211174",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:02:03",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211175",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 17:02:04",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "211176",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:02:04",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "211177",
+      "text": "brent0935 : On mobile so it's showing the edit to me",
+      "type": "L",
+      "timestamp": "2016-10-31 17:02:04"
+    },
+    {
+      "nodeID": "211178",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:02:04",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211179",
+      "text": "On mobile so it's showing the edit to me",
+      "type": "I",
+      "timestamp": "2016-10-31 17:02:04"
+    },
+    {
+      "nodeID": "211180",
+      "text": "Rory: brent0935 : On mobile so it's showing the edit to me",
+      "type": "L",
+      "timestamp": "2016-10-31 17:02:04"
+    },
+    {
+      "nodeID": "211181",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:02:04",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211182",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 17:02:04",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "211183",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:02:04",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "211184",
+      "text": "NiceGuyNate : Edition",
+      "type": "L",
+      "timestamp": "2016-10-31 17:02:04"
+    },
+    {
+      "nodeID": "211185",
+      "text": "Rory: NiceGuyNate : Edition?",
+      "type": "L",
+      "timestamp": "2016-10-31 17:02:04"
+    },
+    {
+      "nodeID": "211186",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:02:05",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211187",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:02:05",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211188",
+      "text": "brent0935 : Listening and typing is hard to do at the same time",
+      "type": "L",
+      "timestamp": "2016-10-31 17:02:05"
+    },
+    {
+      "nodeID": "211189",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:02:05",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211190",
+      "text": "Listening and typing is hard to do at the same time",
+      "type": "I",
+      "timestamp": "2016-10-31 17:02:05"
+    },
+    {
+      "nodeID": "211191",
+      "text": "Rory: brent0935 : Listening and typing is hard to do at the same time",
+      "type": "L",
+      "timestamp": "2016-10-31 17:02:05"
+    },
+    {
+      "nodeID": "211192",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:02:05",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211193",
+      "text": "NiceGuyNate : Agred",
+      "type": "L",
+      "timestamp": "2016-10-31 17:02:05"
+    },
+    {
+      "nodeID": "211194",
+      "text": "Rory: NiceGuyNate : Agred",
+      "type": "L",
+      "timestamp": "2016-10-31 17:02:05"
+    },
+    {
+      "nodeID": "211195",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:02:05",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211196",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:02:06",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "257723",
+      "fromID": "211155",
+      "toID": "211156",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257724",
+      "fromID": "211154",
+      "toID": "211155",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257725",
+      "fromID": "211159",
+      "toID": "211160",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257726",
+      "fromID": "211158",
+      "toID": "211159",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257727",
+      "fromID": "211154",
+      "toID": "211162",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257728",
+      "fromID": "211162",
+      "toID": "211158",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257729",
+      "fromID": "211160",
+      "toID": "211163",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257730",
+      "fromID": "211163",
+      "toID": "211156",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257731",
+      "fromID": "211162",
+      "toID": "211164",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257732",
+      "fromID": "211164",
+      "toID": "211163",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257733",
+      "fromID": "211166",
+      "toID": "211167",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257734",
+      "fromID": "211165",
+      "toID": "211166",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257735",
+      "fromID": "211158",
+      "toID": "211169",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257736",
+      "fromID": "211169",
+      "toID": "211165",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257737",
+      "fromID": "211171",
+      "toID": "211172",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257738",
+      "fromID": "211170",
+      "toID": "211171",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257739",
+      "fromID": "211165",
+      "toID": "211174",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257740",
+      "fromID": "211174",
+      "toID": "211170",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257741",
+      "fromID": "211172",
+      "toID": "211175",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257742",
+      "fromID": "211175",
+      "toID": "211167",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257743",
+      "fromID": "211174",
+      "toID": "211176",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257744",
+      "fromID": "211176",
+      "toID": "211175",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257745",
+      "fromID": "211178",
+      "toID": "211179",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257746",
+      "fromID": "211177",
+      "toID": "211178",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257747",
+      "fromID": "211170",
+      "toID": "211181",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257748",
+      "fromID": "211181",
+      "toID": "211177",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257749",
+      "fromID": "211179",
+      "toID": "211182",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257750",
+      "fromID": "211182",
+      "toID": "211172",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257751",
+      "fromID": "211181",
+      "toID": "211183",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257752",
+      "fromID": "211183",
+      "toID": "211182",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257753",
+      "fromID": "211184",
+      "toID": "211186",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257754",
+      "fromID": "211186",
+      "toID": "211160",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257755",
+      "fromID": "211154",
+      "toID": "211187",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257756",
+      "fromID": "211187",
+      "toID": "211184",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257757",
+      "fromID": "211189",
+      "toID": "211190",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257758",
+      "fromID": "211188",
+      "toID": "211189",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257759",
+      "fromID": "211184",
+      "toID": "211192",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257760",
+      "fromID": "211192",
+      "toID": "211188",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257761",
+      "fromID": "211188",
+      "toID": "211195",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257762",
+      "fromID": "211195",
+      "toID": "211193",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257763",
+      "fromID": "211195",
+      "toID": "211196",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257764",
+      "fromID": "211196",
+      "toID": "211190",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

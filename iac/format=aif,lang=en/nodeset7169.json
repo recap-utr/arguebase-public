@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138805",
+      "text": "What would you rather have your politicans talk about<b></b>:  Gay marriage and how to ban it,  or Securing the borders, nuclear plants, water plants and the country as a whole from terrorist attacks. Properly funding education to ensure that the future generatios are smarter then the previous. State and federal fisical policies and the long term affects on irresponble behavior. Medicare and how it will soon be eating up ever larger portion of state and federal budgets.  Is anyone else willing to stand with me in declaring that Gay marriage is nothing but a method for politicans to avoid dealing with the real issues?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:50"
+    },
+    {
+      "nodeID": "138806",
+      "text": "You know Duo, I actually agree with you here. I think it's a method for BOTH sides to avoid dealing with other issues. For The Democrats, gay rights is a means of tokenism to get some extra votes. For Republicans, it's a way to stir up their base to avoid dealing with unpopular policies.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:50"
+    },
+    {
+      "nodeID": "138807",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:47:50"
+    },
+    {
+      "nodeID": "138808",
+      "text": "Then politicans should just drop the whole issue.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:50"
+    },
+    {
+      "nodeID": "138809",
+      "text": "Oh come on, we know they will never do that, they're masters of WMD. 'Weapons of Mass Distraction'",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:50"
+    },
+    {
+      "nodeID": "138810",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:47:50"
+    },
+    {
+      "nodeID": "138811",
+      "text": "According to the Old Testament, Sodom and Gammorah were destroyed because the rich oppressed the poor (which is nearly an essential part of Capitalism), not because of homosexuality. According to the Old Testament, you must also murder people of different faiths in cold blood by stoning them to death, especially your friends and family.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:50"
+    },
+    {
+      "nodeID": "138812",
+      "text": "Well, those who keep using that story can't see the real sins of those cities. They are so sure that it was rampent homosexuality which lead to their destruction. Even though we know that before the Angels were ever sent God had spelled out why he was going to destroy them. He sent the angels because they promiced to find even one righteous man. They failed in that because the angels were attacked for being foreigners. Noone who abuses this story is ever going to admit this fact. They can't see past the supposed homosexual issue.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:50"
+    },
+    {
+      "nodeID": "138813",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:47:51"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182572",
+      "fromID": "138806",
+      "toID": "138807",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182573",
+      "fromID": "138807",
+      "toID": "138805",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182574",
+      "fromID": "138809",
+      "toID": "138810",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182575",
+      "fromID": "138810",
+      "toID": "138808",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182576",
+      "fromID": "138812",
+      "toID": "138813",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182577",
+      "fromID": "138813",
+      "toID": "138811",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157554",
+      "text": "If this is the future for this country, I do not want to be part of it. emoticon_ic",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:42"
+    },
+    {
+      "nodeID": "157555",
+      "text": "So where will you be moving to?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:43"
+    },
+    {
+      "nodeID": "157556",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:28:43"
+    },
+    {
+      "nodeID": "157557",
+      "text": "Obviously you wouldn't like it. Heaven forbid equal rights. Heaven forbid tolerance. Heaven forbid actually treating people you don't like as HUMAN.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:43"
+    },
+    {
+      "nodeID": "157558",
+      "text": "Well, as Jaaman see it, Heaven does forbid it! I myself am getting worried, look at Virgina. They have enacted law that stops even relationship contracts and healthcare for gays and lesbians. If that were to happen in my state, my parter would loose his healthcare because it is from my work. (He is self-employed). I read where people will just move to states where they feel accpeted, then others will move to states with laws that agree with their beliefs. Soon we will be a divided country.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:43"
+    },
+    {
+      "nodeID": "157559",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:28:43"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195820",
+      "fromID": "157555",
+      "toID": "157556",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195821",
+      "fromID": "157556",
+      "toID": "157554",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195822",
+      "fromID": "157558",
+      "toID": "157559",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195823",
+      "fromID": "157559",
+      "toID": "157557",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

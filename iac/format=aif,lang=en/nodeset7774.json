@@ -1,0 +1,157 @@
+{
+  "nodes": [
+    {
+      "nodeID": "147810",
+      "text": "But the creationists continue to attempt to impose their religion on others as science by the latest 'Intelligent Design' movement. The ID movement is nothing more than creationism that attempts to avoid a mention of God. Once ID theory (which isn't theory since it is not based on evidence and testing) is allowed into the schools, then the next step will be to introduce the fundamentalist Christian god as the designer.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:04"
+    },
+    {
+      "nodeID": "147811",
+      "text": "Oh what a shame! Especially if it's true! Where did you get the idea that ID theory is not based on evidence and/or testing?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:04"
+    },
+    {
+      "nodeID": "147812",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:07:04"
+    },
+    {
+      "nodeID": "147813",
+      "text": "When that didn't work, they tried to pass laws that required 'equal time' for the teaching of fundamentalist Christian mythology as science ('Creation science').",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:04"
+    },
+    {
+      "nodeID": "147814",
+      "text": "So, does this mean Creation Science is different from creationism?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:04"
+    },
+    {
+      "nodeID": "147815",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:04"
+    },
+    {
+      "nodeID": "147816",
+      "text": "See:Numbers, Ronald L. The Creationists: The Evolution of Scientific Creationism. Berkeley: University of California Press, 1992.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:04"
+    },
+    {
+      "nodeID": "147817",
+      "text": "Well there you go again mixing up a belief in creation (creationists) with a belief that the idea of creation can be based in science (creation science) This is why you are anti-religious in your post. Not everyone who believes in creation, is a creation scientist. I believe in creation, and I'm not a creation scientist, so when you attack us all through confusion, you are, well... attacking us all. Such is your zeal to do so, based as it is, on a philosophy of science.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:04"
+    },
+    {
+      "nodeID": "147818",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:05"
+    },
+    {
+      "nodeID": "147819",
+      "text": "And perhaps Montalban didn't notice that Dembski's definition of specification is a tautology.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:05"
+    },
+    {
+      "nodeID": "147820",
+      "text": "You mean like Darwin's 'survival of the fittest' tautology?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:05"
+    },
+    {
+      "nodeID": "147821",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:07:05"
+    },
+    {
+      "nodeID": "147822",
+      "text": "Dembski's 'explanatory filter' is nonsense.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:05"
+    },
+    {
+      "nodeID": "147823",
+      "text": "Well, you've convinced me already.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:05"
+    },
+    {
+      "nodeID": "147824",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:05"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "188942",
+      "fromID": "147811",
+      "toID": "147812",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188943",
+      "fromID": "147812",
+      "toID": "147810",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188944",
+      "fromID": "147814",
+      "toID": "147815",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188945",
+      "fromID": "147815",
+      "toID": "147813",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188946",
+      "fromID": "147817",
+      "toID": "147818",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188947",
+      "fromID": "147818",
+      "toID": "147816",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188948",
+      "fromID": "147820",
+      "toID": "147821",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188949",
+      "fromID": "147821",
+      "toID": "147819",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188950",
+      "fromID": "147823",
+      "toID": "147824",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188951",
+      "fromID": "147824",
+      "toID": "147822",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

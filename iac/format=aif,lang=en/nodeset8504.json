@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "158241",
+      "text": "Why would you start a new thread on a topic that has already been addressed only three threads down less than 24 hours ago? Do you think our memories are that short?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:30:19"
+    },
+    {
+      "nodeID": "158242",
+      "text": "oh, must have missed it. Obviously I wouldn't have done that on purpose. what's the name of the thread?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:30:19"
+    },
+    {
+      "nodeID": "158243",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:30:19"
+    },
+    {
+      "nodeID": "158244",
+      "text": "oh, must have missed it. Obviously I wouldn't have done that on purpose.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:30:19"
+    },
+    {
+      "nodeID": "158245",
+      "text": "Including I suppose the underling of the same words in both places?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:30:19"
+    },
+    {
+      "nodeID": "158246",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:30:20"
+    },
+    {
+      "nodeID": "158247",
+      "text": "so where is the evolution?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:30:20"
+    },
+    {
+      "nodeID": "158248",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:30:20"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196310",
+      "fromID": "158242",
+      "toID": "158243",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196311",
+      "fromID": "158243",
+      "toID": "158241",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196312",
+      "fromID": "158245",
+      "toID": "158246",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196313",
+      "fromID": "158246",
+      "toID": "158244",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196314",
+      "fromID": "158247",
+      "toID": "158248",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196315",
+      "fromID": "158248",
+      "toID": "158245",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

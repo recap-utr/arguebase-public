@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "136516",
+      "text": "To my mind the major point of debate is not to convince others, but to explore your own thoughts on a matter. You hit it right on the head, I notice the same thing.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:10"
+    },
+    {
+      "nodeID": "136517",
+      "text": "I see. So what you are saying is that you are unsure about evolution and wish to explore it. Great. Then start with one of those unreasonable and dumb arguments and present it. Why are you more reasonable and not so dumb? It's easy to do what you have done. I can claim that invisible pink unicorns push the moon across the sky. I can claim that you are unreasonable and dumb because you disagree with me. But it is meaningless unless I am willing to show that I have a pair and can step up and show why I am right. Do you have a pair?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:10"
+    },
+    {
+      "nodeID": "136518",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:43:10"
+    },
+    {
+      "nodeID": "136519",
+      "text": "...if we see relatively few creationists on these boards, all that means is, theres relatively few creationists on these boards. That doesn't prove anything. Right? Lets do some thinking here...",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:10"
+    },
+    {
+      "nodeID": "136520",
+      "text": "But the point is why are there relatively few creationists. The reason is that the creationist position cannot be defended in open debate. That is why creationist boards censor opposing views. On boards where creationists are not protected there are few.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:10"
+    },
+    {
+      "nodeID": "136521",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:43:10"
+    },
+    {
+      "nodeID": "136522",
+      "text": "Many evolutionists are pretty bright, yes, No one can deny that.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:10"
+    },
+    {
+      "nodeID": "136523",
+      "text": "And it remains to be seen if your are. Pick an unreasonable and dumb argument go with it.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:10"
+    },
+    {
+      "nodeID": "136524",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:43:10"
+    },
+    {
+      "nodeID": "136525",
+      "text": "But heres the main point,...",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:10"
+    },
+    {
+      "nodeID": "136526",
+      "text": "You mean 'here's'.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:10"
+    },
+    {
+      "nodeID": "136527",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:43:11"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "180932",
+      "fromID": "136517",
+      "toID": "136518",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180933",
+      "fromID": "136518",
+      "toID": "136516",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180934",
+      "fromID": "136520",
+      "toID": "136521",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180935",
+      "fromID": "136521",
+      "toID": "136519",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180936",
+      "fromID": "136523",
+      "toID": "136524",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180937",
+      "fromID": "136524",
+      "toID": "136522",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180938",
+      "fromID": "136526",
+      "toID": "136527",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "180939",
+      "fromID": "136527",
+      "toID": "136525",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

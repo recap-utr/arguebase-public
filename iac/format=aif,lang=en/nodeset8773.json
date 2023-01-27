@@ -1,0 +1,157 @@
+{
+  "nodes": [
+    {
+      "nodeID": "162370",
+      "text": "What the shooter's best friend had to say about the reason why the shooting occurred, 'Poplawski had feared the Obama gun ban that's on the way and didn't like our rights being infringed upon'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:40:00"
+    },
+    {
+      "nodeID": "162371",
+      "text": "And if a black guy went on a killing spree and murdered 17 white guys and said he was doing the work that he felt Obama wanted him to do, what exactly would that suggest to you? Just because somebody makes a claim, doesn't make it the truth. What're you gonna do when a life member of the Brady Campaign carries out one of these mass shootings?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:40:00"
+    },
+    {
+      "nodeID": "162372",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:40:01"
+    },
+    {
+      "nodeID": "162373",
+      "text": "No it couldn't. For starters Poplawski was dishonorably discharged from military service. In case you didn't know it, a dishonorable discharge carries an automatic life ban from firearms possession, meaning that his possession of an AK-47 was 100% illegal.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:40:01"
+    },
+    {
+      "nodeID": "162374",
+      "text": "So you claim.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:40:01"
+    },
+    {
+      "nodeID": "162375",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:40:01"
+    },
+    {
+      "nodeID": "162376",
+      "text": "And if a black guy went on a killing spree and murdered 17 white guys and said he was doing the work that he felt Obama wanted him to do, what exactly would that suggest to you?...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:40:01"
+    },
+    {
+      "nodeID": "162377",
+      "text": "Just for the record:",
+      "type": "I",
+      "timestamp": "2016-03-08 20:40:01"
+    },
+    {
+      "nodeID": "162378",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:40:01"
+    },
+    {
+      "nodeID": "162379",
+      "text": "He had a gun and believed the rightwing lies. He was just a little more credulous and paranoid.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:40:01"
+    },
+    {
+      "nodeID": "162380",
+      "text": "You repeat that like it actually means something! emoticon_ic Could it that your side is paranoid looking for some vast Right Winged conspiracy?  Maybe it's Bush's fault! emoticon_wow",
+      "type": "I",
+      "timestamp": "2016-03-08 20:40:01"
+    },
+    {
+      "nodeID": "162381",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:40:01"
+    },
+    {
+      "nodeID": "162382",
+      "text": "We know. Nato regurgitated the same talking point in post 3. Do try to keep up.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:40:01"
+    },
+    {
+      "nodeID": "162383",
+      "text": "And you try to grow a brain cell. That doesn't answer anything. Galileo, I did notice your link; and it did say that the guns were bought in the same year as the discharge. However, they seemed very shy on specifying what dates the guns were bought on and when he was discharged. If he bought them after the discharge, then the only ways he could've bought them legally were with a fake ID, bribery, etc.; which actually aren't legal. Oh, and I still wonder if those police officers families would feel better if the guns were illegally obtained... I assure you that even if he did get them semi-legally, he didn't own them legally. The only way he could've got them was by cheating the legal system, and the only way he could've kept them was by hiding them. I'll also acknowledge the possibility that the dealer was lazy with the background check; but no matter what happened, somebody did something illegal.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:40:01"
+    },
+    {
+      "nodeID": "162384",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:40:01"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "199266",
+      "fromID": "162371",
+      "toID": "162372",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199267",
+      "fromID": "162372",
+      "toID": "162370",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199268",
+      "fromID": "162374",
+      "toID": "162375",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199269",
+      "fromID": "162375",
+      "toID": "162373",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199270",
+      "fromID": "162377",
+      "toID": "162378",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199271",
+      "fromID": "162378",
+      "toID": "162376",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199272",
+      "fromID": "162380",
+      "toID": "162381",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199273",
+      "fromID": "162381",
+      "toID": "162379",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199274",
+      "fromID": "162383",
+      "toID": "162384",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199275",
+      "fromID": "162384",
+      "toID": "162382",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

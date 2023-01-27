@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "145380",
+      "text": "This sentence is so badly constructed as to be nigh impossible to parse, and so I have no clear idea of what it is supposed to mean....",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:10"
+    },
+    {
+      "nodeID": "145381",
+      "text": "So stop relying on press reports. The original paper is at sciencemag.org/cgi/reprint/317/5835/214.pdf (add the standard prefixes)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:10"
+    },
+    {
+      "nodeID": "145382",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:02:10"
+    },
+    {
+      "nodeID": "145383",
+      "text": "It's more of a confirmation of Rapid Adaptation rather than Natural Selection imo. It's very similar to the Finches who, in a very few generations changed their beak lengths in response to the changing environmental conditions. Natural Selection implies minute changes over millions of years leading to new species. Not noticeable changes in just a few, or even 10 generations to guarantee the survival of a creature.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:10"
+    },
+    {
+      "nodeID": "145384",
+      "text": "You know, Gradualism isn't the only side of the story. There's also a model of evolution called Punctuated Equilibrium.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:10"
+    },
+    {
+      "nodeID": "145385",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:02:10"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187238",
+      "fromID": "145381",
+      "toID": "145382",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187239",
+      "fromID": "145382",
+      "toID": "145380",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187240",
+      "fromID": "145384",
+      "toID": "145385",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187241",
+      "fromID": "145385",
+      "toID": "145383",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

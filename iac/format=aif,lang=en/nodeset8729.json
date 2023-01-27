@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "161936",
+      "text": "Simply naming an area a gun free zone does not make it a gun free zone. If it is truely to be a gun free zone, the law must be enforced. To enforce the law, you must provide a means of security / controlled access to the zone, to screen for and prevent guns from entering the zone. If the law is enforced, the gun free zone will work.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:43"
+    },
+    {
+      "nodeID": "161937",
+      "text": "You want kids to be placed in a prison for an education. Do you think they will really like to learn in that type of school?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:43"
+    },
+    {
+      "nodeID": "161938",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:43"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198964",
+      "fromID": "161937",
+      "toID": "161938",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198965",
+      "fromID": "161938",
+      "toID": "161936",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

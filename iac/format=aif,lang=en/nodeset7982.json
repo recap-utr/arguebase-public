@@ -1,0 +1,151 @@
+{
+  "nodes": [
+    {
+      "nodeID": "150926",
+      "text": "The latest Rasmussen Reports national telephone survey finds that just 27% now say the U.S. health care system is poor.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:40"
+    },
+    {
+      "nodeID": "150927",
+      "text": "And so what? I don't think we rank (yet) along the lines of the Phillipines, Slovakia or Mexico. Does that mean we are supposed to be grateful as standards keep dropping further down?  Besides, the latest Thomson Reuters Survey shows that 60% of Americans want a public option included in the healthcare reform legislation. That number, of course, doesn't include those who would scrap the legislation entirely as a better approach for achieving single payer. Since the public option in the current legislation appears so weak, at this point.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:40"
+    },
+    {
+      "nodeID": "150928",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:13:40"
+    },
+    {
+      "nodeID": "150929",
+      "text": "It is interesting to note that confidence in the system has improved as the debate over health care reform has moved to center stage.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:40"
+    },
+    {
+      "nodeID": "150930",
+      "text": "There is little confidence in the system as it presently exists. That's why people want a public option included, or to scrap the entire bill for real reform like single payer.  American health insurance, as a system, is not designed to provide assurance of health care, and when we need it most.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:40"
+    },
+    {
+      "nodeID": "150931",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:13:40"
+    },
+    {
+      "nodeID": "150932",
+      "text": "The President hates his country! It's so obvious! How did nobody notice till now!emoticon_rolleyes",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:40"
+    },
+    {
+      "nodeID": "150933",
+      "text": "He may not hate it, but he sure does some strange things WRT it. For example: his World Apology Tour 2009. emoticon_rolleyes",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:40"
+    },
+    {
+      "nodeID": "150934",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:13:40"
+    },
+    {
+      "nodeID": "150935",
+      "text": "I hate to break it to you but the people have less confidence in the monstosity of 2000+ pages that no one knows what's in it not could anyone even begin to tell you bullet points. Take your spam else where like the DU or the KOS where it will be received with koolaid salutes.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:40"
+    },
+    {
+      "nodeID": "150936",
+      "text": "An immaculately presented response, entirely avoiding the topic, or indeed reason, in order to unwittingly further the case for retrospective abortion.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:41"
+    },
+    {
+      "nodeID": "150937",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:13:41"
+    },
+    {
+      "nodeID": "150938",
+      "text": "Still clueless and still presenting a barrel of laffs I see. Have someone that can read and comprehend spell it out for you. I bet yer mun is considering that to get you out of the basement. How's the weight loss coming by the way?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:41"
+    },
+    {
+      "nodeID": "150939",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:13:41"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191140",
+      "fromID": "150927",
+      "toID": "150928",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191141",
+      "fromID": "150928",
+      "toID": "150926",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191142",
+      "fromID": "150930",
+      "toID": "150931",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191143",
+      "fromID": "150931",
+      "toID": "150929",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191144",
+      "fromID": "150933",
+      "toID": "150934",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191145",
+      "fromID": "150934",
+      "toID": "150932",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191146",
+      "fromID": "150936",
+      "toID": "150937",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191147",
+      "fromID": "150937",
+      "toID": "150935",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191148",
+      "fromID": "150938",
+      "toID": "150939",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191149",
+      "fromID": "150939",
+      "toID": "150936",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

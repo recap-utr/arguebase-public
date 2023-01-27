@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152097",
+      "text": "She thinks the university&#8217;s leaders should have been more open about their failure to provide the killer with adequate counselling, among other things.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:12"
+    },
+    {
+      "nodeID": "152098",
+      "text": "Oh yeah right, like sociopaths who are bent on killing and slaughtering everyone around them, can be fixed with something as stupid as school counseling.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:13"
+    },
+    {
+      "nodeID": "152099",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:16:13"
+    },
+    {
+      "nodeID": "152100",
+      "text": "Wooh! A bunch of shot up bodies are drivel. Nice, really nice, Sarge!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:13"
+    },
+    {
+      "nodeID": "152101",
+      "text": "But then you are as your post indicates.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:13"
+    },
+    {
+      "nodeID": "152102",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:16:13"
+    },
+    {
+      "nodeID": "152103",
+      "text": "Seven million people have applied for criminal background checks since November in an effort to buy guns, according to the FBI. That figure doesn't include Virginia, whose gun shows don't require any background checks.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:13"
+    },
+    {
+      "nodeID": "152104",
+      "text": "And many news stories have referred to the New York shooter as being armed with a 'high powered rifle' despite the fact that this was blatantly false. Why should we take this story as being fully factual about the details of background checks and gun shows? And a lot of newspapers are repeating the claims that fully-automatic machine guns, anti-tank missiles, fragmentation grenades and rocket launchers, are being bought by mexican drug cartel members -even though they couldn't possibly pass a background check- and that they're being bought from gun stores in America! But no matter how many times we demand proof of such, NONE IS EVER PRESENTED! Come back with undeniable proof that FFL dealers never conduct federally mandated background checks when selling guns at gun shows, otherwise don't post on the topic anymore since you have nothing but lies and scare mongering tactics.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:13"
+    },
+    {
+      "nodeID": "152105",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:16:13"
+    },
+    {
+      "nodeID": "152106",
+      "text": "Um, OK: Utah mall reopens after rampage - Crime & courts- msnbc.com",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:13"
+    },
+    {
+      "nodeID": "152107",
+      "text": "And the mall plainly had 'no guns allowed' signs displayed at all the entrances, meaning the shooter broke the law when he brought his gun in and started shooting. Now, find me a school massacre that took place where concealed carry is actually legal on campus.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:13"
+    },
+    {
+      "nodeID": "152108",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:16:13"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191966",
+      "fromID": "152098",
+      "toID": "152099",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191967",
+      "fromID": "152099",
+      "toID": "152097",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191968",
+      "fromID": "152101",
+      "toID": "152102",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191969",
+      "fromID": "152102",
+      "toID": "152100",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191970",
+      "fromID": "152104",
+      "toID": "152105",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191971",
+      "fromID": "152105",
+      "toID": "152103",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191972",
+      "fromID": "152107",
+      "toID": "152108",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191973",
+      "fromID": "152108",
+      "toID": "152106",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

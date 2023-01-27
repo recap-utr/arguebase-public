@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139239",
+      "text": "Are rights a useful framework at all?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:45"
+    },
+    {
+      "nodeID": "139240",
+      "text": "Yes. A proper understanding of rights is neccessary to know when you are aggressing against another person. Most children learn about rights intuitively through social interaction, a child take's another child's toy 'That's mine', they say, they may fight over it, but they learn that when people lay contrary claims to things, violent conflict is the result. It is useful to refine this intuitive belief system into something consistent, both individually, and in shaping the law of a society. A society in which people work together through trade and friendship will always be more prosperous and safe than one in which rights are systematically ignored and violent conflict is the norm. It is not useful to talk about rights with people who treat them as subjective, based on value judgements, ie 'People have a right to life, because life is more valuable than being able to have an abortion', or 'People have a right to have an abortion, because being able to have an abortion is more important than a fetus'. There is nothing to debate, we may as well go over whether strawberry or chocolate is a better flavour for a milkshake. In a free society we can disagree over what is 'more important' and make our own choices, but if value judgements are used to determine law, the only possible outcome is the oppression of those with minority values. No argument can be made about value judgements, they do not convince anyone, they do not provide just solutions. Politically, to demand your values be enforced (by virtue of your political power) is to demand the rule of force rather than justice. There are only two choices: The rule of law, justice, a free society, built on the moral foundation of individual rights - or the rule of the majority, built on the arbitrary value judgements and preferences of those weilding power.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:45"
+    },
+    {
+      "nodeID": "139241",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:48:45"
+    },
+    {
+      "nodeID": "139242",
+      "text": "3) is the importance of rights greater than democracy? Or is democracy a right? If the latter, how does this work with (2)?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:45"
+    },
+    {
+      "nodeID": "139243",
+      "text": "I believe that a system of rights is superior to a system of democracy. The US by the way, was never intended to be a democracy, but a republic - the difference being that in a republic an individual has his rights respected, while in a democracy the will of majority is the law. The 'right to vote' or 'right to democracy' is perhaps the greatest offender in the drama of conflicting rights such made up rights create, because where the will of the majority is law, no other rights can possibly exist.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:45"
+    },
+    {
+      "nodeID": "139244",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:48:45"
+    },
+    {
+      "nodeID": "139245",
+      "text": "OK, where's the proof that it is the nature of reality that people have rights?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:45"
+    },
+    {
+      "nodeID": "139246",
+      "text": "Well I like Hoppe's argumentation ethics approach.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:45"
+    },
+    {
+      "nodeID": "139247",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:48:45"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182888",
+      "fromID": "139240",
+      "toID": "139241",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182889",
+      "fromID": "139241",
+      "toID": "139239",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182890",
+      "fromID": "139243",
+      "toID": "139244",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182891",
+      "fromID": "139244",
+      "toID": "139242",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182892",
+      "fromID": "139246",
+      "toID": "139247",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182893",
+      "fromID": "139247",
+      "toID": "139245",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

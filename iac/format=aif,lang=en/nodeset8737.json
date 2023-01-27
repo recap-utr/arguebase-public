@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "162006",
+      "text": "Section. 8. I just love how Liberals like to twist this to mean that it's the government's responsibility to care for us via food (food stamps), income (welfare checks), Medicaid/Medicare/S-Chip, etc.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:55"
+    },
+    {
+      "nodeID": "162007",
+      "text": "I believe we have a human responsibility to one another. That we are our brother's keeper. Tell me, Bassman, if there aren't enough jobs, and the costs of medical care are skyrocketing through the roof, what do you suggest your fellow Americans do? Just drop dead?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:55"
+    },
+    {
+      "nodeID": "162008",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:55"
+    },
+    {
+      "nodeID": "162009",
+      "text": "I believe we have a human responsibility to one another.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:55"
+    },
+    {
+      "nodeID": "162010",
+      "text": "No, you believe we have a human responsibility to the government. There is a huge difference between charity and the government threatening people with jail or death if they don't hand over their wallets.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:56"
+    },
+    {
+      "nodeID": "162011",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:56"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "199012",
+      "fromID": "162007",
+      "toID": "162008",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199013",
+      "fromID": "162008",
+      "toID": "162006",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199014",
+      "fromID": "162010",
+      "toID": "162011",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199015",
+      "fromID": "162011",
+      "toID": "162009",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

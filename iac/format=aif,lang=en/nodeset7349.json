@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141145",
+      "text": "i'm going to be a teacher because i love history and thats what i want to do. so why should i be punished for it? why should i have to live in poverty for working just as hard as a billionare. i should be able to work hard at something and make a REAL contribution to society without being poor.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:00"
+    },
+    {
+      "nodeID": "141146",
+      "text": "Oh, so business owners don't make 'real' contributions to society?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:00"
+    },
+    {
+      "nodeID": "141147",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:53:00"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184234",
+      "fromID": "141146",
+      "toID": "141147",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184235",
+      "fromID": "141147",
+      "toID": "141145",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

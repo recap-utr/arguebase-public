@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139735",
+      "text": "show me where you previously said that they were uncovered by scientists who studied them",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:57"
+    },
+    {
+      "nodeID": "139736",
+      "text": "Well, gee, there've been so many posts on this thread already... My first post genius.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:57"
+    },
+    {
+      "nodeID": "139737",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:49:57"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183228",
+      "fromID": "139736",
+      "toID": "139737",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183229",
+      "fromID": "139737",
+      "toID": "139735",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,65 @@
+{
+  "nodes": [
+    {
+      "nodeID": "251798",
+      "text": "KELLY :  Sounds like somebody's a little R-rated",
+      "type": "L",
+      "timestamp": "2016-12-21 17:41:21"
+    },
+    {
+      "nodeID": "251799",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:41:22",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "251800",
+      "text": "Sounds like somebody's a little R-rated",
+      "type": "I",
+      "timestamp": "2016-12-21 17:41:22"
+    },
+    {
+      "nodeID": "251801",
+      "text": "Analysing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:41:22",
+      "scheme": "Analysing",
+      "schemeID": "75"
+    },
+    {
+      "nodeID": "251802",
+      "text": "Rory: KELLY :  Sounds like somebody's a little R-rated",
+      "type": "L",
+      "timestamp": "2016-12-21 17:41:22"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "303229",
+      "fromID": "251799",
+      "toID": "251800",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303230",
+      "fromID": "251798",
+      "toID": "251799",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303231",
+      "fromID": "251801",
+      "toID": "251798",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "303232",
+      "fromID": "251802",
+      "toID": "251801",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

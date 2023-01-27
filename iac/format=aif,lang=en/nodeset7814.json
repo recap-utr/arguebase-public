@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148248",
+      "text": "The only gun control laws that I really support are the laws stating that you may not carry a gun in certain places. While yes, this may affect law abiding citizens by not allowing them to carry their guns with them, criminals and terrorists are not allowed to carry them either. It is not meant to take your rights away, it is meant to prevent guns from being introduced into areas where they are deamed to be dangerous and innapropriate, ie schools and airplanes.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:06"
+    },
+    {
+      "nodeID": "148249",
+      "text": "And just how are the criminals and terroists to be kept from entering a school while armed? Airplanes, probably with some of the new technology, but schools, or bars, or post offices, or government buildings? Just a law that says it is illegal, surely is not going to work. emoticon_xdonno",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:06"
+    },
+    {
+      "nodeID": "148250",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:08:06"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189246",
+      "fromID": "148249",
+      "toID": "148250",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189247",
+      "fromID": "148250",
+      "toID": "148248",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

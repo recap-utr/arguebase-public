@@ -1,0 +1,100 @@
+{
+  "nodes": [
+    {
+      "nodeID": "204410",
+      "text": "BUSH is Veto Corleone",
+      "type": "I",
+      "timestamp": "2016-10-05 12:04:49"
+    },
+    {
+      "nodeID": "204415",
+      "text": "TheAquaman : BUSH : Jeb Bush called himself \"Veto Corleone.\"",
+      "type": "L",
+      "timestamp": "2016-10-05 12:04:49"
+    },
+    {
+      "nodeID": "250882",
+      "text": "BUSH : They keep -- they called me Veto Corleone",
+      "type": "L",
+      "timestamp": "2016-12-21 17:35:10"
+    },
+    {
+      "nodeID": "250884",
+      "text": "they called BUSH Veto Corleone",
+      "type": "I",
+      "timestamp": "2016-12-21 17:35:10"
+    },
+    {
+      "nodeID": "264343",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-09 11:18:38",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "264344",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 11:18:38",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264345",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-09 11:18:39",
+      "scheme": "Restating",
+      "schemeID": "101"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "319760",
+      "fromID": "204410",
+      "toID": "264343",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319761",
+      "fromID": "264343",
+      "toID": "250884",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319762",
+      "fromID": "250882",
+      "toID": "264344",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319763",
+      "fromID": "264344",
+      "toID": "204415",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319764",
+      "fromID": "264344",
+      "toID": "264345",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319765",
+      "fromID": "264345",
+      "toID": "264343",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "204415",
+      "personID": "2422",
+      "timestamp": "2016-10-05 12:04:57",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

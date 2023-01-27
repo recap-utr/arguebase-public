@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "146923",
+      "text": "What has this got to do with guns? The root cause of crime/murder/etc is: 1) Family instability 2) Lack of education/economic opportunity 3) Drugs and hopelessness 4) Society acceptance of violence/media violence 5) In essence, social ills.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:10"
+    },
+    {
+      "nodeID": "146924",
+      "text": "Well, until all those problems above are solved and we live in a utopia we'll still need gun-control. As long as we live in an imperfect society gun-control is necessary in the interest of public safety. Don't you keep bringing this subject up again and again?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:11"
+    },
+    {
+      "nodeID": "146925",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:05:11"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "188320",
+      "fromID": "146924",
+      "toID": "146925",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188321",
+      "fromID": "146925",
+      "toID": "146923",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

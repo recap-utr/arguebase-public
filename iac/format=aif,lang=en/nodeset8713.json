@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "161735",
+      "text": "FOXNews.com - Arizona to allow concealed weapons without permit  I'm betting there are people over at the Brady Campaign having a fit about now.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:12"
+    },
+    {
+      "nodeID": "161736",
+      "text": "You know they are having a fit,and when everyone see's the streets aren't running red maybe more states will pick it up and follow.:)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:12"
+    },
+    {
+      "nodeID": "161737",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:38:12"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198820",
+      "fromID": "161736",
+      "toID": "161737",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198821",
+      "fromID": "161737",
+      "toID": "161735",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

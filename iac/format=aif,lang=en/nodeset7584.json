@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "144470",
+      "text": "How did the first cell come about?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:13"
+    },
+    {
+      "nodeID": "144471",
+      "text": "I know, it fell from the sky, didnt it? No, ok, then it swam ashore, no? I know how about GOD created it, hold on, how did god come about? Hmmmmmm, maybe it just appeared, or even better, scottie beamed it down, thats sounds good. But i got an even better one, some clever scientist boffin built a time machine and sent one back in time, thats it. Any other ideas?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:13"
+    },
+    {
+      "nodeID": "144472",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:00:13"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186588",
+      "fromID": "144471",
+      "toID": "144472",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186589",
+      "fromID": "144472",
+      "toID": "144470",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

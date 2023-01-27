@@ -1,0 +1,256 @@
+{
+  "nodes": [
+    {
+      "nodeID": "199684",
+      "text": "exitpursuedbybear : Even Elizabeth Warren admits now that glass steagal would not have been enough to stop the 08 collapse",
+      "type": "L",
+      "timestamp": "2016-09-17 16:25:40"
+    },
+    {
+      "nodeID": "199685",
+      "text": "glass steagal would not have been enough to stop the 08 collapse",
+      "type": "I",
+      "timestamp": "2016-09-17 16:25:40"
+    },
+    {
+      "nodeID": "199713",
+      "text": "Ajwf : My only issue is he gets caught up with Webb over time but won't cut off Clinton",
+      "type": "L",
+      "timestamp": "2016-09-17 16:25:42"
+    },
+    {
+      "nodeID": "199715",
+      "text": "Anderson Cooper gets caught up with Webb over time but won't cut off Clinton",
+      "type": "I",
+      "timestamp": "2016-09-17 16:25:43"
+    },
+    {
+      "nodeID": "199732",
+      "text": "linkprovidor : Webb tried to ask for more time rather than just keep talking",
+      "type": "L",
+      "timestamp": "2016-09-17 16:25:44"
+    },
+    {
+      "nodeID": "199734",
+      "text": "Webb tried to ask for more time rather than just keep talking",
+      "type": "I",
+      "timestamp": "2016-09-17 16:25:44"
+    },
+    {
+      "nodeID": "216118",
+      "text": "we need to reinstate Glass-Steagall",
+      "type": "I",
+      "timestamp": "2016-11-01 13:28:04"
+    },
+    {
+      "nodeID": "216121",
+      "text": "O'MALLEY : We need to reinstate Glass-Steagall",
+      "type": "L",
+      "timestamp": "2016-11-01 13:28:04"
+    },
+    {
+      "nodeID": "248946",
+      "text": "COOPER : if you would finish your answer, we'll move on",
+      "type": "L",
+      "timestamp": "2016-12-21 14:46:31"
+    },
+    {
+      "nodeID": "248968",
+      "text": "WEBB : maybe we can get into a little more later on",
+      "type": "L",
+      "timestamp": "2016-12-21 14:46:34"
+    },
+    {
+      "nodeID": "263440",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-07 18:39:55",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "263441",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-07 18:39:56",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "263442",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-07 18:39:56",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "263443",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-07 18:39:57",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "263444",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-07 18:39:57",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "263445",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-07 18:39:58",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "263446",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-07 18:39:58",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "263447",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-07 18:39:59",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "263448",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-07 18:39:59",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "318167",
+      "fromID": "216121",
+      "toID": "263440",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318168",
+      "fromID": "263440",
+      "toID": "199684",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318169",
+      "fromID": "199685",
+      "toID": "263441",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318170",
+      "fromID": "263441",
+      "toID": "216118",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318171",
+      "fromID": "263440",
+      "toID": "263442",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318172",
+      "fromID": "263442",
+      "toID": "263441",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318173",
+      "fromID": "248946",
+      "toID": "263443",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318174",
+      "fromID": "263443",
+      "toID": "199713",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318175",
+      "fromID": "199715",
+      "toID": "263444",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318176",
+      "fromID": "263444",
+      "toID": "248946",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318177",
+      "fromID": "263443",
+      "toID": "263445",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318178",
+      "fromID": "263445",
+      "toID": "263444",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318179",
+      "fromID": "248968",
+      "toID": "263446",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318180",
+      "fromID": "263446",
+      "toID": "199732",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318181",
+      "fromID": "199734",
+      "toID": "263447",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318182",
+      "fromID": "263447",
+      "toID": "248968",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318183",
+      "fromID": "263446",
+      "toID": "263448",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318184",
+      "fromID": "263448",
+      "toID": "263447",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "216121",
+      "personID": "2800",
+      "timestamp": "2016-11-01 13:28:49",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

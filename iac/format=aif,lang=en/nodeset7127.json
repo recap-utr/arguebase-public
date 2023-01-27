@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138231",
+      "text": "For the sake of discussion let's say it is the same one all the signers of the Declaration of Independence agreed it was.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:40"
+    },
+    {
+      "nodeID": "138232",
+      "text": "And you believe that to be what? You really need to just say who/what you think the Creator is to save us from having to make all these clarification posts.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:40"
+    },
+    {
+      "nodeID": "138233",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:46:40"
+    },
+    {
+      "nodeID": "138234",
+      "text": "Some use the fact that an infant is in the womb as a basis for killing that infant.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:40"
+    },
+    {
+      "nodeID": "138235",
+      "text": "Well, there's a little more to it since the courts ruled that abortions have to be carried out in the first trimester when the fetus is much less developed than one that could survive outside the womb (or 'room' if you prefer).",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:40"
+    },
+    {
+      "nodeID": "138236",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:46:40"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182160",
+      "fromID": "138232",
+      "toID": "138233",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182161",
+      "fromID": "138233",
+      "toID": "138231",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182162",
+      "fromID": "138235",
+      "toID": "138236",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182163",
+      "fromID": "138236",
+      "toID": "138234",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

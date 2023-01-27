@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "145894",
+      "text": "They are utterly nonproductive, they waste health care dollars, they do not begin to adequately provide health care. Truth be told, health insurance companies do more to prevent health care than they cause heath care to occur. Profit and greed and enormous CEO salaries and excessive CEO bonuses are the only reasons for being of health insurance companies. Those who are insured by health insurance companies are almost always totally screwed. They pay and pay premiums and get very little in return.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:07"
+    },
+    {
+      "nodeID": "145895",
+      "text": "You think its bad now? Watch what happens if Gov't takes control. I saw a great tagline the other day, it said 'If the US get socialized medicine where will Canadians get healthcare?' Anyone who doesn't like insurance premiums is free not to pay them, at least until the gov't takes over. Happy New Year",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:07"
+    },
+    {
+      "nodeID": "145896",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:03:08"
+    },
+    {
+      "nodeID": "145897",
+      "text": "America has a socialist education system but no health care, sad really.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:08"
+    },
+    {
+      "nodeID": "145898",
+      "text": "Yes, and especially when you consider where our educational system is at. Unlike Michael Moore, I'm fine if they want use the funds for schools for medical care for everyone, instead. We really should get our priorities straight.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:08"
+    },
+    {
+      "nodeID": "145899",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:03:08"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187590",
+      "fromID": "145895",
+      "toID": "145896",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187591",
+      "fromID": "145896",
+      "toID": "145894",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187592",
+      "fromID": "145898",
+      "toID": "145899",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187593",
+      "fromID": "145899",
+      "toID": "145897",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

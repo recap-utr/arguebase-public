@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157823",
+      "text": "No way. No friggin' way. *Majorly ticked* The Goverment can't intrude on your life like that. What's next, they do and they have to have a forced abortion? This isn't Communist China....no way. They can't do that....  *Begins to consider stockpiling weapons in case of a revolution against the liberal controlled courts*",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:16"
+    },
+    {
+      "nodeID": "157824",
+      "text": "Well, it stated that they would not be forced to have an abortion, but would be held in contempt of court. Was what he said wrong only because he is trying to intrude on their private lives, or because he felt that the couple should not have any more children put onto the taxpayer's backs? Is this necessarily a liberal view?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:16"
+    },
+    {
+      "nodeID": "157825",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:29:16"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196006",
+      "fromID": "157824",
+      "toID": "157825",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196007",
+      "fromID": "157825",
+      "toID": "157823",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

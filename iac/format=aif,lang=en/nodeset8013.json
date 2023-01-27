@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151277",
+      "text": "Uh, huh. About a week ago they put Malvo or his muslim partner to death after all this time for the 'sniper slayings' they advertised as 'two white males in a white car' obviously white, right wing extremists. OOOOOPS!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:27"
+    },
+    {
+      "nodeID": "151278",
+      "text": "Yea just like the racist redneck with his rifle and pistol at the rally that NBC or MSNBC edited!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:27"
+    },
+    {
+      "nodeID": "151279",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:14:27"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191390",
+      "fromID": "151278",
+      "toID": "151279",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191391",
+      "fromID": "151279",
+      "toID": "151277",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138583",
+      "text": "Outrage at the tactics of 'The Advocate' in 3...2...1...",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:22"
+    },
+    {
+      "nodeID": "138584",
+      "text": "Well, when I read the released portion of the transcript, it really looked like Kersey was acting on the understanding that the 'donor' wanted to help African-American women who wanted to abort but couldn't afford to go to an abortion clinic. (Look at Kersey's response to the 'donor''s question about 'underprivileged minority groups' referring to 'women in need'; I guess Kersey is sexist, too?) Only later did the 'donor''s comments become strange. Even the release shows that Kersey thought that something was pretty odd. What's especially hypocritical is for the The Advocate people to yell and scream about racism when the only racism expressed came from the 'donor.' While I'm not convinced that Kersey did anything terribly wrong based on that transcript, police action of the same sort would be considered entrapment. It's a pathetic witch hunt so devoid of a target that they're building straw men to attack.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:22"
+    },
+    {
+      "nodeID": "138585",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:47:22"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182410",
+      "fromID": "138584",
+      "toID": "138585",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182411",
+      "fromID": "138585",
+      "toID": "138583",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

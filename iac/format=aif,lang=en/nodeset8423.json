@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157283",
+      "text": "Ok, follow along... There is NO TIME where God is concerned. The concept of time is part of the conditions of this universe (that he allegedly created) right along side everything else attributed to the material universe.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:57"
+    },
+    {
+      "nodeID": "157284",
+      "text": "So on what day did he create time on. Its not mentioned anywhere in the biblical text which seems to simply assume time.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:57"
+    },
+    {
+      "nodeID": "157285",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:27:57"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195628",
+      "fromID": "157284",
+      "toID": "157285",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195629",
+      "fromID": "157285",
+      "toID": "157283",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

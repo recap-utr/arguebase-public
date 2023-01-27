@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138117",
+      "text": "Universal health care in Canada is great if you don't mind waiting 6 months for a critical surgery..........",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:25"
+    },
+    {
+      "nodeID": "138118",
+      "text": "Any surgery that is needed for life threatening illness are taken care of ASAP. None life threatening, but life quality illnesses are the one that take time. Hip and knee replacements Life quality. Cancer life threatening.  Now, if I am not mistaken, a poorer person without health care coverage in the US would never recieve a hip replacement operation? Or am I wrong?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:25"
+    },
+    {
+      "nodeID": "138119",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:46:26"
+    },
+    {
+      "nodeID": "138120",
+      "text": "What are you counting as critical? Stats?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:26"
+    },
+    {
+      "nodeID": "138121",
+      "text": "Heart bypass, prostate cancer.......I have a couple of Canadian friends who needed those surgeries and one was told he had a 4 month wait and the other a 6 month wait so they both came down to Bellingham Wash and had the Surgery within 2 weeks............",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:26"
+    },
+    {
+      "nodeID": "138122",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:46:26"
+    },
+    {
+      "nodeID": "138123",
+      "text": "You are correct. I have been waiting 9 months for a hip replacement (hip injured in an accident nearly 2 years ago) because my HMO requires a year of 'active monitoring', which apparently consists of monthly doctors appointments while we wait for a miracle.  .",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:26"
+    },
+    {
+      "nodeID": "138124",
+      "text": "According to a report published last year, the average waiting time for a hip replacement in the UK would be about 10 months. This average of course conceals large county and metropolitan variations (from one National Health Service Trust to another). A lot depends on where you live. At least you'd get the operation for free in this country.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:26"
+    },
+    {
+      "nodeID": "138125",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:46:26"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182084",
+      "fromID": "138118",
+      "toID": "138119",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182085",
+      "fromID": "138119",
+      "toID": "138117",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182086",
+      "fromID": "138121",
+      "toID": "138122",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182087",
+      "fromID": "138122",
+      "toID": "138120",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182088",
+      "fromID": "138124",
+      "toID": "138125",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182089",
+      "fromID": "138125",
+      "toID": "138123",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,121 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140870",
+      "text": "Eighteen and pregnant, Sycloria Williams went to an abortion clinic outside Miami and paid $1,200 for Dr. Pierre Jean-Jacque Renelique to terminate her 23-week pregnancy. Three days later, she sat in a reclining chair, medicated to dilate her cervix and otherwise readied for the procedure. Only Renelique didn't arrive in time. According to Williams and the Florida Department of Health, she went into labor and delivered a live baby girl. What Williams and the Health Department say happened next has shocked people on both sides of the abortion debate: One of the clinic's owners, who has no medical license, cut the infant's umbilical cord. Williams says the woman placed the baby in a plastic biohazard bag and threw it out. Police recovered the decomposing remains in a cardboard box a week later after getting anonymous tips.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:27"
+    },
+    {
+      "nodeID": "140871",
+      "text": "Doctor investigated in botched abortion - Crime & courts- msnbc.com",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:27"
+    },
+    {
+      "nodeID": "140872",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:52:27"
+    },
+    {
+      "nodeID": "140873",
+      "text": "I'm very curious to see how many other pro-abortion advocates will chime in and defend this mothers morally corrupted attitude.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:27"
+    },
+    {
+      "nodeID": "140874",
+      "text": "The bahavior is only 'morally corrupted' if there is, in fact, something wrong with what they did. I don't see it.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:27"
+    },
+    {
+      "nodeID": "140875",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:52:28"
+    },
+    {
+      "nodeID": "140876",
+      "text": "I perceive that you are a new poster here, which is bound to happen. This necessarily means that it is unlikely that you know my views, which is understandable. I am pro-life. You need not take my word for that; you need only read some of my past postings, or ask anyone who has frequented the forums before.  Though I am happy you realized my sarcastic tone, I can't pretend I'm not disappointed given all my past discussions on this topic in which you have participated. I should have thought my pro life views were well established. Consider, for example, the following exchanges when I critiqued your view because it was not pro-life enough: 1, 2, 3.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:28"
+    },
+    {
+      "nodeID": "140877",
+      "text": "Hi Phyllis, excuse my confusion, The last thing I want to do is marginalize or antagonize an ally. One piece of advice though, in case you're not aware of it; at the top right corner of each post you want to quote is a permalink. If you copy that and past it to the post, the intended post will appear when clicked on. What you have done is posted complete threads which must be waded through to find the intended post. And depending on the thread and poster, determining that might be difficult or impossible. Just so you know for future reference. emoticon_xangel",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:28"
+    },
+    {
+      "nodeID": "140878",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:52:28"
+    },
+    {
+      "nodeID": "140879",
+      "text": "Let's make sure we're talking about the same thing here Art. You don't find this reprehensible? FROM THE OP: According to Williams and the Florida Department of Health, she went into labor and delivered a live baby girl. What Williams and the Health Department say happened next has shocked people on both sides of the abortion debate: One of the clinic's owners, who has no medical license, cut the infant's umbilical cord. Williams says the woman placed the baby in a plastic biohazard bag and threw it out. You don't see placing a live new born baby in a bio hazard bag and throwing it into a trash receptacle as medical staff stood by and watched as shocking and disgraceful? Not to mention murder? Is that what you're telling me?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:28"
+    },
+    {
+      "nodeID": "140880",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:52:28"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184040",
+      "fromID": "140871",
+      "toID": "140872",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184041",
+      "fromID": "140872",
+      "toID": "140870",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184042",
+      "fromID": "140874",
+      "toID": "140875",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184043",
+      "fromID": "140875",
+      "toID": "140873",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184044",
+      "fromID": "140877",
+      "toID": "140878",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184045",
+      "fromID": "140878",
+      "toID": "140876",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184046",
+      "fromID": "140879",
+      "toID": "140880",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184047",
+      "fromID": "140880",
+      "toID": "140874",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "154630",
+      "text": "4Forums is pleased to announce a formal debate between Cerebro and zachvac: Resolved: Intelligent Design should be part of the public schools' science curriculum, taught as a valid alternative to the Theory of Evolution.  Cerebro will argue the affirmative, zachvac the negative. A 5/4 post structure has been agreed upon. Cerebro will begin and end this debate. A time limit of one week will be allowed between each post.  The judges for this debate are sinjin, jitobear, and joebrummer. Their decisions are final.  Best of luck to Cerebro and zachvac.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:22:02"
+    },
+    {
+      "nodeID": "154631",
+      "text": "So umm. What's going on? This was posted a week ago plus about 4 hours ago. I frankly don't care if my opponent posts a day late and would hate to win because of time. BUT the first post was even easier, he could have been typing it as we found judges and I think he mentioned he had started already. I PMed him earlier this week reminding him of the limit and have not recieved a response. Of course maybe the fact that he hasn't logged on since 11/14 has something to do with that.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:22:02"
+    },
+    {
+      "nodeID": "154632",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:22:02"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193754",
+      "fromID": "154631",
+      "toID": "154632",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193755",
+      "fromID": "154632",
+      "toID": "154630",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

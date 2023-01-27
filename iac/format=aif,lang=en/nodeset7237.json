@@ -1,0 +1,217 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139645",
+      "text": "This anti-gun-control slogan, a perfect fit for bumper stickers, has infected the public imagination with the mistaken belief that it's just criminals, not weapons, that lead to deadly violence.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:44"
+    },
+    {
+      "nodeID": "139646",
+      "text": "Because this is the truth. Pure and simple.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:44"
+    },
+    {
+      "nodeID": "139647",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:49:44"
+    },
+    {
+      "nodeID": "139648",
+      "text": "Even before the repeal of D.C.'s handgun ban, the city's police reestablished a gun-recovery unit and focused on seizing illegal firearms.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:44"
+    },
+    {
+      "nodeID": "139649",
+      "text": "So then the handgun ban did absolutely nothing. Nice to see you could finally admit the truth.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:44"
+    },
+    {
+      "nodeID": "139650",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:49:44"
+    },
+    {
+      "nodeID": "139651",
+      "text": "Many legal analysts predict that Chicago's handgun ban is done for.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:44"
+    },
+    {
+      "nodeID": "139652",
+      "text": "And it is.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:44"
+    },
+    {
+      "nodeID": "139653",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:49:44"
+    },
+    {
+      "nodeID": "139654",
+      "text": "Fans of the Heller decision in D.C., and people hoping for a similar outcome in Chicago, believe that eliminating handgun bans and having more households keep guns for self-protection leads to less crime. The rationale: More guns enable more people to defend themselves against attackers;",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:44"
+    },
+    {
+      "nodeID": "139655",
+      "text": "Because that's the simple truth.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:44"
+    },
+    {
+      "nodeID": "139656",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:49:44"
+    },
+    {
+      "nodeID": "139657",
+      "text": "The key question is, really, whether guns make violent events more lethal.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:44"
+    },
+    {
+      "nodeID": "139658",
+      "text": "No, the question is why you let violent individuals remain free in public.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:44"
+    },
+    {
+      "nodeID": "139659",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:49:45"
+    },
+    {
+      "nodeID": "139660",
+      "text": "Illinois law requires that all gun owners have a state ID card and that transactions be recorded, allowing police to potentially link a gun used in a crime to its owner.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:45"
+    },
+    {
+      "nodeID": "139661",
+      "text": "And how many guns found at crime scenes have been linked back to their original owners?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:45"
+    },
+    {
+      "nodeID": "139662",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:49:45"
+    },
+    {
+      "nodeID": "139663",
+      "text": "Using exaggerated figures allows health advocate sages to capitalize on the emotionalism of childhood fatalities and thereby evade legitimate questions about their proposal to ban and confiscate handguns as a means of reducing such (p.570)tragedies. We offer the following questions which, of course, are never mentioned in the health advocacy literature on children and guns: If so sweeping a measure as confiscating 230 million firearms is justified because some 273 children under age fifteen die in firearm accidents annually, is the less intrusive measure of banning child bicycles justified by the death of three times as many children in bicycle accidents annually?[226] If confiscating over 80 million handguns is justified because approximately fifteen children under age five die in handgun accidents annually, is a ban on cigarette lighters justified by the fact that four times as many children in that age group die from playing with then annually? Consider the fact that over 400% more children under age fifteen die in drownings than in gun accidents;[227] twenty times as many children under age five drown in bathtubs and home swimming pools as are killed in handgun accidents.[228] Few people need a bathtub (as opposed to a shower stall) or a swimming pool. If the tragedy of accidental childhood gun fatalities justifies confiscating over 80 million handguns, or all of the more than 230 million firearms, do the much greater numbers of tragic childhood drownings justify a licensing system under which only the disabled and others who show they 'truly need' a bathtub or swimming pool will be allowed to have them?[229]",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:45"
+    },
+    {
+      "nodeID": "139664",
+      "text": "But this is not the end of the story. The news about gun accidents has gotten even better!  Today's Gun Accident Rates Lowest On Record",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:45"
+    },
+    {
+      "nodeID": "139665",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:49:45"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183168",
+      "fromID": "139646",
+      "toID": "139647",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183169",
+      "fromID": "139647",
+      "toID": "139645",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183170",
+      "fromID": "139649",
+      "toID": "139650",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183171",
+      "fromID": "139650",
+      "toID": "139648",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183172",
+      "fromID": "139652",
+      "toID": "139653",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183173",
+      "fromID": "139653",
+      "toID": "139651",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183174",
+      "fromID": "139655",
+      "toID": "139656",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183175",
+      "fromID": "139656",
+      "toID": "139654",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183176",
+      "fromID": "139658",
+      "toID": "139659",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183177",
+      "fromID": "139659",
+      "toID": "139657",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183178",
+      "fromID": "139661",
+      "toID": "139662",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183179",
+      "fromID": "139662",
+      "toID": "139660",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183180",
+      "fromID": "139664",
+      "toID": "139665",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183181",
+      "fromID": "139665",
+      "toID": "139663",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

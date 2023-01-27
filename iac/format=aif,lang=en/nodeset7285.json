@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140273",
+      "text": "Problem is, the child support isn't owed to the woman but the child. Before abortion, the child cannot claim any rights on anyone as it is not accepted as a person. Afterwards, it is a different issue.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:04"
+    },
+    {
+      "nodeID": "140274",
+      "text": "So again we're back to the idea that a baby magically becomes a person the instant he or she exists the birth canal, and only then does it actually have the right to be 'owed' it's life.  Or is it when the cord the cut? emoticon_xangel",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:04"
+    },
+    {
+      "nodeID": "140275",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:51:04"
+    },
+    {
+      "nodeID": "140276",
+      "text": "A consequence of the pro-choice position would mean the man doesn't pay child support unless he wants to. It is irrelevant who carries the child. Maybe he is not ready for a child...this is the same excuse allowable for women under the pro-choice argument. So he shouldn't have to pay it if he doesn't want to. In fact, alimony she go the same way under the pro-choice thinking. If not then you just look like a hypocrite.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:04"
+    },
+    {
+      "nodeID": "140277",
+      "text": "I believe you can relinquish the child support responsibility if you also relinquish parental rights. Complicated stuff - kind of going through it right now as we are working on revoking my son's bilogocal father's parental rights. Once that is done I can not pursue him for support. Plus, plenty of dads do it the easy way, don't pay, don't care and disappear.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:04"
+    },
+    {
+      "nodeID": "140278",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:51:04"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183612",
+      "fromID": "140274",
+      "toID": "140275",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183613",
+      "fromID": "140275",
+      "toID": "140273",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183614",
+      "fromID": "140277",
+      "toID": "140278",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183615",
+      "fromID": "140278",
+      "toID": "140276",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

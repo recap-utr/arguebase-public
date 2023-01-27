@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "158007",
+      "text": "Just a word of advice. If you stopped doing all those stupid things with font size and color some people, me included, might give your posts more serious consideration. If you need to be 'clever' in your presentation to get your point across then your point can't be all that well formulated.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:45"
+    },
+    {
+      "nodeID": "158008",
+      "text": "------------------------------------------------------------------- First of all.... I agree, in retrospect, that the font size was too large in this particular post... Therefore, I have changed it. Second.... I thought the content was more important, t",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:46"
+    },
+    {
+      "nodeID": "158009",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:29:46"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196140",
+      "fromID": "158008",
+      "toID": "158009",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196141",
+      "fromID": "158009",
+      "toID": "158007",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

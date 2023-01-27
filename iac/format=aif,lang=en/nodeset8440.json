@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157420",
+      "text": "Believers; even if people who don't believe in creation and say that we can't prove it, so what!!! We believe and have our faith!! Thats what matters!! And for people that don't believe, think about this. If the 'big bang' created matter than were did the stuff needed to make the 'big bang' come from?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:21"
+    },
+    {
+      "nodeID": "157421",
+      "text": "But the big bang did not create matter. Matter can neither be created nor destroyed. The matter was already there. You might just as easily ask if god was there to create the universe, where did this god come from. Your answer would be that god has always been there, but I would argue that the matter has always been there. The only difference between these theories is that mine has one less assumption.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:21"
+    },
+    {
+      "nodeID": "157422",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:28:21"
+    },
+    {
+      "nodeID": "157423",
+      "text": "I did, you rejected my evidence with your usual excuses.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:21"
+    },
+    {
+      "nodeID": "157424",
+      "text": "And the fact that you can't understand why it was rejected is whose fault?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:21"
+    },
+    {
+      "nodeID": "157425",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:28:21"
+    },
+    {
+      "nodeID": "157426",
+      "text": "God created the heavens and the Earth. thats all there is to it. You may think the Bible is not true because it was written by man. Well the Bible says it was written by God, through man. You may ask, 'Why is the Bible true and other religious books aren't?' Christianity isn't a religion... It's the truth. God created us and His Son came and died on the cross for our sins because he loves us! emoticon_loveemoticon_loveemoticon_love That's not religion. The Bible is Basic Instructions Before Leaving Earth!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:21"
+    },
+    {
+      "nodeID": "157427",
+      "text": "And you don't actually see the circulariey in your position? The Bible is inspired by god because the Bible says that it is inspired by god. What if I wrote a book in which I declared that the book was inspired by god? Good for you? I'll do it if you give me the word. And what about the Book of Mormon? Takes your book and goes one better. Also inspired by god because it says that it is inspired by god.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:21"
+    },
+    {
+      "nodeID": "157428",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:28:21"
+    },
+    {
+      "nodeID": "157429",
+      "text": "Membranes baby! 11 dimensional membranes. I don't believe in God...and its a good thing. Because if I did, I'd be very angry at him...for raped babies and tortured children and all the suffering in the world. If there was a God at best he (it, whatever) would be an absentee parent and a worst a sadistic, evil, SOB. If there was a God, he'd be the god of Job and Abraham, a mean kid with a magnifying glass. Thank god there's no God! Its the only way anything makes sense. Its the only way to rationalize the world we live in.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:21"
+    },
+    {
+      "nodeID": "157430",
+      "text": "Oh come on! You KNOW god's fereal! He just happens to be addicted to snuff porn...which is pretty much all the 'evil stuff' that happens that he doesn't do a thing to stop...cause he get's his jollies off on watching it (omnipresent). Them's just gods ways...who are you to question? Actually the bible's full of god asking people to provide pornographic material for him to watch.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:21"
+    },
+    {
+      "nodeID": "157431",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:28:22"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195724",
+      "fromID": "157421",
+      "toID": "157422",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195725",
+      "fromID": "157422",
+      "toID": "157420",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195726",
+      "fromID": "157424",
+      "toID": "157425",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195727",
+      "fromID": "157425",
+      "toID": "157423",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195728",
+      "fromID": "157427",
+      "toID": "157428",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195729",
+      "fromID": "157428",
+      "toID": "157426",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195730",
+      "fromID": "157430",
+      "toID": "157431",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195731",
+      "fromID": "157431",
+      "toID": "157429",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

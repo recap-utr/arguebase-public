@@ -1,0 +1,157 @@
+{
+  "nodes": [
+    {
+      "nodeID": "150135",
+      "text": "1. REPEAL THE TIAHRT AMENDMENT'S UNWARRANTED RESTRICTIONS ON ATF -REPEAL RESTRICTIONS ON DISCLOSURE OF CRIME GUN DATA One Tiahrt rider severely limits the authority of the Bureau of Alcohol, Tobacco, Firearms and Explosives ('ATF') to disclose crime gun trace data to the public under the Freedom of Information Act ('FOIA'), bars admissibility of such data in civil suits against the gun industry, and restricts disclosure of the data to law enforcement.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:12:04"
+    },
+    {
+      "nodeID": "150136",
+      "text": "So even though both the BATFE and the Fraternal Order of Police have both come out in support of keeping gun trace data private, even though if it became public record and a criminal could obtain a shopping list of gun owners by filling out an FOIA request, you still think the Tiahrt Amendment should be done away with?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:12:04"
+    },
+    {
+      "nodeID": "150137",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:12:05"
+    },
+    {
+      "nodeID": "150138",
+      "text": "15. REQUIRE ALL NEW GUNS TO HAVE MICROSTAMPING CAPABILITY BY A DATE CERTAIN A federal microstamping requirement would allow pistols used in crime around the country to be traced by police from the cartridges left behind at crime scenes.69",
+      "type": "I",
+      "timestamp": "2016-03-08 20:12:05"
+    },
+    {
+      "nodeID": "150139",
+      "text": "So even though microstamping is unproven, and the whole idea was proposed by the owner of this technology, it should still be implemented?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:12:05"
+    },
+    {
+      "nodeID": "150140",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:12:05"
+    },
+    {
+      "nodeID": "150141",
+      "text": "2. REPEAL NEW RULES ALLOWING CONCEALED CARRY IN NATIONAL PARKS",
+      "type": "I",
+      "timestamp": "2016-03-08 20:12:05"
+    },
+    {
+      "nodeID": "150142",
+      "text": "So even though you can legally conceal carry right up to the gate of the national parks, and you can legally hunt within the parks, somehow concealed carry in the parks will become more dangerous?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:12:05"
+    },
+    {
+      "nodeID": "150143",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:12:05"
+    },
+    {
+      "nodeID": "150144",
+      "text": "-REPEAL THE 24-HOUR BRADY RECORD DESTRUCTION REQUIREMENT Another Tiahrt-sponsored appropriations rider codified the Bush Administration policy destroying certain National Instant Criminal Background Check System ('NICS') records after 24 hours....21Wit",
+      "type": "I",
+      "timestamp": "2016-03-08 20:12:05"
+    },
+    {
+      "nodeID": "150145",
+      "text": "So the FBI is known for making mistakes?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:12:05"
+    },
+    {
+      "nodeID": "150146",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:12:05"
+    },
+    {
+      "nodeID": "150147",
+      "text": "14. PREVENT DEALERS FROM LIQUIDATING THEIR INVENTORY WITHOUT BACKGROUND CHECKS AFTER THEIR LICENSES HAVE BEEN REVOKED Even after ATF revokes a dealer's license for violating federal law, it has allowed those dealers to transfer their inventory - frequently hundreds of guns - to their 'personal collections,' and then sell them.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:12:05"
+    },
+    {
+      "nodeID": "150148",
+      "text": "So, which is it? You don't want violators of Federal law to have guns, yet you don't want them to get rid of them either. Can't possibly do both, now can you? Which one? Do the law breakers keep them, or not? Make it against the law to keep the guns...now make it against the law to sell them. DUH! I guess we'll just hang out in limbo-land!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:12:05"
+    },
+    {
+      "nodeID": "150149",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:12:05"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "190584",
+      "fromID": "150136",
+      "toID": "150137",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190585",
+      "fromID": "150137",
+      "toID": "150135",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190586",
+      "fromID": "150139",
+      "toID": "150140",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190587",
+      "fromID": "150140",
+      "toID": "150138",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190588",
+      "fromID": "150142",
+      "toID": "150143",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190589",
+      "fromID": "150143",
+      "toID": "150141",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190590",
+      "fromID": "150145",
+      "toID": "150146",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190591",
+      "fromID": "150146",
+      "toID": "150144",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190592",
+      "fromID": "150148",
+      "toID": "150149",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190593",
+      "fromID": "150149",
+      "toID": "150147",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

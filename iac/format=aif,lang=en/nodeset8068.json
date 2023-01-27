@@ -1,0 +1,157 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152073",
+      "text": "Cleared: Builder who chopped off thug's ear with Samurai sword after he threatened to rape and kill his family | Mail Online  It's reasons like this I'm glad we left the UK. When you threaten to rape and murder and entire family, and you're in less trouble than the person you threatened, that's not a sign of the country being safe or worth living in; especially when this is the rule and not the exception.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:09"
+    },
+    {
+      "nodeID": "152074",
+      "text": "You mean, the perpetrator is convicted and the defender acquitted? Yes, that's the rule and not the exception. Notice here how no-one ended up dead, or even particularly seriously injured. Additionally the circumstances described are incredibly rare, that's why it makes the news.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:09"
+    },
+    {
+      "nodeID": "152075",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:16:10"
+    },
+    {
+      "nodeID": "152076",
+      "text": "So much safer.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:10"
+    },
+    {
+      "nodeID": "152077",
+      "text": "So it's not safe to go to school because your teacher might kill you if you're late at turning in your homework? Incidents such as the shooter professor are incredibly rare; you'll find very few school teachers that were convicted of murder during a previous date, and released from prison due to a favor from a politician. But incidents like the one in the UK, where the aggressor is in less trouble than their intended victim, are far more common and close to the norm for the country. If you're attacked, you're guilty if you fight back and cause either harm or fear to the person attacking you. Even if they assault you with a deadly weapon, you're the guilty party if you manage to cause them any sort of harm.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:10"
+    },
+    {
+      "nodeID": "152078",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:16:10"
+    },
+    {
+      "nodeID": "152079",
+      "text": "When one person is more seriously injured than the other, it's just common sense that you follow due process before pronouncing that what was done was justified.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:10"
+    },
+    {
+      "nodeID": "152080",
+      "text": "No it isn't. There was an incident here in the states last year that had an elderly woman beaten and raped, and several days later her rapist came back to do it again and she killed him on the spot. She wasn't brought to court to face trial even know she killed someone. THAT is how something like this should be handled.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:10"
+    },
+    {
+      "nodeID": "152081",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:16:10"
+    },
+    {
+      "nodeID": "152082",
+      "text": "Sorry Jo. Here in the US if an intruder comes into your house, you don't have to get a lawyer and spend your life's saving proving that you aren't the criminal. Here, we pay the $100 to have the blood removed from the carpet, let the coroner carry out the body and move on. emoticon_xkill",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:10"
+    },
+    {
+      "nodeID": "152083",
+      "text": "And how many murderers have got away with it because they lured their victim to their home? And how many people have got away with killing someone just for trespassing. I'm glad I live in a civilised country where the aim is to avoid people getting killed.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:10"
+    },
+    {
+      "nodeID": "152084",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:16:10"
+    },
+    {
+      "nodeID": "152085",
+      "text": "And how many murderers have got away with it because they lured their victim to their home? And how many people have got away with killing someone just for trespassing.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:10"
+    },
+    {
+      "nodeID": "152086",
+      "text": "And people say I make strawman arguments. Simply put, not enough to justify your 'concerns'.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:10"
+    },
+    {
+      "nodeID": "152087",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:16:10"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191950",
+      "fromID": "152074",
+      "toID": "152075",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191951",
+      "fromID": "152075",
+      "toID": "152073",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191952",
+      "fromID": "152077",
+      "toID": "152078",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191953",
+      "fromID": "152078",
+      "toID": "152076",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191954",
+      "fromID": "152080",
+      "toID": "152081",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191955",
+      "fromID": "152081",
+      "toID": "152079",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191956",
+      "fromID": "152083",
+      "toID": "152084",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191957",
+      "fromID": "152084",
+      "toID": "152082",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191958",
+      "fromID": "152086",
+      "toID": "152087",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191959",
+      "fromID": "152087",
+      "toID": "152085",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

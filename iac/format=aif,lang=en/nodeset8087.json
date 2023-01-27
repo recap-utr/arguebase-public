@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152262",
+      "text": "Your analysis might be correct, although I don't think I'd bet big money on it. In particular, I'm not sure about your conclusion here: 'The legislature is required to consider constitutional amendments in a joint session until final action is taken.' My reading is simply that if they don't reach a conclustion in one session, they have to take it up again in the next one. If it's going to pass, it has to pass in two consecutive years, so simply taking it up in year three and saying, 'Didn't pass in two consecutive years, failed' may be legit.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:37"
+    },
+    {
+      "nodeID": "152263",
+      "text": "I think this is a fair conclusion. I went as far as I did because of what it seems to say about the governor calling for a joint session. I may be wrong, but the text seems to instruct the governor to keep them in joint session until final action is taken. In other words, it doesn't appear that the governor has an option. And it does not seem that the Constitution allows for a legislative session that never ends. I'm not sure how else to square the two except that the legislature should pursue final action. Of course, as you have pointed out, it really is hard to speculate on this one without any historical context of the amended Amendment Process, and/or the relevant legal precedent surrounding it. Any thoughts on this?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:37"
+    },
+    {
+      "nodeID": "152264",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:16:37"
+    },
+    {
+      "nodeID": "152265",
+      "text": "Of course, as you have pointed out, it really is hard to speculate on this one without any historical context of the amended Amendment Process, and/or the relevant legal precedent surrounding it. Any thoughts on this?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:37"
+    },
+    {
+      "nodeID": "152266",
+      "text": "Well, PR on both sides will probably be gearing up on this, so which ever side does have the correct legal interpretation will probably be broadcasting it pretty soon now. It'll just be a matter of seperating the real answers from the bogus ones. Given how politcal the issue is I'm not going to accept any claims for correctness that don't cite actual specific law. As opposed, for example, to Romney simply saying 'the constitution says they gotta'.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:37"
+    },
+    {
+      "nodeID": "152267",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:16:37"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192082",
+      "fromID": "152263",
+      "toID": "152264",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192083",
+      "fromID": "152264",
+      "toID": "152262",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192084",
+      "fromID": "152266",
+      "toID": "152267",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192085",
+      "fromID": "152267",
+      "toID": "152265",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

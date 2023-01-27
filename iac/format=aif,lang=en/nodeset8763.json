@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "162310",
+      "text": "Even though if it seems like they aren't listening, I think subconsciously, they recognize very well that they are wrong.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:42"
+    },
+    {
+      "nodeID": "162311",
+      "text": "You know, considering how little ray knows about science, do you think we could write a creationist load of **** and take these XXXXXX for all their money?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:42"
+    },
+    {
+      "nodeID": "162312",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:39:42"
+    },
+    {
+      "nodeID": "162313",
+      "text": "Question: What scientific criteria was employed to determine how long ago the Cretaceous period ended ? (80 mya). Ray M.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:42"
+    },
+    {
+      "nodeID": "162314",
+      "text": "Well, the 40Ar/39Ar method was used to say that it was 65 mya. This same method was used to date volcanic rock from the Mt. Vesuvius eruption to within 7 years.  But the KT boundary was dated using several radiometric methods that all agree to within a couple of million years. Here is where I got that info: http://www.ncseweb.org/resources/rncse_content/vol20/6061_radiometeric_dating_does_work_12_30_1899.asp Look at table 2.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:42"
+    },
+    {
+      "nodeID": "162315",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:39:42"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "199224",
+      "fromID": "162311",
+      "toID": "162312",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199225",
+      "fromID": "162312",
+      "toID": "162310",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199226",
+      "fromID": "162314",
+      "toID": "162315",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199227",
+      "fromID": "162315",
+      "toID": "162313",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

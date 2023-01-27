@@ -1,0 +1,235 @@
+{
+  "nodes": [
+    {
+      "nodeID": "200082",
+      "text": "Chekkmate : O'Malley knows the correct term: ISIL. With an L",
+      "type": "L",
+      "timestamp": "2016-09-19 10:07:01"
+    },
+    {
+      "nodeID": "200084",
+      "text": "O'Malley knows the correct term: ISIL. With an L",
+      "type": "I",
+      "timestamp": "2016-09-19 10:07:01"
+    },
+    {
+      "nodeID": "200090",
+      "text": "reaper527 : the 'L' is shitting all over israel by declaring their land part of the islamic state",
+      "type": "L",
+      "timestamp": "2016-09-19 10:07:02"
+    },
+    {
+      "nodeID": "200092",
+      "text": "the 'L' is shitting all over israel by declaring their land part of the islamic state",
+      "type": "I",
+      "timestamp": "2016-09-19 10:07:02"
+    },
+    {
+      "nodeID": "200154",
+      "text": "reaper527 : that doesn't mean that ISIL is a good name",
+      "type": "L",
+      "timestamp": "2016-09-19 10:07:09"
+    },
+    {
+      "nodeID": "200156",
+      "text": "that doesn't mean that ISIL is a good name",
+      "type": "I",
+      "timestamp": "2016-09-19 10:07:10"
+    },
+    {
+      "nodeID": "247018",
+      "text": "O'MALLEY : nuclear Iran remains the biggest threat, along with the threat of ISIL",
+      "type": "L",
+      "timestamp": "2016-12-20 18:01:59"
+    },
+    {
+      "nodeID": "247020",
+      "text": "nuclear Iran remains the biggest threat, along with the threat of ISIL",
+      "type": "I",
+      "timestamp": "2016-12-20 18:02:00"
+    },
+    {
+      "nodeID": "263470",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-07 18:44:33",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "263471",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2017-03-07 18:44:34",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "263472",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2017-03-07 18:44:34",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "263473",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-07 18:44:35",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "263474",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-07 18:44:35",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "263475",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-07 18:44:36",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "263476",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-07 18:44:36",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "263477",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-07 18:44:37",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "263478",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-07 18:44:37",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "318219",
+      "fromID": "247018",
+      "toID": "263470",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318220",
+      "fromID": "263470",
+      "toID": "200082",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318221",
+      "fromID": "200084",
+      "toID": "263471",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318222",
+      "fromID": "263471",
+      "toID": "247018",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318223",
+      "fromID": "263470",
+      "toID": "263472",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318224",
+      "fromID": "263472",
+      "toID": "263471",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318225",
+      "fromID": "247018",
+      "toID": "263473",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318226",
+      "fromID": "263473",
+      "toID": "200090",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318227",
+      "fromID": "200092",
+      "toID": "263474",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318228",
+      "fromID": "263474",
+      "toID": "247020",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318229",
+      "fromID": "263473",
+      "toID": "263475",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318230",
+      "fromID": "263475",
+      "toID": "263474",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318231",
+      "fromID": "247018",
+      "toID": "263476",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318232",
+      "fromID": "263476",
+      "toID": "200154",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318233",
+      "fromID": "200156",
+      "toID": "263477",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318234",
+      "fromID": "263477",
+      "toID": "247020",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318235",
+      "fromID": "263476",
+      "toID": "263478",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "318236",
+      "fromID": "263478",
+      "toID": "263477",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "160097",
+      "text": "I don't think they are very smart.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:34:18"
+    },
+    {
+      "nodeID": "160098",
+      "text": "Of course they're not very smart; they put more stock in fable than in undeniable evidence. However, since when is intelligence a necessary component of effect? (Dubya has affected the entire world; does that mean he's a genius?) To be fair, that feedback could be interpreted in different ways: the 'flaws in arguments' might be from the DVDs, or they might be the alleged flaws that the DVDs 'expose.'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:34:18"
+    },
+    {
+      "nodeID": "160099",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:34:18"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "197650",
+      "fromID": "160098",
+      "toID": "160099",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197651",
+      "fromID": "160099",
+      "toID": "160097",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

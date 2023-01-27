@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141873",
+      "text": "Which Nat'l Parks will now allow guns?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:50"
+    },
+    {
+      "nodeID": "141874",
+      "text": "Just those in places where CCW is already legal. If you can carry in your state, you can now carry in Nat'l parks...in that state. If you live in Illinois or Wisconsin, you must do like everyone else: call 911 out on the trail, wait for police to find you, then protect you from the rapist who has patiently waited for them to arrive. I can't figure it out. This law simply makes it legal for those who have their CCW to carry in Nat'l parks too. They ALREADY carry everywhere else. The Brady bunch makes it sound like there's something about the border of a park that will make us drooling, neanderthal gun owners flip our lids....but just in the park. Why are we perfectly safe everywhere else, but all of a sudden, we're dangerous......in the park?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:50"
+    },
+    {
+      "nodeID": "141875",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:54:50"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184744",
+      "fromID": "141874",
+      "toID": "141875",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184745",
+      "fromID": "141875",
+      "toID": "141873",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141427",
+      "text": "I don't disagree but since we'd prohibited felons from buying firearms(new ones anyway), we have created the NICS system. Why wouldn't we want to apply it to all transactions?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:40"
+    },
+    {
+      "nodeID": "141428",
+      "text": "Because you've presented no credible evidence to support the claims that private transactions are an established and major source of firearms for criminals. If you can't prove it's broken, you don't have grounds to call for fixing it.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:40"
+    },
+    {
+      "nodeID": "141429",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:53:40"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184436",
+      "fromID": "141428",
+      "toID": "141429",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184437",
+      "fromID": "141429",
+      "toID": "141427",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

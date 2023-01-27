@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "156190",
+      "text": "Does he also accuse the public schools of neglecting to teach that Hitler was an avid Christian?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:32"
+    },
+    {
+      "nodeID": "156191",
+      "text": "And lets not neglect the fact that he was tetotal and a vegetarian to boot. Well, looky here we all learnt today that bad people can have have good characteristics............ Sounds like Pastor Russell Johnson's representation of truth is as selective as it is self serving.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:32"
+    },
+    {
+      "nodeID": "156192",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:25:32"
+    },
+    {
+      "nodeID": "156193",
+      "text": "And lets not neglect the fact that he was tetotal and a vegetarian to boot.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:32"
+    },
+    {
+      "nodeID": "156194",
+      "text": "Well, I'm not sure if he consumed alcohol or not, but his doctor gave him daily 'vitamin' shots that contained vitamins as well as amphetamines and maybe other drugs that doctors at the time thought were mentally beneficial. And I've never heard of him being a vegetarian. I saw some show that talked about his voracious apetite, but I don't think they mentioned his being a veggie.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:32"
+    },
+    {
+      "nodeID": "156195",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:25:32"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194856",
+      "fromID": "156191",
+      "toID": "156192",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194857",
+      "fromID": "156192",
+      "toID": "156190",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194858",
+      "fromID": "156194",
+      "toID": "156195",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194859",
+      "fromID": "156195",
+      "toID": "156193",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

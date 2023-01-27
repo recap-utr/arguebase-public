@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152312",
+      "text": "To think that a common sense measure like this could come out of a senseless place like Illinois.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:47"
+    },
+    {
+      "nodeID": "152313",
+      "text": "Apparently this is a petition opposing the pending resolution before the Illinois lawmakers that will deprive the rights given in the Constitutions. It is to encourage the lawmakers to vote against it. The lawmakers have not yet agreed to vote it down. Knowing the State of Illinois, I am predicting they will pay no attention to the commoners.  The only thing a glean out of this is that the common people have more sense than the lawmakers. But I've actually known that for a long time.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:47"
+    },
+    {
+      "nodeID": "152314",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:16:47"
+    },
+    {
+      "nodeID": "152315",
+      "text": "Shoot them. That'll larn em. emoticon_rolleyes",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:47"
+    },
+    {
+      "nodeID": "152316",
+      "text": "Illinois government probably agrees. They should be shot immediately.  Because once they're armed, it won't be so easy.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:47"
+    },
+    {
+      "nodeID": "152317",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:16:47"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192116",
+      "fromID": "152313",
+      "toID": "152314",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192117",
+      "fromID": "152314",
+      "toID": "152312",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192118",
+      "fromID": "152316",
+      "toID": "152317",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192119",
+      "fromID": "152317",
+      "toID": "152315",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

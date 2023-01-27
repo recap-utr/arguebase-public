@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148128",
+      "text": "I read the essay. The only mention of a 'hair follicle' came from you.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:54"
+    },
+    {
+      "nodeID": "148129",
+      "text": "Actually no. You read the article again, and thoroughly this time.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:54"
+    },
+    {
+      "nodeID": "148130",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:54"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189166",
+      "fromID": "148129",
+      "toID": "148130",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189167",
+      "fromID": "148130",
+      "toID": "148128",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

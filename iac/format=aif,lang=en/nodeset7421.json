@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141914",
+      "text": "Viva La Liberty!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:58"
+    },
+    {
+      "nodeID": "141915",
+      "text": "I see you Americans deal as loosely with the French and Spanish languages, as you do with English! Surely it is something like Viva Libertad , or Vive la Liberte, but Viva La Liberty ????? emoticon_rolleyes :)  Leo",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:58"
+    },
+    {
+      "nodeID": "141916",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:54:58"
+    },
+    {
+      "nodeID": "141917",
+      "text": "I think it's a twist on lousy use of French in movies. BTW, your former would definately be Spanish. Tu hablas espanol? No me gusta hablar espanol. :(",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:58"
+    },
+    {
+      "nodeID": "141918",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:54:58"
+    },
+    {
+      "nodeID": "141919",
+      "text": "Actually I don't deal with spanish or french because I don't have to. I speak english. emoticon_rolleyes",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:58"
+    },
+    {
+      "nodeID": "141920",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:54:58"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184772",
+      "fromID": "141915",
+      "toID": "141916",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184773",
+      "fromID": "141916",
+      "toID": "141914",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184774",
+      "fromID": "141917",
+      "toID": "141918",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184775",
+      "fromID": "141918",
+      "toID": "141914",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184776",
+      "fromID": "141919",
+      "toID": "141920",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184777",
+      "fromID": "141920",
+      "toID": "141914",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

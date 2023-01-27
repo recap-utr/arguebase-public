@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140556",
+      "text": "Nobody advocates abortion, Maximus, they advocate choice. Being in favor of choice for rape victims is not the same as thinking that children of rape should have been killed. I would not have a problem expressing my position on choice in instances of rape in the presence of a child of rape any more than I would have a problem advocating choice for pregnancies of consensual sex in the presence of myself, a child of consensual sex.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:41"
+    },
+    {
+      "nodeID": "140557",
+      "text": "You advocate choice to one out of two parties involved in a pregnancy....let us be clear that you are telling the person of rape that they had no choice could just as easily not exist.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:41"
+    },
+    {
+      "nodeID": "140558",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:51:41"
+    },
+    {
+      "nodeID": "140559",
+      "text": "you could just as eazely not exist if you parents had chosen to abstain, and you wouldent have had any choice in the matter.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:41"
+    },
+    {
+      "nodeID": "140560",
+      "text": "you would have never existed though....not cease to exist",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:41"
+    },
+    {
+      "nodeID": "140561",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:51:41"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183816",
+      "fromID": "140557",
+      "toID": "140558",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183817",
+      "fromID": "140558",
+      "toID": "140556",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183818",
+      "fromID": "140560",
+      "toID": "140561",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183819",
+      "fromID": "140561",
+      "toID": "140559",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

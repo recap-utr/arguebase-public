@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "155961",
+      "text": "Am I missing something, or does the linked article have nothing to do with what you said?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:01"
+    },
+    {
+      "nodeID": "155962",
+      "text": "It's the first couple of paragraghs from the article in this weeks NS. If you had an online subscription or got a copy from your newsagent you could read the whole thing, unfortunately with this one the intro rambles on a bit and doesn't get to the point till the second column...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:01"
+    },
+    {
+      "nodeID": "155963",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:25:01"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194696",
+      "fromID": "155962",
+      "toID": "155963",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194697",
+      "fromID": "155963",
+      "toID": "155961",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

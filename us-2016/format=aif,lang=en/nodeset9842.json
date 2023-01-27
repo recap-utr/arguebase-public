@@ -1,0 +1,997 @@
+{
+  "nodes": [
+    {
+      "nodeID": "189794",
+      "text": "BeerFarts86 : Clinton is going to be the nominee",
+      "type": "L",
+      "timestamp": "2016-08-05 11:40:01"
+    },
+    {
+      "nodeID": "189795",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-05 11:40:01",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "189796",
+      "text": "Clinton is going to be the nominee",
+      "type": "I",
+      "timestamp": "2016-08-05 11:40:01"
+    },
+    {
+      "nodeID": "189797",
+      "text": "Barbara: BeerFarts86 : Clinton is going to be the nominee",
+      "type": "L",
+      "timestamp": "2016-08-05 11:40:01"
+    },
+    {
+      "nodeID": "189798",
+      "text": "BeerFarts86 : I will be staying home",
+      "type": "L",
+      "timestamp": "2016-08-05 11:40:01"
+    },
+    {
+      "nodeID": "189799",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-05 11:40:01",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "189800",
+      "text": "I will be staying home",
+      "type": "I",
+      "timestamp": "2016-08-05 11:40:01"
+    },
+    {
+      "nodeID": "189801",
+      "text": "Barbara: BeerFarts86 : I will be staying home",
+      "type": "L",
+      "timestamp": "2016-08-05 11:40:01"
+    },
+    {
+      "nodeID": "189802",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-08-05 11:40:01",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "189803",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-05 11:40:01",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "189804",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-08-05 11:40:01",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "189805",
+      "text": "Barbara: BeerFarts86 : Yeah",
+      "type": "L",
+      "timestamp": "2016-08-05 11:40:02"
+    },
+    {
+      "nodeID": "189806",
+      "text": "s-c : Yeah",
+      "type": "L",
+      "timestamp": "2016-08-05 11:40:02"
+    },
+    {
+      "nodeID": "189807",
+      "text": "Barbara: s-c : Yeah",
+      "type": "L",
+      "timestamp": "2016-08-05 11:40:02"
+    },
+    {
+      "nodeID": "189808",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-05 11:40:02",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "189809",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2016-08-05 11:40:02",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    },
+    {
+      "nodeID": "189810",
+      "text": "s-c : the debates are over",
+      "type": "L",
+      "timestamp": "2016-08-05 11:40:02"
+    },
+    {
+      "nodeID": "189811",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-05 11:40:02",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "189812",
+      "text": "the debates are over",
+      "type": "I",
+      "timestamp": "2016-08-05 11:40:02"
+    },
+    {
+      "nodeID": "189813",
+      "text": "Barbara: s-c : the debates are over",
+      "type": "L",
+      "timestamp": "2016-08-05 11:40:02"
+    },
+    {
+      "nodeID": "189814",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-08-05 11:40:02",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "189815",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-05 11:40:02",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "189816",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-08-05 11:40:03",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "189817",
+      "text": "s-c : She handled the heat super well",
+      "type": "L",
+      "timestamp": "2016-08-05 11:40:03"
+    },
+    {
+      "nodeID": "189818",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-05 11:40:03",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "189819",
+      "text": "Clinton handled the heat super well",
+      "type": "I",
+      "timestamp": "2016-08-05 11:40:03"
+    },
+    {
+      "nodeID": "189820",
+      "text": "Barbara: s-c : She handled the heat super well",
+      "type": "L",
+      "timestamp": "2016-08-05 11:40:03"
+    },
+    {
+      "nodeID": "189821",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-05 11:40:03",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "189822",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-08-05 11:40:03",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "189823",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-08-05 11:40:03",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "189824",
+      "text": "CunderscoreF : Then you better have no complaints if Trump gets into office",
+      "type": "L",
+      "timestamp": "2016-08-05 11:40:03"
+    },
+    {
+      "nodeID": "189825",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-05 11:40:03",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "189826",
+      "text": "you better have no complaints if Trump gets into office",
+      "type": "I",
+      "timestamp": "2016-08-05 11:40:03"
+    },
+    {
+      "nodeID": "189827",
+      "text": "Barbara: CunderscoreF : Then you better have no complaints if Trump gets into office",
+      "type": "L",
+      "timestamp": "2016-08-05 11:40:03"
+    },
+    {
+      "nodeID": "189828",
+      "text": "CunderscoreF : It's that thought process that is the problem with people in this country",
+      "type": "L",
+      "timestamp": "2016-08-05 11:40:04"
+    },
+    {
+      "nodeID": "189829",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-05 11:40:04",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "189830",
+      "text": "tt's that thought process that is the problem with people in this country",
+      "type": "I",
+      "timestamp": "2016-08-05 11:40:04"
+    },
+    {
+      "nodeID": "189831",
+      "text": "Barbara: CunderscoreF : It's that thought process that is the problem with people in this country",
+      "type": "L",
+      "timestamp": "2016-08-05 11:40:04"
+    },
+    {
+      "nodeID": "189832",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-05 11:40:04",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "189833",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-08-05 11:40:04",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "189834",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-05 11:40:04",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "189835",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-08-05 11:40:04",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "189836",
+      "text": "BeerFarts86 : So be it",
+      "type": "L",
+      "timestamp": "2016-08-05 11:40:04"
+    },
+    {
+      "nodeID": "189837",
+      "text": "Barbara: BeerFarts86 : So be it",
+      "type": "L",
+      "timestamp": "2016-08-05 11:40:04"
+    },
+    {
+      "nodeID": "189838",
+      "text": "BeerFarts86 : I'm sick of status quo bullshit",
+      "type": "L",
+      "timestamp": "2016-08-05 11:40:04"
+    },
+    {
+      "nodeID": "189839",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-05 11:40:05",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "189840",
+      "text": "I'm sick of status quo bullshit",
+      "type": "I",
+      "timestamp": "2016-08-05 11:40:05"
+    },
+    {
+      "nodeID": "189841",
+      "text": "Barbara: BeerFarts86 : I'm sick of status quo bullshit",
+      "type": "L",
+      "timestamp": "2016-08-05 11:40:05"
+    },
+    {
+      "nodeID": "189842",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-05 11:40:05",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "189843",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-08-05 11:40:05",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "189844",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-08-05 11:40:05",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "189845",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-05 11:40:05",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "189846",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-08-05 11:40:05",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "189847",
+      "text": "crustalmighty : Be prepared for while new types of bullshit that week have you crying for the old status quo",
+      "type": "L",
+      "timestamp": "2016-08-05 11:40:05"
+    },
+    {
+      "nodeID": "189848",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-05 11:40:05",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "189849",
+      "text": "be prepared for while new types of bullshit that week have you crying for the old status quo",
+      "type": "I",
+      "timestamp": "2016-08-05 11:40:05"
+    },
+    {
+      "nodeID": "189850",
+      "text": "Barbara: crustalmighty : e prepared for while new types of bullshit that week have you crying for the old status quo",
+      "type": "L",
+      "timestamp": "2016-08-05 11:40:06"
+    },
+    {
+      "nodeID": "189851",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-08-05 11:40:06",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "189852",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-05 11:40:06",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "189853",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-08-05 11:40:06",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "189854",
+      "text": "pseud_o_nym : Be careful what you wish for",
+      "type": "L",
+      "timestamp": "2016-08-05 11:40:06"
+    },
+    {
+      "nodeID": "189855",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-05 11:40:06",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "189856",
+      "text": "be careful what you wish for",
+      "type": "I",
+      "timestamp": "2016-08-05 11:40:06"
+    },
+    {
+      "nodeID": "189857",
+      "text": "Barbara: pseud_o_nym : Be careful what you wish for",
+      "type": "L",
+      "timestamp": "2016-08-05 11:40:06"
+    },
+    {
+      "nodeID": "189858",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-08-05 11:40:06",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "189859",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-05 11:40:06",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "189860",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-08-05 11:40:06",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "189861",
+      "text": "Bowbreaker : So if you were sodomized twice a day for several years you'd ask to replace that dick with a glowing knife because fuck the status quo?",
+      "type": "L",
+      "timestamp": "2016-08-05 11:40:07"
+    },
+    {
+      "nodeID": "189862",
+      "text": "Assertive Questioning",
+      "type": "YA",
+      "timestamp": "2016-08-05 11:40:07",
+      "scheme": "AssertiveQuestioning",
+      "schemeID": "73"
+    },
+    {
+      "nodeID": "189863",
+      "text": "if you were sodomized twice a day for several years you'd ask to replace that dick with a glowing knife because fuck the status quo",
+      "type": "I",
+      "timestamp": "2016-08-05 11:40:07"
+    },
+    {
+      "nodeID": "189864",
+      "text": "Barbara: Bowbreaker : So if you were sodomized twice a day for several years you'd ask to replace that dick with a glowing knife because fuck the status quo?",
+      "type": "L",
+      "timestamp": "2016-08-05 11:40:07"
+    },
+    {
+      "nodeID": "189865",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-08-05 11:40:07",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "189866",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-05 11:40:07",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "189867",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-08-05 11:40:07",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "232720",
+      "fromID": "189795",
+      "toID": "189796",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232721",
+      "fromID": "189794",
+      "toID": "189795",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232722",
+      "fromID": "189799",
+      "toID": "189800",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232723",
+      "fromID": "189798",
+      "toID": "189799",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232724",
+      "fromID": "189796",
+      "toID": "189802",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232725",
+      "fromID": "189802",
+      "toID": "189800",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232726",
+      "fromID": "189794",
+      "toID": "189803",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232727",
+      "fromID": "189803",
+      "toID": "189798",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232728",
+      "fromID": "189803",
+      "toID": "189804",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232729",
+      "fromID": "189804",
+      "toID": "189802",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232730",
+      "fromID": "189794",
+      "toID": "189808",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232731",
+      "fromID": "189808",
+      "toID": "189806",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232732",
+      "fromID": "189808",
+      "toID": "189809",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232733",
+      "fromID": "189809",
+      "toID": "189796",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232734",
+      "fromID": "189811",
+      "toID": "189812",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232735",
+      "fromID": "189810",
+      "toID": "189811",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232736",
+      "fromID": "189812",
+      "toID": "189814",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232737",
+      "fromID": "189814",
+      "toID": "189796",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232738",
+      "fromID": "189794",
+      "toID": "189815",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232739",
+      "fromID": "189815",
+      "toID": "189810",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232740",
+      "fromID": "189815",
+      "toID": "189816",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232741",
+      "fromID": "189816",
+      "toID": "189814",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232742",
+      "fromID": "189818",
+      "toID": "189819",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232743",
+      "fromID": "189817",
+      "toID": "189818",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232744",
+      "fromID": "189810",
+      "toID": "189821",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232745",
+      "fromID": "189821",
+      "toID": "189817",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232746",
+      "fromID": "189819",
+      "toID": "189822",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232747",
+      "fromID": "189822",
+      "toID": "189812",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232748",
+      "fromID": "189821",
+      "toID": "189823",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232749",
+      "fromID": "189823",
+      "toID": "189822",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232750",
+      "fromID": "189825",
+      "toID": "189826",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232751",
+      "fromID": "189824",
+      "toID": "189825",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232752",
+      "fromID": "189829",
+      "toID": "189830",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232753",
+      "fromID": "189828",
+      "toID": "189829",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232754",
+      "fromID": "189824",
+      "toID": "189832",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232755",
+      "fromID": "189832",
+      "toID": "189828",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232756",
+      "fromID": "189826",
+      "toID": "189833",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232757",
+      "fromID": "189833",
+      "toID": "189800",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232758",
+      "fromID": "189798",
+      "toID": "189834",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232759",
+      "fromID": "189834",
+      "toID": "189824",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232760",
+      "fromID": "189834",
+      "toID": "189835",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232761",
+      "fromID": "189835",
+      "toID": "189833",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232762",
+      "fromID": "189839",
+      "toID": "189840",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232763",
+      "fromID": "189838",
+      "toID": "189839",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232764",
+      "fromID": "189824",
+      "toID": "189842",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232765",
+      "fromID": "189842",
+      "toID": "189836",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232766",
+      "fromID": "189842",
+      "toID": "189843",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232767",
+      "fromID": "189843",
+      "toID": "189826",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232768",
+      "fromID": "189840",
+      "toID": "189844",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232769",
+      "fromID": "189844",
+      "toID": "189826",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232770",
+      "fromID": "189824",
+      "toID": "189845",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232771",
+      "fromID": "189845",
+      "toID": "189838",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232772",
+      "fromID": "189845",
+      "toID": "189846",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232773",
+      "fromID": "189846",
+      "toID": "189844",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232774",
+      "fromID": "189848",
+      "toID": "189849",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232775",
+      "fromID": "189847",
+      "toID": "189848",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232776",
+      "fromID": "189849",
+      "toID": "189851",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232777",
+      "fromID": "189851",
+      "toID": "189840",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232778",
+      "fromID": "189838",
+      "toID": "189852",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232779",
+      "fromID": "189852",
+      "toID": "189847",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232780",
+      "fromID": "189852",
+      "toID": "189853",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232781",
+      "fromID": "189853",
+      "toID": "189851",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232782",
+      "fromID": "189855",
+      "toID": "189856",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232783",
+      "fromID": "189854",
+      "toID": "189855",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232784",
+      "fromID": "189856",
+      "toID": "189858",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232785",
+      "fromID": "189858",
+      "toID": "189840",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232786",
+      "fromID": "189838",
+      "toID": "189859",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232787",
+      "fromID": "189859",
+      "toID": "189854",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232788",
+      "fromID": "189859",
+      "toID": "189860",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232789",
+      "fromID": "189860",
+      "toID": "189858",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232790",
+      "fromID": "189862",
+      "toID": "189863",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232791",
+      "fromID": "189861",
+      "toID": "189862",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232792",
+      "fromID": "189863",
+      "toID": "189865",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232793",
+      "fromID": "189865",
+      "toID": "189840",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232794",
+      "fromID": "189838",
+      "toID": "189866",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232795",
+      "fromID": "189866",
+      "toID": "189861",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232796",
+      "fromID": "189866",
+      "toID": "189867",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232797",
+      "fromID": "189867",
+      "toID": "189865",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

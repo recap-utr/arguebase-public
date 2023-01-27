@@ -1,0 +1,172 @@
+{
+  "nodes": [
+    {
+      "nodeID": "197743",
+      "text": "crazyzach21 : Jim : \"I hope I get that amount of time\"",
+      "type": "L",
+      "timestamp": "2016-09-01 13:35:17"
+    },
+    {
+      "nodeID": "197747",
+      "text": "Jim : \"I hope I get that amount of time\"",
+      "type": "L",
+      "timestamp": "2016-09-01 13:35:17"
+    },
+    {
+      "nodeID": "197760",
+      "text": "thesmartestdonkey : He only got one minute less than O'Malley and a lot more than Chafee though",
+      "type": "L",
+      "timestamp": "2016-09-01 13:35:19"
+    },
+    {
+      "nodeID": "197762",
+      "text": "Jim Webb only got one minute less than O'Malley and a lot more than Chafee though",
+      "type": "I",
+      "timestamp": "2016-09-01 13:35:19"
+    },
+    {
+      "nodeID": "248756",
+      "text": "WEBB : I hope I can get that kind of time here",
+      "type": "L",
+      "timestamp": "2016-12-21 14:44:36"
+    },
+    {
+      "nodeID": "248758",
+      "text": "I hope I can get that kind of time here",
+      "type": "I",
+      "timestamp": "2016-12-21 14:44:36"
+    },
+    {
+      "nodeID": "262490",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-03 19:06:00",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "262491",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-03 19:06:01",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "262492",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-03 19:06:01",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "262493",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-03 19:06:02",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "262494",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-03 19:06:02",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "262495",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-03 19:06:02",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "316648",
+      "fromID": "248756",
+      "toID": "262490",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316649",
+      "fromID": "262490",
+      "toID": "197743",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316650",
+      "fromID": "197747",
+      "toID": "262491",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316651",
+      "fromID": "262491",
+      "toID": "248756",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316652",
+      "fromID": "262490",
+      "toID": "262492",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316653",
+      "fromID": "262492",
+      "toID": "262491",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316654",
+      "fromID": "248756",
+      "toID": "262493",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316655",
+      "fromID": "262493",
+      "toID": "197760",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316656",
+      "fromID": "197762",
+      "toID": "262494",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316657",
+      "fromID": "262494",
+      "toID": "248758",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316658",
+      "fromID": "262493",
+      "toID": "262495",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316659",
+      "fromID": "262495",
+      "toID": "262494",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "197747",
+      "personID": "2239",
+      "timestamp": "2016-09-01 13:35:21",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

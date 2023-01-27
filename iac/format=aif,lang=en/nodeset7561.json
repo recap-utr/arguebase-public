@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143979",
+      "text": "(The NRA adds that permit applications have jumped 50 percent since the 2008 elections - which seems borne out at least here in Virginia. At present there are 211,435 active permits in the commonwealth. Just this year, Virginia courts have granted more than 62,000.)",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:19"
+    },
+    {
+      "nodeID": "143980",
+      "text": "NO PERMIT IS REQUIRED IN VIRGINIA! You can legally carry a firearm there if you are legally allowed to own one. Virginia performs an FBI background check and issues a permit UPON REQUEST for those who would like the convenience of carrying in another state that does require a permit. This statistic is just those who have requested one! Imagine how many people who lawfully carry THAT HAVE NOT requested one! I would imagine the number of folks legally carrrying is WAY more that those who have went through the trouble of filing a request. Yet, in THREE YEARS, people who lawfully carry a gun have 'killed' 107 people? OOOOOOH! Wow! So us legal carriers have committed one tenth of one percent of all gun 'killings'? (Notice they don't say if these are justified or not.) Just to see how that looks - - - .01% - - There. That's how it looks: .01%. It's obvious why they don't compare this statistic to the average for the percentage of 'killings' by the rest of the population who don't even carry guns. Because it would show that 'killings' by people who don't even carry guns outnumber 'killings' by those who do by a HUGE margin. The VPC can't have that now, can they? When you show the ENTIRE statistic, it makes gun carriers look SAFER than the regular population.  The HORROR! It would mean the VPC's point of view would be....uh....WRONG!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:19"
+    },
+    {
+      "nodeID": "143981",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:59:20"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186248",
+      "fromID": "143980",
+      "toID": "143981",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186249",
+      "fromID": "143981",
+      "toID": "143979",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

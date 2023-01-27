@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139809",
+      "text": "It is not the case of 'only in a america', montalban was australian and he was a poster here. A prominent australian creation supporter is Ken Ham although I doubt he posts here. But they are certainly stubborn. I have failed to have a discussion with any creationist despite repeated attempts.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:07"
+    },
+    {
+      "nodeID": "139810",
+      "text": "But was this recent version of Chritianity exported form America? I know these sorts make us laughingstocks to many in other countries, especially the televangelists.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:50:07"
+    },
+    {
+      "nodeID": "139811",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:50:07"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183280",
+      "fromID": "139810",
+      "toID": "139811",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183281",
+      "fromID": "139811",
+      "toID": "139809",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

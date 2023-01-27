@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "145082",
+      "text": "Here is the full story from Stars and Stripes. DOD rejects DODEA's new policy on same-sex partner transfers | Stars and Stripes Looks like the DOD was following the law, something the DODEA should have done in the first place.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:37"
+    },
+    {
+      "nodeID": "145083",
+      "text": "No argument there. I wasn't asked if I wanted my federal tax dollars to go towards same sex benefits in violation of DOMA. :xcensored",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:37"
+    },
+    {
+      "nodeID": "145084",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:01:37"
+    },
+    {
+      "nodeID": "145085",
+      "text": "And I wasn't asked if I wanted my federal tax dollars to go towards hetero benefits and to support their walking sperm.:xcensored",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:37"
+    },
+    {
+      "nodeID": "145086",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:01:37"
+    },
+    {
+      "nodeID": "145087",
+      "text": "Those walking sperm will be funding your social security in the future, Matt. What will your sperm be doing besides causing stains? emoticon_ic",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:37"
+    },
+    {
+      "nodeID": "145088",
+      "text": "Well it depends he could always be a sperm donor or make some Lesbian couple happy :)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:01:37"
+    },
+    {
+      "nodeID": "145089",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:01:38"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187026",
+      "fromID": "145083",
+      "toID": "145084",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187027",
+      "fromID": "145084",
+      "toID": "145082",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187028",
+      "fromID": "145085",
+      "toID": "145086",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187029",
+      "fromID": "145086",
+      "toID": "145083",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187030",
+      "fromID": "145088",
+      "toID": "145089",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187031",
+      "fromID": "145089",
+      "toID": "145087",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

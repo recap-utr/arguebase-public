@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "146985",
+      "text": "I'm not sure I believe that slippery slope. Certainly moral relativism (sp?) is a popular view right now, but I doubt we'll be doing away with the constitution any time soon. All the hub-bub with abortion is establishing a point at which to entitle rights, not if to give them. I believe birth is a logical place, seeing as how conception is not always known and it's hard to apply laws retroactivly, especially if the woman didn't know she was pregnant. The citizenship nightmare that will follow, since if it is entitled to constitutional protection then it must be a citizen right? What happens to the 1/3 of pregnancies that end in spontaneous abortion naturally anyway? These questions would be too hard for the law to answer to everyone's satisfaction, even disregarding the whole woman's rights issue (which most of the nation would fight tooth and nail for anyway).",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:21"
+    },
+    {
+      "nodeID": "146986",
+      "text": "and what about the infant mortalities, child deaths due to accidents, death in general. as it stands, the mother retains the right to terminate the life of her child if she decides she doesnt want to parent it. however, she has a relatively small window of time to decide, and after that she cant change her option... or can she... at some point the mother loses that right, and the child gains the right to live. however, what if the mother decides that she is not ready or equiped to be a parent (for instance, after the child is born she loses her ability to work, or the father abandons her, or some other similar situation). legally, shes unable to do anything since she lost the option to kill the child at that point. morally, the motive would have been the same as if she had decided to abort the child earlier",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:21"
+    },
+    {
+      "nodeID": "146987",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:05:21"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "188362",
+      "fromID": "146986",
+      "toID": "146987",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188363",
+      "fromID": "146987",
+      "toID": "146985",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

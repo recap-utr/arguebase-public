@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "147326",
+      "text": "By the way gun hater Sarah Brady wants the very same laws and more!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:06:01"
+    },
+    {
+      "nodeID": "147327",
+      "text": "No. Sarah Brady wants increased budgets for law enforcement and gun control on the same bill. Which is a slimly trick typical of dirty politicians and lawyers. That is the ammo use used to claim the NRA is against increased law enforcement budget. The NRA stands for increased budget only on one bill before Congress. Sarah Brady notions are irrational because she wants more that what is stated above. Please check 'no central database' vs a database. Please check Sarah Brady's 3 day waiting period + background check. I agree that rational laws are already on the books. I was merely re-enumerating them. How does Sarah Brady propose to reduce guns from the street? Only two ways possible: 1) Gun buy back 2) Consfication. Please check the other threads regarding the astronomical cost of a gun buy back. Please check the Consitution for right of property ownership.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:06:01"
+    },
+    {
+      "nodeID": "147328",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:06:01"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "188602",
+      "fromID": "147327",
+      "toID": "147328",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188603",
+      "fromID": "147328",
+      "toID": "147326",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

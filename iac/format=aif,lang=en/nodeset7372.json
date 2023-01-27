@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141401",
+      "text": "My point was to show what I thought of pro-abortionist's reasons for bringing up the arguement of independant survival for reasons other than being lame at debating. .",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:36"
+    },
+    {
+      "nodeID": "141402",
+      "text": "Well could you please explain it again, because I don't understand what you were saying? I don't even understand the current comment. Thanks.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:36"
+    },
+    {
+      "nodeID": "141403",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:53:36"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184418",
+      "fromID": "141402",
+      "toID": "141403",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184419",
+      "fromID": "141403",
+      "toID": "141401",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

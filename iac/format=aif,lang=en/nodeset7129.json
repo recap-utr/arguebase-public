@@ -1,0 +1,157 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138246",
+      "text": "I believe that it is possible God created the universe with a Big Bang. I also believe that some evolutionary process had to be made in order for life to begin on Earth.  That being said, I do not believe in the 'missing link' of Evolution where humans came from monkey's. There is still myriads of inconclusive evidence and missing holes and gaps within the theory itself.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:42"
+    },
+    {
+      "nodeID": "138247",
+      "text": "And where does the 'Theory of Evolution' say that Man came from monkeys? That is a very inaccurate statement. Perhaps you do not accept evolution because of lack of information?  What the theory of evolution states is that monkeys and apes came from a common ancestor, and that humans are apes from a taxonomy point of view. While there are 'gaps' in knowledge, I suspect if you did a study about what we actually do know about evolution, and human evolution in specific, you would be amazed at what we DO know.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:42"
+    },
+    {
+      "nodeID": "138248",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:46:42"
+    },
+    {
+      "nodeID": "138249",
+      "text": "What the theory of evolution states is that monkeys and apes came from a common ancestor, and that humans are apes from a taxonomy point of view. While there are 'gaps' in knowledge, I suspect if you did a study about what we actually do know about evolution, and human evolution in specific, you would be amazed at what we DO know.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:42"
+    },
+    {
+      "nodeID": "138250",
+      "text": "I know we know a great deal but even if it is from a taxonomy point of view I still don't think there is conclusive evidence.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:42"
+    },
+    {
+      "nodeID": "138251",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:46:42"
+    },
+    {
+      "nodeID": "138252",
+      "text": "Creationism fully accounts for all possible scenarios, that is why it is foolish to attempt disprove it or pit it against science. I have literally heard the idea that God created the earth some thousands of years ago and all evidence you see to the contrary was placed there by God as a test of people's faith. Now what are you going to say to that anyone?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:42"
+    },
+    {
+      "nodeID": "138253",
+      "text": "Yes, brains in a vat, the Matrix, and Last Thursdayism are unprovable. That is why science has been so successful - it only deals with naturalistic explanations for naturalistic phenomena. An unconstrained supernatural force can provide an answer for anything (fossils in the ground, complexity in organisms, etc.) but will provide an explanation for nothing. Science is in the business of providing explanations - philosophy is down the hall and on your left.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:42"
+    },
+    {
+      "nodeID": "138254",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:46:42"
+    },
+    {
+      "nodeID": "138255",
+      "text": "Hehe I can't tell a difference between my philosophy and science, it is all knowledge that is gained through non-contradictory inquiry into reality.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:42"
+    },
+    {
+      "nodeID": "138256",
+      "text": "And yet quantum physics tends to be very contradictory, at least to our perceptions. Acausal events happen. A particle can be in two places at the same time. A particle can disappear and reappear in a different location without traversing that distance. And et cetera. Since the beginning of our local universe occurred at quantum levels, I would be cautious about drawing philosophical conclusions based on our macro-world experiences.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:42"
+    },
+    {
+      "nodeID": "138257",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:46:43"
+    },
+    {
+      "nodeID": "138258",
+      "text": "Your arguments are a logical fallacy known as an argument from ignorance (and also an argument from personal incredulity.) An argument from ignorance is that a premise is true because it has not been proven untrue, or is untrue because it has not been proven true.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:43"
+    },
+    {
+      "nodeID": "138259",
+      "text": "I know the fallacy. I have not used that argument.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:43"
+    },
+    {
+      "nodeID": "138260",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:46:43"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182170",
+      "fromID": "138247",
+      "toID": "138248",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182171",
+      "fromID": "138248",
+      "toID": "138246",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182172",
+      "fromID": "138250",
+      "toID": "138251",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182173",
+      "fromID": "138251",
+      "toID": "138249",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182174",
+      "fromID": "138253",
+      "toID": "138254",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182175",
+      "fromID": "138254",
+      "toID": "138252",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182176",
+      "fromID": "138256",
+      "toID": "138257",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182177",
+      "fromID": "138257",
+      "toID": "138255",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182178",
+      "fromID": "138259",
+      "toID": "138260",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182179",
+      "fromID": "138260",
+      "toID": "138258",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

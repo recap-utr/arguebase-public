@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "147952",
+      "text": "[B][FONT=Courier New]Is it not true that the reasons the woman has the problems she has now is because of the choices she has made with her body?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:26"
+    },
+    {
+      "nodeID": "147953",
+      "text": "You mean I can get pregnant all by myself! COOL! Out with the men. They have been ticking me off for YEARS! ;)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:26"
+    },
+    {
+      "nodeID": "147954",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:07:26"
+    },
+    {
+      "nodeID": "147955",
+      "text": "How do we know when to let the woman start making her own choices? Where do we draw that line?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:26"
+    },
+    {
+      "nodeID": "147956",
+      "text": "Well, where should we draw the line with men? At what point is it OK for the government to take control rather than letting men make choices for their bodies? For me. Nothing less than I ALWAYS MAKE MY OWN CHOICES FOR MY BODY is acceptable and anything else is violation.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:26"
+    },
+    {
+      "nodeID": "147957",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:26"
+    },
+    {
+      "nodeID": "147958",
+      "text": "Health? You bring up an interesting point as far as the health aspect of what I said. What I meant was that the baby was not going to come out mentally handicapped.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:26"
+    },
+    {
+      "nodeID": "147959",
+      "text": "But mentally handicapped children are worth less than the rest of us? You have to explain why some zygotes are inviolate and others are able to be aborted morally.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:26"
+    },
+    {
+      "nodeID": "147960",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:26"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189042",
+      "fromID": "147953",
+      "toID": "147954",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189043",
+      "fromID": "147954",
+      "toID": "147952",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189044",
+      "fromID": "147956",
+      "toID": "147957",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189045",
+      "fromID": "147957",
+      "toID": "147955",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189046",
+      "fromID": "147959",
+      "toID": "147960",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189047",
+      "fromID": "147960",
+      "toID": "147958",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

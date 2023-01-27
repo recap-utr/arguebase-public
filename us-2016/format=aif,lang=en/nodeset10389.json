@@ -1,0 +1,575 @@
+{
+  "nodes": [
+    {
+      "nodeID": "210985",
+      "text": "buffalonuts : Why is Facebook plastered over everything",
+      "type": "L",
+      "timestamp": "2016-10-31 16:59:58"
+    },
+    {
+      "nodeID": "210986",
+      "text": "Assertive Questioning",
+      "type": "YA",
+      "timestamp": "2016-10-31 16:59:58",
+      "scheme": "AssertiveQuestioning",
+      "schemeID": "73"
+    },
+    {
+      "nodeID": "210987",
+      "text": "Facebook plastered over everything",
+      "type": "I",
+      "timestamp": "2016-10-31 16:59:58"
+    },
+    {
+      "nodeID": "210988",
+      "text": "Rory: buffalonuts : Why is Facebook plastered over everything",
+      "type": "L",
+      "timestamp": "2016-10-31 16:59:58"
+    },
+    {
+      "nodeID": "210989",
+      "text": "GlenCocoPuffs : They're co-sponsors",
+      "type": "L",
+      "timestamp": "2016-10-31 16:59:58"
+    },
+    {
+      "nodeID": "210990",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 16:59:59",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "210991",
+      "text": "Facebook are co-sponsors",
+      "type": "I",
+      "timestamp": "2016-10-31 16:59:59"
+    },
+    {
+      "nodeID": "210992",
+      "text": "Rory: GlenCocoPuffs : They're co-sponsors",
+      "type": "L",
+      "timestamp": "2016-10-31 16:59:59"
+    },
+    {
+      "nodeID": "210993",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 16:59:59",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "210994",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 16:59:59",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "210995",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 16:59:59",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "210996",
+      "text": "Geaux : Co-hosts",
+      "type": "L",
+      "timestamp": "2016-10-31 16:59:59"
+    },
+    {
+      "nodeID": "210997",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 16:59:59",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "210998",
+      "text": "Co-hosts",
+      "type": "I",
+      "timestamp": "2016-10-31 16:59:59"
+    },
+    {
+      "nodeID": "210999",
+      "text": "Rory: Geaux : Co-hosts",
+      "type": "L",
+      "timestamp": "2016-10-31 16:59:59"
+    },
+    {
+      "nodeID": "211000",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:00:00",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211001",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-10-31 17:00:00",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "211002",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:00:00",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "211003",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 17:00:00",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "211004",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:00:00",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "211005",
+      "text": "thecrownprince : they paid for it",
+      "type": "L",
+      "timestamp": "2016-10-31 17:00:00"
+    },
+    {
+      "nodeID": "211006",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:00:00",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211007",
+      "text": "Facebook paid for it",
+      "type": "I",
+      "timestamp": "2016-10-31 17:00:00"
+    },
+    {
+      "nodeID": "211008",
+      "text": "Rory: thecrownprince : they paid for it",
+      "type": "L",
+      "timestamp": "2016-10-31 17:00:00"
+    },
+    {
+      "nodeID": "211009",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:00:00",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211010",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 17:00:00",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "211011",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:00:01",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "211012",
+      "text": "DocMarlowe : They sponsored the debate",
+      "type": "L",
+      "timestamp": "2016-10-31 17:00:01"
+    },
+    {
+      "nodeID": "211013",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:00:01",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211014",
+      "text": "Facebook sponsored the debate",
+      "type": "I",
+      "timestamp": "2016-10-31 17:00:01"
+    },
+    {
+      "nodeID": "211015",
+      "text": "Rory: DocMarlowe : They sponsored the debate",
+      "type": "L",
+      "timestamp": "2016-10-31 17:00:01"
+    },
+    {
+      "nodeID": "211016",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:00:01",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211017",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-10-31 17:00:01",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "211018",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:00:01",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "211019",
+      "text": "CoLiNieS : old white people only use Facebook",
+      "type": "L",
+      "timestamp": "2016-10-31 17:00:01"
+    },
+    {
+      "nodeID": "211020",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:00:01",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211021",
+      "text": "old white people only use Facebook",
+      "type": "I",
+      "timestamp": "2016-10-31 17:00:01"
+    },
+    {
+      "nodeID": "211022",
+      "text": "Rory: CoLiNieS : old white people only use Facebook",
+      "type": "L",
+      "timestamp": "2016-10-31 17:00:02"
+    },
+    {
+      "nodeID": "211023",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:00:02",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211024",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 17:00:02",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "211025",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:00:02",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "257547",
+      "fromID": "210986",
+      "toID": "210987",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257548",
+      "fromID": "210985",
+      "toID": "210986",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257549",
+      "fromID": "210990",
+      "toID": "210991",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257550",
+      "fromID": "210989",
+      "toID": "210990",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257551",
+      "fromID": "210985",
+      "toID": "210993",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257552",
+      "fromID": "210993",
+      "toID": "210989",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257553",
+      "fromID": "210991",
+      "toID": "210994",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257554",
+      "fromID": "210994",
+      "toID": "210987",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257555",
+      "fromID": "210993",
+      "toID": "210995",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257556",
+      "fromID": "210995",
+      "toID": "210994",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257557",
+      "fromID": "210997",
+      "toID": "210998",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257558",
+      "fromID": "210996",
+      "toID": "210997",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257559",
+      "fromID": "210989",
+      "toID": "211000",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257560",
+      "fromID": "211000",
+      "toID": "210996",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257561",
+      "fromID": "210998",
+      "toID": "211001",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257562",
+      "fromID": "211001",
+      "toID": "210991",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257563",
+      "fromID": "211000",
+      "toID": "211002",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257564",
+      "fromID": "211002",
+      "toID": "211001",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257565",
+      "fromID": "210998",
+      "toID": "211003",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257566",
+      "fromID": "211003",
+      "toID": "210987",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257567",
+      "fromID": "211000",
+      "toID": "211004",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257568",
+      "fromID": "211004",
+      "toID": "211003",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257569",
+      "fromID": "211006",
+      "toID": "211007",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257570",
+      "fromID": "211005",
+      "toID": "211006",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257571",
+      "fromID": "210985",
+      "toID": "211009",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257572",
+      "fromID": "211009",
+      "toID": "211005",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257573",
+      "fromID": "211007",
+      "toID": "211010",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257574",
+      "fromID": "211010",
+      "toID": "210987",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257575",
+      "fromID": "211009",
+      "toID": "211011",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257576",
+      "fromID": "211011",
+      "toID": "211010",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257577",
+      "fromID": "211013",
+      "toID": "211014",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257578",
+      "fromID": "211012",
+      "toID": "211013",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257579",
+      "fromID": "210989",
+      "toID": "211016",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257580",
+      "fromID": "211016",
+      "toID": "211012",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257581",
+      "fromID": "211014",
+      "toID": "211017",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257582",
+      "fromID": "211017",
+      "toID": "210991",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257583",
+      "fromID": "211016",
+      "toID": "211018",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257584",
+      "fromID": "211018",
+      "toID": "211017",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257585",
+      "fromID": "211020",
+      "toID": "211021",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257586",
+      "fromID": "211019",
+      "toID": "211020",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257587",
+      "fromID": "210985",
+      "toID": "211023",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257588",
+      "fromID": "211023",
+      "toID": "211019",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257589",
+      "fromID": "211021",
+      "toID": "211024",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257590",
+      "fromID": "211024",
+      "toID": "210987",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257591",
+      "fromID": "211023",
+      "toID": "211025",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257592",
+      "fromID": "211025",
+      "toID": "211024",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

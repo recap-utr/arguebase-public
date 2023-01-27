@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "150041",
+      "text": "That's exactly it. It's not as though we can effortlessly rebuttle every single one of your posts as we've done in the past. It's not as though we're tired of your absence when it's your turn to defend your position. Oh no, it's only because the cat's got my tongue.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:53"
+    },
+    {
+      "nodeID": "150042",
+      "text": "yea you've rebuttled every one of my posts with rhetoric. How do you explain how The Computational and Analytical Molecular Evolution Laboratory is calling for a new synthesis based on 'biased' mutations??????  let's hear it.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:53"
+    },
+    {
+      "nodeID": "150043",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:11:54"
+    },
+    {
+      "nodeID": "150044",
+      "text": "That would be true if he did not keep on opening up thread after thread after thread of the same subject. He makes 2 or 3 posts, then runs away to open up another thread.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:54"
+    },
+    {
+      "nodeID": "150045",
+      "text": "Yes, i agree with you.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:54"
+    },
+    {
+      "nodeID": "150046",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:11:54"
+    },
+    {
+      "nodeID": "150047",
+      "text": "I'm just waiting for a logical arguement to debate against. I haven't heard one yet. Neo-darwinism is more than just gasping for air -- it's stone-cold dead.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:54"
+    },
+    {
+      "nodeID": "150048",
+      "text": "Well, you wouldn't find a logical argument if you only read your own posts, now would you? To find a logical argument to debate against, I would recommend 4forums.com in the creation vs. evolution section. Of course, only creationists have the honor of debating against logical arguments. Also, denying that our arguments are logical does nothing. Please attempt to refute them. We refute yours, even though we see no logic. Finally, Darwin's Theory of Evolution by Natural Selection is not a theory in crisis in any way. Get over it.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:54"
+    },
+    {
+      "nodeID": "150049",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:11:54"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "190520",
+      "fromID": "150042",
+      "toID": "150043",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190521",
+      "fromID": "150043",
+      "toID": "150041",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190522",
+      "fromID": "150045",
+      "toID": "150046",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190523",
+      "fromID": "150046",
+      "toID": "150044",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190524",
+      "fromID": "150048",
+      "toID": "150049",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190525",
+      "fromID": "150049",
+      "toID": "150047",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

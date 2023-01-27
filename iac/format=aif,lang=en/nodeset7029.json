@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "136632",
+      "text": "It would seem to me as a fish would become amphibian many of the mutatons would be more harmfull than benifical.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:27"
+    },
+    {
+      "nodeID": "136633",
+      "text": "Really? Why don't you name a few of those mutations and explain why they are more harmful.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:27"
+    },
+    {
+      "nodeID": "136634",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:43:27"
+    },
+    {
+      "nodeID": "136635",
+      "text": "Evolutionists may talk of actual selection as if it had a mind of its own and does the work of evolution on purpose",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:27"
+    },
+    {
+      "nodeID": "136636",
+      "text": "No, they don't. Creationists do. 'Why haven't all animals turned into humans?'",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:27"
+    },
+    {
+      "nodeID": "136637",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:43:27"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181016",
+      "fromID": "136633",
+      "toID": "136634",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181017",
+      "fromID": "136634",
+      "toID": "136632",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181018",
+      "fromID": "136636",
+      "toID": "136637",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181019",
+      "fromID": "136637",
+      "toID": "136635",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

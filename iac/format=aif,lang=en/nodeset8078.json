@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152194",
+      "text": "The neutral middle ground that&#8217;s implied by theistic evolution just isn&#8217;t there. If it was, there would be far more conflicts between atheism and theistic evolution than there actually are.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:25"
+    },
+    {
+      "nodeID": "152195",
+      "text": "And here is another old standby-Theistic evolutionists do not exist. They are either confused Christians who are losing their faith, or they are lying atheists. So, E. Mutz, Jo Bennett, which are you? Lost christians or lying atheists?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:25"
+    },
+    {
+      "nodeID": "152196",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:16:25"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192034",
+      "fromID": "152195",
+      "toID": "152196",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192035",
+      "fromID": "152196",
+      "toID": "152194",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

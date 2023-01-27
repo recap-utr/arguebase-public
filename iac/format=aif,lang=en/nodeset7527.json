@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143540",
+      "text": "Creationist make little quips about how evolution must be a racist theory et cetera but when I ask them to explain in more detail they just disappear. I find this quite annoying what should I do about it?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:22"
+    },
+    {
+      "nodeID": "143541",
+      "text": "I think Peddler and Ray have lots of good ideas, and they will be able to explian everthing. Just give them a chance! Stop bothering them with more questions so that they can actually concentrate on one of them instead of getting loads more. Sheesh!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:22"
+    },
+    {
+      "nodeID": "143542",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:58:22"
+    },
+    {
+      "nodeID": "143543",
+      "text": "I know the feeling. Its very, very easy to make a statement associating two things (like racism and scientific evolution) its an altogether tricker one to then defend that statement against thorough scrutiny.  Or should I say they [YEC's] like to teach the contoversy? Just challenge their assertions, when they don't defend them and disappear it shows they are just taking the Michael.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:22"
+    },
+    {
+      "nodeID": "143544",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:58:22"
+    },
+    {
+      "nodeID": "143545",
+      "text": "Really? I have not seen one coherent idea from both of them combined.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:23"
+    },
+    {
+      "nodeID": "143546",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:58:23"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185932",
+      "fromID": "143541",
+      "toID": "143542",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185933",
+      "fromID": "143542",
+      "toID": "143540",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185934",
+      "fromID": "143543",
+      "toID": "143544",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185935",
+      "fromID": "143544",
+      "toID": "143540",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185936",
+      "fromID": "143545",
+      "toID": "143546",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185937",
+      "fromID": "143546",
+      "toID": "143541",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

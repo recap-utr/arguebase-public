@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "nodeID": "156229",
+      "text": "Portugal's Parliament Approves Gay Marriage",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:39"
+    },
+    {
+      "nodeID": "156230",
+      "text": "So country by country, the world is going to hell in a hand basket. And this pleases you, why? emoticon_frazzled",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:39"
+    },
+    {
+      "nodeID": "156231",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:25:39"
+    },
+    {
+      "nodeID": "156232",
+      "text": "Oh get over yourself and your self delusional narrow fundamentalist mentality.... I thought monogamy was a positive thing was it not? Oh that's right it doesn't matter about two people loving one another. Two consensual adults being able to express their love in a private ceremony and having that love protected under the law....",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:39"
+    },
+    {
+      "nodeID": "156233",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:25:39"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194882",
+      "fromID": "156230",
+      "toID": "156231",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194883",
+      "fromID": "156231",
+      "toID": "156229",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194884",
+      "fromID": "156232",
+      "toID": "156233",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194885",
+      "fromID": "156233",
+      "toID": "156230",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

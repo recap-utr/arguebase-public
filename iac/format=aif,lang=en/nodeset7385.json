@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141538",
+      "text": "Comments? -Wez",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:56"
+    },
+    {
+      "nodeID": "141539",
+      "text": "Just going on what you have posted here .. ..it looks like the first verse is decribing manslaughter - two men fighting - they bump into a pregnant woman - her baby dies...or does it?.  ..the second verse is describing murder.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:56"
+    },
+    {
+      "nodeID": "141540",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:53:56"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184514",
+      "fromID": "141539",
+      "toID": "141540",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184515",
+      "fromID": "141540",
+      "toID": "141538",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

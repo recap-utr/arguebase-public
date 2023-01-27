@@ -1,0 +1,115 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151290",
+      "text": "Wow, San Francisco........What a shocker........",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:29"
+    },
+    {
+      "nodeID": "151291",
+      "text": "In this case, I have to agree with you. We're talking about the most absolute bizarrely liberal (to the point of absurdity) place in the country. The idea of 'rights' has gotten dog-gone crazy there . . . they even regulate the nutritional content of food for pets, and require dog-houses have raised floors in them. They've basically done away with a number of illegal drug laws. They're working to BAN handgun ownership altogether. (One has to wonder how we can take their insistence of gay marriage as being constitutional seriously when they are trying to completely ignore the 2nd Amendment!) Despite their liberal regulatory fanaticism, it's actually a very beautiful place to visit!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:29"
+    },
+    {
+      "nodeID": "151292",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:14:29"
+    },
+    {
+      "nodeID": "151293",
+      "text": "It use to be a beautiful city and great liberty for a navy man................I was at Treasure Island in the early sixties waiting for a flight from Travis AFB to Subic bay in the PI.......Spent a week there....Had a great time.........You would not recognize the place now..........",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:29"
+    },
+    {
+      "nodeID": "151294",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:14:30"
+    },
+    {
+      "nodeID": "151295",
+      "text": "........You would not recognize the place now..........",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:30"
+    },
+    {
+      "nodeID": "151296",
+      "text": "Oh? Do tell, what awful things have happened to Baghdad by the Bay?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:30"
+    },
+    {
+      "nodeID": "151297",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:14:30"
+    },
+    {
+      "nodeID": "151298",
+      "text": "I think a better comparison is Sodom..........",
+      "type": "I",
+      "timestamp": "2016-03-08 20:14:30"
+    },
+    {
+      "nodeID": "151299",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:14:30"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191400",
+      "fromID": "151291",
+      "toID": "151292",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191401",
+      "fromID": "151292",
+      "toID": "151290",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191402",
+      "fromID": "151293",
+      "toID": "151294",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191403",
+      "fromID": "151294",
+      "toID": "151291",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191404",
+      "fromID": "151296",
+      "toID": "151297",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191405",
+      "fromID": "151297",
+      "toID": "151295",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191406",
+      "fromID": "151298",
+      "toID": "151299",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191407",
+      "fromID": "151299",
+      "toID": "151296",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

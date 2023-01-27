@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "146911",
+      "text": "'Science keeps religion from sinking into the valley of crippling irrationalism and paralyzing obscurantism.' -- Martin Luther King, Jr.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:08"
+    },
+    {
+      "nodeID": "146912",
+      "text": "But then again, I guess it just proves my point. Quod erat demonstrandum.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:08"
+    },
+    {
+      "nodeID": "146913",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:05:08"
+    },
+    {
+      "nodeID": "146914",
+      "text": "http://www.cnn.com/2005/WORLD/europe/06/18/spain.same.sex.ap/index.html Good for the Spainards! Personally, I think U.S. conservatives have gotten too complacent these days--we need to protest like this more often. We've gotten to where we lay down too easily and let ourselves get run over too easily by immoralism. These people in Spain are showing great courage--U.S. conservatives could learn a lot from them.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:08"
+    },
+    {
+      "nodeID": "146915",
+      "text": "You know that what you call 'immoralism' is my life. Why do you hate me so much that you would be willing to deny my the happiness that you take forgranted and as your due? You don't even know me yet you are willing to defame me just because I am different from you. I don't understand how I am running over you by living my life openly and wanting the same thing as you the right to consider whom I choose to be my family. If you have an opinion about gay rights thats fine. If you want to deny me the same rights, as you take for granted, because of your opinion and beliefs though laws then that is bigotry.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:09"
+    },
+    {
+      "nodeID": "146916",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:05:09"
+    },
+    {
+      "nodeID": "146917",
+      "text": "a belief held by a majority does not mean it is superior to that held by a minority. there is no numerical superiority when it comes to truths, values or morality.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:09"
+    },
+    {
+      "nodeID": "146918",
+      "text": "I have to agree with Jo Bennett here Fracas, you're simply injecting your personal opinion about morality into a conversation on statistics. One has nothing to do with the other. Muddying the Waters is a tactic all too easily realized.  Oh, and about your previous responce to my question. I would behouve you to pay attention to whom is doing the posting to understand their intent and bias.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:09"
+    },
+    {
+      "nodeID": "146919",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:05:09"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "188312",
+      "fromID": "146912",
+      "toID": "146913",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188313",
+      "fromID": "146913",
+      "toID": "146911",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188314",
+      "fromID": "146915",
+      "toID": "146916",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188315",
+      "fromID": "146916",
+      "toID": "146914",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188316",
+      "fromID": "146918",
+      "toID": "146919",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188317",
+      "fromID": "146919",
+      "toID": "146917",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

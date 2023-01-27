@@ -1,0 +1,193 @@
+{
+  "nodes": [
+    {
+      "nodeID": "161259",
+      "text": "D.C. Mayor Adrian M. Fenty announced yesterday he will appeal to the U.S. Supreme Court a federal court ruling against the city's 30-year-old handgun ban.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:10"
+    },
+    {
+      "nodeID": "161260",
+      "text": "I didn't think they would have the guts after getting slapped so badly last time out. I mean, there is loosing a case, and then there is getting kicked up and down the street and dragged through a field of tacks, which is pretty much happened when last time out.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:10"
+    },
+    {
+      "nodeID": "161261",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:37:11"
+    },
+    {
+      "nodeID": "161262",
+      "text": "http://www.washingtontimes.com/apps/pbcs.dll/article?AID=/20070717/METRO/107170041/1004  I didn't think they would have the guts after getting slapped so badly last time out. I mean, there is loosing a case, and then there is getting kicked up and down the street and dragged through a field of tacks, which is pretty much happened when last time out.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:11"
+    },
+    {
+      "nodeID": "161263",
+      "text": "This is the 'right' SCOTUS to hear the case, IMO. ;)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:11"
+    },
+    {
+      "nodeID": "161264",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:37:11"
+    },
+    {
+      "nodeID": "161265",
+      "text": "Don't expect Scalia to be too friendly to this case, and of course whatever Scalia does Thomas does. It would be sadly ironic if we progunrights people lost this case even with Kennedy's vote.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:11"
+    },
+    {
+      "nodeID": "161266",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:37:11"
+    },
+    {
+      "nodeID": "161267",
+      "text": "I agree... just what we need. The court will not hear the case so more guns on the street emoticon_xkill",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:11"
+    },
+    {
+      "nodeID": "161268",
+      "text": "There will be more guns on the street whether the Court hears the case or not or regardless of how the Court might rule: gun laws don't effect criminals.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:11"
+    },
+    {
+      "nodeID": "161269",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:37:11"
+    },
+    {
+      "nodeID": "161270",
+      "text": "The criminals in DC already have their guns. All striking down DC's handgun ban will do is let the law abiding be able to better defend themselves and be armed for a change.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:11"
+    },
+    {
+      "nodeID": "161271",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:37:11"
+    },
+    {
+      "nodeID": "161272",
+      "text": "If guns laws don't affect criminals then how do you explain the low rates of criminal gun use in nations like the UK?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:11"
+    },
+    {
+      "nodeID": "161273",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:37:11"
+    },
+    {
+      "nodeID": "161274",
+      "text": "As I understand, Scalia and Thomas are some of the most conservative members of the court.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:12"
+    },
+    {
+      "nodeID": "161275",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:37:12"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198474",
+      "fromID": "161260",
+      "toID": "161261",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198475",
+      "fromID": "161261",
+      "toID": "161259",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198476",
+      "fromID": "161263",
+      "toID": "161264",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198477",
+      "fromID": "161264",
+      "toID": "161262",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198478",
+      "fromID": "161265",
+      "toID": "161266",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198479",
+      "fromID": "161266",
+      "toID": "161263",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198480",
+      "fromID": "161268",
+      "toID": "161269",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198481",
+      "fromID": "161269",
+      "toID": "161267",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198482",
+      "fromID": "161270",
+      "toID": "161271",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198483",
+      "fromID": "161271",
+      "toID": "161267",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198484",
+      "fromID": "161272",
+      "toID": "161273",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198485",
+      "fromID": "161273",
+      "toID": "161268",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198486",
+      "fromID": "161274",
+      "toID": "161275",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198487",
+      "fromID": "161275",
+      "toID": "161265",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

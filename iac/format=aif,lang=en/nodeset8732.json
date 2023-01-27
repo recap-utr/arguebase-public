@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "161965",
+      "text": "National health care systems are cheaper than the current US system.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:48"
+    },
+    {
+      "nodeID": "161966",
+      "text": "Well this doesn't matter. It would have to be free for the US to afford it. In fact, look for the UK to have troubles affording it as their debt pushes 100% of GDP like the US.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:48"
+    },
+    {
+      "nodeID": "161967",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:48"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198984",
+      "fromID": "161966",
+      "toID": "161967",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198985",
+      "fromID": "161967",
+      "toID": "161965",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

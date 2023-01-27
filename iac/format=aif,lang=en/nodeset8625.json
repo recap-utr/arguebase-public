@@ -1,0 +1,175 @@
+{
+  "nodes": [
+    {
+      "nodeID": "160406",
+      "text": "Background checks, if you have ever been convicted of a crime involving a firearm or violence against another person you cant have a gun, I wouldnt mind requiring an hour long class on gun safety before you buy your first weapon either, fully automatics should be legal. There is more but right now I cant seem to think correctly so I will come back to this later.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:34:58"
+    },
+    {
+      "nodeID": "160407",
+      "text": "the later the better, it seems to me :)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:34:58"
+    },
+    {
+      "nodeID": "160408",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:34:58"
+    },
+    {
+      "nodeID": "160409",
+      "text": "Well you seem to use your head for something Addison48,unlike some we shall leave unnamed. By the way Whiny its later than you think. lol.emoticon_xangelemoticon_xkill",
+      "type": "I",
+      "timestamp": "2016-03-08 20:34:58"
+    },
+    {
+      "nodeID": "160410",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:34:59"
+    },
+    {
+      "nodeID": "160411",
+      "text": "How about a sin tax of $100 each time you buy a gun and $10 each time you buy a bullet? Its fair because it would help pay for all the damage guns do to society. Rights come with responsibilities.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:34:59"
+    },
+    {
+      "nodeID": "160412",
+      "text": "How about a sin tax of $100 dollars each time you log on and $10 dollars a word for each time you speak one? It's fair because it would help pay for all the lying propaganda damage you do to society. Rights come with responsibilities. On guns, no can do. SCOTUS has ruled many times that a right freely stated in the Constitution cannot be compelled to purchase a license nor a fee to exercise. NEXT!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:34:59"
+    },
+    {
+      "nodeID": "160413",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:34:59"
+    },
+    {
+      "nodeID": "160414",
+      "text": "Should all drivers have to help pay for harm done by irresponsible drivers?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:34:59"
+    },
+    {
+      "nodeID": "160415",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:34:59"
+    },
+    {
+      "nodeID": "160416",
+      "text": "Its fair because it would help pay for all the damage guns do to society. Rights come with responsibilities.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:34:59"
+    },
+    {
+      "nodeID": "160417",
+      "text": "Your idea of responsibilities is twisted. Why should anyone other than the criminals, be required to pay a tax for the actions of criminals? By your logic the public should be paying fines that the media outlet would face for lying.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:34:59"
+    },
+    {
+      "nodeID": "160418",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:34:59"
+    },
+    {
+      "nodeID": "160419",
+      "text": "How about a sin tax of $100 each time you buy a gun and $10 each time you buy a bullet?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:34:59"
+    },
+    {
+      "nodeID": "160420",
+      "text": "How is it a sin to exercise your constitutional rights? Why should the law-abiding have to pay such a tax? Why not let the criminals pay the tax since they're the ones who break the law?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:34:59"
+    },
+    {
+      "nodeID": "160421",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:34:59"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "197864",
+      "fromID": "160407",
+      "toID": "160408",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197865",
+      "fromID": "160408",
+      "toID": "160406",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197866",
+      "fromID": "160409",
+      "toID": "160410",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197867",
+      "fromID": "160410",
+      "toID": "160407",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197868",
+      "fromID": "160412",
+      "toID": "160413",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197869",
+      "fromID": "160413",
+      "toID": "160411",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197870",
+      "fromID": "160414",
+      "toID": "160415",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197871",
+      "fromID": "160415",
+      "toID": "160411",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197872",
+      "fromID": "160417",
+      "toID": "160418",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197873",
+      "fromID": "160418",
+      "toID": "160416",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197874",
+      "fromID": "160420",
+      "toID": "160421",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197875",
+      "fromID": "160421",
+      "toID": "160419",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

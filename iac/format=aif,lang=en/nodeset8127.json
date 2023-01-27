@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152807",
+      "text": "Originally posted by fallingupwards oh no!! broker has threatened to stop loving this country if we help the poor!! we better go back to capitalism!!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:48"
+    },
+    {
+      "nodeID": "152808",
+      "text": "You will never help the poor with a socialist system. The first casuality of a socialist state is the spirit of charity. The concept of charity in European societies does not exist, because it is the government job to the help the poor. Government officials just don't strike me as being natural care givers. What then happens is you get a token 'official' who pretends to give a rats pututie for carring about the poor, to make all the heartless people in a socialist state feel good that the government is doing something.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:48"
+    },
+    {
+      "nodeID": "152809",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:17:48"
+    },
+    {
+      "nodeID": "152810",
+      "text": "Originally posted by American I ran some numbers and here is what I came up with.... If you had 1 billion dollars, and you spent $1,000 an hour. It would take you more than 114 years to spend the billion.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:49"
+    },
+    {
+      "nodeID": "152811",
+      "text": "Oh I can easily spend $1,000 dollars an hour. If I could I would also have plenty of reason to live to be 114.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:49"
+    },
+    {
+      "nodeID": "152812",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:17:49"
+    },
+    {
+      "nodeID": "152813",
+      "text": "You missed the whole point of my story. I was not disgusted at the poor people I was disgusted at the government under a socialist mindset. I love poor people, heck I was one for a while (and really kinda still am).",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:49"
+    },
+    {
+      "nodeID": "152814",
+      "text": "Oh, you have a problem with Socialism? Is that so?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:49"
+    },
+    {
+      "nodeID": "152815",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:17:49"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192460",
+      "fromID": "152808",
+      "toID": "152809",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192461",
+      "fromID": "152809",
+      "toID": "152807",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192462",
+      "fromID": "152811",
+      "toID": "152812",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192463",
+      "fromID": "152812",
+      "toID": "152810",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192464",
+      "fromID": "152814",
+      "toID": "152815",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192465",
+      "fromID": "152815",
+      "toID": "152813",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

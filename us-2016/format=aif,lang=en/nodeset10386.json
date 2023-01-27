@@ -1,0 +1,661 @@
+{
+  "nodes": [
+    {
+      "nodeID": "210745",
+      "text": "Sp1ffy : Everybody up here loves hating teachers",
+      "type": "L",
+      "timestamp": "2016-10-31 13:16:31"
+    },
+    {
+      "nodeID": "210746",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:16:31",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "210747",
+      "text": "everybody up here loves hating teachers",
+      "type": "I",
+      "timestamp": "2016-10-31 13:16:32"
+    },
+    {
+      "nodeID": "210748",
+      "text": "Barbara: Sp1ffy : Everybody up here loves hating teachers",
+      "type": "L",
+      "timestamp": "2016-10-31 13:16:32"
+    },
+    {
+      "nodeID": "210749",
+      "text": "NeoMegaRyuMKIICalifornia : the more people learn, the more they realize how batshit insane a lot of these candidates are",
+      "type": "L",
+      "timestamp": "2016-10-31 13:16:32"
+    },
+    {
+      "nodeID": "210750",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:16:32",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "210751",
+      "text": "the more people learn, the more they realize how batshit insane a lot of these candidates are",
+      "type": "I",
+      "timestamp": "2016-10-31 13:16:32"
+    },
+    {
+      "nodeID": "210752",
+      "text": "Barbara: NeoMegaRyuMKIICalifornia : the more people learn, the more they realize how batshit insane a lot of these candidates are",
+      "type": "L",
+      "timestamp": "2016-10-31 13:16:32"
+    },
+    {
+      "nodeID": "210753",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 13:16:32",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "210754",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 13:16:32",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "210755",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:16:32",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "210756",
+      "text": "Barbara: [delete] : How so",
+      "type": "L",
+      "timestamp": "2016-10-31 13:16:32"
+    },
+    {
+      "nodeID": "210757",
+      "text": "Barbara: [delete] :  I'm not too knowledgeable in this topic",
+      "type": "L",
+      "timestamp": "2016-10-31 13:16:32"
+    },
+    {
+      "nodeID": "210758",
+      "text": "[deleted] : How so",
+      "type": "L",
+      "timestamp": "2016-10-31 13:16:33"
+    },
+    {
+      "nodeID": "210759",
+      "text": "Barbara: [deleted] : How so",
+      "type": "L",
+      "timestamp": "2016-10-31 13:16:33"
+    },
+    {
+      "nodeID": "210760",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 13:16:33",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "210761",
+      "text": "Pure Challenging",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:16:33",
+      "scheme": "PureChallenging",
+      "schemeID": "92"
+    },
+    {
+      "nodeID": "210762",
+      "text": "[deleted] : I'm not too knowledgeable in this topic",
+      "type": "L",
+      "timestamp": "2016-10-31 13:16:33"
+    },
+    {
+      "nodeID": "210763",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:16:33",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "210764",
+      "text": "I'm not too knowledgeable in this topic",
+      "type": "I",
+      "timestamp": "2016-10-31 13:16:33"
+    },
+    {
+      "nodeID": "210765",
+      "text": "Barbara: [deleted] : I'm not too knowledgeable in this topic",
+      "type": "L",
+      "timestamp": "2016-10-31 13:16:33"
+    },
+    {
+      "nodeID": "210766",
+      "text": "[deleted] : I'd like to hear why you get that impression",
+      "type": "L",
+      "timestamp": "2016-10-31 13:16:33"
+    },
+    {
+      "nodeID": "210767",
+      "text": "Assertive Challenging",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:16:33",
+      "scheme": "AssertiveChallenging",
+      "schemeID": "87"
+    },
+    {
+      "nodeID": "210768",
+      "text": "I'd like to hear why you get that impression",
+      "type": "I",
+      "timestamp": "2016-10-31 13:16:33"
+    },
+    {
+      "nodeID": "210769",
+      "text": "Barbara: [deleted] : I'd like to hear why you get that impression",
+      "type": "L",
+      "timestamp": "2016-10-31 13:16:33"
+    },
+    {
+      "nodeID": "210770",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 13:16:34",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "210771",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 13:16:34",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "210772",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:16:34",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "210773",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 13:16:34",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "210774",
+      "text": "Barbara: Sp1ffy : they all hate unions and teachers like to ask for more than minimum wage for to do their absolutely essential job",
+      "type": "L",
+      "timestamp": "2016-10-31 13:16:34"
+    },
+    {
+      "nodeID": "210775",
+      "text": "Sp1ffy : they all hate unions",
+      "type": "L",
+      "timestamp": "2016-10-31 13:16:34"
+    },
+    {
+      "nodeID": "210776",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:16:34",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "210777",
+      "text": "the Republican candidates all hate unions",
+      "type": "I",
+      "timestamp": "2016-10-31 13:16:34"
+    },
+    {
+      "nodeID": "210778",
+      "text": "Barbara: Sp1ffy : they all hate unions",
+      "type": "L",
+      "timestamp": "2016-10-31 13:16:34"
+    },
+    {
+      "nodeID": "210779",
+      "text": "Sp1ffy : teachers like to ask for more than minimum wage for to do their absolutely essential job",
+      "type": "L",
+      "timestamp": "2016-10-31 13:16:34"
+    },
+    {
+      "nodeID": "210780",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:16:35",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "210781",
+      "text": "teachers like to ask for more than minimum wage for to do their absolutely essential job",
+      "type": "I",
+      "timestamp": "2016-10-31 13:16:35"
+    },
+    {
+      "nodeID": "210782",
+      "text": "Barbara: Sp1ffy : teachers like to ask for more than minimum wage for to do their absolutely essential job",
+      "type": "L",
+      "timestamp": "2016-10-31 13:16:35"
+    },
+    {
+      "nodeID": "210783",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 13:16:35",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "210784",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 13:16:35",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "210785",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:16:35",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "210786",
+      "text": "[deleted] : i see",
+      "type": "L",
+      "timestamp": "2016-10-31 13:16:35"
+    },
+    {
+      "nodeID": "210787",
+      "text": "Barbara: [deleted] : i see",
+      "type": "L",
+      "timestamp": "2016-10-31 13:16:35"
+    },
+    {
+      "nodeID": "210788",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 13:16:35",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "210789",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:16:35",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    },
+    {
+      "nodeID": "210790",
+      "text": "[deleted] : does a significant percentage of teachers in this nation really only earn min. wage",
+      "type": "L",
+      "timestamp": "2016-10-31 13:16:35"
+    },
+    {
+      "nodeID": "210791",
+      "text": "Assertive Questioning",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:16:35",
+      "scheme": "AssertiveQuestioning",
+      "schemeID": "73"
+    },
+    {
+      "nodeID": "210792",
+      "text": "not a significant percentage of teachers in this nation really only earn minimal wage",
+      "type": "I",
+      "timestamp": "2016-10-31 13:16:36"
+    },
+    {
+      "nodeID": "210793",
+      "text": "Barbara: [deleted] : does a significant percentage of teachers in this nation really only earn min. wage",
+      "type": "L",
+      "timestamp": "2016-10-31 13:16:36"
+    },
+    {
+      "nodeID": "210794",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-10-31 13:16:36",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "210795",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 13:16:36",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "210796",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-10-31 13:16:36",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "257314",
+      "fromID": "210746",
+      "toID": "210747",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257315",
+      "fromID": "210745",
+      "toID": "210746",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257316",
+      "fromID": "210750",
+      "toID": "210751",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257317",
+      "fromID": "210749",
+      "toID": "210750",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257318",
+      "fromID": "210751",
+      "toID": "210753",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257319",
+      "fromID": "210753",
+      "toID": "210747",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257320",
+      "fromID": "210745",
+      "toID": "210754",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257321",
+      "fromID": "210754",
+      "toID": "210749",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257322",
+      "fromID": "210754",
+      "toID": "210755",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257323",
+      "fromID": "210755",
+      "toID": "210753",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257324",
+      "fromID": "210745",
+      "toID": "210760",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257325",
+      "fromID": "210760",
+      "toID": "210758",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257326",
+      "fromID": "210758",
+      "toID": "210761",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257327",
+      "fromID": "210761",
+      "toID": "210747",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257328",
+      "fromID": "210763",
+      "toID": "210764",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257329",
+      "fromID": "210762",
+      "toID": "210763",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257330",
+      "fromID": "210767",
+      "toID": "210768",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257331",
+      "fromID": "210766",
+      "toID": "210767",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257332",
+      "fromID": "210762",
+      "toID": "210770",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257333",
+      "fromID": "210770",
+      "toID": "210766",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257334",
+      "fromID": "210764",
+      "toID": "210771",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257335",
+      "fromID": "210771",
+      "toID": "210768",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257336",
+      "fromID": "210770",
+      "toID": "210772",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257337",
+      "fromID": "210772",
+      "toID": "210771",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257338",
+      "fromID": "210758",
+      "toID": "210773",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257339",
+      "fromID": "210773",
+      "toID": "210762",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257340",
+      "fromID": "210776",
+      "toID": "210777",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257341",
+      "fromID": "210775",
+      "toID": "210776",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257342",
+      "fromID": "210780",
+      "toID": "210781",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257343",
+      "fromID": "210779",
+      "toID": "210780",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257344",
+      "fromID": "210781",
+      "toID": "210783",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257345",
+      "fromID": "210783",
+      "toID": "210747",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257346",
+      "fromID": "210777",
+      "toID": "210783",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257347",
+      "fromID": "210758",
+      "toID": "210784",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257348",
+      "fromID": "210784",
+      "toID": "210779",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257349",
+      "fromID": "210784",
+      "toID": "210785",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257350",
+      "fromID": "210785",
+      "toID": "210783",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257351",
+      "fromID": "210779",
+      "toID": "210788",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257352",
+      "fromID": "210788",
+      "toID": "210786",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257353",
+      "fromID": "210788",
+      "toID": "210789",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257354",
+      "fromID": "210789",
+      "toID": "210781",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257355",
+      "fromID": "210791",
+      "toID": "210792",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257356",
+      "fromID": "210790",
+      "toID": "210791",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257357",
+      "fromID": "210792",
+      "toID": "210794",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257358",
+      "fromID": "210794",
+      "toID": "210781",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257359",
+      "fromID": "210779",
+      "toID": "210795",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257360",
+      "fromID": "210795",
+      "toID": "210790",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257361",
+      "fromID": "210795",
+      "toID": "210796",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "257362",
+      "fromID": "210796",
+      "toID": "210794",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "136842",
+      "text": "Wow that must really suck for those couples",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:55"
+    },
+    {
+      "nodeID": "136843",
+      "text": "Well the blame falls to the county for issuing illegal marriage licenses. Such is the price for acting outside the law.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:55"
+    },
+    {
+      "nodeID": "136844",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:43:55"
+    },
+    {
+      "nodeID": "136845",
+      "text": "Yeah, stupid Rosa Parks. What was she thinking? She didn't realize the price of acting outside the law. emoticon_rolleyes",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:55"
+    },
+    {
+      "nodeID": "136846",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:43:55"
+    },
+    {
+      "nodeID": "136847",
+      "text": "Yeah, stupid Rosa Parks. What was she thinking? She didn't realize the price of acting outside the law.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:55"
+    },
+    {
+      "nodeID": "136848",
+      "text": "You consider the county to be like Rosa Parks???",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:55"
+    },
+    {
+      "nodeID": "136849",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:43:55"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181160",
+      "fromID": "136843",
+      "toID": "136844",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181161",
+      "fromID": "136844",
+      "toID": "136842",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181162",
+      "fromID": "136845",
+      "toID": "136846",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181163",
+      "fromID": "136846",
+      "toID": "136843",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181164",
+      "fromID": "136848",
+      "toID": "136849",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181165",
+      "fromID": "136849",
+      "toID": "136847",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

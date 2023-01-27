@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141879",
+      "text": "States which don't allow people to carry concealed weapons or have strict concealed carry laws have experienced a bigger drop in violent crime. 'Between 1992 through 1998 (the last six years for which data exists), the violent crime rate in the strict and no-issue states fell 30% while the violent crime rate for states that liberalized carry laws prior to 1992 dropped half as much - by 15%. Nationally, the violent crime rate fell 25%.' http://www.bradycampaign.org/facts/research/conctruth.asp",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:52"
+    },
+    {
+      "nodeID": "141880",
+      "text": "I do not believe it. The sources cited by the pro-freedom movement are footnoted INDEPENDENT studies..  Your link states:'An analysis conducted by The Brady Center to Prevent Gun Violence'  This was biased and faked at best.... Show me..... DC Survey says! XXX Show me.... Baltimore!!!, Survey says! XXX!  They don't give links to thier data (pro-freedom sites do), They don't even break it down by state!  This whole campaign is based on an emotional response of Brady's wife... Show me... independent study! Survey says! XXX!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:52"
+    },
+    {
+      "nodeID": "141881",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:54:52"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184748",
+      "fromID": "141880",
+      "toID": "141881",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184749",
+      "fromID": "141881",
+      "toID": "141879",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

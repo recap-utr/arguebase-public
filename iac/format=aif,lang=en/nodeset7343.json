@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140990",
+      "text": "Where's the barf smiley when you need it? What guntotin' god lets stuff like this happen?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:43"
+    },
+    {
+      "nodeID": "140991",
+      "text": "The same God that created a troll like you.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:43"
+    },
+    {
+      "nodeID": "140992",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:52:43"
+    },
+    {
+      "nodeID": "140993",
+      "text": "H.CHRIST on a skateboard Comrade, why don't you just take it for what its worth?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:43"
+    },
+    {
+      "nodeID": "140994",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:52:43"
+    },
+    {
+      "nodeID": "140995",
+      "text": "My cling-on! Does your mother know you're out?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:43"
+    },
+    {
+      "nodeID": "140996",
+      "text": "I'm not out Pentroll. Im indoors.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:43"
+    },
+    {
+      "nodeID": "140997",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:52:43"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184126",
+      "fromID": "140991",
+      "toID": "140992",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184127",
+      "fromID": "140992",
+      "toID": "140990",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184128",
+      "fromID": "140993",
+      "toID": "140994",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184129",
+      "fromID": "140994",
+      "toID": "140990",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184130",
+      "fromID": "140996",
+      "toID": "140997",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184131",
+      "fromID": "140997",
+      "toID": "140995",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "136799",
+      "text": "'There is no constitutional right to be protected by the state (or Federal) against being murdered by criminals or madmen. It is monstrous if the state fails to protect its residents against such predators but it does not violate the due process clause of the Fourteenth Amendment, or, we suppose, any other provision of the Constitution. The Constitution is a charter of negative liberties: it tells the state (gov't) to let people alone; it does not require the federal government or the state to provide services, even so elementary a service as maintaining law and order' (Bowers v. DeVito, U.S. Court of Appeals, Seventh Circuit, 686F.2d 616 [1982]).",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:49"
+    },
+    {
+      "nodeID": "136800",
+      "text": "Aye there's the rub!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:43:49"
+    },
+    {
+      "nodeID": "136801",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:43:49"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181130",
+      "fromID": "136800",
+      "toID": "136801",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181131",
+      "fromID": "136801",
+      "toID": "136799",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

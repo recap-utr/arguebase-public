@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140686",
+      "text": "Life at any cost. Unless you've been there, you don't understand. It's easy to say, in good health, just how you do or do not want to live. But until you are in that situation, you truly do not have a clue as to how you really feel.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:59"
+    },
+    {
+      "nodeID": "140687",
+      "text": "I agree that the will to survive is an amazing phenomenon when put to the test. But I do not agree with your statement of life at *any* cost. There will always be a time when the humane/loving thing to do is to let an infant/child/adult go.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:59"
+    },
+    {
+      "nodeID": "140688",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:51:59"
+    },
+    {
+      "nodeID": "140689",
+      "text": "Life wins every time? It sure didn't in New Orleans and the Gulf Coast, did it? Oh, I guess the poor folks in New Orleans and the Gulf Coast weren't holy pweshious widdo fetuses so they didn't count. By way, those folks, they wanted to live. But their lives didn't win.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:59"
+    },
+    {
+      "nodeID": "140690",
+      "text": "And what does that have to do with the price of rice in China? Are you suggesting that in the event of a natural disaster you have the right to choose? If a tornado tore you from your bed and cast you into oblivion, that was your choice? Maybe so. emoticon_rolleyes No doubt many lives were lost in NO due to lack of means as well as ignorance but how that relates to convenience abortion on demand and the social acceptance of them escapes me. emoticon_wow",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:59"
+    },
+    {
+      "nodeID": "140691",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:51:59"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183906",
+      "fromID": "140687",
+      "toID": "140688",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183907",
+      "fromID": "140688",
+      "toID": "140686",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183908",
+      "fromID": "140690",
+      "toID": "140691",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183909",
+      "fromID": "140691",
+      "toID": "140689",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

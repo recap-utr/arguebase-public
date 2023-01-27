@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "154229",
+      "text": "No, it doesn't make it right but it's not right to treat women as breeding animals either.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:06"
+    },
+    {
+      "nodeID": "154230",
+      "text": "Problem is, you think requiring a woman not to kill someone is 'treating them as breeding animals'. Kind of an odd thought.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:06"
+    },
+    {
+      "nodeID": "154231",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:21:06"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193468",
+      "fromID": "154230",
+      "toID": "154231",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193469",
+      "fromID": "154231",
+      "toID": "154229",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

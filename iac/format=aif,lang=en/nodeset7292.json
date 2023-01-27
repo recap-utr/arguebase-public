@@ -1,0 +1,121 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140354",
+      "text": "Believing in stuff that there is no evidence to support is not LOGICAL.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:14"
+    },
+    {
+      "nodeID": "140355",
+      "text": "I think that's the first thing you've said (in this forum) that I agree with. Not only that, but belief in God is illogical.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:14"
+    },
+    {
+      "nodeID": "140356",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:51:14"
+    },
+    {
+      "nodeID": "140357",
+      "text": "Any of this sinking in?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:14"
+    },
+    {
+      "nodeID": "140358",
+      "text": "No. I had to include ten characters in this post",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:14"
+    },
+    {
+      "nodeID": "140359",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:51:15"
+    },
+    {
+      "nodeID": "140360",
+      "text": "Having troubles getting past step one Simone? You just gotta try harder to want a God in your life. I know that it's more useless than tits on a man but hon, you gotta open your mind and heart up to the uber-natural farces that permiate the other semi-non-existing planes of being. And if yer still having troubles wanting to believe, you can send me some money. It seems to help people want to believe if they've paid good, hard earned money for it. Something about not wanting to see your investment go to waste...or was it not wanting to be proven to be a fool who fell for a scam... But, psychologically putting money on it seems to help you believe.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:15"
+    },
+    {
+      "nodeID": "140361",
+      "text": "You have hit on something. But Christ said give all your money away and follow him, but not many believers obey this commandment. Most Christians are very interested in making more and more money. Capitalism and christianity are incompatible.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:15"
+    },
+    {
+      "nodeID": "140362",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:51:15"
+    },
+    {
+      "nodeID": "140363",
+      "text": "well, in order to give you have to have first. how can you help the poor if we are all poor?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:15"
+    },
+    {
+      "nodeID": "140364",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:51:15"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183674",
+      "fromID": "140355",
+      "toID": "140356",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183675",
+      "fromID": "140356",
+      "toID": "140354",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183676",
+      "fromID": "140358",
+      "toID": "140359",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183677",
+      "fromID": "140359",
+      "toID": "140357",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183678",
+      "fromID": "140361",
+      "toID": "140362",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183679",
+      "fromID": "140362",
+      "toID": "140360",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183680",
+      "fromID": "140363",
+      "toID": "140364",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183681",
+      "fromID": "140364",
+      "toID": "140361",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

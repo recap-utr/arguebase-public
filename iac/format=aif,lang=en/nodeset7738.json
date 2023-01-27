@@ -1,0 +1,157 @@
+{
+  "nodes": [
+    {
+      "nodeID": "147184",
+      "text": "If only widespread gun ownership was 'safe'...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:42"
+    },
+    {
+      "nodeID": "147185",
+      "text": "And I see you refuse to address my point. This argument might have some relevance and validity if you would back it up.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:42"
+    },
+    {
+      "nodeID": "147186",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:05:43"
+    },
+    {
+      "nodeID": "147187",
+      "text": "What if you kill them before they kill you? Good luck arguing to that one!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:43"
+    },
+    {
+      "nodeID": "147188",
+      "text": "So I have the choice between staying safe and then claiming insurance damages, or risking my life to kill a burglar and (likely) cause damage to my own property in the process? Somehow, I'd rather stay safe. Better to lose my laptop than my life.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:43"
+    },
+    {
+      "nodeID": "147189",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:05:43"
+    },
+    {
+      "nodeID": "147190",
+      "text": "And how many people per capita own guns in each of the areas in your table?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:43"
+    },
+    {
+      "nodeID": "147191",
+      "text": "Actually, try comparing murder rates with those of the UK - was my point, especially murder by gun. You've got your table of state shootings, and I've already argued against it.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:43"
+    },
+    {
+      "nodeID": "147192",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:05:43"
+    },
+    {
+      "nodeID": "147193",
+      "text": "A third of the nation is armed, many with weapons more powerful than the standard issue arms of the military. If we get p!$$ed off bad enough, it's gonna get very ugly. The military doesn't have the manpower to stop 100 million outraged and armed individuals.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:43"
+    },
+    {
+      "nodeID": "147194",
+      "text": "And who is going to lead them? How will they remain safe? This isn't a game of Warcraft, where the 'player' can control all individuals at the touch of a button. An organised few can defeat a disorganised many, and often do.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:43"
+    },
+    {
+      "nodeID": "147195",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:05:43"
+    },
+    {
+      "nodeID": "147196",
+      "text": "That's what the world thought about Camp Delta, and the CIA prisons, and the invasion of Iraq. Since when has the Us given a damn about the views of otherplacians?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:43"
+    },
+    {
+      "nodeID": "147197",
+      "text": "I think a more sensible question would be 'How is this relevant?'.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:43"
+    },
+    {
+      "nodeID": "147198",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:05:43"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "188502",
+      "fromID": "147185",
+      "toID": "147186",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188503",
+      "fromID": "147186",
+      "toID": "147184",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188504",
+      "fromID": "147188",
+      "toID": "147189",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188505",
+      "fromID": "147189",
+      "toID": "147187",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188506",
+      "fromID": "147191",
+      "toID": "147192",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188507",
+      "fromID": "147192",
+      "toID": "147190",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188508",
+      "fromID": "147194",
+      "toID": "147195",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188509",
+      "fromID": "147195",
+      "toID": "147193",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188510",
+      "fromID": "147197",
+      "toID": "147198",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188511",
+      "fromID": "147198",
+      "toID": "147196",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "156790",
+      "text": "A mother who killed herself and her disabled daughter had been terrorised by a gang of youths and had her repeated pleas for help ignored by police, an inquest was told yesterday.  ... The single mother, her daughter and teenage son, Anthony, had endured ten years of being virtual prisoners in their own home as a gang of up to 16 'street kids' tormented them for simply 'existing' Despite Mrs Pilkington and her family repeatedly calling the police and reporting that they had received death threats, she was told to close her curtains and ignore the children, a jury was told. A Leicestershire Police log shows that she called them more than twenty times in seven years to say that her severely dyslexic son's life had been threatened, her daughter, who had acute special needs, was being bullied and her house was under attack from the gang of youths.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:54"
+    },
+    {
+      "nodeID": "156791",
+      "text": "I know a bit about this myself. However the difference is that I was allowed to carry a gun under the reasonable man statute.  An Armed person truly cannot be bullied! The old saying is. God created man and Samuel Colt made them equal! Old, disabled, female and all, are on an equal footing with these vicious predators!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:54"
+    },
+    {
+      "nodeID": "156792",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:26:54"
+    },
+    {
+      "nodeID": "156793",
+      "text": "If only she'd been allowed to have a gun she could have what? Shot or threatened to shoot someone?  'Boys and girls as young as 10', the story says. They threw 'rocks and eggs' at her house. They don't kill you for that in England, Texas maybe.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:54"
+    },
+    {
+      "nodeID": "156794",
+      "text": "You have any examples of that? Shooting people for throwing rocks and eggs at houses that is.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:54"
+    },
+    {
+      "nodeID": "156795",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:26:54"
+    },
+    {
+      "nodeID": "156796",
+      "text": "Actually in high school I had a friend who used to be in placement. He was sixteen years old an he said he got the s*** beat out of him by an eight year old boy. 'Street kids' get their XXX beat every day, pain is nothing new to them. It seems they're immune to it. It doesn't matter how hard you can hit, if you can't take a punch, then you can't call yourself street-worthy.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:26:54"
+    },
+    {
+      "nodeID": "156797",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:26:54"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195278",
+      "fromID": "156791",
+      "toID": "156792",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195279",
+      "fromID": "156792",
+      "toID": "156790",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195280",
+      "fromID": "156794",
+      "toID": "156795",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195281",
+      "fromID": "156795",
+      "toID": "156793",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195282",
+      "fromID": "156796",
+      "toID": "156797",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195283",
+      "fromID": "156797",
+      "toID": "156793",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

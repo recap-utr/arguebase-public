@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "137078",
+      "text": "If everyone had both male and female reproductive organs (and, for the sake of argument, they could not impregnate themselves), in what ways do you believe the general view on abortion would change? No change, more pro choice, or more pro life? Why? Before you answer, take a second to actually invision that society.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:22"
+    },
+    {
+      "nodeID": "137079",
+      "text": "Interesting thought..... such a situation would theorectically remove the division of opinion that exists based upon the perspective of gender (ie. the pro-life religious male) and would make any difference of opinion be based on moral/philosophical considerations alone. You could argue it would shift opinion towards the mix currently held by women as everyone would be in the position of having to bear pregnancy. Given that there is a full mix of religious and other beliefs in the current day female population perhaps this would be a good analogy to such a state of being you suggest.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:22"
+    },
+    {
+      "nodeID": "137080",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:44:23"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181338",
+      "fromID": "137079",
+      "toID": "137080",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181339",
+      "fromID": "137080",
+      "toID": "137078",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

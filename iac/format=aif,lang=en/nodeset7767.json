@@ -1,0 +1,139 @@
+{
+  "nodes": [
+    {
+      "nodeID": "147720",
+      "text": "mercy and killing should never be put together. there is no such thing as having so much compassion that justifies you putting a toddler to death. Dont people realize that children are gifts and not something that should be taken so lightly as to steep so low in stopping a beating heart all for the sake of selfishness and convenience for one's self.. There is absolutely no thought whatsoever in the baby, its all about 'how can i live easier without this problem?'. there is no such thing as compassionate killing. What it really means is 'killing in the name of mercy for my comfort'. people need to start realizing that the world doesnt revolve around them and that life itself is a gift TO ALL! EVEN THOSE LITTLE ONES THAT PEOPLE RIGHT NOW THINK DONT HAVE ANY RIGHT TO LIVE. look in the mirror!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:06:52"
+    },
+    {
+      "nodeID": "147721",
+      "text": "My life was a gift from my parents, no more, no less. When i look in the mirror, i do not see an embryo. If someone gives you something, they have every right to take it away if they feel you are not suited to handle it, or if they had second thoughts. I would think this was ok if the baby was stopped in an earlier stage, but once its in its third trimester, you have no right to kill it.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:06:52"
+    },
+    {
+      "nodeID": "147722",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:06:52"
+    },
+    {
+      "nodeID": "147723",
+      "text": "To point our an error, i believe the baby was at the infant stage, not the toddler.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:06:52"
+    },
+    {
+      "nodeID": "147724",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:06:52"
+    },
+    {
+      "nodeID": "147725",
+      "text": "Well, your parents' parents also had parents who had parents who had parents which all streams back down to 2 people who God created...adam and eve. so ultimately your life is a gift from God because the whole human race was created by Him.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:06:53"
+    },
+    {
+      "nodeID": "147726",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:06:53"
+    },
+    {
+      "nodeID": "147727",
+      "text": "Why do you assume your mythology has any weight on me? Can you give me any scientific evidence Adam And eve existed? Can you back up your statement about 'God creating everything?'.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:06:53"
+    },
+    {
+      "nodeID": "147728",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:06:53"
+    },
+    {
+      "nodeID": "147729",
+      "text": "Nopers, VT! We all crawled out of the muck.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:06:53"
+    },
+    {
+      "nodeID": "147730",
+      "text": "where did the muck come from?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:06:53"
+    },
+    {
+      "nodeID": "147731",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:06:53"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "188880",
+      "fromID": "147721",
+      "toID": "147722",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188881",
+      "fromID": "147722",
+      "toID": "147720",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188882",
+      "fromID": "147723",
+      "toID": "147724",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188883",
+      "fromID": "147724",
+      "toID": "147720",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188884",
+      "fromID": "147725",
+      "toID": "147726",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188885",
+      "fromID": "147726",
+      "toID": "147721",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188886",
+      "fromID": "147727",
+      "toID": "147728",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188887",
+      "fromID": "147728",
+      "toID": "147725",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188888",
+      "fromID": "147730",
+      "toID": "147731",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188889",
+      "fromID": "147731",
+      "toID": "147729",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

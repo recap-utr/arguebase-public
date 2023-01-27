@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139402",
+      "text": "You are FINALLY catching on. This is why we go to war against folks like Saddam regarding WMDs, or declare sanctions against Syria and Irans, but we do not go to war with the french or the british over WMD's. WMD's are inanimate objects, and we all know that inanimate objects are incapable of waging wars. We also know that instable governments and tyrannical leaders are fully capable of waging war, and have done so in the past.  It is good to see some of the GG's finally coming over to the side of comon sense!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:00"
+    },
+    {
+      "nodeID": "139403",
+      "text": "I think that the type of weapon does make a difference. A tyrant would be more dangerous to the world if he was armed with WMDs rather than knives.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:00"
+    },
+    {
+      "nodeID": "139404",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:49:00"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183000",
+      "fromID": "139403",
+      "toID": "139404",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183001",
+      "fromID": "139404",
+      "toID": "139402",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "147558",
+      "text": "** So why not call your 'multiverse' , 'god', and be done with it?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:06:25"
+    },
+    {
+      "nodeID": "147559",
+      "text": "Because the common defintions of God include such characteristics as sentience, omnipotence, omniscience, etc, none of which would apply to a multiverse. All you're trying to do here is say that God exists by changing the defintion of God. That's cheating.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:06:25"
+    },
+    {
+      "nodeID": "147560",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:06:26"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "188764",
+      "fromID": "147559",
+      "toID": "147560",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188765",
+      "fromID": "147560",
+      "toID": "147558",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

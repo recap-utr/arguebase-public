@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "137170",
+      "text": "See above.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:32"
+    },
+    {
+      "nodeID": "159233",
+      "text": "What sort of different laws? Also, note that Omegamon/Ethmi's argument is often 'we don't want any more laws, criminals don't obey them anyway!' The main reason, however, is the 'less guns in the hands of criminals'.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:25"
+    },
+    {
+      "nodeID": "159234",
+      "text": "And you've never hesitated to make it sound like we want to do away with law, when in fact, we're just pointing out that criminals won't follow them if they're passed.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:25"
+    },
+    {
+      "nodeID": "159235",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:32:25"
+    },
+    {
+      "nodeID": "159236",
+      "text": "guns are fully legal - there was even a notice in our local gym saying 'please leave your firearms at home'. However, Johannesburgh, where I'm staying, is often considered the 'crime capital of the world'. While I freely concede that SA is not exactly a first world country, wouldn't you think that gun ownership would prevent all those crimes? Feel free to tear this apart as you see fit, but remember that you still have to prove your argument as well as removing mine...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:25"
+    },
+    {
+      "nodeID": "159237",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:32:25"
+    },
+    {
+      "nodeID": "159238",
+      "text": "That's because legal gun owners (at least the majority of them), aren't criminals. They follow most gun laws.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:25"
+    },
+    {
+      "nodeID": "159239",
+      "text": "So? The majority of most people aren't criminals, and follow most laws. How is this different?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:25"
+    },
+    {
+      "nodeID": "159240",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:32:25"
+    },
+    {
+      "nodeID": "159241",
+      "text": "We've been over this many many times before...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:25"
+    },
+    {
+      "nodeID": "159242",
+      "text": "And you continually refuse to learn the facts of the matter.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:26"
+    },
+    {
+      "nodeID": "159243",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:32:26"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "197026",
+      "fromID": "159234",
+      "toID": "159235",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197027",
+      "fromID": "159235",
+      "toID": "159233",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197028",
+      "fromID": "137170",
+      "toID": "159237",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197029",
+      "fromID": "159237",
+      "toID": "159236",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197030",
+      "fromID": "159239",
+      "toID": "159240",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197031",
+      "fromID": "159240",
+      "toID": "159238",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197032",
+      "fromID": "159242",
+      "toID": "159243",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197033",
+      "fromID": "159243",
+      "toID": "159241",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

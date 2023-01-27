@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "162012",
+      "text": "Jews and homosexuals and Slavs are people, (I don't see any debate professing otherwise). They were seperate and independent from the womb and were capable of surviving without someone else's uterus at the point in which they were murdered.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:56"
+    },
+    {
+      "nodeID": "162013",
+      "text": "So your definition of 'human being' is someone who has already been born? Many fetuses are capable of surviving separate from there mother. In that case, by your definition, they are human beings.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:56"
+    },
+    {
+      "nodeID": "162014",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:38:57"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "199016",
+      "fromID": "162013",
+      "toID": "162014",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199017",
+      "fromID": "162014",
+      "toID": "162012",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

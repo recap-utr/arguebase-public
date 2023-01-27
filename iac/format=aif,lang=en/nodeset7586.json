@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "144476",
+      "text": "No..... I don't like it. Marriage is a specially protected government institution for a reason....... namely that the family unit is the backbone of society. Redefining this government institution means weakening society as a whole.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:15"
+    },
+    {
+      "nodeID": "144477",
+      "text": "You mean like the constitution? Like renaming all of the rights and protections some get others do not. Like redefining all of the benefits that this staple of american society so depends on? Like...I would...saaay the 14th ammendment perhaps to only inlcude some people and not others and ignore the fact it is the baisis of our socierty here in the USA?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:15"
+    },
+    {
+      "nodeID": "144478",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:00:15"
+    },
+    {
+      "nodeID": "144479",
+      "text": "Gay 'couples' do not deserve the right to get tax breaks...... Marriage between a man and a woman is protected so that families produce offspring that will allow society to continue to grow and survive.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:15"
+    },
+    {
+      "nodeID": "144480",
+      "text": "So therefore gay couples who have children via adoption or a other methods should be deined such tax breaks?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:15"
+    },
+    {
+      "nodeID": "144481",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:00:15"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186592",
+      "fromID": "144477",
+      "toID": "144478",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186593",
+      "fromID": "144478",
+      "toID": "144476",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186594",
+      "fromID": "144480",
+      "toID": "144481",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186595",
+      "fromID": "144481",
+      "toID": "144479",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

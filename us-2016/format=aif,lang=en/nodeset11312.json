@@ -1,0 +1,108 @@
+{
+  "nodes": [
+    {
+      "nodeID": "208948",
+      "text": "TRUMP will build a wall based on the statement of some guy",
+      "type": "I",
+      "timestamp": "2016-10-26 11:41:12"
+    },
+    {
+      "nodeID": "208950",
+      "text": "TRUMP : BAM I'll build a wall based on the statement of some guy",
+      "type": "L",
+      "timestamp": "2016-10-26 11:41:12"
+    },
+    {
+      "nodeID": "251164",
+      "text": "TRUMP : we need, Jeb, to build a wall,",
+      "type": "L",
+      "timestamp": "2016-12-21 17:37:06"
+    },
+    {
+      "nodeID": "251166",
+      "text": "we need, BUSH, to build a wall",
+      "type": "I",
+      "timestamp": "2016-12-21 17:37:06"
+    },
+    {
+      "nodeID": "264601",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-09 17:41:31",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "264602",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 17:41:31",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264603",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-09 17:41:32",
+      "scheme": "Restating",
+      "schemeID": "101"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "320276",
+      "fromID": "208948",
+      "toID": "264601",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320277",
+      "fromID": "264601",
+      "toID": "251166",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320278",
+      "fromID": "251164",
+      "toID": "264602",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320279",
+      "fromID": "264602",
+      "toID": "208950",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320280",
+      "fromID": "264602",
+      "toID": "264603",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320281",
+      "fromID": "264603",
+      "toID": "264601",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "208950",
+      "personID": "1602",
+      "timestamp": "2016-10-26 11:42:37",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "208950",
+      "personID": "1602",
+      "timestamp": "2016-10-30 18:50:06",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

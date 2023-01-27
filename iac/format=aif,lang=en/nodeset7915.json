@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "149854",
+      "text": "This would disprove your atheism.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:31"
+    },
+    {
+      "nodeID": "149855",
+      "text": "And you determined that I am an atheist exactly how?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:31"
+    },
+    {
+      "nodeID": "149856",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:11:31"
+    },
+    {
+      "nodeID": "149857",
+      "text": "It can be the result of the same questionings that scientists have but just on a different plane. Faith and reason are not always perpendicular but they are often times parallel. Because one holds a certain dogma dealing with a particular subject does not mean he is closed minded on every other subject.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:31"
+    },
+    {
+      "nodeID": "149858",
+      "text": "Well, that may be true. But the U.S. is blessed with an unusual number of people in which this is not true. One particular brand of christianity that is mostly limited to the U.S. actually rejects science based on mythology. Their religious dogma closes their mind to the reality around them.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:31"
+    },
+    {
+      "nodeID": "149859",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:11:31"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "190386",
+      "fromID": "149855",
+      "toID": "149856",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190387",
+      "fromID": "149856",
+      "toID": "149854",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190388",
+      "fromID": "149858",
+      "toID": "149859",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190389",
+      "fromID": "149859",
+      "toID": "149857",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

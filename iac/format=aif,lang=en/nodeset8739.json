@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "162015",
+      "text": "There are in fact no transitional fossils known. Some believe there are because they have been told there are. An examination of the fossils proves otherwise. What there are however, is thousands of animals in fossils which exist exactly today as they did hundreds of millions of years ago without noticable change. .",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:57"
+    },
+    {
+      "nodeID": "162016",
+      "text": "So do you think that the earth is hundreds of millions of years old?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:57"
+    },
+    {
+      "nodeID": "162017",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:57"
+    },
+    {
+      "nodeID": "162018",
+      "text": "All attempts to find a mechanism for evolution in microbiology are futile.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:58"
+    },
+    {
+      "nodeID": "162019",
+      "text": "And what mechanisms are you specifically saying are futile?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:58"
+    },
+    {
+      "nodeID": "162020",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:58"
+    },
+    {
+      "nodeID": "162021",
+      "text": "If evolution occurs to all life forms, there could be no life forms today which have not evolved, because all life would be in transition.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:58"
+    },
+    {
+      "nodeID": "162022",
+      "text": "And all life is in transition. Even the roach. Bacteria as we speak are evolving.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:58"
+    },
+    {
+      "nodeID": "162023",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:58"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "199018",
+      "fromID": "162016",
+      "toID": "162017",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199019",
+      "fromID": "162017",
+      "toID": "162015",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199020",
+      "fromID": "162019",
+      "toID": "162020",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199021",
+      "fromID": "162020",
+      "toID": "162018",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199022",
+      "fromID": "162022",
+      "toID": "162023",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199023",
+      "fromID": "162023",
+      "toID": "162021",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "144473",
+      "text": "Do sufficient science and history in its total amount to enough evidence to conclusively disprove the existence of God? :)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:14"
+    },
+    {
+      "nodeID": "144474",
+      "text": "I think perhaps you're confused. 1. I know of no meaningful definion of the term 'god' as it pertains to reality. 2. When you mention science and history, that implies you are interested in reality. 3. There is no evidence to support mythological deities, god or God or Odin or the easter bunny. * So, yes THERE IS NO EVIDENCE of the existence of any mytholgoical gods. ** Yes, there is no evidence that the universe was created, or if that statement even has meaning if the universe always was, and always will be. p.s. There is easter bunny. -Mach",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:14"
+    },
+    {
+      "nodeID": "144475",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:00:14"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186590",
+      "fromID": "144474",
+      "toID": "144475",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186591",
+      "fromID": "144475",
+      "toID": "144473",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

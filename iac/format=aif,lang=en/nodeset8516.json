@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "158386",
+      "text": "If you want a contradiction how about conservatives who are against abortion, but advocate the death penalty, Who think nothing of sending their sons and daughters off to die in war with someone who was not a real threat and call it patriotism. Who, with one hand, sell the very weapons they condemn with the other. That is your real contradiction",
+      "type": "I",
+      "timestamp": "2016-03-08 20:30:40"
+    },
+    {
+      "nodeID": "158387",
+      "text": "You are clearly against the Iraq War, and this isn't what I was planning to debate. I think the Pro-lifers have an edge on the contradiction between abortion and the death penalty because one is the ending of an innocent life, while the other is of a guilty person's life. I think every soldier who gives his life in a justified or an ambiguous war should be honored by all Americans for giving his or her life for their country, and yes, I do believe they are patriots!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:30:40"
+    },
+    {
+      "nodeID": "158388",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:30:41"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196412",
+      "fromID": "158387",
+      "toID": "158388",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196413",
+      "fromID": "158388",
+      "toID": "158386",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

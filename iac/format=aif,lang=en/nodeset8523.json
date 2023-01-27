@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "158613",
+      "text": "I checked my email today and noticed that I had received a few emails from the Brady Campaign. I'll quote from the emails. 'Smile ... within the last hour, thanks to your help, we achieved a HUGE victory. By a vote of 52 to 47, the Senate passed a renewal of the Assault Weapons Ban. Senators also agreed, 53 to 46, to close the notorious 'gun show loophole' that made it possible for criminals to buy firearms at gun shows without background checks.'  'Whatever's bigger than a smile, do it right now. We've had a real victory today. The NRA's hideous immunity bill is dead and it deserves to be. The bill that would have given immunity to Bull's Eye, the gun dealer who armed the D.C. snipers, and other reckless gun dealers has been killed. It's the most historic day for gun safety policy in the ten years since Congress passed the landmark Brady Bill. '",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:06"
+    },
+    {
+      "nodeID": "158614",
+      "text": "Once again the enemies of freedom have backhandedly slipped under the radar with nonsensical gun legislation designed to make criminals out of law abiding citizens...  To obey the law is to break the law....",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:06"
+    },
+    {
+      "nodeID": "158615",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:31:06"
+    },
+    {
+      "nodeID": "158616",
+      "text": "As usual, the Brady campaign is lying. The senate voted by a narrow margin to attach the riders to the manufaturers liability bill. Then the senate voted and the bill as a whole was defeated 90-8.  Even if it HAD passed the senate (which we knew it wouldn't) it was expected to be killed in the house.  Here is an article on it: http://www.news-miner.com/Stories/0,1413,113~7244~1993580,00.html The decisive moment seemed to be during the later arguments on the bill. While they were debating whether or not to ammend the bill to include the assault weapons ban, Feinstein (d-california) claimed that the assault weapons ban legislation 'has reduced the proportion of banned assault weapons traced to crime by two-thirds.'  During final arguments before the completed bill was voted on, Craig (R-Idaho) and Young (R-Alaska) got up there and completely shredded her numbers. IT was made very clear by the end that she was a liar.  God, I love Cspan! Of course, the Brady campaign has labeled this a 'victory'. They can have all the victories like that (where nothing at all happens) that they can handle.  Teh house is still expected to pass the gun makers protection bill WITHOUT the riders. Senate leadership suggests that it can be fully expected to pass in the senate 'the democrats simply don't have enough votes to stop it'.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:06"
+    },
+    {
+      "nodeID": "158617",
+      "text": "my my you are up on the current events. Thanks for shedding light on this for everyone here.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:06"
+    },
+    {
+      "nodeID": "158618",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:31:07"
+    },
+    {
+      "nodeID": "158619",
+      "text": "The the price of freedom = vigilance.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:31:07"
+    },
+    {
+      "nodeID": "158620",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:31:07"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196584",
+      "fromID": "158614",
+      "toID": "158615",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196585",
+      "fromID": "158615",
+      "toID": "158613",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196586",
+      "fromID": "158617",
+      "toID": "158618",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196587",
+      "fromID": "158618",
+      "toID": "158616",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196588",
+      "fromID": "158619",
+      "toID": "158620",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196589",
+      "fromID": "158620",
+      "toID": "158617",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,121 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140320",
+      "text": "i worry that the same law makers who push for registration are the same ones who want to ban all guns. for an example 'If I could have gotten 51 votes in the Senate of the United States for an outright ban, picking up every one of them, Mr. and Mrs. America, turn them all in, I would have done it.' -Senator Dianne Feinstein, D-Calif, discussing the 1994 'crime bill',",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:10"
+    },
+    {
+      "nodeID": "140321",
+      "text": "So what. Congress can pass any law it wants. Doesn't mean it will stand up in court. The first portion, 'A well regulated Militia, being necessary to the security of a free State,' is a qualifier to what follows 'the right of the people to keep and bear Arms, shall not be infringed.' It seems pretty clear to me. But I'm not one of the Justices. This decision has been made, although I don't like it or agree with it. I don't see where today's hobbyist meets the intent - most especially in the well-regulated part. But there comes a point where what the dead guys thought just doesn't matter that much. It is 200+ years later. They left us with the ability to adjust with time and we've done that. They recognized their own shortcomings which might have the the wisest thing they did. The current interpretation is clear. We look at the last portion of the statement only. I don't think that, as I said before, a little common sense, is going to alter the interpretation in any meaningful way. After all, I could easily argue (if I was totally stupid) that my front yard is the perfect place for a working cannon. We both know that isn't going to fly. Just where does the armament argument end. With a cannon? Or with a Nuc. Let's face it. They said arms and they meant arms. Not guns. They'd probably let me have the cannon. The founding fathers never envisioned the kind of weapons we'd have available today or what they'd be used for. That's why their thoughts are purposely criptic and open ended. Since we will always draw the line someplace, why not draw it at a good compromise between you and me.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:10"
+    },
+    {
+      "nodeID": "140322",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:51:10"
+    },
+    {
+      "nodeID": "140323",
+      "text": "The outlawing of guns, and an increased presence of government in our homes, go hand in hand.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:10"
+    },
+    {
+      "nodeID": "140324",
+      "text": "and to think we got back a few gun rights, and we still have the patriot act. i know all the reasons given for why 'THEY' want to disarm us, what I am trying to understand is why one person wants to see them outlawed.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:10"
+    },
+    {
+      "nodeID": "140325",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:51:10"
+    },
+    {
+      "nodeID": "140326",
+      "text": "You asked where the line should be drawn in regards to weapons? How about where ownership and use of weapons does not violate the rights of others.  Before you respons think about it. Do anything you want. If I don't violate anyone then what is the beef? If I don't break any laws or endanger anyone what is the beef? The safe storage and handling of cannon, cannon propellant, and cannon ammo is well known. They can be stored in places typical of homes without violating the rights of others. BTW a cannon is not a weapon. It is considered a 'firework' by the ATF. Ever see a civil war renactment? Lots of cannons? So yes having a cannon in your front yard does fly.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:10"
+    },
+    {
+      "nodeID": "140327",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:51:10"
+    },
+    {
+      "nodeID": "140328",
+      "text": "So what. Congress can pass any law it wants. Doesn't mean it will stand up in court.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:10"
+    },
+    {
+      "nodeID": "140329",
+      "text": "Yes, because congresses powers are actually pretty limited. It hink it will be interesting to see how the 2 upcoming supreme court cases (one has already been accepted, the other is pretty much a shoe in) regarding the commerce clause will be handled, since the majority of the laws that congress passes are tied to it.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:10"
+    },
+    {
+      "nodeID": "140330",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:51:10"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183648",
+      "fromID": "140321",
+      "toID": "140322",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183649",
+      "fromID": "140322",
+      "toID": "140320",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183650",
+      "fromID": "140324",
+      "toID": "140325",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183651",
+      "fromID": "140325",
+      "toID": "140323",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183652",
+      "fromID": "140326",
+      "toID": "140327",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183653",
+      "fromID": "140327",
+      "toID": "140321",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183654",
+      "fromID": "140329",
+      "toID": "140330",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183655",
+      "fromID": "140330",
+      "toID": "140328",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

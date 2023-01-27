@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152356",
+      "text": "I think that you're right to point out that both human DNA along with consciousness is necessary since there is life that is conscious but doesn't have human DNA(dogs, cats, etc.) and there are bodies that have human DNA, yet are dead (we're buried with out human DNA intact). But I actally disagreewith 'consciousness' being a necessary quality of 'human beings', since it's unreasonable to believe that we stop being people when we go to sleep. But maybe you have a more nuanced definition of 'consciousness'.  Same as above, do you believe that a person in a coma is no longer a 'Human Being' ?  --",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:52"
+    },
+    {
+      "nodeID": "152357",
+      "text": "I believe once you have the rights granted persons that they may not be taking away because you are asleep or in a coma. Not unless of course it can be shown that higher brain activity has ceased and there is no reasonable expectation that it could return.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:52"
+    },
+    {
+      "nodeID": "152358",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:16:52"
+    },
+    {
+      "nodeID": "152359",
+      "text": "Consciousness, along with human DNA.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:52"
+    },
+    {
+      "nodeID": "152360",
+      "text": "I think that you're right to point out that both human DNA along with consciousness is necessary since there is life that is conscious but doesn't have human DNA(dogs, cats, etc.) and there are bodies that have human DNA, yet are dead (we're buried with our human DNA intact). But I actally disagreewith 'consciousness' being a necessary quality of 'human beings', since it's unreasonable to believe that we stop being people when we go to sleep. But maybe you have a more nuanced definition of 'consciousness'.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:52"
+    },
+    {
+      "nodeID": "152361",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:16:52"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192146",
+      "fromID": "152357",
+      "toID": "152358",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192147",
+      "fromID": "152358",
+      "toID": "152356",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192148",
+      "fromID": "152360",
+      "toID": "152361",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192149",
+      "fromID": "152361",
+      "toID": "152359",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

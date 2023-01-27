@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "144664",
+      "text": "So, in other words, you an intelligent actor weed out the programs that don't look like anything that resembles a living thing. Then you keep building up on the programs that look most like life. You are the creator of this cyber-universe! So much for 'natural' selection!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:36"
+    },
+    {
+      "nodeID": "144665",
+      "text": "well yes that's what he did, but he did not try to present this as positive evidence for anything. the biomorphs were used to illustrate the point that random mutations are much more likely to produce beneficial results when the mutations are small.  analogies always break down at some level, this analogy was used to illustrate a certain point. the assertion that dawkins was suggesting that a biomorph happening to look like a real life object were proof that evolution and natural selection could produce such creatures is false.  montalban, to restore integrity i suggest you retract the conclusion you drew from snippets and quotes from dawkins as your paraphrasing was clearly not representative of dawkins' ideas.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:36"
+    },
+    {
+      "nodeID": "144666",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:00:36"
+    },
+    {
+      "nodeID": "144667",
+      "text": "So, this magical program that is supposed to represent life actually can also produce aeroplanes! I'd like to see DNA morph into such things!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:36"
+    },
+    {
+      "nodeID": "144668",
+      "text": "you based this (and other claims) on a summary of the biomorphs program at website that either a) didn't also provide dawkins limitations on the program or b) had the limitations and you didn't bother to relay this information to the forum. You then make incredulous statements about how unrealistic the biomorphs are.  any quotations of web pages are irrelevant because they do not address the basic issue that you are suggesting dawkins puts the biomorphs forth as a model of evolution and natural selection. This is not true as i have quoted part of his book that puts limitations on the biomorphs program, and draws attention to what 'morals' should be drawn out of the biomorphs.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:36"
+    },
+    {
+      "nodeID": "144669",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:00:37"
+    },
+    {
+      "nodeID": "144670",
+      "text": "Biomorphs are an embarrassing attempt to explain just how a complex structure such as an eye might come about by gradual mutations, except they only do this by fooling you into believing the program mimics a natural possibility - when it can't, not when you are running the program and interfering at will.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:37"
+    },
+    {
+      "nodeID": "144671",
+      "text": "no they are not. you quote a web site that is not dawkin's interpretations of biomorphs and suggest that the web site's interpretation is what dawkins created biomorphs for.  it is outlines very clearly in 'the blind watchmaker' as to what limitations should be put on the biomorphs when comparing them to real life.  again i say to reclaim integrity admit that dawkins never suggested that biomorphs should be considered as a model for evolution or natural selection, and there was only one main point to be taken from them (small mutations are more likely to produce benefits than large mutations).",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:37"
+    },
+    {
+      "nodeID": "144672",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:00:37"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186734",
+      "fromID": "144665",
+      "toID": "144666",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186735",
+      "fromID": "144666",
+      "toID": "144664",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186736",
+      "fromID": "144668",
+      "toID": "144669",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186737",
+      "fromID": "144669",
+      "toID": "144667",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186738",
+      "fromID": "144671",
+      "toID": "144672",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186739",
+      "fromID": "144672",
+      "toID": "144670",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

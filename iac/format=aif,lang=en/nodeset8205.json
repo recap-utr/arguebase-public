@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "153980",
+      "text": "Originally posted by voiceofreason When other people quote statistics that you disagree with you say statistics is a game? When you quote statistics like your claim that cost of Canada's gun registration program was underestimated by 49,000% you expect us to take you seriously? Hypocritical to say the least.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:20:32"
+    },
+    {
+      "nodeID": "153981",
+      "text": "Yeah, yeah we can all do math. Why do you even bother? You said statistics is just a game. -VOR Take it seriously.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:20:32"
+    },
+    {
+      "nodeID": "153982",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:20:32"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193294",
+      "fromID": "153981",
+      "toID": "153982",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193295",
+      "fromID": "153982",
+      "toID": "153980",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

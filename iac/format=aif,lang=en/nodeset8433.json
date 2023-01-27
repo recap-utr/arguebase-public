@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157385",
+      "text": "What then do you think of the idea that they stop you taking a gun onto a plane... do you still feel safe? Aren't they stopping you're exercising constitutional rights?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:13"
+    },
+    {
+      "nodeID": "157386",
+      "text": "Actually Kelvin wants people to be able to bring guns onto planes. In my debate with him he said it would be alright if a group of arabs in body armor and heavily armed walked onto the plane as long as they had tickets for the flight. He didn't want their intentions questioned at all as to why they were doing what they were. He will defend the constitutional rights to no end but will ignore all logic in the process.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:13"
+    },
+    {
+      "nodeID": "157387",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:28:13"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195698",
+      "fromID": "157386",
+      "toID": "157387",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195699",
+      "fromID": "157387",
+      "toID": "157385",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

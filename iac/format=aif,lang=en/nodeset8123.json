@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152768",
+      "text": "If a woman isn't allowed access to the morning after pill, isn't allowed to have an abortion, and is forced to have a child, that will completely change her life. If a woman takes the morning after pill, later she may decide to have a family.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:42"
+    },
+    {
+      "nodeID": "152769",
+      "text": "And if she doesn't she could've just made a terrible mistake. If she takes it and decides to have a family, she can try again. Unfortunately, if the conservatives get their way, this won't be an option if you turn it around.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:42"
+    },
+    {
+      "nodeID": "152770",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:17:43"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192434",
+      "fromID": "152769",
+      "toID": "152770",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192435",
+      "fromID": "152770",
+      "toID": "152768",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

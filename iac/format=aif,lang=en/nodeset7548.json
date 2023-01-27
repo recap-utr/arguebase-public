@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143865",
+      "text": "Originally posted by fallingupwards  i'm sure every old person from the time of FDR to the present was very pleased to receive their social security check when they turned 66 years old. if we dont continue running on a deficit, then our generation will receive a check too. and who knows, you might really really NEED it. many old people use it to help pay for their prescriptions. its easy to condemn social security when you're young, but just you wait until retirement age.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:02"
+    },
+    {
+      "nodeID": "143866",
+      "text": "When FDR started social security he was betting that most americans would not be around to collect. The average life span at the time was below 66 years. Since then americans have been insulting the state and disrupting it's plans by not dying young enough.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:02"
+    },
+    {
+      "nodeID": "143867",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:59:02"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186170",
+      "fromID": "143866",
+      "toID": "143867",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186171",
+      "fromID": "143867",
+      "toID": "143865",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

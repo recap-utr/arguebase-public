@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143480",
+      "text": "Of course, according to creationists, this mutation which resulted in two alleles in the human genome where there had previously been one is a reduction in 'information.' Everyone knows that 2 is less than 1.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:13"
+    },
+    {
+      "nodeID": "143481",
+      "text": "And/or, that it must have been Almighty God himself who zapped that little DNA nucleotide, because we all know that beneficial mutations never occur naturally :-)  I liked this part, which is yet another link showing relatedness between humans and fish. Creationists just hate this kind of evidence.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:13"
+    },
+    {
+      "nodeID": "143482",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:58:13"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185892",
+      "fromID": "143481",
+      "toID": "143482",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185893",
+      "fromID": "143482",
+      "toID": "143480",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

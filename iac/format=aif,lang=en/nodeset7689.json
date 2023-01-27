@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "146295",
+      "text": "Human beings are naturally chaotic and posses a strong sense of 'evil', so how do we stop self destruction? The Bible. The bible was created for control, without the bible, without the promise of being rewarded for your kindness and brotherhood on earth, humans would have no reason to surpress their natural tendencies. If there was no bible and no promise of an after life why would a slave want to endure such a horrible life? He wouldn't, he would kill himself or his master, but no, If he does good on earth and believes in the 'lord' he will be rewarded. CONTROL.  In the book the Lord of the Flies the young boys are stranded by themselves with no adults, they start off normal, as if there were adults still present. But, as time goes on, the lack of an authoritve figure begins to change their mental state. They become what humans naturally are, primal and sinister. The point is that without adults the children changed, became evil, so just as the children need control, who controls the adults? God. The bible is nothing more than a book of morals meant to give those who have nothing to live for a reason to live. Why spend your life thanking someone for creating you, created you to worship him, when you can just live. Who cares who or what we came from, live in the present, think about the future.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:58"
+    },
+    {
+      "nodeID": "146296",
+      "text": "So,are you saying that all athiest are evil and on the verge of self destruction?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:58"
+    },
+    {
+      "nodeID": "146297",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:03:58"
+    },
+    {
+      "nodeID": "146298",
+      "text": "The Bible. The bible was created for control, without the bible, without the promise of being rewarded for your kindness and brotherhood on earth, humans would have no reason to surpress their natural tendencies.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:58"
+    },
+    {
+      "nodeID": "146299",
+      "text": "And that is why Bible thumpers are so dangerous. The have so little self respect and so little respect for others that they need the thread of eternal punishment to keep them in check. Thank God for the Bible to frighten you into honorable behavior.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:58"
+    },
+    {
+      "nodeID": "146300",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:03:58"
+    },
+    {
+      "nodeID": "146301",
+      "text": "The bible is nothing more than a book of morals meant to give those who have nothing to live for a reason to live.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:58"
+    },
+    {
+      "nodeID": "146302",
+      "text": "And those who respect themselves and others don't need that book of morality.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:59"
+    },
+    {
+      "nodeID": "146303",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:03:59"
+    },
+    {
+      "nodeID": "146304",
+      "text": "No, I am saying that religon is a tool and some people need it. I myslef am athiest/agnostic but I am able to control myself without the bible. The bible isn't needed as much nowdays as it was in the past.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:59"
+    },
+    {
+      "nodeID": "146305",
+      "text": "Actually, no. That's not what you said.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:03:59"
+    },
+    {
+      "nodeID": "146306",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:03:59"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187874",
+      "fromID": "146296",
+      "toID": "146297",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187875",
+      "fromID": "146297",
+      "toID": "146295",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187876",
+      "fromID": "146299",
+      "toID": "146300",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187877",
+      "fromID": "146300",
+      "toID": "146298",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187878",
+      "fromID": "146302",
+      "toID": "146303",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187879",
+      "fromID": "146303",
+      "toID": "146301",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187880",
+      "fromID": "146305",
+      "toID": "146306",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187881",
+      "fromID": "146306",
+      "toID": "146304",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

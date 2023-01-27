@@ -1,0 +1,158 @@
+{
+  "nodes": [
+    {
+      "nodeID": "185520",
+      "text": "SANDERS :  Do I consider myself part of the casino capitalist process by which so few have so much and so many have so little by which Wall Street's greed and recklessness wrecked this economy?",
+      "type": "L",
+      "timestamp": "2016-07-29 11:30:48"
+    },
+    {
+      "nodeID": "185529",
+      "text": "SANDERS doesn't consider himself part of the casino capitalist process by which so few have so much and so many have so little by which Wall Street's greed and recklessness wrecked this economy",
+      "type": "I",
+      "timestamp": "2016-07-29 11:30:49"
+    },
+    {
+      "nodeID": "185580",
+      "text": "CLINTON :  it's our job to rein in the excesses of capitalism so that it doesn't run amok and doesn't cause the kind of inequities we're seeing in our economic system",
+      "type": "L",
+      "timestamp": "2016-07-29 11:30:54"
+    },
+    {
+      "nodeID": "185582",
+      "text": "it's our job to rein in the excesses of capitalism so that it doesn't run amok and doesn't cause the kind of inequities we're seeing in our economic system",
+      "type": "I",
+      "timestamp": "2016-07-29 11:30:54"
+    },
+    {
+      "nodeID": "186308",
+      "text": "woahmate : Clinton's view that sometimes capitalism needs controls in order to deal with inequality were a lot more realistic",
+      "type": "L",
+      "timestamp": "2016-07-30 11:15:16"
+    },
+    {
+      "nodeID": "186356",
+      "text": "Sanders opposes \"casino capitalism\"",
+      "type": "I",
+      "timestamp": "2016-07-30 11:15:20"
+    },
+    {
+      "nodeID": "186360",
+      "text": "Teh_Slayur : Bernie : Sanders opposes \"casino capitalism\"",
+      "type": "L",
+      "timestamp": "2016-07-30 11:15:21"
+    },
+    {
+      "nodeID": "262266",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-03 14:55:05",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "262267",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2017-03-03 14:55:05",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    },
+    {
+      "nodeID": "262268",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-03 14:55:06",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "262269",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2017-03-03 14:55:06",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "262270",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2017-03-03 14:55:07",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "316274",
+      "fromID": "185580",
+      "toID": "262266",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316275",
+      "fromID": "262266",
+      "toID": "186308",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316276",
+      "fromID": "262266",
+      "toID": "262267",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316277",
+      "fromID": "262267",
+      "toID": "185582",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316278",
+      "fromID": "185520",
+      "toID": "262268",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316279",
+      "fromID": "262268",
+      "toID": "186360",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316280",
+      "fromID": "185529",
+      "toID": "262269",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316281",
+      "fromID": "262269",
+      "toID": "186356",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316282",
+      "fromID": "262268",
+      "toID": "262270",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316283",
+      "fromID": "262270",
+      "toID": "262269",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "186308",
+      "personID": "1710",
+      "timestamp": "2016-07-30 11:15:27",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

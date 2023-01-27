@@ -1,0 +1,151 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148477",
+      "text": "It is a physical entity. It has physical existence in reality. It is possible to see it, touch it, etc.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:35"
+    },
+    {
+      "nodeID": "148478",
+      "text": "And as such, the term as you use it is utterly meaningless as it could be applied to any cell or sell remnant of human origin.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:35"
+    },
+    {
+      "nodeID": "148479",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:08:35"
+    },
+    {
+      "nodeID": "148480",
+      "text": "The morning after pill has the potential to destroy that unique post-conception human entity. Regardless of whether it's right or wrong in somebody's eyes does not change the truth written above.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:35"
+    },
+    {
+      "nodeID": "148481",
+      "text": "Well, the pill has the ability to not let it implant, which 'God' already cause for around 60% of its contemporaries. The pill doesn't destroy the 'entity' at all.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:35"
+    },
+    {
+      "nodeID": "148482",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:08:35"
+    },
+    {
+      "nodeID": "148483",
+      "text": "I didn't mention that the physical entity needs nothing but nourishment, oxygen, and a safe environment to be able to grow into an adult human being, but that is also a statement of fact that cannot be reasonably disputed.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:35"
+    },
+    {
+      "nodeID": "148484",
+      "text": "Actually, it can. The zygote doesn't always develop into an adult human being. In fact, about 60-70% of all zygotes never implants or gets rejected and end up being flushed down the toilet. And of those who do implant, some turn into blighted ovums or hydatidiform moles. So no, your claim is not as all-encompassing as you want to present it. [QUOTE]Conception/fertilization is the time in which this physical entity comes into existence. Prior to that time, this unique physical entity did not exist.[QUOTE] Which is also true after ANY cell division of any kind, and as such again is a rather meaningless point.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:35"
+    },
+    {
+      "nodeID": "148485",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:08:35"
+    },
+    {
+      "nodeID": "148486",
+      "text": "And we agree that it is a physical entity... the same as any cell of human origin... in fact, the same as anything else that exists in the physical world. We're two-for-two.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:35"
+    },
+    {
+      "nodeID": "148487",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:08:35"
+    },
+    {
+      "nodeID": "148488",
+      "text": "Which is also true after ANY cell division of any kind, and as such again is a rather meaningless point.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:36"
+    },
+    {
+      "nodeID": "148489",
+      "text": "So, we agree again. This is the second time you have labeled one of my points meaningless. I do not disagree. In and of themselves, they are meaningless. Any meaning is assigned to them by whoever wishes to interpret them.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:36"
+    },
+    {
+      "nodeID": "148490",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:08:36"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189408",
+      "fromID": "148478",
+      "toID": "148479",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189409",
+      "fromID": "148479",
+      "toID": "148477",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189410",
+      "fromID": "148481",
+      "toID": "148482",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189411",
+      "fromID": "148482",
+      "toID": "148480",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189412",
+      "fromID": "148484",
+      "toID": "148485",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189413",
+      "fromID": "148485",
+      "toID": "148483",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189414",
+      "fromID": "148486",
+      "toID": "148487",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189415",
+      "fromID": "148487",
+      "toID": "148478",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189416",
+      "fromID": "148489",
+      "toID": "148490",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189417",
+      "fromID": "148490",
+      "toID": "148488",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

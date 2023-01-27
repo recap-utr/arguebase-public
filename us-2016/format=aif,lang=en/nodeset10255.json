@@ -1,0 +1,1190 @@
+{
+  "nodes": [
+    {
+      "nodeID": "202014",
+      "text": "Atraktape : Reddit is not going to be happy",
+      "type": "L",
+      "timestamp": "2016-09-22 15:48:12"
+    },
+    {
+      "nodeID": "202015",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-22 15:48:12",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "202016",
+      "text": "Reddit is not going to be happy",
+      "type": "I",
+      "timestamp": "2016-09-22 15:48:12"
+    },
+    {
+      "nodeID": "202017",
+      "text": "Barbara: Atraktape : Reddit is not going to be happy",
+      "type": "L",
+      "timestamp": "2016-09-22 15:48:12"
+    },
+    {
+      "nodeID": "202018",
+      "text": "Atraktape : Bernie wants to throw Snowden in the slammer",
+      "type": "L",
+      "timestamp": "2016-09-22 15:48:12"
+    },
+    {
+      "nodeID": "202019",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-22 15:48:12",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "202020",
+      "text": "Bernie Sanders wants to throw Snowden in the slammer",
+      "type": "I",
+      "timestamp": "2016-09-22 15:48:12"
+    },
+    {
+      "nodeID": "202021",
+      "text": "Barbara: Atraktape : Bernie wants to throw Snowden in the slammer",
+      "type": "L",
+      "timestamp": "2016-09-22 15:48:12"
+    },
+    {
+      "nodeID": "202022",
+      "text": "Jokrtothethief : That's not what he said",
+      "type": "L",
+      "timestamp": "2016-09-22 15:48:12"
+    },
+    {
+      "nodeID": "202023",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-22 15:48:13",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "202024",
+      "text": "that's not what Bernie Sanders said",
+      "type": "I",
+      "timestamp": "2016-09-22 15:48:13"
+    },
+    {
+      "nodeID": "202025",
+      "text": "Barbara: Jokrtothethief : That's not what he said",
+      "type": "L",
+      "timestamp": "2016-09-22 15:48:13"
+    },
+    {
+      "nodeID": "202026",
+      "text": "Atraktape : What does that mean then? Fines? Parole? Washing police cars on the weekends?",
+      "type": "L",
+      "timestamp": "2016-09-22 15:48:13"
+    },
+    {
+      "nodeID": "202027",
+      "text": "Rhetorical Questioning",
+      "type": "YA",
+      "timestamp": "2016-09-22 15:48:13",
+      "scheme": "RhetoricalQuestioning",
+      "schemeID": "85"
+    },
+    {
+      "nodeID": "202028",
+      "text": "Bernie Sanders does not mean Fines, Parole or Washing police cars on the weekends",
+      "type": "I",
+      "timestamp": "2016-09-22 15:48:13"
+    },
+    {
+      "nodeID": "202029",
+      "text": "Barbara: Atraktape : What does that mean then? Fines? Parole? Washing police cars on the weekends?",
+      "type": "L",
+      "timestamp": "2016-09-22 15:48:13"
+    },
+    {
+      "nodeID": "202030",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-09-22 15:48:13",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "202031",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-22 15:48:13",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "202032",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-09-22 15:48:13",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "202033",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-09-22 15:48:13",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "202034",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-22 15:48:13",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "202035",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-09-22 15:48:14",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "202036",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-09-22 15:48:14",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "202037",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-22 15:48:14",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "202038",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-09-22 15:48:14",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "202039",
+      "text": "Jokrtothethief : I dunno",
+      "type": "L",
+      "timestamp": "2016-09-22 15:48:14"
+    },
+    {
+      "nodeID": "202040",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-22 15:48:14",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "202041",
+      "text": "I dunno",
+      "type": "I",
+      "timestamp": "2016-09-22 15:48:14"
+    },
+    {
+      "nodeID": "202042",
+      "text": "Barbara: Jokrtothethief : I dunno",
+      "type": "L",
+      "timestamp": "2016-09-22 15:48:14"
+    },
+    {
+      "nodeID": "202043",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-22 15:48:14",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "202044",
+      "text": "eaglessoar : I don't think anyone denies he broke some laws, everyone just knows he wouldn't get fair treatment in court",
+      "type": "L",
+      "timestamp": "2016-09-22 15:48:14"
+    },
+    {
+      "nodeID": "202045",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-22 15:48:15",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "202046",
+      "text": "I don't think anyone denies Snowden broke some laws, everyone just knows he wouldn't get fair treatment in court",
+      "type": "I",
+      "timestamp": "2016-09-22 15:48:15"
+    },
+    {
+      "nodeID": "202047",
+      "text": "Barbara: eaglessoar : I don't think anyone denies he broke some laws, everyone just knows he wouldn't get fair treatment in court",
+      "type": "L",
+      "timestamp": "2016-09-22 15:48:15"
+    },
+    {
+      "nodeID": "202048",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-09-22 15:48:15",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "202049",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-22 15:48:15",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "202050",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-09-22 15:48:15",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "202051",
+      "text": "ncolaros : They'll ignore it",
+      "type": "L",
+      "timestamp": "2016-09-22 15:48:15"
+    },
+    {
+      "nodeID": "202052",
+      "text": "Reddit will ignore it",
+      "type": "I",
+      "timestamp": "2016-09-22 15:48:15"
+    },
+    {
+      "nodeID": "202053",
+      "text": "Barbara: ncolaros : They'll ignore it",
+      "type": "L",
+      "timestamp": "2016-09-22 15:48:15"
+    },
+    {
+      "nodeID": "202054",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-09-22 15:48:15",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "202055",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-22 15:48:15",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "202056",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-09-22 15:48:15",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "202057",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-22 15:48:16",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "202058",
+      "text": "JZer86 : He didn't say that",
+      "type": "L",
+      "timestamp": "2016-09-22 15:48:16"
+    },
+    {
+      "nodeID": "202059",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-22 15:48:16",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "202060",
+      "text": "Bernie Sanders didn't say that",
+      "type": "I",
+      "timestamp": "2016-09-22 15:48:16"
+    },
+    {
+      "nodeID": "202061",
+      "text": "Barbara: JZer86 : He didn't say that",
+      "type": "L",
+      "timestamp": "2016-09-22 15:48:16"
+    },
+    {
+      "nodeID": "202062",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-09-22 15:48:16",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "202063",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-22 15:48:16",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "202064",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-09-22 15:48:16",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "202065",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-22 15:48:17",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "202066",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-09-22 15:48:17",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "202067",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2016-09-22 15:48:17",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "202068",
+      "text": "JZer86 : He said Snowden broke the law, but the civil liberty violations that were discovered because of it should be taken into consideration",
+      "type": "L",
+      "timestamp": "2016-09-22 15:48:17"
+    },
+    {
+      "nodeID": "202069",
+      "text": "Snowden broke the law, but the civil liberty violations that were discovered because of it should be taken into consideration",
+      "type": "I",
+      "timestamp": "2016-09-22 15:48:17"
+    },
+    {
+      "nodeID": "202070",
+      "text": "Barbara: JZer86 : He said Snowden broke the law, but the civil liberty violations that were discovered because of it should be taken into consideration",
+      "type": "L",
+      "timestamp": "2016-09-22 15:48:17"
+    },
+    {
+      "nodeID": "202071",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-22 15:48:17",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "202072",
+      "text": "Bernie : Snowden broke the law, but the civil liberty violations that were discovered because of it should be taken into consideration",
+      "type": "L",
+      "timestamp": "2016-09-22 15:48:17"
+    },
+    {
+      "nodeID": "202073",
+      "text": "Barbara: Bernie : He said Snowden broke the law, but the civil liberty violations that were discovered because of it should be taken into consideration",
+      "type": "L",
+      "timestamp": "2016-09-22 15:48:17"
+    },
+    {
+      "nodeID": "202074",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-22 15:48:17",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "202075",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-09-22 15:48:17",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "202076",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-22 15:48:18",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "202077",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-09-22 15:48:18",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "202078",
+      "text": "JZer86 : If there's jail time it would be minimal",
+      "type": "L",
+      "timestamp": "2016-09-22 15:48:18"
+    },
+    {
+      "nodeID": "202079",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-22 15:48:18",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "202080",
+      "text": "if there's jail time it would be minimal",
+      "type": "I",
+      "timestamp": "2016-09-22 15:48:18"
+    },
+    {
+      "nodeID": "202081",
+      "text": "Barbara: JZer86 : If there's jail time it would be minimal",
+      "type": "L",
+      "timestamp": "2016-09-22 15:48:18"
+    },
+    {
+      "nodeID": "202082",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-09-22 15:48:18",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "202083",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-22 15:48:18",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "202084",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-09-22 15:48:18",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "202085",
+      "text": "mud074 : It makes logical sense though",
+      "type": "L",
+      "timestamp": "2016-09-22 15:48:18"
+    },
+    {
+      "nodeID": "202086",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-22 15:48:18",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "202087",
+      "text": "it makes logical sense though",
+      "type": "I",
+      "timestamp": "2016-09-22 15:48:19"
+    },
+    {
+      "nodeID": "202088",
+      "text": "Barbara: mud074 : It makes logical sense though",
+      "type": "L",
+      "timestamp": "2016-09-22 15:48:19"
+    },
+    {
+      "nodeID": "202089",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-09-22 15:48:19",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "202090",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-22 15:48:19",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "202091",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-09-22 15:48:19",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "202092",
+      "text": "mud074 : You can't just make exceptions to laws because it was justified",
+      "type": "L",
+      "timestamp": "2016-09-22 15:48:19"
+    },
+    {
+      "nodeID": "202093",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-22 15:48:19",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "202094",
+      "text": "you can't just make exceptions to laws because it was justified",
+      "type": "I",
+      "timestamp": "2016-09-22 15:48:19"
+    },
+    {
+      "nodeID": "202095",
+      "text": "Barbara: mud074 : You can't just make exceptions to laws because it was justified",
+      "type": "L",
+      "timestamp": "2016-09-22 15:48:19"
+    },
+    {
+      "nodeID": "202096",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-09-22 15:48:19",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "202097",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-22 15:48:20",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "202098",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-09-22 15:48:20",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "246921",
+      "fromID": "202015",
+      "toID": "202016",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246922",
+      "fromID": "202014",
+      "toID": "202015",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246923",
+      "fromID": "202019",
+      "toID": "202020",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246924",
+      "fromID": "202018",
+      "toID": "202019",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246925",
+      "fromID": "202023",
+      "toID": "202024",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246926",
+      "fromID": "202022",
+      "toID": "202023",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246927",
+      "fromID": "202027",
+      "toID": "202028",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246928",
+      "fromID": "202026",
+      "toID": "202027",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246929",
+      "fromID": "202028",
+      "toID": "202030",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246930",
+      "fromID": "202030",
+      "toID": "202024",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246931",
+      "fromID": "202022",
+      "toID": "202031",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246932",
+      "fromID": "202031",
+      "toID": "202026",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246933",
+      "fromID": "202031",
+      "toID": "202032",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246934",
+      "fromID": "202032",
+      "toID": "202030",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246935",
+      "fromID": "202020",
+      "toID": "202033",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246936",
+      "fromID": "202033",
+      "toID": "202016",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246937",
+      "fromID": "202014",
+      "toID": "202034",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246938",
+      "fromID": "202034",
+      "toID": "202018",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246939",
+      "fromID": "202034",
+      "toID": "202035",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246940",
+      "fromID": "202035",
+      "toID": "202033",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246941",
+      "fromID": "202024",
+      "toID": "202036",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246942",
+      "fromID": "202036",
+      "toID": "202020",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246943",
+      "fromID": "202018",
+      "toID": "202037",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246944",
+      "fromID": "202037",
+      "toID": "202022",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246945",
+      "fromID": "202037",
+      "toID": "202038",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246946",
+      "fromID": "202038",
+      "toID": "202036",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246947",
+      "fromID": "202040",
+      "toID": "202041",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246948",
+      "fromID": "202039",
+      "toID": "202040",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246949",
+      "fromID": "202026",
+      "toID": "202043",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246950",
+      "fromID": "202043",
+      "toID": "202039",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246951",
+      "fromID": "202045",
+      "toID": "202046",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246952",
+      "fromID": "202044",
+      "toID": "202045",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246953",
+      "fromID": "202046",
+      "toID": "202048",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246954",
+      "fromID": "202048",
+      "toID": "202016",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246955",
+      "fromID": "202014",
+      "toID": "202049",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246956",
+      "fromID": "202049",
+      "toID": "202044",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246957",
+      "fromID": "202049",
+      "toID": "202050",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246958",
+      "fromID": "202050",
+      "toID": "202048",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246959",
+      "fromID": "202052",
+      "toID": "202054",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246960",
+      "fromID": "202054",
+      "toID": "202016",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246961",
+      "fromID": "202014",
+      "toID": "202055",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246962",
+      "fromID": "202055",
+      "toID": "202051",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246963",
+      "fromID": "202055",
+      "toID": "202056",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246964",
+      "fromID": "202056",
+      "toID": "202054",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246965",
+      "fromID": "202051",
+      "toID": "202057",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246966",
+      "fromID": "202057",
+      "toID": "202052",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246967",
+      "fromID": "202059",
+      "toID": "202060",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246968",
+      "fromID": "202058",
+      "toID": "202059",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246969",
+      "fromID": "202060",
+      "toID": "202062",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246970",
+      "fromID": "202062",
+      "toID": "202020",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246971",
+      "fromID": "202018",
+      "toID": "202063",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246972",
+      "fromID": "202063",
+      "toID": "202058",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246973",
+      "fromID": "202063",
+      "toID": "202064",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246974",
+      "fromID": "202064",
+      "toID": "202062",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246975",
+      "fromID": "202022",
+      "toID": "202065",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246976",
+      "fromID": "202065",
+      "toID": "202058",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246977",
+      "fromID": "202060",
+      "toID": "202066",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246978",
+      "fromID": "202066",
+      "toID": "202024",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246979",
+      "fromID": "202058",
+      "toID": "202066",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246980",
+      "fromID": "202065",
+      "toID": "202067",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246981",
+      "fromID": "202067",
+      "toID": "202066",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246982",
+      "fromID": "202071",
+      "toID": "202069",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246983",
+      "fromID": "202072",
+      "toID": "202071",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246984",
+      "fromID": "202068",
+      "toID": "202074",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246985",
+      "fromID": "202074",
+      "toID": "202072",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246986",
+      "fromID": "202072",
+      "toID": "202075",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246987",
+      "fromID": "202075",
+      "toID": "202060",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246988",
+      "fromID": "202058",
+      "toID": "202076",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246989",
+      "fromID": "202076",
+      "toID": "202068",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246990",
+      "fromID": "202076",
+      "toID": "202077",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246991",
+      "fromID": "202077",
+      "toID": "202075",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246992",
+      "fromID": "202079",
+      "toID": "202080",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246993",
+      "fromID": "202078",
+      "toID": "202079",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246994",
+      "fromID": "202069",
+      "toID": "202082",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246995",
+      "fromID": "202082",
+      "toID": "202080",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246996",
+      "fromID": "202068",
+      "toID": "202083",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246997",
+      "fromID": "202083",
+      "toID": "202078",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246998",
+      "fromID": "202083",
+      "toID": "202084",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "246999",
+      "fromID": "202084",
+      "toID": "202082",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247000",
+      "fromID": "202086",
+      "toID": "202087",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247001",
+      "fromID": "202085",
+      "toID": "202086",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247002",
+      "fromID": "202087",
+      "toID": "202089",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247003",
+      "fromID": "202089",
+      "toID": "202020",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247004",
+      "fromID": "202018",
+      "toID": "202090",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247005",
+      "fromID": "202090",
+      "toID": "202085",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247006",
+      "fromID": "202090",
+      "toID": "202091",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247007",
+      "fromID": "202091",
+      "toID": "202089",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247008",
+      "fromID": "202093",
+      "toID": "202094",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247009",
+      "fromID": "202092",
+      "toID": "202093",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247010",
+      "fromID": "202094",
+      "toID": "202096",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247011",
+      "fromID": "202096",
+      "toID": "202087",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247012",
+      "fromID": "202085",
+      "toID": "202097",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247013",
+      "fromID": "202097",
+      "toID": "202092",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247014",
+      "fromID": "202097",
+      "toID": "202098",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "247015",
+      "fromID": "202098",
+      "toID": "202096",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "202072",
+      "personID": "1851",
+      "timestamp": "2016-09-22 15:48:24",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

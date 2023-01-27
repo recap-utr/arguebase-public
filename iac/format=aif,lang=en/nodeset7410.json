@@ -1,0 +1,121 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141824",
+      "text": "I thought of somthing sunday, as I was teaching sunday school (I know shocking),",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:42"
+    },
+    {
+      "nodeID": "141825",
+      "text": "You aren't serious are you??? Is this a joke? You're one of the most active attackers of Christianity in these threads. Aren't you the one that likes to use the term 'Christonazi?'",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:42"
+    },
+    {
+      "nodeID": "141826",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:54:42"
+    },
+    {
+      "nodeID": "141827",
+      "text": "You mean he does not agree with your view of christianity.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:42"
+    },
+    {
+      "nodeID": "141828",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:54:42"
+    },
+    {
+      "nodeID": "141829",
+      "text": "I have a strong dislike of evangelical christianity, not christianity in general. A christonazi is someone who uses the christianity for political gains or someone who has a fanatical view of christianity. I am a member of an ELCA church, you know a liberal church with liberal and progressive views of christianity. I have even organized and run several VBS's.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:42"
+    },
+    {
+      "nodeID": "141830",
+      "text": "But there are some evangelical Christian churches that don't do that. You don't seem to understand or recognize that evangelicalism is a very varied movement.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:42"
+    },
+    {
+      "nodeID": "141831",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:54:42"
+    },
+    {
+      "nodeID": "141832",
+      "text": "I don't think that Paul was actively gay. He was so odd about having anykind of sex at all that it was pretty warped.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:42"
+    },
+    {
+      "nodeID": "141833",
+      "text": "Oh, what the hell. As is so often the case, I have a definitive source on this: http://www.lunaseas.net/gaps/episode9.html",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:42"
+    },
+    {
+      "nodeID": "141834",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:54:42"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184708",
+      "fromID": "141825",
+      "toID": "141826",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184709",
+      "fromID": "141826",
+      "toID": "141824",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184710",
+      "fromID": "141827",
+      "toID": "141828",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184711",
+      "fromID": "141828",
+      "toID": "141825",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184712",
+      "fromID": "141830",
+      "toID": "141831",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184713",
+      "fromID": "141831",
+      "toID": "141829",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184714",
+      "fromID": "141833",
+      "toID": "141834",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184715",
+      "fromID": "141834",
+      "toID": "141832",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

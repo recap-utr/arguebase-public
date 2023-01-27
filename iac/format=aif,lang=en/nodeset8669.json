@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "161102",
+      "text": "With 250 million guns owned in the U.S. today -- it&#8217;s as if we&#8217;re permanently awaiting a siege that will never come -- there&#8217;s simply no hope of eradicating arms from the American equation.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:38"
+    },
+    {
+      "nodeID": "161103",
+      "text": "Well if no siege comes, I guess no harm no foul.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:38"
+    },
+    {
+      "nodeID": "161104",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:36:38"
+    },
+    {
+      "nodeID": "161105",
+      "text": "those kind of websites are like porn to gun nuts but getting big gun wont compensate for being born with a small one",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:38"
+    },
+    {
+      "nodeID": "161106",
+      "text": "Just as being anti-gun won't compensate for being born with a small brain.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:38"
+    },
+    {
+      "nodeID": "161107",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:36:38"
+    },
+    {
+      "nodeID": "161108",
+      "text": "Why not raise the marginal cost of gun crimes substantially? Why not make possession of an unregistered firearm, whether one brandishes it or not, a sentence punishable by life in prison?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:38"
+    },
+    {
+      "nodeID": "161109",
+      "text": "Because that would violate the 8th Amendment's provision outlawing excessive fines, and cruel and unusual punishment.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:38"
+    },
+    {
+      "nodeID": "161110",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:36:38"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198364",
+      "fromID": "161103",
+      "toID": "161104",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198365",
+      "fromID": "161104",
+      "toID": "161102",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198366",
+      "fromID": "161106",
+      "toID": "161107",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198367",
+      "fromID": "161107",
+      "toID": "161105",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198368",
+      "fromID": "161109",
+      "toID": "161110",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198369",
+      "fromID": "161110",
+      "toID": "161108",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

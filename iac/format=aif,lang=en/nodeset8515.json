@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "158383",
+      "text": "Making abortion illegal is an unrighteous law. Weren't there laws forbidding African Americans from sitting in the front of a bus? Wasn't that law broken?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:30:39"
+    },
+    {
+      "nodeID": "158384",
+      "text": "and she got punished for it Good thing too because it led to the law being changed. If someone thought drunk driving was an unrighteous law and so they did it and got punished...I don't think you will see much sympathy. It many states that is probably true for abortion.  Why is it unrighteous anyway? Only because you disagree with it :)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:30:40"
+    },
+    {
+      "nodeID": "158385",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:30:40"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196410",
+      "fromID": "158384",
+      "toID": "158385",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196411",
+      "fromID": "158385",
+      "toID": "158383",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

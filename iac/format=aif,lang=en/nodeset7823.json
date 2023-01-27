@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148411",
+      "text": "Guns are banned, now what? 1) Gun confiscation?  (...) 2) Gun buy back?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:25"
+    },
+    {
+      "nodeID": "148412",
+      "text": "Why either of those?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:25"
+    },
+    {
+      "nodeID": "148413",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:08:25"
+    },
+    {
+      "nodeID": "148414",
+      "text": "Why did the boy part of $850?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:26"
+    },
+    {
+      "nodeID": "148415",
+      "text": "He did not.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:08:26"
+    },
+    {
+      "nodeID": "148416",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:08:26"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189364",
+      "fromID": "148412",
+      "toID": "148413",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189365",
+      "fromID": "148413",
+      "toID": "148411",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189366",
+      "fromID": "148415",
+      "toID": "148416",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189367",
+      "fromID": "148416",
+      "toID": "148414",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

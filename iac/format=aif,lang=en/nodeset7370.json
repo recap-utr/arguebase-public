@@ -1,0 +1,121 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141384",
+      "text": "If you say there is no such thing as a hierarchy of rights, or if you say the right to personal autonomy trumps the right to life, I point you to observe the situation in New Orleans.  The relief efforts are concerned 1st with saving the living and 2nd with burying the dead.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:33"
+    },
+    {
+      "nodeID": "141385",
+      "text": "This is poor example. Focusing on saving lives over burying the dead doesn't do anything to trump personal autonomy.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:33"
+    },
+    {
+      "nodeID": "141386",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:53:33"
+    },
+    {
+      "nodeID": "141387",
+      "text": "I don't believe a right to personal autonomy exists (and of the million times I ask where it comes from no one can give a real answer).",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:33"
+    },
+    {
+      "nodeID": "141388",
+      "text": "Does personal autonomy = liberty? If so, I thought that our FF's decided it came from 'our Creator.'",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:33"
+    },
+    {
+      "nodeID": "141389",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:53:33"
+    },
+    {
+      "nodeID": "141390",
+      "text": "A right to personal autonomy or self-ownership is a neccessary component of any consistent rule-based moral system in which man can live, since it is impossible to give or get permission to make use of your body prior to using it to get that permission. To put it another way, it is impossible to deny that there is a right to personal autonomy without making autonomous use of your person in denying it. To deny such a right is to deny you have the right to deny it. Systems of rights that do not begin with personal autonomy; a) cannot be consistent, and b) to the extent they are put into practice, tend to be tyrannical.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:33"
+    },
+    {
+      "nodeID": "141391",
+      "text": "No they don't. We didn't have a tyrannical society back in the 1830s when without a doubt personal autonomy didn't exist for some. The thing is, you don't have absolute personal autonomy now either. And it still doesn't answer my question about where the right came from, you just said there had to be one.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:33"
+    },
+    {
+      "nodeID": "141392",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:53:34"
+    },
+    {
+      "nodeID": "141393",
+      "text": "It needs to come with life to make life meaningful.  To have no control of your body - like rape, like an abusive relationship. I would rather be dead than go through it again.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:34"
+    },
+    {
+      "nodeID": "141394",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:53:34"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184406",
+      "fromID": "141385",
+      "toID": "141386",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184407",
+      "fromID": "141386",
+      "toID": "141384",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184408",
+      "fromID": "141388",
+      "toID": "141389",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184409",
+      "fromID": "141389",
+      "toID": "141387",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184410",
+      "fromID": "141391",
+      "toID": "141392",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184411",
+      "fromID": "141392",
+      "toID": "141390",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184412",
+      "fromID": "141393",
+      "toID": "141394",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184413",
+      "fromID": "141394",
+      "toID": "141391",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

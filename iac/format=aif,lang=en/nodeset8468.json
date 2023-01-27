@@ -1,0 +1,151 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157797",
+      "text": "As far as I can see, Evolutionists agree that natural selection is how we have evolved for microscopic life forms. To me this means that a single organism in a species mutates, giving it and its offspring an advantage over the rest of the population. If this mutation is random doesn't that mean that the gene pool for every species would be very small as, in the long run, only the offspring of the mutated species would survive?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:12"
+    },
+    {
+      "nodeID": "157798",
+      "text": "In some cases yes, in others no. If the mutation gives a huge advantage, then there will be a decline in the size of the gene pool for a while (eg when the Australian rabbit population was reduced form 500 million to 100 million by myxomatosis, the gene pool strunk as a result and the genetic 'mutation' that gave increased resistance spread throughout the whole population as a result). Most of the time though single mutations do not have such a huge advantage and so genetic variation is maintained.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:13"
+    },
+    {
+      "nodeID": "157799",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:29:13"
+    },
+    {
+      "nodeID": "157800",
+      "text": "...I was presented with a copy of Evolution: Fact or Fiction which was written by a Professor of Evolution who was appalled when he discovered that a lot of the diagrams used in text books, even at degree level were based on little or no evidence...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:13"
+    },
+    {
+      "nodeID": "157801",
+      "text": "Can you tell us who this 'Professor of Evolution' is? There are lots of booklets called entitled 'Evolution: Fact or Fiction' and all (aFAIK) are written by evangelicals with next to no knowledge of evolution at all. Sadly such 'Christians' are happy to lie about their qualifications if it helps them spread doubt about science. I suspect what you are referring to is one such booklet, but I need a name to know for sure.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:13"
+    },
+    {
+      "nodeID": "157802",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:29:13"
+    },
+    {
+      "nodeID": "157803",
+      "text": "Icons of Evolution: Science or Myth? Why Much of What We Teach About Evolution is Wrong by Jonathan Wells I appologise for not remembering the exact title, but its definately a good read.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:13"
+    },
+    {
+      "nodeID": "157804",
+      "text": "I'm not familiar with the book, so can't comment upon it first hand. However http://www.ncseweb.org/icons/ appears to have a detailed critique of the book and may be of interest to you too. As I say I haven't read the original so cannot judge the quality of the link I'm supplying, so apologies in advance if it grossly misrepresents Mr Well's case.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:13"
+    },
+    {
+      "nodeID": "157805",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:29:13"
+    },
+    {
+      "nodeID": "157806",
+      "text": "Ah. Johnathan Wells is an evangilcal YEC who got his education in Biology to 'disprove' evolution. He rejects science at all levels. I would not take serioiusly anybody associated with the 'discovery institute'. Mr Wells does have the advantage of having a better education that most of them, but his degree was gotten to promote Young Earth Creationism, and was paid for by Sun Yen Moon.  I would say that the review is a bit high level, but accurate.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:13"
+    },
+    {
+      "nodeID": "157807",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:29:13"
+    },
+    {
+      "nodeID": "157808",
+      "text": "...Another problem with the site is that Alan D. Gishlick is without a doubt an evolutionist whereas Jonathan Wells seems to approach the subject with a more objective and neutral view.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:13"
+    },
+    {
+      "nodeID": "157809",
+      "text": "This is a common creationist trick. Jonathan Wells has two PhD's, one in Molecular and Cell Biology, the other in Religious Studies. Jonathan Wells works for, or affiliated with (it's difficult to know for sure) The Discovery Institute. This is a pro 'Intelligent Design' (ie Biblical Creationism by stealth) organisation based in Seattle in the USA. It spends around $1 million a year promoting 'Intelligent Design' and attempting to rubbish evolution. I'm not suggesting that Jonathan Wells is inherently wrong; I'm just pointing out that he is far from 'objective and neutral' on this subject.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:29:13"
+    },
+    {
+      "nodeID": "157810",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:29:13"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195988",
+      "fromID": "157798",
+      "toID": "157799",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195989",
+      "fromID": "157799",
+      "toID": "157797",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195990",
+      "fromID": "157801",
+      "toID": "157802",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195991",
+      "fromID": "157802",
+      "toID": "157800",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195992",
+      "fromID": "157804",
+      "toID": "157805",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195993",
+      "fromID": "157805",
+      "toID": "157803",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195994",
+      "fromID": "157806",
+      "toID": "157807",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195995",
+      "fromID": "157807",
+      "toID": "157804",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195996",
+      "fromID": "157809",
+      "toID": "157810",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195997",
+      "fromID": "157810",
+      "toID": "157808",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

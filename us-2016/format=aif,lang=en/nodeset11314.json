@@ -1,0 +1,264 @@
+{
+  "nodes": [
+    {
+      "nodeID": "209313",
+      "text": "SL8Rfan : Isn't what Trump just said what's wrong with our gov't",
+      "type": "L",
+      "timestamp": "2016-10-28 13:46:33"
+    },
+    {
+      "nodeID": "209315",
+      "text": "what TRUMP just said is what's wrong with our government",
+      "type": "I",
+      "timestamp": "2016-10-28 13:46:34"
+    },
+    {
+      "nodeID": "209341",
+      "text": "Spokker :  Then when he needs something, he can go to them",
+      "type": "L",
+      "timestamp": "2016-10-28 13:46:48"
+    },
+    {
+      "nodeID": "209343",
+      "text": "when TRUMP needs something, he can go to them",
+      "type": "I",
+      "timestamp": "2016-10-28 13:46:49"
+    },
+    {
+      "nodeID": "209430",
+      "text": "89million : Doesn't that make him just as corrupt as the system",
+      "type": "L",
+      "timestamp": "2016-10-28 13:47:29"
+    },
+    {
+      "nodeID": "209432",
+      "text": "this makes TRUMP just as corrupt as the system",
+      "type": "I",
+      "timestamp": "2016-10-28 13:47:30"
+    },
+    {
+      "nodeID": "220221",
+      "text": "many of the people on this stage TRUMP has given a lot of money",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:25"
+    },
+    {
+      "nodeID": "220223",
+      "text": "TRUMP : Many of them",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:25"
+    },
+    {
+      "nodeID": "220354",
+      "text": "when TRUMP needs something from them two years later, three years later, TRUMP calls them",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:38"
+    },
+    {
+      "nodeID": "220356",
+      "text": "TRUMP : When I need something from them two years later , three years later , I call them",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:38"
+    },
+    {
+      "nodeID": "264613",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2017-03-09 17:47:23",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "264614",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 17:47:23",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264615",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2017-03-09 17:47:24",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "264616",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-09 17:47:24",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "264617",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 17:47:25",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264618",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-09 17:47:25",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "264619",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-09 17:47:26",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "264620",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 17:47:26",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264621",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-09 17:47:27",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "320300",
+      "fromID": "220354",
+      "toID": "264613",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320301",
+      "fromID": "264613",
+      "toID": "209315",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320302",
+      "fromID": "220356",
+      "toID": "264614",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320303",
+      "fromID": "264614",
+      "toID": "209313",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320304",
+      "fromID": "264614",
+      "toID": "264615",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320305",
+      "fromID": "264615",
+      "toID": "264613",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320306",
+      "fromID": "209343",
+      "toID": "264616",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320307",
+      "fromID": "264616",
+      "toID": "220354",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320308",
+      "fromID": "220356",
+      "toID": "264617",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320309",
+      "fromID": "264617",
+      "toID": "209341",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320310",
+      "fromID": "264617",
+      "toID": "264618",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320311",
+      "fromID": "264618",
+      "toID": "264616",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320312",
+      "fromID": "209432",
+      "toID": "264619",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320313",
+      "fromID": "264619",
+      "toID": "220221",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320314",
+      "fromID": "220223",
+      "toID": "264620",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320315",
+      "fromID": "264620",
+      "toID": "209430",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320316",
+      "fromID": "264620",
+      "toID": "264621",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320317",
+      "fromID": "264621",
+      "toID": "264619",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "220223",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220356",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

@@ -1,0 +1,633 @@
+{
+  "nodes": [
+    {
+      "nodeID": "189748",
+      "text": "blackopsbarbie : Clinton sounds way too polished for my taste",
+      "type": "L",
+      "timestamp": "2016-08-05 11:22:43"
+    },
+    {
+      "nodeID": "189749",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-05 11:22:43",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "189750",
+      "text": "Clinton sounds way too polished",
+      "type": "I",
+      "timestamp": "2016-08-05 11:22:43"
+    },
+    {
+      "nodeID": "189751",
+      "text": "Barbara: blackopsbarbie : Clinton sounds way too polished for my taste",
+      "type": "L",
+      "timestamp": "2016-08-05 11:22:43"
+    },
+    {
+      "nodeID": "189752",
+      "text": "blackopsbarbie : She seems like a robot",
+      "type": "L",
+      "timestamp": "2016-08-05 11:22:43"
+    },
+    {
+      "nodeID": "189753",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-05 11:22:44",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "189754",
+      "text": "Clinton seems like a robot",
+      "type": "I",
+      "timestamp": "2016-08-05 11:22:44"
+    },
+    {
+      "nodeID": "189755",
+      "text": "Barbara: blackopsbarbie : She seems like a robot",
+      "type": "L",
+      "timestamp": "2016-08-05 11:22:44"
+    },
+    {
+      "nodeID": "189756",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-08-05 11:22:44",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "189757",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-05 11:22:44",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "189758",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-08-05 11:22:44",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "189759",
+      "text": "[deleted] :  She has a lot of experience in TV and on stage compared to the rest",
+      "type": "L",
+      "timestamp": "2016-08-05 11:22:44"
+    },
+    {
+      "nodeID": "189760",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-05 11:22:44",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "189761",
+      "text": "Clinton has a lot of experience in TV and on stage compared to the rest",
+      "type": "I",
+      "timestamp": "2016-08-05 11:22:44"
+    },
+    {
+      "nodeID": "189762",
+      "text": "Barbara: [deleted] :  She has a lot of experience in TV and on stage compared to the rest",
+      "type": "L",
+      "timestamp": "2016-08-05 11:22:44"
+    },
+    {
+      "nodeID": "189763",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-08-05 11:22:45",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "189764",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-05 11:22:45",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "189765",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-08-05 11:22:45",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "189766",
+      "text": "Rhino184 : She knows what she has to do to win",
+      "type": "L",
+      "timestamp": "2016-08-05 11:22:45"
+    },
+    {
+      "nodeID": "189767",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-05 11:22:45",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "189768",
+      "text": "Clinton knows what she has to do to win",
+      "type": "I",
+      "timestamp": "2016-08-05 11:22:45"
+    },
+    {
+      "nodeID": "189769",
+      "text": "Barbara: Rhino184 : She knows what she has to do to win",
+      "type": "L",
+      "timestamp": "2016-08-05 11:22:45"
+    },
+    {
+      "nodeID": "189770",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-08-05 11:22:45",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "189771",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-05 11:22:45",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "189772",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-08-05 11:22:45",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "189773",
+      "text": "Rhino184 : She knows this game well",
+      "type": "L",
+      "timestamp": "2016-08-05 11:22:45"
+    },
+    {
+      "nodeID": "189774",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-05 11:22:46",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "189775",
+      "text": "Clinton knows this game well",
+      "type": "I",
+      "timestamp": "2016-08-05 11:22:46"
+    },
+    {
+      "nodeID": "189776",
+      "text": "Barbara: Rhino184 : She knows this game well",
+      "type": "L",
+      "timestamp": "2016-08-05 11:22:46"
+    },
+    {
+      "nodeID": "189777",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-05 11:22:46",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "189778",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-08-05 11:22:46",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "189779",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-08-05 11:22:46",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "189780",
+      "text": "Sir_Auron : Politics is more similar to Hollywood than people would like to admit",
+      "type": "L",
+      "timestamp": "2016-08-05 11:22:46"
+    },
+    {
+      "nodeID": "189781",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-05 11:22:46",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "189782",
+      "text": "politics is more similar to Hollywood than people would like to admit",
+      "type": "I",
+      "timestamp": "2016-08-05 11:22:46"
+    },
+    {
+      "nodeID": "189783",
+      "text": "Barbara: Sir_Auron : Politics is more similar to Hollywood than people would like to admit",
+      "type": "L",
+      "timestamp": "2016-08-05 11:22:46"
+    },
+    {
+      "nodeID": "189784",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-08-05 11:22:46",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "189785",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-05 11:22:47",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "189786",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-08-05 11:22:47",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "189787",
+      "text": "El_Frijol : bewp bewp. Must say buzzwords. Must pay lip service to voters. bewp bewp. DANGER DANGER Iraq War Attack incoming! Scanning credentials Mention Obama & Secretary of State job bewp bewp. phew phew Crisis adverted processes stabilizing",
+      "type": "L",
+      "timestamp": "2016-08-05 11:22:47"
+    },
+    {
+      "nodeID": "189788",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-05 11:22:47",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "189789",
+      "text": "bewp bewp. Must say buzzwords. Must pay lip service to voters. bewp bewp. DANGER DANGER Iraq War Attack incoming! Scanning credentials Mention Obama & Secretary of State job bewp bewp. phew phew Crisis adverted processes stabilizing",
+      "type": "I",
+      "timestamp": "2016-08-05 11:22:47"
+    },
+    {
+      "nodeID": "189790",
+      "text": "Barbara: El_Frijol : bewp bewp. Must say buzzwords. Must pay lip service to voters. bewp bewp. DANGER DANGER Iraq War Attack incoming! Scanning credentials Mention Obama & Secretary of State job bewp bewp. phew phew Crisis adverted processes stabilizing",
+      "type": "L",
+      "timestamp": "2016-08-05 11:22:47"
+    },
+    {
+      "nodeID": "189791",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-08-05 11:22:47",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "189792",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-05 11:22:47",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "189793",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-08-05 11:22:47",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "232670",
+      "fromID": "189749",
+      "toID": "189750",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232671",
+      "fromID": "189748",
+      "toID": "189749",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232672",
+      "fromID": "189753",
+      "toID": "189754",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232673",
+      "fromID": "189752",
+      "toID": "189753",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232674",
+      "fromID": "189750",
+      "toID": "189756",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232675",
+      "fromID": "189756",
+      "toID": "189754",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232676",
+      "fromID": "189748",
+      "toID": "189757",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232677",
+      "fromID": "189757",
+      "toID": "189752",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232678",
+      "fromID": "189757",
+      "toID": "189758",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232679",
+      "fromID": "189758",
+      "toID": "189756",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232680",
+      "fromID": "189760",
+      "toID": "189761",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232681",
+      "fromID": "189759",
+      "toID": "189760",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232682",
+      "fromID": "189761",
+      "toID": "189763",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232683",
+      "fromID": "189763",
+      "toID": "189754",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232684",
+      "fromID": "189752",
+      "toID": "189764",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232685",
+      "fromID": "189764",
+      "toID": "189759",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232686",
+      "fromID": "189764",
+      "toID": "189765",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232687",
+      "fromID": "189765",
+      "toID": "189763",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232688",
+      "fromID": "189767",
+      "toID": "189768",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232689",
+      "fromID": "189766",
+      "toID": "189767",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232690",
+      "fromID": "189768",
+      "toID": "189770",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232691",
+      "fromID": "189770",
+      "toID": "189754",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232692",
+      "fromID": "189752",
+      "toID": "189771",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232693",
+      "fromID": "189771",
+      "toID": "189766",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232694",
+      "fromID": "189771",
+      "toID": "189772",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232695",
+      "fromID": "189772",
+      "toID": "189770",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232696",
+      "fromID": "189774",
+      "toID": "189775",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232697",
+      "fromID": "189773",
+      "toID": "189774",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232698",
+      "fromID": "189766",
+      "toID": "189777",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232699",
+      "fromID": "189777",
+      "toID": "189773",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232700",
+      "fromID": "189775",
+      "toID": "189778",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232701",
+      "fromID": "189778",
+      "toID": "189768",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232702",
+      "fromID": "189777",
+      "toID": "189779",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232703",
+      "fromID": "189779",
+      "toID": "189778",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232704",
+      "fromID": "189781",
+      "toID": "189782",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232705",
+      "fromID": "189780",
+      "toID": "189781",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232706",
+      "fromID": "189782",
+      "toID": "189784",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232707",
+      "fromID": "189784",
+      "toID": "189750",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232708",
+      "fromID": "189748",
+      "toID": "189785",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232709",
+      "fromID": "189785",
+      "toID": "189780",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232710",
+      "fromID": "189785",
+      "toID": "189786",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232711",
+      "fromID": "189786",
+      "toID": "189784",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232712",
+      "fromID": "189788",
+      "toID": "189789",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232713",
+      "fromID": "189787",
+      "toID": "189788",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232714",
+      "fromID": "189789",
+      "toID": "189791",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232715",
+      "fromID": "189791",
+      "toID": "189754",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232716",
+      "fromID": "189752",
+      "toID": "189792",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232717",
+      "fromID": "189792",
+      "toID": "189787",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232718",
+      "fromID": "189792",
+      "toID": "189793",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "232719",
+      "fromID": "189793",
+      "toID": "189791",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

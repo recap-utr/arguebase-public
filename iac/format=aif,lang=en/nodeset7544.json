@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143796",
+      "text": "... and woe betide you if you dare to express any doubts.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:54"
+    },
+    {
+      "nodeID": "143797",
+      "text": "Really? The poster seems to be insinuating that people who express doubts suffer some kind of sanction. Could he/she please elaborate?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:54"
+    },
+    {
+      "nodeID": "143798",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:58:54"
+    },
+    {
+      "nodeID": "143799",
+      "text": "Robert Naeye, a writer for Astronomy magazine and an evolutionist, wrote that life on earth is the result of 'a long sequence of improbable events [that] transpired in just the right way to bring forth our existence, as if we had won a million-dollar lottery a million times in a row.'",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:54"
+    },
+    {
+      "nodeID": "143800",
+      "text": "And because this man said it, it must be true? A simple appeal to authority.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:54"
+    },
+    {
+      "nodeID": "143801",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:58:54"
+    },
+    {
+      "nodeID": "143802",
+      "text": "Now that's what I'm talking about. emoticon_xhoho emoticon_xgood",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:54"
+    },
+    {
+      "nodeID": "143803",
+      "text": "You mean you are as biologically ignorant and as easily refuted as the thread originator? Yes, we knew that already. Why all the big letters?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:54"
+    },
+    {
+      "nodeID": "143804",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:58:54"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186120",
+      "fromID": "143797",
+      "toID": "143798",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186121",
+      "fromID": "143798",
+      "toID": "143796",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186122",
+      "fromID": "143800",
+      "toID": "143801",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186123",
+      "fromID": "143801",
+      "toID": "143799",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186124",
+      "fromID": "143803",
+      "toID": "143804",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186125",
+      "fromID": "143804",
+      "toID": "143802",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

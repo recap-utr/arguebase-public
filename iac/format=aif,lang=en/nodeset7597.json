@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "144673",
+      "text": "James Madison in Federalist 51 explained, 'In framing a government which is to be administered by men over men the great difficulty lies in this: You must first enable the government to control the governed, and in the next place, oblige it to control itself.'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:38"
+    },
+    {
+      "nodeID": "144674",
+      "text": "I believe you are misinterpreting Mr. Madison. James Madison made it clear throughout his writings that a powerful government was something to be worried about and carefully watched. But, lets say your right. Where do you draw the line? For example: seeing as religion has most likely killed more people than cancer, under your theory, what is to stop government from outlawing organized religion? You once told me you were studied in the ways of Joseph Smith and Brigham Young, would you be willing to give up your freedom of religion to protect other freedoms?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:38"
+    },
+    {
+      "nodeID": "144675",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:00:38"
+    },
+    {
+      "nodeID": "144676",
+      "text": "rich people can take away poor peoples freedom thats why marx was so important he showed us that goverment can be the great equaliser because if only government owns property then nobody will be rich and we will all be equal",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:38"
+    },
+    {
+      "nodeID": "144677",
+      "text": "I believe that the theory you speak of is called slavery; everybody is equal because they have nothing and need to work long and hard just to earn the privilege of living in order to serve their masters.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:38"
+    },
+    {
+      "nodeID": "144678",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:00:38"
+    },
+    {
+      "nodeID": "144679",
+      "text": "Which is the more important freedom- freedom from government control of guns or freedom from gun violence and murder?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:38"
+    },
+    {
+      "nodeID": "144680",
+      "text": "You speak as if these two things are mutually exclusive, they are not. Government control of guns only works on those willing to obey the law. Government cannot control criminals, they can and should however punish them when they catch them. Allow me to ask you a question: Which is more important a perceived saftey via government control or the freedoms endowed by our creator and enumerated in the bill of rights? I asked you before (you didn't answer) what rights are you willing to give up for what you perceive as a safer life? You once posted that you were studied in the ways of Joseph Smith and Brigham Young, as it could be argued that religion has killed more people then cancer would you be willing to give up that freedom? How about if the government said you can own a Bible but not a Koran? Or you could only buy one religios text per month?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:38"
+    },
+    {
+      "nodeID": "144681",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:00:38"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186740",
+      "fromID": "144674",
+      "toID": "144675",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186741",
+      "fromID": "144675",
+      "toID": "144673",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186742",
+      "fromID": "144677",
+      "toID": "144678",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186743",
+      "fromID": "144678",
+      "toID": "144676",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186744",
+      "fromID": "144680",
+      "toID": "144681",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186745",
+      "fromID": "144681",
+      "toID": "144679",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

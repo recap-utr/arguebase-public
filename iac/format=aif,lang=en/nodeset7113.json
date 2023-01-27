@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138045",
+      "text": "The Policy of Policy Recission",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:15"
+    },
+    {
+      "nodeID": "138046",
+      "text": "And, check out this YouTube presentation: Daily Kos: We need 10 million views of this YouTube by next week",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:16"
+    },
+    {
+      "nodeID": "138047",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:46:16"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182034",
+      "fromID": "138046",
+      "toID": "138047",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182035",
+      "fromID": "138047",
+      "toID": "138045",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148706",
+      "text": "Thats not the question we need to ask. We should be asking 'Would I have done the same thing, given that situation?' If enough people answer yes, it is deemed to have been a reasonable course of action. What I heard was that they had caught the guy, and had him pinned onto the floor of the train when one officer shot him at point blank range five times. Which doesn't sound reasonable to me.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:07"
+    },
+    {
+      "nodeID": "148707",
+      "text": "so if for instance enough people think that to exterminate the Jews is good, then it has to be good? the rule of the mob rules right? emoticon_rolleyes",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:07"
+    },
+    {
+      "nodeID": "148708",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:09:07"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189568",
+      "fromID": "148707",
+      "toID": "148708",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189569",
+      "fromID": "148708",
+      "toID": "148706",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

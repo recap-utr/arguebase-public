@@ -1,0 +1,1129 @@
+{
+  "nodes": [
+    {
+      "nodeID": "253483",
+      "text": "TRUMP : Our country is in serious trouble",
+      "type": "L",
+      "timestamp": "2016-12-21 17:52:53"
+    },
+    {
+      "nodeID": "253484",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:52:53",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253485",
+      "text": "USA is in serious trouble",
+      "type": "I",
+      "timestamp": "2016-12-21 17:52:53"
+    },
+    {
+      "nodeID": "253486",
+      "text": "M: TRUMP : Our country is in serious trouble",
+      "type": "L",
+      "timestamp": "2016-12-21 17:52:53"
+    },
+    {
+      "nodeID": "253487",
+      "text": "TRUMP : We don't win anymore",
+      "type": "L",
+      "timestamp": "2016-12-21 17:52:53"
+    },
+    {
+      "nodeID": "253488",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:52:53",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253489",
+      "text": "USA don't win anymore",
+      "type": "I",
+      "timestamp": "2016-12-21 17:52:54"
+    },
+    {
+      "nodeID": "253490",
+      "text": "M: TRUMP : We don't win anymore",
+      "type": "L",
+      "timestamp": "2016-12-21 17:52:54"
+    },
+    {
+      "nodeID": "253491",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:52:54",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253492",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:52:54",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "253493",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:52:54",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "253494",
+      "text": "TRUMP : We don't beat China in trade",
+      "type": "L",
+      "timestamp": "2016-12-21 17:52:54"
+    },
+    {
+      "nodeID": "253495",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:52:55",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253496",
+      "text": "USA don't beat China in trade",
+      "type": "I",
+      "timestamp": "2016-12-21 17:52:55"
+    },
+    {
+      "nodeID": "253497",
+      "text": "M: TRUMP : We don't beat China in trade",
+      "type": "L",
+      "timestamp": "2016-12-21 17:52:55"
+    },
+    {
+      "nodeID": "253498",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:52:55",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "253499",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:52:55",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253500",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:52:56",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "253501",
+      "text": "TRUMP : We don't beat Japan",
+      "type": "L",
+      "timestamp": "2016-12-21 17:52:56"
+    },
+    {
+      "nodeID": "253502",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:52:56",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253503",
+      "text": "USA don't beat Japan in trade",
+      "type": "I",
+      "timestamp": "2016-12-21 17:52:56"
+    },
+    {
+      "nodeID": "253504",
+      "text": "M: TRUMP : We don't beat Japan",
+      "type": "L",
+      "timestamp": "2016-12-21 17:52:56"
+    },
+    {
+      "nodeID": "253505",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:52:56",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "253506",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:52:56",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253507",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:52:56",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "253508",
+      "text": "TRUMP : with their millions and millions of cars coming into this country",
+      "type": "L",
+      "timestamp": "2016-12-21 17:52:57"
+    },
+    {
+      "nodeID": "253509",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:52:57",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253510",
+      "text": "millions and millions of Japanese cars are coming into the USA",
+      "type": "I",
+      "timestamp": "2016-12-21 17:52:57"
+    },
+    {
+      "nodeID": "253511",
+      "text": "M: TRUMP : with their millions and millions of cars coming into this country",
+      "type": "L",
+      "timestamp": "2016-12-21 17:52:57"
+    },
+    {
+      "nodeID": "253512",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:52:57",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "253513",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:52:57",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253514",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:52:57",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "253515",
+      "text": "M: TRUMP : We can't beat Mexico, at the border",
+      "type": "L",
+      "timestamp": "2016-12-21 17:52:57"
+    },
+    {
+      "nodeID": "253516",
+      "text": "TRUMP : We can't beat Mexico, at the border or in trade",
+      "type": "L",
+      "timestamp": "2016-12-21 17:52:57"
+    },
+    {
+      "nodeID": "253517",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:52:58",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253518",
+      "text": "USA can't beat Mexico at the border or in trade",
+      "type": "I",
+      "timestamp": "2016-12-21 17:52:58"
+    },
+    {
+      "nodeID": "253519",
+      "text": "M: TRUMP : We can't beat Mexico, at the border or in trade",
+      "type": "L",
+      "timestamp": "2016-12-21 17:52:58"
+    },
+    {
+      "nodeID": "253520",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:52:58",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "253521",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:52:58",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253522",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:52:58",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "253523",
+      "text": "TRUMP : We can't do anything right",
+      "type": "L",
+      "timestamp": "2016-12-21 17:52:58"
+    },
+    {
+      "nodeID": "253524",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:52:58",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253525",
+      "text": "USA can't do anything right",
+      "type": "I",
+      "timestamp": "2016-12-21 17:52:59"
+    },
+    {
+      "nodeID": "253526",
+      "text": "M: TRUMP : We can't do anything right",
+      "type": "L",
+      "timestamp": "2016-12-21 17:52:59"
+    },
+    {
+      "nodeID": "253527",
+      "text": "TRUMP : Our military has to be strengthened",
+      "type": "L",
+      "timestamp": "2016-12-21 17:52:59"
+    },
+    {
+      "nodeID": "253528",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:52:59",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253529",
+      "text": "American military has to be strengthened",
+      "type": "I",
+      "timestamp": "2016-12-21 17:52:59"
+    },
+    {
+      "nodeID": "253530",
+      "text": "M: TRUMP : Our military has to be strengthened",
+      "type": "L",
+      "timestamp": "2016-12-21 17:52:59"
+    },
+    {
+      "nodeID": "253531",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:52:59",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253532",
+      "text": "TRUMP : Our vets have to be taken care of",
+      "type": "L",
+      "timestamp": "2016-12-21 17:52:59"
+    },
+    {
+      "nodeID": "253533",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:52:59",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253534",
+      "text": "American vets have to be taken care of",
+      "type": "I",
+      "timestamp": "2016-12-21 17:53:00"
+    },
+    {
+      "nodeID": "253535",
+      "text": "M: TRUMP : Our vets have to be taken care of",
+      "type": "L",
+      "timestamp": "2016-12-21 17:53:00"
+    },
+    {
+      "nodeID": "253536",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:53:00",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "253537",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:53:00",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "253538",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:53:00",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "253539",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:53:00",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253540",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:53:00",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "253541",
+      "text": "TRUMP : We have to end Obamacare",
+      "type": "L",
+      "timestamp": "2016-12-21 17:53:00"
+    },
+    {
+      "nodeID": "253542",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:53:01",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253543",
+      "text": "USA have to end Obamacare",
+      "type": "I",
+      "timestamp": "2016-12-21 17:53:01"
+    },
+    {
+      "nodeID": "253544",
+      "text": "M: TRUMP : We have to end Obamacare",
+      "type": "L",
+      "timestamp": "2016-12-21 17:53:01"
+    },
+    {
+      "nodeID": "253545",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:53:01",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "253546",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:53:01",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253547",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:53:01",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "253548",
+      "text": "TRUMP : we have to make our country great again",
+      "type": "L",
+      "timestamp": "2016-12-21 17:53:01"
+    },
+    {
+      "nodeID": "253549",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:53:01",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253550",
+      "text": "we have to make USA great again",
+      "type": "I",
+      "timestamp": "2016-12-21 17:53:01"
+    },
+    {
+      "nodeID": "253551",
+      "text": "M: TRUMP : we have to make our country great again",
+      "type": "L",
+      "timestamp": "2016-12-21 17:53:02"
+    },
+    {
+      "nodeID": "253552",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:53:02",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "253553",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:53:02",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253554",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:53:02",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "253555",
+      "text": "TRUMP : I will do that",
+      "type": "L",
+      "timestamp": "2016-12-21 17:53:02"
+    },
+    {
+      "nodeID": "253556",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:53:02",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "253557",
+      "text": "TRUMP will make USA great again",
+      "type": "I",
+      "timestamp": "2016-12-21 17:53:02"
+    },
+    {
+      "nodeID": "253558",
+      "text": "M: TRUMP : I will do that",
+      "type": "L",
+      "timestamp": "2016-12-21 17:53:02"
+    },
+    {
+      "nodeID": "253559",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:53:02",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253560",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:53:03",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "253561",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 17:53:03",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "253562",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:53:03",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "253563",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 17:53:03",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "253564",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 17:53:03",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "304863",
+      "fromID": "253484",
+      "toID": "253485",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304864",
+      "fromID": "253483",
+      "toID": "253484",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304865",
+      "fromID": "253488",
+      "toID": "253489",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304866",
+      "fromID": "253487",
+      "toID": "253488",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304867",
+      "fromID": "253483",
+      "toID": "253491",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304868",
+      "fromID": "253491",
+      "toID": "253487",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304869",
+      "fromID": "253489",
+      "toID": "253492",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304870",
+      "fromID": "253492",
+      "toID": "253485",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304871",
+      "fromID": "253491",
+      "toID": "253493",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304872",
+      "fromID": "253493",
+      "toID": "253492",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304873",
+      "fromID": "253495",
+      "toID": "253496",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304874",
+      "fromID": "253494",
+      "toID": "253495",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304875",
+      "fromID": "253496",
+      "toID": "253498",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304876",
+      "fromID": "253498",
+      "toID": "253489",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304877",
+      "fromID": "253487",
+      "toID": "253499",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304878",
+      "fromID": "253499",
+      "toID": "253494",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304879",
+      "fromID": "253499",
+      "toID": "253500",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304880",
+      "fromID": "253500",
+      "toID": "253498",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304881",
+      "fromID": "253502",
+      "toID": "253503",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304882",
+      "fromID": "253501",
+      "toID": "253502",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304883",
+      "fromID": "253503",
+      "toID": "253505",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304884",
+      "fromID": "253505",
+      "toID": "253489",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304885",
+      "fromID": "253487",
+      "toID": "253506",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304886",
+      "fromID": "253506",
+      "toID": "253501",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304887",
+      "fromID": "253506",
+      "toID": "253507",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304888",
+      "fromID": "253507",
+      "toID": "253505",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304889",
+      "fromID": "253509",
+      "toID": "253510",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304890",
+      "fromID": "253508",
+      "toID": "253509",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304891",
+      "fromID": "253510",
+      "toID": "253512",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304892",
+      "fromID": "253512",
+      "toID": "253503",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304893",
+      "fromID": "253501",
+      "toID": "253513",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304894",
+      "fromID": "253513",
+      "toID": "253508",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304895",
+      "fromID": "253513",
+      "toID": "253514",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304896",
+      "fromID": "253514",
+      "toID": "253512",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304897",
+      "fromID": "253517",
+      "toID": "253518",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304898",
+      "fromID": "253516",
+      "toID": "253517",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304899",
+      "fromID": "253518",
+      "toID": "253520",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304900",
+      "fromID": "253520",
+      "toID": "253489",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304901",
+      "fromID": "253487",
+      "toID": "253521",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304902",
+      "fromID": "253521",
+      "toID": "253516",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304903",
+      "fromID": "253521",
+      "toID": "253522",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304904",
+      "fromID": "253522",
+      "toID": "253520",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304905",
+      "fromID": "253524",
+      "toID": "253525",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304906",
+      "fromID": "253523",
+      "toID": "253524",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304907",
+      "fromID": "253528",
+      "toID": "253529",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304908",
+      "fromID": "253527",
+      "toID": "253528",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304909",
+      "fromID": "253523",
+      "toID": "253531",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304910",
+      "fromID": "253531",
+      "toID": "253527",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304911",
+      "fromID": "253533",
+      "toID": "253534",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304912",
+      "fromID": "253532",
+      "toID": "253533",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304913",
+      "fromID": "253525",
+      "toID": "253536",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304914",
+      "fromID": "253536",
+      "toID": "253529",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304915",
+      "fromID": "253531",
+      "toID": "253537",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304916",
+      "fromID": "253537",
+      "toID": "253536",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304917",
+      "fromID": "253525",
+      "toID": "253538",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304918",
+      "fromID": "253538",
+      "toID": "253534",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304919",
+      "fromID": "253523",
+      "toID": "253539",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304920",
+      "fromID": "253539",
+      "toID": "253532",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304921",
+      "fromID": "253539",
+      "toID": "253540",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304922",
+      "fromID": "253540",
+      "toID": "253538",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304923",
+      "fromID": "253542",
+      "toID": "253543",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304924",
+      "fromID": "253541",
+      "toID": "253542",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304925",
+      "fromID": "253525",
+      "toID": "253545",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304926",
+      "fromID": "253545",
+      "toID": "253543",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304927",
+      "fromID": "253523",
+      "toID": "253546",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304928",
+      "fromID": "253546",
+      "toID": "253541",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304929",
+      "fromID": "253546",
+      "toID": "253547",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304930",
+      "fromID": "253547",
+      "toID": "253545",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304931",
+      "fromID": "253549",
+      "toID": "253550",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304932",
+      "fromID": "253548",
+      "toID": "253549",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304933",
+      "fromID": "253525",
+      "toID": "253552",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304934",
+      "fromID": "253552",
+      "toID": "253550",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304935",
+      "fromID": "253523",
+      "toID": "253553",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304936",
+      "fromID": "253553",
+      "toID": "253548",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304937",
+      "fromID": "253553",
+      "toID": "253554",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304938",
+      "fromID": "253554",
+      "toID": "253552",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304939",
+      "fromID": "253556",
+      "toID": "253557",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304940",
+      "fromID": "253555",
+      "toID": "253556",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304941",
+      "fromID": "253548",
+      "toID": "253559",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304942",
+      "fromID": "253559",
+      "toID": "253555",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304943",
+      "fromID": "253489",
+      "toID": "253560",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304944",
+      "fromID": "253560",
+      "toID": "253525",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304945",
+      "fromID": "253487",
+      "toID": "253561",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304946",
+      "fromID": "253561",
+      "toID": "253523",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304947",
+      "fromID": "253561",
+      "toID": "253562",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304948",
+      "fromID": "253562",
+      "toID": "253560",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304949",
+      "fromID": "253550",
+      "toID": "253563",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304950",
+      "fromID": "253563",
+      "toID": "253557",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304951",
+      "fromID": "253559",
+      "toID": "253564",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "304952",
+      "fromID": "253564",
+      "toID": "253563",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

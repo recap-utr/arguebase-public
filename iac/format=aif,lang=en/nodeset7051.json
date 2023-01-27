@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "136908",
+      "text": "What about the translations? Why are there differences in the translations? There is a big difference in 'kill' to 'murder'.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:02"
+    },
+    {
+      "nodeID": "136909",
+      "text": "I think the reason for the differences in translations is because the translations i think are geared more to audience. There are easier translations for little kids and those who have a hard time with bigger words. Another thing that has to be taken into account is that it is not always easy to translate exactly from one language to another. Some English words have several equivalents in other languages so the differences in the translations come from which equivalent was chosen by the translators.  P.S. This of course is not to argue with what the person stated above.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:44:02"
+    },
+    {
+      "nodeID": "136910",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:44:02"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181206",
+      "fromID": "136909",
+      "toID": "136910",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181207",
+      "fromID": "136910",
+      "toID": "136908",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143190",
+      "text": "That seems to be the fatal flaw in the study. So the murder rate doesn't suddenly decrease when you are 26 miles away from a gun show. Some people have said that gun shows increase murder in places as far away as Mexico. Simply comparing homicides rates in areas very near gun shows to homicide rates in other areas doesn't prove anything.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:27"
+    },
+    {
+      "nodeID": "143191",
+      "text": "You could have saved yourself some typing if you had of read the premise at all:",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:27"
+    },
+    {
+      "nodeID": "143192",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:57:27"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185690",
+      "fromID": "143191",
+      "toID": "143192",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185691",
+      "fromID": "143192",
+      "toID": "143190",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

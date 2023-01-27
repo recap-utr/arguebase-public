@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139714",
+      "text": "And anger leads to hate. We can all quote Star Wars if we want to. Thing is that it applies to atheists too. It's the classic thing, people raised in a harsh, ostensibly religious, environment are scared of the image of God portrayed to them by nuns, or pastors or imams. Because fear cannot sustain faith, once they leave that environment they fall away. Then they become angry with God for, as they claim, not existing. This leads them to hatred of those who do believe, who they see as the same ones responsible for their harsh upbringing. Come on, let's all play cod psychology emoticon_rolleyes",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:53"
+    },
+    {
+      "nodeID": "139715",
+      "text": "I love Jesus John the Beloved is my most favorite writer throughout time If you think I have a problem with a follower of Jesus your wrong. I have a problem with the Christians",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:53"
+    },
+    {
+      "nodeID": "139716",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:49:53"
+    },
+    {
+      "nodeID": "139717",
+      "text": "This is where some will deny the OT as an anachronism and only refer to the New Commandment and New Covenant. Of course, by that reasoning - unless selective - Genesis and creation also are anachronisms.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:53"
+    },
+    {
+      "nodeID": "139718",
+      "text": "Clearly this is true. There are a multitude of denominations from every religion. This is as specially true with Christianity because the texts do not explain how all the ceremonies are done. Baptism was performed in areas where full immersion could not have occurred but the best explanations of baptism paint a picture of a full immersion. The Church of Christ believes one must baptize in the name of Jesus, the Father, Son and Holy Ghost thing was while Jesus lived. Because the practice of speaking in tongues was used by the first church, some believe the art must stay in the church. Most of the complications to Christianity is simply because the followers really believed Jesus would return. No one wrote a book on the Religion. The Religion changed a great deal through time. King James was no saint and he had clear reasons he would not allow some letters into an authorized version he would sign on to. One letter spoke of the sin of Slavery. This was clearly at odds with King James. Other items would have direct negative effects on the kingdom and I'll let others find the reasoning behind the withdraws.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:53"
+    },
+    {
+      "nodeID": "139719",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:49:53"
+    },
+    {
+      "nodeID": "139720",
+      "text": "No matter what religion we are, we are human, we stray, we sin, WE ARE NOT PERFECT. But many religions preach forgiveness for sins. God forgives.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:53"
+    },
+    {
+      "nodeID": "139721",
+      "text": "I'm perfect.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:53"
+    },
+    {
+      "nodeID": "139722",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:49:53"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183214",
+      "fromID": "139715",
+      "toID": "139716",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183215",
+      "fromID": "139716",
+      "toID": "139714",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183216",
+      "fromID": "139718",
+      "toID": "139719",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183217",
+      "fromID": "139719",
+      "toID": "139717",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183218",
+      "fromID": "139721",
+      "toID": "139722",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183219",
+      "fromID": "139722",
+      "toID": "139720",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

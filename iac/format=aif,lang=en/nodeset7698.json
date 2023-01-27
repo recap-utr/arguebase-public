@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "146410",
+      "text": "The so called 'pro-choice' movement is in fact in favour of only one choice, ie abortion. For example, a woman who telephones the 'British Pregnancy Advisory Service (sic)' looking for help with a crisis pregnancy will not be given any help or advice. They only deal in abortions, performing over a quarter of all UK abortions. They will not even refer the woman to pro-life organisations such as Life. So much for choice!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:04:14"
+    },
+    {
+      "nodeID": "146411",
+      "text": "Oh, you mean unlike the pro-life organizations that regularly refer women that come to them to pro-choice organizations? I'm being facetious, to get it out of my system, but seriously why would a 'pro-choice' organization refer people to a 'pro-life' organization when such organizations are regarded (rightly or wrongly) as 'pro-paternalism'?  The claim that 'the so called 'pro-choice movement is in fact in favour of only one choice' is certainly a important criticism that the pro-choice movement faces, because it is about supporting a woman's choice to have an abortion.  Unfortunately so much time and attention is devoted to protecting that choice that it overshadows the whole point of the pro-choice position: the woman's right to choose. Too little time and attention is spent protecting a woman's autonomy in making that choice or supporting a woman's choice not to have an abortion.  Fortunately in Canada, where abortion is legal, the pro-choice movement is quickly recognizing that providing women with the information and support to make an informed decision either way is just as important as providing the means to exercise one choice. I'm pointing this out because I think you may be mistaking the pro-choice's struggle to keep the abortion option open with what the pro-choice movement is actually in favour of: the informed choice of a woman with regard to how she wants to deal with pregnancy.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:04:14"
+    },
+    {
+      "nodeID": "146412",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:04:14"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187958",
+      "fromID": "146411",
+      "toID": "146412",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187959",
+      "fromID": "146412",
+      "toID": "146410",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

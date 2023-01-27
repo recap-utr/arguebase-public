@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143346",
+      "text": "Oh damn that free market! We should get rid of peoples' choices and tell them what they can and can't do. We should enforce centrally controlled economic 5 year plans and strip people of any notion of markets. People should be TOLD what to buy, where to buy it, from who to buy it from and the Gov't should set all prices and quotas! DOWN WITH THE FREE MARKET! emoticon_xgood",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:44"
+    },
+    {
+      "nodeID": "143347",
+      "text": "OH FREE MARKET???? IM goin to take the embryos and fetuses slain in abortion centers and turn it into a new food source and sell it at the grocery store!!!!!!!!!!!!!!!!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:44"
+    },
+    {
+      "nodeID": "143348",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:57:44"
+    },
+    {
+      "nodeID": "143349",
+      "text": "If the FDA allowed it. Sure. I don't think there would be such a market though and such a investment would quickly die. Canabalism has never really been a big part of western ideas or diets.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:44"
+    },
+    {
+      "nodeID": "143350",
+      "text": "And I think it would be good to point out that cannibalism in this context is the eating of human flesh (not necissarily that of a mentally existant human, just the fact that it contains human cells - the same could be said for eating cloned human cells). Otherwise nutjobs like Steeeve, Chloe, and this new SuperSport/EZ clone will start claiming that you have to consider foetuses living human beings for it to be cannibalism, which I am sure they would do.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:44"
+    },
+    {
+      "nodeID": "143351",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:57:45"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185802",
+      "fromID": "143347",
+      "toID": "143348",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185803",
+      "fromID": "143348",
+      "toID": "143346",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185804",
+      "fromID": "143350",
+      "toID": "143351",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185805",
+      "fromID": "143351",
+      "toID": "143349",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

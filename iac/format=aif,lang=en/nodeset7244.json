@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139723",
+      "text": "What makes you think doctors are paid badly in a national healthcare system? GP salaries in the UK average GBP100 000, that's US$200 000, around 4 times the median income in this country. Medical training is hugely competitive, requiring higher grades than anything except Veterinary Science. Transplant surgery here is limited by a shortage of donors, not doctors or funding.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:54"
+    },
+    {
+      "nodeID": "139724",
+      "text": "I don't think I said they'd be paid badly. ...and you say 'this country' as if you're here in the USA. Are you in the UK or not? I noticed you did not provide a link to your claim of doctors pay in the UK....so I looked it up. It is hard to conceive of an average being higher than any one of the samples and the highest paid in the UK appear to be 20 year veterans making GBP79,500 ..... updated 4/1/2008 (That's today and I doubt it's an April Fool joke.)  http://www.payscale.com/research/Uk/People_with_jobs_as_Physicians_%2f_Doctors/Salary Do you have another source that justifies your exageration?emoticon_rolleyes  I do notice in the third bar chart down the page that UK Physicians IN PRIVATE PRACTICE make GBP100,000. It appears that the Government Doctors make a lot less (GBP42,500 for state and local...GBP54,000 for federal.) Where is your back-up?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:54"
+    },
+    {
+      "nodeID": "139725",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:49:54"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183220",
+      "fromID": "139724",
+      "toID": "139725",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183221",
+      "fromID": "139725",
+      "toID": "139723",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

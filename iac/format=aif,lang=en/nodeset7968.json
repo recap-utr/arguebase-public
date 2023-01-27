@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "150767",
+      "text": "Staunchly pro-life",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:18"
+    },
+    {
+      "nodeID": "150768",
+      "text": "Because of the board?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:19"
+    },
+    {
+      "nodeID": "150769",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:13:19"
+    },
+    {
+      "nodeID": "150770",
+      "text": "You mean pro-murder! Admit it! Folks on the pro-abortion side are so hung-up on the so-called 'quality of life' of people that they just don't care about the ensuing consequences of an increasingly hostile culture of death.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:19"
+    },
+    {
+      "nodeID": "150771",
+      "text": "And some of us are so hung up on stereotyping, emotionally charged rhetoric that they will never be able to accomplish one thing to address the abortion issue.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:19"
+    },
+    {
+      "nodeID": "150772",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:13:19"
+    },
+    {
+      "nodeID": "150773",
+      "text": "This sort of attitude being one of the reasons I have become more pro-choice.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:19"
+    },
+    {
+      "nodeID": "150774",
+      "text": "You should make opinions basedon God, not the way other people act. People can be right and still have annoying attitude.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:19"
+    },
+    {
+      "nodeID": "150775",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:13:19"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191020",
+      "fromID": "150768",
+      "toID": "150769",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191021",
+      "fromID": "150769",
+      "toID": "150767",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191022",
+      "fromID": "150771",
+      "toID": "150772",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191023",
+      "fromID": "150772",
+      "toID": "150770",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191024",
+      "fromID": "150774",
+      "toID": "150775",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191025",
+      "fromID": "150775",
+      "toID": "150773",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

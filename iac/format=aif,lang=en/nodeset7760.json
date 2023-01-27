@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "147619",
+      "text": "Exactly. Also, 'traditional' marriage was adopted from pagan ceremonies that allowed same-sex couples to be wed along with hererosexual couples. Either way, his traditional marriage statements are flawed greatly.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:06:33"
+    },
+    {
+      "nodeID": "147620",
+      "text": "I have a feeling that the tradtitional marriage the Dobson is refering to is only about 100 years old. Hardly traditional if you view it in the perspective of history. Up until the turn of the 20th century marriage was about property. The man physically owned the woman and the children. I sometimes laugh at these cithgaps, espically the women, when they talk about defending the traditional marriage. They are trying to defend a redefinition of something that has allready been redefined.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:06:33"
+    },
+    {
+      "nodeID": "147621",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:06:33"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "188808",
+      "fromID": "147620",
+      "toID": "147621",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188809",
+      "fromID": "147621",
+      "toID": "147619",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

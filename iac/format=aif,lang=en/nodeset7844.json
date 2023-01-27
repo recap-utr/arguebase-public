@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148679",
+      "text": "--<~Macro Evolution~<-- This is one of the most hilarious things that Charles Darwin has said.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:02"
+    },
+    {
+      "nodeID": "148680",
+      "text": "Really. Please cite where Darwin discussed 'Macro Evolution.' What paper or book, and what chapter? What did he say about it that is hilarious. Have you actually read Darwin? Perhaps his paper on earth worms? Or maybe his paper on the formation of coral islands? I haven't read either of those or most of his other works. But I happen to have a copy of On The Origin Of Species and I can't find any discussion of 'Macro Evolution'. I even have an electronic version of Origin and a search of the text gives zero hits on 'Macro Evolution' or 'macroevolution' or even 'macro-evolution.' In fact, there are zero hits on 'evolution.'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:02"
+    },
+    {
+      "nodeID": "148681",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:09:02"
+    },
+    {
+      "nodeID": "148682",
+      "text": "But he does have a point..",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:02"
+    },
+    {
+      "nodeID": "148683",
+      "text": "I see. Then you have none?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:02"
+    },
+    {
+      "nodeID": "148684",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:09:02"
+    },
+    {
+      "nodeID": "148685",
+      "text": "OP: I tried to read your post... I just couldn't finish. I am going to go do something a little less painful, like sticking my hand in a blender. At least spell-check it...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:02"
+    },
+    {
+      "nodeID": "148686",
+      "text": "Well did I force you to read it? I didn't think so... And does it matter about a few words being mis-spelled. I dont think so... And have you read any of my posts all the way through... Prolly not so you didn't see my age.. Im only 14 and this is my Theory... expecting a 14 year old to know correct grammar and Spelling is asking a monkey to do a backflip for you.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:02"
+    },
+    {
+      "nodeID": "148687",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:09:02"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189550",
+      "fromID": "148680",
+      "toID": "148681",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189551",
+      "fromID": "148681",
+      "toID": "148679",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189552",
+      "fromID": "148683",
+      "toID": "148684",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189553",
+      "fromID": "148684",
+      "toID": "148682",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189554",
+      "fromID": "148686",
+      "toID": "148687",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189555",
+      "fromID": "148687",
+      "toID": "148685",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

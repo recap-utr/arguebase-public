@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "154770",
+      "text": "I don't see how this makes her as an anti-gun candidate. She's the one that resisted America signing onto the global arms trade treaty.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:22:21"
+    },
+    {
+      "nodeID": "154771",
+      "text": "So, you don't see how stating that in a functioning democratic society guns belong only in the hands of the state is not anti gun?? Maybe you could give us an example of a statement that is more anti gun that that because I am having trouble imagining one.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:22:21"
+    },
+    {
+      "nodeID": "154772",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:22:21"
+    },
+    {
+      "nodeID": "154773",
+      "text": "More concrete than the thought processes which dismiss out of hand the flat statement of the US Secretary of State opining that no functioning democracy should allow private ownership of guns, but allow them only to be lawfully held by the state? Sleep well.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:22:21"
+    },
+    {
+      "nodeID": "154774",
+      "text": "No kidding. What could POSSIBLY be more concrete? As far as I can tell, she has never publicly made a statement specifically about the DC gun ban but since, as you pointed out, she DID say that no functioning democracy should allow private ownership of guns, I have trouble believing that she thinks the private citizens of DC should be allowed to own guns, UNLESS what she is saying is that since we own guns, we should move toward a monarchy or perhapse some kind of dictatorship. She did not, as far as I know, voice her opinion regarding private gun ownership in a totalitarian system.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:22:21"
+    },
+    {
+      "nodeID": "154775",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:22:21"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193856",
+      "fromID": "154771",
+      "toID": "154772",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193857",
+      "fromID": "154772",
+      "toID": "154770",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193858",
+      "fromID": "154774",
+      "toID": "154775",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193859",
+      "fromID": "154775",
+      "toID": "154773",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

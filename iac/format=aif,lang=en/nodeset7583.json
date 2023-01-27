@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "144464",
+      "text": "Why if they are going to kill themselves, don't they do that first? Instead of after? After all they are dead? Total freedom mean's total freedom for the Psycho's also. We have many, many, more of them and we are getting more everyday.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:12"
+    },
+    {
+      "nodeID": "144465",
+      "text": "Well, first of all, the 2nd Amendment is quite regulated, so don't think regulations are an answer.  The 'Unregulated' Gun",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:12"
+    },
+    {
+      "nodeID": "144466",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:00:12"
+    },
+    {
+      "nodeID": "144467",
+      "text": "Even if more guns do help prevent mass shootings it doesn't necessarily follow that allowing more law abiding citizens to carry guns around is the solution.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:12"
+    },
+    {
+      "nodeID": "144468",
+      "text": "So your answer is to just continue with the way things are now: continue forcing the law-abiding to go unarmed and let only the shooter have exclusive access to guns so they can kill all they want? How many unarmed people have to be killed in a 'gun free zone' before you come to realize that mandating unarmed and helplessness will do nothing to save even a single life?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:00:12"
+    },
+    {
+      "nodeID": "144469",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:00:12"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186584",
+      "fromID": "144465",
+      "toID": "144466",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186585",
+      "fromID": "144466",
+      "toID": "144464",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186586",
+      "fromID": "144468",
+      "toID": "144469",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186587",
+      "fromID": "144469",
+      "toID": "144467",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143107",
+      "text": "Then there's that state thaht wants to remove the use of BC and AD from the calendar. I guess they'll change it to some neutral like plus and minus numbers just to stay with the rest of the world....or maybe 2005 will change to 133,956,373,278.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:18"
+    },
+    {
+      "nodeID": "143108",
+      "text": "actually, the more common usage would be CE. and BCE (COmmon era, and before common era)",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:18"
+    },
+    {
+      "nodeID": "143109",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:57:18"
+    },
+    {
+      "nodeID": "143110",
+      "text": "Regardless of the name change, the calendars are still keyed on the birth and death of Christ...and that will be so at least until the atheists are able to come up with another numbering system and force it on everyone else just to pacify their own baby mentalities.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:18"
+    },
+    {
+      "nodeID": "143111",
+      "text": "I thought that the most commonly accepted date for the alleged birth of Jesus was in 4 B.C. Assuming the current calendar really were keyed on the birth of Christ, how could Christ have been born Before Christ?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:18"
+    },
+    {
+      "nodeID": "143112",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:57:18"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185634",
+      "fromID": "143108",
+      "toID": "143109",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185635",
+      "fromID": "143109",
+      "toID": "143107",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185636",
+      "fromID": "143111",
+      "toID": "143112",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185637",
+      "fromID": "143112",
+      "toID": "143110",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

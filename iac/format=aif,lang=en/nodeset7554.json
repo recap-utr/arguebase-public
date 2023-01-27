@@ -1,0 +1,211 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143909",
+      "text": "I simply am stating that the theory of evolution is as much of a religion as the theory of creation.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:09"
+    },
+    {
+      "nodeID": "143910",
+      "text": "Well, if you want to tell the truth, the theory of evolution is NOT a religion, it involves no magical deities, it takes nothing on faith. And since creation involves supernatural forces that are supported by absolutely NO evidence, it is not a scientific theory.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:09"
+    },
+    {
+      "nodeID": "143911",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:59:09"
+    },
+    {
+      "nodeID": "143912",
+      "text": "I hope you dont believe everything that is written in a textbook that has been changed over and over. The Bible never has.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:09"
+    },
+    {
+      "nodeID": "143913",
+      "text": "And that's the rub: it never has (apart from when it has of course, with the various versions that exist). You choose to put faith in the writings of a primitive bronze age society. I prefer to trust a textbook that is regularly updated to reflect our latest findings; our most up to date and accurate knowledge of the world.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:09"
+    },
+    {
+      "nodeID": "143914",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:59:09"
+    },
+    {
+      "nodeID": "143915",
+      "text": "Columbus went against 99.9% of all people that demonstrated the world was flat. Turns out 99.9% of them were wrong.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:09"
+    },
+    {
+      "nodeID": "143916",
+      "text": "And this ladies and gentleman is the problem: 'SheriG' and other creationists swallow myths and lies and never question them, for they reject the search for knowledge in favour of the security of mythology. '99.9%' of learned people around Columbus' time knew the world was a sphere and had done so for 2,000 years at least! The idea that people thought the world flat at the time is a myth. Try: http://nabataea.net/flatearth.html http://www.bede.org.uk/flatearth.htm http://www.christiananswers.net/q-aig/aig-c034.html They are from a variety of sources, even including a creationist one at the end. Oh and no surprise that the very first line of that last site is a lie, as that is standard practice of creation websites. 'Evolutionists often falsely accuse creationists of believing in a flat Earth' is untrue: we simply liken them to flat-Earthers because of the same assinine refusal to accept reality.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:10"
+    },
+    {
+      "nodeID": "143917",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:59:10"
+    },
+    {
+      "nodeID": "143918",
+      "text": "Columbus went against 99.9% of all people that demonstrated the world was flat. Turns out 99.9% of them were wrong. Not one of them tried to demonsrate by sailing off the edge, did they? Yet they thought that Columbus was insane for beleiving the world was round.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:10"
+    },
+    {
+      "nodeID": "143919",
+      "text": "yes. and in the 'middle-ages' roughly 80-90% of the world believed in superstition, black-magic, and myths. knowledge based on facts do not change, but such built on unproven and untestable believe usually does",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:10"
+    },
+    {
+      "nodeID": "143920",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:59:10"
+    },
+    {
+      "nodeID": "143921",
+      "text": "It makes more sense to believe in a devine creator, then to believe that every kind of living thing evolved from one another.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:10"
+    },
+    {
+      "nodeID": "143922",
+      "text": "Because...",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:10"
+    },
+    {
+      "nodeID": "143923",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:59:10"
+    },
+    {
+      "nodeID": "143924",
+      "text": "Genesis 1 states that every creature was given the ability to reproduce after its own kind.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:10"
+    },
+    {
+      "nodeID": "143925",
+      "text": "So? Genesis cannot be proven in the slightest.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:10"
+    },
+    {
+      "nodeID": "143926",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:59:10"
+    },
+    {
+      "nodeID": "143927",
+      "text": "Actually the Bible has changed, not to mention had omissions.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:10"
+    },
+    {
+      "nodeID": "143928",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:59:10"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "186200",
+      "fromID": "143910",
+      "toID": "143911",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186201",
+      "fromID": "143911",
+      "toID": "143909",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186202",
+      "fromID": "143913",
+      "toID": "143914",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186203",
+      "fromID": "143914",
+      "toID": "143912",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186204",
+      "fromID": "143916",
+      "toID": "143917",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186205",
+      "fromID": "143917",
+      "toID": "143915",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186206",
+      "fromID": "143919",
+      "toID": "143920",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186207",
+      "fromID": "143920",
+      "toID": "143918",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186208",
+      "fromID": "143922",
+      "toID": "143923",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186209",
+      "fromID": "143923",
+      "toID": "143921",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186210",
+      "fromID": "143925",
+      "toID": "143926",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186211",
+      "fromID": "143926",
+      "toID": "143924",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186212",
+      "fromID": "143927",
+      "toID": "143928",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "186213",
+      "fromID": "143928",
+      "toID": "143912",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

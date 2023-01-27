@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "147961",
+      "text": "but then you have to dump all your (secular) 'scientific' theories in there aswell.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:27"
+    },
+    {
+      "nodeID": "147962",
+      "text": "Yes. Scientific theories don't deal with God.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:27"
+    },
+    {
+      "nodeID": "147963",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:07:27"
+    },
+    {
+      "nodeID": "147964",
+      "text": "Or you can leave them both in the scientific theory category, which is what they are - theories, based off of assumptions and extrapolations - neither of which are void of error.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:27"
+    },
+    {
+      "nodeID": "147965",
+      "text": "But creation isn't a theory and it's definitely not science. And science isn't based on assumptions and extrapolations. Perhaps you should take a science course. Science is based on observation, hypothesis, prediction, and testing.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:27"
+    },
+    {
+      "nodeID": "147966",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:27"
+    },
+    {
+      "nodeID": "147967",
+      "text": "Which automatically places it a step above the other theories, Creationism being one, because it doesn't clash with what people want to hear.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:27"
+    },
+    {
+      "nodeID": "147968",
+      "text": "But a scientist makes his bones by clashing with what people want to hear and being correct. Eventually, if enough supportive evidence is accumulated, then old theories are overthrown. The problem with creationism is that there is no theory and there isn't a single thread of supportive evidence.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:27"
+    },
+    {
+      "nodeID": "147969",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:27"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189048",
+      "fromID": "147962",
+      "toID": "147963",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189049",
+      "fromID": "147963",
+      "toID": "147961",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189050",
+      "fromID": "147965",
+      "toID": "147966",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189051",
+      "fromID": "147966",
+      "toID": "147964",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189052",
+      "fromID": "147968",
+      "toID": "147969",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189053",
+      "fromID": "147969",
+      "toID": "147967",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

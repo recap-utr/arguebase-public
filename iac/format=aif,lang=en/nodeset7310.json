@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140650",
+      "text": "I certainly would NOT want someone forced to do something against their religious beliefs. If I went to a public official and it were against their religious belief to perform a heterosexual civil ceremony, I'd simply find someone that would, rather than try to force that person to do it. Here's the corrected link, by the way: http://www.breitbart.com/news/2006/11/14/D8LCTCSG0.html",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:53"
+    },
+    {
+      "nodeID": "140651",
+      "text": "And if people have a 'religious belief' whereby they don't think blacks should vote, or that interracial marriage should occur, should governmental officials who have those 'religious beliefs' just be allowed to ignore their duty? What if I had a religious belief that prevented me from performing my governmental tasks for Christians? Should that be respected as well? They are paid to do their job. People who get to pick and choose what their 'job' should entail because of their religious beliefs should find another form of work. If when I was in the military, I had suddenly stood up and said, 'Woah! Hey! I joined the military but it is against my religious beliefs to hurt others, and this plan of action will hurt other people.' Should that be respected and I keep my 'job'?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:53"
+    },
+    {
+      "nodeID": "140652",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:51:53"
+    },
+    {
+      "nodeID": "140653",
+      "text": "If when I was in the military, I had suddenly stood up and said, 'Woah! Hey! I joined the military but it is against my religious beliefs to hurt others, and this plan of action will hurt other people.' Should that be respected and I keep my 'job'?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:53"
+    },
+    {
+      "nodeID": "140654",
+      "text": "But the military is pretty much all a volunteer thing. It's not a hiring process--employer/employee thing. That arrangement lends itself more to the soldier not volunteering for service in the first place.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:53"
+    },
+    {
+      "nodeID": "140655",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:51:53"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183882",
+      "fromID": "140651",
+      "toID": "140652",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183883",
+      "fromID": "140652",
+      "toID": "140650",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183884",
+      "fromID": "140654",
+      "toID": "140655",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183885",
+      "fromID": "140655",
+      "toID": "140653",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

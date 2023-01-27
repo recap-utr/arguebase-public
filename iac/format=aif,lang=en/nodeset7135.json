@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138357",
+      "text": "the ONLY exception- and possibly not an exception, if we ever learn more about it",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:54"
+    },
+    {
+      "nodeID": "138358",
+      "text": "No need to learn more. It isn't an exception. The exception is the vagina (and the uterus). Males don't have corresponding structures, inside out or otherwise. The penis isn't an inverted vagina, it is a testosterone influenced clitoris.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:54"
+    },
+    {
+      "nodeID": "138359",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:46:54"
+    },
+    {
+      "nodeID": "138360",
+      "text": "do you really want to let that creature die out when you start another creature from scratch? i wouldnt.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:55"
+    },
+    {
+      "nodeID": "138361",
+      "text": "And how is what you or I want relevant to the evolution of organisms. Organisms 'die out' all the time.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:55"
+    },
+    {
+      "nodeID": "138362",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:46:55"
+    },
+    {
+      "nodeID": "138363",
+      "text": "Utter nonsense!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:55"
+    },
+    {
+      "nodeID": "138364",
+      "text": "Yea verily!",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:55"
+    },
+    {
+      "nodeID": "138365",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:46:55"
+    },
+    {
+      "nodeID": "138366",
+      "text": "What about a fat women? Fat women are not as atractive as slimmer women, but bigger women tend to have much larger breasts, which is what most men go for. Does that mean fat obese large breasted women are genetically viable. I think your theory needs to be worked on, you should try and EVOLVE your theory into a more factual one based on facts.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:55"
+    },
+    {
+      "nodeID": "138367",
+      "text": "Well since we seem to be having a problem with obesity, maybe this supports the theory.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:46:55"
+    },
+    {
+      "nodeID": "138368",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:46:55"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182250",
+      "fromID": "138358",
+      "toID": "138359",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182251",
+      "fromID": "138359",
+      "toID": "138357",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182252",
+      "fromID": "138361",
+      "toID": "138362",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182253",
+      "fromID": "138362",
+      "toID": "138360",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182254",
+      "fromID": "138364",
+      "toID": "138365",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182255",
+      "fromID": "138365",
+      "toID": "138363",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182256",
+      "fromID": "138367",
+      "toID": "138368",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182257",
+      "fromID": "138368",
+      "toID": "138366",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

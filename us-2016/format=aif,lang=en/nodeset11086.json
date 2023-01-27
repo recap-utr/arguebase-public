@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "196028",
+      "text": "iheartblankets : Bernie: Sorry I zone out every time Webb starts talking",
+      "type": "L",
+      "timestamp": "2016-08-22 17:29:51"
+    },
+    {
+      "nodeID": "196030",
+      "text": "Bernie Sanders zones out every time Webb starts talking",
+      "type": "I",
+      "timestamp": "2016-08-22 17:29:51"
+    },
+    {
+      "nodeID": "256328",
+      "text": "COOPER : Senator Sanders, I want you to be able to respond",
+      "type": "L",
+      "timestamp": "2016-12-22 13:16:37"
+    },
+    {
+      "nodeID": "256333",
+      "text": "WEBB : Pardon me?",
+      "type": "L",
+      "timestamp": "2016-12-22 13:16:37"
+    },
+    {
+      "nodeID": "262445",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-03 17:35:51",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "262446",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-03 17:35:51",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "262447",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-03 17:35:52",
+      "scheme": "Restating",
+      "schemeID": "101"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "316558",
+      "fromID": "256328",
+      "toID": "262445",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316559",
+      "fromID": "262445",
+      "toID": "196028",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316560",
+      "fromID": "196030",
+      "toID": "262446",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316561",
+      "fromID": "262446",
+      "toID": "256333",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316562",
+      "fromID": "262445",
+      "toID": "262447",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316563",
+      "fromID": "262447",
+      "toID": "262446",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

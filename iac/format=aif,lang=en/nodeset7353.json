@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141181",
+      "text": "Voting on fundamental rights like marriage is fundamentally flawed in that it puts the rights of the minority up for the prejudice of the majority.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:06"
+    },
+    {
+      "nodeID": "141182",
+      "text": "But same-sex marriage is NOT a fundamental right at this point. THAT'S what up for vote in the first place. You are assuming the premise before the premise has even been decided.  If a non-handicapped person gets mad because they aren't getting disability and others' are, and those who prefer to protect disability try to do so by putting it to a vote, it's pretty disingenuous for the non-handicapped person to say 'voting on fundamental rights like disability is fundamentally flawed'. Disability may be a fundamental right for some people, but the issue is whether or not it is for ALL people.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:53:06"
+    },
+    {
+      "nodeID": "141183",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:53:06"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184258",
+      "fromID": "141182",
+      "toID": "141183",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184259",
+      "fromID": "141183",
+      "toID": "141181",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

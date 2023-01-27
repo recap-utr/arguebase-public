@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "153608",
+      "text": "Could this be the long lost ship? If this proves to be the remnants of a wooden ship...on Mt. Ararat...what would be the argument against it being the one and only Noah's Ark described in the bible? http://abcnews.go.com/GMA/story?id=1727536&gma=true March 15, 2006- A satellite image may launch a scientific expedition to search for Noah's Ark. The snapshot captures a mysterious object on Turkey's Mount Ararat. 'I see for a 1,015 feet in length a shiplike object that has almost unbroken symmetry,' said Porcher Taylor, an assistant professor at the University of Richmond.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:39"
+    },
+    {
+      "nodeID": "153609",
+      "text": "And you know what I saw when I looked at that photo. I saw a ridge. If that turns out to be a 5000 year old wooden boat, I will go enroll at the local synaguge, and go to services every week.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:39"
+    },
+    {
+      "nodeID": "153610",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:19:39"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193030",
+      "fromID": "153609",
+      "toID": "153610",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193031",
+      "fromID": "153610",
+      "toID": "153608",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

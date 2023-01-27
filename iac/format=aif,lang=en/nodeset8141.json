@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "153010",
+      "text": "thanks for posting...I will watch this. I can't say I have high hopes though, considering it's on PBS. They don't have a great track record for scientific neutrality. I'm sure this will have some sort of biased darwinian spin on it.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:21"
+    },
+    {
+      "nodeID": "153011",
+      "text": "This is ridiculous. Evolution is 'scientifically neutral'. It's you who has the bias.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:21"
+    },
+    {
+      "nodeID": "153012",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:18:21"
+    },
+    {
+      "nodeID": "153013",
+      "text": "For SS 'scientific neutrality' means not accepting that something is true just because it's been proven by science. You have to put science and reason on the same intellectual footing as pure faith to acheive the 'neutrality' that SS would like to see.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:21"
+    },
+    {
+      "nodeID": "153014",
+      "text": "Typical... dragging science down to the level of religion!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:21"
+    },
+    {
+      "nodeID": "153015",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:18:22"
+    },
+    {
+      "nodeID": "153016",
+      "text": "What I don't get is why anachronistic vitalists like WW and SS think that Darwinian theory is going to be troubled by epigenetics? WW and SS can babble on and on, but nothing they've said so far has any relevance to Darwinian theory.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:22"
+    },
+    {
+      "nodeID": "153017",
+      "text": "It's like the theory of the moon. We don't know how the moon was created. Captured asteroid, knocked off in a big collision, formed from dust at the same time earth did? We're not sure. But the fact that we aren't sure of the details of how the moon was created in no way casts any doubt on the existence of the moon. We know evolution is a fact, that's certain. Some of the details we're still learning. Which forms of selection are the most important in what situation, enviromental factors influencing gene expression, the importance of cues picked up pre-nataly. These are all open questions. The fact that we have these questions in no way casts any doubts on the veracity of evolution, it just means that there's still more to learn. That's something that SS doesn't get. If answers don't come 100% complete and tied up with a pretty bow he wants nothing to do with them.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:22"
+    },
+    {
+      "nodeID": "153018",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:18:22"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192608",
+      "fromID": "153011",
+      "toID": "153012",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192609",
+      "fromID": "153012",
+      "toID": "153010",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192610",
+      "fromID": "153014",
+      "toID": "153015",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192611",
+      "fromID": "153015",
+      "toID": "153013",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192612",
+      "fromID": "153017",
+      "toID": "153018",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192613",
+      "fromID": "153018",
+      "toID": "153016",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

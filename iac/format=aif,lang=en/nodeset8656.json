@@ -1,0 +1,157 @@
+{
+  "nodes": [
+    {
+      "nodeID": "160820",
+      "text": "Washington, D.C.--U.S. court records from southwestern states clearly show that illegal gun traffickers involved in smuggling firearms to Mexico seek semiautomatic assault weapons, armor-piercing handguns, and 50 caliber anti-armor sniper rifles from U.S. gun shops according to a new report released today by the Violence Policy Center (VPC).  &#8220;The NRA has received a free ride with its undocumented assertions,&#8220; Rand said. &#8220;Now, for the first time, the American people can see detailed information on the types of military-style firearms illegal traffickers are buying in the United States and shipping to Mexican criminals. This is merely a snapshot of the kind of detailed information about tens of thousands of smuggled guns that the federal Bureau of Alcohol, Tobacco, Firearms, and Explosives has in its files but no longer releases to the public or our elected representatives on Capitol Hill.&#8221; VPC - Press Release - (04/15/2009) - Mexican Gun Traffickers Easily Obtain Military-Style Weapons from U.S. Civilian Gun Market, New Analysis of Federal Criminal Court Records Confirms its obvious America needs alot more gun control if mexican criminals have no problem buying things like cop killer handguns and 50 caliber and assault weapons in US gun shops!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:03"
+    },
+    {
+      "nodeID": "160821",
+      "text": "The VPC is hardly a real source. If any thing what this shows is the real and pressing need to close the border. Splain exactly how they get up here to do the dastardly deeds. What is interesting is how many laws were broken to buy and get the weapons back into Mexico. Sounds like a problem with lax enforcement.  PS what exactly are 'cop killer handguns' beyond an attempt to get the unknowing public aroused and enraged. The self same bunch of loons touted 'cop killer' bullets and Hollywierd even jumped on the bandwagon with a movie. The only fly in the ointment was they couldn't trot out a single case when a LEO died from bullets penetrating the vest.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:03"
+    },
+    {
+      "nodeID": "160822",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:36:04"
+    },
+    {
+      "nodeID": "160823",
+      "text": "tens of thousands of smuggled guns",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:04"
+    },
+    {
+      "nodeID": "160824",
+      "text": "into Mexico. Even your 'source' subtly acknowledges that the problem is with enforcement of the law, not absence of it. You can't stop logs from burning by throwing more logs on top.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:04"
+    },
+    {
+      "nodeID": "160825",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:36:04"
+    },
+    {
+      "nodeID": "160826",
+      "text": "illegal traffickers",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:04"
+    },
+    {
+      "nodeID": "160827",
+      "text": "are taking",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:04"
+    },
+    {
+      "nodeID": "160828",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:36:04"
+    },
+    {
+      "nodeID": "160829",
+      "text": "Is this a diversionary tactic? I don't see any claim being made about those types of weapons being sold in US gun stores.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:04"
+    },
+    {
+      "nodeID": "160830",
+      "text": "Not at all, I'm simply forcing those making the argument to address the undeniable facts.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:04"
+    },
+    {
+      "nodeID": "160831",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:36:04"
+    },
+    {
+      "nodeID": "160832",
+      "text": "5.7 caliber has armor piercing capabilities.  .... While nobody will deny that it does, the AP ammunition is specifically limited to military and police sales exclusively.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:04"
+    },
+    {
+      "nodeID": "160833",
+      "text": "Yep. Here in the U.S., the 5.7 ammo is the ordinary hollow point for Civilian use. It does not penetrate. It is not Armor Piercing.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:36:04"
+    },
+    {
+      "nodeID": "160834",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:36:04"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198158",
+      "fromID": "160821",
+      "toID": "160822",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198159",
+      "fromID": "160822",
+      "toID": "160820",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198160",
+      "fromID": "160824",
+      "toID": "160825",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198161",
+      "fromID": "160825",
+      "toID": "160823",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198162",
+      "fromID": "160827",
+      "toID": "160828",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198163",
+      "fromID": "160828",
+      "toID": "160826",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198164",
+      "fromID": "160830",
+      "toID": "160831",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198165",
+      "fromID": "160831",
+      "toID": "160829",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198166",
+      "fromID": "160833",
+      "toID": "160834",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198167",
+      "fromID": "160834",
+      "toID": "160832",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

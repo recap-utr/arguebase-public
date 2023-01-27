@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143614",
+      "text": "First thing I want to say is that I dont want to offend anyone but for me abortion was the best option. I also want to say that I love Christ will all my heart. He has forgiven me for my sins and because ive had an abortion does not mean im not a Christian and yes I was a christian when I did have an abortion. I had an abortion just this past june. ... I grew up in a christian home and was anti abortion most of my life but honestly I felt so relieved after having the abortion.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:31"
+    },
+    {
+      "nodeID": "143615",
+      "text": "I am so sorry to hear about what has happened to you. I hope you get away from this terrible man and surround yourself with people who love you. I must ask, though, why are you a Christian? You completely disagree with typical Christian sentiments on abortion, you feel none of the purported guilt the religious movement implies is inevitable, you feel like you did the right thing, so why would you continue to profess to belong to this religion if you disagree with one of the major issues of the day?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:31"
+    },
+    {
+      "nodeID": "143616",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:58:31"
+    },
+    {
+      "nodeID": "143617",
+      "text": "There is only one way, and we know this not because I say so, but because Jesus said so.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:31"
+    },
+    {
+      "nodeID": "143618",
+      "text": "Yes, to follow his commandments to love God and to love one another.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:31"
+    },
+    {
+      "nodeID": "143619",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:58:31"
+    },
+    {
+      "nodeID": "143620",
+      "text": "I have already asked God for forgiveness and he has forgiven me.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:31"
+    },
+    {
+      "nodeID": "143621",
+      "text": "So, then you DO feel that what you did was a sin. Otherwise you wouldn't have asked forgiveness for it.  I have one question. What was your motivation for starting this thread? Was it to try and somehow prove that a person can be a Christian and have an abortion? Just curious. IMO, you are right that you are forgiven for it, as God is a forgiving and loving God. But I hope you don't do it again.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:31"
+    },
+    {
+      "nodeID": "143622",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:58:31"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185984",
+      "fromID": "143615",
+      "toID": "143616",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185985",
+      "fromID": "143616",
+      "toID": "143614",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185986",
+      "fromID": "143618",
+      "toID": "143619",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185987",
+      "fromID": "143619",
+      "toID": "143617",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185988",
+      "fromID": "143621",
+      "toID": "143622",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185989",
+      "fromID": "143622",
+      "toID": "143620",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "155703",
+      "text": "44% believe gun laws should be more strict, 43% believe they should stay the same, and 12% believe they should be less strict.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:24"
+    },
+    {
+      "nodeID": "155704",
+      "text": "So 43% + 12% = 55% that oppose new laws in the Gallop.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:24"
+    },
+    {
+      "nodeID": "155705",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:24"
+    },
+    {
+      "nodeID": "155706",
+      "text": "Probably bought with our taxpayer dollars and that is why 'jimma Carter' got awarded one too? emoticon_smile",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:24"
+    },
+    {
+      "nodeID": "155707",
+      "text": "I think you are on to some thing there.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:24"
+    },
+    {
+      "nodeID": "155708",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:24:24"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194518",
+      "fromID": "155704",
+      "toID": "155705",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194519",
+      "fromID": "155705",
+      "toID": "155703",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194520",
+      "fromID": "155707",
+      "toID": "155708",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194521",
+      "fromID": "155708",
+      "toID": "155706",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

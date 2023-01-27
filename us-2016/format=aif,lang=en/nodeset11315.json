@@ -1,0 +1,108 @@
+{
+  "nodes": [
+    {
+      "nodeID": "209987",
+      "text": "you have no idea how many people TRUMP has bribed",
+      "type": "I",
+      "timestamp": "2016-10-30 18:41:50"
+    },
+    {
+      "nodeID": "209992",
+      "text": "NUTS_STUCK_TO_LEGTennessee : TRUMP : You have no idea how many people I've bribed",
+      "type": "L",
+      "timestamp": "2016-10-30 18:41:51"
+    },
+    {
+      "nodeID": "220242",
+      "text": "TRUMP gives money to everybody",
+      "type": "I",
+      "timestamp": "2016-11-01 15:00:27"
+    },
+    {
+      "nodeID": "220267",
+      "text": "TRUMP :  I give to everybody",
+      "type": "L",
+      "timestamp": "2016-11-01 15:00:29"
+    },
+    {
+      "nodeID": "264622",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-10 14:43:40",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "264623",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-10 14:43:40",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264624",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-10 14:43:41",
+      "scheme": "Restating",
+      "schemeID": "101"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "320318",
+      "fromID": "209987",
+      "toID": "264622",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320319",
+      "fromID": "264622",
+      "toID": "220242",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320320",
+      "fromID": "220267",
+      "toID": "264623",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320321",
+      "fromID": "264623",
+      "toID": "209992",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320322",
+      "fromID": "264623",
+      "toID": "264624",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320323",
+      "fromID": "264624",
+      "toID": "264622",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "209992",
+      "personID": "2658",
+      "timestamp": "2016-10-30 18:41:56",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "220267",
+      "personID": "1602",
+      "timestamp": "2016-11-01 15:00:54",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

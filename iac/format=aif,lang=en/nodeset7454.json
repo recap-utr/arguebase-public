@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "142604",
+      "text": "For such an important branch of human investigation and understanding, people here seem very reluctant to offer positive affirmations in terms of 'laws', 'constants', 'regularities', 'principles', 'facts', 'forces', and whatnot, wrt the phenomenon.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:15"
+    },
+    {
+      "nodeID": "142605",
+      "text": "But 'laws' are just observations that may be part of theories. Perhaps if you made an effort to learn what science is and how it works.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:15"
+    },
+    {
+      "nodeID": "142606",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:56:16"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185272",
+      "fromID": "142605",
+      "toID": "142606",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185273",
+      "fromID": "142606",
+      "toID": "142604",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

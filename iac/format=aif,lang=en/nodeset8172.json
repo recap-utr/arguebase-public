@@ -1,0 +1,157 @@
+{
+  "nodes": [
+    {
+      "nodeID": "153560",
+      "text": "I'm no slaver but... All firearm transactions must be through a FFL with a background check. First sale and any subsequent transfers of ownership. No private party to pp sales without FFL oversight. Mandatory theft/loss reporting. Potential jail time for failure to report. Mandatory jail time for filing a false theft report.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:32"
+    },
+    {
+      "nodeID": "153561",
+      "text": "And the black market where the felon bought it?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:32"
+    },
+    {
+      "nodeID": "153562",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:19:33"
+    },
+    {
+      "nodeID": "153563",
+      "text": "All firearm transactions must be through a FFL with a background check. First sale and any subsequent transfers of ownership. No private party to pp sales without FFL oversight.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:33"
+    },
+    {
+      "nodeID": "153564",
+      "text": "And how exactly do you propose this suggestion actually be enforced? Have you got it all thought out and prepared to defend in a debate, or are you just throwing out what the liberal loonies tell you is a good idea?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:33"
+    },
+    {
+      "nodeID": "153565",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:19:33"
+    },
+    {
+      "nodeID": "153566",
+      "text": "How do we know that?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:33"
+    },
+    {
+      "nodeID": "153567",
+      "text": "Well either the police are going by documented reports, or they're just making up a BS number to give politicians something to bite on for furthering their agenda.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:33"
+    },
+    {
+      "nodeID": "153568",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:19:33"
+    },
+    {
+      "nodeID": "153569",
+      "text": "No, I doubt it would. Intent to deceive vanishes.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:33"
+    },
+    {
+      "nodeID": "153570",
+      "text": "And how would you ensure that there aren't any innocent victims of paperwork errors? Are you gonna have the laws specifically spell this out?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:33"
+    },
+    {
+      "nodeID": "153571",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:19:33"
+    },
+    {
+      "nodeID": "153572",
+      "text": "It's not about finding the weapon. It's about accountability for supplying the 'black market'.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:33"
+    },
+    {
+      "nodeID": "153573",
+      "text": "So you still choose to believe that someone who's a victim of crime should be punished as if they committed the crime themselves?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:33"
+    },
+    {
+      "nodeID": "153574",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:19:33"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192998",
+      "fromID": "153561",
+      "toID": "153562",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192999",
+      "fromID": "153562",
+      "toID": "153560",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193000",
+      "fromID": "153564",
+      "toID": "153565",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193001",
+      "fromID": "153565",
+      "toID": "153563",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193002",
+      "fromID": "153567",
+      "toID": "153568",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193003",
+      "fromID": "153568",
+      "toID": "153566",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193004",
+      "fromID": "153570",
+      "toID": "153571",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193005",
+      "fromID": "153571",
+      "toID": "153569",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193006",
+      "fromID": "153573",
+      "toID": "153574",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193007",
+      "fromID": "153574",
+      "toID": "153572",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

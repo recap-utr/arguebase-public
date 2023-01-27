@@ -1,0 +1,163 @@
+{
+  "nodes": [
+    {
+      "nodeID": "189881",
+      "text": "Originally the conflict in Syria was the Assad regime verse rebels looking to overthrow him. This was original quagmire.",
+      "type": "L",
+      "timestamp": "2016-08-05 12:04:21"
+    },
+    {
+      "nodeID": "189882",
+      "text": "indie90 : Add in ISIS verse and you basically create a three way fight between assad forces the rebels and isis and then you also get other states invovled and you have your quagmire within a quagmire.",
+      "type": "L",
+      "timestamp": "2016-08-05 12:04:21"
+    },
+    {
+      "nodeID": "189884",
+      "text": "add in ISIS verse and you basically create a three way fight between assad forces the rebels and isis and then you also get other states invovled and you have your quagmire within a quagmire.",
+      "type": "I",
+      "timestamp": "2016-08-05 12:04:21"
+    },
+    {
+      "nodeID": "189886",
+      "text": "indie90 : Originally the conflict in Syria was the Assad regime verse rebels looking to overthrow him. This was original quagmire.",
+      "type": "L",
+      "timestamp": "2016-08-05 12:04:21"
+    },
+    {
+      "nodeID": "241592",
+      "text": "SANDERS : let 's understand that when we talk about Syria , you 're talking about a quagmire in a quagmire",
+      "type": "L",
+      "timestamp": "2016-11-10 20:02:41"
+    },
+    {
+      "nodeID": "241594",
+      "text": "let 's understand that when we talk about Syria , you 're talking about a quagmire in a quagmire",
+      "type": "I",
+      "timestamp": "2016-11-10 20:02:42"
+    },
+    {
+      "nodeID": "262295",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-03 16:10:19",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "262296",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-03 16:10:19",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "262297",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-03 16:10:20",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "262298",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-03 16:10:20",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "262299",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-03 16:10:21",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "262300",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-03 16:10:21",
+      "scheme": "Restating",
+      "schemeID": "101"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "316332",
+      "fromID": "241592",
+      "toID": "262295",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316333",
+      "fromID": "262295",
+      "toID": "189886",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316334",
+      "fromID": "189881",
+      "toID": "262296",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316335",
+      "fromID": "262296",
+      "toID": "241594",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316336",
+      "fromID": "262295",
+      "toID": "262297",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316337",
+      "fromID": "262297",
+      "toID": "262296",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316338",
+      "fromID": "241592",
+      "toID": "262298",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316339",
+      "fromID": "262298",
+      "toID": "189882",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316340",
+      "fromID": "189884",
+      "toID": "262299",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316341",
+      "fromID": "262299",
+      "toID": "241594",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316342",
+      "fromID": "262298",
+      "toID": "262300",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316343",
+      "fromID": "262300",
+      "toID": "262299",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

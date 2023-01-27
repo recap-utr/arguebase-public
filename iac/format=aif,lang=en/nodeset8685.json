@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "161253",
+      "text": "What did change? What exactly happened, that's the direct fault of the NRA, that allowed this to happen?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:09"
+    },
+    {
+      "nodeID": "161254",
+      "text": "Well by that logic, why wasn't the Brady campaign, police, or law there to save them?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:09"
+    },
+    {
+      "nodeID": "161255",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:37:09"
+    },
+    {
+      "nodeID": "161256",
+      "text": "Apparently he used a rifle.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:09"
+    },
+    {
+      "nodeID": "161257",
+      "text": "So apparently nothing was stopping this from taking place then.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:10"
+    },
+    {
+      "nodeID": "161258",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:37:10"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198470",
+      "fromID": "161254",
+      "toID": "161255",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198471",
+      "fromID": "161255",
+      "toID": "161253",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198472",
+      "fromID": "161257",
+      "toID": "161258",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198473",
+      "fromID": "161258",
+      "toID": "161256",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

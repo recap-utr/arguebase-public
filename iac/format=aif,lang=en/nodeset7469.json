@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "142898",
+      "text": "They are all gifts it is how you choose to accept that gift that is questionable.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:48"
+    },
+    {
+      "nodeID": "142899",
+      "text": "You mean you can choose how you accept it?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:48"
+    },
+    {
+      "nodeID": "142900",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:56:49"
+    },
+    {
+      "nodeID": "142901",
+      "text": "Hi Lisa - I disagree with you. Babies can't be helped while trivializing and restricting mothers and not recognizing their needs. There are reasons women choose to abort and those need to be addressed and there will also be cases where women need to abort (health concerns, rape, etc.).",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:49"
+    },
+    {
+      "nodeID": "142902",
+      "text": "And the reasons have been discussed at length and most of us agree about the mother's life being endangered or possibly in cases of rape and incest......... Where we disagree with you is unecessary abortions...such as for birth control, a headache on just and inconveniencce........ You think any abortion is alright...We don't.....",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:49"
+    },
+    {
+      "nodeID": "142903",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:56:49"
+    },
+    {
+      "nodeID": "142904",
+      "text": "This always cracks me up ... Do you mean to tell me that the fetus produced by a rape is less of a human being than one that was produced that wanton trollop?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:49"
+    },
+    {
+      "nodeID": "142905",
+      "text": "Well, it was not conceived through an act of love but by an act of violence. Granted, it isn't the babies fault and that would be a very sad situation. I suppose, even being a pro-lifer, that I could get behind justifying an abortion due to rape in consideration of the unwilling, violent conception and the mental trauma of the mother BUT I think that the rape should be reported within 24 hours for the person to qualify for this 'loophole.' It should be reported BEFORE the victim is aware of any pregnancy. Coming forth weeks or months after the fact is too suspicious and gives the appearance that they are just crying rape as an excuse for a justified abortion.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:56:49"
+    },
+    {
+      "nodeID": "142906",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:56:49"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185488",
+      "fromID": "142899",
+      "toID": "142900",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185489",
+      "fromID": "142900",
+      "toID": "142898",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185490",
+      "fromID": "142902",
+      "toID": "142903",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185491",
+      "fromID": "142903",
+      "toID": "142901",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185492",
+      "fromID": "142905",
+      "toID": "142906",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185493",
+      "fromID": "142906",
+      "toID": "142904",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

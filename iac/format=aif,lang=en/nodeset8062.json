@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152019",
+      "text": "It's amazing how stupid some people are.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:02"
+    },
+    {
+      "nodeID": "152020",
+      "text": "Well, the flat earthers would call you stupid and more than one TE has called the materialistic evolutionist stupid. You can believe what you want and you have a right to teach it to your children in your home and your church. My problem is with replacing rational thought with the mythology of nomadic herdsmen and trying to replace science with religion in the schools.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:02"
+    },
+    {
+      "nodeID": "152021",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:16:02"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191914",
+      "fromID": "152020",
+      "toID": "152021",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191915",
+      "fromID": "152021",
+      "toID": "152019",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

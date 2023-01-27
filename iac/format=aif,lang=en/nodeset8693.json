@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "161315",
+      "text": "Why do I think they are popular books, and not peer reviewed scientific articles?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:20"
+    },
+    {
+      "nodeID": "161316",
+      "text": "Because you know the peer review process is biased. Anything submitted for peer review with a recognizable name like Dembski or Behe will be automatically rejected before the first word is read. The scientific community's problems are just that big.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:20"
+    },
+    {
+      "nodeID": "161317",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:37:20"
+    },
+    {
+      "nodeID": "161318",
+      "text": "The advancement of one scientific discipline cannot weaken another scientific study unless one was false to begin with.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:20"
+    },
+    {
+      "nodeID": "161319",
+      "text": "So abiogeneis is false? Why does talkorigins say it's true? Why does it remain in science textbooks?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:20"
+    },
+    {
+      "nodeID": "161320",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:37:20"
+    },
+    {
+      "nodeID": "161321",
+      "text": "The two main problems with ID, and why it is rejected among the scientific community, are: 1. It depends solely upon the ignorance of certain scientific disciplines and the current limits of scientific discovery. In other words, every time more information about biology is discovered, ID becomes diminished, rather than bolstered.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:20"
+    },
+    {
+      "nodeID": "161322",
+      "text": "JUST LIKE ABIOGENESIS! Every time more information about biology is discovered, abiogenesis becomes diminished, rather than bolstered.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:21"
+    },
+    {
+      "nodeID": "161323",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:37:21"
+    },
+    {
+      "nodeID": "161324",
+      "text": "Intellegent Design is the study of the idea that certain biological phenomena are too complex to have been evolved from a series of simpler organisms, and therefore must have been created fully functional from the onset. It is based on the idea that if we can observe an organism or an organic function whose existence cannot be explained by the successive adaptation of the evolutionary model, then that organism or function is evidence for intelligent design.  When intelligent design first emerged, among the long list of examples of irreducibly complex phenomena were the eye, the flagellum and blood clotting. All of these have been shown to have simpler counterparts which also fucntion, and therefore which could have been the evolutionary basis for the emergence of these more complex functions. These examples are summarized in wikipedia's article Irreducible complexity - Wikipedia, the free encyclopedia",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:21"
+    },
+    {
+      "nodeID": "161325",
+      "text": "Yes I know, a lot of people have done a lot of work to try to refute Behe's work. From your link;",
+      "type": "I",
+      "timestamp": "2016-03-08 20:37:21"
+    },
+    {
+      "nodeID": "161326",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:37:21"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198514",
+      "fromID": "161316",
+      "toID": "161317",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198515",
+      "fromID": "161317",
+      "toID": "161315",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198516",
+      "fromID": "161319",
+      "toID": "161320",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198517",
+      "fromID": "161320",
+      "toID": "161318",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198518",
+      "fromID": "161322",
+      "toID": "161323",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198519",
+      "fromID": "161323",
+      "toID": "161321",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198520",
+      "fromID": "161325",
+      "toID": "161326",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198521",
+      "fromID": "161326",
+      "toID": "161324",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "154423",
+      "text": "Agreed, USA All the Way is trying to rile people up. Regarding the first post in the thread, 52% with a nearly 4 point margin of error doesn't qualify for a 'majority' or 'most.'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:38"
+    },
+    {
+      "nodeID": "154424",
+      "text": "Well, actually if the remainder is split between those who favor a marriage amendement and those who have no oppinion, yeah, actually 52% regardless of the margin of error, is still definitatively a majority.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:38"
+    },
+    {
+      "nodeID": "154425",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:21:38"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193602",
+      "fromID": "154424",
+      "toID": "154425",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193603",
+      "fromID": "154425",
+      "toID": "154423",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

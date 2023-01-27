@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "146452",
+      "text": "Are there any gay marriage supporters on these forums that do not think gay marriage is required by the US Constitution?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:04:21"
+    },
+    {
+      "nodeID": "146453",
+      "text": "I don't think that any marriage rights are required at all by the Consitution.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:04:21"
+    },
+    {
+      "nodeID": "146454",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:04:21"
+    },
+    {
+      "nodeID": "146455",
+      "text": "I don't think that there are any marriage rights for anyone gaurenteed by the constitution. I believe that if marriage is offered to heteros, and they seem to think it is their right to get married, then marriage must be extended equally to gay people. I believe that one group using their religion as a basis to form laws that violate another groups religious freedom, with govenment support, violates the constitution.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:04:21"
+    },
+    {
+      "nodeID": "146456",
+      "text": "So, I guess you didn't get the memo that this country was FOUNDED on Christian/Judaic beliefs. Remember: You do have rights; to an extent.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:04:21"
+    },
+    {
+      "nodeID": "146457",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:04:21"
+    },
+    {
+      "nodeID": "146458",
+      "text": "So you view is that their religious freedom is more important then mine? That their families are more important then mine?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:04:21"
+    },
+    {
+      "nodeID": "146459",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:04:21"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187986",
+      "fromID": "146453",
+      "toID": "146454",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187987",
+      "fromID": "146454",
+      "toID": "146452",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187988",
+      "fromID": "146456",
+      "toID": "146457",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187989",
+      "fromID": "146457",
+      "toID": "146455",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187990",
+      "fromID": "146458",
+      "toID": "146459",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187991",
+      "fromID": "146459",
+      "toID": "146456",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

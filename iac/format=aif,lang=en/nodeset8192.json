@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "153723",
+      "text": "4) the reason for the long hands would b that they didnt have any technology or equipments with them, no shovel, no bucket, no knife and etc....which meant they use their hand for everything, digging, carrying rocks, walking and etc...the reason for the bent back is they didn't have chairs or bed that would straight out ur collumn nor did they knew any better.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:20:00"
+    },
+    {
+      "nodeID": "153724",
+      "text": "Oh dear. Have you ever looked at a human spine? It is curved: it's bent. A straight spine is a knackered spine. As to the hands bit, what are you on about? You are aware I hope that the story that the nosey elephant got it's trunk because a crocodile grabbed the end and stretched it is just a story?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:20:00"
+    },
+    {
+      "nodeID": "153725",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:20:00"
+    },
+    {
+      "nodeID": "153726",
+      "text": "2) Then u might ask, how did the idea of ape becoming human occured? it happen when some oberservation of teh human structure couple thousand year ago: the long hand, the hairy body, the bent back, the walk on four legs and stuff like that....however no1 even was able to explained logically, they all pointed to apes...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:20:00"
+    },
+    {
+      "nodeID": "153727",
+      "text": "Actually, I don't ask how the idea occurred. As I mentioned, Darwin suggested it. I'm not sure what the rese of that paragraph means.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:20:00"
+    },
+    {
+      "nodeID": "153728",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:20:00"
+    },
+    {
+      "nodeID": "153729",
+      "text": "1) When Darwin first suggested evolution, he was applying on the basis of 'survival of the fittiest' and how species tend to 'evolutionate' from one another....however none of his arguements were that human came from apes and bacteria.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:20:01"
+    },
+    {
+      "nodeID": "153730",
+      "text": "Actually, Darwin didn't like the phrase 'survival of the fittest' applied to his theory. The phrase was actually coined by sociologist Herbert Spencer in the statement of his social theories. Darwin's preferred phrase was 'natural selection' and used the phrase 'survival of the fittest' only after it had become popular and Alfred Wallace (a Christian turned spiritualist) convinced Darwin that he would avoid confusion by using it. If one wants to reduce the hundreds of pages of theory that Darwin wrote to a single sound bite, 'differential reproductive success' is probably the best. Further, natural selection was a proposed mechanism to explain the observed divergence of species. Darwin was quite aware of the implications of his theory for mankind from the beginning. He was also aware that it would be unpopular with the Church and the religious so he didn't mention it in On the Origin of Species. He waited until the theories expressed in that book had become generally accepted in the scientific community and then published The Descent of Man and Selection in Relation to Sex. In the later book Darwin did argue that mankind shared a common ancestor with apes.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:20:01"
+    },
+    {
+      "nodeID": "153731",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:20:01"
+    },
+    {
+      "nodeID": "153732",
+      "text": "5) Moving on, if we look teh other way, evolution is actually a theory not physically proven, one of it s theory suggested that human started out in Africa while another in Asia, but if u look at them none resembles the other and none have a characteristic of an animal.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:20:01"
+    },
+    {
+      "nodeID": "153733",
+      "text": "And of course, the theory of gravity isn't 'physically' proven either. Neither is the heliocentric theory or atomic theory or the germ theory of disease. However, evolution has been observed to occur and the current theories are the best explanations that we have for the observations. As far as your mangling of the 'Out of Africa' theory, it would be nice if you actually learned what you are talking about before you babble such nonsense.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:20:01"
+    },
+    {
+      "nodeID": "153734",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:20:01"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193110",
+      "fromID": "153724",
+      "toID": "153725",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193111",
+      "fromID": "153725",
+      "toID": "153723",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193112",
+      "fromID": "153727",
+      "toID": "153728",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193113",
+      "fromID": "153728",
+      "toID": "153726",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193114",
+      "fromID": "153730",
+      "toID": "153731",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193115",
+      "fromID": "153731",
+      "toID": "153729",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193116",
+      "fromID": "153733",
+      "toID": "153734",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193117",
+      "fromID": "153734",
+      "toID": "153732",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

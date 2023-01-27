@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "149210",
+      "text": "Climates change!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:21"
+    },
+    {
+      "nodeID": "149211",
+      "text": "and cause extictions",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:21"
+    },
+    {
+      "nodeID": "149212",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:10:21"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189926",
+      "fromID": "149211",
+      "toID": "149212",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189927",
+      "fromID": "149212",
+      "toID": "149210",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

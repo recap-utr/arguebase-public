@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "137699",
+      "text": "but there aren't any! All you can show me are 4 'links'. Where are the other millions?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:29"
+    },
+    {
+      "nodeID": "137700",
+      "text": "Well are there 4 or are there none? What about the Archaeopteryx lineage, why do you keep avoiding the question by changing the subject? It's no wonder scientists get annoyed with creationists.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:29"
+    },
+    {
+      "nodeID": "137701",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:45:30"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181784",
+      "fromID": "137700",
+      "toID": "137701",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181785",
+      "fromID": "137701",
+      "toID": "137699",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

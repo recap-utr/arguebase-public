@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141835",
+      "text": "You dont have to believe rediculous lies to believe that God created the universe. there are some who do fabricate these lies (I'm not mentioning satans name), and that is why many people dismiss God as a myth. but if you are realistic about it, then it is not at all unreasonable to believe that there is a higher power runnin things.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:44"
+    },
+    {
+      "nodeID": "141836",
+      "text": "Actually, the reason people dismiss the concept of a diety is often not because of 'lies', but because there is no objective evidence of any diety what so ever.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:44"
+    },
+    {
+      "nodeID": "141837",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:54:44"
+    },
+    {
+      "nodeID": "141838",
+      "text": "The chances are, most of us here are familiar with answersingenesis.org and other creationist-lie websites. Science and apologetics are their weak suits: misrepresentation and dishonesty are their strong suits. They rely on their target audience being ignorant of science and thus easily fooled by their falsehoods, half-truths and misrepresentation of science. If there was any validity to their 'refuting' of solid evidence against a literal interpretation of Genesis, then their ideas would be out their in the science mainstream of science journals, rather than relegated to some backwater of the web. Why should we go to their site though and allow them to selectively pick which emails they wish to repsond to on their terms? Let them come here or to another public forum and put themselves on the line in an open and live debate. I have layed down a challenge to all creationists to come here and formally debate any aspect of evolution they want with me. If you think these people at answersingenesis.org are so hot on the topic, invite them over. They won't come though, for their arguments do not stand up to real debate by people who understand the topic. Of course I would be overjoyed if you proved me wrong by getting one to show their face here. Good luck.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:44"
+    },
+    {
+      "nodeID": "141839",
+      "text": "Well Clive, I will formally invite them here........ I don't know if any of them will take my invitation seriously, but we will see.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:44"
+    },
+    {
+      "nodeID": "141840",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:54:44"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184716",
+      "fromID": "141836",
+      "toID": "141837",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184717",
+      "fromID": "141837",
+      "toID": "141835",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184718",
+      "fromID": "141839",
+      "toID": "141840",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184719",
+      "fromID": "141840",
+      "toID": "141838",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

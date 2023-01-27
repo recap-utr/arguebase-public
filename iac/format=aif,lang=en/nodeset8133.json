@@ -1,0 +1,121 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152864",
+      "text": "This is exactly the kind of tool which any wanna-be Dictator would elect to impose his own private vision of a disarmed citizenry. In fact, I'm unclear on the process ... would it be necessary for this treaty to be ratified by Congress? Can the president sign this treaty and unilaterally impose disarmament on the strongest country on earth?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:02"
+    },
+    {
+      "nodeID": "152865",
+      "text": "No.  WND is a menace.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:02"
+    },
+    {
+      "nodeID": "152866",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:18:02"
+    },
+    {
+      "nodeID": "152867",
+      "text": "Any attempt by the United Nations to restrict the right to bear arms in the US would be the last straw for the American electorate.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:02"
+    },
+    {
+      "nodeID": "152868",
+      "text": "I think such a move would qualify as a recognized declaration of war.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:02"
+    },
+    {
+      "nodeID": "152869",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:18:03"
+    },
+    {
+      "nodeID": "152870",
+      "text": "Sinjin you are correct. The US is a soverin country and the UN has no authority to dictate or inforce their will on our soil.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:03"
+    },
+    {
+      "nodeID": "152871",
+      "text": "So why do some feel it necessary to deceive in order to 'put a lump in the throat' of the American People?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:03"
+    },
+    {
+      "nodeID": "152872",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:18:03"
+    },
+    {
+      "nodeID": "152873",
+      "text": "Because a major portion of them are not as American educated and schooled in the Constitution and BOR. A quick streetwalk with Jay Leno proves that. I bet many do not even know who the sitting president is much less VP. Their concepts come from folks such as yourself who would deny rights up to the point of no return. Still you would say, 'boosh did it'. Meanwhile, back at the ranch, Where is Old Sarge? I haven't read a post from him here lately.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:03"
+    },
+    {
+      "nodeID": "152874",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:18:03"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192500",
+      "fromID": "152865",
+      "toID": "152866",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192501",
+      "fromID": "152866",
+      "toID": "152864",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192502",
+      "fromID": "152868",
+      "toID": "152869",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192503",
+      "fromID": "152869",
+      "toID": "152867",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192504",
+      "fromID": "152871",
+      "toID": "152872",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192505",
+      "fromID": "152872",
+      "toID": "152870",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192506",
+      "fromID": "152873",
+      "toID": "152874",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192507",
+      "fromID": "152874",
+      "toID": "152871",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

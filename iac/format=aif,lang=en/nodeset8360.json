@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "156202",
+      "text": "Thanks for the resouce link. The issues involved will likely occupy us for a long time to come. Especially the current wars raging over the infamous Hobbit! The migrations of our species and our cousins is however slowly becoming more highly resolved and its an interesting (if complex and incomplete) tale so far. Lots more to come one suspects.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:35"
+    },
+    {
+      "nodeID": "156203",
+      "text": "Yes, I believe there will be a lot more to come (as you said, just look at the 'hobbits' that were recently discovered). I love this sort of look into the migrations of everyone over the last 160,000 years or so.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:35"
+    },
+    {
+      "nodeID": "156204",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:25:35"
+    },
+    {
+      "nodeID": "156205",
+      "text": "Where better to find more info on the evolutionary migration of humanity than from friendly atheist.com. emoticon_xgood Keep that pure science with no agenda coming you guys. emoticon_xdonno",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:35"
+    },
+    {
+      "nodeID": "156206",
+      "text": "Well, ya know, if you actually, oh I don't know, VISITED THE SITE, you'd see that the 'friendlyatheist.com' is a blog-like page (and not the one that is actually giving the info on the evolutionary migration of humanity) and it gave a link to the actual website that we are talking about (the second link I gave): http://www.bradshawfoundation.com/journey/ But then, maybe we're expecting a little too much from a creationist. :xbanghead :xbanghead",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:35"
+    },
+    {
+      "nodeID": "156207",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:25:35"
+    },
+    {
+      "nodeID": "156208",
+      "text": "I'm not going anywhere with this thread. I just wanted to point out the obvious hypocrisy of everything your side represents, and nothing more. You all go right ahead and massage your shallow World views.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:35"
+    },
+    {
+      "nodeID": "156209",
+      "text": "Oh, there's no hypocrisy involved, just you being your usual self and not even looking at the actual information (or, more likely, looking at the information and then deliberately playing dumb).",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:35"
+    },
+    {
+      "nodeID": "156210",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:25:35"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194864",
+      "fromID": "156203",
+      "toID": "156204",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194865",
+      "fromID": "156204",
+      "toID": "156202",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194866",
+      "fromID": "156206",
+      "toID": "156207",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194867",
+      "fromID": "156207",
+      "toID": "156205",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194868",
+      "fromID": "156209",
+      "toID": "156210",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194869",
+      "fromID": "156210",
+      "toID": "156208",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

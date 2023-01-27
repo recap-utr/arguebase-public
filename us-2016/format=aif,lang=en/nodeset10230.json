@@ -1,0 +1,831 @@
+{
+  "nodes": [
+    {
+      "nodeID": "200017",
+      "text": "XxEnder_GamerxX : Am I the only one who noticed that Bernie combed his hair",
+      "type": "L",
+      "timestamp": "2016-09-19 09:15:19"
+    },
+    {
+      "nodeID": "200018",
+      "text": "Assertive Questioning",
+      "type": "YA",
+      "timestamp": "2016-09-19 09:15:19",
+      "scheme": "AssertiveQuestioning",
+      "schemeID": "73"
+    },
+    {
+      "nodeID": "200019",
+      "text": "I am the only one who noticed that Bernie Sanders combed his hair",
+      "type": "I",
+      "timestamp": "2016-09-19 09:15:19"
+    },
+    {
+      "nodeID": "200020",
+      "text": "Barbara: XxEnder_GamerxX : Am I the only one who noticed that Bernie combed his hair",
+      "type": "L",
+      "timestamp": "2016-09-19 09:15:19"
+    },
+    {
+      "nodeID": "200021",
+      "text": "MR_TELEVOID : Maybe you're just the only one who gives a shit about their hair",
+      "type": "L",
+      "timestamp": "2016-09-19 09:15:19"
+    },
+    {
+      "nodeID": "200022",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-19 09:15:19",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200023",
+      "text": "you're just the only one who gives a shit about their hair",
+      "type": "I",
+      "timestamp": "2016-09-19 09:15:19"
+    },
+    {
+      "nodeID": "200024",
+      "text": "Barbara: MR_TELEVOID : Maybe you're just the only one who gives a shit about their hair",
+      "type": "L",
+      "timestamp": "2016-09-19 09:15:20"
+    },
+    {
+      "nodeID": "200025",
+      "text": "Ad hominem",
+      "type": "CA",
+      "timestamp": "2016-09-19 09:15:20",
+      "scheme": "Ad hominem",
+      "schemeID": "172"
+    },
+    {
+      "nodeID": "200026",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-19 09:15:20",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200027",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-09-19 09:15:20",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "200028",
+      "text": "Barbara: XxEnder_GamerxX : No",
+      "type": "L",
+      "timestamp": "2016-09-19 09:15:20"
+    },
+    {
+      "nodeID": "200029",
+      "text": "XxEnder_GamerxX : No",
+      "type": "L",
+      "timestamp": "2016-09-19 09:15:20"
+    },
+    {
+      "nodeID": "200030",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-19 09:15:20",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200031",
+      "text": "I'm not just the only one who gives a shit about their hair",
+      "type": "I",
+      "timestamp": "2016-09-19 09:15:20"
+    },
+    {
+      "nodeID": "200032",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-09-19 09:15:20",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "200033",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-19 09:15:20",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200034",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-09-19 09:15:21",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "200035",
+      "text": "XxEnder_GamerxX : Bernie is famous for never combing his hair",
+      "type": "L",
+      "timestamp": "2016-09-19 09:15:21"
+    },
+    {
+      "nodeID": "200036",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-19 09:15:21",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200037",
+      "text": "Bernie Sanders is famous for never combing his hair",
+      "type": "I",
+      "timestamp": "2016-09-19 09:15:21"
+    },
+    {
+      "nodeID": "200038",
+      "text": "Barbara: XxEnder_GamerxX : Bernie is famous for never combing his hair",
+      "type": "L",
+      "timestamp": "2016-09-19 09:15:21"
+    },
+    {
+      "nodeID": "200039",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-09-19 09:15:21",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "200040",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-19 09:15:21",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200041",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-09-19 09:15:21",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "200042",
+      "text": "Barbara: MR_TELEVOID : Haha",
+      "type": "L",
+      "timestamp": "2016-09-19 09:15:21"
+    },
+    {
+      "nodeID": "200043",
+      "text": "MR_TELEVOID : Bernie Sanders is famous for a lot more than his hair",
+      "type": "L",
+      "timestamp": "2016-09-19 09:15:21"
+    },
+    {
+      "nodeID": "200044",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-19 09:15:21",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200045",
+      "text": "Bernie Sanders is famous for a lot more than his hair",
+      "type": "I",
+      "timestamp": "2016-09-19 09:15:22"
+    },
+    {
+      "nodeID": "200046",
+      "text": "Barbara: MR_TELEVOID : Bernie Sanders is famous for a lot more than his hair",
+      "type": "L",
+      "timestamp": "2016-09-19 09:15:22"
+    },
+    {
+      "nodeID": "200047",
+      "text": "MR_TELEVOID : The media is famous for distracting us with superficial bullshit like his unkempt hair",
+      "type": "L",
+      "timestamp": "2016-09-19 09:15:22"
+    },
+    {
+      "nodeID": "200048",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-19 09:15:22",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200049",
+      "text": "the media is famous for distracting us with superficial bullshit like his unkempt hair",
+      "type": "I",
+      "timestamp": "2016-09-19 09:15:22"
+    },
+    {
+      "nodeID": "200050",
+      "text": "Barbara: MR_TELEVOID : The media is famous for distracting us with superficial bullshit like his unkempt hair",
+      "type": "L",
+      "timestamp": "2016-09-19 09:15:22"
+    },
+    {
+      "nodeID": "200051",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-09-19 09:15:22",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "200052",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-19 09:15:22",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200053",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-09-19 09:15:22",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "200054",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-19 09:15:22",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200055",
+      "text": "XxEnder_GamerxX : I am very politically informed",
+      "type": "L",
+      "timestamp": "2016-09-19 09:15:22"
+    },
+    {
+      "nodeID": "200056",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-19 09:15:23",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200057",
+      "text": "I am very politically informed",
+      "type": "I",
+      "timestamp": "2016-09-19 09:15:23"
+    },
+    {
+      "nodeID": "200058",
+      "text": "Barbara: XxEnder_GamerxX : I am very politically informed",
+      "type": "L",
+      "timestamp": "2016-09-19 09:15:23"
+    },
+    {
+      "nodeID": "200059",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-09-19 09:15:23",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "200060",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-19 09:15:23",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200061",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-09-19 09:15:23",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "200062",
+      "text": "XxEnder_GamerxX : It's just a fun little thing I noticed",
+      "type": "L",
+      "timestamp": "2016-09-19 09:15:23"
+    },
+    {
+      "nodeID": "200063",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-19 09:15:23",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200064",
+      "text": "It's just a fun little thing I noticed",
+      "type": "I",
+      "timestamp": "2016-09-19 09:15:24"
+    },
+    {
+      "nodeID": "200065",
+      "text": "Barbara: XxEnder_GamerxX : It's just a fun little thing I noticed",
+      "type": "L",
+      "timestamp": "2016-09-19 09:15:24"
+    },
+    {
+      "nodeID": "200066",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-19 09:15:24",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200067",
+      "text": "XxEnder_GamerxX : More little than fun",
+      "type": "L",
+      "timestamp": "2016-09-19 09:15:24"
+    },
+    {
+      "nodeID": "200068",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-19 09:15:24",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200069",
+      "text": "more little than fun",
+      "type": "I",
+      "timestamp": "2016-09-19 09:15:24"
+    },
+    {
+      "nodeID": "200070",
+      "text": "Barbara: XxEnder_GamerxX : More little than fun",
+      "type": "L",
+      "timestamp": "2016-09-19 09:15:24"
+    },
+    {
+      "nodeID": "200071",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-19 09:15:24",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200072",
+      "text": "MR_TELEVOID : You have fun with yourself",
+      "type": "L",
+      "timestamp": "2016-09-19 09:15:24"
+    },
+    {
+      "nodeID": "200073",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-19 09:15:24",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200074",
+      "text": "you have fun with yourself",
+      "type": "I",
+      "timestamp": "2016-09-19 09:15:25"
+    },
+    {
+      "nodeID": "200075",
+      "text": "Barbara: MR_TELEVOID : You have fun with yourself tho",
+      "type": "L",
+      "timestamp": "2016-09-19 09:15:25"
+    },
+    {
+      "nodeID": "200076",
+      "text": "MR_TELEVOID : Don't ever let your irrelevancy get you down",
+      "type": "L",
+      "timestamp": "2016-09-19 09:15:25"
+    },
+    {
+      "nodeID": "200077",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-09-19 09:15:25",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "200078",
+      "text": "don't ever let your irrelevancy get you down",
+      "type": "I",
+      "timestamp": "2016-09-19 09:15:25"
+    },
+    {
+      "nodeID": "200079",
+      "text": "Barbara: MR_TELEVOID : Don't ever let your irrelevancy get you down",
+      "type": "L",
+      "timestamp": "2016-09-19 09:15:25"
+    },
+    {
+      "nodeID": "200080",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-19 09:15:25",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "200081",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-09-19 09:15:25",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "244648",
+      "fromID": "200018",
+      "toID": "200019",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244649",
+      "fromID": "200017",
+      "toID": "200018",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244650",
+      "fromID": "200022",
+      "toID": "200023",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244651",
+      "fromID": "200021",
+      "toID": "200022",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244652",
+      "fromID": "200023",
+      "toID": "200025",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244653",
+      "fromID": "200025",
+      "toID": "200019",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244654",
+      "fromID": "200017",
+      "toID": "200026",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244655",
+      "fromID": "200026",
+      "toID": "200021",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244656",
+      "fromID": "200026",
+      "toID": "200027",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244657",
+      "fromID": "200027",
+      "toID": "200025",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244658",
+      "fromID": "200030",
+      "toID": "200031",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244659",
+      "fromID": "200029",
+      "toID": "200030",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244660",
+      "fromID": "200031",
+      "toID": "200032",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244661",
+      "fromID": "200032",
+      "toID": "200023",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244662",
+      "fromID": "200021",
+      "toID": "200033",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244663",
+      "fromID": "200033",
+      "toID": "200029",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244664",
+      "fromID": "200033",
+      "toID": "200034",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244665",
+      "fromID": "200034",
+      "toID": "200032",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244666",
+      "fromID": "200036",
+      "toID": "200037",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244667",
+      "fromID": "200035",
+      "toID": "200036",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244668",
+      "fromID": "200037",
+      "toID": "200039",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244669",
+      "fromID": "200039",
+      "toID": "200031",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244670",
+      "fromID": "200029",
+      "toID": "200040",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244671",
+      "fromID": "200040",
+      "toID": "200035",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244672",
+      "fromID": "200040",
+      "toID": "200041",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244673",
+      "fromID": "200041",
+      "toID": "200039",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244674",
+      "fromID": "200044",
+      "toID": "200045",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244675",
+      "fromID": "200043",
+      "toID": "200044",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244676",
+      "fromID": "200048",
+      "toID": "200049",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244677",
+      "fromID": "200047",
+      "toID": "200048",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244678",
+      "fromID": "200045",
+      "toID": "200051",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244679",
+      "fromID": "200051",
+      "toID": "200037",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244680",
+      "fromID": "200035",
+      "toID": "200052",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244681",
+      "fromID": "200052",
+      "toID": "200043",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244682",
+      "fromID": "200052",
+      "toID": "200053",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244683",
+      "fromID": "200053",
+      "toID": "200051",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244684",
+      "fromID": "200043",
+      "toID": "200054",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244685",
+      "fromID": "200054",
+      "toID": "200047",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244686",
+      "fromID": "200056",
+      "toID": "200057",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244687",
+      "fromID": "200055",
+      "toID": "200056",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244688",
+      "fromID": "200057",
+      "toID": "200059",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244689",
+      "fromID": "200059",
+      "toID": "200023",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244690",
+      "fromID": "200021",
+      "toID": "200060",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244691",
+      "fromID": "200060",
+      "toID": "200055",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244692",
+      "fromID": "200060",
+      "toID": "200061",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244693",
+      "fromID": "200061",
+      "toID": "200059",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244694",
+      "fromID": "200063",
+      "toID": "200064",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244695",
+      "fromID": "200062",
+      "toID": "200063",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244696",
+      "fromID": "200055",
+      "toID": "200066",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244697",
+      "fromID": "200066",
+      "toID": "200062",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244698",
+      "fromID": "200068",
+      "toID": "200069",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244699",
+      "fromID": "200067",
+      "toID": "200068",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244700",
+      "fromID": "200062",
+      "toID": "200071",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244701",
+      "fromID": "200071",
+      "toID": "200067",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244702",
+      "fromID": "200073",
+      "toID": "200074",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244703",
+      "fromID": "200072",
+      "toID": "200073",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244704",
+      "fromID": "200077",
+      "toID": "200078",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244705",
+      "fromID": "200076",
+      "toID": "200077",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244706",
+      "fromID": "200067",
+      "toID": "200080",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244707",
+      "fromID": "200080",
+      "toID": "200072",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244708",
+      "fromID": "200072",
+      "toID": "200081",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "244709",
+      "fromID": "200081",
+      "toID": "200076",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

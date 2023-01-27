@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "153667",
+      "text": "But how can you be against a proven method of reducing abortions at the same time?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:50"
+    },
+    {
+      "nodeID": "153668",
+      "text": "It's a self-defeating question. You're asking why numbskulls participate in numbskullery.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:50"
+    },
+    {
+      "nodeID": "153669",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:19:50"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193072",
+      "fromID": "153668",
+      "toID": "153669",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193073",
+      "fromID": "153669",
+      "toID": "153667",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

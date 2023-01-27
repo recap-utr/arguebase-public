@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "153974",
+      "text": "How are they going to pay for this? Oregon hardly has the money to properly fund its school systems much less pay for a universal healthcare system.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:20:31"
+    },
+    {
+      "nodeID": "153975",
+      "text": "I don't know anyone on the committees, but people I know who have taken a look at the initial proposal and understand the current Oregon public health program (manages Medicaid and other fed/state health funds) say it's financially feasible by the proposal to combine current private policy subscriptions (including civil service at all levels other than federal) and fed/state/muni contributions. I'm told the key will be deductibles and how they scale them. Oregon's schools (excluding rural designations) would have plenty of money if educator unions didn't have funding in a stranglehold. Word is that unless benefits and retirement now equaling private sector CEO levels aren't cut back the system will crash within the next decade.  Off-topic, but civil service pay and benefits are an upcoming US crisis. Unions have switched from ruining manufacturing industries to the public sector. The county I live in already has a dual work force, union and non-union, with union workers to eventually disappear by attrition. Maybe sooner when looking at budget forecasting.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:20:31"
+    },
+    {
+      "nodeID": "153976",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:20:31"
+    },
+    {
+      "nodeID": "153977",
+      "text": "Your 'consequence' is a strawman.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:20:31"
+    },
+    {
+      "nodeID": "153978",
+      "text": "No...it isn't. The consequences of something do not become strawmen... Here is an article that talks about the consequences (so called strawmen emoticon_rolleyes) of universal healthcare http://www.heartland.org/policybot/results/15034/Canadian_Health_Care_Is_No_Model_for_US.html",
+      "type": "I",
+      "timestamp": "2016-03-08 20:20:31"
+    },
+    {
+      "nodeID": "153979",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:20:31"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193290",
+      "fromID": "153975",
+      "toID": "153976",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193291",
+      "fromID": "153976",
+      "toID": "153974",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193292",
+      "fromID": "153978",
+      "toID": "153979",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193293",
+      "fromID": "153979",
+      "toID": "153977",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

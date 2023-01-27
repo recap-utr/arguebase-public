@@ -1,0 +1,157 @@
+{
+  "nodes": [
+    {
+      "nodeID": "153901",
+      "text": "many of my friends growing up had the type of parents that didnt want them or didnt love them enough etc. . . and most of them are in the process of falling through the cracks and most likely will be the next person to rob you. I wouldnt ask ANYONE (even a pro lifer) to have to live a unloved life and be unhappy.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:20:21"
+    },
+    {
+      "nodeID": "153902",
+      "text": "So, are you saying your friends don't deserve to live because they have no morals? I hope you don't blame the parents for the kids lack of judgement. They really have no excuse. There are, I am sure, many good families that have raised criminals. One of the things that mark maturity is not blaming your parents for your downfalls. So are you saying that a person that is unloved in their youth would have been better off not having a shot at life?  If you are please consider: My Mom and Dad had the abortion appointment set up. That's how unwanted I was. Do you think I don't have a right to life? That I was better served not being able to give life a go? My sister was divorced (for lack of a better word) from her parents, are you saying because they treated her poor she was better off not being? A lousy beginning in life does not mean that a person's whole life will be worthless or unhappy. have a nice day, heidi",
+      "type": "I",
+      "timestamp": "2016-03-08 20:20:21"
+    },
+    {
+      "nodeID": "153903",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:20:22"
+    },
+    {
+      "nodeID": "153904",
+      "text": "The stronger survive, the weak die. That's just the way things go.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:20:22"
+    },
+    {
+      "nodeID": "153905",
+      "text": "Actually, that's not the way things go for social animals; humans especially. Fetuses are not weaker genetically than any other human age groups. At the point of abortion, selection cannot even have occured on them.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:20:22"
+    },
+    {
+      "nodeID": "153906",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:20:22"
+    },
+    {
+      "nodeID": "153907",
+      "text": "How does that follow? Fetuses are a necessary step in the reproductive process.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:20:22"
+    },
+    {
+      "nodeID": "153908",
+      "text": "So what? They aren't worth anything, are they? Does it matter if we kill them? No, in your reasoning it doesn't because there are no absolutes.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:20:22"
+    },
+    {
+      "nodeID": "153909",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:20:22"
+    },
+    {
+      "nodeID": "153910",
+      "text": "If I want to kill somebody, why should that be wrong?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:20:22"
+    },
+    {
+      "nodeID": "153911",
+      "text": "Because you are disrupting social order and infringing on another person's rights.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:20:22"
+    },
+    {
+      "nodeID": "153912",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:20:22"
+    },
+    {
+      "nodeID": "153913",
+      "text": "No, the vast majority of them are unwanted. That is why there are so many abortions.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:20:22"
+    },
+    {
+      "nodeID": "153914",
+      "text": "So you're saying there are vastly more abortions in the world than there are births?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:20:22"
+    },
+    {
+      "nodeID": "153915",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:20:22"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193236",
+      "fromID": "153902",
+      "toID": "153903",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193237",
+      "fromID": "153903",
+      "toID": "153901",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193238",
+      "fromID": "153905",
+      "toID": "153906",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193239",
+      "fromID": "153906",
+      "toID": "153904",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193240",
+      "fromID": "153908",
+      "toID": "153909",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193241",
+      "fromID": "153909",
+      "toID": "153907",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193242",
+      "fromID": "153911",
+      "toID": "153912",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193243",
+      "fromID": "153912",
+      "toID": "153910",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193244",
+      "fromID": "153914",
+      "toID": "153915",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193245",
+      "fromID": "153915",
+      "toID": "153913",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143471",
+      "text": "I think when trying to prove the xistance of god, you are in a similar situation. You cannot see god, you cannot measure him, though some claim they can feel his presence.  Personally, I believe in god, and I feel a little sorry for those who don't. Faith in something bigger than yourself, bigger than all mankind, can give you something to hold onto when there seems to be nothing else.  Personally, I believe in god because sometimes he talks to me. It is like a little voice in the back of your head that gives you nudges inthe right direction (sometimes the voice is not so little). Maybe I am schizo. Maybe it is my subconscious. Personally, I believ it is god. I have never gone wrong heeding that little voice, though I have often walked right into a heap of trouble when I have ignored it.  Anyway, that is my proof. I don't expect it to convince anybody but me, but there it is.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:12"
+    },
+    {
+      "nodeID": "143472",
+      "text": "i like your point on faith and believing in something bigger than yourself. i think man has an instinctive drive to better himself. and everyone believes in something bigger than himself, and its totally in the mind. for some its God. for some its their dreams. for some its their family, community, country, future generations of mankind. whatever it is, it is absolutely based on faith, and it is an element that pushes you to better yourself. faith in something bigger than yourself inspires improvement and self esteem, and i think everybody needs it",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:12"
+    },
+    {
+      "nodeID": "143473",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:58:12"
+    },
+    {
+      "nodeID": "143474",
+      "text": "When I was in college a particularly difficult physics professor gave us the task of proving the existance of the wind. Interestingly enough, it cannot be done. You cannot see it, you cannot catalog it, and you cannot touch it. You cannot measure it, though you can measure its effects. you cannot write any proof for the existance of the wind. While many people may argue that you CAN proove the existance of the wind by observing its effects, this is not really a valid way to a proof in physics. In the end, it comes down to faith. We can see the effects of the wind, we can feel the effects of the wind, so we believe it is there.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:12"
+    },
+    {
+      "nodeID": "143475",
+      "text": "actually, proof of something comes down to 2 things: agreeing on what the definition of the thing is, and agreeing on evidence that verifies the thing wind is defined as movement of air. air moves, therefore wind exists. this has been proven. i dont know what kind of definition you used, but it doesnt seem like your assignment is that difficult. God, on the other hand, is elusive even at the definition stage. he is sometimes defined as creator of the world, a higher force, all-powerful, greatest being possible, love, etc... unless a definition is agreed upon, even beginning to prove existance is difficult. suppose we define God as love. love exists, therefore God exists. however, not everybody agrees to this definition. suppose we define God as creator of the universe. sciences states the the universe was created spontaneously, therefore God doesnt exist. therefore, for some, either this definition is not satisfactory or the conclusion of the scientists isnt satisfactory. finding proof for the existence of God becomes increasingly difficult when Gods definition gets constantly revised and adjusted. if we could simply agree on the definition for God then we could begin to find a proof.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:12"
+    },
+    {
+      "nodeID": "143476",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:58:12"
+    },
+    {
+      "nodeID": "143477",
+      "text": "You should check the dates on the posts you reply to. That one is almost 10 months old.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:12"
+    },
+    {
+      "nodeID": "143478",
+      "text": "I know, I just couldn't resist lol... it was more for me than anyone else.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:58:12"
+    },
+    {
+      "nodeID": "143479",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:58:12"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185886",
+      "fromID": "143472",
+      "toID": "143473",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185887",
+      "fromID": "143473",
+      "toID": "143471",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185888",
+      "fromID": "143475",
+      "toID": "143476",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185889",
+      "fromID": "143476",
+      "toID": "143474",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185890",
+      "fromID": "143478",
+      "toID": "143479",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185891",
+      "fromID": "143479",
+      "toID": "143477",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

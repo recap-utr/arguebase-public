@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "141633",
+      "text": "I have never received an actual explanation for the doctrine of eternal damnation from anyone I've asked. It is something I struggled with before turning to Atheism, something I tried desperately to rationalize, and was one of the main points that LED to me becoming Atheist Many Christians claim that their God is omnipotent/omniscient. They claim that their God is a god of compassion, love, and mercy. Yet, with all of this, they claim that God punishes all people who do not accept Jesus as their savior with eternal torment in Hell, i.e. the vast majority of mankind numbering into the billions.  What possible compassionate purpose can infinite torture have? The punishment doesn't even serve a remedial purpose because the tormented one is not allowed to repent. It's only conceivable purpose (to me at least) is sadism.  How is this not evil? This thread is especially so I can her the thoughts of Christians on this and how they rationalize it, but anyone can feel free to chime in with observations, etc.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:09"
+    },
+    {
+      "nodeID": "141634",
+      "text": "Well, here is my take on it. I really believe that only the truly evil end up in Hell. Those like Hitler. I think that anyone else goes to heaven - Wiccans, Atheists, Buddhists, etc. - anyone who follows Christ's message of love, tolerance, and acceptance, whether knowingly or not.  Those who preach hate, and those who act on that hate, like Hitler, the KKK, and any other person/persons filled with hate (sad to say, this seems to apply to our own friend Archie here) are the ones who will end up in hell.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:09"
+    },
+    {
+      "nodeID": "141635",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:54:09"
+    },
+    {
+      "nodeID": "141636",
+      "text": "I believe there is special dispensation for those who've never had a chance to hear the Good News. The last Pope mentioned something dealing with this a few years ago IIRC.  This is also why the great commision for Christians is Evangelism.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:09"
+    },
+    {
+      "nodeID": "141637",
+      "text": "But you know what really doesn't make sense? Why are they evangelising to people (who they know most of them will reject them) if those people get a special dispensation? They'd be condemning people to hell by evangelizing, would they not? Why not leave the people be and let them get the special dispensation? emoticon_confused",
+      "type": "I",
+      "timestamp": "2016-03-08 19:54:09"
+    },
+    {
+      "nodeID": "141638",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:54:09"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184580",
+      "fromID": "141634",
+      "toID": "141635",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184581",
+      "fromID": "141635",
+      "toID": "141633",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184582",
+      "fromID": "141637",
+      "toID": "141638",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184583",
+      "fromID": "141638",
+      "toID": "141636",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

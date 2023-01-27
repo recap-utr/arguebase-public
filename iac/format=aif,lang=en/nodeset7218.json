@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139487",
+      "text": "If the Senate does agree to the legislation, Connecticut becomes the first state to voluntarily establish civil unions.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:11"
+    },
+    {
+      "nodeID": "139488",
+      "text": "So laws passed by the legislature are 'state approved' while rulings of the courts are not? The media portrayal of gay rights is always awful.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:11"
+    },
+    {
+      "nodeID": "139489",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:49:11"
+    },
+    {
+      "nodeID": "139490",
+      "text": "I think most Americans are not against Civil Unions for gays so this is no big deal, besides I think Vermont already has approved Civil Unions.....",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:11"
+    },
+    {
+      "nodeID": "139491",
+      "text": "and how do you know this......oh I see...you said 'I think'....but you don't really 'know' what most Americans favor or don't favor...you just 'think'",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:11"
+    },
+    {
+      "nodeID": "139492",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:49:11"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183058",
+      "fromID": "139488",
+      "toID": "139489",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183059",
+      "fromID": "139489",
+      "toID": "139487",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183060",
+      "fromID": "139491",
+      "toID": "139492",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183061",
+      "fromID": "139492",
+      "toID": "139490",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

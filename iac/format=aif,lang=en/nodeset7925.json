@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "150008",
+      "text": "God's mind, just by his thoughts created all matter.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:49"
+    },
+    {
+      "nodeID": "150009",
+      "text": "And, if he is perfect, and perfection cannot arise spontaneously, did he create himself with his own thoughts? Alternatively, did he come into existance at the beginning of time? In that case, what created time and God? Otherwise, if God and time have gone back forever, why did he wait forever before creating the earth?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:49"
+    },
+    {
+      "nodeID": "150010",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:11:49"
+    },
+    {
+      "nodeID": "150011",
+      "text": "You evolutionists are deluding yourselves if you think you'll ever know the origin of DNA or anything else.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:49"
+    },
+    {
+      "nodeID": "150012",
+      "text": "Really? Can you support your point?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:49"
+    },
+    {
+      "nodeID": "150013",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:11:49"
+    },
+    {
+      "nodeID": "150014",
+      "text": "Of course, by that logic, we can't prove that the laws of physics exist even though we observe them all the time. The same applies to the existance of other stars, the theory that bacteria and viruses cause disease, and, of course, the existance of a god. Not only that, but you can't be sure that you are even on 4forums debating; you might be drugged or in a VR machine. no, my logic has nothing to do with the above paragraph.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:49"
+    },
+    {
+      "nodeID": "150015",
+      "text": "Yes, but by that logic (mine), that is true. Don't attempt to accept my first statement without accepting my second. They use the same logic.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:49"
+    },
+    {
+      "nodeID": "150016",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:11:49"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "190498",
+      "fromID": "150009",
+      "toID": "150010",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190499",
+      "fromID": "150010",
+      "toID": "150008",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190500",
+      "fromID": "150012",
+      "toID": "150013",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190501",
+      "fromID": "150013",
+      "toID": "150011",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190502",
+      "fromID": "150015",
+      "toID": "150016",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190503",
+      "fromID": "150016",
+      "toID": "150014",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

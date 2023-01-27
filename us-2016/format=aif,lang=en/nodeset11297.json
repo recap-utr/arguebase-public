@@ -1,0 +1,100 @@
+{
+  "nodes": [
+    {
+      "nodeID": "204876",
+      "text": "TRUMP : Only Rosie O'Donnell",
+      "type": "L",
+      "timestamp": "2016-10-07 16:48:14"
+    },
+    {
+      "nodeID": "205251",
+      "text": "jazir5 : screw Rosie O'Donnell",
+      "type": "L",
+      "timestamp": "2016-10-10 09:20:37"
+    },
+    {
+      "nodeID": "205253",
+      "text": "screw Rosie O'Donnell",
+      "type": "I",
+      "timestamp": "2016-10-10 09:20:37"
+    },
+    {
+      "nodeID": "250937",
+      "text": "it was only Rosie O'Donnell",
+      "type": "I",
+      "timestamp": "2016-12-21 17:35:17"
+    },
+    {
+      "nodeID": "264486",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2017-03-09 14:30:32",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "264487",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 14:30:33",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264488",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2017-03-09 14:30:34",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "320046",
+      "fromID": "205253",
+      "toID": "264486",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320047",
+      "fromID": "264486",
+      "toID": "250937",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320048",
+      "fromID": "204876",
+      "toID": "264487",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320049",
+      "fromID": "264487",
+      "toID": "205251",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320050",
+      "fromID": "264487",
+      "toID": "264488",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320051",
+      "fromID": "264488",
+      "toID": "264486",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "204876",
+      "personID": "1602",
+      "timestamp": "2016-10-07 16:49:58",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

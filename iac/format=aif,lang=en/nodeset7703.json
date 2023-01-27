@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "146449",
+      "text": "There are a few fictional works which addressed this possibility and brought up interesting points. One is Aldous Huxley's book Brave New World. In it, people were grown in artificial wombs, not born, and they could be genetically designed. In the book, a high level official of this society mentions to the main character that an experiment had been tried in which all the people made were brilliant, athletic and beautiful - anyway, characteristics that we admire in people (nothing was said about picking their moral character). They ended up killing each other in competition for the better jobs and for leadership since nobody was willing to play the subservient menial role. Therefore, this society purposely grew humans who were at different levels (some very mentally deficient) to supply a distributions of people who could fit the distribution of roles necessary for society. Therefore, on an individual level, I don't have much of a problem with genetic engineering (assuming that we really fully knew what we are doing, which is doubtful since many unforseen side effects could occur). However, on a societal level, it could be very problematic.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:04:20"
+    },
+    {
+      "nodeID": "146450",
+      "text": "Well, I didn't really mean to go that far. But I'm talking about problems like that all worked out, thought about previously, and that the problem was worked out. I'm talking more about, what if you could make laborers stronger, scientists smarter, and rid us of physical and mental abnormalities ( such as down syndrome, narcolepsy, etc.). I don't think of making everyone the same for that reason. I'm just saying, what if there was a way to better society without going overboard? If the problems were worked out, which I'm sure they will be, what would your moral view on it be?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:04:20"
+    },
+    {
+      "nodeID": "146451",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:04:20"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187984",
+      "fromID": "146450",
+      "toID": "146451",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187985",
+      "fromID": "146451",
+      "toID": "146449",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

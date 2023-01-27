@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "138586",
+      "text": "You know...this is a debate forum not Google News. I understand posting some articles from time to time but every thread on the health forum is an article posted by you and a short mantra about single-payer health care. We get it, you want single-payer. Now make a real argument.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:23"
+    },
+    {
+      "nodeID": "138587",
+      "text": "Actually, the one chanting the equivalent of mantras is yourself. I have debated a plenty on single payer, posting resources/cites to back up my arguments. While I do not see you using either (a) reasoned argument, with the additional (b) cited sources to establish any factual assertions in your argument. So go jump in a lake, Steeeeeve.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:23"
+    },
+    {
+      "nodeID": "138588",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:47:23"
+    },
+    {
+      "nodeID": "138589",
+      "text": "You're just bald-faced lying, now. Since I have (a) made arguments based on facts, (b) used numerous sources, not just an online petition.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:23"
+    },
+    {
+      "nodeID": "138590",
+      "text": "Let's look at the last 15 threads (at the time of this posting) on this forum...you have created 12 of them from my count and none of them are more than a news post.  As far as I can tell you have no argument.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:47:23"
+    },
+    {
+      "nodeID": "138591",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:47:23"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182412",
+      "fromID": "138587",
+      "toID": "138588",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182413",
+      "fromID": "138588",
+      "toID": "138586",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182414",
+      "fromID": "138590",
+      "toID": "138591",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182415",
+      "fromID": "138591",
+      "toID": "138589",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

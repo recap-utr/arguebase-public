@@ -1,0 +1,893 @@
+{
+  "nodes": [
+    {
+      "nodeID": "190525",
+      "text": "[deleted] : I''ve been supporting Hillary",
+      "type": "L",
+      "timestamp": "2016-08-08 11:58:32"
+    },
+    {
+      "nodeID": "190526",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-08 11:58:32",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "190527",
+      "text": "I've been supporting Hillary Clinton",
+      "type": "I",
+      "timestamp": "2016-08-08 11:58:32"
+    },
+    {
+      "nodeID": "190528",
+      "text": "Barbara: [deleted] : I''ve been supporting Hillary",
+      "type": "L",
+      "timestamp": "2016-08-08 11:58:32"
+    },
+    {
+      "nodeID": "190529",
+      "text": "[deleted] : I think she's the Dem's best chance",
+      "type": "L",
+      "timestamp": "2016-08-08 11:58:32"
+    },
+    {
+      "nodeID": "190530",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-08 11:58:32",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "190531",
+      "text": "Hilary Clinton is the Dem's best chance",
+      "type": "I",
+      "timestamp": "2016-08-08 11:58:32"
+    },
+    {
+      "nodeID": "190532",
+      "text": "Barbara: [deleted] : I think she's the Dem's best chance",
+      "type": "L",
+      "timestamp": "2016-08-08 11:58:32"
+    },
+    {
+      "nodeID": "190533",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-08-08 11:58:32",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "190534",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-08 11:58:32",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "190535",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-08-08 11:58:32",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "190536",
+      "text": "[deleted] : I find myself agreeing with absolutely everything Sanders' is saying",
+      "type": "L",
+      "timestamp": "2016-08-08 11:58:32"
+    },
+    {
+      "nodeID": "190537",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-08 11:58:33",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "190538",
+      "text": "I find myself agreeing with absolutely everything Sanders' is saying",
+      "type": "I",
+      "timestamp": "2016-08-08 11:58:33"
+    },
+    {
+      "nodeID": "190539",
+      "text": "Barbara: [deleted] : I find myself agreeing with absolutely everything Sanders' is saying",
+      "type": "L",
+      "timestamp": "2016-08-08 11:58:33"
+    },
+    {
+      "nodeID": "190540",
+      "text": "[deleted] : Is he worth it?",
+      "type": "L",
+      "timestamp": "2016-08-08 11:58:33"
+    },
+    {
+      "nodeID": "190541",
+      "text": "Assertive Questioning",
+      "type": "YA",
+      "timestamp": "2016-08-08 11:58:33",
+      "scheme": "AssertiveQuestioning",
+      "schemeID": "73"
+    },
+    {
+      "nodeID": "190542",
+      "text": "Bernie Sanders is/is not worth supporting",
+      "type": "I",
+      "timestamp": "2016-08-08 11:58:33"
+    },
+    {
+      "nodeID": "190543",
+      "text": "Barbara: [deleted] : Is he worth it?",
+      "type": "L",
+      "timestamp": "2016-08-08 11:58:33"
+    },
+    {
+      "nodeID": "190544",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-08 11:58:33",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "190545",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-08 11:58:33",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "190546",
+      "text": "EMINEM_4Evah : Don't say no",
+      "type": "L",
+      "timestamp": "2016-08-08 11:58:33"
+    },
+    {
+      "nodeID": "190547",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-08 11:58:33",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "190548",
+      "text": "don't say no",
+      "type": "I",
+      "timestamp": "2016-08-08 11:58:34"
+    },
+    {
+      "nodeID": "190549",
+      "text": "Barbara: EMINEM_4Evah : Don't say no",
+      "type": "L",
+      "timestamp": "2016-08-08 11:58:34"
+    },
+    {
+      "nodeID": "190550",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-08 11:58:34",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "190551",
+      "text": "EMINEM_4Evah : Even if you're the only vote for him, vote for him",
+      "type": "L",
+      "timestamp": "2016-08-08 11:58:34"
+    },
+    {
+      "nodeID": "190552",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-08 11:58:34",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "190553",
+      "text": "even if you're the only vote for Bernie Sanderes, vote for him",
+      "type": "I",
+      "timestamp": "2016-08-08 11:58:34"
+    },
+    {
+      "nodeID": "190554",
+      "text": "Barbara: EMINEM_4Evah : Even if you're the only vote for him, vote for him",
+      "type": "L",
+      "timestamp": "2016-08-08 11:58:34"
+    },
+    {
+      "nodeID": "190555",
+      "text": "EMINEM_4Evah : If in doubt, vote for him",
+      "type": "L",
+      "timestamp": "2016-08-08 11:58:34"
+    },
+    {
+      "nodeID": "190556",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-08 11:58:34",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "190557",
+      "text": "if in doubt, vote for Bernie Sanders",
+      "type": "I",
+      "timestamp": "2016-08-08 11:58:34"
+    },
+    {
+      "nodeID": "190558",
+      "text": "Barbara: EMINEM_4Evah : If in doubt, vote for him",
+      "type": "L",
+      "timestamp": "2016-08-08 11:58:34"
+    },
+    {
+      "nodeID": "190559",
+      "text": "EMINEM_4Evah : If we're gonna go down, fucking we'll go down fighting",
+      "type": "L",
+      "timestamp": "2016-08-08 11:58:34"
+    },
+    {
+      "nodeID": "190560",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-08 11:58:35",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "190561",
+      "text": "if we're gonna go down, fucking we'll go down fighting",
+      "type": "I",
+      "timestamp": "2016-08-08 11:58:35"
+    },
+    {
+      "nodeID": "190562",
+      "text": "Barbara: EMINEM_4Evah : If we're gonna go down, fucking we'll go down fighting",
+      "type": "L",
+      "timestamp": "2016-08-08 11:58:35"
+    },
+    {
+      "nodeID": "190563",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-08 11:58:35",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "190564",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-08 11:58:35",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "190565",
+      "text": "152515 : Absolutely",
+      "type": "L",
+      "timestamp": "2016-08-08 11:58:35"
+    },
+    {
+      "nodeID": "190566",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-08 11:58:35",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "190567",
+      "text": "Bernie Sanders is absolutely worth support",
+      "type": "I",
+      "timestamp": "2016-08-08 11:58:35"
+    },
+    {
+      "nodeID": "190568",
+      "text": "Barbara: 152515 : Absolutely",
+      "type": "L",
+      "timestamp": "2016-08-08 11:58:35"
+    },
+    {
+      "nodeID": "190569",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-08-08 11:58:35",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "190570",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-08 11:58:35",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "190571",
+      "text": "Default Illocuting",
+      "type": "YA",
+      "timestamp": "2016-08-08 11:58:36",
+      "scheme": "Default Illocuting",
+      "schemeID": "168"
+    },
+    {
+      "nodeID": "190572",
+      "text": "152515 : Motivating me to vote for the first time",
+      "type": "L",
+      "timestamp": "2016-08-08 11:58:36"
+    },
+    {
+      "nodeID": "190573",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-08 11:58:36",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "190574",
+      "text": "Bernie Sanders is motivating me to vote for the first time",
+      "type": "I",
+      "timestamp": "2016-08-08 11:58:36"
+    },
+    {
+      "nodeID": "190575",
+      "text": "Barbara: 152515 : Motivating me to vote for the first time",
+      "type": "L",
+      "timestamp": "2016-08-08 11:58:36"
+    },
+    {
+      "nodeID": "190576",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-08-08 11:58:36",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "190577",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-08 11:58:36",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "190578",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-08-08 11:58:36",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "190579",
+      "text": "telperiontree : Thank you for making my brain give Sanders a starring role in a L'oreal commercial",
+      "type": "L",
+      "timestamp": "2016-08-08 11:58:36"
+    },
+    {
+      "nodeID": "190580",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-08 11:58:36",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "190581",
+      "text": "thank you for making my brain give Sanders a starring role in a L'oreal commercial",
+      "type": "I",
+      "timestamp": "2016-08-08 11:58:36"
+    },
+    {
+      "nodeID": "190582",
+      "text": "Barbara: telperiontree : hank you for making my brain give Sanders a starring role in a L'oreal commercial",
+      "type": "L",
+      "timestamp": "2016-08-08 11:58:36"
+    },
+    {
+      "nodeID": "190583",
+      "text": "telperiontree : The answer is yes",
+      "type": "L",
+      "timestamp": "2016-08-08 11:58:37"
+    },
+    {
+      "nodeID": "190584",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-08 11:58:37",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "190585",
+      "text": "the answer is yes, Bernie Sanders is worth support",
+      "type": "I",
+      "timestamp": "2016-08-08 11:58:37"
+    },
+    {
+      "nodeID": "190586",
+      "text": "Barbara: telperiontree : The answer is yes",
+      "type": "L",
+      "timestamp": "2016-08-08 11:58:37"
+    },
+    {
+      "nodeID": "190587",
+      "text": "telperiontree :  Look him up",
+      "type": "L",
+      "timestamp": "2016-08-08 11:58:37"
+    },
+    {
+      "nodeID": "190588",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-08-08 11:58:37",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "190589",
+      "text": "look Bernie Sanders up",
+      "type": "I",
+      "timestamp": "2016-08-08 11:58:37"
+    },
+    {
+      "nodeID": "190590",
+      "text": "Barbara: telperiontree :  Look him up",
+      "type": "L",
+      "timestamp": "2016-08-08 11:58:37"
+    },
+    {
+      "nodeID": "190591",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-08 11:58:37",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "190592",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-08 11:58:37",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "190593",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-08-08 11:58:37",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "190594",
+      "text": "Default Illocuting",
+      "type": "YA",
+      "timestamp": "2016-08-08 11:58:38",
+      "scheme": "Default Illocuting",
+      "schemeID": "168"
+    },
+    {
+      "nodeID": "190595",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-08-08 11:58:38",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "233475",
+      "fromID": "190526",
+      "toID": "190527",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233476",
+      "fromID": "190525",
+      "toID": "190526",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233477",
+      "fromID": "190530",
+      "toID": "190531",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233478",
+      "fromID": "190529",
+      "toID": "190530",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233479",
+      "fromID": "190531",
+      "toID": "190533",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233480",
+      "fromID": "190533",
+      "toID": "190527",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233481",
+      "fromID": "190525",
+      "toID": "190534",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233482",
+      "fromID": "190534",
+      "toID": "190529",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233483",
+      "fromID": "190534",
+      "toID": "190535",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233484",
+      "fromID": "190535",
+      "toID": "190533",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233485",
+      "fromID": "190537",
+      "toID": "190538",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233486",
+      "fromID": "190536",
+      "toID": "190537",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233487",
+      "fromID": "190541",
+      "toID": "190542",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233488",
+      "fromID": "190540",
+      "toID": "190541",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233489",
+      "fromID": "190529",
+      "toID": "190544",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233490",
+      "fromID": "190544",
+      "toID": "190536",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233491",
+      "fromID": "190529",
+      "toID": "190545",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233492",
+      "fromID": "190545",
+      "toID": "190540",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233493",
+      "fromID": "190547",
+      "toID": "190548",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233494",
+      "fromID": "190546",
+      "toID": "190547",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233495",
+      "fromID": "190540",
+      "toID": "190550",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233496",
+      "fromID": "190550",
+      "toID": "190546",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233497",
+      "fromID": "190552",
+      "toID": "190553",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233498",
+      "fromID": "190551",
+      "toID": "190552",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233499",
+      "fromID": "190556",
+      "toID": "190557",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233500",
+      "fromID": "190555",
+      "toID": "190556",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233501",
+      "fromID": "190560",
+      "toID": "190561",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233502",
+      "fromID": "190559",
+      "toID": "190560",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233503",
+      "fromID": "190551",
+      "toID": "190563",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233504",
+      "fromID": "190563",
+      "toID": "190559",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233505",
+      "fromID": "190563",
+      "toID": "190555",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233506",
+      "fromID": "190546",
+      "toID": "190564",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233507",
+      "fromID": "190564",
+      "toID": "190551",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233508",
+      "fromID": "190566",
+      "toID": "190567",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233509",
+      "fromID": "190565",
+      "toID": "190566",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233510",
+      "fromID": "190567",
+      "toID": "190569",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233511",
+      "fromID": "190569",
+      "toID": "190542",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233512",
+      "fromID": "190540",
+      "toID": "190570",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233513",
+      "fromID": "190570",
+      "toID": "190565",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233514",
+      "fromID": "190570",
+      "toID": "190571",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233515",
+      "fromID": "190571",
+      "toID": "190569",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233516",
+      "fromID": "190573",
+      "toID": "190574",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233517",
+      "fromID": "190572",
+      "toID": "190573",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233518",
+      "fromID": "190574",
+      "toID": "190576",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233519",
+      "fromID": "190576",
+      "toID": "190567",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233520",
+      "fromID": "190565",
+      "toID": "190577",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233521",
+      "fromID": "190577",
+      "toID": "190572",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233522",
+      "fromID": "190577",
+      "toID": "190578",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233523",
+      "fromID": "190578",
+      "toID": "190576",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233524",
+      "fromID": "190580",
+      "toID": "190581",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233525",
+      "fromID": "190579",
+      "toID": "190580",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233526",
+      "fromID": "190584",
+      "toID": "190585",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233527",
+      "fromID": "190583",
+      "toID": "190584",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233528",
+      "fromID": "190588",
+      "toID": "190589",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233529",
+      "fromID": "190587",
+      "toID": "190588",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233530",
+      "fromID": "190542",
+      "toID": "190541",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233531",
+      "fromID": "190540",
+      "toID": "190591",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233532",
+      "fromID": "190591",
+      "toID": "190579",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233533",
+      "fromID": "190540",
+      "toID": "190592",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233534",
+      "fromID": "190592",
+      "toID": "190583",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233535",
+      "fromID": "190585",
+      "toID": "190593",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233536",
+      "fromID": "190593",
+      "toID": "190542",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233537",
+      "fromID": "190592",
+      "toID": "190594",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233538",
+      "fromID": "190594",
+      "toID": "190593",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233539",
+      "fromID": "190583",
+      "toID": "190595",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "233540",
+      "fromID": "190595",
+      "toID": "190587",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148006",
+      "text": "And who makes the decision, Rich? That's the issue, as I see it. I don't believe the government has any business in a woman's body.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:33"
+    },
+    {
+      "nodeID": "148007",
+      "text": "So you must be against Medicare and Medicaid. I assume you would also be against nationalized healthcare.  The government, rather the supreme court dictators, became involved in the woman's body in 1973. You must be against roe v. wade.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:33"
+    },
+    {
+      "nodeID": "148008",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:33"
+    },
+    {
+      "nodeID": "148009",
+      "text": "If the cell has not even been fertilized, then it is not even a human life yet. Thereby, it would be pointless to even go back that far in the first place.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:33"
+    },
+    {
+      "nodeID": "148010",
+      "text": "And if a cell has been fertilized, is it a person?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:33"
+    },
+    {
+      "nodeID": "148011",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:07:34"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189082",
+      "fromID": "148007",
+      "toID": "148008",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189083",
+      "fromID": "148008",
+      "toID": "148006",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189084",
+      "fromID": "148010",
+      "toID": "148011",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189085",
+      "fromID": "148011",
+      "toID": "148009",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

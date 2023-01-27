@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "149305",
+      "text": "Fundamental RightsThis relationship of citizen and state is fundamental to democracy. In the words of the U.S. Declaration of Independence, written by Thomas Jefferson in 1776:We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain inalienable rights, that among these are life, liberty and the pursuit of happiness. That to secure these rights, governments are instituted among men, deriving their just powers from the consent of the governed.More specifically, in democracies, these fundamental or inalienable rights include freedom of speech and expression, freedom of religion and conscience, freedom of assembly, and the right to equal protection before the law. This is by no means an exhaustive list of the rights that citizens enjoy in a democracy, but it does constitute a set of the irreducible core rights that any democratic government worthy of the name must uphold. Since they exist independently of government, in Jefferson's view, these rights cannot be legislated away, nor should they be subject to the whim of an electoral majority.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:33"
+    },
+    {
+      "nodeID": "149306",
+      "text": "And here our Government recognizes:Rule of Law: Fundamental Rights of Citizens Democracies exist to serve their people",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:33"
+    },
+    {
+      "nodeID": "149307",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:10:33"
+    },
+    {
+      "nodeID": "149308",
+      "text": "(The following one-pager is taken from the U.S. Department of State publication, Principles of Democracy.)\u00c2\u2022 To maintain human rights, citizens in any free society need to be vigilant. Citizen responsibility \u00c2\u2013 through a variety of participatory activities \u00c2\u2013 ensures that government remains accountable to the people.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:33"
+    },
+    {
+      "nodeID": "149309",
+      "text": "And here our Government says:Rights and Responsibilities",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:33"
+    },
+    {
+      "nodeID": "149310",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:10:33"
+    },
+    {
+      "nodeID": "149311",
+      "text": "Nor would one expect premium costs to be in the Bill. The law in CA that requires auto insurance to have a car registered doesn't mention premium costs either. That's left to market forces.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:33"
+    },
+    {
+      "nodeID": "149312",
+      "text": "And if left to market forces they can charge whatever they want.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:33"
+    },
+    {
+      "nodeID": "149313",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:10:33"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189998",
+      "fromID": "149306",
+      "toID": "149307",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189999",
+      "fromID": "149307",
+      "toID": "149305",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190000",
+      "fromID": "149309",
+      "toID": "149310",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190001",
+      "fromID": "149310",
+      "toID": "149308",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190002",
+      "fromID": "149312",
+      "toID": "149313",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190003",
+      "fromID": "149313",
+      "toID": "149311",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

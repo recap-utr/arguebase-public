@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "149848",
+      "text": "Perhaps our anti-rights advocates can explain how this wild scheme would be a crime fighting measure or have anything to do with anti-terrorism? :p",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:30"
+    },
+    {
+      "nodeID": "149849",
+      "text": "Oh they think they can Doc! They think that we gun owners are the terrorist!  Personally. I think that all of this talk about Gun Control is happening because they are mad. They are MAD that a Black Man! Is in the White House!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:30"
+    },
+    {
+      "nodeID": "149850",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:11:30"
+    },
+    {
+      "nodeID": "149851",
+      "text": "They are MAD that a Black Man! Is in the White House!",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:30"
+    },
+    {
+      "nodeID": "149852",
+      "text": "Well, that statement would be half right :p",
+      "type": "I",
+      "timestamp": "2016-03-08 20:11:30"
+    },
+    {
+      "nodeID": "149853",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:11:30"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "190382",
+      "fromID": "149849",
+      "toID": "149850",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190383",
+      "fromID": "149850",
+      "toID": "149848",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190384",
+      "fromID": "149852",
+      "toID": "149853",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "190385",
+      "fromID": "149853",
+      "toID": "149851",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

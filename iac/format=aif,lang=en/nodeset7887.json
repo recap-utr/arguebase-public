@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "149199",
+      "text": "I assume you are referring to the first entry on the page.  Then you are as ignorant as all the 'religious' people you mock.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:18"
+    },
+    {
+      "nodeID": "149200",
+      "text": "And your not beef, your bull XXXX.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:10:19"
+    },
+    {
+      "nodeID": "149201",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:10:19"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189918",
+      "fromID": "149200",
+      "toID": "149201",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189919",
+      "fromID": "149201",
+      "toID": "149199",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

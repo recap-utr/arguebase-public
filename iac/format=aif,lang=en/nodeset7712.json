@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "144131",
+      "text": "Really?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:59:36"
+    },
+    {
+      "nodeID": "146814",
+      "text": "New York's tough gun-control laws were central to its success in reducing crime.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:04:56"
+    },
+    {
+      "nodeID": "146815",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:04:56"
+    },
+    {
+      "nodeID": "146816",
+      "text": "'If the Supreme Court were to recognize a right to bear arms, however, the police could no longer stop and frisk people who would merely be exercising a constitutional right.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:04:56"
+    },
+    {
+      "nodeID": "146817",
+      "text": "You know what? I don't care if it ties the hands the police behinds their backs, puts a ball gag in their mouth and a bag over their heads, and dumps them by the side of the road like garbage! We don't live in a police state. The powers of the police must come second to the rights of the people. Otherwise you're basically saying that the police should have the power to carry out warrantless searches of your home and private property, without reasonable suspicion and without justification. Under your standard the police should be allowed to break down your door in the middle of the night, destroy your home in their quest for evidence of some wrongdoing, and if they find nothing then you have no legal recourse over the destruction of private property. The police work for we the people. Our taxes pay their salaries. They shouldn't be allowed to exercise total control over us. Such standards creates a nation of fear and distrust that breeds resentment for authority, and is the leading cause of the creation of cop killers.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:04:56"
+    },
+    {
+      "nodeID": "146818",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:04:56"
+    },
+    {
+      "nodeID": "146819",
+      "text": "Because it is illegal to own a handgun without a difficult-to-get permit in New York,",
+      "type": "I",
+      "timestamp": "2016-03-08 20:04:56"
+    },
+    {
+      "nodeID": "146820",
+      "text": "So according to you, you'd prefer it if only the bad guys are armed, because that makes it easy to tell who's the bad guy and who's the good guy; being the good guy is never armed, and thus never able to defend themselves.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:04:56"
+    },
+    {
+      "nodeID": "146821",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:04:56"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "188246",
+      "fromID": "144131",
+      "toID": "146815",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188247",
+      "fromID": "146815",
+      "toID": "146814",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188248",
+      "fromID": "146817",
+      "toID": "146818",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188249",
+      "fromID": "146818",
+      "toID": "146816",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188250",
+      "fromID": "146820",
+      "toID": "146821",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188251",
+      "fromID": "146821",
+      "toID": "146819",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

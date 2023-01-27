@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "162349",
+      "text": "They both like to indoctrinate the young. That was the point.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:56"
+    },
+    {
+      "nodeID": "162350",
+      "text": "And where exactly is your proof that 'Stop, don't touch, leave the area, tell an adult' is indoctrination and translates to 'go out and buy a gun, buy as many guns as possible, obsess over the gun, etc.'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:39:56"
+    },
+    {
+      "nodeID": "162351",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:39:56"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "199252",
+      "fromID": "162350",
+      "toID": "162351",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199253",
+      "fromID": "162351",
+      "toID": "162349",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,184 @@
+{
+  "nodes": [
+    {
+      "nodeID": "208809",
+      "text": "IchthysTattoo : Use the deaths of people in 9/11 to help your campaign, classy",
+      "type": "L",
+      "timestamp": "2016-10-24 12:11:34"
+    },
+    {
+      "nodeID": "208811",
+      "text": "usin the deaths of people in 9/11 to help your campaign is not classy",
+      "type": "I",
+      "timestamp": "2016-10-24 12:11:34"
+    },
+    {
+      "nodeID": "208821",
+      "text": "CHRISTIE hugged victims",
+      "type": "I",
+      "timestamp": "2016-10-24 12:11:36"
+    },
+    {
+      "nodeID": "208824",
+      "text": "CHRISTIE : I've hugged victims, dammit",
+      "type": "L",
+      "timestamp": "2016-10-24 12:11:36"
+    },
+    {
+      "nodeID": "219668",
+      "text": "CHRISTIE : who has prosecuted and investigated and jailed terrorists in this country after September 11th",
+      "type": "L",
+      "timestamp": "2016-11-01 14:58:21"
+    },
+    {
+      "nodeID": "219670",
+      "text": "who has prosecuted and investigated and jailed terrorists in this country after September 11th",
+      "type": "I",
+      "timestamp": "2016-11-01 14:58:21"
+    },
+    {
+      "nodeID": "219930",
+      "text": "CHRISTIE : Senator Paul , you know , the hugs that I remember are the hugs that I gave to the families who lost their people on September 11th",
+      "type": "L",
+      "timestamp": "2016-11-01 14:58:47"
+    },
+    {
+      "nodeID": "219932",
+      "text": "Senator Paul , you know , the hugs that CHRISTIE remembers are the hugs that CHRISTIE gave to the families who lost their people on September 11th",
+      "type": "I",
+      "timestamp": "2016-11-01 14:58:48"
+    },
+    {
+      "nodeID": "264577",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2017-03-09 16:32:55",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "264578",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 16:32:55",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264579",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2017-03-09 16:32:56",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "264580",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-09 16:32:56",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "264581",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-09 16:32:57",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "264582",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-09 16:32:57",
+      "scheme": "Restating",
+      "schemeID": "101"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "320228",
+      "fromID": "208811",
+      "toID": "264577",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320229",
+      "fromID": "264577",
+      "toID": "219670",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320230",
+      "fromID": "219668",
+      "toID": "264578",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320231",
+      "fromID": "264578",
+      "toID": "208809",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320232",
+      "fromID": "264578",
+      "toID": "264579",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320233",
+      "fromID": "264579",
+      "toID": "264577",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320234",
+      "fromID": "208821",
+      "toID": "264580",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320235",
+      "fromID": "264580",
+      "toID": "219932",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320236",
+      "fromID": "219930",
+      "toID": "264581",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320237",
+      "fromID": "264581",
+      "toID": "208824",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320238",
+      "fromID": "264581",
+      "toID": "264582",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "320239",
+      "fromID": "264582",
+      "toID": "264580",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "208824",
+      "personID": "2576",
+      "timestamp": "2016-10-24 12:11:42",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

@@ -1,0 +1,4004 @@
+{
+  "nodes": [
+    {
+      "nodeID": "178578",
+      "text": "That is nonsense",
+      "type": "I",
+      "timestamp": "2016-07-01 15:29:17"
+    },
+    {
+      "nodeID": "257729",
+      "text": "KELLY : I wanna talk to you about this",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:35"
+    },
+    {
+      "nodeID": "257730",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:35",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257731",
+      "text": "KELLY wanna talk to RUBIO about this",
+      "type": "I",
+      "timestamp": "2016-12-22 16:04:35"
+    },
+    {
+      "nodeID": "257732",
+      "text": "Barbara: KELLY : I wanna talk to you about this",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:35"
+    },
+    {
+      "nodeID": "257733",
+      "text": "KELLY :  many of the Facebook users and -- and -- the -- the folks on Facebook wanted the candidates to speak to ISIS tonight",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:35"
+    },
+    {
+      "nodeID": "257734",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:35",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257735",
+      "text": "many of the Facebook users wanted the candidates to speak to ISIS tonight",
+      "type": "I",
+      "timestamp": "2016-12-22 16:04:35"
+    },
+    {
+      "nodeID": "257736",
+      "text": "Barbara: KELLY :  many of the Facebook users and -- and -- the -- the folks on Facebook wanted the candidates to speak to ISIS tonight",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:35"
+    },
+    {
+      "nodeID": "257737",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-22 16:04:36",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "257738",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:04:36",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257739",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:36",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "257740",
+      "text": "CRUZ : What would it take to destroy ISIS in 90 days",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:36"
+    },
+    {
+      "nodeID": "257741",
+      "text": "Pure Questioning",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:36",
+      "scheme": "PureQuestioning",
+      "schemeID": "91"
+    },
+    {
+      "nodeID": "257742",
+      "text": "it would take xxx to destroy ISIS in 90 days",
+      "type": "I",
+      "timestamp": "2016-12-22 16:04:36"
+    },
+    {
+      "nodeID": "257743",
+      "text": "Barbara: CRUZ : What would it take to destroy ISIS in 90 days",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:36"
+    },
+    {
+      "nodeID": "257744",
+      "text": "Barbara: CRUZ : SIS will only be truly destroyed once they are rejected by the populations in which they hide",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:36"
+    },
+    {
+      "nodeID": "257745",
+      "text": "CHAIRMAN : ISIS will only be truly destroyed once they are rejected by the populations in which they hide",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:36"
+    },
+    {
+      "nodeID": "257746",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:36",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257747",
+      "text": "ISIS will only be truly destroyed once they are rejected by the populations in which they hide",
+      "type": "I",
+      "timestamp": "2016-12-22 16:04:37"
+    },
+    {
+      "nodeID": "257748",
+      "text": "Barbara: CHAIRMAN : ISIS will only be truly destroyed once they are rejected by the populations in which they hide",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:37"
+    },
+    {
+      "nodeID": "257749",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:37",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257750",
+      "text": "KELLY : CRUZ : What would it take to destroy ISIS in 90 days",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:37"
+    },
+    {
+      "nodeID": "257751",
+      "text": "Barbara: KELLY : CRUZ : What would it take to destroy ISIS in 90 days",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:37"
+    },
+    {
+      "nodeID": "257752",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:37",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257753",
+      "text": "KELLY : CHAIRMAN : ISIS will only be truly destroyed once they are rejected by the populations in which they hide",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:37"
+    },
+    {
+      "nodeID": "257754",
+      "text": "Barbara: KELLY : CHAIRMAN : ISIS will only be truly destroyed once they are rejected by the populations in which they hide",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:37"
+    },
+    {
+      "nodeID": "257755",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:04:38",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257756",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:04:38",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257757",
+      "text": "KELLY : you accused him of pushing Medicaid for the Iraqis",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:38"
+    },
+    {
+      "nodeID": "257758",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:38",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257759",
+      "text": "CRUZ accused the chairman of pushing Medicaid for the Iraqis",
+      "type": "I",
+      "timestamp": "2016-12-22 16:04:38"
+    },
+    {
+      "nodeID": "257760",
+      "text": "Barbara: KELLY : you accused him of pushing Medicaid for the Iraqis",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:38"
+    },
+    {
+      "nodeID": "257761",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:04:38",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257762",
+      "text": "KELLY : How would you destroy ISIS in 90 days",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:38"
+    },
+    {
+      "nodeID": "257763",
+      "text": "Pure Questioning",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:38",
+      "scheme": "PureQuestioning",
+      "schemeID": "91"
+    },
+    {
+      "nodeID": "257764",
+      "text": "CRUZ would you destroy ISIS in 90 days by xxx",
+      "type": "I",
+      "timestamp": "2016-12-22 16:04:39"
+    },
+    {
+      "nodeID": "257765",
+      "text": "Barbara: KELLY : How would you destroy ISIS in 90 days",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:39"
+    },
+    {
+      "nodeID": "257766",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:04:39",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257767",
+      "text": "CRUZ : we need a commander in chief that speaks the truth",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:39"
+    },
+    {
+      "nodeID": "257768",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:39",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257769",
+      "text": "we need a commander in chief that speaks the truth",
+      "type": "I",
+      "timestamp": "2016-12-22 16:04:39"
+    },
+    {
+      "nodeID": "257770",
+      "text": "Barbara: CRUZ : we need a commander in chief that speaks the truth",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:39"
+    },
+    {
+      "nodeID": "257771",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-12-22 16:04:39",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "257772",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:04:39",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257773",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:40",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "257774",
+      "text": "CRUZ :  We will not defeat radical Islamic terrorism so long as we have a president unwilling to utter the words, \"radical Islamic terrorism\"",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:40"
+    },
+    {
+      "nodeID": "257775",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:40",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257776",
+      "text": "we will not defeat radical Islamic terrorism so long as we have a president unwilling to utter the words, \"radical Islamic terrorism\"",
+      "type": "I",
+      "timestamp": "2016-12-22 16:04:40"
+    },
+    {
+      "nodeID": "257777",
+      "text": "Barbara: CRUZ :  We will not defeat radical Islamic terrorism so long as we have a president unwilling to utter the words, \"radical Islamic terrorism\"",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:40"
+    },
+    {
+      "nodeID": "257778",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-22 16:04:40",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "257779",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:04:40",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257780",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:40",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "257781",
+      "text": "to destroy ISIS what would be required militarily is xxx",
+      "type": "I",
+      "timestamp": "2016-12-22 16:04:40"
+    },
+    {
+      "nodeID": "257782",
+      "text": "Barbara: CHAIRMAN :  what would be required militarily to destroy ISIS",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:41"
+    },
+    {
+      "nodeID": "257783",
+      "text": "there is no military solution",
+      "type": "I",
+      "timestamp": "2016-12-22 16:04:41"
+    },
+    {
+      "nodeID": "257784",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:41",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257785",
+      "text": "CHAIRMAN : there is no military solution",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:41"
+    },
+    {
+      "nodeID": "257786",
+      "text": "Barbara: CHAIRMAN : there is no military solution",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:41"
+    },
+    {
+      "nodeID": "257787",
+      "text": "we need to change the conditions on the ground",
+      "type": "I",
+      "timestamp": "2016-12-22 16:04:41"
+    },
+    {
+      "nodeID": "257788",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:41",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257789",
+      "text": "CHAIRMAN : We need to change the conditions on the ground",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:41"
+    },
+    {
+      "nodeID": "257790",
+      "text": "Barbara: CHAIRMAN : We need to change the conditions on the ground",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:41"
+    },
+    {
+      "nodeID": "257791",
+      "text": "that young men are not in poverty and susceptible to radicalization",
+      "type": "I",
+      "timestamp": "2016-12-22 16:04:42"
+    },
+    {
+      "nodeID": "257792",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:42",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257793",
+      "text": "CHAIRMAN : that young men are not in poverty and susceptible to radicalization",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:42"
+    },
+    {
+      "nodeID": "257794",
+      "text": "Barbara: CHAIRMAN : that young men are not in poverty and susceptible to radicalization",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:42"
+    },
+    {
+      "nodeID": "257795",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:42",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257796",
+      "text": "CRUZ : That, with all due respect, is nonsense",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:42"
+    },
+    {
+      "nodeID": "257797",
+      "text": "Barbara: CRUZ : That, with all due respect, is nonsense",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:42"
+    },
+    {
+      "nodeID": "257798",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:43",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257799",
+      "text": "CRUZ : CHAIRMAN : there is no military solution",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:43"
+    },
+    {
+      "nodeID": "257800",
+      "text": "Barbara: CRUZ : CHAIRMAN : there is no military solution",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:43"
+    },
+    {
+      "nodeID": "257801",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:43",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257802",
+      "text": "CRUZ : CHAIRMAN : that young men are not in poverty and susceptible to radicalization",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:43"
+    },
+    {
+      "nodeID": "257803",
+      "text": "Barbara: CRUZ : CHAIRMAN : that young men are not in poverty and susceptible to radicalization",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:43"
+    },
+    {
+      "nodeID": "257804",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:43",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257805",
+      "text": "CRUZ : CHAIRMAN : We need to change the conditions on the ground",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:43"
+    },
+    {
+      "nodeID": "257806",
+      "text": "Barbara: CRUZ : CHAIRMAN : We need to change the conditions on the ground",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:43"
+    },
+    {
+      "nodeID": "257807",
+      "text": "Pure Questioning",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:44",
+      "scheme": "PureQuestioning",
+      "schemeID": "91"
+    },
+    {
+      "nodeID": "257808",
+      "text": "CRUZ :  what would be required militarily to destroy ISIS",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:44"
+    },
+    {
+      "nodeID": "257809",
+      "text": "Barbara: CRUZ :  what would be required militarily to destroy ISIS",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:44"
+    },
+    {
+      "nodeID": "257810",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-12-22 16:04:44",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "257811",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-22 16:04:44",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "257812",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-22 16:04:44",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "257813",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:04:44",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257814",
+      "text": "Default Illocuting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:44",
+      "scheme": "Default Illocuting",
+      "schemeID": "168"
+    },
+    {
+      "nodeID": "257815",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:04:44",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257816",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:04:45",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257817",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:45",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "257818",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:45",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "257819",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-12-22 16:04:45",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "257820",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:04:45",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257821",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:45",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "257822",
+      "text": "it's the same answer the State Department gave that we need to give them jobs",
+      "type": "I",
+      "timestamp": "2016-12-22 16:04:45"
+    },
+    {
+      "nodeID": "257823",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:45",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257824",
+      "text": "CRUZ : It's the same answer the State Department gave that we need to give them jobs",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:45"
+    },
+    {
+      "nodeID": "257825",
+      "text": "Barbara: CRUZ : It's the same answer the State Department gave that we need to give them jobs",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:46"
+    },
+    {
+      "nodeID": "257826",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:04:46",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257827",
+      "text": "CRUZ :  What we need is a commander in chief who makes -- clear, if you join ISIS, if you wage jihad on America, then you are signing your death warrant",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:46"
+    },
+    {
+      "nodeID": "257828",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:46",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257829",
+      "text": "what we need is a commander in chief who makes clear, if you join ISIS, if you wage jihad on America, then you are signing your death warrant",
+      "type": "I",
+      "timestamp": "2016-12-22 16:04:46"
+    },
+    {
+      "nodeID": "257830",
+      "text": "Barbara: CRUZ :  What we need is a commander in chief who makes -- clear, if you join ISIS, if you wage jihad on America, then you are signing your death warrant",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:46"
+    },
+    {
+      "nodeID": "257831",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-22 16:04:46",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "257832",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:04:46",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257833",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:47",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "257834",
+      "text": "KELLY : You don't see it as... [applause] ...an ideological problem -- an ideological problem in addition to a military one",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:47"
+    },
+    {
+      "nodeID": "257835",
+      "text": "Assertive Questioning",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:47",
+      "scheme": "AssertiveQuestioning",
+      "schemeID": "73"
+    },
+    {
+      "nodeID": "257836",
+      "text": "CRUZ doesn't see it as an ideological problem in addition to a military one",
+      "type": "I",
+      "timestamp": "2016-12-22 16:04:47"
+    },
+    {
+      "nodeID": "257837",
+      "text": "Barbara: KELLY : You don't see it as... [applause] ...an ideological problem -- an ideological problem in addition to a military one",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:47"
+    },
+    {
+      "nodeID": "257838",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:04:47",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257839",
+      "text": "CRUZ :  it's an ideological problem",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:47"
+    },
+    {
+      "nodeID": "257840",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:47",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257841",
+      "text": "it's an ideological problem",
+      "type": "I",
+      "timestamp": "2016-12-22 16:04:47"
+    },
+    {
+      "nodeID": "257842",
+      "text": "Barbara: CRUZ :  it's an ideological problem",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:47"
+    },
+    {
+      "nodeID": "257843",
+      "text": "CRUZ : I introduce the Expatriate Terrorist Act in the Senate that said if any American travels to the Middle East and joining ISIS, that he or she forfeits their citizenship so they don't use a passport to come back and wage jihad on Americans",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:48"
+    },
+    {
+      "nodeID": "257844",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:48",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257845",
+      "text": "CRUZ will introduce the Expatriate Terrorist Act in the Senate that said if any American travels to the Middle East and joining ISIS, that he or she forfeits their citizenship so they don't use a passport to come back and wage jihad on Americans",
+      "type": "I",
+      "timestamp": "2016-12-22 16:04:48"
+    },
+    {
+      "nodeID": "257846",
+      "text": "Barbara: CRUZ : I introduce the Expatriate Terrorist Act in the Senate that said if any American travels to the Middle East and joining ISIS, that he or she forfeits their citizenship so they don't use a passport to come back and wage jihad on Americans",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:48"
+    },
+    {
+      "nodeID": "257847",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-22 16:04:48",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "257848",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:04:48",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257849",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:48",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "257850",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-12-22 16:04:48",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "257851",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:04:49",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257852",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:49",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "257853",
+      "text": "CRUZ : Yes, it is ideological",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:49"
+    },
+    {
+      "nodeID": "257854",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:49",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257855",
+      "text": "it is ideological",
+      "type": "I",
+      "timestamp": "2016-12-22 16:04:49"
+    },
+    {
+      "nodeID": "257856",
+      "text": "Barbara: CRUZ : it is ideological",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:49"
+    },
+    {
+      "nodeID": "257857",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-12-22 16:04:49",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "257858",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:04:49",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257859",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:49",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "257860",
+      "text": "CRUZ : at the prayer breakfast, essentially acted as an apologist",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:50"
+    },
+    {
+      "nodeID": "257861",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:50",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257862",
+      "text": "at the prayer breakfast, essentially OBAMA acted as an apologist",
+      "type": "I",
+      "timestamp": "2016-12-22 16:04:50"
+    },
+    {
+      "nodeID": "257863",
+      "text": "Barbara: CRUZ : at the prayer breakfast, essentially acted as an apologist",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:50"
+    },
+    {
+      "nodeID": "257864",
+      "text": "OBAMA : Well, gosh, the crusades, the inquisitions",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:50"
+    },
+    {
+      "nodeID": "257865",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:50",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257866",
+      "text": "gosh, the crusades, the inquisitions",
+      "type": "I",
+      "timestamp": "2016-12-22 16:04:50"
+    },
+    {
+      "nodeID": "257867",
+      "text": "Barbara: OBAMA : Well, gosh, the crusades, the inquisitions",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:50"
+    },
+    {
+      "nodeID": "257868",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:50",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257869",
+      "text": "OBAMA : OBAMA : Well, gosh, the crusades, the inquisitions",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:51"
+    },
+    {
+      "nodeID": "257870",
+      "text": "Barbara: OBAMA : OBAMA : Well, gosh, the crusades, the inquisitions",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:51"
+    },
+    {
+      "nodeID": "257871",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-22 16:04:51",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "257872",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:04:51",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257873",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:04:51",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257874",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:51",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "257875",
+      "text": "we need a president that shows the courage that Egypt's President al-Sisi did, a Muslim, when he called out the radical Islamic terrorists who are threatening the world",
+      "type": "I",
+      "timestamp": "2016-12-22 16:04:51"
+    },
+    {
+      "nodeID": "257876",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:51",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257877",
+      "text": "OBAMA : We need a president that shows the courage that Egypt's President al-Sisi did, a Muslim, when he called out the radical Islamic terrorists who are threatening the world",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:52"
+    },
+    {
+      "nodeID": "257878",
+      "text": "Barbara: OBAMA : We need a president that shows the courage that Egypt's President al-Sisi did, a Muslim, when he called out the radical Islamic terrorists who are threatening the world",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:52"
+    },
+    {
+      "nodeID": "257879",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:04:52",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257880",
+      "text": "KELLY :  for days on end in this campaign, you struggled to answer a question about whether knowing what we know now we would've invaded Iraq",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:52"
+    },
+    {
+      "nodeID": "257881",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:52",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257882",
+      "text": "for days on end in this campaign, BUS struggled to answer a question about whether knowing what we know now we would've invaded Iraq",
+      "type": "I",
+      "timestamp": "2016-12-22 16:04:52"
+    },
+    {
+      "nodeID": "257883",
+      "text": "Barbara: KELLY :  for days on end in this campaign, you struggled to answer a question about whether knowing what we know now",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:52"
+    },
+    {
+      "nodeID": "257884",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:04:52",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257885",
+      "text": "BUSH : I remember",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:52"
+    },
+    {
+      "nodeID": "257886",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:53",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257887",
+      "text": "BUSH remembers",
+      "type": "I",
+      "timestamp": "2016-12-22 16:04:53"
+    },
+    {
+      "nodeID": "257888",
+      "text": "Barbara: BUSH : I remember.",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:53"
+    },
+    {
+      "nodeID": "257889",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:04:53",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257890",
+      "text": "BUSH : I remember, Megyn",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:53"
+    },
+    {
+      "nodeID": "257891",
+      "text": "Barbara: BUSH : I remember, Megyn",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:53"
+    },
+    {
+      "nodeID": "257892",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:04:53",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257893",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:53",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257894",
+      "text": "KELLY : I remember it too",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:53"
+    },
+    {
+      "nodeID": "257895",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:54",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257896",
+      "text": "KELLY remembers it too",
+      "type": "I",
+      "timestamp": "2016-12-22 16:04:54"
+    },
+    {
+      "nodeID": "257897",
+      "text": "Barbara: KELLY : I remember it too",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:54"
+    },
+    {
+      "nodeID": "257898",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:04:54",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257899",
+      "text": "KELLY :  ISIS, of course, is now thriving there",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:54"
+    },
+    {
+      "nodeID": "257900",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:54",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257901",
+      "text": "ISIS,  is now thriving in Iraq",
+      "type": "I",
+      "timestamp": "2016-12-22 16:04:54"
+    },
+    {
+      "nodeID": "257902",
+      "text": "Barbara: KELLY :  ISIS, of course, is now thriving there",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:54"
+    },
+    {
+      "nodeID": "257903",
+      "text": "BUSH : No",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:54"
+    },
+    {
+      "nodeID": "257904",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:55",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257905",
+      "text": "knowing what we know now we would have not invaded Iraq",
+      "type": "I",
+      "timestamp": "2016-12-22 16:04:55"
+    },
+    {
+      "nodeID": "257906",
+      "text": "Barbara: BUSH : No",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:55"
+    },
+    {
+      "nodeID": "257907",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:04:55",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257908",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:55",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257909",
+      "text": "KELLY : BUSH : No",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:55"
+    },
+    {
+      "nodeID": "257910",
+      "text": "Barbara: KELLY : BUSH : No",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:55"
+    },
+    {
+      "nodeID": "257911",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:04:55",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257912",
+      "text": "to the families of those who died in that war who say they liberated a country and deposed a ruthless dictator, does BUSH look at them now and say that his brothers war was a mistake",
+      "type": "I",
+      "timestamp": "2016-12-22 16:04:56"
+    },
+    {
+      "nodeID": "257913",
+      "text": "Pure Questioning",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:56",
+      "scheme": "PureQuestioning",
+      "schemeID": "91"
+    },
+    {
+      "nodeID": "257914",
+      "text": "KELLY : To the families of those who died in that war who say they liberated a country and deposed a ruthless dictator, how do you look at them now and say that your brothers war was a mistake",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:56"
+    },
+    {
+      "nodeID": "257915",
+      "text": "Barbara: KELLY : To the families of those who died in that war who say they liberated a country and deposed a ruthless dictator, how do you look at them now and say that your brothers war was a mistake",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:56"
+    },
+    {
+      "nodeID": "257916",
+      "text": "BUSH : Knowing what we know now, with faulty intelligence, and not having security be the first priority when -- when we invaded",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:56"
+    },
+    {
+      "nodeID": "257917",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:56",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257918",
+      "text": "knowing what we know now, with faulty intelligence, and not having security be the first priority when we invaded",
+      "type": "I",
+      "timestamp": "2016-12-22 16:04:56"
+    },
+    {
+      "nodeID": "257919",
+      "text": "Barbara: BUSH : Knowing what we know now, with faulty intelligence, and not having security be the first priority when -- when we invaded",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:56"
+    },
+    {
+      "nodeID": "257920",
+      "text": "BUSH : it was a mistake",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:56"
+    },
+    {
+      "nodeID": "257921",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:57",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257922",
+      "text": "invading Iraq was a mistake",
+      "type": "I",
+      "timestamp": "2016-12-22 16:04:57"
+    },
+    {
+      "nodeID": "257923",
+      "text": "Barbara: BUSH : it was a mistake",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:57"
+    },
+    {
+      "nodeID": "257924",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:04:57",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257925",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-12-22 16:04:57",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "257926",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:04:57",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257927",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:57",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "257928",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-22 16:04:57",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "257929",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:04:57",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257930",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:58",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "257931",
+      "text": "BUSH : I wouldn't have gone in, however",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:58"
+    },
+    {
+      "nodeID": "257932",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:58",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257933",
+      "text": "BUSH wouldn't have gone in the Iraq",
+      "type": "I",
+      "timestamp": "2016-12-22 16:04:58"
+    },
+    {
+      "nodeID": "257934",
+      "text": "Barbara: BUSH : I wouldn't have gone in, however",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:58"
+    },
+    {
+      "nodeID": "257935",
+      "text": "BUSH : for the people that did lose their lives, and the families that suffer because of it",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:58"
+    },
+    {
+      "nodeID": "257936",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:58",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257937",
+      "text": "for the people that did lose their lives, and the families that suffer because of it",
+      "type": "I",
+      "timestamp": "2016-12-22 16:04:58"
+    },
+    {
+      "nodeID": "257938",
+      "text": "Barbara: BUSH : for the people that did lose their lives, and the families that suffer because of it",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:58"
+    },
+    {
+      "nodeID": "257939",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-22 16:04:59",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "257940",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:04:59",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257941",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:59",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "257942",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-12-22 16:04:59",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "257943",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:04:59",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257944",
+      "text": "Default Illocuting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:59",
+      "scheme": "Default Illocuting",
+      "schemeID": "168"
+    },
+    {
+      "nodeID": "257945",
+      "text": "BUSH : I know this full well",
+      "type": "L",
+      "timestamp": "2016-12-22 16:04:59"
+    },
+    {
+      "nodeID": "257946",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:04:59",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257947",
+      "text": "BUSH knows this full well",
+      "type": "I",
+      "timestamp": "2016-12-22 16:04:59"
+    },
+    {
+      "nodeID": "257948",
+      "text": "Barbara: BUSH : I know this full well",
+      "type": "L",
+      "timestamp": "2016-12-22 16:05:00"
+    },
+    {
+      "nodeID": "257949",
+      "text": "BUSH : as governor of the state of Florida, I called every one of them",
+      "type": "L",
+      "timestamp": "2016-12-22 16:05:00"
+    },
+    {
+      "nodeID": "257950",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:05:00",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257951",
+      "text": "as governor of the state of Florida, BUSH called every one of the families of those who died in that war",
+      "type": "I",
+      "timestamp": "2016-12-22 16:05:00"
+    },
+    {
+      "nodeID": "257952",
+      "text": "Barbara: BUSH : as governor of the state of Florida, I called every one of them",
+      "type": "L",
+      "timestamp": "2016-12-22 16:05:00"
+    },
+    {
+      "nodeID": "257953",
+      "text": "BUSH : Every one of them that I could find to tell them that I was praying for them, that I cared about them, and it was really hard to do",
+      "type": "L",
+      "timestamp": "2016-12-22 16:05:00"
+    },
+    {
+      "nodeID": "257954",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:05:00",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257955",
+      "text": "every one of the families of those who died in that war, that BUSH could find to tell them that he was praying for them, that he cared about them, and it was really hard to do",
+      "type": "I",
+      "timestamp": "2016-12-22 16:05:00"
+    },
+    {
+      "nodeID": "257956",
+      "text": "Barbara: BUSH : Every one of them that I could find to tell them that I was praying for them, that I cared about them, and it was really hard to do",
+      "type": "L",
+      "timestamp": "2016-12-22 16:05:00"
+    },
+    {
+      "nodeID": "257957",
+      "text": "BUSH : every one of them said that their child did not die in vain, or their wife, of their husband did not die in vain",
+      "type": "L",
+      "timestamp": "2016-12-22 16:05:01"
+    },
+    {
+      "nodeID": "257958",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:05:01",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257959",
+      "text": "every one of the families of those who died in that war, said that their child did not die in vain, or their wife, of their husband did not die in vain",
+      "type": "I",
+      "timestamp": "2016-12-22 16:05:01"
+    },
+    {
+      "nodeID": "257960",
+      "text": "Barbara: BUSH : every one of them said that their child did not die in vain, or their wife, of their husband did not die in vain",
+      "type": "L",
+      "timestamp": "2016-12-22 16:05:01"
+    },
+    {
+      "nodeID": "257961",
+      "text": "BUSH : why it was difficult for me to do it was based on that",
+      "type": "L",
+      "timestamp": "2016-12-22 16:05:01"
+    },
+    {
+      "nodeID": "257962",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:05:01",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257963",
+      "text": "while it was difficult for BUSH to do it was based on that",
+      "type": "I",
+      "timestamp": "2016-12-22 16:05:01"
+    },
+    {
+      "nodeID": "257964",
+      "text": "Barbara: BUSH : why it was difficult for me to do it was based on that",
+      "type": "L",
+      "timestamp": "2016-12-22 16:05:01"
+    },
+    {
+      "nodeID": "257965",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-22 16:05:02",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "257966",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:05:02",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257967",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:05:02",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "257968",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-12-22 16:05:02",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "257969",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:05:02",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257970",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:05:02",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "257971",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-22 16:05:02",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "257972",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:05:02",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "257973",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:05:02",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "257974",
+      "text": "BUSH : Here's the lesson that we should take from this, which relates to this whole subject",
+      "type": "L",
+      "timestamp": "2016-12-22 16:05:03"
+    },
+    {
+      "nodeID": "257975",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:05:03",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257976",
+      "text": "here's the lesson that we should take from this, which relates to this whole subject",
+      "type": "I",
+      "timestamp": "2016-12-22 16:05:03"
+    },
+    {
+      "nodeID": "257977",
+      "text": "Barbara: BUSH : Here's the lesson that we should take from this, which relates to this whole subject",
+      "type": "L",
+      "timestamp": "2016-12-22 16:05:03"
+    },
+    {
+      "nodeID": "257978",
+      "text": "BUSH : Barack Obama became president, and he abandoned Iraq",
+      "type": "L",
+      "timestamp": "2016-12-22 16:05:03"
+    },
+    {
+      "nodeID": "257979",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:05:03",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257980",
+      "text": "OBAMA became president, and he abandoned Iraq",
+      "type": "I",
+      "timestamp": "2016-12-22 16:05:03"
+    },
+    {
+      "nodeID": "257981",
+      "text": "Barbara: BUSH : Barack Obama became president, and he abandoned Iraq",
+      "type": "L",
+      "timestamp": "2016-12-22 16:05:03"
+    },
+    {
+      "nodeID": "257982",
+      "text": "BUSH : He left",
+      "type": "L",
+      "timestamp": "2016-12-22 16:05:03"
+    },
+    {
+      "nodeID": "257983",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:05:04",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257984",
+      "text": "OBAMA left Iraq",
+      "type": "I",
+      "timestamp": "2016-12-22 16:05:04"
+    },
+    {
+      "nodeID": "257985",
+      "text": "Barbara: BUSH : He lef",
+      "type": "L",
+      "timestamp": "2016-12-22 16:05:04"
+    },
+    {
+      "nodeID": "257986",
+      "text": "BUSH : when he left Al Qaida was done for",
+      "type": "L",
+      "timestamp": "2016-12-22 16:05:04"
+    },
+    {
+      "nodeID": "257987",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:05:04",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257988",
+      "text": "when OBAMA left Al Qaida was done for",
+      "type": "I",
+      "timestamp": "2016-12-22 16:05:04"
+    },
+    {
+      "nodeID": "257989",
+      "text": "Barbara: BUSH : when he left Al Qaida was done for",
+      "type": "L",
+      "timestamp": "2016-12-22 16:05:04"
+    },
+    {
+      "nodeID": "257990",
+      "text": "BUSH : ISIS was created",
+      "type": "L",
+      "timestamp": "2016-12-22 16:05:04"
+    },
+    {
+      "nodeID": "257991",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:05:05",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257992",
+      "text": "ISIS was created",
+      "type": "I",
+      "timestamp": "2016-12-22 16:05:05"
+    },
+    {
+      "nodeID": "257993",
+      "text": "Barbara: BUSH : ISIS was created",
+      "type": "L",
+      "timestamp": "2016-12-22 16:05:05"
+    },
+    {
+      "nodeID": "257994",
+      "text": "BUSH :  the void that we left",
+      "type": "L",
+      "timestamp": "2016-12-22 16:05:05"
+    },
+    {
+      "nodeID": "257995",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:05:05",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "257996",
+      "text": "in Iraq there was the void that we left",
+      "type": "I",
+      "timestamp": "2016-12-22 16:05:05"
+    },
+    {
+      "nodeID": "257997",
+      "text": "Barbara: BUSH :  the void that we left",
+      "type": "L",
+      "timestamp": "2016-12-22 16:05:05"
+    },
+    {
+      "nodeID": "257998",
+      "text": "BUSH : that void now exists as a caliphate the size of Indiana",
+      "type": "L",
+      "timestamp": "2016-12-22 16:05:05"
+    },
+    {
+      "nodeID": "257999",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:05:05",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "258000",
+      "text": "that void now exists as a caliphate the size of Indiana",
+      "type": "I",
+      "timestamp": "2016-12-22 16:05:05"
+    },
+    {
+      "nodeID": "258001",
+      "text": "Barbara: BUSH : that void now exists as a caliphate the size of Indiana",
+      "type": "L",
+      "timestamp": "2016-12-22 16:05:06"
+    },
+    {
+      "nodeID": "258002",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:05:06",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "258003",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:05:06",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "258004",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-22 16:05:06",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "258005",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:05:06",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "258006",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:05:06",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "258007",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-22 16:05:06",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "258008",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-12-22 16:05:06",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "258009",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:05:07",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "258010",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:05:07",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "258011",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:05:07",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "258012",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:05:07",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "258013",
+      "text": "BUSH : To honor the people that died, we need to -- we need to --- stop the -- Iran agreement, for sure",
+      "type": "L",
+      "timestamp": "2016-12-22 16:05:07"
+    },
+    {
+      "nodeID": "258014",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:05:07",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "258015",
+      "text": "to honor the people that died, we need to stop the Iran agreement",
+      "type": "I",
+      "timestamp": "2016-12-22 16:05:07"
+    },
+    {
+      "nodeID": "258016",
+      "text": "Barbara: BUSH : To honor the people that died, we need to -- we need to --- stop the -- Iran agreement, for sure",
+      "type": "L",
+      "timestamp": "2016-12-22 16:05:07"
+    },
+    {
+      "nodeID": "258017",
+      "text": "BUSH : the Iranian mullahs have their blood on their hands",
+      "type": "L",
+      "timestamp": "2016-12-22 16:05:07"
+    },
+    {
+      "nodeID": "258018",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:05:08",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "258019",
+      "text": "the Iranian mullahs have their blood on their hands",
+      "type": "I",
+      "timestamp": "2016-12-22 16:05:08"
+    },
+    {
+      "nodeID": "258020",
+      "text": "Barbara: BUSH : the Iranian mullahs have their blood on their hands",
+      "type": "L",
+      "timestamp": "2016-12-22 16:05:08"
+    },
+    {
+      "nodeID": "258021",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-22 16:05:08",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "258022",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:05:08",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "258023",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:05:08",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "258024",
+      "text": "BUSH : we need to take out ISIS with every tool at our disposal",
+      "type": "L",
+      "timestamp": "2016-12-22 16:05:08"
+    },
+    {
+      "nodeID": "258025",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-22 16:05:08",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "258026",
+      "text": "we need to take out ISIS with every tool at our disposal",
+      "type": "I",
+      "timestamp": "2016-12-22 16:05:09"
+    },
+    {
+      "nodeID": "258027",
+      "text": "Barbara: BUSH : we need to take out ISIS with every tool at our disposal",
+      "type": "L",
+      "timestamp": "2016-12-22 16:05:09"
+    },
+    {
+      "nodeID": "258028",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:05:09",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "258029",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:05:09",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "258030",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-22 16:05:09",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "309132",
+      "fromID": "257730",
+      "toID": "257731",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309133",
+      "fromID": "257729",
+      "toID": "257730",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309134",
+      "fromID": "257734",
+      "toID": "257735",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309135",
+      "fromID": "257733",
+      "toID": "257734",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309136",
+      "fromID": "257735",
+      "toID": "257737",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309137",
+      "fromID": "257737",
+      "toID": "257731",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309138",
+      "fromID": "257729",
+      "toID": "257738",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309139",
+      "fromID": "257738",
+      "toID": "257733",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309140",
+      "fromID": "257738",
+      "toID": "257739",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309141",
+      "fromID": "257739",
+      "toID": "257737",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309142",
+      "fromID": "257741",
+      "toID": "257742",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309143",
+      "fromID": "257740",
+      "toID": "257741",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309144",
+      "fromID": "257746",
+      "toID": "257747",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309145",
+      "fromID": "257745",
+      "toID": "257746",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309146",
+      "fromID": "257749",
+      "toID": "257740",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309147",
+      "fromID": "257750",
+      "toID": "257749",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309148",
+      "fromID": "257752",
+      "toID": "257745",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309149",
+      "fromID": "257753",
+      "toID": "257752",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309150",
+      "fromID": "257733",
+      "toID": "257755",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309151",
+      "fromID": "257755",
+      "toID": "257750",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309152",
+      "fromID": "257750",
+      "toID": "257756",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309153",
+      "fromID": "257756",
+      "toID": "257753",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309154",
+      "fromID": "257758",
+      "toID": "257759",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309155",
+      "fromID": "257757",
+      "toID": "257758",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309156",
+      "fromID": "257753",
+      "toID": "257761",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309157",
+      "fromID": "257761",
+      "toID": "257757",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309158",
+      "fromID": "257763",
+      "toID": "257764",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309159",
+      "fromID": "257762",
+      "toID": "257763",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309160",
+      "fromID": "257757",
+      "toID": "257766",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309161",
+      "fromID": "257766",
+      "toID": "257762",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309162",
+      "fromID": "257768",
+      "toID": "257769",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309163",
+      "fromID": "257767",
+      "toID": "257768",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309164",
+      "fromID": "257769",
+      "toID": "257771",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309165",
+      "fromID": "257771",
+      "toID": "257764",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309166",
+      "fromID": "257762",
+      "toID": "257772",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309167",
+      "fromID": "257772",
+      "toID": "257767",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309168",
+      "fromID": "257772",
+      "toID": "257773",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309169",
+      "fromID": "257773",
+      "toID": "257771",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309170",
+      "fromID": "257775",
+      "toID": "257776",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309171",
+      "fromID": "257774",
+      "toID": "257775",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309172",
+      "fromID": "257776",
+      "toID": "257778",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309173",
+      "fromID": "257778",
+      "toID": "257769",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309174",
+      "fromID": "257767",
+      "toID": "257779",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309175",
+      "fromID": "257779",
+      "toID": "257774",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309176",
+      "fromID": "257779",
+      "toID": "257780",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309177",
+      "fromID": "257780",
+      "toID": "257778",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309178",
+      "fromID": "257784",
+      "toID": "257783",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309179",
+      "fromID": "257785",
+      "toID": "257784",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309180",
+      "fromID": "257788",
+      "toID": "257787",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309181",
+      "fromID": "257789",
+      "toID": "257788",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309182",
+      "fromID": "257792",
+      "toID": "257791",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309183",
+      "fromID": "257793",
+      "toID": "257792",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309184",
+      "fromID": "257795",
+      "toID": "178578",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309185",
+      "fromID": "257796",
+      "toID": "257795",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309186",
+      "fromID": "257798",
+      "toID": "257785",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309187",
+      "fromID": "257799",
+      "toID": "257798",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309188",
+      "fromID": "257801",
+      "toID": "257793",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309189",
+      "fromID": "257802",
+      "toID": "257801",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309190",
+      "fromID": "257804",
+      "toID": "257789",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309191",
+      "fromID": "257805",
+      "toID": "257804",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309192",
+      "fromID": "257807",
+      "toID": "257781",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309193",
+      "fromID": "257808",
+      "toID": "257807",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309194",
+      "fromID": "257783",
+      "toID": "257810",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309195",
+      "fromID": "257810",
+      "toID": "257781",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309196",
+      "fromID": "257787",
+      "toID": "257811",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309197",
+      "fromID": "257811",
+      "toID": "257783",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309198",
+      "fromID": "257791",
+      "toID": "257812",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309199",
+      "fromID": "257812",
+      "toID": "257787",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309200",
+      "fromID": "257808",
+      "toID": "257813",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309201",
+      "fromID": "257813",
+      "toID": "257799",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309202",
+      "fromID": "257813",
+      "toID": "257814",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309203",
+      "fromID": "257814",
+      "toID": "257810",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309204",
+      "fromID": "257799",
+      "toID": "257815",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309205",
+      "fromID": "257815",
+      "toID": "257805",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309206",
+      "fromID": "257805",
+      "toID": "257816",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309207",
+      "fromID": "257816",
+      "toID": "257802",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309208",
+      "fromID": "257815",
+      "toID": "257817",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309209",
+      "fromID": "257817",
+      "toID": "257811",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309210",
+      "fromID": "257816",
+      "toID": "257818",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309211",
+      "fromID": "257818",
+      "toID": "257812",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309212",
+      "fromID": "178578",
+      "toID": "257819",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309213",
+      "fromID": "257819",
+      "toID": "257791",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309214",
+      "fromID": "257802",
+      "toID": "257820",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309215",
+      "fromID": "257820",
+      "toID": "257796",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309216",
+      "fromID": "257820",
+      "toID": "257821",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309217",
+      "fromID": "257821",
+      "toID": "257819",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309218",
+      "fromID": "257823",
+      "toID": "257822",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309219",
+      "fromID": "257824",
+      "toID": "257823",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309220",
+      "fromID": "257796",
+      "toID": "257826",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309221",
+      "fromID": "257826",
+      "toID": "257824",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309222",
+      "fromID": "257828",
+      "toID": "257829",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309223",
+      "fromID": "257827",
+      "toID": "257828",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309224",
+      "fromID": "257829",
+      "toID": "257831",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309225",
+      "fromID": "257831",
+      "toID": "178578",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309226",
+      "fromID": "257796",
+      "toID": "257832",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309227",
+      "fromID": "257832",
+      "toID": "257827",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309228",
+      "fromID": "257832",
+      "toID": "257833",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309229",
+      "fromID": "257833",
+      "toID": "257831",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309230",
+      "fromID": "257835",
+      "toID": "257836",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309231",
+      "fromID": "257834",
+      "toID": "257835",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309232",
+      "fromID": "257827",
+      "toID": "257838",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309233",
+      "fromID": "257838",
+      "toID": "257834",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309234",
+      "fromID": "257840",
+      "toID": "257841",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309235",
+      "fromID": "257839",
+      "toID": "257840",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309236",
+      "fromID": "257844",
+      "toID": "257845",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309237",
+      "fromID": "257843",
+      "toID": "257844",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309238",
+      "fromID": "257841",
+      "toID": "257847",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309239",
+      "fromID": "257847",
+      "toID": "257845",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309240",
+      "fromID": "257839",
+      "toID": "257848",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309241",
+      "fromID": "257848",
+      "toID": "257843",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309242",
+      "fromID": "257848",
+      "toID": "257849",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309243",
+      "fromID": "257849",
+      "toID": "257847",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309244",
+      "fromID": "257841",
+      "toID": "257850",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309245",
+      "fromID": "257850",
+      "toID": "257836",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309246",
+      "fromID": "257834",
+      "toID": "257851",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309247",
+      "fromID": "257851",
+      "toID": "257839",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309248",
+      "fromID": "257851",
+      "toID": "257852",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309249",
+      "fromID": "257852",
+      "toID": "257850",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309250",
+      "fromID": "257854",
+      "toID": "257855",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309251",
+      "fromID": "257853",
+      "toID": "257854",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309252",
+      "fromID": "257855",
+      "toID": "257857",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309253",
+      "fromID": "257857",
+      "toID": "257841",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309254",
+      "fromID": "257839",
+      "toID": "257858",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309255",
+      "fromID": "257858",
+      "toID": "257853",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309256",
+      "fromID": "257858",
+      "toID": "257859",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309257",
+      "fromID": "257859",
+      "toID": "257857",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309258",
+      "fromID": "257861",
+      "toID": "257862",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309259",
+      "fromID": "257860",
+      "toID": "257861",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309260",
+      "fromID": "257865",
+      "toID": "257866",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309261",
+      "fromID": "257864",
+      "toID": "257865",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309262",
+      "fromID": "257868",
+      "toID": "257864",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309263",
+      "fromID": "257869",
+      "toID": "257868",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309264",
+      "fromID": "257864",
+      "toID": "257871",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309265",
+      "fromID": "257871",
+      "toID": "257862",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309266",
+      "fromID": "257853",
+      "toID": "257872",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309267",
+      "fromID": "257872",
+      "toID": "257860",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309268",
+      "fromID": "257860",
+      "toID": "257873",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309269",
+      "fromID": "257873",
+      "toID": "257869",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309270",
+      "fromID": "257873",
+      "toID": "257874",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309271",
+      "fromID": "257874",
+      "toID": "257871",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309272",
+      "fromID": "257876",
+      "toID": "257875",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309273",
+      "fromID": "257877",
+      "toID": "257876",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309274",
+      "fromID": "257869",
+      "toID": "257879",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309275",
+      "fromID": "257879",
+      "toID": "257877",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309276",
+      "fromID": "257881",
+      "toID": "257882",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309277",
+      "fromID": "257880",
+      "toID": "257881",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309278",
+      "fromID": "257877",
+      "toID": "257884",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309279",
+      "fromID": "257884",
+      "toID": "257880",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309280",
+      "fromID": "257886",
+      "toID": "257887",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309281",
+      "fromID": "257885",
+      "toID": "257886",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309282",
+      "fromID": "257880",
+      "toID": "257889",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309283",
+      "fromID": "257889",
+      "toID": "257885",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309284",
+      "fromID": "257885",
+      "toID": "257892",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309285",
+      "fromID": "257892",
+      "toID": "257890",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309286",
+      "fromID": "257890",
+      "toID": "257893",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309287",
+      "fromID": "257893",
+      "toID": "257887",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309288",
+      "fromID": "257895",
+      "toID": "257896",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309289",
+      "fromID": "257894",
+      "toID": "257895",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309290",
+      "fromID": "257890",
+      "toID": "257898",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309291",
+      "fromID": "257898",
+      "toID": "257894",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309292",
+      "fromID": "257900",
+      "toID": "257901",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309293",
+      "fromID": "257899",
+      "toID": "257900",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309294",
+      "fromID": "257904",
+      "toID": "257905",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309295",
+      "fromID": "257903",
+      "toID": "257904",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309296",
+      "fromID": "257894",
+      "toID": "257907",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309297",
+      "fromID": "257907",
+      "toID": "257899",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309298",
+      "fromID": "257908",
+      "toID": "257903",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309299",
+      "fromID": "257909",
+      "toID": "257908",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309300",
+      "fromID": "257899",
+      "toID": "257911",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309301",
+      "fromID": "257911",
+      "toID": "257909",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309302",
+      "fromID": "257913",
+      "toID": "257912",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309303",
+      "fromID": "257914",
+      "toID": "257913",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309304",
+      "fromID": "257917",
+      "toID": "257918",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309305",
+      "fromID": "257916",
+      "toID": "257917",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309306",
+      "fromID": "257921",
+      "toID": "257922",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309307",
+      "fromID": "257920",
+      "toID": "257921",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309308",
+      "fromID": "257909",
+      "toID": "257924",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309309",
+      "fromID": "257924",
+      "toID": "257914",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309310",
+      "fromID": "257918",
+      "toID": "257925",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309311",
+      "fromID": "257925",
+      "toID": "257905",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309312",
+      "fromID": "257909",
+      "toID": "257926",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309313",
+      "fromID": "257926",
+      "toID": "257916",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309314",
+      "fromID": "257926",
+      "toID": "257927",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309315",
+      "fromID": "257927",
+      "toID": "257925",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309316",
+      "fromID": "257918",
+      "toID": "257928",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309317",
+      "fromID": "257928",
+      "toID": "257922",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309318",
+      "fromID": "257916",
+      "toID": "257929",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309319",
+      "fromID": "257929",
+      "toID": "257920",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309320",
+      "fromID": "257929",
+      "toID": "257930",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309321",
+      "fromID": "257930",
+      "toID": "257928",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309322",
+      "fromID": "257932",
+      "toID": "257933",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309323",
+      "fromID": "257931",
+      "toID": "257932",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309324",
+      "fromID": "257936",
+      "toID": "257937",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309325",
+      "fromID": "257935",
+      "toID": "257936",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309326",
+      "fromID": "257937",
+      "toID": "257939",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309327",
+      "fromID": "257939",
+      "toID": "257933",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309328",
+      "fromID": "257931",
+      "toID": "257940",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309329",
+      "fromID": "257940",
+      "toID": "257935",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309330",
+      "fromID": "257940",
+      "toID": "257941",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309331",
+      "fromID": "257941",
+      "toID": "257939",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309332",
+      "fromID": "257933",
+      "toID": "257942",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309333",
+      "fromID": "257942",
+      "toID": "257912",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309334",
+      "fromID": "257914",
+      "toID": "257943",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309335",
+      "fromID": "257943",
+      "toID": "257931",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309336",
+      "fromID": "257943",
+      "toID": "257944",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309337",
+      "fromID": "257944",
+      "toID": "257942",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309338",
+      "fromID": "257946",
+      "toID": "257947",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309339",
+      "fromID": "257945",
+      "toID": "257946",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309340",
+      "fromID": "257950",
+      "toID": "257951",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309341",
+      "fromID": "257949",
+      "toID": "257950",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309342",
+      "fromID": "257954",
+      "toID": "257955",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309343",
+      "fromID": "257953",
+      "toID": "257954",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309344",
+      "fromID": "257958",
+      "toID": "257959",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309345",
+      "fromID": "257957",
+      "toID": "257958",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309346",
+      "fromID": "257962",
+      "toID": "257963",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309347",
+      "fromID": "257961",
+      "toID": "257962",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309348",
+      "fromID": "257951",
+      "toID": "257965",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309349",
+      "fromID": "257965",
+      "toID": "257947",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309350",
+      "fromID": "257955",
+      "toID": "257965",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309351",
+      "fromID": "257959",
+      "toID": "257965",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309352",
+      "fromID": "257945",
+      "toID": "257966",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309353",
+      "fromID": "257966",
+      "toID": "257957",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309354",
+      "fromID": "257966",
+      "toID": "257949",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309355",
+      "fromID": "257966",
+      "toID": "257953",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309356",
+      "fromID": "257966",
+      "toID": "257967",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309357",
+      "fromID": "257967",
+      "toID": "257965",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309358",
+      "fromID": "257963",
+      "toID": "257968",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309359",
+      "fromID": "257968",
+      "toID": "257947",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309360",
+      "fromID": "257945",
+      "toID": "257969",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309361",
+      "fromID": "257969",
+      "toID": "257961",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309362",
+      "fromID": "257969",
+      "toID": "257970",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309363",
+      "fromID": "257970",
+      "toID": "257968",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309364",
+      "fromID": "257947",
+      "toID": "257971",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309365",
+      "fromID": "257971",
+      "toID": "257933",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309366",
+      "fromID": "257931",
+      "toID": "257972",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309367",
+      "fromID": "257972",
+      "toID": "257945",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309368",
+      "fromID": "257972",
+      "toID": "257973",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309369",
+      "fromID": "257973",
+      "toID": "257971",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309370",
+      "fromID": "257975",
+      "toID": "257976",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309371",
+      "fromID": "257974",
+      "toID": "257975",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309372",
+      "fromID": "257979",
+      "toID": "257980",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309373",
+      "fromID": "257978",
+      "toID": "257979",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309374",
+      "fromID": "257983",
+      "toID": "257984",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309375",
+      "fromID": "257982",
+      "toID": "257983",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309376",
+      "fromID": "257987",
+      "toID": "257988",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309377",
+      "fromID": "257986",
+      "toID": "257987",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309378",
+      "fromID": "257991",
+      "toID": "257992",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309379",
+      "fromID": "257990",
+      "toID": "257991",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309380",
+      "fromID": "257995",
+      "toID": "257996",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309381",
+      "fromID": "257994",
+      "toID": "257995",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309382",
+      "fromID": "257999",
+      "toID": "258000",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309383",
+      "fromID": "257998",
+      "toID": "257999",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309384",
+      "fromID": "257961",
+      "toID": "258002",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309385",
+      "fromID": "258002",
+      "toID": "257974",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309386",
+      "fromID": "257974",
+      "toID": "258003",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309387",
+      "fromID": "258003",
+      "toID": "257978",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309388",
+      "fromID": "257996",
+      "toID": "258004",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309389",
+      "fromID": "258004",
+      "toID": "257992",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309390",
+      "fromID": "257990",
+      "toID": "258005",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309391",
+      "fromID": "258005",
+      "toID": "257994",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309392",
+      "fromID": "258005",
+      "toID": "258006",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309393",
+      "fromID": "258006",
+      "toID": "258004",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309394",
+      "fromID": "257992",
+      "toID": "257991",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309395",
+      "fromID": "258000",
+      "toID": "258004",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309396",
+      "fromID": "258005",
+      "toID": "257998",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309397",
+      "fromID": "257980",
+      "toID": "258007",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309398",
+      "fromID": "258007",
+      "toID": "257996",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309399",
+      "fromID": "257984",
+      "toID": "258008",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309400",
+      "fromID": "258008",
+      "toID": "257980",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309401",
+      "fromID": "257978",
+      "toID": "258009",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309402",
+      "fromID": "258009",
+      "toID": "257982",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309403",
+      "fromID": "258009",
+      "toID": "258010",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309404",
+      "fromID": "258010",
+      "toID": "258008",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309405",
+      "fromID": "257978",
+      "toID": "258011",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309406",
+      "fromID": "258011",
+      "toID": "257994",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309407",
+      "fromID": "258011",
+      "toID": "258012",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309408",
+      "fromID": "258012",
+      "toID": "258007",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309409",
+      "fromID": "258014",
+      "toID": "258015",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309410",
+      "fromID": "258013",
+      "toID": "258014",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309411",
+      "fromID": "258018",
+      "toID": "258019",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309412",
+      "fromID": "258017",
+      "toID": "258018",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309413",
+      "fromID": "258019",
+      "toID": "258021",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309414",
+      "fromID": "258021",
+      "toID": "258015",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309415",
+      "fromID": "258013",
+      "toID": "258022",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309416",
+      "fromID": "258022",
+      "toID": "258017",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309417",
+      "fromID": "258022",
+      "toID": "258023",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309418",
+      "fromID": "258023",
+      "toID": "258021",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309419",
+      "fromID": "258025",
+      "toID": "258026",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309420",
+      "fromID": "258024",
+      "toID": "258025",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309421",
+      "fromID": "258017",
+      "toID": "258028",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309422",
+      "fromID": "258028",
+      "toID": "258024",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309423",
+      "fromID": "257998",
+      "toID": "258029",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309424",
+      "fromID": "258029",
+      "toID": "258013",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309425",
+      "fromID": "257774",
+      "toID": "258030",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "309426",
+      "fromID": "258030",
+      "toID": "257808",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "257750",
+      "personID": "2474",
+      "timestamp": "2016-12-22 16:05:23",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "257753",
+      "personID": "2474",
+      "timestamp": "2016-12-22 16:05:23",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "257785",
+      "personID": "3405",
+      "timestamp": "2016-12-22 16:05:23",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "257789",
+      "personID": "3405",
+      "timestamp": "2016-12-22 16:05:23",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "257793",
+      "personID": "3405",
+      "timestamp": "2016-12-22 16:05:23",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "257796",
+      "personID": "2812",
+      "timestamp": "2016-12-22 16:05:23",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "257799",
+      "personID": "2812",
+      "timestamp": "2016-12-22 16:05:23",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "257802",
+      "personID": "2812",
+      "timestamp": "2016-12-22 16:05:23",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "257805",
+      "personID": "2812",
+      "timestamp": "2016-12-22 16:05:23",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "257808",
+      "personID": "2812",
+      "timestamp": "2016-12-22 16:05:23",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "257824",
+      "personID": "2812",
+      "timestamp": "2016-12-22 16:05:23",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "257869",
+      "personID": "1854",
+      "timestamp": "2016-12-22 16:05:23",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "257877",
+      "personID": "1854",
+      "timestamp": "2016-12-22 16:05:23",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "257909",
+      "personID": "2474",
+      "timestamp": "2016-12-22 16:05:23",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "257914",
+      "personID": "2474",
+      "timestamp": "2016-12-22 16:05:23",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

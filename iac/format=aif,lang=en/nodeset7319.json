@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140721",
+      "text": "It really does make one wonder though, if there is really nothing to hide, why are pro-abortionists so desperate to hide and mask the truth about abortion?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:04"
+    },
+    {
+      "nodeID": "140722",
+      "text": "Just out of interest, which particular aspect of 'truth' are you getting at here?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:04"
+    },
+    {
+      "nodeID": "140723",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:52:04"
+    },
+    {
+      "nodeID": "140724",
+      "text": "You mean the truth of thousands of young teen girls dead with a coat hanger in hand? Abortion is a neccessity so that it can be regulated. People will have abortions legal or not legal. At least provide a safety net other than a coat hanger.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:04"
+    },
+    {
+      "nodeID": "140725",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:52:04"
+    },
+    {
+      "nodeID": "140726",
+      "text": "Well yes, that is a truth in this debate. I wonder if Vek would add vivid photgraphs of such tragic ends to his gallery? After all, the position is called pro-life.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:04"
+    },
+    {
+      "nodeID": "140727",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:52:04"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183932",
+      "fromID": "140722",
+      "toID": "140723",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183933",
+      "fromID": "140723",
+      "toID": "140721",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183934",
+      "fromID": "140724",
+      "toID": "140725",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183935",
+      "fromID": "140725",
+      "toID": "140722",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183936",
+      "fromID": "140726",
+      "toID": "140727",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183937",
+      "fromID": "140727",
+      "toID": "140724",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,91 @@
+{
+  "nodes": [
+    {
+      "nodeID": "162945",
+      "text": "http://rt.com/Top_News/2010-05-27/finland-arms-possession-issue.html?fullstory",
+      "type": "I",
+      "timestamp": "2016-03-08 20:41:22"
+    },
+    {
+      "nodeID": "162946",
+      "text": "After what the Fins been through, fighting the mother country, the Soviet Union under Lenin and then Russia and Germany and finally Germany, I doubt they are going to let their own government take away their guns?? Most folks have learned to leave those Finns alone. emoticon_smile",
+      "type": "I",
+      "timestamp": "2016-03-08 20:41:22"
+    },
+    {
+      "nodeID": "162947",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:41:22"
+    },
+    {
+      "nodeID": "162948",
+      "text": "Stick to your guns Doc for about Finland you know s**** The Finns were de facto allies of Nazi Germany, out of necessity, during the war.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:41:23"
+    },
+    {
+      "nodeID": "162949",
+      "text": "Nice try. If America was an Ally to Germany during WWII, to this day you wouldn't forgive US Citizens no matter what excuse they have.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:41:23"
+    },
+    {
+      "nodeID": "162950",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:41:23"
+    },
+    {
+      "nodeID": "162951",
+      "text": "I think what he meant to say was, 'I can see Finland from my basement.' emoticon_smile emoticon_xgood",
+      "type": "I",
+      "timestamp": "2016-03-08 20:41:23"
+    },
+    {
+      "nodeID": "162952",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:41:23"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "199686",
+      "fromID": "162946",
+      "toID": "162947",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199687",
+      "fromID": "162947",
+      "toID": "162945",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199688",
+      "fromID": "162949",
+      "toID": "162950",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199689",
+      "fromID": "162950",
+      "toID": "162948",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199690",
+      "fromID": "162951",
+      "toID": "162952",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "199691",
+      "fromID": "162952",
+      "toID": "162949",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

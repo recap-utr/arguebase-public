@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "154241",
+      "text": "Supersport, where art thou now... Bah, who am I kidding. Of course he won't come over here...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:08"
+    },
+    {
+      "nodeID": "154242",
+      "text": "Well he HAS admitted he can't prove his belief. I guess that posting here would admit his false dichotomies that it's either literal genesis or evolution are false and god knows the world will end when that happens. Super admitting he's wrong?  Never going to happen.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:08"
+    },
+    {
+      "nodeID": "154243",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:21:08"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193476",
+      "fromID": "154242",
+      "toID": "154243",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193477",
+      "fromID": "154243",
+      "toID": "154241",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

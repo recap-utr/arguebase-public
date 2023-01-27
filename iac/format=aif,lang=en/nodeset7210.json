@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139264",
+      "text": "Since the universe must have had a finite existence, it must have been created.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:49"
+    },
+    {
+      "nodeID": "139265",
+      "text": "You mean that it must have has a beginning, don't you?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:49"
+    },
+    {
+      "nodeID": "139266",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:48:49"
+    },
+    {
+      "nodeID": "139267",
+      "text": "This creation must have been enacted by another power, because to claim that something may create itself is highly circuitous and is the epitome of false logic.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:49"
+    },
+    {
+      "nodeID": "139268",
+      "text": "But you don't think that it is circuitous to say that this other power didn't have a beginning?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:48:49"
+    },
+    {
+      "nodeID": "139269",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:48:49"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "182906",
+      "fromID": "139265",
+      "toID": "139266",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182907",
+      "fromID": "139266",
+      "toID": "139264",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182908",
+      "fromID": "139268",
+      "toID": "139269",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "182909",
+      "fromID": "139269",
+      "toID": "139267",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

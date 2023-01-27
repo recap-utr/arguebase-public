@@ -1,0 +1,109 @@
+{
+  "nodes": [
+    {
+      "nodeID": "154889",
+      "text": "i dident know that either, but its no suprize to me. The christian church is now and has alwase been a woman hateing orginizaiton.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:22:38"
+    },
+    {
+      "nodeID": "154890",
+      "text": "Strange, I was under the impression this article was referring to the Roman Catholic Church.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:22:38"
+    },
+    {
+      "nodeID": "154891",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:22:38"
+    },
+    {
+      "nodeID": "154892",
+      "text": "You're not one of those people who doesn't consider Catholics christians are you?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:22:38"
+    },
+    {
+      "nodeID": "154893",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:22:39"
+    },
+    {
+      "nodeID": "154894",
+      "text": "There all types of denominations of the Catholic religion. However, most religions that I consider 'Christian' are really not the same as 'Catholic.' Catholicism tends to be even more strict and loony than Christianity.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:22:39"
+    },
+    {
+      "nodeID": "154895",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:22:39"
+    },
+    {
+      "nodeID": "154896",
+      "text": "I believe you are thinking of orders, not denominations. There is a big difference. Strict and loony? Could you be a little more specific, because this statement sounds like it's coming out of complete ignorance. You also seem to be making the assumption that all of the non-Catholic Christians are somehow very similar, which couldn't be further from the truth.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:22:39"
+    },
+    {
+      "nodeID": "154897",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:22:39"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193936",
+      "fromID": "154890",
+      "toID": "154891",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193937",
+      "fromID": "154891",
+      "toID": "154889",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193938",
+      "fromID": "154892",
+      "toID": "154893",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193939",
+      "fromID": "154893",
+      "toID": "154890",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193940",
+      "fromID": "154894",
+      "toID": "154895",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193941",
+      "fromID": "154895",
+      "toID": "154892",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193942",
+      "fromID": "154896",
+      "toID": "154897",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193943",
+      "fromID": "154897",
+      "toID": "154894",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

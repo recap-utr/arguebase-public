@@ -1,0 +1,247 @@
+{
+  "nodes": [
+    {
+      "nodeID": "201400",
+      "text": "derpaderp1 : I still can't believe that guy admitted to voting for something he didn't know about",
+      "type": "L",
+      "timestamp": "2016-09-22 10:23:33"
+    },
+    {
+      "nodeID": "201402",
+      "text": "I still can't believe that guy admitted to voting for something he didn't know about",
+      "type": "I",
+      "timestamp": "2016-09-22 10:23:34"
+    },
+    {
+      "nodeID": "201446",
+      "text": "[deleted] : By far the funniest part of the whole debate - IDK it was my first day lulz cut me some slack",
+      "type": "L",
+      "timestamp": "2016-09-22 10:23:38"
+    },
+    {
+      "nodeID": "201448",
+      "text": "by far the funniest part of the whole debate - IDK it was my first day lulz cut me some slack",
+      "type": "I",
+      "timestamp": "2016-09-22 10:23:38"
+    },
+    {
+      "nodeID": "201451",
+      "text": "elkab0ng : what we just saw right there was career death on national TV. Good god that was horrible",
+      "type": "L",
+      "timestamp": "2016-09-22 10:23:38"
+    },
+    {
+      "nodeID": "201453",
+      "text": "what we just saw right there was career death on national TV. Good god that was horrible",
+      "type": "I",
+      "timestamp": "2016-09-22 10:23:39"
+    },
+    {
+      "nodeID": "249051",
+      "text": "CHAFEE : I'd just arrived at the Senate",
+      "type": "L",
+      "timestamp": "2016-12-21 14:46:44"
+    },
+    {
+      "nodeID": "249070",
+      "text": "COOPER : what does that say about you that you're casting a vote for something you weren't really sure about",
+      "type": "L",
+      "timestamp": "2016-12-21 14:46:49"
+    },
+    {
+      "nodeID": "249072",
+      "text": "CHAFEE was casting a vote for something CHAFEE wasn't really sure about",
+      "type": "I",
+      "timestamp": "2016-12-21 14:46:49"
+    },
+    {
+      "nodeID": "249081",
+      "text": "CHAFEE had just arrived at the United States Senate",
+      "type": "I",
+      "timestamp": "2016-12-21 14:46:50"
+    },
+    {
+      "nodeID": "263977",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-08 10:37:50",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "263978",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-08 10:37:50",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "263979",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-08 10:37:51",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "263980",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-08 10:37:51",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "263981",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-08 10:37:52",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "263982",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-08 10:37:52",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "263983",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-08 10:37:53",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "263984",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2017-03-08 10:37:53",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "263985",
+      "text": "Agreeing",
+      "type": "YA",
+      "timestamp": "2017-03-08 10:37:54",
+      "scheme": "Agreeing",
+      "schemeID": "77"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "319072",
+      "fromID": "249070",
+      "toID": "263977",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319073",
+      "fromID": "263977",
+      "toID": "201400",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319074",
+      "fromID": "201402",
+      "toID": "263978",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319075",
+      "fromID": "263978",
+      "toID": "249072",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319076",
+      "fromID": "263977",
+      "toID": "263979",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319077",
+      "fromID": "263979",
+      "toID": "263978",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319078",
+      "fromID": "249051",
+      "toID": "263980",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319079",
+      "fromID": "263980",
+      "toID": "201446",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319080",
+      "fromID": "201448",
+      "toID": "263981",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319081",
+      "fromID": "263981",
+      "toID": "249081",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319082",
+      "fromID": "263980",
+      "toID": "263982",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319083",
+      "fromID": "263982",
+      "toID": "263981",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319084",
+      "fromID": "249070",
+      "toID": "263983",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319085",
+      "fromID": "263983",
+      "toID": "201451",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319086",
+      "fromID": "249072",
+      "toID": "263984",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319087",
+      "fromID": "263984",
+      "toID": "201453",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319088",
+      "fromID": "263983",
+      "toID": "263985",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "319089",
+      "fromID": "263985",
+      "toID": "263984",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "154588",
+      "text": "I started it because it's information. As far as line in the sand thats what it seems to me to be. Do you have a diffrent take on it? I do though agree with their stance. That they swore an oath to the constitution not to the politicans.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:57"
+    },
+    {
+      "nodeID": "154589",
+      "text": "Who needs an oath not to do what any American should find repugnant?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:57"
+    },
+    {
+      "nodeID": "154590",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:21:57"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193724",
+      "fromID": "154589",
+      "toID": "154590",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193725",
+      "fromID": "154590",
+      "toID": "154588",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

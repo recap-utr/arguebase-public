@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157105",
+      "text": "What are you referring to here?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:33"
+    },
+    {
+      "nodeID": "157106",
+      "text": "Well, this guy is so bad ad arguing and so good at alienating people that if we sent him into the abortion forum, it is likely, he'd be so ineffective at defending his pro-life position thathe'd actually be contributing to the pro-choice position...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:33"
+    },
+    {
+      "nodeID": "157107",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:27:33"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195502",
+      "fromID": "157106",
+      "toID": "157107",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195503",
+      "fromID": "157107",
+      "toID": "157105",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

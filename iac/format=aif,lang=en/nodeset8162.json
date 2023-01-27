@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "153401",
+      "text": "Rich people do a lot more to oppress people and take away freedom than the government",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:11"
+    },
+    {
+      "nodeID": "153402",
+      "text": "Yes, the horror of voluntarily taking orders from someone in exchange for monetary rewards!!  If you hate your job that much, quit. You aren't being oppressed because someone offered you the option to do something. If you don't like it, don't do it. If you hate trade, you can go wander through the wilderness and eat berries and roots.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:12"
+    },
+    {
+      "nodeID": "153403",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:19:12"
+    },
+    {
+      "nodeID": "153404",
+      "text": "There are good reasons for those laws and I bet none of those laws effect you much. You still got your guns so stop whining. But rich people stole my freedom for forty hours a week for many years. look at the big picture",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:12"
+    },
+    {
+      "nodeID": "153405",
+      "text": "Oh yeah, sure, your rights have been violated by companies requiring you to work 40 hours a week! Would somebody be so good as to call the ACLU for Brady so he can get a lawsuit going which claims that having to work is a violation of his fundamental human rights and is unconstitutional?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:12"
+    },
+    {
+      "nodeID": "153406",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:19:12"
+    },
+    {
+      "nodeID": "153407",
+      "text": "But rich people stole my freedom for forty hours a week for many years. look at the big picture",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:12"
+    },
+    {
+      "nodeID": "153408",
+      "text": "so quit whining, and go start your own buisness.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:19:12"
+    },
+    {
+      "nodeID": "153409",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:19:12"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192884",
+      "fromID": "153402",
+      "toID": "153403",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192885",
+      "fromID": "153403",
+      "toID": "153401",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192886",
+      "fromID": "153405",
+      "toID": "153406",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192887",
+      "fromID": "153406",
+      "toID": "153404",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192888",
+      "fromID": "153408",
+      "toID": "153409",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192889",
+      "fromID": "153409",
+      "toID": "153407",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

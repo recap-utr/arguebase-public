@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "143340",
+      "text": "I am not sure were it is in his book if it is in his book at all it may be in his diary. And It may have been in a earlier version. And since you say that the 6th edition is the definitive one well ok.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:43"
+    },
+    {
+      "nodeID": "143341",
+      "text": "Actually, you are still quibbling. First, after I told you that you were wrong you came up with the 'it may be in his diary' bit. Later it has moved to an earlier version of OTOOS. The answer is quite simple. NOPE. I searched through The LIfe and Letters of Charles Darwin, vol I & II, More Letters of Charles Darwin, vol I & II, On the Origin of Species, 1st and 6th editions, The Autobiography of Charles Darwin, and The Voyage of the Beagle. None even contain the word 'microbiology'. Darwin made several references to microscopes and his use of them. He had one on the Beagle. But nowhere does any of that discussion refer to the impossibility of his theory. Maybe you would be so kind as to tell me where you had access to Darwin's diary. Or maybe you either made up that assertion or were just an ignorant dupe of someone like Hovind making a claim like that. Where did it come from.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:43"
+    },
+    {
+      "nodeID": "143342",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:57:43"
+    },
+    {
+      "nodeID": "143343",
+      "text": "I would define 'ape' as the current species of that name or it's ancestors.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:43"
+    },
+    {
+      "nodeID": "143344",
+      "text": "Yeah, there is no species of that name.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:57:43"
+    },
+    {
+      "nodeID": "143345",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:57:43"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "185798",
+      "fromID": "143341",
+      "toID": "143342",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185799",
+      "fromID": "143342",
+      "toID": "143340",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185800",
+      "fromID": "143344",
+      "toID": "143345",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "185801",
+      "fromID": "143345",
+      "toID": "143343",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

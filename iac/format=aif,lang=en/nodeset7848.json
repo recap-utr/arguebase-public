@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148703",
+      "text": "SALT LAKE CITY &#8212; A member of Salt Lake County's SWAT team left an M4 assault rifle in front of someone's home after leaving the scene of a standoff in the township of White City. Salt Lake County Sheriff's Deputy Levi Hughes says the gun was left by a veteran member of the SWAT team who forgot the weapon in the grass while packing up gear after the standoff ended. A homeowner found the rifle in the front yard of a house a few hours later and notified authorities. Hughes says an officer on patrol stopped by the home and recognized the rifle as a weapon belonging to the SWAT team. Hughes says leaving the gun behind was an unacceptable, terrible mistake. Hughes says the officer will face disciplinary action, but probably won't be fired.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:06"
+    },
+    {
+      "nodeID": "148704",
+      "text": "A SWAT officer, a member of the 'best of the best' team as far as police forces go, left a weapon behind where it could've been snatched up by any two bit criminal and used on a crime spree as people were mowed down by true automatic firepower. Those of you who believe that only the military and police should have guns, you just got a kick in the teeth from this incident occurring. So quit ragging on private citizens who aren't 'perfect' as far as you're concerned.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:09:06"
+    },
+    {
+      "nodeID": "148705",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:09:07"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189566",
+      "fromID": "148704",
+      "toID": "148705",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189567",
+      "fromID": "148705",
+      "toID": "148703",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

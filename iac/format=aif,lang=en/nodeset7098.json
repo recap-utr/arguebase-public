@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "137859",
+      "text": "What is it with the eyes of organisms? Why are we (not only humans) compelled to 'look into the eyes' of others?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:51"
+    },
+    {
+      "nodeID": "137860",
+      "text": "Because the eyes reveal where someone (or something) is looking. Since we have a narrow range of perception this information tells the looker important information about what we are interested in at that time. Note that many animals don't look into each others eyes (most herbivours; since they have near-360 degree vision, eyes convey almost no information), and many animals take different information from them than we do (cats for example take looking at them as hostile behaviour, and narrowing the eyes and looking away as friendly).",
+      "type": "I",
+      "timestamp": "2016-03-08 19:45:51"
+    },
+    {
+      "nodeID": "137861",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:45:52"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "181894",
+      "fromID": "137860",
+      "toID": "137861",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "181895",
+      "fromID": "137861",
+      "toID": "137859",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

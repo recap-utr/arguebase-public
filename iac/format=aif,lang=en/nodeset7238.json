@@ -1,0 +1,157 @@
+{
+  "nodes": [
+    {
+      "nodeID": "139666",
+      "text": "Let`s establish a cybercampaign to search for his freedom emoticon_xkill emoticon_xhoho emoticon_xkill",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:46"
+    },
+    {
+      "nodeID": "139667",
+      "text": "So you're in favor of retro-active abortion?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:46"
+    },
+    {
+      "nodeID": "139668",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:49:46"
+    },
+    {
+      "nodeID": "139669",
+      "text": "Let's establish a campaign to search for the hypocrisy of people who call themselves pro-life yet find nothing wrong with killing a grown human being.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:46"
+    },
+    {
+      "nodeID": "139670",
+      "text": "Just for those who also don't know better. Not all who oppose abortion do so from a 'pro-life' stance. Nor do we all come from a religious stance. Atheist and Agnostic Pro-Life League",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:46"
+    },
+    {
+      "nodeID": "139671",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:49:46"
+    },
+    {
+      "nodeID": "139672",
+      "text": "O.J. ? Is that you?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:46"
+    },
+    {
+      "nodeID": "139673",
+      "text": "So you have trouble with the American system of justice, do you? Repeat after me: Innocent until proven guilty beyond a reasonable doubt by a jury of one's peers.  Fortunately for our country, guilt or innocence is not subject to a public opinion poll.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:46"
+    },
+    {
+      "nodeID": "139674",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:49:46"
+    },
+    {
+      "nodeID": "139675",
+      "text": "In USA, Lorena Bobbitt, Andrea Yates, Linda Calbi and other feminazis were not punished as they deserved because of the protesters.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:46"
+    },
+    {
+      "nodeID": "139676",
+      "text": "Oh yeah,... and that lady 'Michael Jackson!'",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:47"
+    },
+    {
+      "nodeID": "139677",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:49:47"
+    },
+    {
+      "nodeID": "139678",
+      "text": "...This is the exact same mindset as the killer. He believed the doctor was deserving of death for his actions. The only difference is you have the shield of the law to hide behind. I imagine you would see his execution as justice. At the end of the day, the thinking is exactly the same.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:47"
+    },
+    {
+      "nodeID": "139679",
+      "text": "But only one qualifies as due process. I'm anti-death penalty btw.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:49:47"
+    },
+    {
+      "nodeID": "139680",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:49:47"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183182",
+      "fromID": "139667",
+      "toID": "139668",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183183",
+      "fromID": "139668",
+      "toID": "139666",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183184",
+      "fromID": "139670",
+      "toID": "139671",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183185",
+      "fromID": "139671",
+      "toID": "139669",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183186",
+      "fromID": "139673",
+      "toID": "139674",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183187",
+      "fromID": "139674",
+      "toID": "139672",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183188",
+      "fromID": "139676",
+      "toID": "139677",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183189",
+      "fromID": "139677",
+      "toID": "139675",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183190",
+      "fromID": "139679",
+      "toID": "139680",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183191",
+      "fromID": "139680",
+      "toID": "139678",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

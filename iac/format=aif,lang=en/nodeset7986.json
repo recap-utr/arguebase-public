@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "150987",
+      "text": "Poll: Republicans Think Government Should Stay Out Of Medicare | TPMDC I think this sums up A LOT about the 'healthcare' debate. Explains a lot why people are making ridiculous claims about 'death panels' and the lot...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:47"
+    },
+    {
+      "nodeID": "150988",
+      "text": "So your point is that there are a lot of stupid people out there?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:13:47"
+    },
+    {
+      "nodeID": "150989",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:13:47"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191184",
+      "fromID": "150988",
+      "toID": "150989",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191185",
+      "fromID": "150989",
+      "toID": "150987",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

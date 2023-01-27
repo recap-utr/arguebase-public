@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "154343",
+      "text": "The bill would also protect gun manufacturers and dealers that have allowed their weapons to fall into the hands of criminals through their own negligence.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:25"
+    },
+    {
+      "nodeID": "154344",
+      "text": "Really? I don't think you know what you are talking about. Please provide evidence to back your claim. Thanks.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:25"
+    },
+    {
+      "nodeID": "154345",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:21:25"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193548",
+      "fromID": "154344",
+      "toID": "154345",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193549",
+      "fromID": "154345",
+      "toID": "154343",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

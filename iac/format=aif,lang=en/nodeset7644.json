@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "145443",
+      "text": "Gun Laws Effective Only If Enforced -- Courant.com",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:20"
+    },
+    {
+      "nodeID": "145444",
+      "text": "it totally emasculates our gun laws. That sums it up in a nutshell. And the nutjobs and control freaks wonder why we get P.O.ed at the suggestion of more feel good do nothing to solve the problem other than screw the law abiding gun control.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:20"
+    },
+    {
+      "nodeID": "145445",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:02:20"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187280",
+      "fromID": "145444",
+      "toID": "145445",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187281",
+      "fromID": "145445",
+      "toID": "145443",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

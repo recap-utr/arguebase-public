@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "142183",
+      "text": "Cops deal with tense every day, it is what they are trained to deal with.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:32"
+    },
+    {
+      "nodeID": "142184",
+      "text": "Oh? They're trained to deal with irate exhusbands who are stabbing their wives and dousing them in gasoline, in broad daylight, in the middle of a busy parking lot? They're trained to deal with that specific kind of #### every single day?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:55:32"
+    },
+    {
+      "nodeID": "142185",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:55:32"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184968",
+      "fromID": "142184",
+      "toID": "142185",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184969",
+      "fromID": "142185",
+      "toID": "142183",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

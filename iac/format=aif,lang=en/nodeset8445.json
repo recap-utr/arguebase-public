@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157473",
+      "text": "A slightly misleading title by the BBC, but an interesting article non the less... http://news.bbc.co.uk/1/hi/sci/tech/4056559.stm",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:29"
+    },
+    {
+      "nodeID": "157474",
+      "text": "Thanks for the link it was an interesting read. I found the comment in the second to last paragraph most intriguing: 'Scientists have also identified the smallest number of genes required to sustain life in a bacterial cell (about 350). If they can overcome the many technical hurdles of building a wholly artificial cell in the lab, it is conceivable they could 'create' - albeit simple - 'life'. ' Who knows what that line of research might lead us to?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:29"
+    },
+    {
+      "nodeID": "157475",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:28:29"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195762",
+      "fromID": "157474",
+      "toID": "157475",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195763",
+      "fromID": "157475",
+      "toID": "157473",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

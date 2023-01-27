@@ -1,0 +1,235 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140288",
+      "text": "You missed 'should not be required'",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:06"
+    },
+    {
+      "nodeID": "140289",
+      "text": "That's the opinion I hold, that CCWs shouldn't be required. But this thread assumes that CCWs are required.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:06"
+    },
+    {
+      "nodeID": "140290",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:51:06"
+    },
+    {
+      "nodeID": "140291",
+      "text": "as in anyone can purchase a fire arm without a background check or gun safety training? not a good option. my apology if that was a failed sarcasm. -a|ex",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:06"
+    },
+    {
+      "nodeID": "140292",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:51:06"
+    },
+    {
+      "nodeID": "140293",
+      "text": "That's why I voted as I did as well. Ideally I'd prefer the 'none required' policy.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:06"
+    },
+    {
+      "nodeID": "140294",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:51:06"
+    },
+    {
+      "nodeID": "140295",
+      "text": "So why is it in the debates your position is easily viewed as opposed to firearm rights?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:06"
+    },
+    {
+      "nodeID": "140296",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:51:06"
+    },
+    {
+      "nodeID": "140297",
+      "text": "It worked just fine for the first half of the 20th century. And training should never be a requirement for exercising a constitutional right.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:06"
+    },
+    {
+      "nodeID": "140298",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:51:06"
+    },
+    {
+      "nodeID": "140299",
+      "text": "as in anyone can purchase a fire arm without a background check or gun safety training?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:06"
+    },
+    {
+      "nodeID": "140300",
+      "text": "As in anyone who can legally own a firearm should be able to carry it without needing permission.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:06"
+    },
+    {
+      "nodeID": "140301",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:51:07"
+    },
+    {
+      "nodeID": "140302",
+      "text": "Very well said.  However, we also believe that gun owners should get as much training as possible, necessary, desired etc. It just should not be required to participate in a Right Recognized by your Constitution as Inalienable, and therefore protected. That sets a bad precedence for the rest of our Bill of Rights.  However, safe handling of any potentially dangerous tool is just common sense.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:07"
+    },
+    {
+      "nodeID": "140303",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:51:07"
+    },
+    {
+      "nodeID": "140304",
+      "text": "i'm not familiar with life in the first half of the 20th century. training should be a requirement for safe use of a deadly weapon and not everyone has this right to bear arms (we can debate about criminals' constitutional rights in another thread).  as i mentioned in a previous thread, when i was at the range, i was amazed at how many first timers were learning how to load and shoot that day without supervision. and yes, i stepped in to help an FTF/FTE. i kept reminding her not to look down the barrel when it FTF'd. lately, i've been spending more time training newbies than enjoying my time shooting. just because an AD hasn't happened yet, doesn't mean training should not be required. i shoot around 3x a week and my family shoots almost every weekend. i'm also amazed at how many irresponsible gun owners are willing to sell their arms to shady looking strangers at the gun shows without asking to see a CCW or FL. so yes, as a responsible gun owner, i welcome a reasonable amount of gun regulation. btw, CCW is not required in GA, a simple Firearms License is needed which can be had in about 3 days (assuming clean background check and state residency has been established). i'm not gonna use statistics or historical data (too many variables for a true analysis - butterfly effect). i'm gonna use good ole common sense...  -a|ex",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:07"
+    },
+    {
+      "nodeID": "140305",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:51:07"
+    },
+    {
+      "nodeID": "140306",
+      "text": "the answer is in your question... legally own means just that. can carry it without further permission. but my question asks, is permission required to legally own firearms? you know my answer to that question.  -a|ex",
+      "type": "I",
+      "timestamp": "2016-03-08 19:51:07"
+    },
+    {
+      "nodeID": "140307",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 19:51:07"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183622",
+      "fromID": "140289",
+      "toID": "140290",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183623",
+      "fromID": "140290",
+      "toID": "140288",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183624",
+      "fromID": "140291",
+      "toID": "140292",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183625",
+      "fromID": "140292",
+      "toID": "140288",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183626",
+      "fromID": "140293",
+      "toID": "140294",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183627",
+      "fromID": "140294",
+      "toID": "140289",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183628",
+      "fromID": "140295",
+      "toID": "140296",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183629",
+      "fromID": "140296",
+      "toID": "140293",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183630",
+      "fromID": "140297",
+      "toID": "140298",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183631",
+      "fromID": "140298",
+      "toID": "140291",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183632",
+      "fromID": "140300",
+      "toID": "140301",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183633",
+      "fromID": "140301",
+      "toID": "140299",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183634",
+      "fromID": "140302",
+      "toID": "140303",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183635",
+      "fromID": "140303",
+      "toID": "140297",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183636",
+      "fromID": "140304",
+      "toID": "140305",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183637",
+      "fromID": "140305",
+      "toID": "140297",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183638",
+      "fromID": "140306",
+      "toID": "140307",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183639",
+      "fromID": "140307",
+      "toID": "140300",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

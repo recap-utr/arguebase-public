@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "159115",
+      "text": "Instead of the usual thread where one person posts a view or news article and a discussion continues from there, I was hoping to present this thread for people to simply present a one-post summary of their views on abortion. The goal, then, is for this not to be a discussion thread but a survey of the views on abortion. So please, if you can, simply present a summary of your views and try to avoid starting a discussion by making comments about any specific person's views. I, for one, will not be responding to any comments if they do come up.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:08"
+    },
+    {
+      "nodeID": "159116",
+      "text": "I believe abortion is murder and should be illegal. The only possible circumstance when an abortion should be an option is when the 'LIFE' of both the mother and her unborn child is at risk. When both lives are going to be lost, it is better to save one as opposed to losing two. The holocaust on the unborn children of this country is something that we should be ashamed of as a country.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:32:08"
+    },
+    {
+      "nodeID": "159117",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:32:08"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196940",
+      "fromID": "159116",
+      "toID": "159117",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196941",
+      "fromID": "159117",
+      "toID": "159115",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

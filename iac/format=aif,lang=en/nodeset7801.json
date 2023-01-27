@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148083",
+      "text": "More slippery slope paranoia...",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:44"
+    },
+    {
+      "nodeID": "148084",
+      "text": "And what you post isn't with bogus sources?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:44"
+    },
+    {
+      "nodeID": "148085",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:44"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189136",
+      "fromID": "148084",
+      "toID": "148085",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189137",
+      "fromID": "148085",
+      "toID": "148083",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

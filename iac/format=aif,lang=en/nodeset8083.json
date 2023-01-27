@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152244",
+      "text": "According to this year's FBI Uniform Crime Report, the use of guns in crime rose significantly from 1985 to 1993. However, since implementation of the Brady Law in February 1994, there has been a significant drop in the percentage of violent crimes committed with a firearm. A study by The Brady Center to Prevent Gun Violence showed that, since it's enactment, the Brady Law background check kept handguns out of the hands of over 312,000 prohibited purchasers - including 113 felons a day. http://www.bradycampaign.org/facts/research/bradyred.asp",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:32"
+    },
+    {
+      "nodeID": "152245",
+      "text": "Sounds like the Brady Law has stopped a lot of criminals from obtaining handguns.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:16:32"
+    },
+    {
+      "nodeID": "152246",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:16:32"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192070",
+      "fromID": "152245",
+      "toID": "152246",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192071",
+      "fromID": "152246",
+      "toID": "152244",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

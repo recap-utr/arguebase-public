@@ -1,0 +1,157 @@
+{
+  "nodes": [
+    {
+      "nodeID": "154328",
+      "text": "I've asked repeatedly for an example of a mutation that beneficially alters phenotype and have yet to receive one.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:23"
+    },
+    {
+      "nodeID": "154329",
+      "text": "And oddly enough you have been given several on silver platters. Perhaps you need to visit a neurologist and get checked for memory problems? Just to remind you once more - SICKLE CELL TRAIT is a mutation AND it benefits the phenotype under specific definable conditions. Do you really want to get hit about the head with that bat yet again?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:23"
+    },
+    {
+      "nodeID": "154330",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:21:23"
+    },
+    {
+      "nodeID": "154331",
+      "text": "ToE says that there are two forces in evolution: random mutation, and natural selection.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:23"
+    },
+    {
+      "nodeID": "154332",
+      "text": "Just a technical point. Evolutionary theory does not require that mutations should be random. Molecular geneticists are well aware that some genes in some organisms mutate more often than others; alternatively, some genes are conserved more strongly than others. It's just that hotspots apart, there is no evidence for result-orientated directed mutation of genes. Within certain constraints, they appear to be random, but evolutionary theory as such doesn't demand that they should be. Second, natural selection through competition for resources isn't the only force constraining evolution (though it is the major explanation of adaptation). There is also genetic drift which can distribute neutral mutations through populations, and there are probably also other factors such as structural constraints and canalisation affecting which mutations can see the light of day (i.e. get exposed to natural selection) and which will not.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:23"
+    },
+    {
+      "nodeID": "154333",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:21:23"
+    },
+    {
+      "nodeID": "154334",
+      "text": "Organic Evolution: the origin of life",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:23"
+    },
+    {
+      "nodeID": "154335",
+      "text": "So you don't believe that life had an origin! WOW so you think its always been present on the Earth? Not even the bible goes that far! And you fail to account for the observation that there IS life.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:23"
+    },
+    {
+      "nodeID": "154336",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:21:23"
+    },
+    {
+      "nodeID": "154337",
+      "text": "Stellar and Planetary Evolution: origin of stars and planets",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:23"
+    },
+    {
+      "nodeID": "154338",
+      "text": "You mean that the planets and stars have always existed? Really - so how come we see stars being made in nurseries via the Hubble telescope.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:23"
+    },
+    {
+      "nodeID": "154339",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:21:23"
+    },
+    {
+      "nodeID": "154340",
+      "text": "Cosmic Evolution: the origin of time, space, and matter, i.e. the Big Bang",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:23"
+    },
+    {
+      "nodeID": "154341",
+      "text": "Well it came from somewhere and presumably changed as it went along.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:23"
+    },
+    {
+      "nodeID": "154342",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:21:24"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193538",
+      "fromID": "154329",
+      "toID": "154330",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193539",
+      "fromID": "154330",
+      "toID": "154328",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193540",
+      "fromID": "154332",
+      "toID": "154333",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193541",
+      "fromID": "154333",
+      "toID": "154331",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193542",
+      "fromID": "154335",
+      "toID": "154336",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193543",
+      "fromID": "154336",
+      "toID": "154334",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193544",
+      "fromID": "154338",
+      "toID": "154339",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193545",
+      "fromID": "154339",
+      "toID": "154337",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193546",
+      "fromID": "154341",
+      "toID": "154342",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193547",
+      "fromID": "154342",
+      "toID": "154340",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

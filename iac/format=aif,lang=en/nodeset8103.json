@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152407",
+      "text": "Were you hung-over? I can tear up to the most silly programes when hung-over. Heck, I once cried to a re-run of 'XXXXX eye for a straight guy' (or something.. I`m not sure about name in english)... I was mighty hung-over though.  Note that I`m not saying there is anything wrong with displaying emotions unless your drunk or hung-over, I cry even when I`m not hung-over I`ve just noticed this weird relationship between movies or tv-shows, crying and hang-overs.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:00"
+    },
+    {
+      "nodeID": "152408",
+      "text": "No, it's often an emotional show. They choose their families based on submitted videos, usually from families with one or more physically challenged members, then they build them a house to fit their needs. There was one in particular with a blind autistic boy who loved to swing. The joy on his face when he got the new swing would make any sensitive person weep with joy for him. There was another about a deaf couple whose new home included and lot of strobe light signaling systems.  BTW, alcohol is a depressant! emoticon_wow",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:00"
+    },
+    {
+      "nodeID": "152409",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:17:00"
+    },
+    {
+      "nodeID": "152410",
+      "text": "Women haven't cornered the market on crying, there are a lot of men cryers out there too.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:00"
+    },
+    {
+      "nodeID": "152411",
+      "text": "I think it is simply been more socially acceptable for women to cry openly.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:17:00"
+    },
+    {
+      "nodeID": "152412",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:17:01"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192182",
+      "fromID": "152408",
+      "toID": "152409",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192183",
+      "fromID": "152409",
+      "toID": "152407",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192184",
+      "fromID": "152411",
+      "toID": "152412",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192185",
+      "fromID": "152412",
+      "toID": "152410",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

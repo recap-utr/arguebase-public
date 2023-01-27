@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "160582",
+      "text": "Yet there is arguably a morality component to every law ever to be put on the books.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:27"
+    },
+    {
+      "nodeID": "160583",
+      "text": "Yes, and depending on how you define morality.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:35:27"
+    },
+    {
+      "nodeID": "160584",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:35:27"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "197988",
+      "fromID": "160583",
+      "toID": "160584",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "197989",
+      "fromID": "160584",
+      "toID": "160582",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

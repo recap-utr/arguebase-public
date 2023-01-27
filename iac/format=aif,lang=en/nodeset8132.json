@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152858",
+      "text": "Ooaman: Christianity holds that Jesus is the 'Son of' God.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:01"
+    },
+    {
+      "nodeID": "152859",
+      "text": "No, Christianity holds that Jesus IS God.  That Jesus also is NOT God just shows how contradictory the Bible is for Christians (but they overlook logic and hold blindly to their silly trinity position anyway).",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:01"
+    },
+    {
+      "nodeID": "152860",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:18:01"
+    },
+    {
+      "nodeID": "152861",
+      "text": "Okay, in defense of my school (KU) isn't creation (Intelligent Design-which I have to question that title since it has been mostly Bush pushing for it) a religion thing? Science is supposed to tell how something happens (happened). The creation story in the (Christian/Jewish/Islamic) Bible does not tell how. It tells more of a why or what. It was never intended to be about how God did anything. I specify the creation story here (which these three are the exact same beginning because they are the exact same God) because when people say ID, they are referring mostly to the creation in Genesis. All you get is a poetry reading almost of what happened. (And then God did such and such.) There is a difference between What happened and How it happened. There is nothing scientific about it at all. There is nothing wrong with teaching it in a religions class or some kind of social studies class.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:01"
+    },
+    {
+      "nodeID": "152862",
+      "text": "Just to point out, the class that ID is being taught in is a comparative religion class.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:01"
+    },
+    {
+      "nodeID": "152863",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:18:01"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192496",
+      "fromID": "152859",
+      "toID": "152860",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192497",
+      "fromID": "152860",
+      "toID": "152858",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192498",
+      "fromID": "152862",
+      "toID": "152863",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192499",
+      "fromID": "152863",
+      "toID": "152861",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

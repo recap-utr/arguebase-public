@@ -1,0 +1,151 @@
+{
+  "nodes": [
+    {
+      "nodeID": "154212",
+      "text": "In the fourth case, you would have declared the murder of Jesus Christ.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:03"
+    },
+    {
+      "nodeID": "154213",
+      "text": "And if not for him we wouldn't have had the crusades, Holocaust, and other religious violence in the name of Christianity.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:03"
+    },
+    {
+      "nodeID": "154214",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:21:03"
+    },
+    {
+      "nodeID": "154215",
+      "text": "In the third case, you would have killed Ethel Waters, the great black gospel singer.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:03"
+    },
+    {
+      "nodeID": "154216",
+      "text": "Oh well. Life goes on.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:03"
+    },
+    {
+      "nodeID": "154217",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:21:03"
+    },
+    {
+      "nodeID": "154218",
+      "text": "If you answered yes to any or all of these situations: In the first case, you would have killed John wesley, one of the great evangelists in the 19th century.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:03"
+    },
+    {
+      "nodeID": "154219",
+      "text": "Well right there, you used an oxymoron, 'Great' and 'Evangelist' got together about as well as Military Inteligence. Secondly, as I stated before...you left too many other questions unanswered about the 'Preacher.'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:03"
+    },
+    {
+      "nodeID": "154220",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:21:04"
+    },
+    {
+      "nodeID": "154221",
+      "text": "Well first off, again, you asked a misleading question. Jesus didn't just happen in the last century, nor in the last decade. Besides, God Rapes an unmarried Jew and gets away with a violent crime?!? And people wonder why I'm such a skeptic. I've never bought the whole 'emaculate conception' jazz to begin with.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:04"
+    },
+    {
+      "nodeID": "154222",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:21:04"
+    },
+    {
+      "nodeID": "154223",
+      "text": "Hmmm, without Jesus there mightn't have been the various Inquisitions, the invasions of the New World for purposes of exploitation of the New World's resources and peoples, the witch burnings, the stupid religious wars amongst the various Christian sects, very likely the Holocaust would not have happned, the two World Wars waged by Christian nations--except for the notable exception of Japan. Hmm, a peaceful world, largely, without the desolation of war. What an interesting proposition. Alas, it seems that Jesus did not come into the world to bring peace.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:04"
+    },
+    {
+      "nodeID": "154224",
+      "text": "Just think, without Christianity and its preservation of science during the Dark Ages, we lost out on the opportunity to reinvent the wheel. emoticon_rolleyes That has got to go down as one of the dumbest things that I've ever read on this forum.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:21:04"
+    },
+    {
+      "nodeID": "154225",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:21:04"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "193456",
+      "fromID": "154213",
+      "toID": "154214",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193457",
+      "fromID": "154214",
+      "toID": "154212",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193458",
+      "fromID": "154216",
+      "toID": "154217",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193459",
+      "fromID": "154217",
+      "toID": "154215",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193460",
+      "fromID": "154219",
+      "toID": "154220",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193461",
+      "fromID": "154220",
+      "toID": "154218",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193462",
+      "fromID": "154221",
+      "toID": "154222",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193463",
+      "fromID": "154222",
+      "toID": "154212",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193464",
+      "fromID": "154224",
+      "toID": "154225",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "193465",
+      "fromID": "154225",
+      "toID": "154223",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

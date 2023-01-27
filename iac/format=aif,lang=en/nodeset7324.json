@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140780",
+      "text": "It is also undisputed in the scientific/biological community that the point of conception is the commencement of the biological life of a member of it's species. In other words, the biological life of a homo sapien begins when the sperm fertilizes the egg and the newly created zygote begins to reproduce cells.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:13"
+    },
+    {
+      "nodeID": "140781",
+      "text": "You do realise that by your definition, identical twins are the same 'life'? You do also realise that a freshly fertilised egg does not meet the standard criteria for judging whether something is alive?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:13"
+    },
+    {
+      "nodeID": "140782",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:52:13"
+    },
+    {
+      "nodeID": "140783",
+      "text": "No - standard scientific criteria for life.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:13"
+    },
+    {
+      "nodeID": "140784",
+      "text": "And what is this 'standard scientific criteria for life' that a zygote does not meet?",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:13"
+    },
+    {
+      "nodeID": "140785",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:52:13"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "183976",
+      "fromID": "140781",
+      "toID": "140782",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183977",
+      "fromID": "140782",
+      "toID": "140780",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183978",
+      "fromID": "140784",
+      "toID": "140785",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "183979",
+      "fromID": "140785",
+      "toID": "140783",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

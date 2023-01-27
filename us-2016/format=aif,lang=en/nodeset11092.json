@@ -1,0 +1,175 @@
+{
+  "nodes": [
+    {
+      "nodeID": "197690",
+      "text": "Her0_0f_time : Black lives do matter",
+      "type": "L",
+      "timestamp": "2016-09-01 13:18:54"
+    },
+    {
+      "nodeID": "197692",
+      "text": "Black lives do matter",
+      "type": "I",
+      "timestamp": "2016-09-01 13:18:54"
+    },
+    {
+      "nodeID": "197711",
+      "text": "BreweryInTheSky : Black lives are valued less than the lives of other races",
+      "type": "L",
+      "timestamp": "2016-09-01 13:18:56"
+    },
+    {
+      "nodeID": "197713",
+      "text": "black lives are valued less than the lives of other races",
+      "type": "I",
+      "timestamp": "2016-09-01 13:18:56"
+    },
+    {
+      "nodeID": "248569",
+      "text": "black lives do / do not matter",
+      "type": "I",
+      "timestamp": "2016-12-21 14:44:15"
+    },
+    {
+      "nodeID": "248583",
+      "text": "COOPER : Do black lives matter",
+      "type": "L",
+      "timestamp": "2016-12-21 14:44:16"
+    },
+    {
+      "nodeID": "248651",
+      "text": "O'MALLEY :  the point that the Black Lives Matter movement is making is a very, very legitimate and serious point, and that is that as a nation we have undervalued the lives of black lives, people of color",
+      "type": "L",
+      "timestamp": "2016-12-21 14:44:24"
+    },
+    {
+      "nodeID": "248653",
+      "text": "the point that the Black Lives Matter movement is making is a very, very legitimate and serious point, and that is that as a nation we have undervalued the lives of black lives, people of color",
+      "type": "I",
+      "timestamp": "2016-12-21 14:44:25"
+    },
+    {
+      "nodeID": "262484",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-03 19:03:27",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "262485",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-03 19:03:27",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "262486",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2017-03-03 19:03:28",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "262487",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2017-03-03 19:03:28",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "262488",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2017-03-03 19:03:29",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "262489",
+      "text": "Default Illocuting",
+      "type": "YA",
+      "timestamp": "2017-03-03 19:03:29",
+      "scheme": "Default Illocuting",
+      "schemeID": "168"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "316636",
+      "fromID": "248651",
+      "toID": "262484",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316637",
+      "fromID": "262484",
+      "toID": "197711",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316638",
+      "fromID": "197713",
+      "toID": "262485",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316639",
+      "fromID": "262485",
+      "toID": "248653",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316640",
+      "fromID": "262484",
+      "toID": "262486",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316641",
+      "fromID": "262486",
+      "toID": "262485",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316642",
+      "fromID": "248583",
+      "toID": "262487",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316643",
+      "fromID": "262487",
+      "toID": "197690",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316644",
+      "fromID": "197692",
+      "toID": "262488",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316645",
+      "fromID": "262488",
+      "toID": "248569",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316646",
+      "fromID": "262487",
+      "toID": "262489",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "316647",
+      "fromID": "262489",
+      "toID": "262488",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

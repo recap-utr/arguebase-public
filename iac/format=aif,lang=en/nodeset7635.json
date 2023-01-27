@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "145284",
+      "text": "If you're in America, then go back to Britain where people like you belong.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:00"
+    },
+    {
+      "nodeID": "145285",
+      "text": "I think he's referring to intelligent, educated people with a good sense of humour (good looking too emoticon_smile) who aren't paranoid beyond reason, can spell correctly and know what real beer is. Smiley",
+      "type": "I",
+      "timestamp": "2016-03-08 20:02:00"
+    },
+    {
+      "nodeID": "145286",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:02:00"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "187172",
+      "fromID": "145285",
+      "toID": "145286",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "187173",
+      "fromID": "145286",
+      "toID": "145284",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

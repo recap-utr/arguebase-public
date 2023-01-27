@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "158232",
+      "text": "What does this have to do with creation and evolution?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:30:18"
+    },
+    {
+      "nodeID": "158233",
+      "text": "Just imagine Noah's checklist! There.emoticon_xangel",
+      "type": "I",
+      "timestamp": "2016-03-08 20:30:18"
+    },
+    {
+      "nodeID": "158234",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:30:18"
+    },
+    {
+      "nodeID": "158235",
+      "text": "And what did Noah do about the termites?[",
+      "type": "I",
+      "timestamp": "2016-03-08 20:30:18"
+    },
+    {
+      "nodeID": "158236",
+      "text": "Well nobody has turned up the Ark have they, termites could assure that if properly used. After 40 days and more they would be ravenous.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:30:18"
+    },
+    {
+      "nodeID": "158237",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:30:18"
+    },
+    {
+      "nodeID": "158238",
+      "text": "Can someone explain to me how Noah took mosquitoes on the ark? Those abominations need sitting water to hatch and develop. A boat being toss around like a toy is hardly going to have pools of sitting water. Plus what did all of the insectivores eat for 40 days? emoticon_xbye",
+      "type": "I",
+      "timestamp": "2016-03-08 20:30:18"
+    },
+    {
+      "nodeID": "158239",
+      "text": "Actually, the storm lasted for 40 days and 40 nights. The ark was actually afloat for a year or so. So I guess the answer is that the ark had all kinds of pestilent insects winging about and biting and stinging the occupants. The problem is, how did these aquatic breeders actually propagate in the feces and urine infested bilge of the ark?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:30:18"
+    },
+    {
+      "nodeID": "158240",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:30:18"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "196304",
+      "fromID": "158233",
+      "toID": "158234",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196305",
+      "fromID": "158234",
+      "toID": "158232",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196306",
+      "fromID": "158236",
+      "toID": "158237",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196307",
+      "fromID": "158237",
+      "toID": "158235",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196308",
+      "fromID": "158239",
+      "toID": "158240",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "196309",
+      "fromID": "158240",
+      "toID": "158238",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

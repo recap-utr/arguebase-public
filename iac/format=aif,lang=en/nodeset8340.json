@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "155952",
+      "text": "Well? Let's get to it. Why do YOU believe?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:59"
+    },
+    {
+      "nodeID": "155953",
+      "text": "I believe in that which is. Because to believe in anything else is ultimately pointless.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:59"
+    },
+    {
+      "nodeID": "155954",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:24:59"
+    },
+    {
+      "nodeID": "155955",
+      "text": "I have seen this response from several people and have always wondered why some people would use religion as a crutch. It seems like it would be way too hard to do, but I still see more and more sad people choking on prayers. It's a shame to be so bent on shouting praise to a higher power and never getting the results one needs. That goes back to the 'feel good' god, or the 'I'm better than most' god. Looks like these people never get the desired results or else they'd stop and look at their fading gills.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:24:59"
+    },
+    {
+      "nodeID": "155956",
+      "text": "I think you need to read the book of Job.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:25:00"
+    },
+    {
+      "nodeID": "155957",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:25:00"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "194690",
+      "fromID": "155953",
+      "toID": "155954",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194691",
+      "fromID": "155954",
+      "toID": "155952",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194692",
+      "fromID": "155956",
+      "toID": "155957",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "194693",
+      "fromID": "155957",
+      "toID": "155955",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

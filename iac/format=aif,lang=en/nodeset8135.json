@@ -1,0 +1,157 @@
+{
+  "nodes": [
+    {
+      "nodeID": "152878",
+      "text": "This right of privacy, whether it be founded in the Fourteenth Amendment's concept of personal liberty and restrictions upon state action, as we feel it is, or, as the District Court determined, in the Ninth Amendment's reservation of rights to the people, is broad enough to encompass a woman's decision whether or not to terminate her pregnancy.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:05"
+    },
+    {
+      "nodeID": "152879",
+      "text": "So, the Supreme Court rested its decision not on the 9th Amendment as the District Court had done, but chose instead to base it on the 14th Amendment.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:05"
+    },
+    {
+      "nodeID": "152880",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:18:05"
+    },
+    {
+      "nodeID": "152881",
+      "text": "The Congress, whenever two thirds of both Houses shall deem it necessary, shall propose Amendments to this Constitution, or, on the Application of the Legislatures of two thirds of the several States, shall call a Convention for proposing Amendments, which, in either Case, shall be valid to all Intents and Purposes, as part of this Constitution.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:05"
+    },
+    {
+      "nodeID": "152882",
+      "text": "So there you have it: AMENDMENTS ARE PART OF THE CONSTITUTION.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:05"
+    },
+    {
+      "nodeID": "152883",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:18:05"
+    },
+    {
+      "nodeID": "152884",
+      "text": "I still find it ironic that so many people actually construe the 9th amendment to achieve a magical number of rights.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:05"
+    },
+    {
+      "nodeID": "152885",
+      "text": "Well, one has to use something to make the Constitution say something that it does not say; especially if it doesn't say something that one really, really, really wants to have.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:05"
+    },
+    {
+      "nodeID": "152886",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:18:05"
+    },
+    {
+      "nodeID": "152887",
+      "text": "Bingo-- and thus without state sovereignty, the Supreme Court is Law: hence Madison's warning that it would spell the end of Freedom.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:05"
+    },
+    {
+      "nodeID": "152888",
+      "text": "And it was not the 9th Amendment that the court has used to accomplish this. Rather, it is the 14th through various illegitimate legal doctrines such as incorporation and substantive due process.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:05"
+    },
+    {
+      "nodeID": "152889",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:18:05"
+    },
+    {
+      "nodeID": "152890",
+      "text": "Again, the 14th Amendment just keeps any state from depriving anyone of liberty-- it doesn't DEFINE that liberty.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:05"
+    },
+    {
+      "nodeID": "152891",
+      "text": "But my point is that the Supreme Court has disagreed. Hence the illegitimate legal doctrine of substantive due process, which maintains that the due process clause can be violated even in cases where due process has been given.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:18:05"
+    },
+    {
+      "nodeID": "152892",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:18:05"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "192510",
+      "fromID": "152879",
+      "toID": "152880",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192511",
+      "fromID": "152880",
+      "toID": "152878",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192512",
+      "fromID": "152882",
+      "toID": "152883",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192513",
+      "fromID": "152883",
+      "toID": "152881",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192514",
+      "fromID": "152885",
+      "toID": "152886",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192515",
+      "fromID": "152886",
+      "toID": "152884",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192516",
+      "fromID": "152888",
+      "toID": "152889",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192517",
+      "fromID": "152889",
+      "toID": "152887",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192518",
+      "fromID": "152891",
+      "toID": "152892",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "192519",
+      "fromID": "152892",
+      "toID": "152890",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

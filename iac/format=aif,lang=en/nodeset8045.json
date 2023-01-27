@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "151703",
+      "text": "Demon: Typical creationist big mouth, can't keep the facts straight, doesn't understand evolution and totally incapable of intelligent debate.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:20"
+    },
+    {
+      "nodeID": "151704",
+      "text": "Because you are a Darwinist - this predictible insult testifies to my rightness. Your approval/compliments would of supported my wrongness. Ray M.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:20"
+    },
+    {
+      "nodeID": "151705",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:15:20"
+    },
+    {
+      "nodeID": "151706",
+      "text": "Got any objective sources?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:20"
+    },
+    {
+      "nodeID": "151707",
+      "text": "Yes. www.talkorgins.org",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:20"
+    },
+    {
+      "nodeID": "151708",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:15:20"
+    },
+    {
+      "nodeID": "151709",
+      "text": "See how the fair application of literalism works ?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:20"
+    },
+    {
+      "nodeID": "151710",
+      "text": "No. you're not making any sense. Where is symbiote? I got a horrible argument for him to dispell.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:15:20"
+    },
+    {
+      "nodeID": "151711",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:15:20"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "191684",
+      "fromID": "151704",
+      "toID": "151705",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191685",
+      "fromID": "151705",
+      "toID": "151703",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191686",
+      "fromID": "151707",
+      "toID": "151708",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191687",
+      "fromID": "151708",
+      "toID": "151706",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191688",
+      "fromID": "151710",
+      "toID": "151711",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "191689",
+      "fromID": "151711",
+      "toID": "151709",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

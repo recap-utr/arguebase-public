@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "148101",
+      "text": "There is so much to gain for so little effort.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:49"
+    },
+    {
+      "nodeID": "148102",
+      "text": "But the fact is, that son of God Jesus was a lier and that Bible was just a story book but we are all fool to deify them !",
+      "type": "I",
+      "timestamp": "2016-03-08 20:07:49"
+    },
+    {
+      "nodeID": "148103",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:07:49"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "189148",
+      "fromID": "148102",
+      "toID": "148103",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "189149",
+      "fromID": "148103",
+      "toID": "148101",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

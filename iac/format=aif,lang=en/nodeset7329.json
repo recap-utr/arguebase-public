@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "140819",
+      "text": "If the Brady Campaign wishes to claim that they don't want to restrict citizen access to firearms, then they had no business supporting the DC handgun ban in the first place, or referring to its overturning as 'judicial activism at its worst!'",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:20"
+    },
+    {
+      "nodeID": "140820",
+      "text": "Well you know they are lying when they say that they don't want to restrict citizen access.",
+      "type": "I",
+      "timestamp": "2016-03-08 19:52:21"
+    },
+    {
+      "nodeID": "140821",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 19:52:21"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "184002",
+      "fromID": "140820",
+      "toID": "140821",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "184003",
+      "fromID": "140821",
+      "toID": "140819",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

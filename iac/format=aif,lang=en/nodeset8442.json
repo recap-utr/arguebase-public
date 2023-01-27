@@ -1,0 +1,157 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157435",
+      "text": "Then there is the argument that flaws in the death penalty lay with the judiciary system, not with the actual penalty itself. While anyone can accept that a 'perfect' judiciary system would only send real murderers to death row, even if this were the case, it does not negate the problems mentioned before.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:23"
+    },
+    {
+      "nodeID": "157436",
+      "text": "Well, what faults? You say that innocent people are sentenced to death far too often. Well, the death penalty does not sentence people, our judiciary system does. The death penalty is mearly a punishment. I will agree that some innocent people have been sent to death row, and when their innocence was discovered, they were released. A perfect judiciary system would not sentence innocent people, and would alleviate all problems with the death penalty. If we had a perfect system and no innocent person was ever sent to death row, we could take them directy from sentencing to a little room beside the courtroom containing a bed and a few drugs, put an IV in them, and carry out the sentence before the jurors got out of the courthouse. Of course, we know that our judiciary system is an imperfect thing, so we understand the need for appeals.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:23"
+    },
+    {
+      "nodeID": "157437",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:28:24"
+    },
+    {
+      "nodeID": "157438",
+      "text": "While anyone can accept that a 'perfect' judiciary system would only send real murderers to death row, even if this were the case, it does not negate the problems mentioned before. The death penalty costs the tax payers more and benefits neither the dead, nor society, in any way, and society doesn't punish in order to 'get revenge.'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:24"
+    },
+    {
+      "nodeID": "157439",
+      "text": "And again:",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:24"
+    },
+    {
+      "nodeID": "157440",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:28:24"
+    },
+    {
+      "nodeID": "157441",
+      "text": "After reading this 4 times, I am not even going to try to pretend that this makes any sense.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:24"
+    },
+    {
+      "nodeID": "157442",
+      "text": "You mean you are not going to pretend to you understand it. It means that your argument stating that flaws in the death penalty lay in the judicial system is like me saying that flaws in life imprisonment lay in our prison's security system; not in the punishment itself. It is also like saying that the problem of releasing guilty persons sentenced to life in prison lays with the judicial system, not with the punishment of life in prison. Understand yet?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:24"
+    },
+    {
+      "nodeID": "157443",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:28:24"
+    },
+    {
+      "nodeID": "157444",
+      "text": "Again, I support the death penalty for certain crimes and criminals. Cost has nothing to do with it for me.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:24"
+    },
+    {
+      "nodeID": "157445",
+      "text": "Well, why do you support it?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:24"
+    },
+    {
+      "nodeID": "157446",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:28:24"
+    },
+    {
+      "nodeID": "157447",
+      "text": "I'm sure there have been more repeat murderers than innocent people put to death. As far as the cost goes, is that really an issue?  Execution Room = $10,000 Stainless Steel Table = $2,000 Leather Straps = $200 Lethal Injection Chemicals = $5,000 Knowing this person will never possibly be able to kill again =  PRICELESS",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:24"
+    },
+    {
+      "nodeID": "157448",
+      "text": "Actually the room, straps, and table are all multi-use. And the drugs only cost Texas $86.08 per execution as of 2002.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:28:24"
+    },
+    {
+      "nodeID": "157449",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:28:24"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195734",
+      "fromID": "157436",
+      "toID": "157437",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195735",
+      "fromID": "157437",
+      "toID": "157435",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195736",
+      "fromID": "157439",
+      "toID": "157440",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195737",
+      "fromID": "157440",
+      "toID": "157438",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195738",
+      "fromID": "157442",
+      "toID": "157443",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195739",
+      "fromID": "157443",
+      "toID": "157441",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195740",
+      "fromID": "157445",
+      "toID": "157446",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195741",
+      "fromID": "157446",
+      "toID": "157444",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195742",
+      "fromID": "157448",
+      "toID": "157449",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195743",
+      "fromID": "157449",
+      "toID": "157447",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

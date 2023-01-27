@@ -1,0 +1,127 @@
+{
+  "nodes": [
+    {
+      "nodeID": "157093",
+      "text": "Furthermore, law abiding citizens can sell their guns to criminals in private transactions. In these transactions, the purchaser is not required to pass a background check so how can the seller be sure whether or not the buyer has a criminal history?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:31"
+    },
+    {
+      "nodeID": "157094",
+      "text": "So ban guns? That is like curing the headache by cutting off the head. Why not make it a crime to sell a gun privately. Perhaps make it a legal requirement to go to a licensed firearms dealer who at no charge to the parties other than the cost of the background check run the potential buyer through the database. I would certainly be willing to do this. As a responsible gun owner, I would hate to think that the firearm I was going to sell to someone might be going to a felon, or someone likely to use it to commit a crime.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:31"
+    },
+    {
+      "nodeID": "157095",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:27:31"
+    },
+    {
+      "nodeID": "157096",
+      "text": "In a moment of extreme stress, a previously law abiding citizen might commit an act of violence with his or her firearm.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:32"
+    },
+    {
+      "nodeID": "157097",
+      "text": "Yes, everyone is a 'potential' felon. Fortunately most people never commit a felony. And there are many different types of weapons, all which could be used by previously law abiding citizens to commit an act of violence.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:32"
+    },
+    {
+      "nodeID": "157098",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:27:32"
+    },
+    {
+      "nodeID": "157099",
+      "text": "Why not make it a crime to sell a gun privately.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:32"
+    },
+    {
+      "nodeID": "157100",
+      "text": "Because that's the kind of thing Big Brother would do. Firearms are property, and IMHO a restriction such as that is too much.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:32"
+    },
+    {
+      "nodeID": "157101",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:27:32"
+    },
+    {
+      "nodeID": "157102",
+      "text": "What the hell is with the necro-posting?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:32"
+    },
+    {
+      "nodeID": "157103",
+      "text": "You know how those anti-gunners are?they just kinda get stuck in that same old revolving door.Can't come up with anything new so they rehash.:xbanghead",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:32"
+    },
+    {
+      "nodeID": "157104",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:27:32"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195494",
+      "fromID": "157094",
+      "toID": "157095",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195495",
+      "fromID": "157095",
+      "toID": "157093",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195496",
+      "fromID": "157097",
+      "toID": "157098",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195497",
+      "fromID": "157098",
+      "toID": "157096",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195498",
+      "fromID": "157100",
+      "toID": "157101",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195499",
+      "fromID": "157101",
+      "toID": "157099",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195500",
+      "fromID": "157103",
+      "toID": "157104",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195501",
+      "fromID": "157104",
+      "toID": "157102",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

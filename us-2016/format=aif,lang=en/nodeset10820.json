@@ -1,0 +1,1576 @@
+{
+  "nodes": [
+    {
+      "nodeID": "240681",
+      "text": "COOPER : Senator Sanders",
+      "type": "L",
+      "timestamp": "2016-11-10 18:34:23"
+    },
+    {
+      "nodeID": "248753",
+      "text": "COOPER : Senator Webb",
+      "type": "L",
+      "timestamp": "2016-12-21 14:44:36"
+    },
+    {
+      "nodeID": "249559",
+      "text": "Barbara: COOPER : Senator Sanders",
+      "type": "L",
+      "timestamp": "2016-12-21 14:50:19"
+    },
+    {
+      "nodeID": "249598",
+      "text": "COOPER : Governor O'Malley",
+      "type": "L",
+      "timestamp": "2016-12-21 14:50:23"
+    },
+    {
+      "nodeID": "249601",
+      "text": "Barbara: COOPER : Governor O'Malley",
+      "type": "L",
+      "timestamp": "2016-12-21 14:50:23"
+    },
+    {
+      "nodeID": "249864",
+      "text": "ROOSEVELT : I ask you to judge me by the enemies I have made",
+      "type": "L",
+      "timestamp": "2016-12-21 14:52:12"
+    },
+    {
+      "nodeID": "249865",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:52:12",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249866",
+      "text": "I ask you to judge me by the enemies I have made",
+      "type": "I",
+      "timestamp": "2016-12-21 14:52:12"
+    },
+    {
+      "nodeID": "249867",
+      "text": "Barbara: ROOSEVELT : I ask you to judge me by the enemies I have made",
+      "type": "L",
+      "timestamp": "2016-12-21 14:52:13"
+    },
+    {
+      "nodeID": "249868",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:52:13",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249869",
+      "text": "COOPER : ROOSEVELT : I ask you to judge me by the enemies I have made",
+      "type": "L",
+      "timestamp": "2016-12-21 14:52:13"
+    },
+    {
+      "nodeID": "249870",
+      "text": "Barbara: COOPER : ROOSEVELT : I ask you to judge me by the enemies I have made",
+      "type": "L",
+      "timestamp": "2016-12-21 14:52:13"
+    },
+    {
+      "nodeID": "249871",
+      "text": "you've all made a few people upset over your political careers",
+      "type": "I",
+      "timestamp": "2016-12-21 14:52:13"
+    },
+    {
+      "nodeID": "249872",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:52:13",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249873",
+      "text": "COOPER : You've all made a few people upset over your political careers",
+      "type": "L",
+      "timestamp": "2016-12-21 14:52:13"
+    },
+    {
+      "nodeID": "249874",
+      "text": "Barbara: COOPER : You've all made a few people upset over your political careers",
+      "type": "L",
+      "timestamp": "2016-12-21 14:52:13"
+    },
+    {
+      "nodeID": "249875",
+      "text": "CHAFEE is most proud of enemy xxx",
+      "type": "I",
+      "timestamp": "2016-12-21 14:52:13"
+    },
+    {
+      "nodeID": "249876",
+      "text": "Pure Questioning",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:52:13",
+      "scheme": "PureQuestioning",
+      "schemeID": "91"
+    },
+    {
+      "nodeID": "249877",
+      "text": "COOPER : Which enemy are you most proud of",
+      "type": "L",
+      "timestamp": "2016-12-21 14:52:14"
+    },
+    {
+      "nodeID": "249878",
+      "text": "Barbara: COOPER : Which enemy are you most proud of",
+      "type": "L",
+      "timestamp": "2016-12-21 14:52:14"
+    },
+    {
+      "nodeID": "249879",
+      "text": "the coal lobby",
+      "type": "I",
+      "timestamp": "2016-12-21 14:52:14"
+    },
+    {
+      "nodeID": "249880",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:52:14",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249881",
+      "text": "CHAFEE : the coal lobby",
+      "type": "L",
+      "timestamp": "2016-12-21 14:52:14"
+    },
+    {
+      "nodeID": "249882",
+      "text": "Barbara: CHAFEE : the coal lobby",
+      "type": "L",
+      "timestamp": "2016-12-21 14:52:14"
+    },
+    {
+      "nodeID": "249883",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-12-21 14:52:14",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "249884",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:52:14",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249885",
+      "text": "Default Illocuting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:52:14",
+      "scheme": "Default Illocuting",
+      "schemeID": "168"
+    },
+    {
+      "nodeID": "249886",
+      "text": "CHAFEE : I've worked hard for climate change",
+      "type": "L",
+      "timestamp": "2016-12-21 14:52:15"
+    },
+    {
+      "nodeID": "249887",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:52:15",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249888",
+      "text": "CHAFEE worked hard for climate change",
+      "type": "I",
+      "timestamp": "2016-12-21 14:52:15"
+    },
+    {
+      "nodeID": "249889",
+      "text": "Barbara: CHAFEE : I've worked hard for climate change",
+      "type": "L",
+      "timestamp": "2016-12-21 14:52:15"
+    },
+    {
+      "nodeID": "249890",
+      "text": "CHAFEE :  I want to work with the coal lobby",
+      "type": "L",
+      "timestamp": "2016-12-21 14:52:15"
+    },
+    {
+      "nodeID": "249891",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:52:15",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249892",
+      "text": "CHAFEE wants to work with the coal lobby",
+      "type": "I",
+      "timestamp": "2016-12-21 14:52:15"
+    },
+    {
+      "nodeID": "249893",
+      "text": "Barbara: CHAFEE :  I want to work with the coal lobby",
+      "type": "L",
+      "timestamp": "2016-12-21 14:52:15"
+    },
+    {
+      "nodeID": "249894",
+      "text": "CHAFEE : in my time in the Senate, tried to bring them to the table",
+      "type": "L",
+      "timestamp": "2016-12-21 14:52:15"
+    },
+    {
+      "nodeID": "249895",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:52:16",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249896",
+      "text": "in his time in the Senate, CHAFEE tried to bring the coal lobby to the table",
+      "type": "I",
+      "timestamp": "2016-12-21 14:52:16"
+    },
+    {
+      "nodeID": "249897",
+      "text": "Barbara: CHAFEE : in my time in the Senate, tried to bring them to the table",
+      "type": "L",
+      "timestamp": "2016-12-21 14:52:16"
+    },
+    {
+      "nodeID": "249898",
+      "text": "CHAFEE : we could address carbon dioxide",
+      "type": "L",
+      "timestamp": "2016-12-21 14:52:16"
+    },
+    {
+      "nodeID": "249899",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:52:16",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249900",
+      "text": "we could address carbon dioxide",
+      "type": "I",
+      "timestamp": "2016-12-21 14:52:16"
+    },
+    {
+      "nodeID": "249901",
+      "text": "Barbara: CHAFEE : we could address carbon dioxide",
+      "type": "L",
+      "timestamp": "2016-12-21 14:52:16"
+    },
+    {
+      "nodeID": "249902",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:52:16",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249903",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 14:52:16",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "249904",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:52:17",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "249905",
+      "text": "CHAFEE : I'm proud to be at odds with the coal lobby",
+      "type": "L",
+      "timestamp": "2016-12-21 14:52:17"
+    },
+    {
+      "nodeID": "249906",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:52:17",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249907",
+      "text": "CHAFEE is proud to be at odds with the coal lobby",
+      "type": "I",
+      "timestamp": "2016-12-21 14:52:17"
+    },
+    {
+      "nodeID": "249908",
+      "text": "Barbara: CHAFEE : I'm proud to be at odds with the coal lobby",
+      "type": "L",
+      "timestamp": "2016-12-21 14:52:17"
+    },
+    {
+      "nodeID": "249909",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 14:52:17",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "249910",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:52:17",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249911",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:52:17",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "249912",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 14:52:17",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "249913",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:52:18",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249914",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:52:18",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "249915",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:52:18",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249916",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:52:18",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249917",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-12-21 14:52:18",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "249918",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:52:18",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249919",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:52:18",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "249920",
+      "text": "Pure Questioning",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:52:18",
+      "scheme": "PureQuestioning",
+      "schemeID": "91"
+    },
+    {
+      "nodeID": "249921",
+      "text": "O'MALLEY is most proud of enemy xxx",
+      "type": "I",
+      "timestamp": "2016-12-21 14:52:19"
+    },
+    {
+      "nodeID": "249922",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:52:19",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249923",
+      "text": "O'MALLEY : The National Rifle Association",
+      "type": "L",
+      "timestamp": "2016-12-21 14:52:19"
+    },
+    {
+      "nodeID": "249924",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:52:19",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249925",
+      "text": "The National Rifle Association",
+      "type": "I",
+      "timestamp": "2016-12-21 14:52:19"
+    },
+    {
+      "nodeID": "249926",
+      "text": "Barbara: O'MALLEY : The National Rifle Association",
+      "type": "L",
+      "timestamp": "2016-12-21 14:52:19"
+    },
+    {
+      "nodeID": "249927",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-12-21 14:52:19",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "249928",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:52:19",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249929",
+      "text": "Default Illocuting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:52:20",
+      "scheme": "Default Illocuting",
+      "schemeID": "168"
+    },
+    {
+      "nodeID": "249930",
+      "text": "COOPER : Secretary Clinton",
+      "type": "L",
+      "timestamp": "2016-12-21 14:52:20"
+    },
+    {
+      "nodeID": "249931",
+      "text": "Pure Questioning",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:52:20",
+      "scheme": "PureQuestioning",
+      "schemeID": "91"
+    },
+    {
+      "nodeID": "249932",
+      "text": "CLINTON is most proud of enemy xxx",
+      "type": "I",
+      "timestamp": "2016-12-21 14:52:20"
+    },
+    {
+      "nodeID": "249933",
+      "text": "Barbara: COOPER : Secretary Clinton",
+      "type": "L",
+      "timestamp": "2016-12-21 14:52:20"
+    },
+    {
+      "nodeID": "249934",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:52:20",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249935",
+      "text": "CLINTON : the NRA, the health insurance companies, the drug companies, the Iranians.  Probably the Republicans",
+      "type": "L",
+      "timestamp": "2016-12-21 14:52:20"
+    },
+    {
+      "nodeID": "249936",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:52:20",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249937",
+      "text": "the NRA,  the health insurance companies, the drug companies, the Iranians, probably the Republicans",
+      "type": "I",
+      "timestamp": "2016-12-21 14:52:20"
+    },
+    {
+      "nodeID": "249938",
+      "text": "Barbara: CLINTON : the NRA",
+      "type": "L",
+      "timestamp": "2016-12-21 14:52:20"
+    },
+    {
+      "nodeID": "249939",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-12-21 14:52:21",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "249940",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:52:21",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249941",
+      "text": "Default Illocuting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:52:21",
+      "scheme": "Default Illocuting",
+      "schemeID": "168"
+    },
+    {
+      "nodeID": "249942",
+      "text": "the health insurance companies, the drug companies, the Iranians Probably the Republicans",
+      "type": "L",
+      "timestamp": "2016-12-21 14:52:21"
+    },
+    {
+      "nodeID": "249943",
+      "text": "SANDERS is most proud of enemy xxx",
+      "type": "I",
+      "timestamp": "2016-12-21 14:52:21"
+    },
+    {
+      "nodeID": "249944",
+      "text": "Pure Questioning",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:52:21",
+      "scheme": "PureQuestioning",
+      "schemeID": "91"
+    },
+    {
+      "nodeID": "249945",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:52:21",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249946",
+      "text": "SANDERS : someone who has taken on probably every special interest that there is in Washington",
+      "type": "L",
+      "timestamp": "2016-12-21 14:52:22"
+    },
+    {
+      "nodeID": "249947",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:52:22",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249948",
+      "text": "SANDERS is someone who has taken on probably every special interest that there is in Washington",
+      "type": "I",
+      "timestamp": "2016-12-21 14:52:22"
+    },
+    {
+      "nodeID": "249949",
+      "text": "Barbara: SANDERS : someone who has taken on probably every special interest that there is in Washington",
+      "type": "L",
+      "timestamp": "2016-12-21 14:52:22"
+    },
+    {
+      "nodeID": "249950",
+      "text": "SANDERS : would lump Wall Street and the pharmaceutical industry at the top of my life of people who do not like me",
+      "type": "L",
+      "timestamp": "2016-12-21 14:52:22"
+    },
+    {
+      "nodeID": "249951",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:52:22",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249952",
+      "text": "SANDERS would lump Wall Street and the pharmaceutical industry at the top of my life of people who do not like SANDERS",
+      "type": "I",
+      "timestamp": "2016-12-21 14:52:22"
+    },
+    {
+      "nodeID": "249953",
+      "text": "Barbara: SANDERS : would lump Wall Street and the pharmaceutical industry at the top of my life of people who do not like me",
+      "type": "L",
+      "timestamp": "2016-12-21 14:52:22"
+    },
+    {
+      "nodeID": "249954",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-12-21 14:52:22",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "249955",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:52:23",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249956",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:52:23",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "249957",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-12-21 14:52:23",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "249958",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:52:23",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249959",
+      "text": "Default Illocuting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:52:23",
+      "scheme": "Default Illocuting",
+      "schemeID": "168"
+    },
+    {
+      "nodeID": "249960",
+      "text": "Pure Questioning",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:52:23",
+      "scheme": "PureQuestioning",
+      "schemeID": "91"
+    },
+    {
+      "nodeID": "249961",
+      "text": "WEBB is most proud of enemy xxx",
+      "type": "I",
+      "timestamp": "2016-12-21 14:52:23"
+    },
+    {
+      "nodeID": "249962",
+      "text": "Barbara: COOPER : Senator Webb",
+      "type": "L",
+      "timestamp": "2016-12-21 14:52:23"
+    },
+    {
+      "nodeID": "249963",
+      "text": "WEBB : the enemy soldier that threw the grenade that wounded me",
+      "type": "L",
+      "timestamp": "2016-12-21 14:52:23"
+    },
+    {
+      "nodeID": "249964",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:52:24",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249965",
+      "text": "the enemy soldier that threw the grenade that wounded WEBB",
+      "type": "I",
+      "timestamp": "2016-12-21 14:52:24"
+    },
+    {
+      "nodeID": "249966",
+      "text": "Barbara: WEBB : the enemy soldier that threw the grenade that wounded me, but he's not around right now to talk to",
+      "type": "L",
+      "timestamp": "2016-12-21 14:52:24"
+    },
+    {
+      "nodeID": "249967",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:52:24",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249968",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2016-12-21 14:52:24",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "249969",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:52:24",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "249970",
+      "text": "Default Illocuting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:52:24",
+      "scheme": "Default Illocuting",
+      "schemeID": "168"
+    },
+    {
+      "nodeID": "249971",
+      "text": "WEBB : he's not around right now to talk to",
+      "type": "L",
+      "timestamp": "2016-12-21 14:52:24"
+    },
+    {
+      "nodeID": "249972",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-12-21 14:52:24",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "249973",
+      "text": "he's not around right now to talk to",
+      "type": "I",
+      "timestamp": "2016-12-21 14:52:25"
+    },
+    {
+      "nodeID": "249974",
+      "text": "Barbara: WEBB : I'd have to say",
+      "type": "L",
+      "timestamp": "2016-12-21 14:52:25"
+    },
+    {
+      "nodeID": "249975",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-12-21 14:52:25",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "301325",
+      "fromID": "249865",
+      "toID": "249866",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301326",
+      "fromID": "249864",
+      "toID": "249865",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301327",
+      "fromID": "249868",
+      "toID": "249864",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301328",
+      "fromID": "249869",
+      "toID": "249868",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301329",
+      "fromID": "249872",
+      "toID": "249871",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301330",
+      "fromID": "249873",
+      "toID": "249872",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301331",
+      "fromID": "249876",
+      "toID": "249875",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301332",
+      "fromID": "249877",
+      "toID": "249876",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301333",
+      "fromID": "249880",
+      "toID": "249879",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301334",
+      "fromID": "249881",
+      "toID": "249880",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301335",
+      "fromID": "249879",
+      "toID": "249883",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301336",
+      "fromID": "249883",
+      "toID": "249875",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301337",
+      "fromID": "249877",
+      "toID": "249884",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301338",
+      "fromID": "249884",
+      "toID": "249881",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301339",
+      "fromID": "249884",
+      "toID": "249885",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301340",
+      "fromID": "249885",
+      "toID": "249883",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301341",
+      "fromID": "249887",
+      "toID": "249888",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301342",
+      "fromID": "249886",
+      "toID": "249887",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301343",
+      "fromID": "249891",
+      "toID": "249892",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301344",
+      "fromID": "249890",
+      "toID": "249891",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301345",
+      "fromID": "249895",
+      "toID": "249896",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301346",
+      "fromID": "249894",
+      "toID": "249895",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301347",
+      "fromID": "249899",
+      "toID": "249900",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301348",
+      "fromID": "249898",
+      "toID": "249899",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301349",
+      "fromID": "249894",
+      "toID": "249902",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301350",
+      "fromID": "249902",
+      "toID": "249898",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301351",
+      "fromID": "249900",
+      "toID": "249903",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301352",
+      "fromID": "249903",
+      "toID": "249896",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301353",
+      "fromID": "249902",
+      "toID": "249904",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301354",
+      "fromID": "249904",
+      "toID": "249903",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301355",
+      "fromID": "249906",
+      "toID": "249907",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301356",
+      "fromID": "249905",
+      "toID": "249906",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301357",
+      "fromID": "249888",
+      "toID": "249909",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301358",
+      "fromID": "249909",
+      "toID": "249879",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301359",
+      "fromID": "249881",
+      "toID": "249910",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301360",
+      "fromID": "249910",
+      "toID": "249886",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301361",
+      "fromID": "249910",
+      "toID": "249911",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301362",
+      "fromID": "249911",
+      "toID": "249909",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301363",
+      "fromID": "249896",
+      "toID": "249912",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301364",
+      "fromID": "249912",
+      "toID": "249879",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301365",
+      "fromID": "249892",
+      "toID": "249912",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301366",
+      "fromID": "249881",
+      "toID": "249913",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301367",
+      "fromID": "249913",
+      "toID": "249894",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301368",
+      "fromID": "249913",
+      "toID": "249886",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301369",
+      "fromID": "249913",
+      "toID": "249914",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301370",
+      "fromID": "249914",
+      "toID": "249912",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301371",
+      "fromID": "249869",
+      "toID": "249915",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301372",
+      "fromID": "249915",
+      "toID": "249873",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301373",
+      "fromID": "249873",
+      "toID": "249916",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301374",
+      "fromID": "249916",
+      "toID": "249877",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301375",
+      "fromID": "249907",
+      "toID": "249917",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301376",
+      "fromID": "249917",
+      "toID": "249879",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301377",
+      "fromID": "249881",
+      "toID": "249918",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301378",
+      "fromID": "249918",
+      "toID": "249905",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301379",
+      "fromID": "249918",
+      "toID": "249919",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301380",
+      "fromID": "249919",
+      "toID": "249917",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301381",
+      "fromID": "249920",
+      "toID": "249921",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301382",
+      "fromID": "249598",
+      "toID": "249920",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301383",
+      "fromID": "249905",
+      "toID": "249922",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301384",
+      "fromID": "249922",
+      "toID": "249598",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301385",
+      "fromID": "249924",
+      "toID": "249925",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301386",
+      "fromID": "249923",
+      "toID": "249924",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301387",
+      "fromID": "249925",
+      "toID": "249927",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301388",
+      "fromID": "249927",
+      "toID": "249921",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301389",
+      "fromID": "249598",
+      "toID": "249928",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301390",
+      "fromID": "249928",
+      "toID": "249923",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301391",
+      "fromID": "249928",
+      "toID": "249929",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301392",
+      "fromID": "249929",
+      "toID": "249927",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301393",
+      "fromID": "249931",
+      "toID": "249932",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301394",
+      "fromID": "249930",
+      "toID": "249931",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301395",
+      "fromID": "249923",
+      "toID": "249934",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301396",
+      "fromID": "249934",
+      "toID": "249930",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301397",
+      "fromID": "249936",
+      "toID": "249937",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301398",
+      "fromID": "249935",
+      "toID": "249936",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301399",
+      "fromID": "249937",
+      "toID": "249939",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301400",
+      "fromID": "249939",
+      "toID": "249932",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301401",
+      "fromID": "249930",
+      "toID": "249940",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301402",
+      "fromID": "249940",
+      "toID": "249935",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301403",
+      "fromID": "249940",
+      "toID": "249941",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301404",
+      "fromID": "249941",
+      "toID": "249939",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301405",
+      "fromID": "249944",
+      "toID": "249943",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301406",
+      "fromID": "240681",
+      "toID": "249944",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301407",
+      "fromID": "249935",
+      "toID": "249945",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301408",
+      "fromID": "249945",
+      "toID": "240681",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301409",
+      "fromID": "249947",
+      "toID": "249948",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301410",
+      "fromID": "249946",
+      "toID": "249947",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301411",
+      "fromID": "249951",
+      "toID": "249952",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301412",
+      "fromID": "249950",
+      "toID": "249951",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301413",
+      "fromID": "249948",
+      "toID": "249954",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301414",
+      "fromID": "249954",
+      "toID": "249952",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301415",
+      "fromID": "249946",
+      "toID": "249955",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301416",
+      "fromID": "249955",
+      "toID": "249950",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301417",
+      "fromID": "249955",
+      "toID": "249956",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301418",
+      "fromID": "249956",
+      "toID": "249954",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301419",
+      "fromID": "249952",
+      "toID": "249957",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301420",
+      "fromID": "249957",
+      "toID": "249943",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301421",
+      "fromID": "240681",
+      "toID": "249958",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301422",
+      "fromID": "249958",
+      "toID": "249950",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301423",
+      "fromID": "249958",
+      "toID": "249959",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301424",
+      "fromID": "249959",
+      "toID": "249957",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301425",
+      "fromID": "249960",
+      "toID": "249961",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301426",
+      "fromID": "248753",
+      "toID": "249960",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301427",
+      "fromID": "249964",
+      "toID": "249965",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301428",
+      "fromID": "249963",
+      "toID": "249964",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301429",
+      "fromID": "249950",
+      "toID": "249967",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301430",
+      "fromID": "249967",
+      "toID": "248753",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301431",
+      "fromID": "249965",
+      "toID": "249968",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301432",
+      "fromID": "249968",
+      "toID": "249961",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301433",
+      "fromID": "248753",
+      "toID": "249969",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301434",
+      "fromID": "249969",
+      "toID": "249963",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301435",
+      "fromID": "249969",
+      "toID": "249970",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301436",
+      "fromID": "249970",
+      "toID": "249968",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301437",
+      "fromID": "249972",
+      "toID": "249973",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301438",
+      "fromID": "249971",
+      "toID": "249972",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301439",
+      "fromID": "249963",
+      "toID": "249975",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "301440",
+      "fromID": "249975",
+      "toID": "249971",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "249869",
+      "personID": "1852",
+      "timestamp": "2016-12-21 14:52:32",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "249873",
+      "personID": "1852",
+      "timestamp": "2016-12-21 14:52:32",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "249877",
+      "personID": "1852",
+      "timestamp": "2016-12-21 14:52:32",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "249881",
+      "personID": "1853",
+      "timestamp": "2016-12-21 14:52:32",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "240681",
+      "personID": "1852",
+      "timestamp": "2016-12-21 14:52:32",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "240681",
+      "personID": "0",
+      "timestamp": "2017-11-29 14:50:55",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "240681",
+      "personID": "0",
+      "timestamp": "2017-12-01 14:52:17",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

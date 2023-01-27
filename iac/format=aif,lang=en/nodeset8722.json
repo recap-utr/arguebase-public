@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "161800",
+      "text": "Wars still constitute competition within the species.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:24"
+    },
+    {
+      "nodeID": "161801",
+      "text": "The question is: To what degree do wars cull out particular genes as opposed to ideas? Another thing to consider is not who is getting killed, but who is being born. Unless, something is done about the niche, it will just get filled again by whoever was decimated. Compare: Germans (hypothetically) settling in the Ukraine versus the US bombing of Hiroshima (which was not then settled by the US). Consistent genetic pressure is really key.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:38:24"
+    },
+    {
+      "nodeID": "161802",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:38:24"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "198866",
+      "fromID": "161801",
+      "toID": "161802",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "198867",
+      "fromID": "161802",
+      "toID": "161800",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

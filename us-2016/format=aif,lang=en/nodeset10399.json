@@ -1,0 +1,646 @@
+{
+  "nodes": [
+    {
+      "nodeID": "211448",
+      "text": "CHRISTIE : 71%",
+      "type": "L",
+      "timestamp": "2016-10-31 17:06:09"
+    },
+    {
+      "nodeID": "211449",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:06:09",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211450",
+      "text": "71%",
+      "type": "I",
+      "timestamp": "2016-10-31 17:06:09"
+    },
+    {
+      "nodeID": "211451",
+      "text": "Rory: CHRISTIE : 71%",
+      "type": "L",
+      "timestamp": "2016-10-31 17:06:10"
+    },
+    {
+      "nodeID": "211452",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:06:10",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211453",
+      "text": "prophetofgreed : 71%",
+      "type": "L",
+      "timestamp": "2016-10-31 17:06:10"
+    },
+    {
+      "nodeID": "211454",
+      "text": "Rory: prophetofgreed : CHRISTIE : 71%",
+      "type": "L",
+      "timestamp": "2016-10-31 17:06:10"
+    },
+    {
+      "nodeID": "211455",
+      "text": "prophetofgreed : I heavily doubt that Christie",
+      "type": "L",
+      "timestamp": "2016-10-31 17:06:10"
+    },
+    {
+      "nodeID": "211456",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:06:10",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211457",
+      "text": "I heavily doubt that CHRISTIE",
+      "type": "I",
+      "timestamp": "2016-10-31 17:06:10"
+    },
+    {
+      "nodeID": "211458",
+      "text": "Rory: prophetofgreed : I heavily doubt that Christie",
+      "type": "L",
+      "timestamp": "2016-10-31 17:06:10"
+    },
+    {
+      "nodeID": "211459",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:06:10",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211460",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-10-31 17:06:10",
+      "scheme": "Default Conflict",
+      "schemeID": "71"
+    },
+    {
+      "nodeID": "211461",
+      "text": "Disagreeing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:06:10",
+      "scheme": "Disagreeing",
+      "schemeID": "78"
+    },
+    {
+      "nodeID": "211462",
+      "text": "Topper2676 : Yeah especially with the military",
+      "type": "L",
+      "timestamp": "2016-10-31 17:06:11"
+    },
+    {
+      "nodeID": "211463",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:06:11",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211464",
+      "text": "Yeah especially with the military",
+      "type": "I",
+      "timestamp": "2016-10-31 17:06:11"
+    },
+    {
+      "nodeID": "211465",
+      "text": "Rory: Topper2676 : Yeah especially with the military",
+      "type": "L",
+      "timestamp": "2016-10-31 17:06:11"
+    },
+    {
+      "nodeID": "211466",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:06:11",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211467",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 17:06:11",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "211468",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:06:11",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "211469",
+      "text": "Only if he's including, perhaps, payments to vets",
+      "type": "L",
+      "timestamp": "2016-10-31 17:06:11"
+    },
+    {
+      "nodeID": "211470",
+      "text": "Rory: arizonabob : Default Transition",
+      "type": "L",
+      "timestamp": "2016-10-31 17:06:11"
+    },
+    {
+      "nodeID": "211471",
+      "text": "arizonabob : Only if he's including, perhaps, payments to vets",
+      "type": "L",
+      "timestamp": "2016-10-31 17:06:11"
+    },
+    {
+      "nodeID": "211472",
+      "text": "Assertive Questioning",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:06:11",
+      "scheme": "AssertiveQuestioning",
+      "schemeID": "73"
+    },
+    {
+      "nodeID": "211473",
+      "text": "Only if CHRISTIE's including, perhaps, payments to vets",
+      "type": "I",
+      "timestamp": "2016-10-31 17:06:12"
+    },
+    {
+      "nodeID": "211474",
+      "text": "Rory: arizonabob : Only if he's including, perhaps, payments to vets",
+      "type": "L",
+      "timestamp": "2016-10-31 17:06:12"
+    },
+    {
+      "nodeID": "211475",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:06:12",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211476",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 17:06:12",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "211477",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:06:12",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "211478",
+      "text": "alwaysreadthename : Of all government spending",
+      "type": "L",
+      "timestamp": "2016-10-31 17:06:12"
+    },
+    {
+      "nodeID": "211479",
+      "text": "Assertive Questioning",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:06:12",
+      "scheme": "AssertiveQuestioning",
+      "schemeID": "73"
+    },
+    {
+      "nodeID": "211480",
+      "text": "Of all government spending",
+      "type": "I",
+      "timestamp": "2016-10-31 17:06:12"
+    },
+    {
+      "nodeID": "211481",
+      "text": "Rory: alwaysreadthename : Of all government spending",
+      "type": "L",
+      "timestamp": "2016-10-31 17:06:12"
+    },
+    {
+      "nodeID": "211482",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:06:12",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211483",
+      "text": "desert_wombat : This would indicate 66%, not far off",
+      "type": "L",
+      "timestamp": "2016-10-31 17:06:12"
+    },
+    {
+      "nodeID": "211484",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:06:13",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211485",
+      "text": "This would indicate 66%, not far off",
+      "type": "I",
+      "timestamp": "2016-10-31 17:06:13"
+    },
+    {
+      "nodeID": "211486",
+      "text": "Rory: desert_wombat : This would indicate 66%, not far off",
+      "type": "L",
+      "timestamp": "2016-10-31 17:06:13"
+    },
+    {
+      "nodeID": "211487",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:06:13",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211488",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 17:06:13",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "211489",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:06:13",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "211490",
+      "text": "desert_wombat : https://en.wikipedia.org/wiki/File:U.S._Federal_Spending_-_FY_2011.png",
+      "type": "L",
+      "timestamp": "2016-10-31 17:06:13"
+    },
+    {
+      "nodeID": "211491",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:06:13",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "211492",
+      "text": "https://en.wikipedia.org/wiki/File:U.S._Federal_Spending_-_FY_2011.png",
+      "type": "I",
+      "timestamp": "2016-10-31 17:06:13"
+    },
+    {
+      "nodeID": "211493",
+      "text": "Rory: desert_wombat : https://en.wikipedia.org/wiki/File:U.S._Federal_Spending_-_FY_2011.png",
+      "type": "L",
+      "timestamp": "2016-10-31 17:06:13"
+    },
+    {
+      "nodeID": "211494",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2016-10-31 17:06:13",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "211495",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-10-31 17:06:14",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "211496",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2016-10-31 17:06:14",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "258003",
+      "fromID": "211449",
+      "toID": "211450",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258004",
+      "fromID": "211448",
+      "toID": "211449",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258005",
+      "fromID": "211452",
+      "toID": "211448",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258006",
+      "fromID": "211453",
+      "toID": "211452",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258007",
+      "fromID": "211456",
+      "toID": "211457",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258008",
+      "fromID": "211455",
+      "toID": "211456",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258009",
+      "fromID": "211453",
+      "toID": "211459",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258010",
+      "fromID": "211459",
+      "toID": "211455",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258011",
+      "fromID": "211457",
+      "toID": "211460",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258012",
+      "fromID": "211460",
+      "toID": "211450",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258013",
+      "fromID": "211459",
+      "toID": "211461",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258014",
+      "fromID": "211461",
+      "toID": "211460",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258015",
+      "fromID": "211463",
+      "toID": "211464",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258016",
+      "fromID": "211462",
+      "toID": "211463",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258017",
+      "fromID": "211455",
+      "toID": "211466",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258018",
+      "fromID": "211466",
+      "toID": "211462",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258019",
+      "fromID": "211464",
+      "toID": "211467",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258020",
+      "fromID": "211467",
+      "toID": "211457",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258021",
+      "fromID": "211466",
+      "toID": "211468",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258022",
+      "fromID": "211468",
+      "toID": "211467",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258023",
+      "fromID": "211472",
+      "toID": "211473",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258024",
+      "fromID": "211471",
+      "toID": "211472",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258025",
+      "fromID": "211455",
+      "toID": "211475",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258026",
+      "fromID": "211475",
+      "toID": "211471",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258027",
+      "fromID": "211473",
+      "toID": "211476",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258028",
+      "fromID": "211476",
+      "toID": "211457",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258029",
+      "fromID": "211475",
+      "toID": "211477",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258030",
+      "fromID": "211477",
+      "toID": "211476",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258031",
+      "fromID": "211479",
+      "toID": "211480",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258032",
+      "fromID": "211478",
+      "toID": "211479",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258033",
+      "fromID": "211453",
+      "toID": "211482",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258034",
+      "fromID": "211482",
+      "toID": "211478",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258035",
+      "fromID": "211484",
+      "toID": "211485",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258036",
+      "fromID": "211483",
+      "toID": "211484",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258037",
+      "fromID": "211455",
+      "toID": "211487",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258038",
+      "fromID": "211487",
+      "toID": "211483",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258039",
+      "fromID": "211485",
+      "toID": "211488",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258040",
+      "fromID": "211488",
+      "toID": "211457",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258041",
+      "fromID": "211487",
+      "toID": "211489",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258042",
+      "fromID": "211489",
+      "toID": "211488",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258043",
+      "fromID": "211491",
+      "toID": "211492",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258044",
+      "fromID": "211490",
+      "toID": "211491",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258045",
+      "fromID": "211483",
+      "toID": "211494",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258046",
+      "fromID": "211494",
+      "toID": "211490",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258047",
+      "fromID": "211492",
+      "toID": "211495",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258048",
+      "fromID": "211495",
+      "toID": "211485",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258049",
+      "fromID": "211494",
+      "toID": "211496",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "258050",
+      "fromID": "211496",
+      "toID": "211495",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "211453",
+      "personID": "2617",
+      "timestamp": "2016-10-31 17:06:16",
+      "start": null,
+      "end": null,
+      "source": null
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "nodes": [
+    {
+      "nodeID": "147283",
+      "text": "as for the proof, its really not a proof at all. if God is defined as a perfect being in reality, that does not mean that God exists. if i define a ufo as a flying spacecraft from another planet in reality, that does not make such things exist. its just a definition. i really dont see how that can be even considered a proof basically, the definition: 'a being possessing every perfection and every positive attribute' is not a true definition, because both perfection and positive attributes are subjective. so theres really nothing to work with here God, by this definition, doesnt exist",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:56"
+    },
+    {
+      "nodeID": "147284",
+      "text": "Well, according to Descartes, if I have an idea of a most perfect being, I shall distinctly perceive that such a being must contain all perfections - including reality in every degree. So this idea also contains existence. God's essence is to exist, and of no other thing can this be said. (Existence in everything else being contingent.)  To refute these arguments, and some philosophers doubt they can be refuted, I think you will need to take another tack.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:56"
+    },
+    {
+      "nodeID": "147285",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:05:56"
+    },
+    {
+      "nodeID": "147286",
+      "text": "What you say about a nose is of course an aesthetic judgment and entirely subjective. But we are not talking about noses here; it's the idea of perfection we have in focus. Ideas are internal to the thinker and it is merely our judgment that relates to the external world. So we could have a perfect idea of a perfect being but still have faults in our judgement. Having an idea of perfection does not imply that the thinker is perfect in some way.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:56"
+    },
+    {
+      "nodeID": "147287",
+      "text": "yes, and i suppose an idea of perfection can exist, in a thinker's mind, and subjective to the thinker's standards of perfection. i could also point out that an imperfect thinker, with no reference or standard of 'objective' perfection, is incapable of having a perfect idea of anything. therefore the argument falls apart at the first premise, since an 'idea of perfection' cannot exist, unless the thinker himself is perfect, which would make him God by his own definition.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:05:56"
+    },
+    {
+      "nodeID": "147288",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:05:56"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "188572",
+      "fromID": "147284",
+      "toID": "147285",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188573",
+      "fromID": "147285",
+      "toID": "147283",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188574",
+      "fromID": "147287",
+      "toID": "147288",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "188575",
+      "fromID": "147288",
+      "toID": "147286",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

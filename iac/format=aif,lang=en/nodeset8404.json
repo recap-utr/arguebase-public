@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "nodeID": "156961",
+      "text": "Is marriage a civil right or a religious right?",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:16"
+    },
+    {
+      "nodeID": "156962",
+      "text": "I believe the OP misspoke; I *think* the question ought to have been 'Is marriage a civil or religious rite?'. Hopefully they can post back and confirm.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:16"
+    },
+    {
+      "nodeID": "156963",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:27:16"
+    },
+    {
+      "nodeID": "156964",
+      "text": "Gay marriage is outlawed in Texas and many other states. It's not a 'right' around these parts, and never will be.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:16"
+    },
+    {
+      "nodeID": "156965",
+      "text": "Actually, gay marriages will probably be recognized everywhere in the US within a decade or so. They may not be performed everywhere, but they will be recognized.",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:17"
+    },
+    {
+      "nodeID": "156966",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2016-03-08 20:27:17"
+    },
+    {
+      "nodeID": "156967",
+      "text": "Hey Monster, go to www.atheists.org/nogodblog and scroll down until you see the picture of Bush. He has a message for you emoticon_xangel",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:17"
+    },
+    {
+      "nodeID": "156968",
+      "text": "Yes he is telling me: 'This is what I am doing to my dog, and what I have been up to all this time as your president.'",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:17"
+    },
+    {
+      "nodeID": "156969",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:27:17"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195394",
+      "fromID": "156962",
+      "toID": "156963",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195395",
+      "fromID": "156963",
+      "toID": "156961",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195396",
+      "fromID": "156965",
+      "toID": "156966",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195397",
+      "fromID": "156966",
+      "toID": "156964",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195398",
+      "fromID": "156968",
+      "toID": "156969",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195399",
+      "fromID": "156969",
+      "toID": "156967",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}

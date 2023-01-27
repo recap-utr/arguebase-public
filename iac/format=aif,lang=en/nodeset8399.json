@@ -1,0 +1,37 @@
+{
+  "nodes": [
+    {
+      "nodeID": "156902",
+      "text": "The sky is blue? Evolution is true? The pope lives in Rome? Bears **** in the woods? *Goes back to work and is slightly annoyed ShadowPikachu made a announcement from the department of the Obvious*",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:08"
+    },
+    {
+      "nodeID": "156903",
+      "text": "But didn't they tell you? They outsourced your job to me! :)",
+      "type": "I",
+      "timestamp": "2016-03-08 20:27:08"
+    },
+    {
+      "nodeID": "156904",
+      "text": "Default Conflict",
+      "type": "CA",
+      "timestamp": "2016-03-08 20:27:08"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "195354",
+      "fromID": "156903",
+      "toID": "156904",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "195355",
+      "fromID": "156904",
+      "toID": "156902",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": []
+}
