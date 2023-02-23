@@ -1,0 +1,2111 @@
+{
+  "arguments": {
+    "Argument from Freedom of Speech": {
+      "type": "argument",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "Censorship is wrong in principle. In a free and civilized society, everyone must be free to express herself. ",
+          "startLine": 37,
+          "endLine": 39,
+          "startColumn": 1,
+          "endColumn": 48,
+          "isTopLevel": true,
+          "title": "Argument from Freedom of Speech",
+          "tags": ["con"],
+          "data": {
+            "source": "C1a"
+          },
+          "pcs": [
+            {
+              "type": "statement",
+              "title": "Absolute Freedom of Speech",
+              "isReference": true,
+              "startLine": 41,
+              "startColumn": 5,
+              "endLine": 41,
+              "endColumn": 33,
+              "role": "premise",
+              "argumentTitle": "Argument from Freedom of Speech"
+            },
+            {
+              "type": "statement",
+              "text": "Censorship violates freedom of speech.",
+              "startLine": 42,
+              "startColumn": 5,
+              "endLine": 42,
+              "endColumn": 43,
+              "title": "Untitled 1",
+              "role": "premise",
+              "argumentTitle": "Argument from Freedom of Speech"
+            },
+            {
+              "type": "statement",
+              "text": "Whatever violates an absolute right, is itself wrong in principle.",
+              "startLine": 43,
+              "startColumn": 5,
+              "endLine": 44,
+              "endColumn": 11,
+              "title": "Untitled 2",
+              "role": "premise",
+              "argumentTitle": "Argument from Freedom of Speech"
+            },
+            {
+              "type": "statement",
+              "text": "Censorship is wrong in principle.",
+              "title": "Untitled 3",
+              "startLine": 48,
+              "startColumn": 5,
+              "endLine": 49,
+              "endColumn": 19,
+              "role": "main-conclusion",
+              "argumentTitle": "Argument from Freedom of Speech",
+              "inference": {
+                "type": "inference",
+                "relations": [],
+                "inferenceRules": ["Specification", "Modus ponens"],
+                "startLine": 45,
+                "startColumn": 1,
+                "endLine": 47,
+                "endColumn": 3,
+                "data": {
+                  "uses": [1, 2, 3]
+                },
+                "conclusionIndex": 3,
+                "argumentTitle": "Argument from Freedom of Speech"
+              }
+            }
+          ]
+        }
+      ],
+      "pcs": [
+        {
+          "type": "statement",
+          "title": "Absolute Freedom of Speech",
+          "isReference": true,
+          "startLine": 41,
+          "startColumn": 5,
+          "endLine": 41,
+          "endColumn": 33,
+          "role": "premise",
+          "argumentTitle": "Argument from Freedom of Speech"
+        },
+        {
+          "type": "statement",
+          "text": "Censorship violates freedom of speech.",
+          "startLine": 42,
+          "startColumn": 5,
+          "endLine": 42,
+          "endColumn": 43,
+          "title": "Untitled 1",
+          "role": "premise",
+          "argumentTitle": "Argument from Freedom of Speech"
+        },
+        {
+          "type": "statement",
+          "text": "Whatever violates an absolute right, is itself wrong in principle.",
+          "startLine": 43,
+          "startColumn": 5,
+          "endLine": 44,
+          "endColumn": 11,
+          "title": "Untitled 2",
+          "role": "premise",
+          "argumentTitle": "Argument from Freedom of Speech"
+        },
+        {
+          "type": "statement",
+          "text": "Censorship is wrong in principle.",
+          "title": "Untitled 3",
+          "startLine": 48,
+          "startColumn": 5,
+          "endLine": 49,
+          "endColumn": 19,
+          "role": "main-conclusion",
+          "argumentTitle": "Argument from Freedom of Speech",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": ["Specification", "Modus ponens"],
+            "startLine": 45,
+            "startColumn": 1,
+            "endLine": 47,
+            "endColumn": 3,
+            "data": {
+              "uses": [1, 2, 3]
+            },
+            "conclusionIndex": 3,
+            "argumentTitle": "Argument from Freedom of Speech"
+          }
+        }
+      ],
+      "title": "Argument from Freedom of Speech",
+      "tags": ["con"],
+      "data": {
+        "source": "C1a"
+      },
+      "startLine": 41,
+      "startColumn": 1,
+      "endLine": 49,
+      "endColumn": 19,
+      "fontColor": "#000000",
+      "color": "#d95f02"
+    },
+    "No-Harm trumps Freedom-of-Speech": {
+      "type": "argument",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "Freedom of speech ceases to be a right when it causes harm to others. Therefore freedom of speech is never an absolute right but an aspiration. ",
+          "startLine": 52,
+          "endLine": 55,
+          "startColumn": 1,
+          "endColumn": 35,
+          "isTopLevel": true,
+          "title": "No-Harm trumps Freedom-of-Speech",
+          "tags": ["pro"],
+          "data": {
+            "source": "P1a"
+          },
+          "pcs": [
+            {
+              "type": "statement",
+              "text": "Sometimes, free speech causes serious harms to others.",
+              "startLine": 57,
+              "startColumn": 5,
+              "endLine": 57,
+              "endColumn": 59,
+              "title": "Untitled 4",
+              "role": "premise",
+              "argumentTitle": "No-Harm trumps Freedom-of-Speech"
+            },
+            {
+              "type": "statement",
+              "text": "Whatever causes serious harms to others is not permissible.",
+              "startLine": 58,
+              "startColumn": 5,
+              "endLine": 59,
+              "endColumn": 13,
+              "title": "Untitled 5",
+              "role": "premise",
+              "argumentTitle": "No-Harm trumps Freedom-of-Speech"
+            },
+            {
+              "type": "statement",
+              "text": "If freedom of speech is sometimes not permissible, then freedom of speech is not an absolute right.",
+              "startLine": 60,
+              "startColumn": 5,
+              "endLine": 61,
+              "endColumn": 44,
+              "title": "Untitled 6",
+              "role": "premise",
+              "argumentTitle": "No-Harm trumps Freedom-of-Speech"
+            },
+            {
+              "type": "statement",
+              "text": "Freedom of speech is not an absolute right.",
+              "title": "Untitled 7",
+              "startLine": 63,
+              "startColumn": 5,
+              "endLine": 64,
+              "endColumn": 35,
+              "role": "main-conclusion",
+              "argumentTitle": "No-Harm trumps Freedom-of-Speech",
+              "inference": {
+                "type": "inference",
+                "relations": [],
+                "inferenceRules": [],
+                "startLine": 62,
+                "startColumn": 1,
+                "endLine": 62,
+                "endColumn": 5,
+                "conclusionIndex": 3,
+                "argumentTitle": "No-Harm trumps Freedom-of-Speech"
+              }
+            }
+          ]
+        }
+      ],
+      "pcs": [
+        {
+          "type": "statement",
+          "text": "Sometimes, free speech causes serious harms to others.",
+          "startLine": 57,
+          "startColumn": 5,
+          "endLine": 57,
+          "endColumn": 59,
+          "title": "Untitled 4",
+          "role": "premise",
+          "argumentTitle": "No-Harm trumps Freedom-of-Speech"
+        },
+        {
+          "type": "statement",
+          "text": "Whatever causes serious harms to others is not permissible.",
+          "startLine": 58,
+          "startColumn": 5,
+          "endLine": 59,
+          "endColumn": 13,
+          "title": "Untitled 5",
+          "role": "premise",
+          "argumentTitle": "No-Harm trumps Freedom-of-Speech"
+        },
+        {
+          "type": "statement",
+          "text": "If freedom of speech is sometimes not permissible, then freedom of speech is not an absolute right.",
+          "startLine": 60,
+          "startColumn": 5,
+          "endLine": 61,
+          "endColumn": 44,
+          "title": "Untitled 6",
+          "role": "premise",
+          "argumentTitle": "No-Harm trumps Freedom-of-Speech"
+        },
+        {
+          "type": "statement",
+          "text": "Freedom of speech is not an absolute right.",
+          "title": "Untitled 7",
+          "startLine": 63,
+          "startColumn": 5,
+          "endLine": 64,
+          "endColumn": 35,
+          "role": "main-conclusion",
+          "argumentTitle": "No-Harm trumps Freedom-of-Speech",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 62,
+            "startColumn": 1,
+            "endLine": 62,
+            "endColumn": 5,
+            "conclusionIndex": 3,
+            "argumentTitle": "No-Harm trumps Freedom-of-Speech"
+          }
+        }
+      ],
+      "title": "No-Harm trumps Freedom-of-Speech",
+      "tags": ["pro"],
+      "data": {
+        "source": "P1a"
+      },
+      "startLine": 57,
+      "startColumn": 1,
+      "endLine": 64,
+      "endColumn": 35,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Argument from racial hatred": {
+      "type": "argument",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "Legislation against incitement to racial hatred is permissible. Thus, censorship is not wrong in principle. ",
+          "startLine": 67,
+          "endLine": 69,
+          "startColumn": 1,
+          "endColumn": 58,
+          "isTopLevel": true,
+          "title": "Argument from racial hatred",
+          "tags": ["pro"],
+          "data": {
+            "source": "P1b"
+          },
+          "pcs": [
+            {
+              "type": "statement",
+              "title": "IRC-legislation",
+              "text": "Legislation against incitement to racial hatred is permissible. ",
+              "startLine": 71,
+              "startColumn": 5,
+              "endLine": 72,
+              "endColumn": 47,
+              "data": {
+                "isInMap": false
+              },
+              "role": "premise",
+              "argumentTitle": "Argument from racial hatred"
+            },
+            {
+              "type": "statement",
+              "text": "Legislation against incitement to racial hatred is a form of censorship.",
+              "startLine": 73,
+              "startColumn": 5,
+              "endLine": 74,
+              "endColumn": 20,
+              "title": "Untitled 8",
+              "role": "premise",
+              "argumentTitle": "Argument from racial hatred"
+            },
+            {
+              "type": "statement",
+              "title": "Censorship",
+              "isReference": true,
+              "startLine": 76,
+              "startColumn": 5,
+              "endLine": 76,
+              "endColumn": 16,
+              "role": "main-conclusion",
+              "argumentTitle": "Argument from racial hatred",
+              "inference": {
+                "type": "inference",
+                "relations": [],
+                "inferenceRules": [],
+                "startLine": 75,
+                "startColumn": 1,
+                "endLine": 75,
+                "endColumn": 5,
+                "conclusionIndex": 2,
+                "argumentTitle": "Argument from racial hatred"
+              }
+            }
+          ]
+        }
+      ],
+      "pcs": [
+        {
+          "type": "statement",
+          "title": "IRC-legislation",
+          "text": "Legislation against incitement to racial hatred is permissible. ",
+          "startLine": 71,
+          "startColumn": 5,
+          "endLine": 72,
+          "endColumn": 47,
+          "data": {
+            "isInMap": false
+          },
+          "role": "premise",
+          "argumentTitle": "Argument from racial hatred"
+        },
+        {
+          "type": "statement",
+          "text": "Legislation against incitement to racial hatred is a form of censorship.",
+          "startLine": 73,
+          "startColumn": 5,
+          "endLine": 74,
+          "endColumn": 20,
+          "title": "Untitled 8",
+          "role": "premise",
+          "argumentTitle": "Argument from racial hatred"
+        },
+        {
+          "type": "statement",
+          "title": "Censorship",
+          "isReference": true,
+          "startLine": 76,
+          "startColumn": 5,
+          "endLine": 76,
+          "endColumn": 16,
+          "role": "main-conclusion",
+          "argumentTitle": "Argument from racial hatred",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 75,
+            "startColumn": 1,
+            "endLine": 75,
+            "endColumn": 5,
+            "conclusionIndex": 2,
+            "argumentTitle": "Argument from racial hatred"
+          }
+        }
+      ],
+      "title": "Argument from racial hatred",
+      "tags": ["pro"],
+      "data": {
+        "source": "P1b"
+      },
+      "startLine": 71,
+      "startColumn": 1,
+      "endLine": 76,
+      "endColumn": 16,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Importance of inclusive public debate": {
+      "type": "argument",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "Legislation against incitement to racial hatred drives racists and others underground rather than drawing them into open and rational debate. ",
+          "startLine": 79,
+          "endLine": 82,
+          "startColumn": 1,
+          "endColumn": 37,
+          "isTopLevel": true,
+          "title": "Importance of inclusive public debate",
+          "tags": ["con"],
+          "data": {
+            "source": "C1b"
+          },
+          "pcs": [
+            {
+              "type": "statement",
+              "text": "We will only have an open, maximally-inclusive and rational societal debate, if racists are not driven underground. ",
+              "startLine": 84,
+              "startColumn": 5,
+              "endLine": 86,
+              "endColumn": 14,
+              "title": "Untitled 9",
+              "role": "premise",
+              "argumentTitle": "Importance of inclusive public debate"
+            },
+            {
+              "type": "statement",
+              "text": "If legislation against incitement to racial hatred is enacted, racists and others are driven underground. ",
+              "startLine": 87,
+              "startColumn": 5,
+              "endLine": 88,
+              "endColumn": 53,
+              "title": "Untitled 10",
+              "role": "premise",
+              "argumentTitle": "Importance of inclusive public debate"
+            },
+            {
+              "type": "statement",
+              "text": "We will only have an open, maximally-inclusive and rational societal debate, if legislation against incitement to racial hatred is not enacted.",
+              "startLine": 90,
+              "startColumn": 5,
+              "endLine": 92,
+              "endColumn": 33,
+              "title": "Untitled 11",
+              "role": "intermediary-conclusion",
+              "argumentTitle": "Importance of inclusive public debate",
+              "inference": {
+                "type": "inference",
+                "relations": [],
+                "inferenceRules": [],
+                "startLine": 89,
+                "startColumn": 1,
+                "endLine": 89,
+                "endColumn": 6,
+                "conclusionIndex": 2,
+                "argumentTitle": "Importance of inclusive public debate"
+              }
+            },
+            {
+              "type": "statement",
+              "text": "We ought to have an open, maximally-inclusive and rational societal debate.",
+              "startLine": 93,
+              "startColumn": 5,
+              "endLine": 94,
+              "endColumn": 26,
+              "title": "Untitled 12",
+              "role": "premise",
+              "argumentTitle": "Importance of inclusive public debate"
+            },
+            {
+              "type": "statement",
+              "text": "Legislation against incitement to racial hatred ought not be enacted.",
+              "title": "Untitled 13",
+              "startLine": 96,
+              "startColumn": 5,
+              "endLine": 98,
+              "endColumn": 22,
+              "role": "main-conclusion",
+              "argumentTitle": "Importance of inclusive public debate",
+              "inference": {
+                "type": "inference",
+                "relations": [],
+                "inferenceRules": [],
+                "startLine": 95,
+                "startColumn": 1,
+                "endLine": 95,
+                "endColumn": 6,
+                "conclusionIndex": 4,
+                "argumentTitle": "Importance of inclusive public debate"
+              }
+            }
+          ]
+        }
+      ],
+      "pcs": [
+        {
+          "type": "statement",
+          "text": "We will only have an open, maximally-inclusive and rational societal debate, if racists are not driven underground. ",
+          "startLine": 84,
+          "startColumn": 5,
+          "endLine": 86,
+          "endColumn": 14,
+          "title": "Untitled 9",
+          "role": "premise",
+          "argumentTitle": "Importance of inclusive public debate"
+        },
+        {
+          "type": "statement",
+          "text": "If legislation against incitement to racial hatred is enacted, racists and others are driven underground. ",
+          "startLine": 87,
+          "startColumn": 5,
+          "endLine": 88,
+          "endColumn": 53,
+          "title": "Untitled 10",
+          "role": "premise",
+          "argumentTitle": "Importance of inclusive public debate"
+        },
+        {
+          "type": "statement",
+          "text": "We will only have an open, maximally-inclusive and rational societal debate, if legislation against incitement to racial hatred is not enacted.",
+          "startLine": 90,
+          "startColumn": 5,
+          "endLine": 92,
+          "endColumn": 33,
+          "title": "Untitled 11",
+          "role": "intermediary-conclusion",
+          "argumentTitle": "Importance of inclusive public debate",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 89,
+            "startColumn": 1,
+            "endLine": 89,
+            "endColumn": 6,
+            "conclusionIndex": 2,
+            "argumentTitle": "Importance of inclusive public debate"
+          }
+        },
+        {
+          "type": "statement",
+          "text": "We ought to have an open, maximally-inclusive and rational societal debate.",
+          "startLine": 93,
+          "startColumn": 5,
+          "endLine": 94,
+          "endColumn": 26,
+          "title": "Untitled 12",
+          "role": "premise",
+          "argumentTitle": "Importance of inclusive public debate"
+        },
+        {
+          "type": "statement",
+          "text": "Legislation against incitement to racial hatred ought not be enacted.",
+          "title": "Untitled 13",
+          "startLine": 96,
+          "startColumn": 5,
+          "endLine": 98,
+          "endColumn": 22,
+          "role": "main-conclusion",
+          "argumentTitle": "Importance of inclusive public debate",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 95,
+            "startColumn": 1,
+            "endLine": 95,
+            "endColumn": 6,
+            "conclusionIndex": 4,
+            "argumentTitle": "Importance of inclusive public debate"
+          }
+        }
+      ],
+      "title": "Importance of inclusive public debate",
+      "tags": ["con"],
+      "data": {
+        "source": "C1b"
+      },
+      "startLine": 84,
+      "startColumn": 1,
+      "endLine": 98,
+      "endColumn": 22,
+      "fontColor": "#000000",
+      "color": "#d95f02"
+    },
+    "Excessive sex and violence": {
+      "type": "argument",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "Excessive sex and violence in film and television contribute to a tendency towards similar behaviour in spectators. In these cases, censorship is obligatory. ",
+          "startLine": 101,
+          "endLine": 104,
+          "startColumn": 1,
+          "endColumn": 34,
+          "isTopLevel": true,
+          "title": "Excessive sex and violence",
+          "tags": ["pro"],
+          "data": {
+            "source": "P2"
+          },
+          "pcs": [
+            {
+              "type": "statement",
+              "title": "Causal link",
+              "text": "Excessive sex and violence in film and television contributes to a tendency towards similar behaviour in spectators. ",
+              "startLine": 106,
+              "startColumn": 5,
+              "endLine": 108,
+              "endColumn": 43,
+              "data": {
+                "isInMap": false
+              },
+              "role": "premise",
+              "argumentTitle": "Excessive sex and violence"
+            },
+            {
+              "type": "statement",
+              "text": "Whatever contributes to an tendency towards criminal behaviour may be legally banned, except more weighty reasons speak against doing so.",
+              "startLine": 109,
+              "startColumn": 5,
+              "endLine": 111,
+              "endColumn": 32,
+              "title": "Untitled 14",
+              "role": "premise",
+              "argumentTitle": "Excessive sex and violence"
+            },
+            {
+              "type": "statement",
+              "text": "There are no substantial reasons against legally banning excessive sex and violence in film and television.",
+              "startLine": 112,
+              "startColumn": 5,
+              "endLine": 113,
+              "endColumn": 59,
+              "title": "Untitled 15",
+              "role": "premise",
+              "argumentTitle": "Excessive sex and violence"
+            },
+            {
+              "type": "statement",
+              "text": "Excessive sex and violence in film and television may be legally banned.",
+              "startLine": 115,
+              "startColumn": 5,
+              "endLine": 116,
+              "endColumn": 19,
+              "title": "Untitled 16",
+              "role": "intermediary-conclusion",
+              "argumentTitle": "Excessive sex and violence",
+              "inference": {
+                "type": "inference",
+                "relations": [],
+                "inferenceRules": [],
+                "startLine": 114,
+                "startColumn": 1,
+                "endLine": 114,
+                "endColumn": 6,
+                "conclusionIndex": 3,
+                "argumentTitle": "Excessive sex and violence"
+              }
+            },
+            {
+              "type": "statement",
+              "text": "If excessive sex and violence in film and television may be legally banned, censorship is not wrong in principle.",
+              "startLine": 117,
+              "startColumn": 5,
+              "endLine": 118,
+              "endColumn": 61,
+              "title": "Untitled 17",
+              "role": "premise",
+              "argumentTitle": "Excessive sex and violence"
+            },
+            {
+              "type": "statement",
+              "title": "Censorship",
+              "isReference": true,
+              "startLine": 120,
+              "startColumn": 5,
+              "endLine": 120,
+              "endColumn": 16,
+              "role": "main-conclusion",
+              "argumentTitle": "Excessive sex and violence",
+              "inference": {
+                "type": "inference",
+                "relations": [],
+                "inferenceRules": [],
+                "startLine": 119,
+                "startColumn": 1,
+                "endLine": 119,
+                "endColumn": 6,
+                "conclusionIndex": 5,
+                "argumentTitle": "Excessive sex and violence"
+              }
+            }
+          ]
+        }
+      ],
+      "pcs": [
+        {
+          "type": "statement",
+          "title": "Causal link",
+          "text": "Excessive sex and violence in film and television contributes to a tendency towards similar behaviour in spectators. ",
+          "startLine": 106,
+          "startColumn": 5,
+          "endLine": 108,
+          "endColumn": 43,
+          "data": {
+            "isInMap": false
+          },
+          "role": "premise",
+          "argumentTitle": "Excessive sex and violence"
+        },
+        {
+          "type": "statement",
+          "text": "Whatever contributes to an tendency towards criminal behaviour may be legally banned, except more weighty reasons speak against doing so.",
+          "startLine": 109,
+          "startColumn": 5,
+          "endLine": 111,
+          "endColumn": 32,
+          "title": "Untitled 14",
+          "role": "premise",
+          "argumentTitle": "Excessive sex and violence"
+        },
+        {
+          "type": "statement",
+          "text": "There are no substantial reasons against legally banning excessive sex and violence in film and television.",
+          "startLine": 112,
+          "startColumn": 5,
+          "endLine": 113,
+          "endColumn": 59,
+          "title": "Untitled 15",
+          "role": "premise",
+          "argumentTitle": "Excessive sex and violence"
+        },
+        {
+          "type": "statement",
+          "text": "Excessive sex and violence in film and television may be legally banned.",
+          "startLine": 115,
+          "startColumn": 5,
+          "endLine": 116,
+          "endColumn": 19,
+          "title": "Untitled 16",
+          "role": "intermediary-conclusion",
+          "argumentTitle": "Excessive sex and violence",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 114,
+            "startColumn": 1,
+            "endLine": 114,
+            "endColumn": 6,
+            "conclusionIndex": 3,
+            "argumentTitle": "Excessive sex and violence"
+          }
+        },
+        {
+          "type": "statement",
+          "text": "If excessive sex and violence in film and television may be legally banned, censorship is not wrong in principle.",
+          "startLine": 117,
+          "startColumn": 5,
+          "endLine": 118,
+          "endColumn": 61,
+          "title": "Untitled 17",
+          "role": "premise",
+          "argumentTitle": "Excessive sex and violence"
+        },
+        {
+          "type": "statement",
+          "title": "Censorship",
+          "isReference": true,
+          "startLine": 120,
+          "startColumn": 5,
+          "endLine": 120,
+          "endColumn": 16,
+          "role": "main-conclusion",
+          "argumentTitle": "Excessive sex and violence",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 119,
+            "startColumn": 1,
+            "endLine": 119,
+            "endColumn": 6,
+            "conclusionIndex": 5,
+            "argumentTitle": "Excessive sex and violence"
+          }
+        }
+      ],
+      "title": "Excessive sex and violence",
+      "tags": ["pro"],
+      "data": {
+        "source": "P2"
+      },
+      "startLine": 106,
+      "startColumn": 1,
+      "endLine": 120,
+      "endColumn": 16,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Argument from expertise": {
+      "type": "argument",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "Scientific studies have established a causal link between violence in film and a similar behaviour in spectators. ",
+          "startLine": 123,
+          "endLine": 125,
+          "startColumn": 1,
+          "endColumn": 38,
+          "isTopLevel": true,
+          "title": "Argument from expertise",
+          "tags": ["pro"],
+          "pcs": [
+            {
+              "type": "statement",
+              "text": "Scientific studies have established that excessive sex and violence in film and television contributes to a tendency towards similar behaviour in spectators (@[Causal link]).",
+              "startLine": 127,
+              "startColumn": 5,
+              "endLine": 130,
+              "endColumn": 8,
+              "title": "Untitled 18",
+              "role": "premise",
+              "argumentTitle": "Argument from expertise"
+            },
+            {
+              "type": "statement",
+              "text": "If scientific studies have established that X and if there is no evidence against X being the case, then X.",
+              "startLine": 131,
+              "startColumn": 5,
+              "endLine": 132,
+              "endColumn": 55,
+              "title": "Untitled 19",
+              "role": "premise",
+              "argumentTitle": "Argument from expertise"
+            },
+            {
+              "type": "statement",
+              "title": "Causal link",
+              "isReference": true,
+              "startLine": 134,
+              "startColumn": 5,
+              "endLine": 134,
+              "endColumn": 17,
+              "role": "main-conclusion",
+              "argumentTitle": "Argument from expertise",
+              "inference": {
+                "type": "inference",
+                "relations": [],
+                "inferenceRules": [],
+                "startLine": 133,
+                "startColumn": 1,
+                "endLine": 133,
+                "endColumn": 5,
+                "conclusionIndex": 2,
+                "argumentTitle": "Argument from expertise"
+              }
+            }
+          ]
+        }
+      ],
+      "pcs": [
+        {
+          "type": "statement",
+          "text": "Scientific studies have established that excessive sex and violence in film and television contributes to a tendency towards similar behaviour in spectators (@[Causal link]).",
+          "startLine": 127,
+          "startColumn": 5,
+          "endLine": 130,
+          "endColumn": 8,
+          "title": "Untitled 18",
+          "role": "premise",
+          "argumentTitle": "Argument from expertise"
+        },
+        {
+          "type": "statement",
+          "text": "If scientific studies have established that X and if there is no evidence against X being the case, then X.",
+          "startLine": 131,
+          "startColumn": 5,
+          "endLine": 132,
+          "endColumn": 55,
+          "title": "Untitled 19",
+          "role": "premise",
+          "argumentTitle": "Argument from expertise"
+        },
+        {
+          "type": "statement",
+          "title": "Causal link",
+          "isReference": true,
+          "startLine": 134,
+          "startColumn": 5,
+          "endLine": 134,
+          "endColumn": 17,
+          "role": "main-conclusion",
+          "argumentTitle": "Argument from expertise",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 133,
+            "startColumn": 1,
+            "endLine": 133,
+            "endColumn": 5,
+            "conclusionIndex": 2,
+            "argumentTitle": "Argument from expertise"
+          }
+        }
+      ],
+      "title": "Argument from expertise",
+      "tags": ["pro"],
+      "startLine": 127,
+      "startColumn": 1,
+      "endLine": 134,
+      "endColumn": 17,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Causal link questionable": {
+      "type": "argument",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "The link between sex and violence on screen and in real life is far from conclusive. The individual's personality make her watch violent videos, not vice versa. ",
+          "startLine": 137,
+          "endLine": 140,
+          "startColumn": 1,
+          "endColumn": 35,
+          "isTopLevel": true,
+          "title": "Causal link questionable",
+          "tags": ["con"],
+          "data": {
+            "source": "C2"
+          },
+          "pcs": [
+            {
+              "type": "statement",
+              "text": "The consumption of violent video is correlated with violent and criminal behaviour.",
+              "startLine": 142,
+              "startColumn": 5,
+              "endLine": 143,
+              "endColumn": 32,
+              "title": "Untitled 20",
+              "role": "premise",
+              "argumentTitle": "Causal link questionable"
+            },
+            {
+              "type": "statement",
+              "text": "The best explanation for this correlation is that those individuals who already have tendencies to violence are likely to watch violent `video nasties', just as those with a predilection for rape are likely to use pornography.",
+              "ranges": [
+                {
+                  "type": "italic",
+                  "start": 72,
+                  "stop": 94
+                }
+              ],
+              "startLine": 144,
+              "startColumn": 5,
+              "endLine": 147,
+              "endColumn": 55,
+              "title": "Untitled 21",
+              "role": "premise",
+              "argumentTitle": "Causal link questionable"
+            },
+            {
+              "type": "statement",
+              "text": "A disposition for criminal behaviour causes the consumption of violent video.",
+              "startLine": 151,
+              "startColumn": 5,
+              "endLine": 152,
+              "endColumn": 30,
+              "title": "Untitled 22",
+              "role": "intermediary-conclusion",
+              "argumentTitle": "Causal link questionable",
+              "inference": {
+                "type": "inference",
+                "relations": [],
+                "inferenceRules": ["Inference to the best explanation"],
+                "startLine": 148,
+                "startColumn": 1,
+                "endLine": 150,
+                "endColumn": 3,
+                "data": {
+                  "uses": [1, 2]
+                },
+                "conclusionIndex": 2,
+                "argumentTitle": "Causal link questionable"
+              }
+            },
+            {
+              "type": "statement",
+              "text": "Causal relations are asymmetric.",
+              "startLine": 153,
+              "startColumn": 5,
+              "endLine": 153,
+              "endColumn": 37,
+              "title": "Untitled 23",
+              "role": "premise",
+              "argumentTitle": "Causal link questionable"
+            },
+            {
+              "type": "statement",
+              "text": "The consumption of violent video does not bring about a disposition for criminal behaviour.",
+              "title": "Untitled 24",
+              "startLine": 155,
+              "startColumn": 5,
+              "endLine": 157,
+              "endColumn": 19,
+              "role": "main-conclusion",
+              "argumentTitle": "Causal link questionable",
+              "inference": {
+                "type": "inference",
+                "relations": [],
+                "inferenceRules": [],
+                "startLine": 154,
+                "startColumn": 1,
+                "endLine": 154,
+                "endColumn": 6,
+                "conclusionIndex": 4,
+                "argumentTitle": "Causal link questionable"
+              }
+            }
+          ]
+        }
+      ],
+      "pcs": [
+        {
+          "type": "statement",
+          "text": "The consumption of violent video is correlated with violent and criminal behaviour.",
+          "startLine": 142,
+          "startColumn": 5,
+          "endLine": 143,
+          "endColumn": 32,
+          "title": "Untitled 20",
+          "role": "premise",
+          "argumentTitle": "Causal link questionable"
+        },
+        {
+          "type": "statement",
+          "text": "The best explanation for this correlation is that those individuals who already have tendencies to violence are likely to watch violent `video nasties', just as those with a predilection for rape are likely to use pornography.",
+          "ranges": [
+            {
+              "type": "italic",
+              "start": 72,
+              "stop": 94
+            }
+          ],
+          "startLine": 144,
+          "startColumn": 5,
+          "endLine": 147,
+          "endColumn": 55,
+          "title": "Untitled 21",
+          "role": "premise",
+          "argumentTitle": "Causal link questionable"
+        },
+        {
+          "type": "statement",
+          "text": "A disposition for criminal behaviour causes the consumption of violent video.",
+          "startLine": 151,
+          "startColumn": 5,
+          "endLine": 152,
+          "endColumn": 30,
+          "title": "Untitled 22",
+          "role": "intermediary-conclusion",
+          "argumentTitle": "Causal link questionable",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": ["Inference to the best explanation"],
+            "startLine": 148,
+            "startColumn": 1,
+            "endLine": 150,
+            "endColumn": 3,
+            "data": {
+              "uses": [1, 2]
+            },
+            "conclusionIndex": 2,
+            "argumentTitle": "Causal link questionable"
+          }
+        },
+        {
+          "type": "statement",
+          "text": "Causal relations are asymmetric.",
+          "startLine": 153,
+          "startColumn": 5,
+          "endLine": 153,
+          "endColumn": 37,
+          "title": "Untitled 23",
+          "role": "premise",
+          "argumentTitle": "Causal link questionable"
+        },
+        {
+          "type": "statement",
+          "text": "The consumption of violent video does not bring about a disposition for criminal behaviour.",
+          "title": "Untitled 24",
+          "startLine": 155,
+          "startColumn": 5,
+          "endLine": 157,
+          "endColumn": 19,
+          "role": "main-conclusion",
+          "argumentTitle": "Causal link questionable",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 154,
+            "startColumn": 1,
+            "endLine": 154,
+            "endColumn": 6,
+            "conclusionIndex": 4,
+            "argumentTitle": "Causal link questionable"
+          }
+        }
+      ],
+      "title": "Causal link questionable",
+      "tags": ["con"],
+      "data": {
+        "source": "C2"
+      },
+      "startLine": 142,
+      "startColumn": 1,
+      "endLine": 157,
+      "endColumn": 19,
+      "fontColor": "#000000",
+      "color": "#d95f02"
+    }
+  },
+  "statements": {
+    "Censorship": {
+      "type": "equivalence-class",
+      "title": "Censorship",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "attack",
+          "from": "Untitled 3",
+          "fromType": "equivalence-class",
+          "to": "Censorship",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "title": "Censorship",
+          "text": "Censorship is not wrong in principle.",
+          "startLine": 27,
+          "startColumn": 1,
+          "endLine": 27,
+          "endColumn": 51
+        },
+        {
+          "type": "statement",
+          "role": "relation-statement",
+          "title": "Censorship",
+          "isReference": true,
+          "startLine": 49,
+          "startColumn": 8,
+          "endLine": 49,
+          "endColumn": 19
+        },
+        {
+          "type": "statement",
+          "title": "Censorship",
+          "isReference": true,
+          "startLine": 76,
+          "startColumn": 5,
+          "endLine": 76,
+          "endColumn": 16,
+          "role": "main-conclusion",
+          "argumentTitle": "Argument from racial hatred",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 75,
+            "startColumn": 1,
+            "endLine": 75,
+            "endColumn": 5,
+            "conclusionIndex": 2,
+            "argumentTitle": "Argument from racial hatred"
+          }
+        },
+        {
+          "type": "statement",
+          "title": "Censorship",
+          "isReference": true,
+          "startLine": 120,
+          "startColumn": 5,
+          "endLine": 120,
+          "endColumn": 16,
+          "role": "main-conclusion",
+          "argumentTitle": "Excessive sex and violence",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 119,
+            "startColumn": 1,
+            "endLine": 119,
+            "endColumn": 6,
+            "conclusionIndex": 5,
+            "argumentTitle": "Excessive sex and violence"
+          }
+        }
+      ],
+      "isUsedAsTopLevelStatement": true,
+      "isUsedAsRelationStatement": true,
+      "isUsedAsIntermediaryConclusion": false,
+      "isUsedAsMainConclusion": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Absolute Freedom of Speech": {
+      "type": "equivalence-class",
+      "title": "Absolute Freedom of Speech",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "attack",
+          "from": "Untitled 7",
+          "fromType": "equivalence-class",
+          "to": "Absolute Freedom of Speech",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "title": "Absolute Freedom of Speech",
+          "text": "Freedom of speech is an absolute right.",
+          "startLine": 29,
+          "startColumn": 1,
+          "endLine": 30,
+          "endColumn": 15
+        },
+        {
+          "type": "statement",
+          "title": "Absolute Freedom of Speech",
+          "isReference": true,
+          "startLine": 41,
+          "startColumn": 5,
+          "endLine": 41,
+          "endColumn": 33,
+          "role": "premise",
+          "argumentTitle": "Argument from Freedom of Speech"
+        },
+        {
+          "type": "statement",
+          "role": "relation-statement",
+          "title": "Absolute Freedom of Speech",
+          "isReference": true,
+          "startLine": 64,
+          "startColumn": 8,
+          "endLine": 64,
+          "endColumn": 35
+        }
+      ],
+      "isUsedAsTopLevelStatement": true,
+      "isUsedAsPremise": true,
+      "isUsedAsRelationStatement": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 1": {
+      "type": "equivalence-class",
+      "title": "Untitled 1",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "Censorship violates freedom of speech.",
+          "startLine": 42,
+          "startColumn": 5,
+          "endLine": 42,
+          "endColumn": 43,
+          "title": "Untitled 1",
+          "role": "premise",
+          "argumentTitle": "Argument from Freedom of Speech"
+        }
+      ],
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 2": {
+      "type": "equivalence-class",
+      "title": "Untitled 2",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "Whatever violates an absolute right, is itself wrong in principle.",
+          "startLine": 43,
+          "startColumn": 5,
+          "endLine": 44,
+          "endColumn": 11,
+          "title": "Untitled 2",
+          "role": "premise",
+          "argumentTitle": "Argument from Freedom of Speech"
+        }
+      ],
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 3": {
+      "type": "equivalence-class",
+      "title": "Untitled 3",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "attack",
+          "from": "Untitled 3",
+          "fromType": "equivalence-class",
+          "to": "Censorship",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "text": "Censorship is wrong in principle.",
+          "title": "Untitled 3",
+          "startLine": 48,
+          "startColumn": 5,
+          "endLine": 49,
+          "endColumn": 19,
+          "role": "main-conclusion",
+          "argumentTitle": "Argument from Freedom of Speech",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": ["Specification", "Modus ponens"],
+            "startLine": 45,
+            "startColumn": 1,
+            "endLine": 47,
+            "endColumn": 3,
+            "data": {
+              "uses": [1, 2, 3]
+            },
+            "conclusionIndex": 3,
+            "argumentTitle": "Argument from Freedom of Speech"
+          }
+        }
+      ],
+      "isUsedAsIntermediaryConclusion": false,
+      "isUsedAsMainConclusion": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 4": {
+      "type": "equivalence-class",
+      "title": "Untitled 4",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "Sometimes, free speech causes serious harms to others.",
+          "startLine": 57,
+          "startColumn": 5,
+          "endLine": 57,
+          "endColumn": 59,
+          "title": "Untitled 4",
+          "role": "premise",
+          "argumentTitle": "No-Harm trumps Freedom-of-Speech"
+        }
+      ],
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 5": {
+      "type": "equivalence-class",
+      "title": "Untitled 5",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "Whatever causes serious harms to others is not permissible.",
+          "startLine": 58,
+          "startColumn": 5,
+          "endLine": 59,
+          "endColumn": 13,
+          "title": "Untitled 5",
+          "role": "premise",
+          "argumentTitle": "No-Harm trumps Freedom-of-Speech"
+        }
+      ],
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 6": {
+      "type": "equivalence-class",
+      "title": "Untitled 6",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "If freedom of speech is sometimes not permissible, then freedom of speech is not an absolute right.",
+          "startLine": 60,
+          "startColumn": 5,
+          "endLine": 61,
+          "endColumn": 44,
+          "title": "Untitled 6",
+          "role": "premise",
+          "argumentTitle": "No-Harm trumps Freedom-of-Speech"
+        }
+      ],
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 7": {
+      "type": "equivalence-class",
+      "title": "Untitled 7",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "attack",
+          "from": "Untitled 7",
+          "fromType": "equivalence-class",
+          "to": "Absolute Freedom of Speech",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "text": "Freedom of speech is not an absolute right.",
+          "title": "Untitled 7",
+          "startLine": 63,
+          "startColumn": 5,
+          "endLine": 64,
+          "endColumn": 35,
+          "role": "main-conclusion",
+          "argumentTitle": "No-Harm trumps Freedom-of-Speech",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 62,
+            "startColumn": 1,
+            "endLine": 62,
+            "endColumn": 5,
+            "conclusionIndex": 3,
+            "argumentTitle": "No-Harm trumps Freedom-of-Speech"
+          }
+        }
+      ],
+      "isUsedAsIntermediaryConclusion": false,
+      "isUsedAsMainConclusion": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "IRC-legislation": {
+      "type": "equivalence-class",
+      "title": "IRC-legislation",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "attack",
+          "from": "Untitled 13",
+          "fromType": "equivalence-class",
+          "to": "IRC-legislation",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "title": "IRC-legislation",
+          "text": "Legislation against incitement to racial hatred is permissible. ",
+          "startLine": 71,
+          "startColumn": 5,
+          "endLine": 72,
+          "endColumn": 47,
+          "data": {
+            "isInMap": false
+          },
+          "role": "premise",
+          "argumentTitle": "Argument from racial hatred"
+        },
+        {
+          "type": "statement",
+          "role": "relation-statement",
+          "title": "IRC-legislation",
+          "isReference": true,
+          "startLine": 98,
+          "startColumn": 6,
+          "endLine": 98,
+          "endColumn": 22
+        }
+      ],
+      "data": {
+        "isInMap": false
+      },
+      "isUsedAsPremise": true,
+      "isUsedAsRelationStatement": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 8": {
+      "type": "equivalence-class",
+      "title": "Untitled 8",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "Legislation against incitement to racial hatred is a form of censorship.",
+          "startLine": 73,
+          "startColumn": 5,
+          "endLine": 74,
+          "endColumn": 20,
+          "title": "Untitled 8",
+          "role": "premise",
+          "argumentTitle": "Argument from racial hatred"
+        }
+      ],
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 9": {
+      "type": "equivalence-class",
+      "title": "Untitled 9",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "We will only have an open, maximally-inclusive and rational societal debate, if racists are not driven underground. ",
+          "startLine": 84,
+          "startColumn": 5,
+          "endLine": 86,
+          "endColumn": 14,
+          "title": "Untitled 9",
+          "role": "premise",
+          "argumentTitle": "Importance of inclusive public debate"
+        }
+      ],
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 10": {
+      "type": "equivalence-class",
+      "title": "Untitled 10",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "If legislation against incitement to racial hatred is enacted, racists and others are driven underground. ",
+          "startLine": 87,
+          "startColumn": 5,
+          "endLine": 88,
+          "endColumn": 53,
+          "title": "Untitled 10",
+          "role": "premise",
+          "argumentTitle": "Importance of inclusive public debate"
+        }
+      ],
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 11": {
+      "type": "equivalence-class",
+      "title": "Untitled 11",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "We will only have an open, maximally-inclusive and rational societal debate, if legislation against incitement to racial hatred is not enacted.",
+          "startLine": 90,
+          "startColumn": 5,
+          "endLine": 92,
+          "endColumn": 33,
+          "title": "Untitled 11",
+          "role": "intermediary-conclusion",
+          "argumentTitle": "Importance of inclusive public debate",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 89,
+            "startColumn": 1,
+            "endLine": 89,
+            "endColumn": 6,
+            "conclusionIndex": 2,
+            "argumentTitle": "Importance of inclusive public debate"
+          }
+        }
+      ],
+      "isUsedAsIntermediaryConclusion": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 12": {
+      "type": "equivalence-class",
+      "title": "Untitled 12",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "We ought to have an open, maximally-inclusive and rational societal debate.",
+          "startLine": 93,
+          "startColumn": 5,
+          "endLine": 94,
+          "endColumn": 26,
+          "title": "Untitled 12",
+          "role": "premise",
+          "argumentTitle": "Importance of inclusive public debate"
+        }
+      ],
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 13": {
+      "type": "equivalence-class",
+      "title": "Untitled 13",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "attack",
+          "from": "Untitled 13",
+          "fromType": "equivalence-class",
+          "to": "IRC-legislation",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "text": "Legislation against incitement to racial hatred ought not be enacted.",
+          "title": "Untitled 13",
+          "startLine": 96,
+          "startColumn": 5,
+          "endLine": 98,
+          "endColumn": 22,
+          "role": "main-conclusion",
+          "argumentTitle": "Importance of inclusive public debate",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 95,
+            "startColumn": 1,
+            "endLine": 95,
+            "endColumn": 6,
+            "conclusionIndex": 4,
+            "argumentTitle": "Importance of inclusive public debate"
+          }
+        }
+      ],
+      "isUsedAsIntermediaryConclusion": false,
+      "isUsedAsMainConclusion": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Causal link": {
+      "type": "equivalence-class",
+      "title": "Causal link",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "attack",
+          "from": "Untitled 24",
+          "fromType": "equivalence-class",
+          "to": "Causal link",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "title": "Causal link",
+          "text": "Excessive sex and violence in film and television contributes to a tendency towards similar behaviour in spectators. ",
+          "startLine": 106,
+          "startColumn": 5,
+          "endLine": 108,
+          "endColumn": 43,
+          "data": {
+            "isInMap": false
+          },
+          "role": "premise",
+          "argumentTitle": "Excessive sex and violence"
+        },
+        {
+          "type": "statement",
+          "title": "Causal link",
+          "isReference": true,
+          "startLine": 134,
+          "startColumn": 5,
+          "endLine": 134,
+          "endColumn": 17,
+          "role": "main-conclusion",
+          "argumentTitle": "Argument from expertise",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 133,
+            "startColumn": 1,
+            "endLine": 133,
+            "endColumn": 5,
+            "conclusionIndex": 2,
+            "argumentTitle": "Argument from expertise"
+          }
+        },
+        {
+          "type": "statement",
+          "role": "relation-statement",
+          "title": "Causal link",
+          "isReference": true,
+          "startLine": 157,
+          "startColumn": 6,
+          "endLine": 157,
+          "endColumn": 19
+        }
+      ],
+      "data": {
+        "isInMap": false
+      },
+      "isUsedAsPremise": true,
+      "isUsedAsIntermediaryConclusion": false,
+      "isUsedAsMainConclusion": true,
+      "isUsedAsRelationStatement": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 14": {
+      "type": "equivalence-class",
+      "title": "Untitled 14",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "Whatever contributes to an tendency towards criminal behaviour may be legally banned, except more weighty reasons speak against doing so.",
+          "startLine": 109,
+          "startColumn": 5,
+          "endLine": 111,
+          "endColumn": 32,
+          "title": "Untitled 14",
+          "role": "premise",
+          "argumentTitle": "Excessive sex and violence"
+        }
+      ],
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 15": {
+      "type": "equivalence-class",
+      "title": "Untitled 15",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "There are no substantial reasons against legally banning excessive sex and violence in film and television.",
+          "startLine": 112,
+          "startColumn": 5,
+          "endLine": 113,
+          "endColumn": 59,
+          "title": "Untitled 15",
+          "role": "premise",
+          "argumentTitle": "Excessive sex and violence"
+        }
+      ],
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 16": {
+      "type": "equivalence-class",
+      "title": "Untitled 16",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "Excessive sex and violence in film and television may be legally banned.",
+          "startLine": 115,
+          "startColumn": 5,
+          "endLine": 116,
+          "endColumn": 19,
+          "title": "Untitled 16",
+          "role": "intermediary-conclusion",
+          "argumentTitle": "Excessive sex and violence",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 114,
+            "startColumn": 1,
+            "endLine": 114,
+            "endColumn": 6,
+            "conclusionIndex": 3,
+            "argumentTitle": "Excessive sex and violence"
+          }
+        }
+      ],
+      "isUsedAsIntermediaryConclusion": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 17": {
+      "type": "equivalence-class",
+      "title": "Untitled 17",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "If excessive sex and violence in film and television may be legally banned, censorship is not wrong in principle.",
+          "startLine": 117,
+          "startColumn": 5,
+          "endLine": 118,
+          "endColumn": 61,
+          "title": "Untitled 17",
+          "role": "premise",
+          "argumentTitle": "Excessive sex and violence"
+        }
+      ],
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 18": {
+      "type": "equivalence-class",
+      "title": "Untitled 18",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "Scientific studies have established that excessive sex and violence in film and television contributes to a tendency towards similar behaviour in spectators (@[Causal link]).",
+          "startLine": 127,
+          "startColumn": 5,
+          "endLine": 130,
+          "endColumn": 8,
+          "title": "Untitled 18",
+          "role": "premise",
+          "argumentTitle": "Argument from expertise"
+        }
+      ],
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 19": {
+      "type": "equivalence-class",
+      "title": "Untitled 19",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "If scientific studies have established that X and if there is no evidence against X being the case, then X.",
+          "startLine": 131,
+          "startColumn": 5,
+          "endLine": 132,
+          "endColumn": 55,
+          "title": "Untitled 19",
+          "role": "premise",
+          "argumentTitle": "Argument from expertise"
+        }
+      ],
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 20": {
+      "type": "equivalence-class",
+      "title": "Untitled 20",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "The consumption of violent video is correlated with violent and criminal behaviour.",
+          "startLine": 142,
+          "startColumn": 5,
+          "endLine": 143,
+          "endColumn": 32,
+          "title": "Untitled 20",
+          "role": "premise",
+          "argumentTitle": "Causal link questionable"
+        }
+      ],
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 21": {
+      "type": "equivalence-class",
+      "title": "Untitled 21",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "The best explanation for this correlation is that those individuals who already have tendencies to violence are likely to watch violent `video nasties', just as those with a predilection for rape are likely to use pornography.",
+          "ranges": [
+            {
+              "type": "italic",
+              "start": 72,
+              "stop": 94
+            }
+          ],
+          "startLine": 144,
+          "startColumn": 5,
+          "endLine": 147,
+          "endColumn": 55,
+          "title": "Untitled 21",
+          "role": "premise",
+          "argumentTitle": "Causal link questionable"
+        }
+      ],
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 22": {
+      "type": "equivalence-class",
+      "title": "Untitled 22",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "A disposition for criminal behaviour causes the consumption of violent video.",
+          "startLine": 151,
+          "startColumn": 5,
+          "endLine": 152,
+          "endColumn": 30,
+          "title": "Untitled 22",
+          "role": "intermediary-conclusion",
+          "argumentTitle": "Causal link questionable",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": ["Inference to the best explanation"],
+            "startLine": 148,
+            "startColumn": 1,
+            "endLine": 150,
+            "endColumn": 3,
+            "data": {
+              "uses": [1, 2]
+            },
+            "conclusionIndex": 2,
+            "argumentTitle": "Causal link questionable"
+          }
+        }
+      ],
+      "isUsedAsIntermediaryConclusion": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 23": {
+      "type": "equivalence-class",
+      "title": "Untitled 23",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "Causal relations are asymmetric.",
+          "startLine": 153,
+          "startColumn": 5,
+          "endLine": 153,
+          "endColumn": 37,
+          "title": "Untitled 23",
+          "role": "premise",
+          "argumentTitle": "Causal link questionable"
+        }
+      ],
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 24": {
+      "type": "equivalence-class",
+      "title": "Untitled 24",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "attack",
+          "from": "Untitled 24",
+          "fromType": "equivalence-class",
+          "to": "Causal link",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "text": "The consumption of violent video does not bring about a disposition for criminal behaviour.",
+          "title": "Untitled 24",
+          "startLine": 155,
+          "startColumn": 5,
+          "endLine": 157,
+          "endColumn": 19,
+          "role": "main-conclusion",
+          "argumentTitle": "Causal link questionable",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 154,
+            "startColumn": 1,
+            "endLine": 154,
+            "endColumn": 6,
+            "conclusionIndex": 4,
+            "argumentTitle": "Causal link questionable"
+          }
+        }
+      ],
+      "isUsedAsIntermediaryConclusion": false,
+      "isUsedAsMainConclusion": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    }
+  },
+  "relations": [
+    {
+      "type": "relation",
+      "relationType": "attack",
+      "from": "Untitled 3",
+      "fromType": "equivalence-class",
+      "to": "Censorship",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "attack",
+      "from": "Untitled 7",
+      "fromType": "equivalence-class",
+      "to": "Absolute Freedom of Speech",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "attack",
+      "from": "Untitled 13",
+      "fromType": "equivalence-class",
+      "to": "IRC-legislation",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "attack",
+      "from": "Untitled 24",
+      "fromType": "equivalence-class",
+      "to": "Causal link",
+      "toType": "equivalence-class"
+    }
+  ],
+  "sections": [],
+  "tags": {
+    "con": {
+      "tag": "con",
+      "cssClass": "tag-con",
+      "occurrenceIndex": 0,
+      "color": "#d95f02"
+    },
+    "pro": {
+      "tag": "pro",
+      "cssClass": "tag-pro",
+      "occurrenceIndex": 1,
+      "color": "#1b9e77"
+    }
+  }
+}

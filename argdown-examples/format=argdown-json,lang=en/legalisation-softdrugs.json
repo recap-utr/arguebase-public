@@ -1,0 +1,1069 @@
+{
+  "arguments": {
+    "No harm, no ban": {
+      "type": "argument",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "No harm, no ban",
+          "fromType": "argument",
+          "to": "Legalisation of Soft Drugs",
+          "toType": "equivalence-class"
+        },
+        {
+          "type": "relation",
+          "relationType": "attack",
+          "from": "Soft drugs are harmful",
+          "fromType": "argument",
+          "to": "No harm, no ban",
+          "toType": "argument"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "The role of legislation is to protect society from harm, but not to protect people from themselves. We do not legislate against fatty foods or lack of exercise, both of which have serious health implications. The individual's freedom is paramount unless serious harm is done by particular act. Taking soft drugs does not harm anybody else and has only minimal negative effects on the person taking them -- it is a 'victcimless crime'. As such, it should not be a crime at all. #pro ",
+          "startLine": 21,
+          "endLine": 30,
+          "startColumn": 7,
+          "endColumn": 33,
+          "isTopLevel": false,
+          "title": "No harm, no ban",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 477,
+              "stop": 481,
+              "tag": "pro"
+            }
+          ],
+          "tags": ["pro"]
+        },
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "",
+          "startLine": 49,
+          "endLine": 49,
+          "startColumn": 16,
+          "endColumn": 33,
+          "isTopLevel": false,
+          "title": "No harm, no ban",
+          "isReference": true
+        }
+      ],
+      "pcs": [],
+      "title": "No harm, no ban",
+      "tags": ["pro"],
+      "fontColor": "#000000",
+      "color": "#1f77b4"
+    },
+    "Law must protect": {
+      "type": "argument",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Soft drugs are harmful",
+          "fromType": "argument",
+          "to": "Law must protect",
+          "toType": "argument"
+        },
+        {
+          "type": "relation",
+          "relationType": "attack",
+          "from": "Law must protect",
+          "fromType": "argument",
+          "to": "Legalisation of Soft Drugs",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "It is right that governments should legislate in a way that overrides personal freedom to protect people from themselves as well as from each other. That is why bare-knuckle boxing is banned and seatbelts are compulsory in some countries (e.g. Britain). These are ways in which personal freedom is overridden by legislation designed to protect personal safety. #con ",
+          "startLine": 31,
+          "endLine": 49,
+          "startColumn": 7,
+          "endColumn": 33,
+          "isTopLevel": false,
+          "title": "Law must protect",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 361,
+              "stop": 365,
+              "tag": "con"
+            }
+          ],
+          "tags": ["con"]
+        }
+      ],
+      "pcs": [],
+      "title": "Law must protect",
+      "tags": ["con"],
+      "fontColor": "#000000",
+      "color": "#ff7f0e"
+    },
+    "Soft drugs are harmful": {
+      "type": "argument",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "attack",
+          "from": "Soft drugs are harmful",
+          "fromType": "argument",
+          "to": "No harm, no ban",
+          "toType": "argument"
+        },
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Soft drugs are harmful",
+          "fromType": "argument",
+          "to": "Law must protect",
+          "toType": "argument"
+        },
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Soft drugs are harmful",
+          "fromType": "argument",
+          "to": "Minimize destructive activity",
+          "toType": "argument"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "Soft drugs are harmful: cannabis smoke (as well as the tobacco with which it is often mixed) is carcinogenic, and prolonged cannabis smoking has been shown to cause brain damage and significant loss of motivation and short-term memory. Amphetamines interfere with the nervous system in a potentially damaging way. Drug-takers also put others at risk by taking mind-altering substances that can lead to unpredictable and dangerous behaviour. #con ",
+          "startLine": 39,
+          "endLine": 49,
+          "startColumn": 11,
+          "endColumn": 33,
+          "isTopLevel": false,
+          "title": "Soft drugs are harmful",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 441,
+              "stop": 445,
+              "tag": "con"
+            }
+          ],
+          "tags": ["con"]
+        },
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "",
+          "startLine": 100,
+          "endLine": 100,
+          "startColumn": 11,
+          "endColumn": 35,
+          "isTopLevel": false,
+          "title": "Soft drugs are harmful",
+          "isReference": true
+        }
+      ],
+      "pcs": [],
+      "title": "Soft drugs are harmful",
+      "tags": ["con"],
+      "fontColor": "#000000",
+      "color": "#ff7f0e"
+    },
+    "Lifestyle decision": {
+      "type": "argument",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "attack",
+          "from": "Moral leadership",
+          "fromType": "argument",
+          "to": "Lifestyle decision",
+          "toType": "argument"
+        },
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Lifestyle decision",
+          "fromType": "argument",
+          "to": "Legalisation of Soft Drugs",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "Individuals should be left to choose their own lifestyle and priorities. If that includes using drugs for pleasure and relaxation then that is a perfectly valid decision. #pro ",
+          "startLine": 50,
+          "endLine": 62,
+          "startColumn": 7,
+          "endColumn": 54,
+          "isTopLevel": false,
+          "title": "Lifestyle decision",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 171,
+              "stop": 175,
+              "tag": "pro"
+            }
+          ],
+          "tags": ["pro"]
+        }
+      ],
+      "pcs": [],
+      "title": "Lifestyle decision",
+      "tags": ["pro"],
+      "fontColor": "#000000",
+      "color": "#1f77b4"
+    },
+    "Moral leadership": {
+      "type": "argument",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "attack",
+          "from": "Moral leadership",
+          "fromType": "argument",
+          "to": "Lifestyle decision",
+          "toType": "argument"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "The government should provide moral leadership as well as legislating to protect the health of the individual and the safety of others. The drug-using lifestyle is a shallow, hedonistic, apathetic, inward-looking, uncreative form of escapism. Governments should legislate and speak out against drugs to discourage young people from this lifestyle and encourage them to engage in healthier and more creative pastimes. #con ",
+          "startLine": 54,
+          "endLine": 62,
+          "startColumn": 11,
+          "endColumn": 54,
+          "isTopLevel": false,
+          "title": "Moral leadership",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 417,
+              "stop": 421,
+              "tag": "con"
+            }
+          ],
+          "tags": ["con"]
+        }
+      ],
+      "pcs": [],
+      "title": "Moral leadership",
+      "tags": ["con"],
+      "fontColor": "#000000",
+      "color": "#ff7f0e"
+    },
+    "Alcohol and tobacco analogy": {
+      "type": "argument",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Tobacco and alcohol more dangerous",
+          "fromType": "argument",
+          "to": "Alcohol and tobacco analogy",
+          "toType": "argument"
+        },
+        {
+          "type": "relation",
+          "relationType": "attack",
+          "from": "Major differences",
+          "fromType": "argument",
+          "to": "Alcohol and tobacco analogy",
+          "toType": "argument"
+        },
+        {
+          "type": "relation",
+          "relationType": "undercut",
+          "from": "Poor reason",
+          "fromType": "argument",
+          "to": "Alcohol and tobacco analogy",
+          "toType": "argument"
+        },
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Alcohol and tobacco analogy",
+          "fromType": "argument",
+          "to": "Legalisation of Soft Drugs",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "The law is currently inconsistent. Cannabis and speed have comparable physical and mental effects to those of alcohol and tobacco, which are legal drugs. If anything, alcohol and tobacco have more seriously damaging effects. If alcohol and tobacco are legal then soft drugs should be too. #pro ",
+          "startLine": 63,
+          "endLine": 87,
+          "startColumn": 7,
+          "endColumn": 59,
+          "isTopLevel": false,
+          "title": "Alcohol and tobacco analogy",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 289,
+              "stop": 293,
+              "tag": "pro"
+            }
+          ],
+          "tags": ["pro"]
+        }
+      ],
+      "pcs": [],
+      "title": "Alcohol and tobacco analogy",
+      "tags": ["pro"],
+      "fontColor": "#000000",
+      "color": "#1f77b4"
+    },
+    "Tobacco and alcohol more dangerous": {
+      "type": "argument",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Tobacco and alcohol more dangerous",
+          "fromType": "argument",
+          "to": "Alcohol and tobacco analogy",
+          "toType": "argument"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": " Tobacco-related diseases kill millions each year, and alcohol is responsible for deaths on the road, civil disorder and domestic violence on a huge scale. Cannabis and speed make people 'spaced out' or hyperactive respectively for short periods in social situations and are relatively harmless. #pro ",
+          "startLine": 70,
+          "endLine": 76,
+          "startColumn": 11,
+          "endColumn": 62,
+          "isTopLevel": false,
+          "title": "Tobacco and alcohol more dangerous",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 296,
+              "stop": 300,
+              "tag": "pro"
+            }
+          ],
+          "tags": ["pro"]
+        }
+      ],
+      "pcs": [],
+      "title": "Tobacco and alcohol more dangerous",
+      "tags": ["pro"],
+      "fontColor": "#000000",
+      "color": "#1f77b4"
+    },
+    "Major differences": {
+      "type": "argument",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "attack",
+          "from": "Major differences",
+          "fromType": "argument",
+          "to": "Alcohol and tobacco analogy",
+          "toType": "argument"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "The effects of soft drugs may be 'comparable' with those of alcohol and tobacco but there are important differences. Cannabis and speed are mindaltering in a way that alcohol and tobacco are not. #con ",
+          "startLine": 77,
+          "endLine": 81,
+          "startColumn": 11,
+          "endColumn": 52,
+          "isTopLevel": false,
+          "title": "Major differences",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 196,
+              "stop": 200,
+              "tag": "con"
+            }
+          ],
+          "tags": ["con"]
+        }
+      ],
+      "pcs": [],
+      "title": "Major differences",
+      "tags": ["con"],
+      "fontColor": "#000000",
+      "color": "#ff7f0e"
+    },
+    "Poor reason": {
+      "type": "argument",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "undercut",
+          "from": "Poor reason",
+          "fromType": "argument",
+          "to": "Alcohol and tobacco analogy",
+          "toType": "argument"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "In any case, the fact that harmful and dangerous substances (tobacco and alcohol) are already, regrettably, socially entrenched is not a good reason to allow two more such substances to become more widely used and socially acceptable. #con ",
+          "startLine": 82,
+          "endLine": 87,
+          "startColumn": 12,
+          "endColumn": 59,
+          "isTopLevel": false,
+          "title": "Poor reason",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 235,
+              "stop": 239,
+              "tag": "con"
+            }
+          ],
+          "tags": ["con"]
+        }
+      ],
+      "pcs": [],
+      "title": "Poor reason",
+      "tags": ["con"],
+      "fontColor": "#000000",
+      "color": "#ff7f0e"
+    },
+    "Listen to society": {
+      "type": "argument",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Listen to society",
+          "fromType": "argument",
+          "to": "Legalisation of Soft Drugs",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "Speed and cannabis are widely used, not just by stereotypical 'drug users', but by a large minority of middle class and professional people. The current law makes criminals of many otherwise respectable' citizens. The government should listen to society. #pro ",
+          "startLine": 88,
+          "endLine": 93,
+          "startColumn": 7,
+          "endColumn": 19,
+          "isTopLevel": false,
+          "title": "Listen to society",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 255,
+              "stop": 259,
+              "tag": "pro"
+            }
+          ],
+          "tags": ["pro"]
+        }
+      ],
+      "pcs": [],
+      "title": "Listen to society",
+      "tags": ["pro"],
+      "fontColor": "#000000",
+      "color": "#1f77b4"
+    },
+    "Minimize destructive activity": {
+      "type": "argument",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Soft drugs are harmful",
+          "fromType": "argument",
+          "to": "Minimize destructive activity",
+          "toType": "argument"
+        },
+        {
+          "type": "relation",
+          "relationType": "attack",
+          "from": "Minimize destructive activity",
+          "fromType": "argument",
+          "to": "Legalisation of Soft Drugs",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "Our aim is to minimise drug use since it is a destructive, dangerous and anti-social activity. Legalising soft drugs will inevitably mean that there is an increase in drug use. Therefore, we should not legalise soft drugs, even if an alarming number of people already use them. #con ",
+          "startLine": 94,
+          "endLine": 100,
+          "startColumn": 7,
+          "endColumn": 35,
+          "isTopLevel": false,
+          "title": "Minimize destructive activity",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 278,
+              "stop": 282,
+              "tag": "con"
+            }
+          ],
+          "tags": ["con"]
+        }
+      ],
+      "pcs": [],
+      "title": "Minimize destructive activity",
+      "tags": ["con"],
+      "fontColor": "#000000",
+      "color": "#ff7f0e"
+    },
+    "Argument from addiction": {
+      "type": "argument",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Soft drugs are addictive",
+          "fromType": "argument",
+          "to": "Argument from addiction",
+          "toType": "argument"
+        },
+        {
+          "type": "relation",
+          "relationType": "undercut",
+          "from": "Addiction no reason to ban",
+          "fromType": "argument",
+          "to": "Argument from addiction",
+          "toType": "argument"
+        },
+        {
+          "type": "relation",
+          "relationType": "attack",
+          "from": "Argument from addiction",
+          "fromType": "argument",
+          "to": "Legalisation of Soft Drugs",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "We should be concerned about any addictive substance. While it would be impractical to ban many psychologically addictive things (like coffee or shopping), in the case of soft drugs they are already banned and there is no reason to reverse that situation. #con ",
+          "startLine": 101,
+          "endLine": 128,
+          "startColumn": 7,
+          "endColumn": 57,
+          "isTopLevel": false,
+          "title": "Argument from addiction",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 256,
+              "stop": 260,
+              "tag": "con"
+            }
+          ],
+          "tags": ["con"]
+        }
+      ],
+      "pcs": [],
+      "title": "Argument from addiction",
+      "tags": ["con"],
+      "fontColor": "#000000",
+      "color": "#ff7f0e"
+    },
+    "Soft drugs are addictive": {
+      "type": "argument",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Soft drugs are addictive",
+          "fromType": "argument",
+          "to": "Argument from addiction",
+          "toType": "argument"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "It is hard to draw an exact line between physical and psychological addiction - they are two sides of the same coin. Recent research has demonstrated that cannabis is highly addictive - in the US in particular, many self-help groups for cannabis addicts have recently been formed,with rapidly growing membership. Whether we call that addiction 'psychological' or 'physical' is immaterial. #con ",
+          "startLine": 107,
+          "endLine": 115,
+          "startColumn": 11,
+          "endColumn": 40,
+          "isTopLevel": false,
+          "title": "Soft drugs are addictive",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 389,
+              "stop": 393,
+              "tag": "con"
+            }
+          ],
+          "tags": ["con"]
+        }
+      ],
+      "pcs": [],
+      "title": "Soft drugs are addictive",
+      "tags": ["con"],
+      "fontColor": "#000000",
+      "color": "#ff7f0e"
+    },
+    "Addiction no reason to ban": {
+      "type": "argument",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "undercut",
+          "from": "Addiction no reason to ban",
+          "fromType": "argument",
+          "to": "Argument from addiction",
+          "toType": "argument"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "Soft drugs are not physically addictive and even if they were that would not be a reason for them to be illegal -- caffeine, alcohol and nicotine are physically addictive and still legal. And being psychologically addictive is even less of a reason to ban something. Manythings, such as shopping, sex, jogging or gambling may be psychologically addictive, and many people are inately susceptible to psychological addiction. We cannot ban all things that a minority might come to depend upon -- we should instead provide counselling for addicts. #pro ",
+          "startLine": 116,
+          "endLine": 128,
+          "startColumn": 12,
+          "endColumn": 57,
+          "isTopLevel": false,
+          "title": "Addiction no reason to ban",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 545,
+              "stop": 549,
+              "tag": "pro"
+            }
+          ],
+          "tags": ["pro"]
+        }
+      ],
+      "pcs": [],
+      "title": "Addiction no reason to ban",
+      "tags": ["pro"],
+      "fontColor": "#000000",
+      "color": "#1f77b4"
+    },
+    "Slippery slope": {
+      "type": "argument",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "attack",
+          "from": "Coffee houses",
+          "fromType": "argument",
+          "to": "Slippery slope",
+          "toType": "argument"
+        },
+        {
+          "type": "relation",
+          "relationType": "attack",
+          "from": "Slippery slope",
+          "fromType": "argument",
+          "to": "Legalisation of Soft Drugs",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "Soft drugs are dangerous because they start people down the 'slippery slope' to using ever-harder drugs. The same dealer will try to push harder drugs onto his clients who use soft drugs, by cutting cannabis or speed with cocaine or heroin or offering free samples to get them hooked. Legalisation of soft drugs would, ironically, provide a whole market for hard drug pushers, who would be able to undercut the prices of duty-inflated market goods. #con ",
+          "startLine": 129,
+          "endLine": 149,
+          "startColumn": 7,
+          "endColumn": 22,
+          "isTopLevel": false,
+          "title": "Slippery slope",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 449,
+              "stop": 453,
+              "tag": "con"
+            }
+          ],
+          "tags": ["con"]
+        }
+      ],
+      "pcs": [],
+      "title": "Slippery slope",
+      "tags": ["con"],
+      "fontColor": "#000000",
+      "color": "#ff7f0e"
+    },
+    "Coffee houses": {
+      "type": "argument",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "attack",
+          "from": "Coffee houses",
+          "fromType": "argument",
+          "to": "Slippery slope",
+          "toType": "argument"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "Legalising soft drugs, and allowing them to  be sold in licensed premises, perhaps like the 'coffee houses' in Amsterdam that sell cannabis, will separate them from the criminal underworld associated with drug dealing. The 'slippery slope' would then no longer exist. People could purchase soft drugs without having to come into contact with dealers who might cut their drugs with harder drugs or try to get them onto harder drugs in other ways. (In any case, only a tiny minority of cannabis users ever go on to use harder drugs.) #pro ",
+          "startLine": 138,
+          "endLine": 149,
+          "startColumn": 11,
+          "endColumn": 22,
+          "isTopLevel": false,
+          "title": "Coffee houses",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 532,
+              "stop": 536,
+              "tag": "pro"
+            }
+          ],
+          "tags": ["pro"]
+        }
+      ],
+      "pcs": [],
+      "title": "Coffee houses",
+      "tags": ["pro"],
+      "fontColor": "#000000",
+      "color": "#1f77b4"
+    },
+    "Tax revenue": {
+      "type": "argument",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Tax revenue",
+          "fromType": "argument",
+          "to": "Legalisation of Soft Drugs",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "Finally, the government could use the sale of soft drugs as a source of revenue through excise duty, as is already done with alcohol and tobacco. #pro ",
+          "startLine": 150,
+          "endLine": 153,
+          "startColumn": 7,
+          "endColumn": 18,
+          "isTopLevel": false,
+          "title": "Tax revenue",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 146,
+              "stop": 150,
+              "tag": "pro"
+            }
+          ],
+          "tags": ["pro"]
+        }
+      ],
+      "pcs": [],
+      "title": "Tax revenue",
+      "tags": ["pro"],
+      "fontColor": "#000000",
+      "color": "#1f77b4"
+    }
+  },
+  "statements": {
+    "Legalisation of Soft Drugs": {
+      "type": "equivalence-class",
+      "title": "Legalisation of Soft Drugs",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "No harm, no ban",
+          "fromType": "argument",
+          "to": "Legalisation of Soft Drugs",
+          "toType": "equivalence-class"
+        },
+        {
+          "type": "relation",
+          "relationType": "attack",
+          "from": "Law must protect",
+          "fromType": "argument",
+          "to": "Legalisation of Soft Drugs",
+          "toType": "equivalence-class"
+        },
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Lifestyle decision",
+          "fromType": "argument",
+          "to": "Legalisation of Soft Drugs",
+          "toType": "equivalence-class"
+        },
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Alcohol and tobacco analogy",
+          "fromType": "argument",
+          "to": "Legalisation of Soft Drugs",
+          "toType": "equivalence-class"
+        },
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Listen to society",
+          "fromType": "argument",
+          "to": "Legalisation of Soft Drugs",
+          "toType": "equivalence-class"
+        },
+        {
+          "type": "relation",
+          "relationType": "attack",
+          "from": "Minimize destructive activity",
+          "fromType": "argument",
+          "to": "Legalisation of Soft Drugs",
+          "toType": "equivalence-class"
+        },
+        {
+          "type": "relation",
+          "relationType": "attack",
+          "from": "Argument from addiction",
+          "fromType": "argument",
+          "to": "Legalisation of Soft Drugs",
+          "toType": "equivalence-class"
+        },
+        {
+          "type": "relation",
+          "relationType": "attack",
+          "from": "Slippery slope",
+          "fromType": "argument",
+          "to": "Legalisation of Soft Drugs",
+          "toType": "equivalence-class"
+        },
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Tax revenue",
+          "fromType": "argument",
+          "to": "Legalisation of Soft Drugs",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "title": "Legalisation of Soft Drugs",
+          "text": "Soft drugs should be legal. ",
+          "startLine": 20,
+          "startColumn": 1,
+          "endLine": 153,
+          "endColumn": 18
+        }
+      ],
+      "isUsedAsTopLevelStatement": true,
+      "fontColor": "#000000",
+      "color": "#1f77b4"
+    }
+  },
+  "relations": [
+    {
+      "type": "relation",
+      "relationType": "support",
+      "from": "No harm, no ban",
+      "fromType": "argument",
+      "to": "Legalisation of Soft Drugs",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "attack",
+      "from": "Soft drugs are harmful",
+      "fromType": "argument",
+      "to": "No harm, no ban",
+      "toType": "argument"
+    },
+    {
+      "type": "relation",
+      "relationType": "support",
+      "from": "Soft drugs are harmful",
+      "fromType": "argument",
+      "to": "Law must protect",
+      "toType": "argument"
+    },
+    {
+      "type": "relation",
+      "relationType": "attack",
+      "from": "Law must protect",
+      "fromType": "argument",
+      "to": "Legalisation of Soft Drugs",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "attack",
+      "from": "Moral leadership",
+      "fromType": "argument",
+      "to": "Lifestyle decision",
+      "toType": "argument"
+    },
+    {
+      "type": "relation",
+      "relationType": "support",
+      "from": "Lifestyle decision",
+      "fromType": "argument",
+      "to": "Legalisation of Soft Drugs",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "support",
+      "from": "Tobacco and alcohol more dangerous",
+      "fromType": "argument",
+      "to": "Alcohol and tobacco analogy",
+      "toType": "argument"
+    },
+    {
+      "type": "relation",
+      "relationType": "attack",
+      "from": "Major differences",
+      "fromType": "argument",
+      "to": "Alcohol and tobacco analogy",
+      "toType": "argument"
+    },
+    {
+      "type": "relation",
+      "relationType": "undercut",
+      "from": "Poor reason",
+      "fromType": "argument",
+      "to": "Alcohol and tobacco analogy",
+      "toType": "argument"
+    },
+    {
+      "type": "relation",
+      "relationType": "support",
+      "from": "Alcohol and tobacco analogy",
+      "fromType": "argument",
+      "to": "Legalisation of Soft Drugs",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "support",
+      "from": "Listen to society",
+      "fromType": "argument",
+      "to": "Legalisation of Soft Drugs",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "support",
+      "from": "Soft drugs are harmful",
+      "fromType": "argument",
+      "to": "Minimize destructive activity",
+      "toType": "argument"
+    },
+    {
+      "type": "relation",
+      "relationType": "attack",
+      "from": "Minimize destructive activity",
+      "fromType": "argument",
+      "to": "Legalisation of Soft Drugs",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "support",
+      "from": "Soft drugs are addictive",
+      "fromType": "argument",
+      "to": "Argument from addiction",
+      "toType": "argument"
+    },
+    {
+      "type": "relation",
+      "relationType": "undercut",
+      "from": "Addiction no reason to ban",
+      "fromType": "argument",
+      "to": "Argument from addiction",
+      "toType": "argument"
+    },
+    {
+      "type": "relation",
+      "relationType": "attack",
+      "from": "Argument from addiction",
+      "fromType": "argument",
+      "to": "Legalisation of Soft Drugs",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "attack",
+      "from": "Coffee houses",
+      "fromType": "argument",
+      "to": "Slippery slope",
+      "toType": "argument"
+    },
+    {
+      "type": "relation",
+      "relationType": "attack",
+      "from": "Slippery slope",
+      "fromType": "argument",
+      "to": "Legalisation of Soft Drugs",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "support",
+      "from": "Tax revenue",
+      "fromType": "argument",
+      "to": "Legalisation of Soft Drugs",
+      "toType": "equivalence-class"
+    }
+  ],
+  "sections": [],
+  "tags": {
+    "pro": {
+      "tag": "pro",
+      "cssClass": "tag-pro",
+      "occurrenceIndex": 0,
+      "color": "#1f77b4"
+    },
+    "con": {
+      "tag": "con",
+      "cssClass": "tag-con",
+      "occurrenceIndex": 1,
+      "color": "#ff7f0e"
+    }
+  }
+}

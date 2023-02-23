@@ -1,0 +1,3150 @@
+{
+  "arguments": {
+    "Epidemic Exposition 1": {
+      "type": "argument",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "Women in the First Division are exposed to epidemic diseases more heavily than those in the Second Divison. #H1 ",
+          "startLine": 95,
+          "endLine": 97,
+          "startColumn": 1,
+          "endColumn": 20,
+          "isTopLevel": true,
+          "section": "s4",
+          "title": "Epidemic Exposition 1",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 108,
+              "stop": 111,
+              "tag": "H1"
+            }
+          ],
+          "tags": ["H1"],
+          "pcs": [
+            {
+              "type": "statement",
+              "title": "Epidemic Influence Hypothesis",
+              "isReference": true,
+              "startLine": 99,
+              "startColumn": 7,
+              "endLine": 99,
+              "endColumn": 38,
+              "section": "s4",
+              "role": "premise",
+              "argumentTitle": "Epidemic Exposition 1"
+            },
+            {
+              "type": "statement",
+              "title": "Difference in Exposure",
+              "isReference": true,
+              "startLine": 100,
+              "startColumn": 7,
+              "endLine": 100,
+              "endColumn": 31,
+              "section": "s4",
+              "role": "premise",
+              "argumentTitle": "Epidemic Exposition 1"
+            },
+            {
+              "type": "statement",
+              "text": "If childbed fever is controlled by infections and women of one group are more frequently infected than those in another group, than members of the first group will catch childbed fever more frequently.",
+              "startLine": 101,
+              "startColumn": 7,
+              "endLine": 104,
+              "endColumn": 45,
+              "title": "Untitled 1",
+              "section": "s4",
+              "role": "premise",
+              "argumentTitle": "Epidemic Exposition 1"
+            },
+            {
+              "type": "statement",
+              "title": "Difference Between Divisions",
+              "isReference": true,
+              "startLine": 106,
+              "startColumn": 7,
+              "endLine": 106,
+              "endColumn": 36,
+              "section": "s4",
+              "role": "main-conclusion",
+              "argumentTitle": "Epidemic Exposition 1",
+              "inference": {
+                "type": "inference",
+                "relations": [],
+                "inferenceRules": [],
+                "startLine": 105,
+                "startColumn": 1,
+                "endLine": 105,
+                "endColumn": 7,
+                "conclusionIndex": 3,
+                "argumentTitle": "Epidemic Exposition 1"
+              }
+            }
+          ]
+        }
+      ],
+      "pcs": [
+        {
+          "type": "statement",
+          "title": "Epidemic Influence Hypothesis",
+          "isReference": true,
+          "startLine": 99,
+          "startColumn": 7,
+          "endLine": 99,
+          "endColumn": 38,
+          "section": "s4",
+          "role": "premise",
+          "argumentTitle": "Epidemic Exposition 1"
+        },
+        {
+          "type": "statement",
+          "title": "Difference in Exposure",
+          "isReference": true,
+          "startLine": 100,
+          "startColumn": 7,
+          "endLine": 100,
+          "endColumn": 31,
+          "section": "s4",
+          "role": "premise",
+          "argumentTitle": "Epidemic Exposition 1"
+        },
+        {
+          "type": "statement",
+          "text": "If childbed fever is controlled by infections and women of one group are more frequently infected than those in another group, than members of the first group will catch childbed fever more frequently.",
+          "startLine": 101,
+          "startColumn": 7,
+          "endLine": 104,
+          "endColumn": 45,
+          "title": "Untitled 1",
+          "section": "s4",
+          "role": "premise",
+          "argumentTitle": "Epidemic Exposition 1"
+        },
+        {
+          "type": "statement",
+          "title": "Difference Between Divisions",
+          "isReference": true,
+          "startLine": 106,
+          "startColumn": 7,
+          "endLine": 106,
+          "endColumn": 36,
+          "section": "s4",
+          "role": "main-conclusion",
+          "argumentTitle": "Epidemic Exposition 1",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 105,
+            "startColumn": 1,
+            "endLine": 105,
+            "endColumn": 7,
+            "conclusionIndex": 3,
+            "argumentTitle": "Epidemic Exposition 1"
+          }
+        }
+      ],
+      "title": "Epidemic Exposition 1",
+      "tags": ["H1"],
+      "section": "s4",
+      "startLine": 99,
+      "startColumn": 1,
+      "endLine": 106,
+      "endColumn": 36,
+      "fontColor": "#000000",
+      "color": "#d95f02"
+    },
+    "Epidemic Exposition 2": {
+      "type": "argument",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "Women in the First Division are exposed to epidemic diseases more heavily than those who give birth at home or on their way to the hospital. #H1 ",
+          "startLine": 109,
+          "endLine": 111,
+          "startColumn": 1,
+          "endColumn": 56,
+          "isTopLevel": true,
+          "section": "s4",
+          "title": "Epidemic Exposition 2",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 141,
+              "stop": 144,
+              "tag": "H1"
+            }
+          ],
+          "tags": ["H1"],
+          "pcs": [
+            {
+              "type": "statement",
+              "title": "Epidemic Influence Hypothesis",
+              "isReference": true,
+              "startLine": 113,
+              "startColumn": 7,
+              "endLine": 113,
+              "endColumn": 38,
+              "section": "s4",
+              "role": "premise",
+              "argumentTitle": "Epidemic Exposition 2"
+            },
+            {
+              "type": "statement",
+              "title": "Difference in Exposure",
+              "isReference": true,
+              "startLine": 114,
+              "startColumn": 7,
+              "endLine": 114,
+              "endColumn": 31,
+              "section": "s4",
+              "role": "premise",
+              "argumentTitle": "Epidemic Exposition 2"
+            },
+            {
+              "type": "statement",
+              "text": "If childbed fever is controlled by infections and women of one group are more frequently infected than those in another group, than members of the first group will catch childbed fever more frequently.",
+              "startLine": 115,
+              "startColumn": 7,
+              "endLine": 118,
+              "endColumn": 45,
+              "title": "Untitled 2",
+              "section": "s4",
+              "role": "premise",
+              "argumentTitle": "Epidemic Exposition 2"
+            },
+            {
+              "type": "statement",
+              "title": "Birth at Home",
+              "isReference": true,
+              "startLine": 120,
+              "startColumn": 7,
+              "endLine": 120,
+              "endColumn": 21,
+              "section": "s4",
+              "role": "main-conclusion",
+              "argumentTitle": "Epidemic Exposition 2",
+              "inference": {
+                "type": "inference",
+                "relations": [],
+                "inferenceRules": [],
+                "startLine": 119,
+                "startColumn": 1,
+                "endLine": 119,
+                "endColumn": 7,
+                "conclusionIndex": 3,
+                "argumentTitle": "Epidemic Exposition 2"
+              }
+            }
+          ]
+        }
+      ],
+      "pcs": [
+        {
+          "type": "statement",
+          "title": "Epidemic Influence Hypothesis",
+          "isReference": true,
+          "startLine": 113,
+          "startColumn": 7,
+          "endLine": 113,
+          "endColumn": 38,
+          "section": "s4",
+          "role": "premise",
+          "argumentTitle": "Epidemic Exposition 2"
+        },
+        {
+          "type": "statement",
+          "title": "Difference in Exposure",
+          "isReference": true,
+          "startLine": 114,
+          "startColumn": 7,
+          "endLine": 114,
+          "endColumn": 31,
+          "section": "s4",
+          "role": "premise",
+          "argumentTitle": "Epidemic Exposition 2"
+        },
+        {
+          "type": "statement",
+          "text": "If childbed fever is controlled by infections and women of one group are more frequently infected than those in another group, than members of the first group will catch childbed fever more frequently.",
+          "startLine": 115,
+          "startColumn": 7,
+          "endLine": 118,
+          "endColumn": 45,
+          "title": "Untitled 2",
+          "section": "s4",
+          "role": "premise",
+          "argumentTitle": "Epidemic Exposition 2"
+        },
+        {
+          "type": "statement",
+          "title": "Birth at Home",
+          "isReference": true,
+          "startLine": 120,
+          "startColumn": 7,
+          "endLine": 120,
+          "endColumn": 21,
+          "section": "s4",
+          "role": "main-conclusion",
+          "argumentTitle": "Epidemic Exposition 2",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 119,
+            "startColumn": 1,
+            "endLine": 119,
+            "endColumn": 7,
+            "conclusionIndex": 3,
+            "argumentTitle": "Epidemic Exposition 2"
+          }
+        }
+      ],
+      "title": "Epidemic Exposition 2",
+      "tags": ["H1"],
+      "section": "s4",
+      "startLine": 113,
+      "startColumn": 1,
+      "endLine": 120,
+      "endColumn": 21,
+      "fontColor": "#000000",
+      "color": "#d95f02"
+    },
+    "Epidemic Variations": {
+      "type": "argument",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "If caused by epidemic diseases, childbed fever would show characteristic variations. #H1 ",
+          "startLine": 123,
+          "endLine": 124,
+          "startColumn": 1,
+          "endColumn": 57,
+          "isTopLevel": true,
+          "section": "s4",
+          "title": "Epidemic Variations",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 85,
+              "stop": 88,
+              "tag": "H1"
+            }
+          ],
+          "tags": ["H1"],
+          "pcs": [
+            {
+              "type": "statement",
+              "title": "Epidemic Influence Hypothesis",
+              "isReference": true,
+              "startLine": 126,
+              "startColumn": 7,
+              "endLine": 126,
+              "endColumn": 38,
+              "section": "s4",
+              "role": "premise",
+              "argumentTitle": "Epidemic Variations"
+            },
+            {
+              "type": "statement",
+              "text": "If childbed fever is controlled by infections, then it displays spatio-temporal variations (e.g. seasonal, or from district to district) that are characteristic for epidemic diseases.",
+              "startLine": 127,
+              "startColumn": 7,
+              "endLine": 130,
+              "endColumn": 21,
+              "title": "Untitled 3",
+              "section": "s4",
+              "role": "premise",
+              "argumentTitle": "Epidemic Variations"
+            },
+            {
+              "type": "statement",
+              "text": "Cases of childbed fever and corresponding mortality rates display spatio-temporal variations (e.g. seasonal, or from district to district) that are characteristic for epidemic diseases.",
+              "title": "Untitled 4",
+              "startLine": 132,
+              "startColumn": 7,
+              "endLine": 136,
+              "endColumn": 22,
+              "section": "s4",
+              "role": "main-conclusion",
+              "argumentTitle": "Epidemic Variations",
+              "inference": {
+                "type": "inference",
+                "relations": [],
+                "inferenceRules": [],
+                "startLine": 131,
+                "startColumn": 1,
+                "endLine": 131,
+                "endColumn": 7,
+                "conclusionIndex": 2,
+                "argumentTitle": "Epidemic Variations"
+              }
+            }
+          ]
+        }
+      ],
+      "pcs": [
+        {
+          "type": "statement",
+          "title": "Epidemic Influence Hypothesis",
+          "isReference": true,
+          "startLine": 126,
+          "startColumn": 7,
+          "endLine": 126,
+          "endColumn": 38,
+          "section": "s4",
+          "role": "premise",
+          "argumentTitle": "Epidemic Variations"
+        },
+        {
+          "type": "statement",
+          "text": "If childbed fever is controlled by infections, then it displays spatio-temporal variations (e.g. seasonal, or from district to district) that are characteristic for epidemic diseases.",
+          "startLine": 127,
+          "startColumn": 7,
+          "endLine": 130,
+          "endColumn": 21,
+          "title": "Untitled 3",
+          "section": "s4",
+          "role": "premise",
+          "argumentTitle": "Epidemic Variations"
+        },
+        {
+          "type": "statement",
+          "text": "Cases of childbed fever and corresponding mortality rates display spatio-temporal variations (e.g. seasonal, or from district to district) that are characteristic for epidemic diseases.",
+          "title": "Untitled 4",
+          "startLine": 132,
+          "startColumn": 7,
+          "endLine": 136,
+          "endColumn": 22,
+          "section": "s4",
+          "role": "main-conclusion",
+          "argumentTitle": "Epidemic Variations",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 131,
+            "startColumn": 1,
+            "endLine": 131,
+            "endColumn": 7,
+            "conclusionIndex": 2,
+            "argumentTitle": "Epidemic Variations"
+          }
+        }
+      ],
+      "title": "Epidemic Variations",
+      "tags": ["H1"],
+      "section": "s4",
+      "startLine": 126,
+      "startColumn": 1,
+      "endLine": 136,
+      "endColumn": 22,
+      "fontColor": "#000000",
+      "color": "#d95f02"
+    },
+    "Inexperienced Medical Students": {
+      "type": "argument",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "Women in the First Division are examined by medical students who, because of their inexperience, cause more injuries due to rough examinations than midwives. #H2 ",
+          "startLine": 148,
+          "endLine": 151,
+          "startColumn": 1,
+          "endColumn": 32,
+          "isTopLevel": true,
+          "section": "s5",
+          "title": "Inexperienced Medical Students",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 158,
+              "stop": 161,
+              "tag": "H2"
+            }
+          ],
+          "tags": ["H2"],
+          "pcs": [
+            {
+              "type": "statement",
+              "title": "Rough Examination Hypothesis",
+              "isReference": true,
+              "startLine": 153,
+              "startColumn": 7,
+              "endLine": 153,
+              "endColumn": 37,
+              "section": "s5",
+              "role": "premise",
+              "argumentTitle": "Inexperienced Medical Students"
+            },
+            {
+              "type": "statement",
+              "title": "Medical Students vs Midwives",
+              "text": "Women in the First Division are examined by medical students, women in the Second Division by midwives.",
+              "startLine": 154,
+              "startColumn": 7,
+              "endLine": 156,
+              "endColumn": 31,
+              "section": "s5",
+              "role": "premise",
+              "argumentTitle": "Inexperienced Medical Students"
+            },
+            {
+              "type": "statement",
+              "title": "More Injuries",
+              "text": "Due to their inexperience, medical students cause more injuries during examination than midwives. #H2 ",
+              "ranges": [
+                {
+                  "type": "tag",
+                  "start": 98,
+                  "stop": 101,
+                  "tag": "H2"
+                }
+              ],
+              "tags": ["H2"],
+              "startLine": 157,
+              "startColumn": 7,
+              "endLine": 159,
+              "endColumn": 17,
+              "section": "s5",
+              "role": "premise",
+              "argumentTitle": "Inexperienced Medical Students"
+            },
+            {
+              "type": "statement",
+              "text": "If childbed fever is caused by injuries and women in one group are examined by persons who inflict more injuries than those persons which examine women in another group, then members of the former group will suffer from childbed fever more frequently.",
+              "title": "Untitled 5",
+              "startLine": 160,
+              "startColumn": 7,
+              "endLine": 166,
+              "endColumn": 61,
+              "section": "s5",
+              "role": "premise",
+              "argumentTitle": "Inexperienced Medical Students"
+            },
+            {
+              "type": "statement",
+              "title": "Difference Between Divisions",
+              "isReference": true,
+              "startLine": 168,
+              "startColumn": 7,
+              "endLine": 168,
+              "endColumn": 36,
+              "section": "s5",
+              "role": "main-conclusion",
+              "argumentTitle": "Inexperienced Medical Students",
+              "inference": {
+                "type": "inference",
+                "relations": [],
+                "inferenceRules": [],
+                "startLine": 167,
+                "startColumn": 1,
+                "endLine": 167,
+                "endColumn": 7,
+                "conclusionIndex": 4,
+                "argumentTitle": "Inexperienced Medical Students"
+              }
+            }
+          ]
+        }
+      ],
+      "pcs": [
+        {
+          "type": "statement",
+          "title": "Rough Examination Hypothesis",
+          "isReference": true,
+          "startLine": 153,
+          "startColumn": 7,
+          "endLine": 153,
+          "endColumn": 37,
+          "section": "s5",
+          "role": "premise",
+          "argumentTitle": "Inexperienced Medical Students"
+        },
+        {
+          "type": "statement",
+          "title": "Medical Students vs Midwives",
+          "text": "Women in the First Division are examined by medical students, women in the Second Division by midwives.",
+          "startLine": 154,
+          "startColumn": 7,
+          "endLine": 156,
+          "endColumn": 31,
+          "section": "s5",
+          "role": "premise",
+          "argumentTitle": "Inexperienced Medical Students"
+        },
+        {
+          "type": "statement",
+          "title": "More Injuries",
+          "text": "Due to their inexperience, medical students cause more injuries during examination than midwives. #H2 ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 98,
+              "stop": 101,
+              "tag": "H2"
+            }
+          ],
+          "tags": ["H2"],
+          "startLine": 157,
+          "startColumn": 7,
+          "endLine": 159,
+          "endColumn": 17,
+          "section": "s5",
+          "role": "premise",
+          "argumentTitle": "Inexperienced Medical Students"
+        },
+        {
+          "type": "statement",
+          "text": "If childbed fever is caused by injuries and women in one group are examined by persons who inflict more injuries than those persons which examine women in another group, then members of the former group will suffer from childbed fever more frequently.",
+          "title": "Untitled 5",
+          "startLine": 160,
+          "startColumn": 7,
+          "endLine": 166,
+          "endColumn": 61,
+          "section": "s5",
+          "role": "premise",
+          "argumentTitle": "Inexperienced Medical Students"
+        },
+        {
+          "type": "statement",
+          "title": "Difference Between Divisions",
+          "isReference": true,
+          "startLine": 168,
+          "startColumn": 7,
+          "endLine": 168,
+          "endColumn": 36,
+          "section": "s5",
+          "role": "main-conclusion",
+          "argumentTitle": "Inexperienced Medical Students",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 167,
+            "startColumn": 1,
+            "endLine": 167,
+            "endColumn": 7,
+            "conclusionIndex": 4,
+            "argumentTitle": "Inexperienced Medical Students"
+          }
+        }
+      ],
+      "title": "Inexperienced Medical Students",
+      "tags": ["H2"],
+      "section": "s5",
+      "startLine": 153,
+      "startColumn": 1,
+      "endLine": 168,
+      "endColumn": 36,
+      "fontColor": "#000000",
+      "color": "#7570b3"
+    },
+    "Medical Students Skillfull": {
+      "type": "argument",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "Medical students are no less skillfull than midwives and carry out the examinations in approximately the same way.",
+          "startLine": 171,
+          "endLine": 173,
+          "startColumn": 1,
+          "endColumn": 27,
+          "isTopLevel": true,
+          "section": "s5",
+          "title": "Medical Students Skillfull",
+          "pcs": [
+            {
+              "type": "statement",
+              "text": "Medical students are no less skillfull than midwives and carry out the examinations in approximately the same way.",
+              "startLine": 175,
+              "startColumn": 7,
+              "endLine": 177,
+              "endColumn": 7,
+              "title": "Untitled 6",
+              "section": "s5",
+              "role": "premise",
+              "argumentTitle": "Medical Students Skillfull"
+            },
+            {
+              "type": "statement",
+              "text": "If medical students are no less skillfull than midwives and carry out the examinations in approximately the same way, then they cause no more injuries during examination than midwives.",
+              "startLine": 178,
+              "startColumn": 7,
+              "endLine": 181,
+              "endColumn": 29,
+              "title": "Untitled 7",
+              "section": "s5",
+              "role": "premise",
+              "argumentTitle": "Medical Students Skillfull"
+            },
+            {
+              "type": "statement",
+              "text": "Medical students don't cause more injuries during examination than midwives.",
+              "title": "Untitled 8",
+              "startLine": 183,
+              "startColumn": 7,
+              "endLine": 185,
+              "endColumn": 22,
+              "section": "s5",
+              "role": "main-conclusion",
+              "argumentTitle": "Medical Students Skillfull",
+              "inference": {
+                "type": "inference",
+                "relations": [],
+                "inferenceRules": [],
+                "startLine": 182,
+                "startColumn": 1,
+                "endLine": 182,
+                "endColumn": 7,
+                "conclusionIndex": 2,
+                "argumentTitle": "Medical Students Skillfull"
+              }
+            }
+          ]
+        }
+      ],
+      "pcs": [
+        {
+          "type": "statement",
+          "text": "Medical students are no less skillfull than midwives and carry out the examinations in approximately the same way.",
+          "startLine": 175,
+          "startColumn": 7,
+          "endLine": 177,
+          "endColumn": 7,
+          "title": "Untitled 6",
+          "section": "s5",
+          "role": "premise",
+          "argumentTitle": "Medical Students Skillfull"
+        },
+        {
+          "type": "statement",
+          "text": "If medical students are no less skillfull than midwives and carry out the examinations in approximately the same way, then they cause no more injuries during examination than midwives.",
+          "startLine": 178,
+          "startColumn": 7,
+          "endLine": 181,
+          "endColumn": 29,
+          "title": "Untitled 7",
+          "section": "s5",
+          "role": "premise",
+          "argumentTitle": "Medical Students Skillfull"
+        },
+        {
+          "type": "statement",
+          "text": "Medical students don't cause more injuries during examination than midwives.",
+          "title": "Untitled 8",
+          "startLine": 183,
+          "startColumn": 7,
+          "endLine": 185,
+          "endColumn": 22,
+          "section": "s5",
+          "role": "main-conclusion",
+          "argumentTitle": "Medical Students Skillfull",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 182,
+            "startColumn": 1,
+            "endLine": 182,
+            "endColumn": 7,
+            "conclusionIndex": 2,
+            "argumentTitle": "Medical Students Skillfull"
+          }
+        }
+      ],
+      "title": "Medical Students Skillfull",
+      "section": "s5",
+      "startLine": 175,
+      "startColumn": 1,
+      "endLine": 185,
+      "endColumn": 22,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Main Injuries due to Birth": {
+      "type": "argument",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "The main injuries that women suffer are due to giving birth itself and not to previous or posterior examinations.",
+          "startLine": 188,
+          "endLine": 190,
+          "startColumn": 1,
+          "endColumn": 26,
+          "isTopLevel": true,
+          "section": "s5",
+          "title": "Main Injuries due to Birth",
+          "pcs": [
+            {
+              "type": "statement",
+              "text": "The main injuries that women suffer are due to giving birth itself and not to previous or posterior examinations.",
+              "startLine": 192,
+              "startColumn": 7,
+              "endLine": 194,
+              "endColumn": 16,
+              "title": "Untitled 9",
+              "section": "s5",
+              "role": "premise",
+              "argumentTitle": "Main Injuries due to Birth"
+            },
+            {
+              "type": "statement",
+              "text": "If injuries that stem from examinations are much less severe than the injuries which stem from giving birth itself, all women that give birth, no matter whether they have been examined roughly or not, will suffer from the same degree of injuries.",
+              "startLine": 195,
+              "startColumn": 7,
+              "endLine": 199,
+              "endColumn": 27,
+              "title": "Untitled 10",
+              "section": "s5",
+              "role": "premise",
+              "argumentTitle": "Main Injuries due to Birth"
+            },
+            {
+              "type": "statement",
+              "text": "If all women who give birth, no matter whether they have been examined roughly or not, will suffer from the same degree of injuries, then difference in examination doesn't entail difference in childbed fever (i.e., it is not the case that, provided childbed fever is caused by injuries and women in one group are examined by persons who inflict more injuries than those persons which examine women in another group, members of the former group will suffer from childbed fever more frequently).",
+              "startLine": 200,
+              "startColumn": 7,
+              "endLine": 208,
+              "endColumn": 58,
+              "title": "Untitled 11",
+              "section": "s5",
+              "role": "premise",
+              "argumentTitle": "Main Injuries due to Birth"
+            },
+            {
+              "type": "statement",
+              "title": "Examination Injuries Insignificant",
+              "isReference": true,
+              "startLine": 210,
+              "startColumn": 7,
+              "endLine": 210,
+              "endColumn": 42,
+              "section": "s5",
+              "role": "main-conclusion",
+              "argumentTitle": "Main Injuries due to Birth",
+              "inference": {
+                "type": "inference",
+                "relations": [],
+                "inferenceRules": [],
+                "startLine": 209,
+                "startColumn": 1,
+                "endLine": 209,
+                "endColumn": 7,
+                "conclusionIndex": 3,
+                "argumentTitle": "Main Injuries due to Birth"
+              }
+            }
+          ]
+        }
+      ],
+      "pcs": [
+        {
+          "type": "statement",
+          "text": "The main injuries that women suffer are due to giving birth itself and not to previous or posterior examinations.",
+          "startLine": 192,
+          "startColumn": 7,
+          "endLine": 194,
+          "endColumn": 16,
+          "title": "Untitled 9",
+          "section": "s5",
+          "role": "premise",
+          "argumentTitle": "Main Injuries due to Birth"
+        },
+        {
+          "type": "statement",
+          "text": "If injuries that stem from examinations are much less severe than the injuries which stem from giving birth itself, all women that give birth, no matter whether they have been examined roughly or not, will suffer from the same degree of injuries.",
+          "startLine": 195,
+          "startColumn": 7,
+          "endLine": 199,
+          "endColumn": 27,
+          "title": "Untitled 10",
+          "section": "s5",
+          "role": "premise",
+          "argumentTitle": "Main Injuries due to Birth"
+        },
+        {
+          "type": "statement",
+          "text": "If all women who give birth, no matter whether they have been examined roughly or not, will suffer from the same degree of injuries, then difference in examination doesn't entail difference in childbed fever (i.e., it is not the case that, provided childbed fever is caused by injuries and women in one group are examined by persons who inflict more injuries than those persons which examine women in another group, members of the former group will suffer from childbed fever more frequently).",
+          "startLine": 200,
+          "startColumn": 7,
+          "endLine": 208,
+          "endColumn": 58,
+          "title": "Untitled 11",
+          "section": "s5",
+          "role": "premise",
+          "argumentTitle": "Main Injuries due to Birth"
+        },
+        {
+          "type": "statement",
+          "title": "Examination Injuries Insignificant",
+          "isReference": true,
+          "startLine": 210,
+          "startColumn": 7,
+          "endLine": 210,
+          "endColumn": 42,
+          "section": "s5",
+          "role": "main-conclusion",
+          "argumentTitle": "Main Injuries due to Birth",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 209,
+            "startColumn": 1,
+            "endLine": 209,
+            "endColumn": 7,
+            "conclusionIndex": 3,
+            "argumentTitle": "Main Injuries due to Birth"
+          }
+        }
+      ],
+      "title": "Main Injuries due to Birth",
+      "section": "s5",
+      "startLine": 192,
+      "startColumn": 1,
+      "endLine": 210,
+      "endColumn": 42,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Medical Students Contaminate 1": {
+      "type": "argument",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "Medical students, who carry out examinations in the First but not in the Second Division, contaminate the women with cadavric substance. #H3 ",
+          "startLine": 222,
+          "endLine": 225,
+          "startColumn": 1,
+          "endColumn": 4,
+          "isTopLevel": true,
+          "section": "s6",
+          "title": "Medical Students Contaminate 1",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 137,
+              "stop": 140,
+              "tag": "H3"
+            }
+          ],
+          "tags": ["H3"],
+          "pcs": [
+            {
+              "type": "statement",
+              "title": "Cadavric Substance Hypothesis",
+              "isReference": true,
+              "startLine": 227,
+              "startColumn": 7,
+              "endLine": 227,
+              "endColumn": 38,
+              "section": "s6",
+              "role": "premise",
+              "argumentTitle": "Medical Students Contaminate 1"
+            },
+            {
+              "type": "statement",
+              "title": "Medical Students vs Midwives",
+              "text": "Women in the First Division are examined by medical students, women in the Second Division by midwives.",
+              "startLine": 228,
+              "startColumn": 7,
+              "endLine": 230,
+              "endColumn": 31,
+              "section": "s6",
+              "role": "premise",
+              "argumentTitle": "Medical Students Contaminate 1"
+            },
+            {
+              "type": "statement",
+              "text": "Medical students are, by default and unlike midwives, stained with cadavric substance and contamine the persons they examine.",
+              "startLine": 231,
+              "startColumn": 7,
+              "endLine": 233,
+              "endColumn": 16,
+              "title": "Untitled 12",
+              "section": "s6",
+              "role": "premise",
+              "argumentTitle": "Medical Students Contaminate 1"
+            },
+            {
+              "type": "statement",
+              "text": "If childbed fever is caused by contamination with cadavric substance and if women in one group are contaminated to a higher degree than women in another group, then members of the former group will suffer from childbed fever more frequently.",
+              "startLine": 234,
+              "startColumn": 7,
+              "endLine": 238,
+              "endColumn": 34,
+              "title": "Untitled 13",
+              "section": "s6",
+              "role": "premise",
+              "argumentTitle": "Medical Students Contaminate 1"
+            },
+            {
+              "type": "statement",
+              "title": "Difference Between Divisions",
+              "isReference": true,
+              "startLine": 240,
+              "startColumn": 7,
+              "endLine": 240,
+              "endColumn": 36,
+              "section": "s6",
+              "role": "main-conclusion",
+              "argumentTitle": "Medical Students Contaminate 1",
+              "inference": {
+                "type": "inference",
+                "relations": [],
+                "inferenceRules": [],
+                "startLine": 239,
+                "startColumn": 1,
+                "endLine": 239,
+                "endColumn": 7,
+                "conclusionIndex": 4,
+                "argumentTitle": "Medical Students Contaminate 1"
+              }
+            }
+          ]
+        }
+      ],
+      "pcs": [
+        {
+          "type": "statement",
+          "title": "Cadavric Substance Hypothesis",
+          "isReference": true,
+          "startLine": 227,
+          "startColumn": 7,
+          "endLine": 227,
+          "endColumn": 38,
+          "section": "s6",
+          "role": "premise",
+          "argumentTitle": "Medical Students Contaminate 1"
+        },
+        {
+          "type": "statement",
+          "title": "Medical Students vs Midwives",
+          "text": "Women in the First Division are examined by medical students, women in the Second Division by midwives.",
+          "startLine": 228,
+          "startColumn": 7,
+          "endLine": 230,
+          "endColumn": 31,
+          "section": "s6",
+          "role": "premise",
+          "argumentTitle": "Medical Students Contaminate 1"
+        },
+        {
+          "type": "statement",
+          "text": "Medical students are, by default and unlike midwives, stained with cadavric substance and contamine the persons they examine.",
+          "startLine": 231,
+          "startColumn": 7,
+          "endLine": 233,
+          "endColumn": 16,
+          "title": "Untitled 12",
+          "section": "s6",
+          "role": "premise",
+          "argumentTitle": "Medical Students Contaminate 1"
+        },
+        {
+          "type": "statement",
+          "text": "If childbed fever is caused by contamination with cadavric substance and if women in one group are contaminated to a higher degree than women in another group, then members of the former group will suffer from childbed fever more frequently.",
+          "startLine": 234,
+          "startColumn": 7,
+          "endLine": 238,
+          "endColumn": 34,
+          "title": "Untitled 13",
+          "section": "s6",
+          "role": "premise",
+          "argumentTitle": "Medical Students Contaminate 1"
+        },
+        {
+          "type": "statement",
+          "title": "Difference Between Divisions",
+          "isReference": true,
+          "startLine": 240,
+          "startColumn": 7,
+          "endLine": 240,
+          "endColumn": 36,
+          "section": "s6",
+          "role": "main-conclusion",
+          "argumentTitle": "Medical Students Contaminate 1",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 239,
+            "startColumn": 1,
+            "endLine": 239,
+            "endColumn": 7,
+            "conclusionIndex": 4,
+            "argumentTitle": "Medical Students Contaminate 1"
+          }
+        }
+      ],
+      "title": "Medical Students Contaminate 1",
+      "tags": ["H3"],
+      "section": "s6",
+      "startLine": 227,
+      "startColumn": 1,
+      "endLine": 240,
+      "endColumn": 36,
+      "fontColor": "#000000",
+      "color": "#e7298a"
+    },
+    "Medical Students Contaminate 2": {
+      "type": "argument",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "Medical students, who carry out examinations, contaminate the women in the First Division with cadavric substance, yet not those who give birth at home. #H3 ",
+          "startLine": 243,
+          "endLine": 246,
+          "startColumn": 1,
+          "endColumn": 19,
+          "isTopLevel": true,
+          "section": "s6",
+          "title": "Medical Students Contaminate 2",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 153,
+              "stop": 156,
+              "tag": "H3"
+            }
+          ],
+          "tags": ["H3"],
+          "pcs": [
+            {
+              "type": "statement",
+              "title": "Cadavric Substance Hypothesis",
+              "isReference": true,
+              "startLine": 248,
+              "startColumn": 7,
+              "endLine": 248,
+              "endColumn": 38,
+              "section": "s6",
+              "role": "premise",
+              "argumentTitle": "Medical Students Contaminate 2"
+            },
+            {
+              "type": "statement",
+              "text": "Women in the First Division are examined by medical students, women who give birth at home or on their way to the hospital not.",
+              "startLine": 249,
+              "startColumn": 7,
+              "endLine": 251,
+              "endColumn": 20,
+              "title": "Untitled 14",
+              "section": "s6",
+              "role": "premise",
+              "argumentTitle": "Medical Students Contaminate 2"
+            },
+            {
+              "type": "statement",
+              "text": "Medical students are, by default, stained with cadavric substance and contaminate the persons they examine.",
+              "startLine": 252,
+              "startColumn": 7,
+              "endLine": 254,
+              "endColumn": 11,
+              "title": "Untitled 15",
+              "section": "s6",
+              "role": "premise",
+              "argumentTitle": "Medical Students Contaminate 2"
+            },
+            {
+              "type": "statement",
+              "text": "If childbed fever is caused by contamination with cadavric substance and if women in one group are contaminated to a higher degree than women in another group, then members of the former group will suffer from childbed fever more frequently.",
+              "startLine": 255,
+              "startColumn": 7,
+              "endLine": 259,
+              "endColumn": 34,
+              "title": "Untitled 16",
+              "section": "s6",
+              "role": "premise",
+              "argumentTitle": "Medical Students Contaminate 2"
+            },
+            {
+              "type": "statement",
+              "title": "Birth at Home",
+              "isReference": true,
+              "startLine": 261,
+              "startColumn": 7,
+              "endLine": 261,
+              "endColumn": 21,
+              "section": "s6",
+              "role": "main-conclusion",
+              "argumentTitle": "Medical Students Contaminate 2",
+              "inference": {
+                "type": "inference",
+                "relations": [],
+                "inferenceRules": [],
+                "startLine": 260,
+                "startColumn": 1,
+                "endLine": 260,
+                "endColumn": 7,
+                "conclusionIndex": 4,
+                "argumentTitle": "Medical Students Contaminate 2"
+              }
+            }
+          ]
+        }
+      ],
+      "pcs": [
+        {
+          "type": "statement",
+          "title": "Cadavric Substance Hypothesis",
+          "isReference": true,
+          "startLine": 248,
+          "startColumn": 7,
+          "endLine": 248,
+          "endColumn": 38,
+          "section": "s6",
+          "role": "premise",
+          "argumentTitle": "Medical Students Contaminate 2"
+        },
+        {
+          "type": "statement",
+          "text": "Women in the First Division are examined by medical students, women who give birth at home or on their way to the hospital not.",
+          "startLine": 249,
+          "startColumn": 7,
+          "endLine": 251,
+          "endColumn": 20,
+          "title": "Untitled 14",
+          "section": "s6",
+          "role": "premise",
+          "argumentTitle": "Medical Students Contaminate 2"
+        },
+        {
+          "type": "statement",
+          "text": "Medical students are, by default, stained with cadavric substance and contaminate the persons they examine.",
+          "startLine": 252,
+          "startColumn": 7,
+          "endLine": 254,
+          "endColumn": 11,
+          "title": "Untitled 15",
+          "section": "s6",
+          "role": "premise",
+          "argumentTitle": "Medical Students Contaminate 2"
+        },
+        {
+          "type": "statement",
+          "text": "If childbed fever is caused by contamination with cadavric substance and if women in one group are contaminated to a higher degree than women in another group, then members of the former group will suffer from childbed fever more frequently.",
+          "startLine": 255,
+          "startColumn": 7,
+          "endLine": 259,
+          "endColumn": 34,
+          "title": "Untitled 16",
+          "section": "s6",
+          "role": "premise",
+          "argumentTitle": "Medical Students Contaminate 2"
+        },
+        {
+          "type": "statement",
+          "title": "Birth at Home",
+          "isReference": true,
+          "startLine": 261,
+          "startColumn": 7,
+          "endLine": 261,
+          "endColumn": 21,
+          "section": "s6",
+          "role": "main-conclusion",
+          "argumentTitle": "Medical Students Contaminate 2",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 260,
+            "startColumn": 1,
+            "endLine": 260,
+            "endColumn": 7,
+            "conclusionIndex": 4,
+            "argumentTitle": "Medical Students Contaminate 2"
+          }
+        }
+      ],
+      "title": "Medical Students Contaminate 2",
+      "tags": ["H3"],
+      "section": "s6",
+      "startLine": 248,
+      "startColumn": 1,
+      "endLine": 261,
+      "endColumn": 21,
+      "fontColor": "#000000",
+      "color": "#e7298a"
+    },
+    "Washing Blocks Contamination": {
+      "type": "argument",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "Disinfecting, by preventing contamination with cadavric substance, reduces the ratio of women who suffer from childbed fever. #H3 ",
+          "startLine": 264,
+          "endLine": 266,
+          "startColumn": 1,
+          "endColumn": 42,
+          "isTopLevel": true,
+          "section": "s6",
+          "title": "Washing Blocks Contamination",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 126,
+              "stop": 129,
+              "tag": "H3"
+            }
+          ],
+          "tags": ["H3"],
+          "pcs": [
+            {
+              "type": "statement",
+              "title": "Cadavric Substance Hypothesis",
+              "isReference": true,
+              "startLine": 268,
+              "startColumn": 7,
+              "endLine": 268,
+              "endColumn": 38,
+              "section": "s6",
+              "role": "premise",
+              "argumentTitle": "Washing Blocks Contamination"
+            },
+            {
+              "type": "statement",
+              "text": "If the students who examine the women in the First Division disinfect their hands, they reduce the extent to which they are stained with cadavric substance.",
+              "startLine": 269,
+              "startColumn": 7,
+              "endLine": 271,
+              "endColumn": 50,
+              "title": "Untitled 17",
+              "section": "s6",
+              "role": "premise",
+              "argumentTitle": "Washing Blocks Contamination"
+            },
+            {
+              "type": "statement",
+              "text": "If the students who examine the women in the First Division reduce the extent to which they are stained with cadavric substance, and if childbed fever is caused by contamination with cadavric substance, then fewer persons examined by the students will suffer from childbed fever.",
+              "startLine": 272,
+              "startColumn": 7,
+              "endLine": 276,
+              "endColumn": 60,
+              "title": "Untitled 18",
+              "section": "s6",
+              "role": "premise",
+              "argumentTitle": "Washing Blocks Contamination"
+            },
+            {
+              "type": "statement",
+              "title": "Washing Helps",
+              "isReference": true,
+              "startLine": 278,
+              "startColumn": 7,
+              "endLine": 278,
+              "endColumn": 21,
+              "section": "s6",
+              "role": "main-conclusion",
+              "argumentTitle": "Washing Blocks Contamination",
+              "inference": {
+                "type": "inference",
+                "relations": [],
+                "inferenceRules": [],
+                "startLine": 277,
+                "startColumn": 1,
+                "endLine": 277,
+                "endColumn": 7,
+                "conclusionIndex": 3,
+                "argumentTitle": "Washing Blocks Contamination"
+              }
+            }
+          ]
+        }
+      ],
+      "pcs": [
+        {
+          "type": "statement",
+          "title": "Cadavric Substance Hypothesis",
+          "isReference": true,
+          "startLine": 268,
+          "startColumn": 7,
+          "endLine": 268,
+          "endColumn": 38,
+          "section": "s6",
+          "role": "premise",
+          "argumentTitle": "Washing Blocks Contamination"
+        },
+        {
+          "type": "statement",
+          "text": "If the students who examine the women in the First Division disinfect their hands, they reduce the extent to which they are stained with cadavric substance.",
+          "startLine": 269,
+          "startColumn": 7,
+          "endLine": 271,
+          "endColumn": 50,
+          "title": "Untitled 17",
+          "section": "s6",
+          "role": "premise",
+          "argumentTitle": "Washing Blocks Contamination"
+        },
+        {
+          "type": "statement",
+          "text": "If the students who examine the women in the First Division reduce the extent to which they are stained with cadavric substance, and if childbed fever is caused by contamination with cadavric substance, then fewer persons examined by the students will suffer from childbed fever.",
+          "startLine": 272,
+          "startColumn": 7,
+          "endLine": 276,
+          "endColumn": 60,
+          "title": "Untitled 18",
+          "section": "s6",
+          "role": "premise",
+          "argumentTitle": "Washing Blocks Contamination"
+        },
+        {
+          "type": "statement",
+          "title": "Washing Helps",
+          "isReference": true,
+          "startLine": 278,
+          "startColumn": 7,
+          "endLine": 278,
+          "endColumn": 21,
+          "section": "s6",
+          "role": "main-conclusion",
+          "argumentTitle": "Washing Blocks Contamination",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 277,
+            "startColumn": 1,
+            "endLine": 277,
+            "endColumn": 7,
+            "conclusionIndex": 3,
+            "argumentTitle": "Washing Blocks Contamination"
+          }
+        }
+      ],
+      "title": "Washing Blocks Contamination",
+      "tags": ["H3"],
+      "section": "s6",
+      "startLine": 268,
+      "startColumn": 1,
+      "endLine": 278,
+      "endColumn": 21,
+      "fontColor": "#000000",
+      "color": "#e7298a"
+    },
+    "Kolletschka Contaminated": {
+      "type": "argument",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "Kolletschka was slightly wounded during an autopsy and infected with cadavric substance. #H3 ",
+          "startLine": 281,
+          "endLine": 283,
+          "startColumn": 1,
+          "endColumn": 15,
+          "isTopLevel": true,
+          "section": "s6",
+          "title": "Kolletschka Contaminated",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 89,
+              "stop": 92,
+              "tag": "H3"
+            }
+          ],
+          "tags": ["H3"],
+          "pcs": [
+            {
+              "type": "statement",
+              "title": "Cadavric Substance Hypothesis",
+              "isReference": true,
+              "startLine": 285,
+              "startColumn": 7,
+              "endLine": 285,
+              "endColumn": 38,
+              "section": "s6",
+              "role": "premise",
+              "argumentTitle": "Kolletschka Contaminated"
+            },
+            {
+              "type": "statement",
+              "text": "Kolletschka was slightly wounded during an autopsy, and infected with cadavric substance.",
+              "startLine": 286,
+              "startColumn": 7,
+              "endLine": 287,
+              "endColumn": 40,
+              "title": "Untitled 19",
+              "section": "s6",
+              "role": "premise",
+              "argumentTitle": "Kolletschka Contaminated"
+            },
+            {
+              "type": "statement",
+              "text": "If childbed fever is caused by contamination with cadavric substance and if a person is contaminated with cadavric substance, then the person will show symptoms similar to childbed fever (and eventually die).",
+              "startLine": 288,
+              "startColumn": 7,
+              "endLine": 291,
+              "endColumn": 50,
+              "title": "Untitled 20",
+              "section": "s6",
+              "role": "premise",
+              "argumentTitle": "Kolletschka Contaminated"
+            },
+            {
+              "type": "statement",
+              "title": "Death of Kolletschka",
+              "isReference": true,
+              "startLine": 293,
+              "startColumn": 7,
+              "endLine": 293,
+              "endColumn": 28,
+              "section": "s6",
+              "role": "main-conclusion",
+              "argumentTitle": "Kolletschka Contaminated",
+              "inference": {
+                "type": "inference",
+                "relations": [],
+                "inferenceRules": [],
+                "startLine": 292,
+                "startColumn": 1,
+                "endLine": 292,
+                "endColumn": 7,
+                "conclusionIndex": 3,
+                "argumentTitle": "Kolletschka Contaminated"
+              }
+            }
+          ]
+        }
+      ],
+      "pcs": [
+        {
+          "type": "statement",
+          "title": "Cadavric Substance Hypothesis",
+          "isReference": true,
+          "startLine": 285,
+          "startColumn": 7,
+          "endLine": 285,
+          "endColumn": 38,
+          "section": "s6",
+          "role": "premise",
+          "argumentTitle": "Kolletschka Contaminated"
+        },
+        {
+          "type": "statement",
+          "text": "Kolletschka was slightly wounded during an autopsy, and infected with cadavric substance.",
+          "startLine": 286,
+          "startColumn": 7,
+          "endLine": 287,
+          "endColumn": 40,
+          "title": "Untitled 19",
+          "section": "s6",
+          "role": "premise",
+          "argumentTitle": "Kolletschka Contaminated"
+        },
+        {
+          "type": "statement",
+          "text": "If childbed fever is caused by contamination with cadavric substance and if a person is contaminated with cadavric substance, then the person will show symptoms similar to childbed fever (and eventually die).",
+          "startLine": 288,
+          "startColumn": 7,
+          "endLine": 291,
+          "endColumn": 50,
+          "title": "Untitled 20",
+          "section": "s6",
+          "role": "premise",
+          "argumentTitle": "Kolletschka Contaminated"
+        },
+        {
+          "type": "statement",
+          "title": "Death of Kolletschka",
+          "isReference": true,
+          "startLine": 293,
+          "startColumn": 7,
+          "endLine": 293,
+          "endColumn": 28,
+          "section": "s6",
+          "role": "main-conclusion",
+          "argumentTitle": "Kolletschka Contaminated",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 292,
+            "startColumn": 1,
+            "endLine": 292,
+            "endColumn": 7,
+            "conclusionIndex": 3,
+            "argumentTitle": "Kolletschka Contaminated"
+          }
+        }
+      ],
+      "title": "Kolletschka Contaminated",
+      "tags": ["H3"],
+      "section": "s6",
+      "startLine": 285,
+      "startColumn": 1,
+      "endLine": 293,
+      "endColumn": 28,
+      "fontColor": "#000000",
+      "color": "#e7298a"
+    }
+  },
+  "statements": {
+    "Epidemic Influence Hypothesis": {
+      "type": "equivalence-class",
+      "title": "Epidemic Influence Hypothesis",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "contrary",
+          "from": "Epidemic Influence Hypothesis",
+          "fromType": "equivalence-class",
+          "to": "Rough Examination Hypothesis",
+          "toType": "equivalence-class"
+        },
+        {
+          "type": "relation",
+          "relationType": "contrary",
+          "from": "Epidemic Influence Hypothesis",
+          "fromType": "equivalence-class",
+          "to": "Cadavric Substance Hypothesis",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "title": "Epidemic Influence Hypothesis",
+          "text": "The outbreak of childbed fever is controlled by epidemic influences. #H1",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 69,
+              "stop": 71,
+              "tag": "H1"
+            }
+          ],
+          "tags": ["H1"],
+          "startLine": 21,
+          "startColumn": 1,
+          "endLine": 22,
+          "endColumn": 47,
+          "section": "s1"
+        },
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "title": "Epidemic Influence Hypothesis",
+          "isReference": true,
+          "text": " ",
+          "startLine": 34,
+          "startColumn": 1,
+          "endLine": 36,
+          "endColumn": 36,
+          "section": "s1"
+        },
+        {
+          "type": "statement",
+          "title": "Epidemic Influence Hypothesis",
+          "isReference": true,
+          "startLine": 99,
+          "startColumn": 7,
+          "endLine": 99,
+          "endColumn": 38,
+          "section": "s4",
+          "role": "premise",
+          "argumentTitle": "Epidemic Exposition 1"
+        },
+        {
+          "type": "statement",
+          "title": "Epidemic Influence Hypothesis",
+          "isReference": true,
+          "startLine": 113,
+          "startColumn": 7,
+          "endLine": 113,
+          "endColumn": 38,
+          "section": "s4",
+          "role": "premise",
+          "argumentTitle": "Epidemic Exposition 2"
+        },
+        {
+          "type": "statement",
+          "title": "Epidemic Influence Hypothesis",
+          "isReference": true,
+          "startLine": 126,
+          "startColumn": 7,
+          "endLine": 126,
+          "endColumn": 38,
+          "section": "s4",
+          "role": "premise",
+          "argumentTitle": "Epidemic Variations"
+        }
+      ],
+      "tags": ["H1"],
+      "section": "s1",
+      "isUsedAsTopLevelStatement": true,
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#d95f02"
+    },
+    "Rough Examination Hypothesis": {
+      "type": "equivalence-class",
+      "title": "Rough Examination Hypothesis",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "contrary",
+          "from": "Epidemic Influence Hypothesis",
+          "fromType": "equivalence-class",
+          "to": "Rough Examination Hypothesis",
+          "toType": "equivalence-class"
+        },
+        {
+          "type": "relation",
+          "relationType": "contrary",
+          "from": "Rough Examination Hypothesis",
+          "fromType": "equivalence-class",
+          "to": "Cadavric Substance Hypothesis",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "title": "Rough Examination Hypothesis",
+          "text": "The outbreak of childbed fever is controlled by injuries that stem from incompetent examinations. #H2 ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 98,
+              "stop": 101,
+              "tag": "H2"
+            }
+          ],
+          "tags": ["H2"],
+          "startLine": 24,
+          "startColumn": 1,
+          "endLine": 26,
+          "endColumn": 18,
+          "section": "s1"
+        },
+        {
+          "type": "statement",
+          "role": "relation-statement",
+          "title": "Rough Examination Hypothesis",
+          "isReference": true,
+          "startLine": 35,
+          "startColumn": 6,
+          "endLine": 35,
+          "endColumn": 66,
+          "section": "s1"
+        },
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "title": "Rough Examination Hypothesis",
+          "isReference": true,
+          "text": " ",
+          "startLine": 38,
+          "startColumn": 1,
+          "endLine": 39,
+          "endColumn": 36,
+          "section": "s1"
+        },
+        {
+          "type": "statement",
+          "title": "Rough Examination Hypothesis",
+          "isReference": true,
+          "startLine": 153,
+          "startColumn": 7,
+          "endLine": 153,
+          "endColumn": 37,
+          "section": "s5",
+          "role": "premise",
+          "argumentTitle": "Inexperienced Medical Students"
+        }
+      ],
+      "tags": ["H2"],
+      "section": "s1",
+      "isUsedAsTopLevelStatement": true,
+      "isUsedAsRelationStatement": true,
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#7570b3"
+    },
+    "Cadavric Substance Hypothesis": {
+      "type": "equivalence-class",
+      "title": "Cadavric Substance Hypothesis",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "contrary",
+          "from": "Epidemic Influence Hypothesis",
+          "fromType": "equivalence-class",
+          "to": "Cadavric Substance Hypothesis",
+          "toType": "equivalence-class"
+        },
+        {
+          "type": "relation",
+          "relationType": "contrary",
+          "from": "Rough Examination Hypothesis",
+          "fromType": "equivalence-class",
+          "to": "Cadavric Substance Hypothesis",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "title": "Cadavric Substance Hypothesis",
+          "text": "The outbreak of childbed fever is controlled by the degree of contamination with cadavric substance. #H3 ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 101,
+              "stop": 104,
+              "tag": "H3"
+            }
+          ],
+          "tags": ["H3"],
+          "startLine": 28,
+          "startColumn": 1,
+          "endLine": 30,
+          "endColumn": 24,
+          "section": "s1"
+        },
+        {
+          "type": "statement",
+          "role": "relation-statement",
+          "title": "Cadavric Substance Hypothesis",
+          "isReference": true,
+          "startLine": 36,
+          "startColumn": 6,
+          "endLine": 36,
+          "endColumn": 36,
+          "section": "s1"
+        },
+        {
+          "type": "statement",
+          "role": "relation-statement",
+          "title": "Cadavric Substance Hypothesis",
+          "isReference": true,
+          "startLine": 39,
+          "startColumn": 6,
+          "endLine": 39,
+          "endColumn": 36,
+          "section": "s1"
+        },
+        {
+          "type": "statement",
+          "title": "Cadavric Substance Hypothesis",
+          "isReference": true,
+          "startLine": 227,
+          "startColumn": 7,
+          "endLine": 227,
+          "endColumn": 38,
+          "section": "s6",
+          "role": "premise",
+          "argumentTitle": "Medical Students Contaminate 1"
+        },
+        {
+          "type": "statement",
+          "title": "Cadavric Substance Hypothesis",
+          "isReference": true,
+          "startLine": 248,
+          "startColumn": 7,
+          "endLine": 248,
+          "endColumn": 38,
+          "section": "s6",
+          "role": "premise",
+          "argumentTitle": "Medical Students Contaminate 2"
+        },
+        {
+          "type": "statement",
+          "title": "Cadavric Substance Hypothesis",
+          "isReference": true,
+          "startLine": 268,
+          "startColumn": 7,
+          "endLine": 268,
+          "endColumn": 38,
+          "section": "s6",
+          "role": "premise",
+          "argumentTitle": "Washing Blocks Contamination"
+        },
+        {
+          "type": "statement",
+          "title": "Cadavric Substance Hypothesis",
+          "isReference": true,
+          "startLine": 285,
+          "startColumn": 7,
+          "endLine": 285,
+          "endColumn": 38,
+          "section": "s6",
+          "role": "premise",
+          "argumentTitle": "Kolletschka Contaminated"
+        }
+      ],
+      "tags": ["H3"],
+      "section": "s1",
+      "isUsedAsTopLevelStatement": true,
+      "isUsedAsRelationStatement": true,
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#e7298a"
+    },
+    "Difference Between Divisions": {
+      "type": "equivalence-class",
+      "title": "Difference Between Divisions",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "title": "Difference Between Divisions",
+          "text": "By default, more women contract childbed fever in the First than in the Second Division of the hospital.",
+          "startLine": 48,
+          "startColumn": 1,
+          "endLine": 50,
+          "endColumn": 25,
+          "section": "s2"
+        },
+        {
+          "type": "statement",
+          "title": "Difference Between Divisions",
+          "isReference": true,
+          "startLine": 106,
+          "startColumn": 7,
+          "endLine": 106,
+          "endColumn": 36,
+          "section": "s4",
+          "role": "main-conclusion",
+          "argumentTitle": "Epidemic Exposition 1",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 105,
+            "startColumn": 1,
+            "endLine": 105,
+            "endColumn": 7,
+            "conclusionIndex": 3,
+            "argumentTitle": "Epidemic Exposition 1"
+          }
+        },
+        {
+          "type": "statement",
+          "title": "Difference Between Divisions",
+          "isReference": true,
+          "startLine": 168,
+          "startColumn": 7,
+          "endLine": 168,
+          "endColumn": 36,
+          "section": "s5",
+          "role": "main-conclusion",
+          "argumentTitle": "Inexperienced Medical Students",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 167,
+            "startColumn": 1,
+            "endLine": 167,
+            "endColumn": 7,
+            "conclusionIndex": 4,
+            "argumentTitle": "Inexperienced Medical Students"
+          }
+        },
+        {
+          "type": "statement",
+          "title": "Difference Between Divisions",
+          "isReference": true,
+          "startLine": 240,
+          "startColumn": 7,
+          "endLine": 240,
+          "endColumn": 36,
+          "section": "s6",
+          "role": "main-conclusion",
+          "argumentTitle": "Medical Students Contaminate 1",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 239,
+            "startColumn": 1,
+            "endLine": 239,
+            "endColumn": 7,
+            "conclusionIndex": 4,
+            "argumentTitle": "Medical Students Contaminate 1"
+          }
+        }
+      ],
+      "section": "s2",
+      "isUsedAsTopLevelStatement": true,
+      "isUsedAsIntermediaryConclusion": false,
+      "isUsedAsMainConclusion": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Washing Helps": {
+      "type": "equivalence-class",
+      "title": "Washing Helps",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "title": "Washing Helps",
+          "text": "If the students who examine the women in the First Division disinfect their hands, the ratio of women contracting childbed fever is the same in both divisions.",
+          "startLine": 52,
+          "startColumn": 1,
+          "endLine": 55,
+          "endColumn": 10,
+          "section": "s2"
+        },
+        {
+          "type": "statement",
+          "title": "Washing Helps",
+          "isReference": true,
+          "startLine": 278,
+          "startColumn": 7,
+          "endLine": 278,
+          "endColumn": 21,
+          "section": "s6",
+          "role": "main-conclusion",
+          "argumentTitle": "Washing Blocks Contamination",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 277,
+            "startColumn": 1,
+            "endLine": 277,
+            "endColumn": 7,
+            "conclusionIndex": 3,
+            "argumentTitle": "Washing Blocks Contamination"
+          }
+        }
+      ],
+      "section": "s2",
+      "isUsedAsTopLevelStatement": true,
+      "isUsedAsIntermediaryConclusion": false,
+      "isUsedAsMainConclusion": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Death of Kolletschka": {
+      "type": "equivalence-class",
+      "title": "Death of Kolletschka",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "title": "Death of Kolletschka",
+          "text": "A colleague of Semmelweis suffered from symptoms similar to childbed fever and eventually died.",
+          "startLine": 57,
+          "startColumn": 1,
+          "endLine": 58,
+          "endColumn": 60,
+          "section": "s2"
+        },
+        {
+          "type": "statement",
+          "title": "Death of Kolletschka",
+          "isReference": true,
+          "startLine": 293,
+          "startColumn": 7,
+          "endLine": 293,
+          "endColumn": 28,
+          "section": "s6",
+          "role": "main-conclusion",
+          "argumentTitle": "Kolletschka Contaminated",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 292,
+            "startColumn": 1,
+            "endLine": 292,
+            "endColumn": 7,
+            "conclusionIndex": 3,
+            "argumentTitle": "Kolletschka Contaminated"
+          }
+        }
+      ],
+      "section": "s2",
+      "isUsedAsTopLevelStatement": true,
+      "isUsedAsIntermediaryConclusion": false,
+      "isUsedAsMainConclusion": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Birth at Home": {
+      "type": "equivalence-class",
+      "title": "Birth at Home",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "title": "Birth at Home",
+          "text": "The mortality of women who give birth at home or on their way to the hospital is significantly lower than in the First Division.",
+          "startLine": 60,
+          "startColumn": 1,
+          "endLine": 62,
+          "endColumn": 27,
+          "section": "s2"
+        },
+        {
+          "type": "statement",
+          "title": "Birth at Home",
+          "isReference": true,
+          "startLine": 120,
+          "startColumn": 7,
+          "endLine": 120,
+          "endColumn": 21,
+          "section": "s4",
+          "role": "main-conclusion",
+          "argumentTitle": "Epidemic Exposition 2",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 119,
+            "startColumn": 1,
+            "endLine": 119,
+            "endColumn": 7,
+            "conclusionIndex": 3,
+            "argumentTitle": "Epidemic Exposition 2"
+          }
+        },
+        {
+          "type": "statement",
+          "title": "Birth at Home",
+          "isReference": true,
+          "startLine": 261,
+          "startColumn": 7,
+          "endLine": 261,
+          "endColumn": 21,
+          "section": "s6",
+          "role": "main-conclusion",
+          "argumentTitle": "Medical Students Contaminate 2",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 260,
+            "startColumn": 1,
+            "endLine": 260,
+            "endColumn": 7,
+            "conclusionIndex": 4,
+            "argumentTitle": "Medical Students Contaminate 2"
+          }
+        }
+      ],
+      "section": "s2",
+      "isUsedAsTopLevelStatement": true,
+      "isUsedAsIntermediaryConclusion": false,
+      "isUsedAsMainConclusion": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "No Variations": {
+      "type": "equivalence-class",
+      "title": "No Variations",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "contrary",
+          "from": "Untitled 4",
+          "fromType": "equivalence-class",
+          "to": "No Variations",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "title": "No Variations",
+          "text": "Cases of childbed fever and corresponding mortality rates do not display spatio-temporal variations (e.g. seasonal, or from district to district) that are characteristic for epidemic diseases.",
+          "startLine": 64,
+          "startColumn": 1,
+          "endLine": 67,
+          "endColumn": 37,
+          "section": "s2"
+        },
+        {
+          "type": "statement",
+          "role": "relation-statement",
+          "title": "No Variations",
+          "isReference": true,
+          "startLine": 136,
+          "startColumn": 8,
+          "endLine": 136,
+          "endColumn": 22,
+          "section": "s4"
+        }
+      ],
+      "section": "s2",
+      "isUsedAsTopLevelStatement": true,
+      "isUsedAsRelationStatement": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Difference in Exposure": {
+      "type": "equivalence-class",
+      "title": "Difference in Exposure",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "title": "Difference in Exposure",
+          "text": "Women in the First Division are exposed to epidemic diseases more heavily than those who give birth at home, on their way to the hospital, or in the Second Division. #H1 #aux ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 166,
+              "stop": 169,
+              "tag": "H1"
+            },
+            {
+              "type": "tag",
+              "start": 170,
+              "stop": 174,
+              "tag": "aux"
+            }
+          ],
+          "tags": ["H1", "aux"],
+          "startLine": 89,
+          "startColumn": 1,
+          "endLine": 92,
+          "endColumn": 26,
+          "section": "s4"
+        },
+        {
+          "type": "statement",
+          "title": "Difference in Exposure",
+          "isReference": true,
+          "startLine": 100,
+          "startColumn": 7,
+          "endLine": 100,
+          "endColumn": 31,
+          "section": "s4",
+          "role": "premise",
+          "argumentTitle": "Epidemic Exposition 1"
+        },
+        {
+          "type": "statement",
+          "title": "Difference in Exposure",
+          "isReference": true,
+          "startLine": 114,
+          "startColumn": 7,
+          "endLine": 114,
+          "endColumn": 31,
+          "section": "s4",
+          "role": "premise",
+          "argumentTitle": "Epidemic Exposition 2"
+        }
+      ],
+      "tags": ["H1", "aux"],
+      "section": "s4",
+      "isUsedAsTopLevelStatement": true,
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#d95f02"
+    },
+    "Untitled 1": {
+      "type": "equivalence-class",
+      "title": "Untitled 1",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "If childbed fever is controlled by infections and women of one group are more frequently infected than those in another group, than members of the first group will catch childbed fever more frequently.",
+          "startLine": 101,
+          "startColumn": 7,
+          "endLine": 104,
+          "endColumn": 45,
+          "title": "Untitled 1",
+          "section": "s4",
+          "role": "premise",
+          "argumentTitle": "Epidemic Exposition 1"
+        }
+      ],
+      "section": "s4",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 2": {
+      "type": "equivalence-class",
+      "title": "Untitled 2",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "If childbed fever is controlled by infections and women of one group are more frequently infected than those in another group, than members of the first group will catch childbed fever more frequently.",
+          "startLine": 115,
+          "startColumn": 7,
+          "endLine": 118,
+          "endColumn": 45,
+          "title": "Untitled 2",
+          "section": "s4",
+          "role": "premise",
+          "argumentTitle": "Epidemic Exposition 2"
+        }
+      ],
+      "section": "s4",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 3": {
+      "type": "equivalence-class",
+      "title": "Untitled 3",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "If childbed fever is controlled by infections, then it displays spatio-temporal variations (e.g. seasonal, or from district to district) that are characteristic for epidemic diseases.",
+          "startLine": 127,
+          "startColumn": 7,
+          "endLine": 130,
+          "endColumn": 21,
+          "title": "Untitled 3",
+          "section": "s4",
+          "role": "premise",
+          "argumentTitle": "Epidemic Variations"
+        }
+      ],
+      "section": "s4",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 4": {
+      "type": "equivalence-class",
+      "title": "Untitled 4",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "contrary",
+          "from": "Untitled 4",
+          "fromType": "equivalence-class",
+          "to": "No Variations",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "text": "Cases of childbed fever and corresponding mortality rates display spatio-temporal variations (e.g. seasonal, or from district to district) that are characteristic for epidemic diseases.",
+          "title": "Untitled 4",
+          "startLine": 132,
+          "startColumn": 7,
+          "endLine": 136,
+          "endColumn": 22,
+          "section": "s4",
+          "role": "main-conclusion",
+          "argumentTitle": "Epidemic Variations",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 131,
+            "startColumn": 1,
+            "endLine": 131,
+            "endColumn": 7,
+            "conclusionIndex": 2,
+            "argumentTitle": "Epidemic Variations"
+          }
+        }
+      ],
+      "section": "s4",
+      "isUsedAsIntermediaryConclusion": false,
+      "isUsedAsMainConclusion": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Medical Students vs Midwives": {
+      "type": "equivalence-class",
+      "title": "Medical Students vs Midwives",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "title": "Medical Students vs Midwives",
+          "text": "Women in the First Division are examined by medical students, women in the Second Division by midwives.",
+          "startLine": 154,
+          "startColumn": 7,
+          "endLine": 156,
+          "endColumn": 31,
+          "section": "s5",
+          "role": "premise",
+          "argumentTitle": "Inexperienced Medical Students"
+        },
+        {
+          "type": "statement",
+          "title": "Medical Students vs Midwives",
+          "text": "Women in the First Division are examined by medical students, women in the Second Division by midwives.",
+          "startLine": 228,
+          "startColumn": 7,
+          "endLine": 230,
+          "endColumn": 31,
+          "section": "s6",
+          "role": "premise",
+          "argumentTitle": "Medical Students Contaminate 1"
+        }
+      ],
+      "section": "s5",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "More Injuries": {
+      "type": "equivalence-class",
+      "title": "More Injuries",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "contradictory",
+          "from": "Untitled 8",
+          "fromType": "equivalence-class",
+          "to": "More Injuries",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "title": "More Injuries",
+          "text": "Due to their inexperience, medical students cause more injuries during examination than midwives. #H2 ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 98,
+              "stop": 101,
+              "tag": "H2"
+            }
+          ],
+          "tags": ["H2"],
+          "startLine": 157,
+          "startColumn": 7,
+          "endLine": 159,
+          "endColumn": 17,
+          "section": "s5",
+          "role": "premise",
+          "argumentTitle": "Inexperienced Medical Students"
+        },
+        {
+          "type": "statement",
+          "role": "relation-statement",
+          "title": "More Injuries",
+          "isReference": true,
+          "startLine": 185,
+          "startColumn": 8,
+          "endLine": 185,
+          "endColumn": 22,
+          "section": "s5"
+        }
+      ],
+      "tags": ["H2"],
+      "section": "s5",
+      "isUsedAsPremise": true,
+      "isUsedAsRelationStatement": true,
+      "fontColor": "#000000",
+      "color": "#7570b3"
+    },
+    "Untitled 5": {
+      "type": "equivalence-class",
+      "title": "Untitled 5",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "contrary",
+          "from": "Examination Injuries Insignificant",
+          "fromType": "equivalence-class",
+          "to": "Untitled 5",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "text": "If childbed fever is caused by injuries and women in one group are examined by persons who inflict more injuries than those persons which examine women in another group, then members of the former group will suffer from childbed fever more frequently.",
+          "title": "Untitled 5",
+          "startLine": 160,
+          "startColumn": 7,
+          "endLine": 166,
+          "endColumn": 61,
+          "section": "s5",
+          "role": "premise",
+          "argumentTitle": "Inexperienced Medical Students"
+        }
+      ],
+      "section": "s5",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Examination Injuries Insignificant": {
+      "type": "equivalence-class",
+      "title": "Examination Injuries Insignificant",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "contrary",
+          "from": "Examination Injuries Insignificant",
+          "fromType": "equivalence-class",
+          "to": "Untitled 5",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "relation-statement",
+          "title": "Examination Injuries Insignificant",
+          "text": "Difference in examination doesn't entail difference in childbed fever.",
+          "startLine": 165,
+          "startColumn": 7,
+          "endLine": 166,
+          "endColumn": 61,
+          "section": "s5"
+        },
+        {
+          "type": "statement",
+          "title": "Examination Injuries Insignificant",
+          "isReference": true,
+          "startLine": 210,
+          "startColumn": 7,
+          "endLine": 210,
+          "endColumn": 42,
+          "section": "s5",
+          "role": "main-conclusion",
+          "argumentTitle": "Main Injuries due to Birth",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 209,
+            "startColumn": 1,
+            "endLine": 209,
+            "endColumn": 7,
+            "conclusionIndex": 3,
+            "argumentTitle": "Main Injuries due to Birth"
+          }
+        }
+      ],
+      "section": "s5",
+      "isUsedAsRelationStatement": true,
+      "isUsedAsIntermediaryConclusion": false,
+      "isUsedAsMainConclusion": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 6": {
+      "type": "equivalence-class",
+      "title": "Untitled 6",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "Medical students are no less skillfull than midwives and carry out the examinations in approximately the same way.",
+          "startLine": 175,
+          "startColumn": 7,
+          "endLine": 177,
+          "endColumn": 7,
+          "title": "Untitled 6",
+          "section": "s5",
+          "role": "premise",
+          "argumentTitle": "Medical Students Skillfull"
+        }
+      ],
+      "section": "s5",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 7": {
+      "type": "equivalence-class",
+      "title": "Untitled 7",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "If medical students are no less skillfull than midwives and carry out the examinations in approximately the same way, then they cause no more injuries during examination than midwives.",
+          "startLine": 178,
+          "startColumn": 7,
+          "endLine": 181,
+          "endColumn": 29,
+          "title": "Untitled 7",
+          "section": "s5",
+          "role": "premise",
+          "argumentTitle": "Medical Students Skillfull"
+        }
+      ],
+      "section": "s5",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 8": {
+      "type": "equivalence-class",
+      "title": "Untitled 8",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "contradictory",
+          "from": "Untitled 8",
+          "fromType": "equivalence-class",
+          "to": "More Injuries",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "text": "Medical students don't cause more injuries during examination than midwives.",
+          "title": "Untitled 8",
+          "startLine": 183,
+          "startColumn": 7,
+          "endLine": 185,
+          "endColumn": 22,
+          "section": "s5",
+          "role": "main-conclusion",
+          "argumentTitle": "Medical Students Skillfull",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 182,
+            "startColumn": 1,
+            "endLine": 182,
+            "endColumn": 7,
+            "conclusionIndex": 2,
+            "argumentTitle": "Medical Students Skillfull"
+          }
+        }
+      ],
+      "section": "s5",
+      "isUsedAsIntermediaryConclusion": false,
+      "isUsedAsMainConclusion": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 9": {
+      "type": "equivalence-class",
+      "title": "Untitled 9",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "The main injuries that women suffer are due to giving birth itself and not to previous or posterior examinations.",
+          "startLine": 192,
+          "startColumn": 7,
+          "endLine": 194,
+          "endColumn": 16,
+          "title": "Untitled 9",
+          "section": "s5",
+          "role": "premise",
+          "argumentTitle": "Main Injuries due to Birth"
+        }
+      ],
+      "section": "s5",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 10": {
+      "type": "equivalence-class",
+      "title": "Untitled 10",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "If injuries that stem from examinations are much less severe than the injuries which stem from giving birth itself, all women that give birth, no matter whether they have been examined roughly or not, will suffer from the same degree of injuries.",
+          "startLine": 195,
+          "startColumn": 7,
+          "endLine": 199,
+          "endColumn": 27,
+          "title": "Untitled 10",
+          "section": "s5",
+          "role": "premise",
+          "argumentTitle": "Main Injuries due to Birth"
+        }
+      ],
+      "section": "s5",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 11": {
+      "type": "equivalence-class",
+      "title": "Untitled 11",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "If all women who give birth, no matter whether they have been examined roughly or not, will suffer from the same degree of injuries, then difference in examination doesn't entail difference in childbed fever (i.e., it is not the case that, provided childbed fever is caused by injuries and women in one group are examined by persons who inflict more injuries than those persons which examine women in another group, members of the former group will suffer from childbed fever more frequently).",
+          "startLine": 200,
+          "startColumn": 7,
+          "endLine": 208,
+          "endColumn": 58,
+          "title": "Untitled 11",
+          "section": "s5",
+          "role": "premise",
+          "argumentTitle": "Main Injuries due to Birth"
+        }
+      ],
+      "section": "s5",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 12": {
+      "type": "equivalence-class",
+      "title": "Untitled 12",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "Medical students are, by default and unlike midwives, stained with cadavric substance and contamine the persons they examine.",
+          "startLine": 231,
+          "startColumn": 7,
+          "endLine": 233,
+          "endColumn": 16,
+          "title": "Untitled 12",
+          "section": "s6",
+          "role": "premise",
+          "argumentTitle": "Medical Students Contaminate 1"
+        }
+      ],
+      "section": "s6",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 13": {
+      "type": "equivalence-class",
+      "title": "Untitled 13",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "If childbed fever is caused by contamination with cadavric substance and if women in one group are contaminated to a higher degree than women in another group, then members of the former group will suffer from childbed fever more frequently.",
+          "startLine": 234,
+          "startColumn": 7,
+          "endLine": 238,
+          "endColumn": 34,
+          "title": "Untitled 13",
+          "section": "s6",
+          "role": "premise",
+          "argumentTitle": "Medical Students Contaminate 1"
+        }
+      ],
+      "section": "s6",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 14": {
+      "type": "equivalence-class",
+      "title": "Untitled 14",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "Women in the First Division are examined by medical students, women who give birth at home or on their way to the hospital not.",
+          "startLine": 249,
+          "startColumn": 7,
+          "endLine": 251,
+          "endColumn": 20,
+          "title": "Untitled 14",
+          "section": "s6",
+          "role": "premise",
+          "argumentTitle": "Medical Students Contaminate 2"
+        }
+      ],
+      "section": "s6",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 15": {
+      "type": "equivalence-class",
+      "title": "Untitled 15",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "Medical students are, by default, stained with cadavric substance and contaminate the persons they examine.",
+          "startLine": 252,
+          "startColumn": 7,
+          "endLine": 254,
+          "endColumn": 11,
+          "title": "Untitled 15",
+          "section": "s6",
+          "role": "premise",
+          "argumentTitle": "Medical Students Contaminate 2"
+        }
+      ],
+      "section": "s6",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 16": {
+      "type": "equivalence-class",
+      "title": "Untitled 16",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "If childbed fever is caused by contamination with cadavric substance and if women in one group are contaminated to a higher degree than women in another group, then members of the former group will suffer from childbed fever more frequently.",
+          "startLine": 255,
+          "startColumn": 7,
+          "endLine": 259,
+          "endColumn": 34,
+          "title": "Untitled 16",
+          "section": "s6",
+          "role": "premise",
+          "argumentTitle": "Medical Students Contaminate 2"
+        }
+      ],
+      "section": "s6",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 17": {
+      "type": "equivalence-class",
+      "title": "Untitled 17",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "If the students who examine the women in the First Division disinfect their hands, they reduce the extent to which they are stained with cadavric substance.",
+          "startLine": 269,
+          "startColumn": 7,
+          "endLine": 271,
+          "endColumn": 50,
+          "title": "Untitled 17",
+          "section": "s6",
+          "role": "premise",
+          "argumentTitle": "Washing Blocks Contamination"
+        }
+      ],
+      "section": "s6",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 18": {
+      "type": "equivalence-class",
+      "title": "Untitled 18",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "If the students who examine the women in the First Division reduce the extent to which they are stained with cadavric substance, and if childbed fever is caused by contamination with cadavric substance, then fewer persons examined by the students will suffer from childbed fever.",
+          "startLine": 272,
+          "startColumn": 7,
+          "endLine": 276,
+          "endColumn": 60,
+          "title": "Untitled 18",
+          "section": "s6",
+          "role": "premise",
+          "argumentTitle": "Washing Blocks Contamination"
+        }
+      ],
+      "section": "s6",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 19": {
+      "type": "equivalence-class",
+      "title": "Untitled 19",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "Kolletschka was slightly wounded during an autopsy, and infected with cadavric substance.",
+          "startLine": 286,
+          "startColumn": 7,
+          "endLine": 287,
+          "endColumn": 40,
+          "title": "Untitled 19",
+          "section": "s6",
+          "role": "premise",
+          "argumentTitle": "Kolletschka Contaminated"
+        }
+      ],
+      "section": "s6",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 20": {
+      "type": "equivalence-class",
+      "title": "Untitled 20",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "If childbed fever is caused by contamination with cadavric substance and if a person is contaminated with cadavric substance, then the person will show symptoms similar to childbed fever (and eventually die).",
+          "startLine": 288,
+          "startColumn": 7,
+          "endLine": 291,
+          "endColumn": 50,
+          "title": "Untitled 20",
+          "section": "s6",
+          "role": "premise",
+          "argumentTitle": "Kolletschka Contaminated"
+        }
+      ],
+      "section": "s6",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    }
+  },
+  "relations": [
+    {
+      "type": "relation",
+      "relationType": "contrary",
+      "from": "Epidemic Influence Hypothesis",
+      "fromType": "equivalence-class",
+      "to": "Rough Examination Hypothesis",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "contrary",
+      "from": "Epidemic Influence Hypothesis",
+      "fromType": "equivalence-class",
+      "to": "Cadavric Substance Hypothesis",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "contrary",
+      "from": "Rough Examination Hypothesis",
+      "fromType": "equivalence-class",
+      "to": "Cadavric Substance Hypothesis",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "contrary",
+      "from": "Untitled 4",
+      "fromType": "equivalence-class",
+      "to": "No Variations",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "contrary",
+      "from": "Examination Injuries Insignificant",
+      "fromType": "equivalence-class",
+      "to": "Untitled 5",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "contradictory",
+      "from": "Untitled 8",
+      "fromType": "equivalence-class",
+      "to": "More Injuries",
+      "toType": "equivalence-class"
+    }
+  ],
+  "sections": [
+    {
+      "type": "section",
+      "id": "s1",
+      "level": 1,
+      "title": "Three Rival Hypotheses",
+      "children": [],
+      "ranges": [],
+      "startLine": 15,
+      "startColumn": 1,
+      "endOffset": null,
+      "endLine": 41,
+      "endColumn": 0,
+      "fontColor": "#000000",
+      "color": "#DADADA"
+    },
+    {
+      "type": "section",
+      "id": "s2",
+      "level": 1,
+      "title": "Evidence",
+      "children": [],
+      "ranges": [],
+      "startLine": 42,
+      "startColumn": 1,
+      "endOffset": null,
+      "endLine": 69,
+      "endColumn": 0,
+      "fontColor": "#000000",
+      "color": "#DADADA"
+    },
+    {
+      "type": "section",
+      "id": "s3",
+      "level": 1,
+      "title": "Arguments and Further Theses",
+      "children": [
+        {
+          "type": "section",
+          "id": "s4",
+          "level": 2,
+          "title": "Inferential Relations between @[Epidemic Influence Hypothesis] and the Available Evidence",
+          "children": [],
+          "ranges": [
+            {
+              "type": "statement-mention",
+              "title": "Epidemic Influence Hypothesis",
+              "start": 30,
+              "stop": 62
+            }
+          ],
+          "startLine": 81,
+          "startColumn": 1,
+          "data": {
+            "isGroup": false
+          },
+          "isGroup": false,
+          "parent": "s3",
+          "endOffset": null,
+          "endLine": 138,
+          "endColumn": 0,
+          "fontColor": "#000000",
+          "color": "#BABABA"
+        },
+        {
+          "type": "section",
+          "id": "s5",
+          "level": 2,
+          "title": "Inferential Relations between @[Rough Examination Hypothesis] and the Available Evidence",
+          "children": [],
+          "ranges": [
+            {
+              "type": "statement-mention",
+              "title": "Rough Examination Hypothesis",
+              "start": 30,
+              "stop": 61
+            }
+          ],
+          "startLine": 139,
+          "startColumn": 1,
+          "data": {
+            "isGroup": false
+          },
+          "isGroup": false,
+          "parent": "s3",
+          "endOffset": null,
+          "endLine": 212,
+          "endColumn": 0,
+          "fontColor": "#000000",
+          "color": "#BABABA"
+        },
+        {
+          "type": "section",
+          "id": "s6",
+          "level": 2,
+          "title": "Inferential Relations between @[Cadavric Substance Hypothesis] and the Available Evidence",
+          "children": [],
+          "ranges": [
+            {
+              "type": "statement-mention",
+              "title": "Cadavric Substance Hypothesis",
+              "start": 30,
+              "stop": 62
+            }
+          ],
+          "startLine": 213,
+          "startColumn": 1,
+          "data": {
+            "isGroup": false
+          },
+          "isGroup": false,
+          "parent": "s3",
+          "endLine": 293,
+          "endColumn": 28,
+          "fontColor": "#000000",
+          "color": "#BABABA"
+        }
+      ],
+      "ranges": [],
+      "startLine": 70,
+      "startColumn": 1,
+      "data": {
+        "isGroup": false
+      },
+      "isGroup": false,
+      "endLine": 293,
+      "endColumn": 28,
+      "fontColor": "#000000",
+      "color": "#DADADA"
+    }
+  ],
+  "tags": {
+    "H1": {
+      "tag": "H1",
+      "cssClass": "tag-h1",
+      "occurrenceIndex": 0,
+      "color": "#d95f02"
+    },
+    "H2": {
+      "tag": "H2",
+      "cssClass": "tag-h2",
+      "occurrenceIndex": 1,
+      "color": "#7570b3"
+    },
+    "H3": {
+      "tag": "H3",
+      "cssClass": "tag-h3",
+      "occurrenceIndex": 2,
+      "color": "#e7298a"
+    },
+    "aux": {
+      "tag": "aux",
+      "cssClass": "tag-aux",
+      "occurrenceIndex": 3,
+      "color": "#66a61e"
+    }
+  }
+}

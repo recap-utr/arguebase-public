@@ -1,0 +1,6482 @@
+{
+  "arguments": {
+    "Core Argument": {
+      "type": "argument",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "The populists are the only salvation of society from doom. #populism ",
+          "startLine": 28,
+          "endLine": 29,
+          "startColumn": 6,
+          "endColumn": 31,
+          "isTopLevel": false,
+          "section": "s1",
+          "title": "Core Argument",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 59,
+              "stop": 68,
+              "tag": "populism"
+            }
+          ],
+          "tags": ["populism"]
+        },
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "The populists are the only salvation of society from doom. #populism ",
+          "startLine": 31,
+          "endLine": 32,
+          "startColumn": 1,
+          "endColumn": 21,
+          "isTopLevel": true,
+          "section": "s1",
+          "title": "Core Argument",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 59,
+              "stop": 68,
+              "tag": "populism"
+            }
+          ],
+          "tags": ["populism"],
+          "pcs": [
+            {
+              "type": "statement",
+              "title": "Doom",
+              "text": "Society is doomed and must be saved. #populism ",
+              "ranges": [
+                {
+                  "type": "tag",
+                  "start": 37,
+                  "stop": 46,
+                  "tag": "populism"
+                }
+              ],
+              "tags": ["populism"],
+              "startLine": 34,
+              "startColumn": 5,
+              "endLine": 34,
+              "endColumn": 60,
+              "section": "s1",
+              "role": "premise",
+              "argumentTitle": "Core Argument"
+            },
+            {
+              "type": "statement",
+              "title": "Salvation",
+              "text": "Society can only be saved, if the populists come to power. #populism ",
+              "ranges": [
+                {
+                  "type": "tag",
+                  "start": 59,
+                  "stop": 68,
+                  "tag": "populism"
+                }
+              ],
+              "tags": ["populism"],
+              "startLine": 35,
+              "startColumn": 5,
+              "endLine": 38,
+              "endColumn": 32,
+              "section": "s1",
+              "role": "premise",
+              "argumentTitle": "Core Argument"
+            },
+            {
+              "type": "statement",
+              "title": "Power",
+              "text": "The populists must come to power.",
+              "startLine": 40,
+              "startColumn": 5,
+              "endLine": 40,
+              "endColumn": 46,
+              "section": "s1",
+              "role": "main-conclusion",
+              "argumentTitle": "Core Argument",
+              "inference": {
+                "type": "inference",
+                "relations": [],
+                "inferenceRules": [],
+                "startLine": 39,
+                "startColumn": 1,
+                "endLine": 39,
+                "endColumn": 5,
+                "conclusionIndex": 2,
+                "argumentTitle": "Core Argument"
+              }
+            }
+          ]
+        }
+      ],
+      "pcs": [
+        {
+          "type": "statement",
+          "title": "Doom",
+          "text": "Society is doomed and must be saved. #populism ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 37,
+              "stop": 46,
+              "tag": "populism"
+            }
+          ],
+          "tags": ["populism"],
+          "startLine": 34,
+          "startColumn": 5,
+          "endLine": 34,
+          "endColumn": 60,
+          "section": "s1",
+          "role": "premise",
+          "argumentTitle": "Core Argument"
+        },
+        {
+          "type": "statement",
+          "title": "Salvation",
+          "text": "Society can only be saved, if the populists come to power. #populism ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 59,
+              "stop": 68,
+              "tag": "populism"
+            }
+          ],
+          "tags": ["populism"],
+          "startLine": 35,
+          "startColumn": 5,
+          "endLine": 38,
+          "endColumn": 32,
+          "section": "s1",
+          "role": "premise",
+          "argumentTitle": "Core Argument"
+        },
+        {
+          "type": "statement",
+          "title": "Power",
+          "text": "The populists must come to power.",
+          "startLine": 40,
+          "startColumn": 5,
+          "endLine": 40,
+          "endColumn": 46,
+          "section": "s1",
+          "role": "main-conclusion",
+          "argumentTitle": "Core Argument",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 39,
+            "startColumn": 1,
+            "endLine": 39,
+            "endColumn": 5,
+            "conclusionIndex": 2,
+            "argumentTitle": "Core Argument"
+          }
+        }
+      ],
+      "title": "Core Argument",
+      "tags": ["populism"],
+      "section": "s1",
+      "startLine": 34,
+      "startColumn": 1,
+      "endLine": 40,
+      "endColumn": 46,
+      "fontColor": "#000000",
+      "color": "#d95f02"
+    },
+    "Salvation by the People": {
+      "type": "argument",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "Only the populists can realize the will of the people. #populism ",
+          "startLine": 37,
+          "endLine": 38,
+          "startColumn": 4,
+          "endColumn": 32,
+          "isTopLevel": false,
+          "section": "s1",
+          "title": "Salvation by the People",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 55,
+              "stop": 64,
+              "tag": "populism"
+            }
+          ],
+          "tags": ["populism"]
+        },
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "",
+          "startLine": 46,
+          "endLine": 46,
+          "startColumn": 1,
+          "endColumn": 25,
+          "isTopLevel": true,
+          "section": "s1",
+          "title": "Salvation by the People",
+          "isReference": true,
+          "pcs": [
+            {
+              "type": "statement",
+              "title": "Will of the People",
+              "text": "Society can only be saved, if the will of the people is realized. #populism ",
+              "ranges": [
+                {
+                  "type": "tag",
+                  "start": 66,
+                  "stop": 75,
+                  "tag": "populism"
+                }
+              ],
+              "tags": ["populism"],
+              "startLine": 48,
+              "startColumn": 5,
+              "endLine": 49,
+              "endColumn": 47,
+              "section": "s1",
+              "role": "premise",
+              "argumentTitle": "Salvation by the People"
+            },
+            {
+              "type": "statement",
+              "title": "Voice of the People",
+              "text": "Only if the populists come to power, the will of the people will be realized. #populism ",
+              "ranges": [
+                {
+                  "type": "tag",
+                  "start": 78,
+                  "stop": 87,
+                  "tag": "populism"
+                }
+              ],
+              "tags": ["populism"],
+              "startLine": 50,
+              "startColumn": 5,
+              "endLine": 51,
+              "endColumn": 59,
+              "section": "s1",
+              "role": "premise",
+              "argumentTitle": "Salvation by the People"
+            },
+            {
+              "type": "statement",
+              "title": "Salvation",
+              "text": "Society can only be saved, if the populists come to power.",
+              "startLine": 53,
+              "startColumn": 5,
+              "endLine": 54,
+              "endColumn": 9,
+              "section": "s1",
+              "role": "main-conclusion",
+              "argumentTitle": "Salvation by the People",
+              "inference": {
+                "type": "inference",
+                "relations": [],
+                "inferenceRules": [],
+                "startLine": 52,
+                "startColumn": 1,
+                "endLine": 52,
+                "endColumn": 5,
+                "conclusionIndex": 2,
+                "argumentTitle": "Salvation by the People"
+              }
+            }
+          ]
+        }
+      ],
+      "pcs": [
+        {
+          "type": "statement",
+          "title": "Will of the People",
+          "text": "Society can only be saved, if the will of the people is realized. #populism ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 66,
+              "stop": 75,
+              "tag": "populism"
+            }
+          ],
+          "tags": ["populism"],
+          "startLine": 48,
+          "startColumn": 5,
+          "endLine": 49,
+          "endColumn": 47,
+          "section": "s1",
+          "role": "premise",
+          "argumentTitle": "Salvation by the People"
+        },
+        {
+          "type": "statement",
+          "title": "Voice of the People",
+          "text": "Only if the populists come to power, the will of the people will be realized. #populism ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 78,
+              "stop": 87,
+              "tag": "populism"
+            }
+          ],
+          "tags": ["populism"],
+          "startLine": 50,
+          "startColumn": 5,
+          "endLine": 51,
+          "endColumn": 59,
+          "section": "s1",
+          "role": "premise",
+          "argumentTitle": "Salvation by the People"
+        },
+        {
+          "type": "statement",
+          "title": "Salvation",
+          "text": "Society can only be saved, if the populists come to power.",
+          "startLine": 53,
+          "startColumn": 5,
+          "endLine": 54,
+          "endColumn": 9,
+          "section": "s1",
+          "role": "main-conclusion",
+          "argumentTitle": "Salvation by the People",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 52,
+            "startColumn": 1,
+            "endLine": 52,
+            "endColumn": 5,
+            "conclusionIndex": 2,
+            "argumentTitle": "Salvation by the People"
+          }
+        }
+      ],
+      "title": "Salvation by the People",
+      "tags": ["populism"],
+      "section": "s1",
+      "startLine": 48,
+      "startColumn": 1,
+      "endLine": 54,
+      "endColumn": 9,
+      "fontColor": "#000000",
+      "color": "#d95f02"
+    },
+    "The \"Establishment\"": {
+      "type": "argument",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "The \"established parties\" prevent the will of the people from being realized. (1) #establishment ",
+          "startLine": 66,
+          "endLine": 67,
+          "startColumn": 4,
+          "endColumn": 65,
+          "isTopLevel": false,
+          "section": "s2",
+          "title": "The \"Establishment\"",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 82,
+              "stop": 96,
+              "tag": "establishment"
+            }
+          ],
+          "tags": ["establishment"]
+        },
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "",
+          "startLine": 74,
+          "endLine": 74,
+          "startColumn": 1,
+          "endColumn": 21,
+          "isTopLevel": true,
+          "section": "s2",
+          "title": "The \"Establishment\"",
+          "isReference": true,
+          "pcs": [
+            {
+              "type": "statement",
+              "title": "Political Alternative",
+              "text": "Apart from the \"establishment\" only the populists can come to power. #establishment",
+              "ranges": [
+                {
+                  "type": "tag",
+                  "start": 69,
+                  "stop": 82,
+                  "tag": "establishment"
+                }
+              ],
+              "tags": ["establishment"],
+              "startLine": 76,
+              "startColumn": 5,
+              "endLine": 77,
+              "endColumn": 53,
+              "section": "s2",
+              "role": "premise",
+              "argumentTitle": "The \"Establishment\""
+            },
+            {
+              "type": "statement",
+              "title": "Lost Connection",
+              "text": "The \"establishment\" does not want to and cannot realize the popular will. (1.7) #establishment ",
+              "ranges": [
+                {
+                  "type": "tag",
+                  "start": 80,
+                  "stop": 94,
+                  "tag": "establishment"
+                }
+              ],
+              "tags": ["establishment"],
+              "startLine": 78,
+              "startColumn": 5,
+              "endLine": 79,
+              "endColumn": 59,
+              "section": "s2",
+              "role": "premise",
+              "argumentTitle": "The \"Establishment\""
+            },
+            {
+              "type": "statement",
+              "title": "Realization",
+              "text": "The will of the people will only be realized if a party comes to power that wants to and can realize the will of the people. #establishment",
+              "ranges": [
+                {
+                  "type": "tag",
+                  "start": 125,
+                  "stop": 138,
+                  "tag": "establishment"
+                }
+              ],
+              "tags": ["establishment"],
+              "startLine": 80,
+              "startColumn": 5,
+              "endLine": 82,
+              "endColumn": 35,
+              "section": "s2",
+              "role": "premise",
+              "argumentTitle": "The \"Establishment\""
+            },
+            {
+              "type": "statement",
+              "title": "Voice of the People",
+              "text": "Only if the populists come to power, the will of the people will be realized.",
+              "startLine": 84,
+              "startColumn": 5,
+              "endLine": 85,
+              "endColumn": 17,
+              "section": "s2",
+              "role": "main-conclusion",
+              "argumentTitle": "The \"Establishment\"",
+              "inference": {
+                "type": "inference",
+                "relations": [],
+                "inferenceRules": [],
+                "startLine": 83,
+                "startColumn": 1,
+                "endLine": 83,
+                "endColumn": 5,
+                "conclusionIndex": 3,
+                "argumentTitle": "The \"Establishment\""
+              }
+            }
+          ]
+        }
+      ],
+      "pcs": [
+        {
+          "type": "statement",
+          "title": "Political Alternative",
+          "text": "Apart from the \"establishment\" only the populists can come to power. #establishment",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 69,
+              "stop": 82,
+              "tag": "establishment"
+            }
+          ],
+          "tags": ["establishment"],
+          "startLine": 76,
+          "startColumn": 5,
+          "endLine": 77,
+          "endColumn": 53,
+          "section": "s2",
+          "role": "premise",
+          "argumentTitle": "The \"Establishment\""
+        },
+        {
+          "type": "statement",
+          "title": "Lost Connection",
+          "text": "The \"establishment\" does not want to and cannot realize the popular will. (1.7) #establishment ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 80,
+              "stop": 94,
+              "tag": "establishment"
+            }
+          ],
+          "tags": ["establishment"],
+          "startLine": 78,
+          "startColumn": 5,
+          "endLine": 79,
+          "endColumn": 59,
+          "section": "s2",
+          "role": "premise",
+          "argumentTitle": "The \"Establishment\""
+        },
+        {
+          "type": "statement",
+          "title": "Realization",
+          "text": "The will of the people will only be realized if a party comes to power that wants to and can realize the will of the people. #establishment",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 125,
+              "stop": 138,
+              "tag": "establishment"
+            }
+          ],
+          "tags": ["establishment"],
+          "startLine": 80,
+          "startColumn": 5,
+          "endLine": 82,
+          "endColumn": 35,
+          "section": "s2",
+          "role": "premise",
+          "argumentTitle": "The \"Establishment\""
+        },
+        {
+          "type": "statement",
+          "title": "Voice of the People",
+          "text": "Only if the populists come to power, the will of the people will be realized.",
+          "startLine": 84,
+          "startColumn": 5,
+          "endLine": 85,
+          "endColumn": 17,
+          "section": "s2",
+          "role": "main-conclusion",
+          "argumentTitle": "The \"Establishment\"",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 83,
+            "startColumn": 1,
+            "endLine": 83,
+            "endColumn": 5,
+            "conclusionIndex": 3,
+            "argumentTitle": "The \"Establishment\""
+          }
+        }
+      ],
+      "title": "The \"Establishment\"",
+      "tags": ["establishment"],
+      "section": "s2",
+      "startLine": 76,
+      "startColumn": 1,
+      "endLine": 85,
+      "endColumn": 17,
+      "fontColor": "#000000",
+      "color": "#7570b3"
+    },
+    "The \"Fake News\"": {
+      "type": "argument",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "The \"fake news\" prevents the will of the people from being realized. (9) #news ",
+          "startLine": 68,
+          "endLine": 68,
+          "startColumn": 4,
+          "endColumn": 102,
+          "isTopLevel": false,
+          "section": "s2",
+          "title": "The \"Fake News\"",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 73,
+              "stop": 78,
+              "tag": "news"
+            }
+          ],
+          "tags": ["news"]
+        },
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "",
+          "startLine": 135,
+          "endLine": 135,
+          "startColumn": 1,
+          "endColumn": 17,
+          "isTopLevel": true,
+          "section": "s2",
+          "title": "The \"Fake News\"",
+          "isReference": true,
+          "pcs": [
+            {
+              "type": "statement",
+              "title": "\"Fake News\" and Censorship",
+              "text": "Freedom of expression will not be subject to any restriction or censorship unless the \"fake news\" is abolished. (9.5) #news ",
+              "ranges": [
+                {
+                  "type": "tag",
+                  "start": 118,
+                  "stop": 123,
+                  "tag": "news"
+                }
+              ],
+              "tags": ["news"],
+              "startLine": 137,
+              "startColumn": 5,
+              "endLine": 142,
+              "endColumn": 56,
+              "section": "s2",
+              "role": "premise",
+              "argumentTitle": "The \"Fake News\""
+            },
+            {
+              "type": "statement",
+              "title": "Abolition of the \"Fake News\"",
+              "text": "The \"fake news\" will only be abolished if populists come to power. #news ",
+              "ranges": [
+                {
+                  "type": "tag",
+                  "start": 67,
+                  "stop": 72,
+                  "tag": "news"
+                }
+              ],
+              "tags": ["news"],
+              "startLine": 143,
+              "startColumn": 5,
+              "endLine": 144,
+              "endColumn": 53,
+              "section": "s2",
+              "role": "premise",
+              "argumentTitle": "The \"Fake News\""
+            },
+            {
+              "type": "statement",
+              "title": "Will of the People and Censorship",
+              "text": "The will of the people will only be realized if freedom of expression is not subject to any restrictions or censorship. #news ",
+              "ranges": [
+                {
+                  "type": "tag",
+                  "start": 120,
+                  "stop": 125,
+                  "tag": "news"
+                }
+              ],
+              "tags": ["news"],
+              "startLine": 145,
+              "startColumn": 5,
+              "endLine": 147,
+              "endColumn": 54,
+              "section": "s2",
+              "role": "premise",
+              "argumentTitle": "The \"Fake News\""
+            },
+            {
+              "type": "statement",
+              "title": "Voice of the People",
+              "text": "Only if the populists come to power, the will of the people will be realized.",
+              "startLine": 149,
+              "startColumn": 5,
+              "endLine": 150,
+              "endColumn": 17,
+              "section": "s2",
+              "role": "main-conclusion",
+              "argumentTitle": "The \"Fake News\"",
+              "inference": {
+                "type": "inference",
+                "relations": [],
+                "inferenceRules": [],
+                "startLine": 148,
+                "startColumn": 1,
+                "endLine": 148,
+                "endColumn": 5,
+                "conclusionIndex": 3,
+                "argumentTitle": "The \"Fake News\""
+              }
+            }
+          ]
+        }
+      ],
+      "pcs": [
+        {
+          "type": "statement",
+          "title": "\"Fake News\" and Censorship",
+          "text": "Freedom of expression will not be subject to any restriction or censorship unless the \"fake news\" is abolished. (9.5) #news ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 118,
+              "stop": 123,
+              "tag": "news"
+            }
+          ],
+          "tags": ["news"],
+          "startLine": 137,
+          "startColumn": 5,
+          "endLine": 142,
+          "endColumn": 56,
+          "section": "s2",
+          "role": "premise",
+          "argumentTitle": "The \"Fake News\""
+        },
+        {
+          "type": "statement",
+          "title": "Abolition of the \"Fake News\"",
+          "text": "The \"fake news\" will only be abolished if populists come to power. #news ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 67,
+              "stop": 72,
+              "tag": "news"
+            }
+          ],
+          "tags": ["news"],
+          "startLine": 143,
+          "startColumn": 5,
+          "endLine": 144,
+          "endColumn": 53,
+          "section": "s2",
+          "role": "premise",
+          "argumentTitle": "The \"Fake News\""
+        },
+        {
+          "type": "statement",
+          "title": "Will of the People and Censorship",
+          "text": "The will of the people will only be realized if freedom of expression is not subject to any restrictions or censorship. #news ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 120,
+              "stop": 125,
+              "tag": "news"
+            }
+          ],
+          "tags": ["news"],
+          "startLine": 145,
+          "startColumn": 5,
+          "endLine": 147,
+          "endColumn": 54,
+          "section": "s2",
+          "role": "premise",
+          "argumentTitle": "The \"Fake News\""
+        },
+        {
+          "type": "statement",
+          "title": "Voice of the People",
+          "text": "Only if the populists come to power, the will of the people will be realized.",
+          "startLine": 149,
+          "startColumn": 5,
+          "endLine": 150,
+          "endColumn": 17,
+          "section": "s2",
+          "role": "main-conclusion",
+          "argumentTitle": "The \"Fake News\"",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 148,
+            "startColumn": 1,
+            "endLine": 148,
+            "endColumn": 5,
+            "conclusionIndex": 3,
+            "argumentTitle": "The \"Fake News\""
+          }
+        }
+      ],
+      "title": "The \"Fake News\"",
+      "tags": ["news"],
+      "section": "s2",
+      "startLine": 137,
+      "startColumn": 1,
+      "endLine": 150,
+      "endColumn": 17,
+      "fontColor": "#000000",
+      "color": "#e7298a"
+    },
+    "The \"EU Dictate\"": {
+      "type": "argument",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "The European Union prevents the will of the people from being realized. (1) #eu ",
+          "startLine": 69,
+          "endLine": 69,
+          "startColumn": 4,
+          "endColumn": 103,
+          "isTopLevel": false,
+          "section": "s2",
+          "title": "The \"EU Dictate\"",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 76,
+              "stop": 79,
+              "tag": "eu"
+            }
+          ],
+          "tags": ["eu"]
+        },
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "",
+          "startLine": 105,
+          "endLine": 105,
+          "startColumn": 1,
+          "endColumn": 18,
+          "isTopLevel": true,
+          "section": "s2",
+          "title": "The \"EU Dictate\"",
+          "isReference": true,
+          "pcs": [
+            {
+              "type": "statement",
+              "title": "No People's Will in EU",
+              "text": "The will of the people will only be realized if we leave the EU. (1.1) #eu ",
+              "ranges": [
+                {
+                  "type": "tag",
+                  "start": 71,
+                  "stop": 74,
+                  "tag": "eu"
+                }
+              ],
+              "tags": ["eu"],
+              "startLine": 107,
+              "startColumn": 5,
+              "endLine": 110,
+              "endColumn": 55,
+              "section": "s2",
+              "role": "premise",
+              "argumentTitle": "The \"EU Dictate\""
+            },
+            {
+              "type": "statement",
+              "title": "Exit from EU",
+              "text": "Only the populists have the political goal of leaving the EU. #eu ",
+              "ranges": [
+                {
+                  "type": "tag",
+                  "start": 62,
+                  "stop": 65,
+                  "tag": "eu"
+                }
+              ],
+              "tags": ["eu"],
+              "startLine": 111,
+              "startColumn": 5,
+              "endLine": 112,
+              "endColumn": 24,
+              "section": "s2",
+              "role": "premise",
+              "argumentTitle": "The \"EU Dictate\""
+            },
+            {
+              "type": "statement",
+              "title": "Voice of the People",
+              "text": "Only if the populists come to power, the will of the people will be realized.",
+              "startLine": 114,
+              "startColumn": 5,
+              "endLine": 115,
+              "endColumn": 17,
+              "section": "s2",
+              "role": "main-conclusion",
+              "argumentTitle": "The \"EU Dictate\"",
+              "inference": {
+                "type": "inference",
+                "relations": [],
+                "inferenceRules": [],
+                "startLine": 113,
+                "startColumn": 1,
+                "endLine": 113,
+                "endColumn": 5,
+                "conclusionIndex": 2,
+                "argumentTitle": "The \"EU Dictate\""
+              }
+            }
+          ]
+        }
+      ],
+      "pcs": [
+        {
+          "type": "statement",
+          "title": "No People's Will in EU",
+          "text": "The will of the people will only be realized if we leave the EU. (1.1) #eu ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 71,
+              "stop": 74,
+              "tag": "eu"
+            }
+          ],
+          "tags": ["eu"],
+          "startLine": 107,
+          "startColumn": 5,
+          "endLine": 110,
+          "endColumn": 55,
+          "section": "s2",
+          "role": "premise",
+          "argumentTitle": "The \"EU Dictate\""
+        },
+        {
+          "type": "statement",
+          "title": "Exit from EU",
+          "text": "Only the populists have the political goal of leaving the EU. #eu ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 62,
+              "stop": 65,
+              "tag": "eu"
+            }
+          ],
+          "tags": ["eu"],
+          "startLine": 111,
+          "startColumn": 5,
+          "endLine": 112,
+          "endColumn": 24,
+          "section": "s2",
+          "role": "premise",
+          "argumentTitle": "The \"EU Dictate\""
+        },
+        {
+          "type": "statement",
+          "title": "Voice of the People",
+          "text": "Only if the populists come to power, the will of the people will be realized.",
+          "startLine": 114,
+          "startColumn": 5,
+          "endLine": 115,
+          "endColumn": 17,
+          "section": "s2",
+          "role": "main-conclusion",
+          "argumentTitle": "The \"EU Dictate\"",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 113,
+            "startColumn": 1,
+            "endLine": 113,
+            "endColumn": 5,
+            "conclusionIndex": 2,
+            "argumentTitle": "The \"EU Dictate\""
+          }
+        }
+      ],
+      "title": "The \"EU Dictate\"",
+      "tags": ["eu"],
+      "section": "s2",
+      "startLine": 107,
+      "startColumn": 1,
+      "endLine": 115,
+      "endColumn": 17,
+      "fontColor": "#000000",
+      "color": "#66a61e"
+    },
+    "Losing Connection": {
+      "type": "argument",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "The \"establishment\" does not want to and cannot realize the will of the people because they are corrupt and incompetent. (1.7) #establishment ",
+          "startLine": 90,
+          "endLine": 92,
+          "startColumn": 1,
+          "endColumn": 38,
+          "isTopLevel": true,
+          "section": "s2",
+          "title": "Losing Connection",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 127,
+              "stop": 141,
+              "tag": "establishment"
+            }
+          ],
+          "tags": ["establishment"],
+          "pcs": [
+            {
+              "type": "statement",
+              "title": "Corruption and Inability",
+              "text": "The \"establishment\" is corrupt and incompetent. (1.7) #establishment",
+              "ranges": [
+                {
+                  "type": "tag",
+                  "start": 54,
+                  "stop": 67,
+                  "tag": "establishment"
+                }
+              ],
+              "tags": ["establishment"],
+              "startLine": 94,
+              "startColumn": 5,
+              "endLine": 95,
+              "endColumn": 38,
+              "section": "s2",
+              "role": "premise",
+              "argumentTitle": "Losing Connection"
+            },
+            {
+              "type": "statement",
+              "title": "Will and Ability",
+              "text": "If the \"establishment\" is corrupt and incompetent, it cannot and will not realize the will of the people. #establishment",
+              "ranges": [
+                {
+                  "type": "tag",
+                  "start": 106,
+                  "stop": 119,
+                  "tag": "establishment"
+                }
+              ],
+              "tags": ["establishment"],
+              "startLine": 96,
+              "startColumn": 5,
+              "endLine": 98,
+              "endColumn": 23,
+              "section": "s2",
+              "role": "premise",
+              "argumentTitle": "Losing Connection"
+            },
+            {
+              "type": "statement",
+              "title": "Lost Connection",
+              "isReference": true,
+              "startLine": 100,
+              "startColumn": 5,
+              "endLine": 100,
+              "endColumn": 21,
+              "section": "s2",
+              "role": "main-conclusion",
+              "argumentTitle": "Losing Connection",
+              "inference": {
+                "type": "inference",
+                "relations": [],
+                "inferenceRules": [],
+                "startLine": 99,
+                "startColumn": 1,
+                "endLine": 99,
+                "endColumn": 5,
+                "conclusionIndex": 2,
+                "argumentTitle": "Losing Connection"
+              }
+            }
+          ]
+        }
+      ],
+      "pcs": [
+        {
+          "type": "statement",
+          "title": "Corruption and Inability",
+          "text": "The \"establishment\" is corrupt and incompetent. (1.7) #establishment",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 54,
+              "stop": 67,
+              "tag": "establishment"
+            }
+          ],
+          "tags": ["establishment"],
+          "startLine": 94,
+          "startColumn": 5,
+          "endLine": 95,
+          "endColumn": 38,
+          "section": "s2",
+          "role": "premise",
+          "argumentTitle": "Losing Connection"
+        },
+        {
+          "type": "statement",
+          "title": "Will and Ability",
+          "text": "If the \"establishment\" is corrupt and incompetent, it cannot and will not realize the will of the people. #establishment",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 106,
+              "stop": 119,
+              "tag": "establishment"
+            }
+          ],
+          "tags": ["establishment"],
+          "startLine": 96,
+          "startColumn": 5,
+          "endLine": 98,
+          "endColumn": 23,
+          "section": "s2",
+          "role": "premise",
+          "argumentTitle": "Losing Connection"
+        },
+        {
+          "type": "statement",
+          "title": "Lost Connection",
+          "isReference": true,
+          "startLine": 100,
+          "startColumn": 5,
+          "endLine": 100,
+          "endColumn": 21,
+          "section": "s2",
+          "role": "main-conclusion",
+          "argumentTitle": "Losing Connection",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 99,
+            "startColumn": 1,
+            "endLine": 99,
+            "endColumn": 5,
+            "conclusionIndex": 2,
+            "argumentTitle": "Losing Connection"
+          }
+        }
+      ],
+      "title": "Losing Connection",
+      "tags": ["establishment"],
+      "section": "s2",
+      "startLine": 94,
+      "startColumn": 1,
+      "endLine": 100,
+      "endColumn": 21,
+      "fontColor": "#000000",
+      "color": "#7570b3"
+    },
+    "No Democracy in EU": {
+      "type": "argument",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "As long as we are in the EU, democracy cannot be restored in society. (1.1) #eu ",
+          "startLine": 109,
+          "endLine": 110,
+          "startColumn": 6,
+          "endColumn": 55,
+          "isTopLevel": false,
+          "section": "s2",
+          "title": "No Democracy in EU",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 76,
+              "stop": 79,
+              "tag": "eu"
+            }
+          ],
+          "tags": ["eu"]
+        },
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "",
+          "startLine": 119,
+          "endLine": 119,
+          "startColumn": 1,
+          "endColumn": 20,
+          "isTopLevel": true,
+          "section": "s2",
+          "title": "No Democracy in EU",
+          "isReference": true,
+          "pcs": [
+            {
+              "type": "statement",
+              "title": "No Nationality in EU",
+              "text": "If we stay within the EU, there is no national statehood. (1.1) #eu ",
+              "ranges": [
+                {
+                  "type": "tag",
+                  "start": 64,
+                  "stop": 67,
+                  "tag": "eu"
+                }
+              ],
+              "tags": ["eu"],
+              "startLine": 121,
+              "startColumn": 5,
+              "endLine": 122,
+              "endColumn": 37,
+              "section": "s2",
+              "role": "premise",
+              "argumentTitle": "No Democracy in EU"
+            },
+            {
+              "type": "statement",
+              "title": "No Nationality, No Sovereignty",
+              "text": "Without national statehood, there is no sovereignty of the people. #eu ",
+              "ranges": [
+                {
+                  "type": "tag",
+                  "start": 67,
+                  "stop": 70,
+                  "tag": "eu"
+                }
+              ],
+              "tags": ["eu"],
+              "startLine": 123,
+              "startColumn": 5,
+              "endLine": 124,
+              "endColumn": 55,
+              "section": "s2",
+              "role": "premise",
+              "argumentTitle": "No Democracy in EU"
+            },
+            {
+              "type": "statement",
+              "title": "No Sovereignty, No Democracy",
+              "text": "Without sovereignty of the people, there is no democracy. #eu ",
+              "ranges": [
+                {
+                  "type": "tag",
+                  "start": 58,
+                  "stop": 61,
+                  "tag": "eu"
+                }
+              ],
+              "tags": ["eu"],
+              "startLine": 125,
+              "startColumn": 5,
+              "endLine": 126,
+              "endColumn": 40,
+              "section": "s2",
+              "role": "premise",
+              "argumentTitle": "No Democracy in EU"
+            },
+            {
+              "type": "statement",
+              "title": "No Democracy, No People's Will",
+              "text": "The will of the people will only be realized if democracy is restored. #eu ",
+              "ranges": [
+                {
+                  "type": "tag",
+                  "start": 71,
+                  "stop": 74,
+                  "tag": "eu"
+                }
+              ],
+              "tags": ["eu"],
+              "startLine": 127,
+              "startColumn": 5,
+              "endLine": 128,
+              "endColumn": 53,
+              "section": "s2",
+              "role": "premise",
+              "argumentTitle": "No Democracy in EU"
+            },
+            {
+              "type": "statement",
+              "title": "No People's Will in EU",
+              "isReference": true,
+              "startLine": 130,
+              "startColumn": 5,
+              "endLine": 130,
+              "endColumn": 28,
+              "section": "s2",
+              "role": "main-conclusion",
+              "argumentTitle": "No Democracy in EU",
+              "inference": {
+                "type": "inference",
+                "relations": [],
+                "inferenceRules": [],
+                "startLine": 129,
+                "startColumn": 1,
+                "endLine": 129,
+                "endColumn": 5,
+                "conclusionIndex": 4,
+                "argumentTitle": "No Democracy in EU"
+              }
+            }
+          ]
+        }
+      ],
+      "pcs": [
+        {
+          "type": "statement",
+          "title": "No Nationality in EU",
+          "text": "If we stay within the EU, there is no national statehood. (1.1) #eu ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 64,
+              "stop": 67,
+              "tag": "eu"
+            }
+          ],
+          "tags": ["eu"],
+          "startLine": 121,
+          "startColumn": 5,
+          "endLine": 122,
+          "endColumn": 37,
+          "section": "s2",
+          "role": "premise",
+          "argumentTitle": "No Democracy in EU"
+        },
+        {
+          "type": "statement",
+          "title": "No Nationality, No Sovereignty",
+          "text": "Without national statehood, there is no sovereignty of the people. #eu ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 67,
+              "stop": 70,
+              "tag": "eu"
+            }
+          ],
+          "tags": ["eu"],
+          "startLine": 123,
+          "startColumn": 5,
+          "endLine": 124,
+          "endColumn": 55,
+          "section": "s2",
+          "role": "premise",
+          "argumentTitle": "No Democracy in EU"
+        },
+        {
+          "type": "statement",
+          "title": "No Sovereignty, No Democracy",
+          "text": "Without sovereignty of the people, there is no democracy. #eu ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 58,
+              "stop": 61,
+              "tag": "eu"
+            }
+          ],
+          "tags": ["eu"],
+          "startLine": 125,
+          "startColumn": 5,
+          "endLine": 126,
+          "endColumn": 40,
+          "section": "s2",
+          "role": "premise",
+          "argumentTitle": "No Democracy in EU"
+        },
+        {
+          "type": "statement",
+          "title": "No Democracy, No People's Will",
+          "text": "The will of the people will only be realized if democracy is restored. #eu ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 71,
+              "stop": 74,
+              "tag": "eu"
+            }
+          ],
+          "tags": ["eu"],
+          "startLine": 127,
+          "startColumn": 5,
+          "endLine": 128,
+          "endColumn": 53,
+          "section": "s2",
+          "role": "premise",
+          "argumentTitle": "No Democracy in EU"
+        },
+        {
+          "type": "statement",
+          "title": "No People's Will in EU",
+          "isReference": true,
+          "startLine": 130,
+          "startColumn": 5,
+          "endLine": 130,
+          "endColumn": 28,
+          "section": "s2",
+          "role": "main-conclusion",
+          "argumentTitle": "No Democracy in EU",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 129,
+            "startColumn": 1,
+            "endLine": 129,
+            "endColumn": 5,
+            "conclusionIndex": 4,
+            "argumentTitle": "No Democracy in EU"
+          }
+        }
+      ],
+      "title": "No Democracy in EU",
+      "tags": ["eu"],
+      "section": "s2",
+      "startLine": 121,
+      "startColumn": 1,
+      "endLine": 130,
+      "endColumn": 28,
+      "fontColor": "#000000",
+      "color": "#66a61e"
+    },
+    "Public Debate": {
+      "type": "argument",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "The consolidation of the \"fake news\" and the instrument of \"political correctness\" dictate the public opinion in public discourse. (1.7) #news ",
+          "startLine": 140,
+          "endLine": 142,
+          "startColumn": 6,
+          "endColumn": 56,
+          "isTopLevel": false,
+          "section": "s2",
+          "title": "Public Debate",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 137,
+              "stop": 142,
+              "tag": "news"
+            }
+          ],
+          "tags": ["news"]
+        },
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "",
+          "startLine": 155,
+          "endLine": 155,
+          "startColumn": 1,
+          "endColumn": 15,
+          "isTopLevel": true,
+          "section": "s2",
+          "title": "Public Debate",
+          "isReference": true,
+          "pcs": [
+            {
+              "type": "statement",
+              "title": "\"Political Correctness\"",
+              "text": "If the \"fake news\" prevails, the parties continue to use the instrument of \"political correctness\" and bring the press in line. #news ",
+              "ranges": [
+                {
+                  "type": "tag",
+                  "start": 128,
+                  "stop": 133,
+                  "tag": "news"
+                }
+              ],
+              "tags": ["news"],
+              "startLine": 157,
+              "startColumn": 5,
+              "endLine": 159,
+              "endColumn": 36,
+              "section": "s2",
+              "role": "premise",
+              "argumentTitle": "Public Debate"
+            },
+            {
+              "type": "statement",
+              "title": "Opinion Formation",
+              "text": "If the parties continue to use the instrument of \"political correctness\" and bring the press in line, the freedom of expression will be limited and censored. (9.4) #news ",
+              "ranges": [
+                {
+                  "type": "tag",
+                  "start": 164,
+                  "stop": 169,
+                  "tag": "news"
+                }
+              ],
+              "tags": ["news"],
+              "startLine": 160,
+              "startColumn": 5,
+              "endLine": 162,
+              "endColumn": 69,
+              "section": "s2",
+              "role": "premise",
+              "argumentTitle": "Public Debate"
+            },
+            {
+              "type": "statement",
+              "title": "\"Fake News\" and Censorship",
+              "isReference": true,
+              "startLine": 164,
+              "startColumn": 5,
+              "endLine": 164,
+              "endColumn": 32,
+              "section": "s2",
+              "role": "main-conclusion",
+              "argumentTitle": "Public Debate",
+              "inference": {
+                "type": "inference",
+                "relations": [],
+                "inferenceRules": [],
+                "startLine": 163,
+                "startColumn": 1,
+                "endLine": 163,
+                "endColumn": 5,
+                "conclusionIndex": 2,
+                "argumentTitle": "Public Debate"
+              }
+            }
+          ]
+        }
+      ],
+      "pcs": [
+        {
+          "type": "statement",
+          "title": "\"Political Correctness\"",
+          "text": "If the \"fake news\" prevails, the parties continue to use the instrument of \"political correctness\" and bring the press in line. #news ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 128,
+              "stop": 133,
+              "tag": "news"
+            }
+          ],
+          "tags": ["news"],
+          "startLine": 157,
+          "startColumn": 5,
+          "endLine": 159,
+          "endColumn": 36,
+          "section": "s2",
+          "role": "premise",
+          "argumentTitle": "Public Debate"
+        },
+        {
+          "type": "statement",
+          "title": "Opinion Formation",
+          "text": "If the parties continue to use the instrument of \"political correctness\" and bring the press in line, the freedom of expression will be limited and censored. (9.4) #news ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 164,
+              "stop": 169,
+              "tag": "news"
+            }
+          ],
+          "tags": ["news"],
+          "startLine": 160,
+          "startColumn": 5,
+          "endLine": 162,
+          "endColumn": 69,
+          "section": "s2",
+          "role": "premise",
+          "argumentTitle": "Public Debate"
+        },
+        {
+          "type": "statement",
+          "title": "\"Fake News\" and Censorship",
+          "isReference": true,
+          "startLine": 164,
+          "startColumn": 5,
+          "endLine": 164,
+          "endColumn": 32,
+          "section": "s2",
+          "role": "main-conclusion",
+          "argumentTitle": "Public Debate",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 163,
+            "startColumn": 1,
+            "endLine": 163,
+            "endColumn": 5,
+            "conclusionIndex": 2,
+            "argumentTitle": "Public Debate"
+          }
+        }
+      ],
+      "title": "Public Debate",
+      "tags": ["news"],
+      "section": "s2",
+      "startLine": 157,
+      "startColumn": 1,
+      "endLine": 164,
+      "endColumn": 32,
+      "fontColor": "#000000",
+      "color": "#e7298a"
+    },
+    "Immigration": {
+      "type": "argument",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "The \"refugee crisis\" is a threat to society. (5) #immigration ",
+          "startLine": 179,
+          "endLine": 180,
+          "startColumn": 4,
+          "endColumn": 28,
+          "isTopLevel": false,
+          "section": "s3",
+          "title": "Immigration",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 49,
+              "stop": 61,
+              "tag": "immigration"
+            }
+          ],
+          "tags": ["immigration"]
+        },
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "",
+          "startLine": 193,
+          "endLine": 193,
+          "startColumn": 1,
+          "endColumn": 13,
+          "isTopLevel": true,
+          "section": "s3",
+          "title": "Immigration",
+          "isReference": true,
+          "pcs": [
+            {
+              "type": "statement",
+              "title": "Destabilization",
+              "text": "Immigration to Europe threatens to destabilize society. (5.1) #immigration ",
+              "ranges": [
+                {
+                  "type": "tag",
+                  "start": 62,
+                  "stop": 74,
+                  "tag": "immigration"
+                }
+              ],
+              "tags": ["immigration"],
+              "startLine": 195,
+              "startColumn": 5,
+              "endLine": 197,
+              "endColumn": 19,
+              "section": "s3",
+              "role": "premise",
+              "argumentTitle": "Immigration"
+            },
+            {
+              "type": "statement",
+              "text": "The current laws and measures don't suffice to prevent destabilization. #immigration ",
+              "ranges": [
+                {
+                  "type": "tag",
+                  "start": 72,
+                  "stop": 84,
+                  "tag": "immigration"
+                }
+              ],
+              "tags": ["immigration"],
+              "startLine": 198,
+              "startColumn": 5,
+              "endLine": 198,
+              "endColumn": 90,
+              "title": "Untitled 15",
+              "section": "s3",
+              "role": "premise",
+              "argumentTitle": "Immigration"
+            },
+            {
+              "type": "statement",
+              "text": "If society is threatened by destabilization and the current laws and measures don't suffice to prevent destabilization, it is doomed and must be saved. (5.1) #immigration ",
+              "ranges": [
+                {
+                  "type": "tag",
+                  "start": 158,
+                  "stop": 170,
+                  "tag": "immigration"
+                }
+              ],
+              "tags": ["immigration"],
+              "startLine": 199,
+              "startColumn": 5,
+              "endLine": 199,
+              "endColumn": 176,
+              "title": "Untitled 16",
+              "section": "s3",
+              "role": "premise",
+              "argumentTitle": "Immigration"
+            },
+            {
+              "type": "statement",
+              "text": "Society is doomed and must be saved.",
+              "startLine": 201,
+              "startColumn": 5,
+              "endLine": 201,
+              "endColumn": 40,
+              "title": "Untitled 17",
+              "section": "s3",
+              "role": "main-conclusion",
+              "argumentTitle": "Immigration",
+              "inference": {
+                "type": "inference",
+                "relations": [],
+                "inferenceRules": [],
+                "startLine": 200,
+                "startColumn": 1,
+                "endLine": 200,
+                "endColumn": 5,
+                "conclusionIndex": 3,
+                "argumentTitle": "Immigration"
+              }
+            }
+          ]
+        }
+      ],
+      "pcs": [
+        {
+          "type": "statement",
+          "title": "Destabilization",
+          "text": "Immigration to Europe threatens to destabilize society. (5.1) #immigration ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 62,
+              "stop": 74,
+              "tag": "immigration"
+            }
+          ],
+          "tags": ["immigration"],
+          "startLine": 195,
+          "startColumn": 5,
+          "endLine": 197,
+          "endColumn": 19,
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Immigration"
+        },
+        {
+          "type": "statement",
+          "text": "The current laws and measures don't suffice to prevent destabilization. #immigration ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 72,
+              "stop": 84,
+              "tag": "immigration"
+            }
+          ],
+          "tags": ["immigration"],
+          "startLine": 198,
+          "startColumn": 5,
+          "endLine": 198,
+          "endColumn": 90,
+          "title": "Untitled 15",
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Immigration"
+        },
+        {
+          "type": "statement",
+          "text": "If society is threatened by destabilization and the current laws and measures don't suffice to prevent destabilization, it is doomed and must be saved. (5.1) #immigration ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 158,
+              "stop": 170,
+              "tag": "immigration"
+            }
+          ],
+          "tags": ["immigration"],
+          "startLine": 199,
+          "startColumn": 5,
+          "endLine": 199,
+          "endColumn": 176,
+          "title": "Untitled 16",
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Immigration"
+        },
+        {
+          "type": "statement",
+          "text": "Society is doomed and must be saved.",
+          "startLine": 201,
+          "startColumn": 5,
+          "endLine": 201,
+          "endColumn": 40,
+          "title": "Untitled 17",
+          "section": "s3",
+          "role": "main-conclusion",
+          "argumentTitle": "Immigration",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 200,
+            "startColumn": 1,
+            "endLine": 200,
+            "endColumn": 5,
+            "conclusionIndex": 3,
+            "argumentTitle": "Immigration"
+          }
+        }
+      ],
+      "title": "Immigration",
+      "tags": ["immigration"],
+      "section": "s3",
+      "startLine": 195,
+      "startColumn": 1,
+      "endLine": 201,
+      "endColumn": 40,
+      "fontColor": "#000000",
+      "color": "#e6ab02"
+    },
+    "Injustice": {
+      "type": "argument",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Destabilization",
+          "fromType": "equivalence-class",
+          "to": "Injustice",
+          "toType": "argument"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "Social injustice is a threat to society. (10, 11)",
+          "startLine": 181,
+          "endLine": 181,
+          "startColumn": 4,
+          "endColumn": 66,
+          "isTopLevel": false,
+          "section": "s3",
+          "title": "Injustice"
+        },
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "",
+          "startLine": 197,
+          "endLine": 197,
+          "startColumn": 8,
+          "endColumn": 19,
+          "isTopLevel": false,
+          "section": "s3",
+          "title": "Injustice",
+          "isReference": true
+        },
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "",
+          "startLine": 258,
+          "endLine": 258,
+          "startColumn": 1,
+          "endColumn": 11,
+          "isTopLevel": true,
+          "section": "s3",
+          "title": "Injustice",
+          "isReference": true,
+          "pcs": [
+            {
+              "type": "statement",
+              "text": "Social injustice threatens society.",
+              "startLine": 260,
+              "startColumn": 5,
+              "endLine": 260,
+              "endColumn": 40,
+              "title": "Untitled 28",
+              "section": "s3",
+              "role": "premise",
+              "argumentTitle": "Injustice"
+            },
+            {
+              "type": "statement",
+              "text": "A society threatened by social injustice is about to be destroyed and must be saved.",
+              "startLine": 261,
+              "startColumn": 5,
+              "endLine": 262,
+              "endColumn": 35,
+              "title": "Untitled 29",
+              "section": "s3",
+              "role": "premise",
+              "argumentTitle": "Injustice"
+            },
+            {
+              "type": "statement",
+              "text": "Society is doomed and must be saved.",
+              "startLine": 264,
+              "startColumn": 5,
+              "endLine": 264,
+              "endColumn": 40,
+              "title": "Untitled 30",
+              "section": "s3",
+              "role": "main-conclusion",
+              "argumentTitle": "Injustice",
+              "inference": {
+                "type": "inference",
+                "relations": [],
+                "inferenceRules": [],
+                "startLine": 263,
+                "startColumn": 1,
+                "endLine": 263,
+                "endColumn": 5,
+                "conclusionIndex": 2,
+                "argumentTitle": "Injustice"
+              }
+            }
+          ]
+        }
+      ],
+      "pcs": [
+        {
+          "type": "statement",
+          "text": "Social injustice threatens society.",
+          "startLine": 260,
+          "startColumn": 5,
+          "endLine": 260,
+          "endColumn": 40,
+          "title": "Untitled 28",
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Injustice"
+        },
+        {
+          "type": "statement",
+          "text": "A society threatened by social injustice is about to be destroyed and must be saved.",
+          "startLine": 261,
+          "startColumn": 5,
+          "endLine": 262,
+          "endColumn": 35,
+          "title": "Untitled 29",
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Injustice"
+        },
+        {
+          "type": "statement",
+          "text": "Society is doomed and must be saved.",
+          "startLine": 264,
+          "startColumn": 5,
+          "endLine": 264,
+          "endColumn": 40,
+          "title": "Untitled 30",
+          "section": "s3",
+          "role": "main-conclusion",
+          "argumentTitle": "Injustice",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 263,
+            "startColumn": 1,
+            "endLine": 263,
+            "endColumn": 5,
+            "conclusionIndex": 2,
+            "argumentTitle": "Injustice"
+          }
+        }
+      ],
+      "title": "Injustice",
+      "section": "s3",
+      "startLine": 260,
+      "startColumn": 1,
+      "endLine": 264,
+      "endColumn": 40,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Islam": {
+      "type": "argument",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Destabilization",
+          "fromType": "equivalence-class",
+          "to": "Islam",
+          "toType": "argument"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "Islam is a threat to society. (6) #islam ",
+          "startLine": 182,
+          "endLine": 182,
+          "startColumn": 4,
+          "endColumn": 54,
+          "isTopLevel": false,
+          "section": "s3",
+          "title": "Islam",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 34,
+              "stop": 40,
+              "tag": "islam"
+            }
+          ],
+          "tags": ["islam"]
+        },
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "",
+          "startLine": 196,
+          "endLine": 196,
+          "startColumn": 8,
+          "endColumn": 15,
+          "isTopLevel": false,
+          "section": "s3",
+          "title": "Islam",
+          "isReference": true
+        },
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "",
+          "startLine": 214,
+          "endLine": 214,
+          "startColumn": 1,
+          "endColumn": 7,
+          "isTopLevel": true,
+          "section": "s3",
+          "title": "Islam",
+          "isReference": true,
+          "pcs": [
+            {
+              "type": "statement",
+              "text": "Islam threatens society by alienating its culture and attacking it through terrorist attacks.",
+              "startLine": 216,
+              "startColumn": 5,
+              "endLine": 217,
+              "endColumn": 44,
+              "title": "Untitled 19",
+              "section": "s3",
+              "role": "premise",
+              "argumentTitle": "Islam"
+            },
+            {
+              "type": "statement",
+              "text": "A society that is alienated from its culture and attacked by terrorist attacks is doomed and must be saved.",
+              "startLine": 218,
+              "startColumn": 5,
+              "endLine": 219,
+              "endColumn": 59,
+              "title": "Untitled 20",
+              "section": "s3",
+              "role": "premise",
+              "argumentTitle": "Islam"
+            },
+            {
+              "type": "statement",
+              "text": "Society is doomed and must be saved.",
+              "startLine": 221,
+              "startColumn": 5,
+              "endLine": 221,
+              "endColumn": 40,
+              "title": "Untitled 21",
+              "section": "s3",
+              "role": "main-conclusion",
+              "argumentTitle": "Islam",
+              "inference": {
+                "type": "inference",
+                "relations": [],
+                "inferenceRules": [],
+                "startLine": 220,
+                "startColumn": 1,
+                "endLine": 220,
+                "endColumn": 5,
+                "conclusionIndex": 2,
+                "argumentTitle": "Islam"
+              }
+            }
+          ]
+        }
+      ],
+      "pcs": [
+        {
+          "type": "statement",
+          "text": "Islam threatens society by alienating its culture and attacking it through terrorist attacks.",
+          "startLine": 216,
+          "startColumn": 5,
+          "endLine": 217,
+          "endColumn": 44,
+          "title": "Untitled 19",
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Islam"
+        },
+        {
+          "type": "statement",
+          "text": "A society that is alienated from its culture and attacked by terrorist attacks is doomed and must be saved.",
+          "startLine": 218,
+          "startColumn": 5,
+          "endLine": 219,
+          "endColumn": 59,
+          "title": "Untitled 20",
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Islam"
+        },
+        {
+          "type": "statement",
+          "text": "Society is doomed and must be saved.",
+          "startLine": 221,
+          "startColumn": 5,
+          "endLine": 221,
+          "endColumn": 40,
+          "title": "Untitled 21",
+          "section": "s3",
+          "role": "main-conclusion",
+          "argumentTitle": "Islam",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 220,
+            "startColumn": 1,
+            "endLine": 220,
+            "endColumn": 5,
+            "conclusionIndex": 2,
+            "argumentTitle": "Islam"
+          }
+        }
+      ],
+      "title": "Islam",
+      "tags": ["islam"],
+      "section": "s3",
+      "startLine": 216,
+      "startColumn": 1,
+      "endLine": 221,
+      "endColumn": 40,
+      "fontColor": "#000000",
+      "color": "#a6761d"
+    },
+    "Crime": {
+      "type": "argument",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "Crime and terror is a threat to society. (4) #crime ",
+          "startLine": 183,
+          "endLine": 183,
+          "startColumn": 4,
+          "endColumn": 65,
+          "isTopLevel": false,
+          "section": "s3",
+          "title": "Crime",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 45,
+              "stop": 51,
+              "tag": "crime"
+            }
+          ],
+          "tags": ["crime"]
+        },
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "",
+          "startLine": 223,
+          "endLine": 223,
+          "startColumn": 1,
+          "endColumn": 7,
+          "isTopLevel": true,
+          "section": "s3",
+          "title": "Crime",
+          "isReference": true,
+          "pcs": [
+            {
+              "type": "statement",
+              "title": "Crime Rates Increase",
+              "text": "The rise in crime intensifies the security situation dramatically. (4.1) #crime ",
+              "ranges": [
+                {
+                  "type": "tag",
+                  "start": 73,
+                  "stop": 79,
+                  "tag": "crime"
+                }
+              ],
+              "tags": ["crime"],
+              "startLine": 225,
+              "startColumn": 5,
+              "endLine": 226,
+              "endColumn": 51,
+              "section": "s3",
+              "role": "premise",
+              "argumentTitle": "Crime"
+            },
+            {
+              "type": "statement",
+              "title": "Inadequate Security Measures",
+              "text": "The current laws and measures are an inadequate response to the dramatically worsening security situation. (4.1, 4.3) #crime ",
+              "ranges": [
+                {
+                  "type": "tag",
+                  "start": 118,
+                  "stop": 124,
+                  "tag": "crime"
+                }
+              ],
+              "tags": ["crime"],
+              "startLine": 227,
+              "startColumn": 5,
+              "endLine": 229,
+              "endColumn": 49,
+              "section": "s3",
+              "role": "premise",
+              "argumentTitle": "Crime"
+            },
+            {
+              "type": "statement",
+              "text": "If the response to the dramatically worsening security situation is inadequate, society is doomed and must be saved. ",
+              "startLine": 230,
+              "startColumn": 5,
+              "endLine": 231,
+              "endColumn": 63,
+              "title": "Untitled 22",
+              "section": "s3",
+              "role": "premise",
+              "argumentTitle": "Crime"
+            },
+            {
+              "type": "statement",
+              "text": "Society is doomed and must be saved.",
+              "startLine": 233,
+              "startColumn": 5,
+              "endLine": 233,
+              "endColumn": 40,
+              "title": "Untitled 23",
+              "section": "s3",
+              "role": "main-conclusion",
+              "argumentTitle": "Crime",
+              "inference": {
+                "type": "inference",
+                "relations": [],
+                "inferenceRules": [],
+                "startLine": 232,
+                "startColumn": 1,
+                "endLine": 232,
+                "endColumn": 5,
+                "conclusionIndex": 3,
+                "argumentTitle": "Crime"
+              }
+            }
+          ]
+        }
+      ],
+      "pcs": [
+        {
+          "type": "statement",
+          "title": "Crime Rates Increase",
+          "text": "The rise in crime intensifies the security situation dramatically. (4.1) #crime ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 73,
+              "stop": 79,
+              "tag": "crime"
+            }
+          ],
+          "tags": ["crime"],
+          "startLine": 225,
+          "startColumn": 5,
+          "endLine": 226,
+          "endColumn": 51,
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Crime"
+        },
+        {
+          "type": "statement",
+          "title": "Inadequate Security Measures",
+          "text": "The current laws and measures are an inadequate response to the dramatically worsening security situation. (4.1, 4.3) #crime ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 118,
+              "stop": 124,
+              "tag": "crime"
+            }
+          ],
+          "tags": ["crime"],
+          "startLine": 227,
+          "startColumn": 5,
+          "endLine": 229,
+          "endColumn": 49,
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Crime"
+        },
+        {
+          "type": "statement",
+          "text": "If the response to the dramatically worsening security situation is inadequate, society is doomed and must be saved. ",
+          "startLine": 230,
+          "startColumn": 5,
+          "endLine": 231,
+          "endColumn": 63,
+          "title": "Untitled 22",
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Crime"
+        },
+        {
+          "type": "statement",
+          "text": "Society is doomed and must be saved.",
+          "startLine": 233,
+          "startColumn": 5,
+          "endLine": 233,
+          "endColumn": 40,
+          "title": "Untitled 23",
+          "section": "s3",
+          "role": "main-conclusion",
+          "argumentTitle": "Crime",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 232,
+            "startColumn": 1,
+            "endLine": 232,
+            "endColumn": 5,
+            "conclusionIndex": 3,
+            "argumentTitle": "Crime"
+          }
+        }
+      ],
+      "title": "Crime",
+      "tags": ["crime"],
+      "section": "s3",
+      "startLine": 225,
+      "startColumn": 1,
+      "endLine": 233,
+      "endColumn": 40,
+      "fontColor": "#000000",
+      "color": "#666666"
+    },
+    "Culture": {
+      "type": "argument",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "The disappearance of cultural identity is a threat to society. (8, 9) #culture ",
+          "startLine": 184,
+          "endLine": 184,
+          "startColumn": 4,
+          "endColumn": 94,
+          "isTopLevel": false,
+          "section": "s3",
+          "title": "Culture",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 70,
+              "stop": 78,
+              "tag": "culture"
+            }
+          ],
+          "tags": ["culture"]
+        },
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "",
+          "startLine": 239,
+          "endLine": 239,
+          "startColumn": 1,
+          "endColumn": 9,
+          "isTopLevel": true,
+          "section": "s3",
+          "title": "Culture",
+          "isReference": true,
+          "pcs": [
+            {
+              "type": "statement",
+              "title": "Threat to Culture",
+              "text": "The identity-creating culture of society is in danger. (9.1) #culture",
+              "ranges": [
+                {
+                  "type": "tag",
+                  "start": 61,
+                  "stop": 68,
+                  "tag": "culture"
+                }
+              ],
+              "tags": ["culture"],
+              "startLine": 241,
+              "startColumn": 5,
+              "endLine": 249,
+              "endColumn": 32,
+              "section": "s3",
+              "role": "premise",
+              "argumentTitle": "Culture"
+            },
+            {
+              "type": "statement",
+              "text": "Society cannot exist without an identity-creating culture.",
+              "startLine": 250,
+              "startColumn": 5,
+              "endLine": 250,
+              "endColumn": 63,
+              "title": "Untitled 25",
+              "section": "s3",
+              "role": "premise",
+              "argumentTitle": "Culture"
+            },
+            {
+              "type": "statement",
+              "text": "Society is doomed and must be saved.",
+              "startLine": 252,
+              "startColumn": 5,
+              "endLine": 252,
+              "endColumn": 40,
+              "title": "Untitled 26",
+              "section": "s3",
+              "role": "main-conclusion",
+              "argumentTitle": "Culture",
+              "inference": {
+                "type": "inference",
+                "relations": [],
+                "inferenceRules": [],
+                "startLine": 251,
+                "startColumn": 1,
+                "endLine": 251,
+                "endColumn": 5,
+                "conclusionIndex": 2,
+                "argumentTitle": "Culture"
+              }
+            }
+          ]
+        }
+      ],
+      "pcs": [
+        {
+          "type": "statement",
+          "title": "Threat to Culture",
+          "text": "The identity-creating culture of society is in danger. (9.1) #culture",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 61,
+              "stop": 68,
+              "tag": "culture"
+            }
+          ],
+          "tags": ["culture"],
+          "startLine": 241,
+          "startColumn": 5,
+          "endLine": 249,
+          "endColumn": 32,
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Culture"
+        },
+        {
+          "type": "statement",
+          "text": "Society cannot exist without an identity-creating culture.",
+          "startLine": 250,
+          "startColumn": 5,
+          "endLine": 250,
+          "endColumn": 63,
+          "title": "Untitled 25",
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Culture"
+        },
+        {
+          "type": "statement",
+          "text": "Society is doomed and must be saved.",
+          "startLine": 252,
+          "startColumn": 5,
+          "endLine": 252,
+          "endColumn": 40,
+          "title": "Untitled 26",
+          "section": "s3",
+          "role": "main-conclusion",
+          "argumentTitle": "Culture",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 251,
+            "startColumn": 1,
+            "endLine": 251,
+            "endColumn": 5,
+            "conclusionIndex": 2,
+            "argumentTitle": "Culture"
+          }
+        }
+      ],
+      "title": "Culture",
+      "tags": ["culture"],
+      "section": "s3",
+      "startLine": 241,
+      "startColumn": 1,
+      "endLine": 252,
+      "endColumn": 40,
+      "fontColor": "#000000"
+    },
+    "Globalization": {
+      "type": "argument",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "Globalization is a threat to society. (3)",
+          "startLine": 185,
+          "endLine": 185,
+          "startColumn": 4,
+          "endColumn": 62,
+          "isTopLevel": false,
+          "section": "s3",
+          "title": "Globalization"
+        },
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "",
+          "startLine": 288,
+          "endLine": 288,
+          "startColumn": 1,
+          "endColumn": 15,
+          "isTopLevel": true,
+          "section": "s3",
+          "title": "Globalization",
+          "isReference": true,
+          "pcs": [
+            {
+              "type": "statement",
+              "text": "Globalization threatens society.",
+              "startLine": 290,
+              "startColumn": 5,
+              "endLine": 290,
+              "endColumn": 37,
+              "title": "Untitled 36",
+              "section": "s3",
+              "role": "premise",
+              "argumentTitle": "Globalization"
+            },
+            {
+              "type": "statement",
+              "title": "Decline of the Nation State",
+              "text": "The nation state is currently unable to face the challenges of globalization. (11.1)",
+              "startLine": 291,
+              "startColumn": 5,
+              "endLine": 292,
+              "endColumn": 99,
+              "section": "s3",
+              "role": "premise",
+              "argumentTitle": "Globalization"
+            },
+            {
+              "type": "statement",
+              "text": "If globalization threatens society and the nation-state is unable to meet its challenges, society is doomed and must be saved.",
+              "startLine": 293,
+              "startColumn": 5,
+              "endLine": 293,
+              "endColumn": 131,
+              "title": "Untitled 37",
+              "section": "s3",
+              "role": "premise",
+              "argumentTitle": "Globalization"
+            },
+            {
+              "type": "statement",
+              "text": "Society is doomed and must be saved.",
+              "startLine": 295,
+              "startColumn": 5,
+              "endLine": 295,
+              "endColumn": 40,
+              "title": "Untitled 38",
+              "section": "s3",
+              "role": "main-conclusion",
+              "argumentTitle": "Globalization",
+              "inference": {
+                "type": "inference",
+                "relations": [],
+                "inferenceRules": [],
+                "startLine": 294,
+                "startColumn": 1,
+                "endLine": 294,
+                "endColumn": 5,
+                "conclusionIndex": 3,
+                "argumentTitle": "Globalization"
+              }
+            }
+          ]
+        }
+      ],
+      "pcs": [
+        {
+          "type": "statement",
+          "text": "Globalization threatens society.",
+          "startLine": 290,
+          "startColumn": 5,
+          "endLine": 290,
+          "endColumn": 37,
+          "title": "Untitled 36",
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Globalization"
+        },
+        {
+          "type": "statement",
+          "title": "Decline of the Nation State",
+          "text": "The nation state is currently unable to face the challenges of globalization. (11.1)",
+          "startLine": 291,
+          "startColumn": 5,
+          "endLine": 292,
+          "endColumn": 99,
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Globalization"
+        },
+        {
+          "type": "statement",
+          "text": "If globalization threatens society and the nation-state is unable to meet its challenges, society is doomed and must be saved.",
+          "startLine": 293,
+          "startColumn": 5,
+          "endLine": 293,
+          "endColumn": 131,
+          "title": "Untitled 37",
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Globalization"
+        },
+        {
+          "type": "statement",
+          "text": "Society is doomed and must be saved.",
+          "startLine": 295,
+          "startColumn": 5,
+          "endLine": 295,
+          "endColumn": 40,
+          "title": "Untitled 38",
+          "section": "s3",
+          "role": "main-conclusion",
+          "argumentTitle": "Globalization",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 294,
+            "startColumn": 1,
+            "endLine": 294,
+            "endColumn": 5,
+            "conclusionIndex": 3,
+            "argumentTitle": "Globalization"
+          }
+        }
+      ],
+      "title": "Globalization",
+      "section": "s3",
+      "startLine": 290,
+      "startColumn": 1,
+      "endLine": 295,
+      "endColumn": 40,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Demography": {
+      "type": "argument",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "Demographic change is a threat to society. (11)",
+          "startLine": 186,
+          "endLine": 186,
+          "startColumn": 4,
+          "endColumn": 65,
+          "isTopLevel": false,
+          "section": "s3",
+          "title": "Demography"
+        },
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "",
+          "startLine": 277,
+          "endLine": 277,
+          "startColumn": 1,
+          "endColumn": 12,
+          "isTopLevel": true,
+          "section": "s3",
+          "title": "Demography",
+          "isReference": true,
+          "pcs": [
+            {
+              "type": "statement",
+              "title": "Insufficiency",
+              "text": "The current policy measures are insufficient to counter demographic change and its consequences. (11.4)",
+              "startLine": 279,
+              "startColumn": 5,
+              "endLine": 280,
+              "endColumn": 135,
+              "section": "s3",
+              "role": "premise",
+              "argumentTitle": "Demography"
+            },
+            {
+              "type": "statement",
+              "text": "Demographic change is taking place.",
+              "startLine": 281,
+              "startColumn": 5,
+              "endLine": 281,
+              "endColumn": 40,
+              "title": "Untitled 33",
+              "section": "s3",
+              "role": "premise",
+              "argumentTitle": "Demography"
+            },
+            {
+              "type": "statement",
+              "text": "When demographic change is taking place and the current policies are inadequate, society is in decline and must be saved.",
+              "startLine": 282,
+              "startColumn": 5,
+              "endLine": 284,
+              "endColumn": 19,
+              "title": "Untitled 34",
+              "section": "s3",
+              "role": "premise",
+              "argumentTitle": "Demography"
+            },
+            {
+              "type": "statement",
+              "text": "Society is doomed and must be saved. ",
+              "startLine": 286,
+              "startColumn": 5,
+              "endLine": 286,
+              "endColumn": 41,
+              "title": "Untitled 35",
+              "section": "s3",
+              "role": "main-conclusion",
+              "argumentTitle": "Demography",
+              "inference": {
+                "type": "inference",
+                "relations": [],
+                "inferenceRules": [],
+                "startLine": 285,
+                "startColumn": 1,
+                "endLine": 285,
+                "endColumn": 5,
+                "conclusionIndex": 3,
+                "argumentTitle": "Demography"
+              }
+            }
+          ]
+        }
+      ],
+      "pcs": [
+        {
+          "type": "statement",
+          "title": "Insufficiency",
+          "text": "The current policy measures are insufficient to counter demographic change and its consequences. (11.4)",
+          "startLine": 279,
+          "startColumn": 5,
+          "endLine": 280,
+          "endColumn": 135,
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Demography"
+        },
+        {
+          "type": "statement",
+          "text": "Demographic change is taking place.",
+          "startLine": 281,
+          "startColumn": 5,
+          "endLine": 281,
+          "endColumn": 40,
+          "title": "Untitled 33",
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Demography"
+        },
+        {
+          "type": "statement",
+          "text": "When demographic change is taking place and the current policies are inadequate, society is in decline and must be saved.",
+          "startLine": 282,
+          "startColumn": 5,
+          "endLine": 284,
+          "endColumn": 19,
+          "title": "Untitled 34",
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Demography"
+        },
+        {
+          "type": "statement",
+          "text": "Society is doomed and must be saved. ",
+          "startLine": 286,
+          "startColumn": 5,
+          "endLine": 286,
+          "endColumn": 41,
+          "title": "Untitled 35",
+          "section": "s3",
+          "role": "main-conclusion",
+          "argumentTitle": "Demography",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 285,
+            "startColumn": 1,
+            "endLine": 285,
+            "endColumn": 5,
+            "conclusionIndex": 3,
+            "argumentTitle": "Demography"
+          }
+        }
+      ],
+      "title": "Demography",
+      "section": "s3",
+      "startLine": 279,
+      "startColumn": 1,
+      "endLine": 286,
+      "endColumn": 41,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Healthcare": {
+      "type": "argument",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "Failure of healthcare is a threat to society. (12)",
+          "startLine": 187,
+          "endLine": 187,
+          "startColumn": 4,
+          "endColumn": 68,
+          "isTopLevel": false,
+          "section": "s3",
+          "title": "Healthcare"
+        },
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "",
+          "startLine": 266,
+          "endLine": 266,
+          "startColumn": 1,
+          "endColumn": 12,
+          "isTopLevel": true,
+          "section": "s3",
+          "title": "Healthcare",
+          "isReference": true,
+          "pcs": [
+            {
+              "type": "statement",
+              "text": "When the health care system is structurally overburdened, society is in decline and must be saved.",
+              "startLine": 268,
+              "startColumn": 5,
+              "endLine": 269,
+              "endColumn": 41,
+              "title": "Untitled 31",
+              "section": "s3",
+              "role": "premise",
+              "argumentTitle": "Healthcare"
+            },
+            {
+              "type": "statement",
+              "title": "Overload",
+              "text": "The health system is structurally overloaded.",
+              "startLine": 270,
+              "startColumn": 5,
+              "endLine": 270,
+              "endColumn": 62,
+              "section": "s3",
+              "role": "premise",
+              "argumentTitle": "Healthcare"
+            },
+            {
+              "type": "statement",
+              "text": "Society is doomed and must be saved.",
+              "startLine": 272,
+              "startColumn": 5,
+              "endLine": 272,
+              "endColumn": 40,
+              "title": "Untitled 32",
+              "section": "s3",
+              "role": "main-conclusion",
+              "argumentTitle": "Healthcare",
+              "inference": {
+                "type": "inference",
+                "relations": [],
+                "inferenceRules": [],
+                "startLine": 271,
+                "startColumn": 1,
+                "endLine": 271,
+                "endColumn": 5,
+                "conclusionIndex": 2,
+                "argumentTitle": "Healthcare"
+              }
+            }
+          ]
+        }
+      ],
+      "pcs": [
+        {
+          "type": "statement",
+          "text": "When the health care system is structurally overburdened, society is in decline and must be saved.",
+          "startLine": 268,
+          "startColumn": 5,
+          "endLine": 269,
+          "endColumn": 41,
+          "title": "Untitled 31",
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Healthcare"
+        },
+        {
+          "type": "statement",
+          "title": "Overload",
+          "text": "The health system is structurally overloaded.",
+          "startLine": 270,
+          "startColumn": 5,
+          "endLine": 270,
+          "endColumn": 62,
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Healthcare"
+        },
+        {
+          "type": "statement",
+          "text": "Society is doomed and must be saved.",
+          "startLine": 272,
+          "startColumn": 5,
+          "endLine": 272,
+          "endColumn": 40,
+          "title": "Untitled 32",
+          "section": "s3",
+          "role": "main-conclusion",
+          "argumentTitle": "Healthcare",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 271,
+            "startColumn": 1,
+            "endLine": 271,
+            "endColumn": 5,
+            "conclusionIndex": 2,
+            "argumentTitle": "Healthcare"
+          }
+        }
+      ],
+      "title": "Healthcare",
+      "section": "s3",
+      "startLine": 268,
+      "startColumn": 1,
+      "endLine": 272,
+      "endColumn": 40,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Innovation": {
+      "type": "argument",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "Technophobia is a threat to society. (13)",
+          "startLine": 188,
+          "endLine": 188,
+          "startColumn": 4,
+          "endColumn": 58,
+          "isTopLevel": false,
+          "section": "s3",
+          "title": "Innovation"
+        },
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "",
+          "startLine": 297,
+          "endLine": 297,
+          "startColumn": 1,
+          "endColumn": 12,
+          "isTopLevel": true,
+          "section": "s3",
+          "title": "Innovation",
+          "isReference": true,
+          "pcs": [
+            {
+              "type": "statement",
+              "title": "Technophobia",
+              "text": "Increasing hostility to technology is spreading in society. (13.3)",
+              "startLine": 299,
+              "startColumn": 5,
+              "endLine": 300,
+              "endColumn": 128,
+              "section": "s3",
+              "role": "premise",
+              "argumentTitle": "Innovation"
+            },
+            {
+              "type": "statement",
+              "text": "Without technological innovation and economic freedom, society is doomed and must be saved.",
+              "startLine": 301,
+              "startColumn": 5,
+              "endLine": 301,
+              "endColumn": 96,
+              "title": "Untitled 39",
+              "section": "s3",
+              "role": "premise",
+              "argumentTitle": "Innovation"
+            },
+            {
+              "type": "statement",
+              "text": "Society is doomed and must be saved.",
+              "startLine": 303,
+              "startColumn": 5,
+              "endLine": 303,
+              "endColumn": 41,
+              "title": "Untitled 40",
+              "section": "s3",
+              "role": "main-conclusion",
+              "argumentTitle": "Innovation",
+              "inference": {
+                "type": "inference",
+                "relations": [],
+                "inferenceRules": [],
+                "startLine": 302,
+                "startColumn": 1,
+                "endLine": 302,
+                "endColumn": 5,
+                "conclusionIndex": 2,
+                "argumentTitle": "Innovation"
+              }
+            }
+          ]
+        }
+      ],
+      "pcs": [
+        {
+          "type": "statement",
+          "title": "Technophobia",
+          "text": "Increasing hostility to technology is spreading in society. (13.3)",
+          "startLine": 299,
+          "startColumn": 5,
+          "endLine": 300,
+          "endColumn": 128,
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Innovation"
+        },
+        {
+          "type": "statement",
+          "text": "Without technological innovation and economic freedom, society is doomed and must be saved.",
+          "startLine": 301,
+          "startColumn": 5,
+          "endLine": 301,
+          "endColumn": 96,
+          "title": "Untitled 39",
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Innovation"
+        },
+        {
+          "type": "statement",
+          "text": "Society is doomed and must be saved.",
+          "startLine": 303,
+          "startColumn": 5,
+          "endLine": 303,
+          "endColumn": 41,
+          "title": "Untitled 40",
+          "section": "s3",
+          "role": "main-conclusion",
+          "argumentTitle": "Innovation",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 302,
+            "startColumn": 1,
+            "endLine": 302,
+            "endColumn": 5,
+            "conclusionIndex": 2,
+            "argumentTitle": "Innovation"
+          }
+        }
+      ],
+      "title": "Innovation",
+      "section": "s3",
+      "startLine": 299,
+      "startColumn": 1,
+      "endLine": 303,
+      "endColumn": 41,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "\"Foreign Infiltration\"": {
+      "type": "argument",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "\"Foreign Infiltration\"",
+          "fromType": "argument",
+          "to": "Destabilization",
+          "toType": "equivalence-class"
+        },
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "\"Foreign Infiltration\"",
+          "fromType": "argument",
+          "to": "Threat to Culture",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "The cultures of the refugees \"alienate\" the \"German culture\". (8.4, 8.8, 9.1)",
+          "startLine": 204,
+          "endLine": 205,
+          "startColumn": 7,
+          "endColumn": 53,
+          "isTopLevel": false,
+          "section": "s3",
+          "title": "\"Foreign Infiltration\""
+        },
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "The refugees' cultures \"alienate\" the \"German culture\". (8.4, 8.8, 9.1) #immigration ",
+          "startLine": 247,
+          "endLine": 247,
+          "startColumn": 7,
+          "endColumn": 118,
+          "isTopLevel": false,
+          "section": "s3",
+          "title": "\"Foreign Infiltration\"",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 72,
+              "stop": 84,
+              "tag": "immigration"
+            }
+          ],
+          "tags": ["immigration"]
+        }
+      ],
+      "pcs": [],
+      "title": "\"Foreign Infiltration\"",
+      "section": "s3",
+      "tags": ["immigration"],
+      "fontColor": "#000000",
+      "color": "#e6ab02"
+    },
+    "Household Burden": {
+      "type": "argument",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Household Burden",
+          "fromType": "argument",
+          "to": "Destabilization",
+          "toType": "equivalence-class"
+        },
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Household Burden",
+          "fromType": "argument",
+          "to": "Insufficiency",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "The immigration of refugees places an insurmountable burden on the state budget. (5.2, 5.6, 5.7) #immigration ",
+          "startLine": 206,
+          "endLine": 206,
+          "startColumn": 7,
+          "endColumn": 137,
+          "isTopLevel": false,
+          "section": "s3",
+          "title": "Household Burden",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 97,
+              "stop": 109,
+              "tag": "immigration"
+            }
+          ],
+          "tags": ["immigration"]
+        },
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "The immigration of refugees places an insurmountable burden on the state budget. (5.2, 5.6, 5.7) #immigration ",
+          "startLine": 280,
+          "endLine": 280,
+          "startColumn": 5,
+          "endColumn": 135,
+          "isTopLevel": false,
+          "section": "s3",
+          "title": "Household Burden",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 97,
+              "stop": 109,
+              "tag": "immigration"
+            }
+          ],
+          "tags": ["immigration"]
+        }
+      ],
+      "pcs": [],
+      "title": "Household Burden",
+      "tags": ["immigration"],
+      "section": "s3",
+      "fontColor": "#000000",
+      "color": "#e6ab02"
+    },
+    "Disadvantage for Germans": {
+      "type": "argument",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Disadvantage for Germans",
+          "fromType": "argument",
+          "to": "Destabilization",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "The political focus on refugees puts \"German\" families at a disadvantage. (11.2) #immigration ",
+          "startLine": 207,
+          "endLine": 207,
+          "startColumn": 7,
+          "endColumn": 129,
+          "isTopLevel": false,
+          "section": "s3",
+          "title": "Disadvantage for Germans",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 81,
+              "stop": 93,
+              "tag": "immigration"
+            }
+          ],
+          "tags": ["immigration"]
+        }
+      ],
+      "pcs": [],
+      "title": "Disadvantage for Germans",
+      "tags": ["immigration"],
+      "section": "s3",
+      "fontColor": "#000000",
+      "color": "#e6ab02"
+    },
+    "Crime Rates by Refugees": {
+      "type": "argument",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Crime Rates by Refugees",
+          "fromType": "argument",
+          "to": "Crime Rates Increase",
+          "toType": "equivalence-class"
+        },
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Crime Rates by Refugees",
+          "fromType": "argument",
+          "to": "Destabilization",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "Refugees are more criminal than the average. (4.1, 4.9) #immigration ",
+          "startLine": 208,
+          "endLine": 209,
+          "startColumn": 7,
+          "endColumn": 31,
+          "isTopLevel": false,
+          "section": "s3",
+          "title": "Crime Rates by Refugees",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 56,
+              "stop": 68,
+              "tag": "immigration"
+            }
+          ],
+          "tags": ["immigration"]
+        }
+      ],
+      "pcs": [],
+      "title": "Crime Rates by Refugees",
+      "tags": ["immigration"],
+      "section": "s3",
+      "fontColor": "#000000",
+      "color": "#e6ab02"
+    },
+    "\"Genderism\"": {
+      "type": "argument",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "\"Genderism\"",
+          "fromType": "argument",
+          "to": "Threat to Culture",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "\"Genderism\" endangers the culture of society. (8.6) #culture ",
+          "startLine": 243,
+          "endLine": 244,
+          "startColumn": 7,
+          "endColumn": 29,
+          "isTopLevel": false,
+          "section": "s3",
+          "title": "\"Genderism\"",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 52,
+              "stop": 60,
+              "tag": "culture"
+            }
+          ],
+          "tags": ["culture"]
+        }
+      ],
+      "pcs": [],
+      "title": "\"Genderism\"",
+      "tags": ["culture"],
+      "section": "s3",
+      "fontColor": "#000000"
+    },
+    "\"Multiculturalism\"": {
+      "type": "argument",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "\"Multiculturalism\"",
+          "fromType": "argument",
+          "to": "Threat to Culture",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "\"Multiculturalism\" endangers the culture of society. (9.1) #culture ",
+          "startLine": 245,
+          "endLine": 246,
+          "startColumn": 7,
+          "endColumn": 44,
+          "isTopLevel": false,
+          "section": "s3",
+          "title": "\"Multiculturalism\"",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 59,
+              "stop": 67,
+              "tag": "culture"
+            }
+          ],
+          "tags": ["culture"]
+        }
+      ],
+      "pcs": [],
+      "title": "\"Multiculturalism\"",
+      "tags": ["culture"],
+      "section": "s3",
+      "fontColor": "#000000"
+    },
+    "Family": {
+      "type": "argument",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Family",
+          "fromType": "argument",
+          "to": "Threat to Culture",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "The traditional family is losing importance. (7.5) #culture ",
+          "startLine": 248,
+          "endLine": 249,
+          "startColumn": 7,
+          "endColumn": 32,
+          "isTopLevel": false,
+          "section": "s3",
+          "title": "Family",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 51,
+              "stop": 59,
+              "tag": "culture"
+            }
+          ],
+          "tags": ["culture"]
+        }
+      ],
+      "pcs": [],
+      "title": "Family",
+      "tags": ["culture"],
+      "section": "s3",
+      "fontColor": "#000000"
+    },
+    "Euro Politics": {
+      "type": "argument",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Euro Politics",
+          "fromType": "argument",
+          "to": "Overload",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "The Euro has failed and the European monetary policy strains the state budget. #eu",
+          "startLine": 275,
+          "endLine": 275,
+          "startColumn": 4,
+          "endColumn": 102,
+          "isTopLevel": false,
+          "section": "s3",
+          "title": "Euro Politics",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 79,
+              "stop": 81,
+              "tag": "eu"
+            }
+          ],
+          "tags": ["eu"]
+        }
+      ],
+      "pcs": [],
+      "title": "Euro Politics",
+      "tags": ["eu"],
+      "section": "s3",
+      "fontColor": "#000000",
+      "color": "#66a61e"
+    },
+    "Corruption and Incomptence": {
+      "type": "argument",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Corruption and Incomptence",
+          "fromType": "argument",
+          "to": "Decline of the Nation State",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "The \"establishment\" is corrupt and incompetent. #establishment",
+          "startLine": 292,
+          "endLine": 292,
+          "startColumn": 7,
+          "endColumn": 99,
+          "isTopLevel": false,
+          "section": "s3",
+          "title": "Corruption and Incomptence",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 48,
+              "stop": 61,
+              "tag": "establishment"
+            }
+          ],
+          "tags": ["establishment"]
+        }
+      ],
+      "pcs": [],
+      "title": "Corruption and Incomptence",
+      "tags": ["establishment"],
+      "section": "s3",
+      "fontColor": "#000000",
+      "color": "#7570b3"
+    },
+    "Turn in Climate Policy": {
+      "type": "argument",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Turn in Climate Policy",
+          "fromType": "argument",
+          "to": "Technophobia",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "The turn in climate policy is based on falsehoods and prevents technological innovation. (13.1)",
+          "startLine": 300,
+          "endLine": 300,
+          "startColumn": 7,
+          "endColumn": 128,
+          "isTopLevel": false,
+          "section": "s3",
+          "title": "Turn in Climate Policy"
+        }
+      ],
+      "pcs": [],
+      "title": "Turn in Climate Policy",
+      "section": "s3",
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    }
+  },
+  "statements": {
+    "Untitled 1": {
+      "type": "equivalence-class",
+      "title": "Untitled 1",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "text": "This is a recontruction of right-wing populist argumentation based on the electoral platform of the German party \"Alternative für Deutschland\" (AfD) from 2017. A commented version of the reconstruction can be found here. It is only available in German, however.",
+          "ranges": [
+            {
+              "type": "link",
+              "start": 215,
+              "stop": 218,
+              "url": "https://forum-streitkultur.de/wie-argumentieren-rechtspopulisten/"
+            }
+          ],
+          "startLine": 8,
+          "startColumn": 1,
+          "endLine": 13,
+          "endColumn": 40,
+          "title": "Untitled 1"
+        }
+      ],
+      "isUsedAsTopLevelStatement": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 2": {
+      "type": "equivalence-class",
+      "title": "Untitled 2",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "text": "I'll begin by making explicit the core argument which, as I claim, also represents the basic structure of populist argumentation in general.",
+          "startLine": 15,
+          "startColumn": 1,
+          "endLine": 17,
+          "endColumn": 34,
+          "title": "Untitled 2"
+        }
+      ],
+      "isUsedAsTopLevelStatement": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 3": {
+      "type": "equivalence-class",
+      "title": "Untitled 3",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "text": "The basic idea of the core argument is that populists have to come to power because only they can save society from imminent doom. The argument builds then on several further arguments for why this should be the case. But let's first look at the core argument itself in more detail.",
+          "startLine": 21,
+          "startColumn": 1,
+          "endLine": 25,
+          "endColumn": 60,
+          "title": "Untitled 3",
+          "section": "s1"
+        }
+      ],
+      "section": "s1",
+      "isUsedAsTopLevelStatement": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Power": {
+      "type": "equivalence-class",
+      "title": "Power",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "title": "Power",
+          "text": "The populists must come to power. #populism ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 34,
+              "stop": 43,
+              "tag": "populism"
+            }
+          ],
+          "tags": ["populism"],
+          "startLine": 27,
+          "startColumn": 1,
+          "endLine": 29,
+          "endColumn": 31,
+          "section": "s1"
+        },
+        {
+          "type": "statement",
+          "title": "Power",
+          "text": "The populists must come to power.",
+          "startLine": 40,
+          "startColumn": 5,
+          "endLine": 40,
+          "endColumn": 46,
+          "section": "s1",
+          "role": "main-conclusion",
+          "argumentTitle": "Core Argument",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 39,
+            "startColumn": 1,
+            "endLine": 39,
+            "endColumn": 5,
+            "conclusionIndex": 2,
+            "argumentTitle": "Core Argument"
+          }
+        }
+      ],
+      "tags": ["populism"],
+      "section": "s1",
+      "isUsedAsTopLevelStatement": true,
+      "isUsedAsIntermediaryConclusion": false,
+      "isUsedAsMainConclusion": true,
+      "fontColor": "#000000",
+      "color": "#d95f02"
+    },
+    "Doom": {
+      "type": "equivalence-class",
+      "title": "Doom",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Untitled 17",
+          "fromType": "equivalence-class",
+          "to": "Doom",
+          "toType": "equivalence-class"
+        },
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Untitled 30",
+          "fromType": "equivalence-class",
+          "to": "Doom",
+          "toType": "equivalence-class"
+        },
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Untitled 21",
+          "fromType": "equivalence-class",
+          "to": "Doom",
+          "toType": "equivalence-class"
+        },
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Untitled 23",
+          "fromType": "equivalence-class",
+          "to": "Doom",
+          "toType": "equivalence-class"
+        },
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Untitled 26",
+          "fromType": "equivalence-class",
+          "to": "Doom",
+          "toType": "equivalence-class"
+        },
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Untitled 38",
+          "fromType": "equivalence-class",
+          "to": "Doom",
+          "toType": "equivalence-class"
+        },
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Untitled 35",
+          "fromType": "equivalence-class",
+          "to": "Doom",
+          "toType": "equivalence-class"
+        },
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Untitled 32",
+          "fromType": "equivalence-class",
+          "to": "Doom",
+          "toType": "equivalence-class"
+        },
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Untitled 40",
+          "fromType": "equivalence-class",
+          "to": "Doom",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "title": "Doom",
+          "text": "Society is doomed and must be saved. #populism ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 37,
+              "stop": 46,
+              "tag": "populism"
+            }
+          ],
+          "tags": ["populism"],
+          "startLine": 34,
+          "startColumn": 5,
+          "endLine": 34,
+          "endColumn": 60,
+          "section": "s1",
+          "role": "premise",
+          "argumentTitle": "Core Argument"
+        },
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "title": "Doom",
+          "text": "Society is doomed and must be saved.",
+          "startLine": 178,
+          "startColumn": 1,
+          "endLine": 188,
+          "endColumn": 58,
+          "section": "s3"
+        }
+      ],
+      "tags": ["populism"],
+      "section": "s1",
+      "isUsedAsPremise": true,
+      "isUsedAsTopLevelStatement": true,
+      "fontColor": "#000000",
+      "color": "#d95f02"
+    },
+    "Salvation": {
+      "type": "equivalence-class",
+      "title": "Salvation",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "title": "Salvation",
+          "text": "Society can only be saved, if the populists come to power. #populism ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 59,
+              "stop": 68,
+              "tag": "populism"
+            }
+          ],
+          "tags": ["populism"],
+          "startLine": 35,
+          "startColumn": 5,
+          "endLine": 38,
+          "endColumn": 32,
+          "section": "s1",
+          "role": "premise",
+          "argumentTitle": "Core Argument"
+        },
+        {
+          "type": "statement",
+          "title": "Salvation",
+          "text": "Society can only be saved, if the populists come to power.",
+          "startLine": 53,
+          "startColumn": 5,
+          "endLine": 54,
+          "endColumn": 9,
+          "section": "s1",
+          "role": "main-conclusion",
+          "argumentTitle": "Salvation by the People",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 52,
+            "startColumn": 1,
+            "endLine": 52,
+            "endColumn": 5,
+            "conclusionIndex": 2,
+            "argumentTitle": "Salvation by the People"
+          }
+        }
+      ],
+      "tags": ["populism"],
+      "section": "s1",
+      "isUsedAsPremise": true,
+      "isUsedAsIntermediaryConclusion": false,
+      "isUsedAsMainConclusion": true,
+      "fontColor": "#000000",
+      "color": "#d95f02"
+    },
+    "Untitled 4": {
+      "type": "equivalence-class",
+      "title": "Untitled 4",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "text": "The second premise is supported by an argument, which could be said to be quintessentially populist according to the political scientist Jan-Werner Müller.",
+          "startLine": 42,
+          "startColumn": 1,
+          "endLine": 44,
+          "endColumn": 55,
+          "title": "Untitled 4",
+          "section": "s1"
+        }
+      ],
+      "section": "s1",
+      "isUsedAsTopLevelStatement": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Will of the People": {
+      "type": "equivalence-class",
+      "title": "Will of the People",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "title": "Will of the People",
+          "text": "Society can only be saved, if the will of the people is realized. #populism ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 66,
+              "stop": 75,
+              "tag": "populism"
+            }
+          ],
+          "tags": ["populism"],
+          "startLine": 48,
+          "startColumn": 5,
+          "endLine": 49,
+          "endColumn": 47,
+          "section": "s1",
+          "role": "premise",
+          "argumentTitle": "Salvation by the People"
+        }
+      ],
+      "tags": ["populism"],
+      "section": "s1",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#d95f02"
+    },
+    "Voice of the People": {
+      "type": "equivalence-class",
+      "title": "Voice of the People",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "title": "Voice of the People",
+          "text": "Only if the populists come to power, the will of the people will be realized. #populism ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 78,
+              "stop": 87,
+              "tag": "populism"
+            }
+          ],
+          "tags": ["populism"],
+          "startLine": 50,
+          "startColumn": 5,
+          "endLine": 51,
+          "endColumn": 59,
+          "section": "s1",
+          "role": "premise",
+          "argumentTitle": "Salvation by the People"
+        },
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "title": "Voice of the People",
+          "text": "Only if the populists come to power, the will of the people will be realized.",
+          "startLine": 64,
+          "startColumn": 1,
+          "endLine": 69,
+          "endColumn": 103,
+          "section": "s2"
+        },
+        {
+          "type": "statement",
+          "title": "Voice of the People",
+          "text": "Only if the populists come to power, the will of the people will be realized.",
+          "startLine": 84,
+          "startColumn": 5,
+          "endLine": 85,
+          "endColumn": 17,
+          "section": "s2",
+          "role": "main-conclusion",
+          "argumentTitle": "The \"Establishment\"",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 83,
+            "startColumn": 1,
+            "endLine": 83,
+            "endColumn": 5,
+            "conclusionIndex": 3,
+            "argumentTitle": "The \"Establishment\""
+          }
+        },
+        {
+          "type": "statement",
+          "title": "Voice of the People",
+          "text": "Only if the populists come to power, the will of the people will be realized.",
+          "startLine": 114,
+          "startColumn": 5,
+          "endLine": 115,
+          "endColumn": 17,
+          "section": "s2",
+          "role": "main-conclusion",
+          "argumentTitle": "The \"EU Dictate\"",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 113,
+            "startColumn": 1,
+            "endLine": 113,
+            "endColumn": 5,
+            "conclusionIndex": 2,
+            "argumentTitle": "The \"EU Dictate\""
+          }
+        },
+        {
+          "type": "statement",
+          "title": "Voice of the People",
+          "text": "Only if the populists come to power, the will of the people will be realized.",
+          "startLine": 149,
+          "startColumn": 5,
+          "endLine": 150,
+          "endColumn": 17,
+          "section": "s2",
+          "role": "main-conclusion",
+          "argumentTitle": "The \"Fake News\"",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 148,
+            "startColumn": 1,
+            "endLine": 148,
+            "endColumn": 5,
+            "conclusionIndex": 3,
+            "argumentTitle": "The \"Fake News\""
+          }
+        }
+      ],
+      "tags": ["populism"],
+      "section": "s1",
+      "isUsedAsPremise": true,
+      "isUsedAsTopLevelStatement": true,
+      "isUsedAsIntermediaryConclusion": false,
+      "isUsedAsMainConclusion": true,
+      "fontColor": "#000000",
+      "color": "#d95f02"
+    },
+    "Untitled 5": {
+      "type": "equivalence-class",
+      "title": "Untitled 5",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "text": "What follows are arguments supporting the second premise @[Voice of the People] of the argument @<Salvation by the People>. Three distinct arguments can be identified in the electoral platform of the AfD. Note that the numbers behind the statements refer to the sections in the original electoral platform.",
+          "ranges": [
+            {
+              "type": "statement-mention",
+              "title": "Voice of the People",
+              "start": 57,
+              "stop": 79
+            },
+            {
+              "type": "argument-mention",
+              "title": "Salvation by the People",
+              "start": 96,
+              "stop": 121
+            }
+          ],
+          "startLine": 58,
+          "startColumn": 1,
+          "endLine": 62,
+          "endColumn": 68,
+          "title": "Untitled 5",
+          "section": "s2"
+        }
+      ],
+      "section": "s2",
+      "isUsedAsTopLevelStatement": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 6": {
+      "type": "equivalence-class",
+      "title": "Untitled 6",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "text": "The first argument is based on the populists' critique of the so called \"establishment\".",
+          "startLine": 71,
+          "startColumn": 1,
+          "endLine": 72,
+          "endColumn": 33,
+          "title": "Untitled 6",
+          "section": "s2"
+        }
+      ],
+      "section": "s2",
+      "isUsedAsTopLevelStatement": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Political Alternative": {
+      "type": "equivalence-class",
+      "title": "Political Alternative",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "title": "Political Alternative",
+          "text": "Apart from the \"establishment\" only the populists can come to power. #establishment",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 69,
+              "stop": 82,
+              "tag": "establishment"
+            }
+          ],
+          "tags": ["establishment"],
+          "startLine": 76,
+          "startColumn": 5,
+          "endLine": 77,
+          "endColumn": 53,
+          "section": "s2",
+          "role": "premise",
+          "argumentTitle": "The \"Establishment\""
+        }
+      ],
+      "tags": ["establishment"],
+      "section": "s2",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#7570b3"
+    },
+    "Lost Connection": {
+      "type": "equivalence-class",
+      "title": "Lost Connection",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "title": "Lost Connection",
+          "text": "The \"establishment\" does not want to and cannot realize the popular will. (1.7) #establishment ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 80,
+              "stop": 94,
+              "tag": "establishment"
+            }
+          ],
+          "tags": ["establishment"],
+          "startLine": 78,
+          "startColumn": 5,
+          "endLine": 79,
+          "endColumn": 59,
+          "section": "s2",
+          "role": "premise",
+          "argumentTitle": "The \"Establishment\""
+        },
+        {
+          "type": "statement",
+          "title": "Lost Connection",
+          "isReference": true,
+          "startLine": 100,
+          "startColumn": 5,
+          "endLine": 100,
+          "endColumn": 21,
+          "section": "s2",
+          "role": "main-conclusion",
+          "argumentTitle": "Losing Connection",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 99,
+            "startColumn": 1,
+            "endLine": 99,
+            "endColumn": 5,
+            "conclusionIndex": 2,
+            "argumentTitle": "Losing Connection"
+          }
+        }
+      ],
+      "tags": ["establishment"],
+      "section": "s2",
+      "isUsedAsPremise": true,
+      "isUsedAsIntermediaryConclusion": false,
+      "isUsedAsMainConclusion": true,
+      "fontColor": "#000000",
+      "color": "#7570b3"
+    },
+    "Realization": {
+      "type": "equivalence-class",
+      "title": "Realization",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "title": "Realization",
+          "text": "The will of the people will only be realized if a party comes to power that wants to and can realize the will of the people. #establishment",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 125,
+              "stop": 138,
+              "tag": "establishment"
+            }
+          ],
+          "tags": ["establishment"],
+          "startLine": 80,
+          "startColumn": 5,
+          "endLine": 82,
+          "endColumn": 35,
+          "section": "s2",
+          "role": "premise",
+          "argumentTitle": "The \"Establishment\""
+        }
+      ],
+      "tags": ["establishment"],
+      "section": "s2",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#7570b3"
+    },
+    "Untitled 7": {
+      "type": "equivalence-class",
+      "title": "Untitled 7",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "text": "The following argument supports the premise @[Lost Connection] of the previous argument.",
+          "ranges": [
+            {
+              "type": "statement-mention",
+              "title": "Lost Connection",
+              "start": 44,
+              "stop": 62
+            }
+          ],
+          "startLine": 87,
+          "startColumn": 1,
+          "endLine": 88,
+          "endColumn": 25,
+          "title": "Untitled 7",
+          "section": "s2"
+        }
+      ],
+      "section": "s2",
+      "isUsedAsTopLevelStatement": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Corruption and Inability": {
+      "type": "equivalence-class",
+      "title": "Corruption and Inability",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "title": "Corruption and Inability",
+          "text": "The \"establishment\" is corrupt and incompetent. (1.7) #establishment",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 54,
+              "stop": 67,
+              "tag": "establishment"
+            }
+          ],
+          "tags": ["establishment"],
+          "startLine": 94,
+          "startColumn": 5,
+          "endLine": 95,
+          "endColumn": 38,
+          "section": "s2",
+          "role": "premise",
+          "argumentTitle": "Losing Connection"
+        }
+      ],
+      "tags": ["establishment"],
+      "section": "s2",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#7570b3"
+    },
+    "Will and Ability": {
+      "type": "equivalence-class",
+      "title": "Will and Ability",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "title": "Will and Ability",
+          "text": "If the \"establishment\" is corrupt and incompetent, it cannot and will not realize the will of the people. #establishment",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 106,
+              "stop": 119,
+              "tag": "establishment"
+            }
+          ],
+          "tags": ["establishment"],
+          "startLine": 96,
+          "startColumn": 5,
+          "endLine": 98,
+          "endColumn": 23,
+          "section": "s2",
+          "role": "premise",
+          "argumentTitle": "Losing Connection"
+        }
+      ],
+      "tags": ["establishment"],
+      "section": "s2",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#7570b3"
+    },
+    "Untitled 8": {
+      "type": "equivalence-class",
+      "title": "Untitled 8",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "text": "The second argument is based on the populists' critique of supranational organisations and treaties.",
+          "startLine": 102,
+          "startColumn": 1,
+          "endLine": 103,
+          "endColumn": 41,
+          "title": "Untitled 8",
+          "section": "s2"
+        }
+      ],
+      "section": "s2",
+      "isUsedAsTopLevelStatement": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "No People's Will in EU": {
+      "type": "equivalence-class",
+      "title": "No People's Will in EU",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "title": "No People's Will in EU",
+          "text": "The will of the people will only be realized if we leave the EU. (1.1) #eu ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 71,
+              "stop": 74,
+              "tag": "eu"
+            }
+          ],
+          "tags": ["eu"],
+          "startLine": 107,
+          "startColumn": 5,
+          "endLine": 110,
+          "endColumn": 55,
+          "section": "s2",
+          "role": "premise",
+          "argumentTitle": "The \"EU Dictate\""
+        },
+        {
+          "type": "statement",
+          "title": "No People's Will in EU",
+          "isReference": true,
+          "startLine": 130,
+          "startColumn": 5,
+          "endLine": 130,
+          "endColumn": 28,
+          "section": "s2",
+          "role": "main-conclusion",
+          "argumentTitle": "No Democracy in EU",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 129,
+            "startColumn": 1,
+            "endLine": 129,
+            "endColumn": 5,
+            "conclusionIndex": 4,
+            "argumentTitle": "No Democracy in EU"
+          }
+        }
+      ],
+      "tags": ["eu"],
+      "section": "s2",
+      "isUsedAsPremise": true,
+      "isUsedAsIntermediaryConclusion": false,
+      "isUsedAsMainConclusion": true,
+      "fontColor": "#000000",
+      "color": "#66a61e"
+    },
+    "Exit from EU": {
+      "type": "equivalence-class",
+      "title": "Exit from EU",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "title": "Exit from EU",
+          "text": "Only the populists have the political goal of leaving the EU. #eu ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 62,
+              "stop": 65,
+              "tag": "eu"
+            }
+          ],
+          "tags": ["eu"],
+          "startLine": 111,
+          "startColumn": 5,
+          "endLine": 112,
+          "endColumn": 24,
+          "section": "s2",
+          "role": "premise",
+          "argumentTitle": "The \"EU Dictate\""
+        }
+      ],
+      "tags": ["eu"],
+      "section": "s2",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#66a61e"
+    },
+    "Untitled 9": {
+      "type": "equivalence-class",
+      "title": "Untitled 9",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "text": "The following argument supports the premise @[No People's Will in EU] of the previous argument.",
+          "ranges": [
+            {
+              "type": "statement-mention",
+              "title": "No People's Will in EU",
+              "start": 44,
+              "stop": 69
+            }
+          ],
+          "startLine": 117,
+          "startColumn": 1,
+          "endLine": 117,
+          "endColumn": 95,
+          "title": "Untitled 9",
+          "section": "s2"
+        }
+      ],
+      "section": "s2",
+      "isUsedAsTopLevelStatement": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "No Nationality in EU": {
+      "type": "equivalence-class",
+      "title": "No Nationality in EU",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "title": "No Nationality in EU",
+          "text": "If we stay within the EU, there is no national statehood. (1.1) #eu ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 64,
+              "stop": 67,
+              "tag": "eu"
+            }
+          ],
+          "tags": ["eu"],
+          "startLine": 121,
+          "startColumn": 5,
+          "endLine": 122,
+          "endColumn": 37,
+          "section": "s2",
+          "role": "premise",
+          "argumentTitle": "No Democracy in EU"
+        }
+      ],
+      "tags": ["eu"],
+      "section": "s2",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#66a61e"
+    },
+    "No Nationality, No Sovereignty": {
+      "type": "equivalence-class",
+      "title": "No Nationality, No Sovereignty",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "title": "No Nationality, No Sovereignty",
+          "text": "Without national statehood, there is no sovereignty of the people. #eu ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 67,
+              "stop": 70,
+              "tag": "eu"
+            }
+          ],
+          "tags": ["eu"],
+          "startLine": 123,
+          "startColumn": 5,
+          "endLine": 124,
+          "endColumn": 55,
+          "section": "s2",
+          "role": "premise",
+          "argumentTitle": "No Democracy in EU"
+        }
+      ],
+      "tags": ["eu"],
+      "section": "s2",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#66a61e"
+    },
+    "No Sovereignty, No Democracy": {
+      "type": "equivalence-class",
+      "title": "No Sovereignty, No Democracy",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "title": "No Sovereignty, No Democracy",
+          "text": "Without sovereignty of the people, there is no democracy. #eu ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 58,
+              "stop": 61,
+              "tag": "eu"
+            }
+          ],
+          "tags": ["eu"],
+          "startLine": 125,
+          "startColumn": 5,
+          "endLine": 126,
+          "endColumn": 40,
+          "section": "s2",
+          "role": "premise",
+          "argumentTitle": "No Democracy in EU"
+        }
+      ],
+      "tags": ["eu"],
+      "section": "s2",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#66a61e"
+    },
+    "No Democracy, No People's Will": {
+      "type": "equivalence-class",
+      "title": "No Democracy, No People's Will",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "title": "No Democracy, No People's Will",
+          "text": "The will of the people will only be realized if democracy is restored. #eu ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 71,
+              "stop": 74,
+              "tag": "eu"
+            }
+          ],
+          "tags": ["eu"],
+          "startLine": 127,
+          "startColumn": 5,
+          "endLine": 128,
+          "endColumn": 53,
+          "section": "s2",
+          "role": "premise",
+          "argumentTitle": "No Democracy in EU"
+        }
+      ],
+      "tags": ["eu"],
+      "section": "s2",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#66a61e"
+    },
+    "Untitled 10": {
+      "type": "equivalence-class",
+      "title": "Untitled 10",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "text": "The third argument is based on the populists' critique of the media.",
+          "startLine": 132,
+          "startColumn": 1,
+          "endLine": 133,
+          "endColumn": 13,
+          "title": "Untitled 10",
+          "section": "s2"
+        }
+      ],
+      "section": "s2",
+      "isUsedAsTopLevelStatement": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "\"Fake News\" and Censorship": {
+      "type": "equivalence-class",
+      "title": "\"Fake News\" and Censorship",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "title": "\"Fake News\" and Censorship",
+          "text": "Freedom of expression will not be subject to any restriction or censorship unless the \"fake news\" is abolished. (9.5) #news ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 118,
+              "stop": 123,
+              "tag": "news"
+            }
+          ],
+          "tags": ["news"],
+          "startLine": 137,
+          "startColumn": 5,
+          "endLine": 142,
+          "endColumn": 56,
+          "section": "s2",
+          "role": "premise",
+          "argumentTitle": "The \"Fake News\""
+        },
+        {
+          "type": "statement",
+          "title": "\"Fake News\" and Censorship",
+          "isReference": true,
+          "startLine": 164,
+          "startColumn": 5,
+          "endLine": 164,
+          "endColumn": 32,
+          "section": "s2",
+          "role": "main-conclusion",
+          "argumentTitle": "Public Debate",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 163,
+            "startColumn": 1,
+            "endLine": 163,
+            "endColumn": 5,
+            "conclusionIndex": 2,
+            "argumentTitle": "Public Debate"
+          }
+        }
+      ],
+      "tags": ["news"],
+      "section": "s2",
+      "isUsedAsPremise": true,
+      "isUsedAsIntermediaryConclusion": false,
+      "isUsedAsMainConclusion": true,
+      "fontColor": "#000000",
+      "color": "#e7298a"
+    },
+    "Abolition of the \"Fake News\"": {
+      "type": "equivalence-class",
+      "title": "Abolition of the \"Fake News\"",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "title": "Abolition of the \"Fake News\"",
+          "text": "The \"fake news\" will only be abolished if populists come to power. #news ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 67,
+              "stop": 72,
+              "tag": "news"
+            }
+          ],
+          "tags": ["news"],
+          "startLine": 143,
+          "startColumn": 5,
+          "endLine": 144,
+          "endColumn": 53,
+          "section": "s2",
+          "role": "premise",
+          "argumentTitle": "The \"Fake News\""
+        }
+      ],
+      "tags": ["news"],
+      "section": "s2",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#e7298a"
+    },
+    "Will of the People and Censorship": {
+      "type": "equivalence-class",
+      "title": "Will of the People and Censorship",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "title": "Will of the People and Censorship",
+          "text": "The will of the people will only be realized if freedom of expression is not subject to any restrictions or censorship. #news ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 120,
+              "stop": 125,
+              "tag": "news"
+            }
+          ],
+          "tags": ["news"],
+          "startLine": 145,
+          "startColumn": 5,
+          "endLine": 147,
+          "endColumn": 54,
+          "section": "s2",
+          "role": "premise",
+          "argumentTitle": "The \"Fake News\""
+        }
+      ],
+      "tags": ["news"],
+      "section": "s2",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#e7298a"
+    },
+    "Untitled 11": {
+      "type": "equivalence-class",
+      "title": "Untitled 11",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "text": "The following argument supports the premise @[\"Fake News\" and Censorship] of the previous argument.",
+          "ranges": [
+            {
+              "type": "statement-mention",
+              "title": "\"Fake News\" and Censorship",
+              "start": 44,
+              "stop": 73
+            }
+          ],
+          "startLine": 152,
+          "startColumn": 1,
+          "endLine": 153,
+          "endColumn": 55,
+          "title": "Untitled 11",
+          "section": "s2"
+        }
+      ],
+      "section": "s2",
+      "isUsedAsTopLevelStatement": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "\"Political Correctness\"": {
+      "type": "equivalence-class",
+      "title": "\"Political Correctness\"",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "title": "\"Political Correctness\"",
+          "text": "If the \"fake news\" prevails, the parties continue to use the instrument of \"political correctness\" and bring the press in line. #news ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 128,
+              "stop": 133,
+              "tag": "news"
+            }
+          ],
+          "tags": ["news"],
+          "startLine": 157,
+          "startColumn": 5,
+          "endLine": 159,
+          "endColumn": 36,
+          "section": "s2",
+          "role": "premise",
+          "argumentTitle": "Public Debate"
+        }
+      ],
+      "tags": ["news"],
+      "section": "s2",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#e7298a"
+    },
+    "Opinion Formation": {
+      "type": "equivalence-class",
+      "title": "Opinion Formation",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "title": "Opinion Formation",
+          "text": "If the parties continue to use the instrument of \"political correctness\" and bring the press in line, the freedom of expression will be limited and censored. (9.4) #news ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 164,
+              "stop": 169,
+              "tag": "news"
+            }
+          ],
+          "tags": ["news"],
+          "startLine": 160,
+          "startColumn": 5,
+          "endLine": 162,
+          "endColumn": 69,
+          "section": "s2",
+          "role": "premise",
+          "argumentTitle": "Public Debate"
+        }
+      ],
+      "tags": ["news"],
+      "section": "s2",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#e7298a"
+    },
+    "Untitled 12": {
+      "type": "equivalence-class",
+      "title": "Untitled 12",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "text": "What follows are arguments supporting the first premise @[Doom] of the argument @<Core Argument>. Eight distinct arguments can be identified in the electoral platform of the AfD. The four most important have been highlighted. They tackle the themes of immigration, Islam, crime, and culture. Again the conclusions of all these arguments are identical to the premise @[Doom] of the core argument.",
+          "ranges": [
+            {
+              "type": "statement-mention",
+              "title": "Doom",
+              "start": 56,
+              "stop": 63
+            },
+            {
+              "type": "argument-mention",
+              "title": "Core Argument",
+              "start": 80,
+              "stop": 95
+            },
+            {
+              "type": "statement-mention",
+              "title": "Doom",
+              "start": 366,
+              "stop": 373
+            }
+          ],
+          "startLine": 168,
+          "startColumn": 1,
+          "endLine": 174,
+          "endColumn": 54,
+          "title": "Untitled 12",
+          "section": "s3"
+        }
+      ],
+      "section": "s3",
+      "isUsedAsTopLevelStatement": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 13": {
+      "type": "equivalence-class",
+      "title": "Untitled 13",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "text": "Here is an overview:",
+          "startLine": 176,
+          "startColumn": 1,
+          "endLine": 176,
+          "endColumn": 20,
+          "title": "Untitled 13",
+          "section": "s3"
+        }
+      ],
+      "section": "s3",
+      "isUsedAsTopLevelStatement": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 14": {
+      "type": "equivalence-class",
+      "title": "Untitled 14",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "text": "First, the arguments that are most dominant in the electoral platform are concerned with immigration.",
+          "startLine": 190,
+          "startColumn": 1,
+          "endLine": 191,
+          "endColumn": 40,
+          "title": "Untitled 14",
+          "section": "s3"
+        }
+      ],
+      "section": "s3",
+      "isUsedAsTopLevelStatement": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Destabilization": {
+      "type": "equivalence-class",
+      "title": "Destabilization",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Destabilization",
+          "fromType": "equivalence-class",
+          "to": "Islam",
+          "toType": "argument"
+        },
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Destabilization",
+          "fromType": "equivalence-class",
+          "to": "Injustice",
+          "toType": "argument"
+        },
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "\"Foreign Infiltration\"",
+          "fromType": "argument",
+          "to": "Destabilization",
+          "toType": "equivalence-class"
+        },
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Household Burden",
+          "fromType": "argument",
+          "to": "Destabilization",
+          "toType": "equivalence-class"
+        },
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Disadvantage for Germans",
+          "fromType": "argument",
+          "to": "Destabilization",
+          "toType": "equivalence-class"
+        },
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Crime Rates by Refugees",
+          "fromType": "argument",
+          "to": "Destabilization",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "title": "Destabilization",
+          "text": "Immigration to Europe threatens to destabilize society. (5.1) #immigration ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 62,
+              "stop": 74,
+              "tag": "immigration"
+            }
+          ],
+          "tags": ["immigration"],
+          "startLine": 195,
+          "startColumn": 5,
+          "endLine": 197,
+          "endColumn": 19,
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Immigration"
+        },
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "title": "Destabilization",
+          "isReference": true,
+          "text": " ",
+          "startLine": 203,
+          "startColumn": 1,
+          "endLine": 209,
+          "endColumn": 31,
+          "section": "s3"
+        }
+      ],
+      "tags": ["immigration"],
+      "section": "s3",
+      "isUsedAsPremise": true,
+      "isUsedAsTopLevelStatement": true,
+      "fontColor": "#000000",
+      "color": "#e6ab02"
+    },
+    "Untitled 15": {
+      "type": "equivalence-class",
+      "title": "Untitled 15",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "The current laws and measures don't suffice to prevent destabilization. #immigration ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 72,
+              "stop": 84,
+              "tag": "immigration"
+            }
+          ],
+          "tags": ["immigration"],
+          "startLine": 198,
+          "startColumn": 5,
+          "endLine": 198,
+          "endColumn": 90,
+          "title": "Untitled 15",
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Immigration"
+        }
+      ],
+      "tags": ["immigration"],
+      "section": "s3",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#e6ab02"
+    },
+    "Untitled 16": {
+      "type": "equivalence-class",
+      "title": "Untitled 16",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "If society is threatened by destabilization and the current laws and measures don't suffice to prevent destabilization, it is doomed and must be saved. (5.1) #immigration ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 158,
+              "stop": 170,
+              "tag": "immigration"
+            }
+          ],
+          "tags": ["immigration"],
+          "startLine": 199,
+          "startColumn": 5,
+          "endLine": 199,
+          "endColumn": 176,
+          "title": "Untitled 16",
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Immigration"
+        }
+      ],
+      "tags": ["immigration"],
+      "section": "s3",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#e6ab02"
+    },
+    "Untitled 17": {
+      "type": "equivalence-class",
+      "title": "Untitled 17",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Untitled 17",
+          "fromType": "equivalence-class",
+          "to": "Doom",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "text": "Society is doomed and must be saved.",
+          "startLine": 201,
+          "startColumn": 5,
+          "endLine": 201,
+          "endColumn": 40,
+          "title": "Untitled 17",
+          "section": "s3",
+          "role": "main-conclusion",
+          "argumentTitle": "Immigration",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 200,
+            "startColumn": 1,
+            "endLine": 200,
+            "endColumn": 5,
+            "conclusionIndex": 3,
+            "argumentTitle": "Immigration"
+          }
+        }
+      ],
+      "section": "s3",
+      "isUsedAsIntermediaryConclusion": false,
+      "isUsedAsMainConclusion": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Crime Rates Increase": {
+      "type": "equivalence-class",
+      "title": "Crime Rates Increase",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Crime Rates by Refugees",
+          "fromType": "argument",
+          "to": "Crime Rates Increase",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "relation-statement",
+          "title": "Crime Rates Increase",
+          "isReference": true,
+          "startLine": 209,
+          "startColumn": 10,
+          "endLine": 209,
+          "endColumn": 31,
+          "section": "s3"
+        },
+        {
+          "type": "statement",
+          "title": "Crime Rates Increase",
+          "text": "The rise in crime intensifies the security situation dramatically. (4.1) #crime ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 73,
+              "stop": 79,
+              "tag": "crime"
+            }
+          ],
+          "tags": ["crime"],
+          "startLine": 225,
+          "startColumn": 5,
+          "endLine": 226,
+          "endColumn": 51,
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Crime"
+        }
+      ],
+      "isUsedAsRelationStatement": true,
+      "tags": ["crime"],
+      "section": "s3",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#666666"
+    },
+    "Untitled 18": {
+      "type": "equivalence-class",
+      "title": "Untitled 18",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "text": "Second, connected to, but different from immigration are arguments concerned with Islam and crime.",
+          "startLine": 211,
+          "startColumn": 1,
+          "endLine": 212,
+          "endColumn": 45,
+          "title": "Untitled 18",
+          "section": "s3"
+        }
+      ],
+      "section": "s3",
+      "isUsedAsTopLevelStatement": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 19": {
+      "type": "equivalence-class",
+      "title": "Untitled 19",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "Islam threatens society by alienating its culture and attacking it through terrorist attacks.",
+          "startLine": 216,
+          "startColumn": 5,
+          "endLine": 217,
+          "endColumn": 44,
+          "title": "Untitled 19",
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Islam"
+        }
+      ],
+      "section": "s3",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 20": {
+      "type": "equivalence-class",
+      "title": "Untitled 20",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "A society that is alienated from its culture and attacked by terrorist attacks is doomed and must be saved.",
+          "startLine": 218,
+          "startColumn": 5,
+          "endLine": 219,
+          "endColumn": 59,
+          "title": "Untitled 20",
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Islam"
+        }
+      ],
+      "section": "s3",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 21": {
+      "type": "equivalence-class",
+      "title": "Untitled 21",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Untitled 21",
+          "fromType": "equivalence-class",
+          "to": "Doom",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "text": "Society is doomed and must be saved.",
+          "startLine": 221,
+          "startColumn": 5,
+          "endLine": 221,
+          "endColumn": 40,
+          "title": "Untitled 21",
+          "section": "s3",
+          "role": "main-conclusion",
+          "argumentTitle": "Islam",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 220,
+            "startColumn": 1,
+            "endLine": 220,
+            "endColumn": 5,
+            "conclusionIndex": 2,
+            "argumentTitle": "Islam"
+          }
+        }
+      ],
+      "section": "s3",
+      "isUsedAsIntermediaryConclusion": false,
+      "isUsedAsMainConclusion": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Inadequate Security Measures": {
+      "type": "equivalence-class",
+      "title": "Inadequate Security Measures",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "title": "Inadequate Security Measures",
+          "text": "The current laws and measures are an inadequate response to the dramatically worsening security situation. (4.1, 4.3) #crime ",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 118,
+              "stop": 124,
+              "tag": "crime"
+            }
+          ],
+          "tags": ["crime"],
+          "startLine": 227,
+          "startColumn": 5,
+          "endLine": 229,
+          "endColumn": 49,
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Crime"
+        }
+      ],
+      "tags": ["crime"],
+      "section": "s3",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#666666"
+    },
+    "Untitled 22": {
+      "type": "equivalence-class",
+      "title": "Untitled 22",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "If the response to the dramatically worsening security situation is inadequate, society is doomed and must be saved. ",
+          "startLine": 230,
+          "startColumn": 5,
+          "endLine": 231,
+          "endColumn": 63,
+          "title": "Untitled 22",
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Crime"
+        }
+      ],
+      "section": "s3",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 23": {
+      "type": "equivalence-class",
+      "title": "Untitled 23",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Untitled 23",
+          "fromType": "equivalence-class",
+          "to": "Doom",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "text": "Society is doomed and must be saved.",
+          "startLine": 233,
+          "startColumn": 5,
+          "endLine": 233,
+          "endColumn": 40,
+          "title": "Untitled 23",
+          "section": "s3",
+          "role": "main-conclusion",
+          "argumentTitle": "Crime",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 232,
+            "startColumn": 1,
+            "endLine": 232,
+            "endColumn": 5,
+            "conclusionIndex": 3,
+            "argumentTitle": "Crime"
+          }
+        }
+      ],
+      "section": "s3",
+      "isUsedAsIntermediaryConclusion": false,
+      "isUsedAsMainConclusion": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 24": {
+      "type": "equivalence-class",
+      "title": "Untitled 24",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "text": "Also central to the electoral platform are arguments concerned with the perceived decline of the \"German identity-creating culture\".",
+          "startLine": 235,
+          "startColumn": 1,
+          "endLine": 237,
+          "endColumn": 27,
+          "title": "Untitled 24",
+          "section": "s3"
+        }
+      ],
+      "section": "s3",
+      "isUsedAsTopLevelStatement": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Threat to Culture": {
+      "type": "equivalence-class",
+      "title": "Threat to Culture",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "\"Genderism\"",
+          "fromType": "argument",
+          "to": "Threat to Culture",
+          "toType": "equivalence-class"
+        },
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "\"Multiculturalism\"",
+          "fromType": "argument",
+          "to": "Threat to Culture",
+          "toType": "equivalence-class"
+        },
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "\"Foreign Infiltration\"",
+          "fromType": "argument",
+          "to": "Threat to Culture",
+          "toType": "equivalence-class"
+        },
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Family",
+          "fromType": "argument",
+          "to": "Threat to Culture",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "title": "Threat to Culture",
+          "text": "The identity-creating culture of society is in danger. (9.1) #culture",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 61,
+              "stop": 68,
+              "tag": "culture"
+            }
+          ],
+          "tags": ["culture"],
+          "startLine": 241,
+          "startColumn": 5,
+          "endLine": 249,
+          "endColumn": 32,
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Culture"
+        }
+      ],
+      "tags": ["culture"],
+      "section": "s3",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000"
+    },
+    "Untitled 25": {
+      "type": "equivalence-class",
+      "title": "Untitled 25",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "Society cannot exist without an identity-creating culture.",
+          "startLine": 250,
+          "startColumn": 5,
+          "endLine": 250,
+          "endColumn": 63,
+          "title": "Untitled 25",
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Culture"
+        }
+      ],
+      "section": "s3",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 26": {
+      "type": "equivalence-class",
+      "title": "Untitled 26",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Untitled 26",
+          "fromType": "equivalence-class",
+          "to": "Doom",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "text": "Society is doomed and must be saved.",
+          "startLine": 252,
+          "startColumn": 5,
+          "endLine": 252,
+          "endColumn": 40,
+          "title": "Untitled 26",
+          "section": "s3",
+          "role": "main-conclusion",
+          "argumentTitle": "Culture",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 251,
+            "startColumn": 1,
+            "endLine": 251,
+            "endColumn": 5,
+            "conclusionIndex": 2,
+            "argumentTitle": "Culture"
+          }
+        }
+      ],
+      "section": "s3",
+      "isUsedAsIntermediaryConclusion": false,
+      "isUsedAsMainConclusion": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 27": {
+      "type": "equivalence-class",
+      "title": "Untitled 27",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "text": "Somewhat less important are arguments concerned with social injustice, healthcare, demography, and globalization, all of which nevertheless have as their conclusion @[Doom].",
+          "ranges": [
+            {
+              "type": "statement-mention",
+              "title": "Doom",
+              "start": 165,
+              "stop": 171
+            }
+          ],
+          "startLine": 254,
+          "startColumn": 1,
+          "endLine": 256,
+          "endColumn": 52,
+          "title": "Untitled 27",
+          "section": "s3"
+        }
+      ],
+      "section": "s3",
+      "isUsedAsTopLevelStatement": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 28": {
+      "type": "equivalence-class",
+      "title": "Untitled 28",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "Social injustice threatens society.",
+          "startLine": 260,
+          "startColumn": 5,
+          "endLine": 260,
+          "endColumn": 40,
+          "title": "Untitled 28",
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Injustice"
+        }
+      ],
+      "section": "s3",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 29": {
+      "type": "equivalence-class",
+      "title": "Untitled 29",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "A society threatened by social injustice is about to be destroyed and must be saved.",
+          "startLine": 261,
+          "startColumn": 5,
+          "endLine": 262,
+          "endColumn": 35,
+          "title": "Untitled 29",
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Injustice"
+        }
+      ],
+      "section": "s3",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 30": {
+      "type": "equivalence-class",
+      "title": "Untitled 30",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Untitled 30",
+          "fromType": "equivalence-class",
+          "to": "Doom",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "text": "Society is doomed and must be saved.",
+          "startLine": 264,
+          "startColumn": 5,
+          "endLine": 264,
+          "endColumn": 40,
+          "title": "Untitled 30",
+          "section": "s3",
+          "role": "main-conclusion",
+          "argumentTitle": "Injustice",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 263,
+            "startColumn": 1,
+            "endLine": 263,
+            "endColumn": 5,
+            "conclusionIndex": 2,
+            "argumentTitle": "Injustice"
+          }
+        }
+      ],
+      "section": "s3",
+      "isUsedAsIntermediaryConclusion": false,
+      "isUsedAsMainConclusion": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 31": {
+      "type": "equivalence-class",
+      "title": "Untitled 31",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "When the health care system is structurally overburdened, society is in decline and must be saved.",
+          "startLine": 268,
+          "startColumn": 5,
+          "endLine": 269,
+          "endColumn": 41,
+          "title": "Untitled 31",
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Healthcare"
+        }
+      ],
+      "section": "s3",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Overload": {
+      "type": "equivalence-class",
+      "title": "Overload",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Euro Politics",
+          "fromType": "argument",
+          "to": "Overload",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "title": "Overload",
+          "text": "The health system is structurally overloaded.",
+          "startLine": 270,
+          "startColumn": 5,
+          "endLine": 270,
+          "endColumn": 62,
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Healthcare"
+        },
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "title": "Overload",
+          "text": "The health system is structurally overloaded. (12.1)",
+          "startLine": 274,
+          "startColumn": 1,
+          "endLine": 275,
+          "endColumn": 102,
+          "section": "s3"
+        }
+      ],
+      "section": "s3",
+      "isUsedAsPremise": true,
+      "isUsedAsTopLevelStatement": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 32": {
+      "type": "equivalence-class",
+      "title": "Untitled 32",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Untitled 32",
+          "fromType": "equivalence-class",
+          "to": "Doom",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "text": "Society is doomed and must be saved.",
+          "startLine": 272,
+          "startColumn": 5,
+          "endLine": 272,
+          "endColumn": 40,
+          "title": "Untitled 32",
+          "section": "s3",
+          "role": "main-conclusion",
+          "argumentTitle": "Healthcare",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 271,
+            "startColumn": 1,
+            "endLine": 271,
+            "endColumn": 5,
+            "conclusionIndex": 2,
+            "argumentTitle": "Healthcare"
+          }
+        }
+      ],
+      "section": "s3",
+      "isUsedAsIntermediaryConclusion": false,
+      "isUsedAsMainConclusion": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Insufficiency": {
+      "type": "equivalence-class",
+      "title": "Insufficiency",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Household Burden",
+          "fromType": "argument",
+          "to": "Insufficiency",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "title": "Insufficiency",
+          "text": "The current policy measures are insufficient to counter demographic change and its consequences. (11.4)",
+          "startLine": 279,
+          "startColumn": 5,
+          "endLine": 280,
+          "endColumn": 135,
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Demography"
+        }
+      ],
+      "section": "s3",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 33": {
+      "type": "equivalence-class",
+      "title": "Untitled 33",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "Demographic change is taking place.",
+          "startLine": 281,
+          "startColumn": 5,
+          "endLine": 281,
+          "endColumn": 40,
+          "title": "Untitled 33",
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Demography"
+        }
+      ],
+      "section": "s3",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 34": {
+      "type": "equivalence-class",
+      "title": "Untitled 34",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "When demographic change is taking place and the current policies are inadequate, society is in decline and must be saved.",
+          "startLine": 282,
+          "startColumn": 5,
+          "endLine": 284,
+          "endColumn": 19,
+          "title": "Untitled 34",
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Demography"
+        }
+      ],
+      "section": "s3",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 35": {
+      "type": "equivalence-class",
+      "title": "Untitled 35",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Untitled 35",
+          "fromType": "equivalence-class",
+          "to": "Doom",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "text": "Society is doomed and must be saved. ",
+          "startLine": 286,
+          "startColumn": 5,
+          "endLine": 286,
+          "endColumn": 41,
+          "title": "Untitled 35",
+          "section": "s3",
+          "role": "main-conclusion",
+          "argumentTitle": "Demography",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 285,
+            "startColumn": 1,
+            "endLine": 285,
+            "endColumn": 5,
+            "conclusionIndex": 3,
+            "argumentTitle": "Demography"
+          }
+        }
+      ],
+      "section": "s3",
+      "isUsedAsIntermediaryConclusion": false,
+      "isUsedAsMainConclusion": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 36": {
+      "type": "equivalence-class",
+      "title": "Untitled 36",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "Globalization threatens society.",
+          "startLine": 290,
+          "startColumn": 5,
+          "endLine": 290,
+          "endColumn": 37,
+          "title": "Untitled 36",
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Globalization"
+        }
+      ],
+      "section": "s3",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Decline of the Nation State": {
+      "type": "equivalence-class",
+      "title": "Decline of the Nation State",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Corruption and Incomptence",
+          "fromType": "argument",
+          "to": "Decline of the Nation State",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "title": "Decline of the Nation State",
+          "text": "The nation state is currently unable to face the challenges of globalization. (11.1)",
+          "startLine": 291,
+          "startColumn": 5,
+          "endLine": 292,
+          "endColumn": 99,
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Globalization"
+        }
+      ],
+      "section": "s3",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 37": {
+      "type": "equivalence-class",
+      "title": "Untitled 37",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "If globalization threatens society and the nation-state is unable to meet its challenges, society is doomed and must be saved.",
+          "startLine": 293,
+          "startColumn": 5,
+          "endLine": 293,
+          "endColumn": 131,
+          "title": "Untitled 37",
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Globalization"
+        }
+      ],
+      "section": "s3",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 38": {
+      "type": "equivalence-class",
+      "title": "Untitled 38",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Untitled 38",
+          "fromType": "equivalence-class",
+          "to": "Doom",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "text": "Society is doomed and must be saved.",
+          "startLine": 295,
+          "startColumn": 5,
+          "endLine": 295,
+          "endColumn": 40,
+          "title": "Untitled 38",
+          "section": "s3",
+          "role": "main-conclusion",
+          "argumentTitle": "Globalization",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 294,
+            "startColumn": 1,
+            "endLine": 294,
+            "endColumn": 5,
+            "conclusionIndex": 3,
+            "argumentTitle": "Globalization"
+          }
+        }
+      ],
+      "section": "s3",
+      "isUsedAsIntermediaryConclusion": false,
+      "isUsedAsMainConclusion": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Technophobia": {
+      "type": "equivalence-class",
+      "title": "Technophobia",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Turn in Climate Policy",
+          "fromType": "argument",
+          "to": "Technophobia",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "title": "Technophobia",
+          "text": "Increasing hostility to technology is spreading in society. (13.3)",
+          "startLine": 299,
+          "startColumn": 5,
+          "endLine": 300,
+          "endColumn": 128,
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Innovation"
+        }
+      ],
+      "section": "s3",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 39": {
+      "type": "equivalence-class",
+      "title": "Untitled 39",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "Without technological innovation and economic freedom, society is doomed and must be saved.",
+          "startLine": 301,
+          "startColumn": 5,
+          "endLine": 301,
+          "endColumn": 96,
+          "title": "Untitled 39",
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Innovation"
+        }
+      ],
+      "section": "s3",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 40": {
+      "type": "equivalence-class",
+      "title": "Untitled 40",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Untitled 40",
+          "fromType": "equivalence-class",
+          "to": "Doom",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "text": "Society is doomed and must be saved.",
+          "startLine": 303,
+          "startColumn": 5,
+          "endLine": 303,
+          "endColumn": 41,
+          "title": "Untitled 40",
+          "section": "s3",
+          "role": "main-conclusion",
+          "argumentTitle": "Innovation",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": [],
+            "startLine": 302,
+            "startColumn": 1,
+            "endLine": 302,
+            "endColumn": 5,
+            "conclusionIndex": 2,
+            "argumentTitle": "Innovation"
+          }
+        }
+      ],
+      "section": "s3",
+      "isUsedAsIntermediaryConclusion": false,
+      "isUsedAsMainConclusion": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    }
+  },
+  "relations": [
+    {
+      "type": "relation",
+      "relationType": "support",
+      "from": "Untitled 17",
+      "fromType": "equivalence-class",
+      "to": "Doom",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "support",
+      "from": "Untitled 30",
+      "fromType": "equivalence-class",
+      "to": "Doom",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "support",
+      "from": "Untitled 21",
+      "fromType": "equivalence-class",
+      "to": "Doom",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "support",
+      "from": "Untitled 23",
+      "fromType": "equivalence-class",
+      "to": "Doom",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "support",
+      "from": "Untitled 26",
+      "fromType": "equivalence-class",
+      "to": "Doom",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "support",
+      "from": "Untitled 38",
+      "fromType": "equivalence-class",
+      "to": "Doom",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "support",
+      "from": "Untitled 35",
+      "fromType": "equivalence-class",
+      "to": "Doom",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "support",
+      "from": "Untitled 32",
+      "fromType": "equivalence-class",
+      "to": "Doom",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "support",
+      "from": "Untitled 40",
+      "fromType": "equivalence-class",
+      "to": "Doom",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "support",
+      "from": "Destabilization",
+      "fromType": "equivalence-class",
+      "to": "Islam",
+      "toType": "argument"
+    },
+    {
+      "type": "relation",
+      "relationType": "support",
+      "from": "Destabilization",
+      "fromType": "equivalence-class",
+      "to": "Injustice",
+      "toType": "argument"
+    },
+    {
+      "type": "relation",
+      "relationType": "support",
+      "from": "\"Foreign Infiltration\"",
+      "fromType": "argument",
+      "to": "Destabilization",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "support",
+      "from": "Household Burden",
+      "fromType": "argument",
+      "to": "Destabilization",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "support",
+      "from": "Disadvantage for Germans",
+      "fromType": "argument",
+      "to": "Destabilization",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "support",
+      "from": "Crime Rates by Refugees",
+      "fromType": "argument",
+      "to": "Crime Rates Increase",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "support",
+      "from": "Crime Rates by Refugees",
+      "fromType": "argument",
+      "to": "Destabilization",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "support",
+      "from": "\"Genderism\"",
+      "fromType": "argument",
+      "to": "Threat to Culture",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "support",
+      "from": "\"Multiculturalism\"",
+      "fromType": "argument",
+      "to": "Threat to Culture",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "support",
+      "from": "\"Foreign Infiltration\"",
+      "fromType": "argument",
+      "to": "Threat to Culture",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "support",
+      "from": "Family",
+      "fromType": "argument",
+      "to": "Threat to Culture",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "support",
+      "from": "Euro Politics",
+      "fromType": "argument",
+      "to": "Overload",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "support",
+      "from": "Household Burden",
+      "fromType": "argument",
+      "to": "Insufficiency",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "support",
+      "from": "Corruption and Incomptence",
+      "fromType": "argument",
+      "to": "Decline of the Nation State",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "support",
+      "from": "Turn in Climate Policy",
+      "fromType": "argument",
+      "to": "Technophobia",
+      "toType": "equivalence-class"
+    }
+  ],
+  "sections": [
+    {
+      "type": "section",
+      "id": "s1",
+      "level": 1,
+      "title": "The Core Argument of Populism",
+      "children": [],
+      "ranges": [],
+      "startLine": 19,
+      "startColumn": 1,
+      "endOffset": null,
+      "endLine": 55,
+      "endColumn": 0,
+      "fontColor": "#000000",
+      "color": "#DADADA"
+    },
+    {
+      "type": "section",
+      "id": "s2",
+      "level": 1,
+      "title": "Salvation",
+      "children": [],
+      "ranges": [],
+      "startLine": 56,
+      "startColumn": 1,
+      "endOffset": null,
+      "endLine": 165,
+      "endColumn": 0,
+      "fontColor": "#000000",
+      "color": "#DADADA"
+    },
+    {
+      "type": "section",
+      "id": "s3",
+      "level": 1,
+      "title": "Doom",
+      "children": [],
+      "ranges": [],
+      "startLine": 166,
+      "startColumn": 1,
+      "endLine": 303,
+      "endColumn": 41,
+      "fontColor": "#000000",
+      "color": "#DADADA"
+    }
+  ],
+  "tags": {
+    "populism": {
+      "tag": "populism",
+      "cssClass": "tag-populism",
+      "occurrenceIndex": 0,
+      "color": "#d95f02"
+    },
+    "establishment": {
+      "tag": "establishment",
+      "cssClass": "tag-establishment",
+      "occurrenceIndex": 1,
+      "color": "#7570b3"
+    },
+    "news": {
+      "tag": "news",
+      "cssClass": "tag-news",
+      "occurrenceIndex": 2,
+      "color": "#e7298a"
+    },
+    "eu": {
+      "tag": "eu",
+      "cssClass": "tag-eu",
+      "occurrenceIndex": 3,
+      "color": "#66a61e"
+    },
+    "immigration": {
+      "tag": "immigration",
+      "cssClass": "tag-immigration",
+      "occurrenceIndex": 4,
+      "color": "#e6ab02"
+    },
+    "islam": {
+      "tag": "islam",
+      "cssClass": "tag-islam",
+      "occurrenceIndex": 5,
+      "color": "#a6761d"
+    },
+    "crime": {
+      "tag": "crime",
+      "cssClass": "tag-crime",
+      "occurrenceIndex": 6,
+      "color": "#666666"
+    },
+    "culture": {
+      "tag": "culture",
+      "cssClass": "tag-culture",
+      "occurrenceIndex": 7
+    }
+  }
+}

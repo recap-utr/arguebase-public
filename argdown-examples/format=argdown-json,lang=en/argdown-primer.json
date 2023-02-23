@@ -1,0 +1,1125 @@
+{
+  "arguments": {
+    "Argument title": {
+      "type": "argument",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Argument title",
+          "fromType": "argument",
+          "to": "Statement 2",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "Statements can be supported by arguments. Arguments are defined by using angle brackets. #tag",
+          "startLine": 34,
+          "endLine": 36,
+          "startColumn": 5,
+          "endColumn": 31,
+          "isTopLevel": false,
+          "section": "s2",
+          "title": "Argument title",
+          "ranges": [
+            {
+              "type": "bold",
+              "start": 31,
+              "stop": 39
+            },
+            {
+              "type": "tag",
+              "start": 89,
+              "stop": 92,
+              "tag": "tag"
+            }
+          ],
+          "tags": ["tag"]
+        }
+      ],
+      "pcs": [],
+      "title": "Argument title",
+      "tags": ["tag"],
+      "section": "s2",
+      "fontColor": "#000000",
+      "color": "#d95f02"
+    },
+    "Another argument": {
+      "type": "argument",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "attack",
+          "from": "Yet another argument",
+          "fromType": "argument",
+          "to": "Another argument",
+          "toType": "argument"
+        },
+        {
+          "type": "relation",
+          "relationType": "attack",
+          "from": "Another argument",
+          "fromType": "argument",
+          "to": "Statement 2",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "This arguments attacks @[Statement 2]. #tag",
+          "startLine": 37,
+          "endLine": 39,
+          "startColumn": 5,
+          "endColumn": 49,
+          "isTopLevel": false,
+          "section": "s2",
+          "title": "Another argument",
+          "ranges": [
+            {
+              "type": "statement-mention",
+              "title": "Statement 2",
+              "start": 23,
+              "stop": 36
+            },
+            {
+              "type": "tag",
+              "start": 39,
+              "stop": 42,
+              "tag": "tag"
+            }
+          ],
+          "tags": ["tag"]
+        }
+      ],
+      "pcs": [],
+      "title": "Another argument",
+      "tags": ["tag"],
+      "section": "s2",
+      "fontColor": "#000000",
+      "color": "#d95f02"
+    },
+    "Yet another argument": {
+      "type": "argument",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "attack",
+          "from": "Yet another argument",
+          "fromType": "argument",
+          "to": "Another argument",
+          "toType": "argument"
+        },
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Untitled 12",
+          "fromType": "equivalence-class",
+          "to": "Yet another argument",
+          "toType": "argument"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "Arguments can also be supported or attacked. #yet-another-tag",
+          "startLine": 38,
+          "endLine": 39,
+          "startColumn": 7,
+          "endColumn": 49,
+          "isTopLevel": false,
+          "section": "s2",
+          "title": "Yet another argument",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 45,
+              "stop": 60,
+              "tag": "yet-another-tag"
+            }
+          ],
+          "tags": ["yet-another-tag"]
+        },
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "",
+          "startLine": 79,
+          "endLine": 79,
+          "startColumn": 6,
+          "endColumn": 28,
+          "isTopLevel": false,
+          "section": "s3",
+          "title": "Yet another argument",
+          "isReference": true
+        }
+      ],
+      "pcs": [],
+      "title": "Yet another argument",
+      "tags": ["yet-another-tag"],
+      "section": "s2",
+      "fontColor": "#000000",
+      "color": "#e7298a"
+    },
+    "Argument 1": {
+      "type": "argument",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "attack",
+          "from": "Intro",
+          "fromType": "equivalence-class",
+          "to": "Argument 1",
+          "toType": "argument"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "",
+          "startLine": 48,
+          "endLine": 48,
+          "startColumn": 6,
+          "endColumn": 17,
+          "isTopLevel": false,
+          "section": "s2",
+          "title": "Argument 1",
+          "isReference": true
+        },
+        {
+          "type": "statement",
+          "role": "argument-description",
+          "text": "",
+          "startLine": 61,
+          "endLine": 61,
+          "startColumn": 1,
+          "endColumn": 12,
+          "isTopLevel": true,
+          "section": "s3",
+          "title": "Argument 1",
+          "isReference": true,
+          "pcs": [
+            {
+              "type": "statement",
+              "text": "First premise (this is is a normal statement and you can do everything with it, we have done with the statements above).",
+              "startLine": 63,
+              "startColumn": 5,
+              "endLine": 65,
+              "endColumn": 32,
+              "title": "Untitled 11",
+              "section": "s3",
+              "role": "premise",
+              "argumentTitle": "Argument 1"
+            },
+            {
+              "type": "statement",
+              "title": "Statement 2",
+              "text": "We have already defined a statement with this title. Argdown allows you to add multiple statements to the same \"equivalence class\" by giving them the same title. The statements will then be treated as logically equivalent.",
+              "startLine": 66,
+              "startColumn": 5,
+              "endLine": 71,
+              "endColumn": 29,
+              "section": "s3",
+              "role": "premise",
+              "argumentTitle": "Argument 1"
+            },
+            {
+              "type": "statement",
+              "text": "And now the conclusion ",
+              "title": "Untitled 12",
+              "startLine": 75,
+              "startColumn": 5,
+              "endLine": 87,
+              "endColumn": 18,
+              "section": "s3",
+              "role": "main-conclusion",
+              "argumentTitle": "Argument 1",
+              "inference": {
+                "type": "inference",
+                "relations": [],
+                "inferenceRules": ["Some inference rule: p ∧ (p → q) → q"],
+                "startLine": 72,
+                "startColumn": 1,
+                "endLine": 74,
+                "endColumn": 3,
+                "data": {
+                  "some_additional_data": [1, 2]
+                },
+                "conclusionIndex": 2,
+                "argumentTitle": "Argument 1"
+              }
+            }
+          ]
+        }
+      ],
+      "pcs": [
+        {
+          "type": "statement",
+          "text": "First premise (this is is a normal statement and you can do everything with it, we have done with the statements above).",
+          "startLine": 63,
+          "startColumn": 5,
+          "endLine": 65,
+          "endColumn": 32,
+          "title": "Untitled 11",
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Argument 1"
+        },
+        {
+          "type": "statement",
+          "title": "Statement 2",
+          "text": "We have already defined a statement with this title. Argdown allows you to add multiple statements to the same \"equivalence class\" by giving them the same title. The statements will then be treated as logically equivalent.",
+          "startLine": 66,
+          "startColumn": 5,
+          "endLine": 71,
+          "endColumn": 29,
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Argument 1"
+        },
+        {
+          "type": "statement",
+          "text": "And now the conclusion ",
+          "title": "Untitled 12",
+          "startLine": 75,
+          "startColumn": 5,
+          "endLine": 87,
+          "endColumn": 18,
+          "section": "s3",
+          "role": "main-conclusion",
+          "argumentTitle": "Argument 1",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": ["Some inference rule: p ∧ (p → q) → q"],
+            "startLine": 72,
+            "startColumn": 1,
+            "endLine": 74,
+            "endColumn": 3,
+            "data": {
+              "some_additional_data": [1, 2]
+            },
+            "conclusionIndex": 2,
+            "argumentTitle": "Argument 1"
+          }
+        }
+      ],
+      "title": "Argument 1",
+      "section": "s3",
+      "startLine": 63,
+      "startColumn": 1,
+      "endLine": 87,
+      "endColumn": 18,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    }
+  },
+  "statements": {
+    "Intro": {
+      "type": "equivalence-class",
+      "title": "Intro",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Untitled 1",
+          "fromType": "equivalence-class",
+          "to": "Intro",
+          "toType": "equivalence-class"
+        },
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Untitled 2",
+          "fromType": "equivalence-class",
+          "to": "Intro",
+          "toType": "equivalence-class"
+        },
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Untitled 3",
+          "fromType": "equivalence-class",
+          "to": "Intro",
+          "toType": "equivalence-class"
+        },
+        {
+          "type": "relation",
+          "relationType": "attack",
+          "from": "Intro",
+          "fromType": "equivalence-class",
+          "to": "Argument 1",
+          "toType": "argument"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "title": "Intro",
+          "text": "Argdown is a simple syntax for defining argumentative structures, inspired by Markdown.",
+          "startLine": 3,
+          "startColumn": 1,
+          "endLine": 13,
+          "endColumn": 39,
+          "section": "s1"
+        },
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "title": "Intro",
+          "isReference": true,
+          "text": " ",
+          "startLine": 47,
+          "startColumn": 1,
+          "endLine": 48,
+          "endColumn": 17,
+          "section": "s2"
+        }
+      ],
+      "section": "s1",
+      "isUsedAsTopLevelStatement": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 1": {
+      "type": "equivalence-class",
+      "title": "Untitled 1",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Untitled 1",
+          "fromType": "equivalence-class",
+          "to": "Intro",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "relation-statement",
+          "text": "Writing a list of pros & cons in Argdown is as simple as writing a twitter message (actually we are right in the middle of one).",
+          "ranges": [
+            {
+              "type": "bold",
+              "start": 18,
+              "stop": 28
+            }
+          ],
+          "startLine": 5,
+          "startColumn": 5,
+          "endLine": 7,
+          "endColumn": 33,
+          "title": "Untitled 1",
+          "section": "s1"
+        }
+      ],
+      "section": "s1",
+      "isUsedAsRelationStatement": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 2": {
+      "type": "equivalence-class",
+      "title": "Untitled 2",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Untitled 2",
+          "fromType": "equivalence-class",
+          "to": "Intro",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "relation-statement",
+          "text": "But you can also logically reconstruct more complex relations between arguments or dive into the details of their premise-conclusion structures.",
+          "ranges": [
+            {
+              "type": "bold",
+              "start": 17,
+              "stop": 37
+            }
+          ],
+          "startLine": 8,
+          "startColumn": 5,
+          "endLine": 11,
+          "endColumn": 56,
+          "title": "Untitled 2",
+          "section": "s1"
+        }
+      ],
+      "section": "s1",
+      "isUsedAsRelationStatement": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 3": {
+      "type": "equivalence-class",
+      "title": "Untitled 3",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Untitled 3",
+          "fromType": "equivalence-class",
+          "to": "Intro",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "relation-statement",
+          "text": "Finally, you can export Argdown as a graph and create argument maps of whole debates.",
+          "ranges": [
+            {
+              "type": "bold",
+              "start": 54,
+              "stop": 66
+            }
+          ],
+          "startLine": 12,
+          "startColumn": 5,
+          "endLine": 13,
+          "endColumn": 39,
+          "title": "Untitled 3",
+          "section": "s1"
+        }
+      ],
+      "section": "s1",
+      "isUsedAsRelationStatement": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 4": {
+      "type": "equivalence-class",
+      "title": "Untitled 4",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "text": "This Argdown document only demonstrates the basic syntax elements. The argument map produced is a \"bogus debate\". ",
+          "startLine": 15,
+          "startColumn": 1,
+          "endLine": 16,
+          "endColumn": 47,
+          "title": "Untitled 4",
+          "section": "s1"
+        }
+      ],
+      "section": "s1",
+      "isUsedAsTopLevelStatement": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 5": {
+      "type": "equivalence-class",
+      "title": "Untitled 5",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "text": "To read a reconstruction of a real debate, select one of the example debates by moving your mouse to the \"Examples\" button on the upper left, above the text editor.",
+          "ranges": [
+            {
+              "type": "italic",
+              "start": 30,
+              "stop": 33
+            },
+            {
+              "type": "bold",
+              "start": 61,
+              "stop": 75
+            },
+            {
+              "type": "italic",
+              "start": 105,
+              "stop": 114
+            }
+          ],
+          "startLine": 18,
+          "startColumn": 1,
+          "endLine": 20,
+          "endColumn": 41,
+          "title": "Untitled 5",
+          "section": "s1"
+        }
+      ],
+      "section": "s1",
+      "isUsedAsTopLevelStatement": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 6": {
+      "type": "equivalence-class",
+      "title": "Untitled 6",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "text": "This is a normal statement with bold and italic text, a #tag and a link.",
+          "ranges": [
+            {
+              "type": "bold",
+              "start": 32,
+              "stop": 35
+            },
+            {
+              "type": "italic",
+              "start": 41,
+              "stop": 46
+            },
+            {
+              "type": "tag",
+              "start": 56,
+              "stop": 60,
+              "tag": "tag"
+            },
+            {
+              "type": "link",
+              "start": 67,
+              "stop": 70,
+              "url": "https://github.com/christianvoigt/argdown-parser"
+            }
+          ],
+          "tags": ["tag"],
+          "startLine": 24,
+          "startColumn": 1,
+          "endLine": 25,
+          "endColumn": 70,
+          "title": "Untitled 6",
+          "section": "s2"
+        }
+      ],
+      "tags": ["tag"],
+      "section": "s2",
+      "isUsedAsTopLevelStatement": true,
+      "fontColor": "#000000",
+      "color": "#d95f02"
+    },
+    "Statement 1": {
+      "type": "equivalence-class",
+      "title": "Statement 1",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "attack",
+          "from": "Untitled 12",
+          "fromType": "equivalence-class",
+          "to": "Statement 1",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "title": "Statement 1",
+          "text": "Another statement (after a blank line), this time with a title defined in square brackets. We can use the title to refer to this statement later or mention it in other statements. #(Another tag)",
+          "ranges": [
+            {
+              "type": "tag",
+              "start": 180,
+              "stop": 193,
+              "tag": "Another tag"
+            }
+          ],
+          "tags": ["Another tag"],
+          "startLine": 27,
+          "startColumn": 1,
+          "endLine": 30,
+          "endColumn": 49,
+          "section": "s2"
+        },
+        {
+          "type": "statement",
+          "role": "relation-statement",
+          "title": "Statement 1",
+          "isReference": true,
+          "startLine": 87,
+          "startColumn": 6,
+          "endLine": 87,
+          "endColumn": 18,
+          "section": "s3"
+        }
+      ],
+      "tags": ["Another tag"],
+      "section": "s2",
+      "isUsedAsTopLevelStatement": true,
+      "isUsedAsRelationStatement": true,
+      "fontColor": "#000000",
+      "color": "#7570b3"
+    },
+    "Statement 2": {
+      "type": "equivalence-class",
+      "title": "Statement 2",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Argument title",
+          "fromType": "argument",
+          "to": "Statement 2",
+          "toType": "equivalence-class"
+        },
+        {
+          "type": "relation",
+          "relationType": "attack",
+          "from": "Another argument",
+          "fromType": "argument",
+          "to": "Statement 2",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "title": "Statement 2",
+          "text": "Let's do that now: The previous statement was @[Statement 1].",
+          "ranges": [
+            {
+              "type": "statement-mention",
+              "title": "Statement 1",
+              "start": 46,
+              "stop": 59
+            }
+          ],
+          "startLine": 32,
+          "startColumn": 1,
+          "endLine": 39,
+          "endColumn": 49,
+          "section": "s2"
+        },
+        {
+          "type": "statement",
+          "title": "Statement 2",
+          "text": "We have already defined a statement with this title. Argdown allows you to add multiple statements to the same \"equivalence class\" by giving them the same title. The statements will then be treated as logically equivalent.",
+          "startLine": 66,
+          "startColumn": 5,
+          "endLine": 71,
+          "endColumn": 29,
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Argument 1"
+        }
+      ],
+      "section": "s2",
+      "isUsedAsTopLevelStatement": true,
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 7": {
+      "type": "equivalence-class",
+      "title": "Untitled 7",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "text": "We can also do that the other way around:",
+          "startLine": 45,
+          "startColumn": 1,
+          "endLine": 45,
+          "endColumn": 41,
+          "title": "Untitled 7",
+          "section": "s2"
+        }
+      ],
+      "section": "s2",
+      "isUsedAsTopLevelStatement": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 8": {
+      "type": "equivalence-class",
+      "title": "Untitled 8",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "text": "Headings can be used to group arguments and statements together. In the map these groups are visualized as grey boxes.",
+          "startLine": 50,
+          "startColumn": 1,
+          "endLine": 51,
+          "endColumn": 53,
+          "title": "Untitled 8",
+          "section": "s2"
+        }
+      ],
+      "section": "s2",
+      "isUsedAsTopLevelStatement": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 9": {
+      "type": "equivalence-class",
+      "title": "Untitled 9",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "text": "Tags are visualized by the colors of the arguments and statements in the map.",
+          "startLine": 53,
+          "startColumn": 1,
+          "endLine": 53,
+          "endColumn": 77,
+          "title": "Untitled 9",
+          "section": "s2"
+        }
+      ],
+      "section": "s2",
+      "isUsedAsTopLevelStatement": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 10": {
+      "type": "equivalence-class",
+      "title": "Untitled 10",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "text": "So far, we have ignored the internal structure of arguments. Arguments consist of premises from which conclusions are inferred. We can precisely define this premise-conclusion structure with Argdown:",
+          "startLine": 57,
+          "startColumn": 1,
+          "endLine": 59,
+          "endColumn": 54,
+          "title": "Untitled 10",
+          "section": "s3"
+        }
+      ],
+      "section": "s3",
+      "isUsedAsTopLevelStatement": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 11": {
+      "type": "equivalence-class",
+      "title": "Untitled 11",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "text": "First premise (this is is a normal statement and you can do everything with it, we have done with the statements above).",
+          "startLine": 63,
+          "startColumn": 5,
+          "endLine": 65,
+          "endColumn": 32,
+          "title": "Untitled 11",
+          "section": "s3",
+          "role": "premise",
+          "argumentTitle": "Argument 1"
+        }
+      ],
+      "section": "s3",
+      "isUsedAsPremise": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 12": {
+      "type": "equivalence-class",
+      "title": "Untitled 12",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "attack",
+          "from": "Untitled 12",
+          "fromType": "equivalence-class",
+          "to": "Untitled 13",
+          "toType": "equivalence-class"
+        },
+        {
+          "type": "relation",
+          "relationType": "support",
+          "from": "Untitled 12",
+          "fromType": "equivalence-class",
+          "to": "Yet another argument",
+          "toType": "argument"
+        },
+        {
+          "type": "relation",
+          "relationType": "attack",
+          "from": "Untitled 12",
+          "fromType": "equivalence-class",
+          "to": "Statement 1",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "text": "And now the conclusion ",
+          "title": "Untitled 12",
+          "startLine": 75,
+          "startColumn": 5,
+          "endLine": 87,
+          "endColumn": 18,
+          "section": "s3",
+          "role": "main-conclusion",
+          "argumentTitle": "Argument 1",
+          "inference": {
+            "type": "inference",
+            "relations": [],
+            "inferenceRules": ["Some inference rule: p ∧ (p → q) → q"],
+            "startLine": 72,
+            "startColumn": 1,
+            "endLine": 74,
+            "endColumn": 3,
+            "data": {
+              "some_additional_data": [1, 2]
+            },
+            "conclusionIndex": 2,
+            "argumentTitle": "Argument 1"
+          }
+        }
+      ],
+      "section": "s3",
+      "isUsedAsIntermediaryConclusion": false,
+      "isUsedAsMainConclusion": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 13": {
+      "type": "equivalence-class",
+      "title": "Untitled 13",
+      "relations": [
+        {
+          "type": "relation",
+          "relationType": "attack",
+          "from": "Untitled 12",
+          "fromType": "equivalence-class",
+          "to": "Untitled 13",
+          "toType": "equivalence-class"
+        }
+      ],
+      "members": [
+        {
+          "type": "statement",
+          "role": "relation-statement",
+          "text": "Outgoing relations of the conclusion, are also interpreted as outgoing relations of the whole argument.",
+          "startLine": 76,
+          "startColumn": 6,
+          "endLine": 78,
+          "endColumn": 22,
+          "title": "Untitled 13",
+          "section": "s3"
+        }
+      ],
+      "section": "s3",
+      "isUsedAsRelationStatement": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    },
+    "Untitled 14": {
+      "type": "equivalence-class",
+      "title": "Untitled 14",
+      "relations": [],
+      "members": [
+        {
+          "type": "statement",
+          "role": "top-level-statement",
+          "isTopLevel": true,
+          "text": "We can also link to headings: Back to top",
+          "ranges": [
+            {
+              "type": "link",
+              "start": 30,
+              "stop": 40,
+              "url": "#heading-welcome-to-argdown"
+            }
+          ],
+          "startLine": 89,
+          "startColumn": 3,
+          "endLine": 90,
+          "endColumn": 44,
+          "title": "Untitled 14",
+          "section": "s3"
+        }
+      ],
+      "section": "s3",
+      "isUsedAsTopLevelStatement": true,
+      "fontColor": "#000000",
+      "color": "#1b9e77"
+    }
+  },
+  "relations": [
+    {
+      "type": "relation",
+      "relationType": "support",
+      "from": "Untitled 1",
+      "fromType": "equivalence-class",
+      "to": "Intro",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "support",
+      "from": "Untitled 2",
+      "fromType": "equivalence-class",
+      "to": "Intro",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "support",
+      "from": "Untitled 3",
+      "fromType": "equivalence-class",
+      "to": "Intro",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "support",
+      "from": "Argument title",
+      "fromType": "argument",
+      "to": "Statement 2",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "attack",
+      "from": "Yet another argument",
+      "fromType": "argument",
+      "to": "Another argument",
+      "toType": "argument"
+    },
+    {
+      "type": "relation",
+      "relationType": "attack",
+      "from": "Another argument",
+      "fromType": "argument",
+      "to": "Statement 2",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "attack",
+      "from": "Intro",
+      "fromType": "equivalence-class",
+      "to": "Argument 1",
+      "toType": "argument"
+    },
+    {
+      "type": "relation",
+      "relationType": "attack",
+      "from": "Untitled 12",
+      "fromType": "equivalence-class",
+      "to": "Untitled 13",
+      "toType": "equivalence-class"
+    },
+    {
+      "type": "relation",
+      "relationType": "support",
+      "from": "Untitled 12",
+      "fromType": "equivalence-class",
+      "to": "Yet another argument",
+      "toType": "argument"
+    },
+    {
+      "type": "relation",
+      "relationType": "attack",
+      "from": "Untitled 12",
+      "fromType": "equivalence-class",
+      "to": "Statement 1",
+      "toType": "equivalence-class"
+    }
+  ],
+  "sections": [
+    {
+      "type": "section",
+      "id": "s1",
+      "level": 1,
+      "title": "❤ Welcome to Argdown! ❤",
+      "children": [
+        {
+          "type": "section",
+          "id": "s2",
+          "level": 2,
+          "title": "Argdown Basics",
+          "children": [
+            {
+              "type": "section",
+              "id": "s3",
+              "level": 3,
+              "title": "Argument reconstructions",
+              "children": [],
+              "ranges": [],
+              "startLine": 55,
+              "startColumn": 1,
+              "parent": "s2",
+              "endLine": 90,
+              "endColumn": 44,
+              "fontColor": "#000000",
+              "color": "#AAAAAA"
+            }
+          ],
+          "ranges": [],
+          "startLine": 22,
+          "startColumn": 1,
+          "parent": "s1",
+          "endLine": 90,
+          "endColumn": 44,
+          "fontColor": "#000000",
+          "color": "#BABABA"
+        }
+      ],
+      "ranges": [],
+      "startLine": 1,
+      "startColumn": 1,
+      "endLine": 90,
+      "endColumn": 44,
+      "fontColor": "#000000",
+      "color": "#DADADA"
+    }
+  ],
+  "tags": {
+    "tag": {
+      "tag": "tag",
+      "cssClass": "tag-tag",
+      "occurrenceIndex": 0,
+      "color": "#d95f02"
+    },
+    "Another tag": {
+      "tag": "Another tag",
+      "cssClass": "tag-another-tag",
+      "occurrenceIndex": 1,
+      "color": "#7570b3"
+    },
+    "yet-another-tag": {
+      "tag": "yet-another-tag",
+      "cssClass": "tag-yet-another-tag",
+      "occurrenceIndex": 2,
+      "color": "#e7298a"
+    }
+  }
+}
