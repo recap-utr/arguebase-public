@@ -115,6 +115,10 @@ The arg-microtexts corpus features 112 short argumentative texts. All texts were
 - `other`
   - nodeset6423, nodeset6424, nodeset6425, nodeset6426, nodeset6427, nodeset6428, nodeset6429, nodeset6430, nodeset6431, nodeset6432, nodeset6433, nodeset6434, nodeset6435, nodeset6436, nodeset6437, nodeset6438, nodeset6439, nodeset6440, nodeset6441, nodeset6442, nodeset6443, nodeset6444, nodeset6445
 
+## Name Mapping between ArgGraph and AIF
+
+See [`aif2arggraph.json`](./aif2arggraph.json).
+
 ## Command to separate by topic (ArgGraph)
 
 See [`split_by_topic.py`](./split_by_topic.py). Can also be used for `microtexts-v2`.
