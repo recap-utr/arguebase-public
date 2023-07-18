@@ -1,0 +1,1632 @@
+{
+  "nodes": [
+    {
+      "nodeID": "724870",
+      "text": "Sarah Jones : Daniel's father lives in my constituency",
+      "type": "L",
+      "timestamp": "2021-06-24 20:16:43"
+    },
+    {
+      "nodeID": "724871",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2021-06-24 20:16:43",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "724872",
+      "text": "Daniel's father lives in Sarah Jones' constituency",
+      "type": "I",
+      "timestamp": "2021-06-24 20:16:44"
+    },
+    {
+      "nodeID": "724873",
+      "text": "Kamila: Sarah Jones : Daniel's father lives in my constituency",
+      "type": "L",
+      "timestamp": "2021-06-24 20:16:44"
+    },
+    {
+      "nodeID": "724874",
+      "text": "Sarah Jones : I've been talking to him, as you imagine",
+      "type": "L",
+      "timestamp": "2021-06-24 20:16:45"
+    },
+    {
+      "nodeID": "724875",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2021-06-24 20:16:45",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "724876",
+      "text": "Sarah Jones has been talking to Daniel's father, as you imagine",
+      "type": "I",
+      "timestamp": "2021-06-24 20:16:46"
+    },
+    {
+      "nodeID": "724877",
+      "text": "Kamila: Sarah Jones : I've been talking to him, as you imagine",
+      "type": "L",
+      "timestamp": "2021-06-24 20:16:47"
+    },
+    {
+      "nodeID": "724878",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2021-06-24 20:16:47",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "724879",
+      "text": "Sarah Jones : 34 years on from the murder of his father we have some light shone on what's happened",
+      "type": "L",
+      "timestamp": "2021-06-24 20:16:47"
+    },
+    {
+      "nodeID": "724880",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2021-06-24 20:16:47",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "724881",
+      "text": "34 years on from the murder of Daniel's father we have some light shone on what's happened",
+      "type": "I",
+      "timestamp": "2021-06-24 20:16:48"
+    },
+    {
+      "nodeID": "724882",
+      "text": "Kamila: Sarah Jones : 34 years on from the murder of his father we have some light shone on what's happened",
+      "type": "L",
+      "timestamp": "2021-06-24 20:16:49"
+    },
+    {
+      "nodeID": "724883",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2021-06-24 20:16:49",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "724884",
+      "text": "Sarah Jones : The report is, to be clear, incredibly damning",
+      "type": "L",
+      "timestamp": "2021-06-24 20:16:49"
+    },
+    {
+      "nodeID": "724885",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2021-06-24 20:16:49",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "724886",
+      "text": "the report is, to be clear, incredibly damning",
+      "type": "I",
+      "timestamp": "2021-06-24 20:16:50"
+    },
+    {
+      "nodeID": "724887",
+      "text": "Kamila: Sarah Jones : The report is, to be clear, incredibly damning",
+      "type": "L",
+      "timestamp": "2021-06-24 20:16:51"
+    },
+    {
+      "nodeID": "724888",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2021-06-24 20:16:51",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "724889",
+      "text": "Sarah Jones : it really is both of the Home Office, and the Met Police and the whole structure around with, you know, the way that all these inquiries operated",
+      "type": "L",
+      "timestamp": "2021-06-24 20:16:52"
+    },
+    {
+      "nodeID": "724890",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2021-06-24 20:16:52",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "724891",
+      "text": "it really is both of the Home Office, and the Met Police and the whole structure around with, you know, the way that all these inquiries operated",
+      "type": "I",
+      "timestamp": "2021-06-24 20:16:52"
+    },
+    {
+      "nodeID": "724892",
+      "text": "Kamila: Sarah Jones : it really is both of the Home Office, and the Met Police and the whole structure around with, you know, the way that all these inquiries operated",
+      "type": "L",
+      "timestamp": "2021-06-24 20:16:53"
+    },
+    {
+      "nodeID": "724893",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2021-06-24 20:16:53",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "724894",
+      "text": "Sarah Jones : It talks of a form of institutional corruption",
+      "type": "L",
+      "timestamp": "2021-06-24 20:16:54"
+    },
+    {
+      "nodeID": "724895",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2021-06-24 20:16:54",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "724896",
+      "text": "the report talks of a form of institutional corruption",
+      "type": "I",
+      "timestamp": "2021-06-24 20:16:55"
+    },
+    {
+      "nodeID": "724897",
+      "text": "Kamila: Sarah Jones : It talks of a form of institutional corruption",
+      "type": "L",
+      "timestamp": "2021-06-24 20:16:55"
+    },
+    {
+      "nodeID": "724898",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2021-06-24 20:16:55",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "724899",
+      "text": "Sarah Jones : I was disappointed this week with the Home Secretary's response",
+      "type": "L",
+      "timestamp": "2021-06-24 20:16:56"
+    },
+    {
+      "nodeID": "724900",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2021-06-24 20:16:56",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "724901",
+      "text": "Sarah Jones was disappointed this week with the Home Secretary's response",
+      "type": "I",
+      "timestamp": "2021-06-24 20:16:58"
+    },
+    {
+      "nodeID": "724902",
+      "text": "Kamila: Sarah Jones : I was disappointed this week with the Home Secretary's response",
+      "type": "L",
+      "timestamp": "2021-06-24 20:16:59"
+    },
+    {
+      "nodeID": "724903",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2021-06-24 20:16:59",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "724904",
+      "text": "Sarah Jones : We were in Parliament asking questions",
+      "type": "L",
+      "timestamp": "2021-06-24 20:17:00"
+    },
+    {
+      "nodeID": "724905",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2021-06-24 20:17:00",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "724906",
+      "text": "we were in Parliament asking questions",
+      "type": "I",
+      "timestamp": "2021-06-24 20:17:01"
+    },
+    {
+      "nodeID": "724907",
+      "text": "Kamila: Sarah Jones : We were in Parliament asking questions",
+      "type": "L",
+      "timestamp": "2021-06-24 20:17:02"
+    },
+    {
+      "nodeID": "724908",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2021-06-24 20:17:02",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "724909",
+      "text": "Sarah Jones : I asked her if she would come back before the summer recess to let us know what she would do about this",
+      "type": "L",
+      "timestamp": "2021-06-24 20:17:03"
+    },
+    {
+      "nodeID": "724910",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2021-06-24 20:17:03",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "724911",
+      "text": "Sarah Jones asked the Home Secretary if she would come back before the summer recess to let us know what she would do about the report talking of a form of institutional corruption",
+      "type": "I",
+      "timestamp": "2021-06-24 20:17:04"
+    },
+    {
+      "nodeID": "724912",
+      "text": "Kamila: Sarah Jones : I asked her if she would come back before the summer recess to let us know what she would do about this",
+      "type": "L",
+      "timestamp": "2021-06-24 20:17:05"
+    },
+    {
+      "nodeID": "724913",
+      "text": "Sarah Jones : she didn't accept any of the findings, she hasn't given a commitment to put in my findings",
+      "type": "L",
+      "timestamp": "2021-06-24 20:17:05"
+    },
+    {
+      "nodeID": "724914",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2021-06-24 20:17:05",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "724915",
+      "text": "the Home Seretary didn't accept any of the findings, she hasn't given a commitment to put in my findings",
+      "type": "I",
+      "timestamp": "2021-06-24 20:17:06"
+    },
+    {
+      "nodeID": "724916",
+      "text": "Kamila: Sarah Jones : she didn't accept any of the findings, she hasn't given a commitment to put in my findings",
+      "type": "L",
+      "timestamp": "2021-06-24 20:17:06"
+    },
+    {
+      "nodeID": "724917",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2021-06-24 20:17:06",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "724918",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2021-06-24 20:17:06",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "724919",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2021-06-24 20:17:06",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "724920",
+      "text": "Fiona Bruce : can we trust the Met",
+      "type": "L",
+      "timestamp": "2021-06-24 20:17:07"
+    },
+    {
+      "nodeID": "724921",
+      "text": "Pure Questioning",
+      "type": "YA",
+      "timestamp": "2021-06-24 20:17:07",
+      "scheme": "PureQuestioning",
+      "schemeID": "91"
+    },
+    {
+      "nodeID": "724922",
+      "text": "we can or can't trust the Met",
+      "type": "I",
+      "timestamp": "2021-06-24 20:17:08"
+    },
+    {
+      "nodeID": "724923",
+      "text": "Kamila: Fiona Bruce : can we trust the Met",
+      "type": "L",
+      "timestamp": "2021-06-24 20:17:08"
+    },
+    {
+      "nodeID": "724924",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2021-06-24 20:17:08",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "724925",
+      "text": "Sarah Jones : I would absolutely support the police and trust the police",
+      "type": "L",
+      "timestamp": "2021-06-24 20:17:09"
+    },
+    {
+      "nodeID": "724926",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2021-06-24 20:17:09",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "724927",
+      "text": "Sarah Jones would absolutely support the police and trust the police",
+      "type": "I",
+      "timestamp": "2021-06-24 20:17:09"
+    },
+    {
+      "nodeID": "724928",
+      "text": "Kamila: Sarah Jones : I would absolutely support the police and trust the police",
+      "type": "L",
+      "timestamp": "2021-06-24 20:17:10"
+    },
+    {
+      "nodeID": "724929",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2021-06-24 20:17:10",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "724930",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2021-06-24 20:17:10",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "724931",
+      "text": "Default Illocuting",
+      "type": "YA",
+      "timestamp": "2021-06-24 20:17:10",
+      "scheme": "Default Illocuting",
+      "schemeID": "168"
+    },
+    {
+      "nodeID": "724932",
+      "text": "Kamila: Sarah Jones : They've worked incredibly hard over the last year, they have had a hard time and not much thanks for it",
+      "type": "L",
+      "timestamp": "2021-06-24 20:17:10"
+    },
+    {
+      "nodeID": "724933",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2021-06-24 20:17:11",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "724934",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2021-06-24 20:17:11",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "724935",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2021-06-24 20:17:11",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "724936",
+      "text": "Kamila: Fiona Bruce : when the commissioner says \"I do not accept that we are are insti criticisms of her, what do you make of that?",
+      "type": "L",
+      "timestamp": "2021-06-24 20:17:11"
+    },
+    {
+      "nodeID": "724937",
+      "text": "Fiona Bruce : when the commissioner says \"I do not accept that we are are insti criticisms of her, what do you make of that",
+      "type": "L",
+      "timestamp": "2021-06-24 20:17:12"
+    },
+    {
+      "nodeID": "724938",
+      "text": "Pure Questioning",
+      "type": "YA",
+      "timestamp": "2021-06-24 20:17:12",
+      "scheme": "PureQuestioning",
+      "schemeID": "91"
+    },
+    {
+      "nodeID": "724939",
+      "text": "when the commissioner says \"I do not accept that we are are insti criticisms of her\", you make xxx of that",
+      "type": "I",
+      "timestamp": "2021-06-24 20:17:13"
+    },
+    {
+      "nodeID": "724940",
+      "text": "Kamila: Fiona Bruce : when the commissioner says \"I do not accept that we are are insti criticisms of her, what do you make of that",
+      "type": "L",
+      "timestamp": "2021-06-24 20:17:13"
+    },
+    {
+      "nodeID": "724941",
+      "text": "Sarah Jones : She says she is going to come back with a proper response",
+      "type": "L",
+      "timestamp": "2021-06-24 20:17:14"
+    },
+    {
+      "nodeID": "724942",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2021-06-24 20:17:14",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "724943",
+      "text": "the commissioner says she is going to come back with a proper response",
+      "type": "I",
+      "timestamp": "2021-06-24 20:17:15"
+    },
+    {
+      "nodeID": "724944",
+      "text": "Kamila: Sarah Jones : She says she is going to come back with a proper response",
+      "type": "L",
+      "timestamp": "2021-06-24 20:17:15"
+    },
+    {
+      "nodeID": "724945",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2021-06-24 20:17:15",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "724946",
+      "text": "Sarah Jones : she needs to show the leadership that we understand serious mistakes have happened and we need to put it right",
+      "type": "L",
+      "timestamp": "2021-06-24 20:17:16"
+    },
+    {
+      "nodeID": "724947",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2021-06-24 20:17:16",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "724948",
+      "text": "the commissioner needs to show the leadership that we understand serious mistakes have happened and we need to put it right",
+      "type": "I",
+      "timestamp": "2021-06-24 20:17:16"
+    },
+    {
+      "nodeID": "724949",
+      "text": "Kamila: Sarah Jones : she needs to show the leadership that we understand serious mistakes have happened and we need to put it right",
+      "type": "L",
+      "timestamp": "2021-06-24 20:17:17"
+    },
+    {
+      "nodeID": "724950",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2021-06-24 20:17:17",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "724951",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2021-06-24 20:17:17",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "724952",
+      "text": "Default Illocuting",
+      "type": "YA",
+      "timestamp": "2021-06-24 20:17:17",
+      "scheme": "Default Illocuting",
+      "schemeID": "168"
+    },
+    {
+      "nodeID": "724953",
+      "text": "Sarah Jones : My concern looking forward, this has spanned 30 years so it is not just Cressida that has been in charge that whole period, but the Met is a young workforce",
+      "type": "L",
+      "timestamp": "2021-06-24 20:17:18"
+    },
+    {
+      "nodeID": "724954",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2021-06-24 20:17:18",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "724955",
+      "text": "Sarah Jones' concern looking forward, this has spanned 30 years so it is not just Cressida that has been in charge that whole period, but the Met is a young workforce",
+      "type": "I",
+      "timestamp": "2021-06-24 20:17:18"
+    },
+    {
+      "nodeID": "724956",
+      "text": "Kamila: Sarah Jones : My concern looking forward, this has spanned 30 years so it is not just Cressida that has been in charge that whole period, but the Met is a young workforce",
+      "type": "L",
+      "timestamp": "2021-06-24 20:17:19"
+    },
+    {
+      "nodeID": "724957",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2021-06-24 20:17:19",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "724958",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2021-06-24 20:17:19",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "724959",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2021-06-24 20:17:19",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "724960",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2021-06-24 20:17:19",
+      "scheme": "Restating",
+      "schemeID": "101"
+    },
+    {
+      "nodeID": "724961",
+      "text": "Sarah Jones : They've worked incredibly hard over the last year",
+      "type": "L",
+      "timestamp": "2021-06-24 20:17:19"
+    },
+    {
+      "nodeID": "724962",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2021-06-24 20:17:19",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "724963",
+      "text": "the Met have worked incredibly hard over the last year",
+      "type": "I",
+      "timestamp": "2021-06-24 20:17:20"
+    },
+    {
+      "nodeID": "724964",
+      "text": "Kamila: Sarah Jones : They've worked incredibly hard over the last year",
+      "type": "L",
+      "timestamp": "2021-06-24 20:17:20"
+    },
+    {
+      "nodeID": "724965",
+      "text": "Sarah Jones : they have had a hard time and not much thanks for it",
+      "type": "L",
+      "timestamp": "2021-06-24 20:17:21"
+    },
+    {
+      "nodeID": "724966",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2021-06-24 20:17:21",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "724967",
+      "text": "they have had a hard time and not much thanks for it",
+      "type": "I",
+      "timestamp": "2021-06-24 20:17:21"
+    },
+    {
+      "nodeID": "724968",
+      "text": "Kamila: Sarah Jones : they have had a hard time and not much thanks for it",
+      "type": "L",
+      "timestamp": "2021-06-24 20:17:22"
+    },
+    {
+      "nodeID": "724969",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2021-06-24 20:17:22",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "724970",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2021-06-24 20:17:22",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "724971",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2021-06-24 20:17:22",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "724972",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2021-06-24 20:17:22",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "724973",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2021-06-24 20:17:22",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "724974",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2021-06-24 20:17:22",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "724975",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2021-06-24 20:17:22",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "930561",
+      "fromID": "724871",
+      "toID": "724872",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930562",
+      "fromID": "724870",
+      "toID": "724871",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930563",
+      "fromID": "724875",
+      "toID": "724876",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930564",
+      "fromID": "724874",
+      "toID": "724875",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930565",
+      "fromID": "724870",
+      "toID": "724878",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930566",
+      "fromID": "724878",
+      "toID": "724874",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930567",
+      "fromID": "724880",
+      "toID": "724881",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930568",
+      "fromID": "724879",
+      "toID": "724880",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930569",
+      "fromID": "724874",
+      "toID": "724883",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930570",
+      "fromID": "724883",
+      "toID": "724879",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930571",
+      "fromID": "724885",
+      "toID": "724886",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930572",
+      "fromID": "724884",
+      "toID": "724885",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930573",
+      "fromID": "724879",
+      "toID": "724888",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930574",
+      "fromID": "724888",
+      "toID": "724884",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930575",
+      "fromID": "724890",
+      "toID": "724891",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930576",
+      "fromID": "724889",
+      "toID": "724890",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930577",
+      "fromID": "724884",
+      "toID": "724893",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930578",
+      "fromID": "724893",
+      "toID": "724889",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930579",
+      "fromID": "724895",
+      "toID": "724896",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930580",
+      "fromID": "724894",
+      "toID": "724895",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930581",
+      "fromID": "724889",
+      "toID": "724898",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930582",
+      "fromID": "724898",
+      "toID": "724894",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930583",
+      "fromID": "724900",
+      "toID": "724901",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930584",
+      "fromID": "724899",
+      "toID": "724900",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930585",
+      "fromID": "724894",
+      "toID": "724903",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930586",
+      "fromID": "724903",
+      "toID": "724899",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930587",
+      "fromID": "724905",
+      "toID": "724906",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930588",
+      "fromID": "724904",
+      "toID": "724905",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930589",
+      "fromID": "724899",
+      "toID": "724908",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930590",
+      "fromID": "724908",
+      "toID": "724904",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930591",
+      "fromID": "724910",
+      "toID": "724911",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930592",
+      "fromID": "724909",
+      "toID": "724910",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930593",
+      "fromID": "724914",
+      "toID": "724915",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930594",
+      "fromID": "724913",
+      "toID": "724914",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930595",
+      "fromID": "724909",
+      "toID": "724917",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930596",
+      "fromID": "724917",
+      "toID": "724913",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930597",
+      "fromID": "724915",
+      "toID": "724918",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930598",
+      "fromID": "724918",
+      "toID": "724911",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930599",
+      "fromID": "724917",
+      "toID": "724919",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930600",
+      "fromID": "724919",
+      "toID": "724918",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930601",
+      "fromID": "724921",
+      "toID": "724922",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930602",
+      "fromID": "724920",
+      "toID": "724921",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930603",
+      "fromID": "724913",
+      "toID": "724924",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930604",
+      "fromID": "724924",
+      "toID": "724920",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930605",
+      "fromID": "724926",
+      "toID": "724927",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930606",
+      "fromID": "724925",
+      "toID": "724926",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930607",
+      "fromID": "724920",
+      "toID": "724929",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930608",
+      "fromID": "724929",
+      "toID": "724925",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930609",
+      "fromID": "724927",
+      "toID": "724930",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930610",
+      "fromID": "724930",
+      "toID": "724922",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930611",
+      "fromID": "724929",
+      "toID": "724931",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930612",
+      "fromID": "724931",
+      "toID": "724930",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930613",
+      "fromID": "724925",
+      "toID": "724933",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930614",
+      "fromID": "724934",
+      "toID": "724927",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930615",
+      "fromID": "724933",
+      "toID": "724935",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930616",
+      "fromID": "724935",
+      "toID": "724934",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930617",
+      "fromID": "724938",
+      "toID": "724939",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930618",
+      "fromID": "724937",
+      "toID": "724938",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930619",
+      "fromID": "724942",
+      "toID": "724943",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930620",
+      "fromID": "724941",
+      "toID": "724942",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930621",
+      "fromID": "724937",
+      "toID": "724945",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930622",
+      "fromID": "724945",
+      "toID": "724941",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930623",
+      "fromID": "724947",
+      "toID": "724948",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930624",
+      "fromID": "724946",
+      "toID": "724947",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930625",
+      "fromID": "724937",
+      "toID": "724950",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930626",
+      "fromID": "724950",
+      "toID": "724946",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930627",
+      "fromID": "724948",
+      "toID": "724951",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930628",
+      "fromID": "724951",
+      "toID": "724939",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930629",
+      "fromID": "724950",
+      "toID": "724952",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930630",
+      "fromID": "724952",
+      "toID": "724951",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930631",
+      "fromID": "724954",
+      "toID": "724955",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930632",
+      "fromID": "724953",
+      "toID": "724954",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930633",
+      "fromID": "724946",
+      "toID": "724957",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930634",
+      "fromID": "724957",
+      "toID": "724953",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930635",
+      "fromID": "724884",
+      "toID": "724958",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930636",
+      "fromID": "724958",
+      "toID": "724894",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930637",
+      "fromID": "724896",
+      "toID": "724959",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930638",
+      "fromID": "724959",
+      "toID": "724886",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930639",
+      "fromID": "724958",
+      "toID": "724960",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930640",
+      "fromID": "724960",
+      "toID": "724959",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930641",
+      "fromID": "724962",
+      "toID": "724963",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930642",
+      "fromID": "724961",
+      "toID": "724962",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930643",
+      "fromID": "724933",
+      "toID": "724961",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930644",
+      "fromID": "724963",
+      "toID": "724934",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930645",
+      "fromID": "724966",
+      "toID": "724967",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930646",
+      "fromID": "724965",
+      "toID": "724966",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930647",
+      "fromID": "724961",
+      "toID": "724969",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930648",
+      "fromID": "724969",
+      "toID": "724965",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930649",
+      "fromID": "724967",
+      "toID": "724970",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930650",
+      "fromID": "724970",
+      "toID": "724963",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930651",
+      "fromID": "724969",
+      "toID": "724971",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930652",
+      "fromID": "724971",
+      "toID": "724970",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930653",
+      "fromID": "724965",
+      "toID": "724972",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930654",
+      "fromID": "724972",
+      "toID": "724937",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930655",
+      "fromID": "724941",
+      "toID": "724973",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930656",
+      "fromID": "724973",
+      "toID": "724946",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930657",
+      "fromID": "724943",
+      "toID": "724974",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930658",
+      "fromID": "724974",
+      "toID": "724948",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930659",
+      "fromID": "724973",
+      "toID": "724975",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "930660",
+      "fromID": "724975",
+      "toID": "724974",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "724870",
+      "personID": "4150",
+      "timestamp": "2021-06-24 20:17:22",
+      "start": "2020-10-15 23:23:24",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "724874",
+      "personID": "4150",
+      "timestamp": "2021-06-24 20:17:22",
+      "start": "2020-10-15 23:23:27",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "724879",
+      "personID": "4150",
+      "timestamp": "2021-06-24 20:17:22",
+      "start": "2020-10-15 23:23:30",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "724884",
+      "personID": "4150",
+      "timestamp": "2021-06-24 20:17:22",
+      "start": "2020-10-15 23:23:36",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "724889",
+      "personID": "4150",
+      "timestamp": "2021-06-24 20:17:22",
+      "start": "2020-10-15 23:23:42",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "724894",
+      "personID": "4150",
+      "timestamp": "2021-06-24 20:17:22",
+      "start": "2020-10-15 23:23:50",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "724899",
+      "personID": "4150",
+      "timestamp": "2021-06-24 20:17:22",
+      "start": "2020-10-15 23:23:54",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "724904",
+      "personID": "4150",
+      "timestamp": "2021-06-24 20:17:22",
+      "start": "2020-10-15 23:23:58",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "724909",
+      "personID": "4150",
+      "timestamp": "2021-06-24 20:17:22",
+      "start": "2020-10-15 23:24:04",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "724913",
+      "personID": "4150",
+      "timestamp": "2021-06-24 20:17:22",
+      "start": "2020-10-15 23:24:12",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "724920",
+      "personID": "3812",
+      "timestamp": "2021-06-24 20:17:22",
+      "start": "2020-10-15 23:24:16",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "724925",
+      "personID": "4150",
+      "timestamp": "2021-06-24 20:17:22",
+      "start": "2020-10-15 23:24:20",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "724937",
+      "personID": "3812",
+      "timestamp": "2021-06-24 20:17:22",
+      "start": "2020-10-15 23:24:32",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "724941",
+      "personID": "4150",
+      "timestamp": "2021-06-24 20:17:22",
+      "start": "2020-10-15 23:24:40",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "724946",
+      "personID": "4150",
+      "timestamp": "2021-06-24 20:17:22",
+      "start": "2020-10-15 23:24:47",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "724953",
+      "personID": "4150",
+      "timestamp": "2021-06-24 20:17:22",
+      "start": "2020-10-15 23:24:58",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "724961",
+      "personID": "4150",
+      "timestamp": "2021-06-24 20:17:22",
+      "start": "2020-10-15 23:24:24",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "724965",
+      "personID": "4150",
+      "timestamp": "2021-06-24 20:17:22",
+      "start": "2020-10-15 23:24:28",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "724870",
+      "personID": "4150",
+      "timestamp": "2022-06-20 10:35:59",
+      "start": "2020-10-15 23:23:24",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "724874",
+      "personID": "4150",
+      "timestamp": "2022-06-20 10:35:59",
+      "start": "2020-10-15 23:23:27",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "724879",
+      "personID": "4150",
+      "timestamp": "2022-06-20 10:35:59",
+      "start": "2020-10-15 23:23:30",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "724884",
+      "personID": "4150",
+      "timestamp": "2022-06-20 10:35:59",
+      "start": "2020-10-15 23:23:36",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "724889",
+      "personID": "4150",
+      "timestamp": "2022-06-20 10:35:59",
+      "start": "2020-10-15 23:23:42",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "724894",
+      "personID": "4150",
+      "timestamp": "2022-06-20 10:35:59",
+      "start": "2020-10-15 23:23:50",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "724899",
+      "personID": "4150",
+      "timestamp": "2022-06-20 10:35:59",
+      "start": "2020-10-15 23:23:54",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "724904",
+      "personID": "4150",
+      "timestamp": "2022-06-20 10:35:59",
+      "start": "2020-10-15 23:23:58",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "724909",
+      "personID": "4150",
+      "timestamp": "2022-06-20 10:35:59",
+      "start": "2020-10-15 23:24:04",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "724913",
+      "personID": "4150",
+      "timestamp": "2022-06-20 10:35:59",
+      "start": "2020-10-15 23:24:12",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "724920",
+      "personID": "3812",
+      "timestamp": "2022-06-20 10:35:59",
+      "start": "2020-10-15 23:24:16",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "724925",
+      "personID": "4150",
+      "timestamp": "2022-06-20 10:35:59",
+      "start": "2020-10-15 23:24:20",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "724937",
+      "personID": "3812",
+      "timestamp": "2022-06-20 10:35:59",
+      "start": "2020-10-15 23:24:32",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "724941",
+      "personID": "4150",
+      "timestamp": "2022-06-20 10:35:59",
+      "start": "2020-10-15 23:24:40",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "724946",
+      "personID": "4150",
+      "timestamp": "2022-06-20 10:35:59",
+      "start": "2020-10-15 23:24:47",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "724953",
+      "personID": "4150",
+      "timestamp": "2022-06-20 10:35:59",
+      "start": "2020-10-15 23:24:58",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "724961",
+      "personID": "4150",
+      "timestamp": "2022-06-20 10:35:59",
+      "start": "2020-10-15 23:24:24",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "724965",
+      "personID": "4150",
+      "timestamp": "2022-06-20 10:35:59",
+      "start": "2020-10-15 23:24:28",
+      "end": null,
+      "source": null
+    }
+  ]
+}

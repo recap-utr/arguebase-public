@@ -1,0 +1,946 @@
+{
+  "nodes": [
+    {
+      "nodeID": "606694",
+      "text": "Fiona Bruce : our political editor Laura Kuenssberg is reporting that the negotiations are going less well",
+      "type": "L",
+      "timestamp": "2020-12-10 20:36:48"
+    },
+    {
+      "nodeID": "606695",
+      "text": "our political editor Laura Kuenssberg is reporting that the Brexit negotiations are going less well",
+      "type": "I",
+      "timestamp": "2020-12-10 20:36:48"
+    },
+    {
+      "nodeID": "606696",
+      "text": "Ella: Fiona Bruce : our political editor Laura Kuenssberg is reporting that the negotiations are going less well",
+      "type": "L",
+      "timestamp": "2020-12-10 20:36:48"
+    },
+    {
+      "nodeID": "606697",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2020-12-10 20:36:48",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "606698",
+      "text": "Laura Kuenssberg : the negotiations are going less well",
+      "type": "L",
+      "timestamp": "2020-12-10 20:36:49"
+    },
+    {
+      "nodeID": "606699",
+      "text": "Ella: Laura Kuenssberg : our political editor Laura Kuenssberg is reporting that the negotiations are going less well",
+      "type": "L",
+      "timestamp": "2020-12-10 20:36:49"
+    },
+    {
+      "nodeID": "606700",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2020-12-10 20:36:49",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "606701",
+      "text": "Fiona Bruce : the EU is throwing in a few new added things to be discussed",
+      "type": "L",
+      "timestamp": "2020-12-10 20:36:50"
+    },
+    {
+      "nodeID": "606702",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2020-12-10 20:36:50",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "606703",
+      "text": "the EU is throwing in a few new added things to be discussed",
+      "type": "I",
+      "timestamp": "2020-12-10 20:36:50"
+    },
+    {
+      "nodeID": "606704",
+      "text": "Ella: Fiona Bruce : the EU is throwing in a few new added things to be discussed",
+      "type": "L",
+      "timestamp": "2020-12-10 20:36:51"
+    },
+    {
+      "nodeID": "606705",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2020-12-10 20:36:51",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "606706",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2020-12-10 20:36:51",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "606707",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2020-12-10 20:36:51",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "606708",
+      "text": "Fiona Bruce : What light can you shed on that",
+      "type": "L",
+      "timestamp": "2020-12-10 20:36:51"
+    },
+    {
+      "nodeID": "606709",
+      "text": "Pure Questioning",
+      "type": "YA",
+      "timestamp": "2020-12-10 20:36:51",
+      "scheme": "PureQuestioning",
+      "schemeID": "91"
+    },
+    {
+      "nodeID": "606710",
+      "text": "xxx is the light Michelle Donelan can shed on Brexit negotiations",
+      "type": "I",
+      "timestamp": "2020-12-10 20:36:51"
+    },
+    {
+      "nodeID": "606711",
+      "text": "Ella: Fiona Bruce : What light can you shed on that",
+      "type": "L",
+      "timestamp": "2020-12-10 20:36:52"
+    },
+    {
+      "nodeID": "606712",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2020-12-10 20:36:52",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "606713",
+      "text": "Michelle Donelan : Laura\u2019s not in the negotiations, neither am I",
+      "type": "L",
+      "timestamp": "2020-12-10 20:36:52"
+    },
+    {
+      "nodeID": "606714",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2020-12-10 20:36:52",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "606715",
+      "text": "Laura Kuenssberg is not in the Brexit negotiations, neither is Michelle Donelan",
+      "type": "I",
+      "timestamp": "2020-12-10 20:36:53"
+    },
+    {
+      "nodeID": "606716",
+      "text": "Ella: Michelle Donelan : Laura\u2019s not in the negotiations, neither am I",
+      "type": "L",
+      "timestamp": "2020-12-10 20:36:53"
+    },
+    {
+      "nodeID": "606717",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2020-12-10 20:36:53",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "606718",
+      "text": "Fiona Bruce : I was just wondering if -- what you can tell us about that",
+      "type": "L",
+      "timestamp": "2020-12-10 20:36:53"
+    },
+    {
+      "nodeID": "606719",
+      "text": "Pure Questioning",
+      "type": "YA",
+      "timestamp": "2020-12-10 20:36:53",
+      "scheme": "PureQuestioning",
+      "schemeID": "91"
+    },
+    {
+      "nodeID": "606720",
+      "text": "xxx is what Michelle Donelan can tell us about Brexit negotiations",
+      "type": "I",
+      "timestamp": "2020-12-10 20:36:54"
+    },
+    {
+      "nodeID": "606721",
+      "text": "Ella: Fiona Bruce : I was just wondering if -- what you can tell us about that",
+      "type": "L",
+      "timestamp": "2020-12-10 20:36:54"
+    },
+    {
+      "nodeID": "606722",
+      "text": "Michelle Donelan : We\u2019ll find out over the coming days exactly what\u2019s happening",
+      "type": "L",
+      "timestamp": "2020-12-10 20:36:55"
+    },
+    {
+      "nodeID": "606723",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2020-12-10 20:36:55",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "606724",
+      "text": "we\u2019ll find out over the coming days exactly what\u2019s happening with Brexit negotiations",
+      "type": "I",
+      "timestamp": "2020-12-10 20:36:55"
+    },
+    {
+      "nodeID": "606725",
+      "text": "Ella: Michelle Donelan : We\u2019ll find out over the coming days exactly what\u2019s happening",
+      "type": "L",
+      "timestamp": "2020-12-10 20:36:56"
+    },
+    {
+      "nodeID": "606726",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2020-12-10 20:36:56",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "606727",
+      "text": "Michelle Donelan : We have been very clear throughout this",
+      "type": "L",
+      "timestamp": "2020-12-10 20:36:56"
+    },
+    {
+      "nodeID": "606728",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2020-12-10 20:36:56",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "606729",
+      "text": "we have been very clear throughout Brexit negotiations",
+      "type": "I",
+      "timestamp": "2020-12-10 20:36:56"
+    },
+    {
+      "nodeID": "606730",
+      "text": "Ella: Michelle Donelan : We have been very clear throughout this",
+      "type": "L",
+      "timestamp": "2020-12-10 20:36:57"
+    },
+    {
+      "nodeID": "606731",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2020-12-10 20:36:57",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "606732",
+      "text": "Michelle Donelan : whether we get a deal or not we\u2019re going to make a success of this",
+      "type": "L",
+      "timestamp": "2020-12-10 20:36:57"
+    },
+    {
+      "nodeID": "606733",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2020-12-10 20:36:57",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "606734",
+      "text": "whether we get a Brexit deal or not we\u2019re going to make a success of Brexit",
+      "type": "I",
+      "timestamp": "2020-12-10 20:36:58"
+    },
+    {
+      "nodeID": "606735",
+      "text": "Ella: Michelle Donelan : whether we get a deal or not we\u2019re going to make a success of this",
+      "type": "L",
+      "timestamp": "2020-12-10 20:36:58"
+    },
+    {
+      "nodeID": "606736",
+      "text": "Ella: Michelle Donelan : I don be it is helpful talking all the time about the withdrawal agreement",
+      "type": "L",
+      "timestamp": "2020-12-10 20:36:58"
+    },
+    {
+      "nodeID": "606737",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2020-12-10 20:36:58",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "606738",
+      "text": "Michelle Donelan : I don be it is helpful talking all the time about the withdrawal agreement",
+      "type": "L",
+      "timestamp": "2020-12-10 20:36:59"
+    },
+    {
+      "nodeID": "606739",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2020-12-10 20:36:59",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "606740",
+      "text": "it is not helpful talking all the time about the withdrawal agreement",
+      "type": "I",
+      "timestamp": "2020-12-10 20:36:59"
+    },
+    {
+      "nodeID": "606741",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2020-12-10 20:37:00",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "606742",
+      "text": "Fiona Bruce : That\u2019s not a trade deal",
+      "type": "L",
+      "timestamp": "2020-12-10 20:37:00"
+    },
+    {
+      "nodeID": "606743",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2020-12-10 20:37:00",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "606744",
+      "text": "that\u2019s not a trade deal",
+      "type": "I",
+      "timestamp": "2020-12-10 20:37:01"
+    },
+    {
+      "nodeID": "606745",
+      "text": "Ella: Fiona Bruce : That\u2019s not a trade deal",
+      "type": "L",
+      "timestamp": "2020-12-10 20:37:01"
+    },
+    {
+      "nodeID": "606746",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2020-12-10 20:37:01",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "606747",
+      "text": "Ella: Michelle Donelan : I think we\u2019re always harking back to where we were a while ago",
+      "type": "L",
+      "timestamp": "2020-12-10 20:37:01"
+    },
+    {
+      "nodeID": "606748",
+      "text": "Michelle Donelan : we\u2019re always harking back to where we were a while ago",
+      "type": "L",
+      "timestamp": "2020-12-10 20:37:02"
+    },
+    {
+      "nodeID": "606749",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2020-12-10 20:37:02",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "606750",
+      "text": "we\u2019re always harking back to where we were a while ago",
+      "type": "I",
+      "timestamp": "2020-12-10 20:37:03"
+    },
+    {
+      "nodeID": "606751",
+      "text": "Ella: Michelle Donelan : we\u2019re always harking back to where we were a while ago",
+      "type": "L",
+      "timestamp": "2020-12-10 20:37:03"
+    },
+    {
+      "nodeID": "606752",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2020-12-10 20:37:03",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "606753",
+      "text": "Michelle Donelan : This no deal rhetoric, really",
+      "type": "L",
+      "timestamp": "2020-12-10 20:37:04"
+    },
+    {
+      "nodeID": "606754",
+      "text": "Asserting",
+      "type": "YA",
+      "timestamp": "2020-12-10 20:37:04",
+      "scheme": "Asserting",
+      "schemeID": "74"
+    },
+    {
+      "nodeID": "606755",
+      "text": "harking back to where we were a while ago is no deal rhetoric, really",
+      "type": "I",
+      "timestamp": "2020-12-10 20:37:04"
+    },
+    {
+      "nodeID": "606756",
+      "text": "Ella: Michelle Donelan : This no deal rhetoric, really",
+      "type": "L",
+      "timestamp": "2020-12-10 20:37:04"
+    },
+    {
+      "nodeID": "606757",
+      "text": "Default Inference",
+      "type": "RA",
+      "timestamp": "2020-12-10 20:37:04",
+      "scheme": "Default Inference",
+      "schemeID": "72"
+    },
+    {
+      "nodeID": "606758",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2020-12-10 20:37:04",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "606759",
+      "text": "Arguing",
+      "type": "YA",
+      "timestamp": "2020-12-10 20:37:04",
+      "scheme": "Arguing",
+      "schemeID": "80"
+    },
+    {
+      "nodeID": "606760",
+      "text": "Default Rephrase",
+      "type": "MA",
+      "timestamp": "2020-12-10 20:37:04",
+      "scheme": "Default Rephrase",
+      "schemeID": "144"
+    },
+    {
+      "nodeID": "606761",
+      "text": "Default Transition",
+      "type": "TA",
+      "timestamp": "2020-12-10 20:37:04",
+      "scheme": "Default Transition",
+      "schemeID": "82"
+    },
+    {
+      "nodeID": "606762",
+      "text": "Restating",
+      "type": "YA",
+      "timestamp": "2020-12-10 20:37:04",
+      "scheme": "Restating",
+      "schemeID": "101"
+    }
+  ],
+  "edges": [
+    {
+      "edgeID": "785665",
+      "fromID": "606697",
+      "toID": "606695",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785666",
+      "fromID": "606698",
+      "toID": "606697",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785667",
+      "fromID": "606694",
+      "toID": "606700",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785668",
+      "fromID": "606700",
+      "toID": "606698",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785669",
+      "fromID": "606702",
+      "toID": "606703",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785670",
+      "fromID": "606701",
+      "toID": "606702",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785671",
+      "fromID": "606694",
+      "toID": "606705",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785672",
+      "fromID": "606705",
+      "toID": "606701",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785673",
+      "fromID": "606703",
+      "toID": "606706",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785674",
+      "fromID": "606706",
+      "toID": "606695",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785675",
+      "fromID": "606705",
+      "toID": "606707",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785676",
+      "fromID": "606707",
+      "toID": "606706",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785677",
+      "fromID": "606709",
+      "toID": "606710",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785678",
+      "fromID": "606708",
+      "toID": "606709",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785679",
+      "fromID": "606701",
+      "toID": "606712",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785680",
+      "fromID": "606712",
+      "toID": "606708",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785681",
+      "fromID": "606714",
+      "toID": "606715",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785682",
+      "fromID": "606713",
+      "toID": "606714",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785683",
+      "fromID": "606708",
+      "toID": "606717",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785684",
+      "fromID": "606717",
+      "toID": "606713",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785685",
+      "fromID": "606719",
+      "toID": "606720",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785686",
+      "fromID": "606718",
+      "toID": "606719",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785687",
+      "fromID": "606723",
+      "toID": "606724",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785688",
+      "fromID": "606722",
+      "toID": "606723",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785689",
+      "fromID": "606718",
+      "toID": "606726",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785690",
+      "fromID": "606726",
+      "toID": "606722",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785691",
+      "fromID": "606728",
+      "toID": "606729",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785692",
+      "fromID": "606727",
+      "toID": "606728",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785693",
+      "fromID": "606722",
+      "toID": "606731",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785694",
+      "fromID": "606731",
+      "toID": "606727",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785695",
+      "fromID": "606733",
+      "toID": "606734",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785696",
+      "fromID": "606732",
+      "toID": "606733",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785697",
+      "fromID": "606727",
+      "toID": "606737",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785698",
+      "fromID": "606737",
+      "toID": "606732",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785699",
+      "fromID": "606739",
+      "toID": "606740",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785700",
+      "fromID": "606738",
+      "toID": "606739",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785701",
+      "fromID": "606732",
+      "toID": "606741",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785702",
+      "fromID": "606741",
+      "toID": "606738",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785703",
+      "fromID": "606743",
+      "toID": "606744",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785704",
+      "fromID": "606742",
+      "toID": "606743",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785705",
+      "fromID": "606738",
+      "toID": "606746",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785706",
+      "fromID": "606746",
+      "toID": "606742",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785707",
+      "fromID": "606749",
+      "toID": "606750",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785708",
+      "fromID": "606748",
+      "toID": "606749",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785709",
+      "fromID": "606742",
+      "toID": "606752",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785710",
+      "fromID": "606752",
+      "toID": "606748",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785711",
+      "fromID": "606754",
+      "toID": "606755",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785712",
+      "fromID": "606753",
+      "toID": "606754",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785713",
+      "fromID": "606755",
+      "toID": "606757",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785714",
+      "fromID": "606757",
+      "toID": "606750",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785715",
+      "fromID": "606748",
+      "toID": "606758",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785716",
+      "fromID": "606758",
+      "toID": "606753",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785717",
+      "fromID": "606758",
+      "toID": "606759",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785718",
+      "fromID": "606759",
+      "toID": "606757",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785719",
+      "fromID": "606720",
+      "toID": "606760",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785720",
+      "fromID": "606760",
+      "toID": "606710",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785721",
+      "fromID": "606708",
+      "toID": "606761",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785722",
+      "fromID": "606761",
+      "toID": "606718",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785723",
+      "fromID": "606761",
+      "toID": "606762",
+      "formEdgeID": null
+    },
+    {
+      "edgeID": "785724",
+      "fromID": "606762",
+      "toID": "606760",
+      "formEdgeID": null
+    }
+  ],
+  "locutions": [
+    {
+      "nodeID": "606694",
+      "personID": "3812",
+      "timestamp": "2020-12-10 20:37:05",
+      "start": "2020-10-15 22:32:36",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "606698",
+      "personID": "4168",
+      "timestamp": "2020-12-10 20:37:05",
+      "start": null,
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "606701",
+      "personID": "3812",
+      "timestamp": "2020-12-10 20:37:05",
+      "start": "2020-10-15 22:32:42",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "606708",
+      "personID": "3812",
+      "timestamp": "2020-12-10 20:37:05",
+      "start": "2020-10-15 22:32:45",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "606713",
+      "personID": "4149",
+      "timestamp": "2020-12-10 20:37:05",
+      "start": "2020-10-15 22:32:49",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "606718",
+      "personID": "3812",
+      "timestamp": "2020-12-10 20:37:05",
+      "start": "2020-10-15 22:32:52",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "606722",
+      "personID": "4149",
+      "timestamp": "2020-12-10 20:37:05",
+      "start": "2020-10-15 22:32:56",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "606727",
+      "personID": "4149",
+      "timestamp": "2020-12-10 20:37:05",
+      "start": "2020-10-15 22:33:00",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "606732",
+      "personID": "4149",
+      "timestamp": "2020-12-10 20:37:05",
+      "start": "2020-10-15 22:33:04",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "606738",
+      "personID": "4149",
+      "timestamp": "2020-12-10 20:37:05",
+      "start": "2020-10-15 22:33:10",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "606742",
+      "personID": "3812",
+      "timestamp": "2020-12-10 20:37:05",
+      "start": "2020-10-15 22:33:12",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "606748",
+      "personID": "4149",
+      "timestamp": "2020-12-10 20:37:05",
+      "start": "2020-10-15 22:33:15",
+      "end": null,
+      "source": null
+    },
+    {
+      "nodeID": "606753",
+      "personID": "4149",
+      "timestamp": "2020-12-10 20:37:05",
+      "start": "2020-10-15 22:33:20",
+      "end": null,
+      "source": null
+    }
+  ]
+}
