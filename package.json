@@ -3,7 +3,7 @@
     "format": "prettier --write ."
   },
   "devDependencies": {
-    "@prettier/plugin-xml": "^2.2.0",
+    "@prettier/plugin-xml": "^3.0.0",
     "prettier": "^3.0.0"
   }
 }
